@@ -202,8 +202,8 @@ Well, 像对待普通异性恋那样就好了。 :@(无所谓)
 |-----------------|----------------------------------------|
 | Filename        | github_LGBTQIA-in-Chinapostlgbt-pride-by-eltrac.md_at_master_-_GitHub.md                             |
 | Size            | 31923 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22                             |
+| Original Link   | [Unknown link(update needed)]                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

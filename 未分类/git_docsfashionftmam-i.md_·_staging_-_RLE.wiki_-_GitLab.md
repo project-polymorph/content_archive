@@ -129,8 +129,8 @@ WPATH 提供了许多医疗机构（包括保险公司）在为跨性别者、�
 |-----------------|----------------------------------------|
 | Filename        | git_docsfashionftmam-i.md_·_staging_-_RLE.wiki_-_GitLab.md                             |
 | Size            | 6776 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22                             |
+| Original Link   | [Unknown link(update needed)]                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

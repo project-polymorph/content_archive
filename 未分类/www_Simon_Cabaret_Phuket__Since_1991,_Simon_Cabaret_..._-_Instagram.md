@@ -73,8 +73,8 @@ Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast
 |-----------------|----------------------------------------|
 | Filename        | www_Simon_Cabaret_Phuket__Since_1991,_Simon_Cabaret_..._-_Instagram.md                             |
 | Size            | 6861 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22                             |
+| Original Link   | [Unknown link(update needed)]                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2024-09-06                                 |
