@@ -126,7 +126,7 @@ _作者 Jaclynn Joyce，是一個出生在夏威夷目前定居台灣的博士�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了台湾性别认同立法的现状，强调了自我认同者在法律上改变性别的权利与社会讨论的复杂性。文章中的主要观点是，机械地将个人的性别认同视为社会和法律层面的事实是一种特权，对女性空间的影响需受到重视。文件提到2021年9月台北高等行政法院的判决，允许一名自我认同为女性的男性在未接受手术的情况下更改法律性别，标志着台湾在性别认同立法上的一步重大进展。然而，作者指出这种变化没有充分考虑到对生理女性的潜在危害，特别是在涉及女性专属空间时的法律与社会问题。文中引用了历史上的几个关键时刻，分析了自我认同的法律标准及其带来的争 debated，还提到了一些公共调查设置，暗示了政府在性别认同问题上的倾向性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -139,10 +139,10 @@ _作者 Jaclynn Joyce，是一個出生在夏威夷目前定居台灣的博士�
 | Size            | 16625 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Jaclynn Joyce                               |
+| Region          | 台湾                               |
+| Date            | 2021-10-14                                 |
+| Tags            | 性别认同, 立法, 跨性别, 社会运动, 人权, 女性权益, 性别权利, 法律政策, 公共讨论, 台湾                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

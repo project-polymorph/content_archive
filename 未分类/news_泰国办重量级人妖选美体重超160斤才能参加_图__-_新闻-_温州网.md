@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一场在泰国清迈举办的人妖选美比赛，特别强调了参赛者需体重超过80公斤。此次活动吸引了32名超重的参赛者，最终获胜者为一位体重135公斤的25岁女性。比赛旨在推动社会对不同体态的接受，促进健康与自信的观念。虽然人妖文化在泰国旅游业中占有重要地位，但背后也折射出复杂的社会问题，如社会对人妖的看法与心理需求的差异。报道引发了对多样性美的讨论，认为这种选美活动是对抗西方单一审美观的积极努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 2473 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 温州网                               |
+| Region          | 泰国                               |
+| Date            | 2016-04-21                                 |
+| Tags            | 人妖选美, 多元性别, 泰国文化, 社会接受度, 身体积极性, 新闻报道, 性别表现, 选美比赛, 体态多样性, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

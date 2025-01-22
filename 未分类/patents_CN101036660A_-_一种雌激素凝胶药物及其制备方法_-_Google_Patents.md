@@ -162,7 +162,7 @@ Pending
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了一种新型雌激素凝胶药物及其制备方法，旨在为雌激素水平低下的患者提供一种安全、有效、经济的治疗方案。雌激素在骨代谢中发挥重要保护作用，而绝经期妇女或病理状态下，体内雌激素分泌减少，导致一系列的内分泌紊乱症状，如潮热、失眠、出汗等。文件中详细介绍了药物的组成，包括雌二醇、乙醇、丙二醇等，及其制备过程。这种凝胶剂通过皮肤吸收，避免肝脏首过效应，配方简单，且具有较高的生物利用度和低副作用，适合长期使用。文中还提到产品的适用性，生产工艺，临床试验结果以及其优点，如剂量控制简单和无刺激性等。此外，文件列出了相关的法律事件和专利申请状态，提供了该药物的研发背景，能够帮助相关研发人员和用户更好地理解和应用该产品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -175,10 +175,10 @@ Pending
 | Size            | 9744 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-09-19                                 |
+| Tags            | 雌激素, 药物制剂, 医学研究, 凝胶药物, 绝经期, 生物利用度, 药物安全性, 内分泌紊乱, 临床试验, 药物开发                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

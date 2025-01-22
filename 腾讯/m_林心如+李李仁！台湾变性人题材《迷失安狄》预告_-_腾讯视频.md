@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为台湾变性人题材的预告片，名为《迷失安狄》，由知名演员林心如和李李仁出演。本预告片展示了变性人在社会中面临的挑战与自我认同的艰难过程，旨在引发观众对多元性别的关注与理解。作品通过视觉与听觉的结合，展现了变性人群体的多样化生活与情感。此预告片通过腾讯视频平台发布，作为对变性人经历的艺术表达，希望引导公众对该议题进行更多的讨论与反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@
 | Size            | 598 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 变性人, 台湾影视, 社会挑战, 性别认同, 性别多样性, 心理健康, 文化表现, 影视预告, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

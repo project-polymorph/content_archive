@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了男性变性手术的相关信息，包括手术的风险与痛苦、手术后的激素治疗、以及法律和医疗规定等内容。变性手术被描述为一项复杂且严肃的医疗过程，潜在的长期副作用和风险不容忽视。内容还提及了变性手术的适应症与禁忌，例如，建议年龄在25岁以上的男性可以考虑手术，而14岁的青少年则不适合进行此类手术，主要是考虑到身体及心理的成熟度。文章强调了前期激素治疗的必要性以及术后需要长期的激素补充治疗，并提醒读者应谨慎选择正规的医疗机构进行手术，以保障手术的安全性和效果。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,10 +65,10 @@
 | Size            | 3721 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 男性转女性, 医疗科普, 激素治疗, 生命故事, 手术风险, 法律政策, 心理健康, 女性荷尔蒙, 长期副作用                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

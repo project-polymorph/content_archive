@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讲述了变性美女陈莉莉的生活与情感经历。她正在准备进行第三次整形手术，主要目的是为了尽可能完美地展现女性形象，从而寻求婚姻和家庭的稳定。陈莉莉身高1.73米，体重55公斤，她在事业上也取得了一定的成就，曾在以变性人题材的电影《隐私》中担任主角，并正在拍摄古装戏。尽管因整形手术获得了很多关注和追捧，陈莉莉内心深处最大的渴望依然是组成一个家庭。她曾因情感问题而自杀，如今通过媒体寻求人生伴侣，希望能够生育孩子。她提到现代科技为她成为母亲提供了更大的可能性，这反映了变性人群体在情感和生育方面的追求与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,10 +45,10 @@
 | Size            | 1758 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 李雅                               |
+| Region          | 福州, 中国                               |
+| Date            | 2005-12-02                                 |
+| Tags            | 变性人, 婚姻, 情感经历, 整形手术, 家庭, 现代科技, 电影, 福州, 生育问题, 社会关注                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

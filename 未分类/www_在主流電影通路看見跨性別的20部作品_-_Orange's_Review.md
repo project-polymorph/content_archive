@@ -109,7 +109,7 @@
 
 ---
 
-Copyright © 2025 [Orange's Review](https://www.orange-review.com/) | Powered by [Blogger](//www.blogger.com/) 
+Copyright © 2025 [Orange's Review](https://www.orange-review.com/) | Powered by [Blogger](https://www.blogger.com/) 
 
 本著作係採用[創用 CC 姓名標示-非商業性-禁止改作 2.5 台灣 授權條款](http://creativecommons.org/licenses/by-nc-nd/2.5/tw/)授權.
 <!-- tcd_original_link https://www.orange-review.com/2017/05/20.html -->

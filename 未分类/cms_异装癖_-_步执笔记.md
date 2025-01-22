@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件《异装癖 - 步执笔记》包含了多篇与异装癖相关的小说，展示了各种关于性别表达与身份的复杂情感与故事。每个故事都探讨了不同角色之间的关系，涉及异装癖者的内心世界、社会认同和情感纠葛。文中包括了几篇短小说，例如《西装裤下的裙子》，讲述了一个懵懂小白兔与狠角色的爱情故事；《白日梦之家》探讨了一名男子对女式睡裙的迷恋及其复杂的心理状况；《被迫负责》则揭示了伪直男与一个拥有异装癖的男子之间的爱情事故。这些故事不仅仅是情感的描绘，也反映了多元性别的生存现实与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@
 | Size            | 3814 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-07-25                                 |
+| Tags            | 异装癖, 多元性别, 性别表达, 爱情故事, 身份认同, 社会关系, 情感纠葛, 短篇小说, 文化表达, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

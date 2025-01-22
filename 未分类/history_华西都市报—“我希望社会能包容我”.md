@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自华西都市报，讲述了道德模范刘霆的变性故事。刘霆从小就感到自己是一个女孩，但由于家庭和社会的压力，他一直压抑自己的性别认同。文章中描述了刘霆的成长经历、与父母的关系以及他逐渐意识到自己身份的过程。2014年，刘霆决定进行变性手术，获得了母亲的支持并向医生寻求心理健康建议。文中提及他所面临的内心挣扎，以及如何勇敢面对新的生活。他的故事反映了社会对跨性别者的认知和包容度，并提出了诸如“我希望社会能包容我”的呼声。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,10 +64,10 @@
 | Size            | 4443 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 华西都市报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-08-19                                 |
+| Tags            | 多元性别, 跨性别, 变性手术, 刘霆, 性别认同, 道德模范, 社会包容, 生命故事, 心理健康, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

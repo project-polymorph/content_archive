@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是关于跨性别男演员若林佑马的个人档案，详细介绍了他的基本信息、生平经历和艺术创作历程。若林佑马于1991年11月5日出生于日本兵库县，成长在大阪，现为跨性别男，身份认同为男性。档案中提到他在同志社大学学习表演，并贯穿了他后来的演艺事业与多个领域的贡献，包括参与电视剧、舞台剧、媒体节目以及演讲等。若林在2022年参演东京电视台的电视剧《Chaser Game》，并在多个LGBTQ+活动中积极参与。他的社交媒体上有较多关注者，体现出其在公众中的影响力。档案中还包括了他的主要作品、活动和媒体报道，展示了他在艺术领域和社会活动中的多元角色。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -113,10 +113,10 @@
 | Size            | 4601 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 若林佑马, 演员, 性别多样性, LGBTQ+, 东京电视台, 个人档案, 文化活动, 演艺事业, 社会影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

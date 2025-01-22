@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了变性人陈莉莉在福州进行整形手术的经历与背景。陈莉莉原名陈勇军，在2003年完成了男变女的变性手术。文章开头提到她在2005年11月30日接受了媒体采访，分享了即将进行的左颧骨和胸部整形手术，目标是进一步完善女性特征。陈莉莉身高173厘米，体重55公斤，来自四川南充市仪陇县，她对于自己追求女性外貌的决心在会谈中被强调。文中还包括多个陈莉莉在接受检查和采访时的照片，展示了她积极追求自我认同和生存状态的真实记录。此类事件不仅是个人的转变，也反映了社会对变性人的关注和对多元性别的包容性逐渐提高。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@
 | Size            | 1236 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 搜狐新闻中心                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-12-01                                 |
+| Tags            | 变性, 陈莉莉, 整形手术, 福州, 性别认同, 生命故事, 媒体报道, 女性特征, 公开采访, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -64,7 +64,7 @@ Copyright Nature Publishing Group Nov 2006
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了睾酮对女性转性者体内脂联素水平的影响。研究类型为临床研究，涉及16名女性转性者。在基线和治疗6个月后，测量了包括脂联素在内的多种激素水平和身体成分。结果表明，治疗后脂联素的水平显著下降，从16.9 mg/mL降至13.5 mg/mL，且伴随着其他生理指标的变化，如瘦体重和BMI增加。该研究发表在《亚洲男科学杂志》上，为理解睾酮如何影响女性转性者的生理变化提供了重要的科学依据。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,10 +77,10 @@ Copyright Nature Publishing Group Nov 2006
 | Size            | 3084 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Marta Berra, Francesca Armillotta, Laura D'Emidio, Antonietta Costantino, Giuseppe Martorana, Giuseppe Pelusi, Maria Cristina Meriggiola                               |
+| Region          | 澳大利亚                               |
+| Date            | 2006-11                                 |
+| Tags            | 睾酮, 脂联素, 转性者, 临床研究, 药物治疗, 身体成分, 激素水平, 女性转性者, 男科学, 亚洲男科学杂志                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

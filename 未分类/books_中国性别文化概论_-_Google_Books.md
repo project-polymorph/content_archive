@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《中国性别文化概论》一书是由吕红平、丁娟和包芳编辑的综合性著作，出版于2011年，并由中国人口出版社发行。该书共有363页，系统回顾和探讨了中国的性别文化。这本书的内容涵盖多个方面，包括性别文化的历史发展、先进性别文化的构建意义以及性别文化在大众传媒、婚恋家庭、健康和就业领域的体现。每一章节都是围绕不同的主题展开，使读者能获得全面的性别文化知识。书中结合了近年来的研究成果，也可能包含历史资料，反映出多元性别视角下的社会变迁和当代中国性别现状。这是对性别文化的深入分析，也是对当前性别议题的探讨和思考。这本书适合学者、学生以及对性别文化感兴趣的读者阅读与参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 1395 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吕红平, 丁娟, 包芳 (编辑)                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-01-01                                 |
+| Tags            | 性别文化, 性别身份, 婚恋家庭, 大众传媒, 健康, 就业, 社会变迁, 多元性别, 法律政策, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了新西兰举重选手劳蕾尔·哈伯德（Laurel Hubbard）即将代表新西兰参加东京奥运会的消息。作为43岁的变性人运动员，哈伯德将成为新西兰历史上第一位以变性人身份参加奥运会的选手，同时也是全球奥运会历史上首位以变性人身份参赛的运动员。文章详细介绍了哈伯德的过往成就，包括在1998年时创造的新西兰男子举重青年纪录，以及在她变性后参与的女子举重比赛中的表现。尽管哈伯德符合国际奥委会的条件，参与奥运会的消息依然引发了争议，许多女运动员对其参赛的公平性表示担忧。文章还引用了新西兰奥委会首席执行官的回应，指出变性人参赛问题复杂，涉及权利与公平竞争的平衡。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 1636 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 郭磊 卢怀谦                               |
+| Region          | 新西兰                               |
+| Date            | 2021-06-22                                 |
+| Tags            | 哈伯德, 东京奥运会, 变性人, 举重, 体育, 性别身份, 包容性, 公平竞争, 生命故事, 运动员成就                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![AME医学，最前沿医学知识，最实用科研干货，最独到学术见解](//cdn.amegroups.cn/febook/latest/static/img/logo_blue.5522801.png)
+![AME医学，最前沿医学知识，最实用科研干货，最独到学术见解](https://cdn.amegroups.cn/febook/latest/static/img/logo_blue.5522801.png)
 
 ### 本书概览
 
-![本书概览](data:image/png;base64,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)
+[本书概览]
 
 ![致谢 | 参编《变性患者的泌尿系统疾病管理》的学术工作者](https://cdn.amegroups.cn/ebook/public/article/April2020/GAnLX8tnIA9xC49UCfg9.png/wp300)
 
@@ -40,7 +40,7 @@ Copyright © 2009-2025 AME Publishing Company. All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《变性患者的泌尿系统疾病管理》的专题概要，内容涉及变性患者在泌尿系统疾病管理方面的最新研究和实用建议。文件中提到，变性手术包括阴道再造术和阴茎再造术，术后患者经历的生理与心理变化，以及泌尿外科治疗在变性手术中的重要性和挑战。此外，文中强调了性别确认手术与心理健康之间的联系，指出在手术后的愈合与适应过程中，患者的生活质量得到了显著改善，但依然面临无生育能力的情况。专刊的目标是为医疗工作者提供变性患者的全面管理指导，从而提升相关治疗的有效性与安全性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@ Copyright © 2009-2025 AME Publishing Company. All rights reserved.
 | Size            | 7163 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | AME Publishing Company                               |
+| Region          | 未知                               |
+| Date            | 2020-04-01                                 |
+| Tags            | 变性患者, 泌尿系统疾病, 性别确认手术, 医学管理, 心理健康, 生活质量, 医疗资源, 手术技术, 变性手术, AME出版社                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

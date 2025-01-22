@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《纠正上帝的错误》是吴兴人于2005年出版的一本书，旨在探讨变性人所经历的复杂现实与历史背景。书中通过作者15年来对变性人世界的深入研究，详细记录了中国首例易性手术的相关故事和实践，尤其聚焦于何清濂教授在易性手术领域的开创性工作，并结合社会、心理和医学的角度对易性病的成因进行分析。全书既有大量的第一手资料，如患者与医生的信件和访谈，也包括了对社会观念变化的反思。吴兴人对于变性人的生存状态和社会认知提供了深度的观察和思考，促使读者对性别多样性有更深刻的理解和同情。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 4162 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吴兴人                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-08-01                                 |
+| Tags            | 变性人, 易性手术, 性别多样性, 社会环境, 医学, 心理学, 法律政策, 吴兴人, 性别认同, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

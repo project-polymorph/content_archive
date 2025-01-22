@@ -7,7 +7,7 @@
 **作者** LaterLife\_往后余生  
 **收录于文集** 心理学科普 · 81篇  
 
-![头像](//i2.hdslb.com/bfs/face/197dd1f31caec71e1f3efe26581853bebddc22ea.jpg@96w_96h_1c_1s.webp)
+![头像](https://i2.hdslb.com/bfs/face/197dd1f31caec71e1f3efe26581853bebddc22ea.jpg@96w_96h_1c_1s.webp)
 
 ---
 

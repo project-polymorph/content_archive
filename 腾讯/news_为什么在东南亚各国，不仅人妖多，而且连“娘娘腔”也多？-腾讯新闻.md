@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于东南亚地区性别多样性的新闻报道，作者是刘小顺，发表于2023年11月30日，来源为腾讯新闻。本文探讨了东南亚国家（如泰国、菲律宾、柬埔寨、马来西亚、印尼等）的人妖文化及其背后的社会和文化原因。作品提出，过去对于人妖的理解常将其与贫穷联系在一起，而作者通过深入旅游发现，很多人妖其实是自愿选择这一身份。文章还提到东南亚男性的性别表现，包括异装癖和“娘娘腔”的现象，探讨了这种文化现象的根源。文中还放置了多张相关图片，包括人妖表演，增强了内容的直观性和趣味性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 3077 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘小顺                               |
+| Region          | 东南亚                               |
+| Date            | 2023-11-30                                 |
+| Tags            | 东南亚, 人妖, 娘娘腔, 文化, 性别多样性, 异装癖, 旅游, 社会调查, 性别认同, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

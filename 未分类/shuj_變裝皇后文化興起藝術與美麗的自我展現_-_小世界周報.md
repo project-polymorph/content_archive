@@ -124,7 +124,7 @@ Drag Queen在台灣參與Ballroom的活動照。照片提供／洪夢瑤
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了近年来在台湾兴起的变装皇后文化，强调了变装皇后如何在LGBTQ文化中扮演重要角色。通过色彩斑斓的服装和表演，变装皇后成为同志活动的焦点，展示了一种艺术与美的自我表现。文章中提到，变装皇后的表演包括走秀（Runway）和对嘴（Lip Sync），并详细描述了Ballroom文化与变装皇后文化的区别，指出台湾对变装皇后文化的认知逐渐上升，并吸引到了越来越多的参与者。尽管与国际相比，台湾的变装皇后活动仍显小众，但现在的社会对这一文化的接受度已经显著提高。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -137,10 +137,10 @@ Drag Queen在台灣參與Ballroom的活動照。照片提供／洪夢瑤
 | Size            | 12056 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陳怡璇、黃怡潔                               |
+| Region          | 台湾                               |
+| Date            | 2019-04-27                                 |
+| Tags            | 变装皇后, LGBTQ文化, 表演艺术, 社会现象, 过渡经历, 文化认同, 生活方式, 变装艺术, Ballroom文化, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

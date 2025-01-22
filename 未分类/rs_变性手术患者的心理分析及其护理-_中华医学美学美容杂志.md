@@ -63,7 +63,7 @@ DOI: [10.3760/cma.j.issn.1671-0290.2017.04.021](https://doi.org/10.3760/cma.j.is
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自《中华医学美学美容杂志》的学术文章，题为《变性手术患者的心理分析及其护理》。该文由李秀明、杨燕华、孟庆芳三位作者共同撰写，发表于2017年8月15日。文章主要探讨易性症（性别身份障碍）患者的心理状况以及如何进行有效的心理护理，帮助他们更好地适应新角色。易性癖被定义为一种精神病，其主要特征是心理意识与生理结构之间存在的矛盾。在现代医学中，变性手术被视为治疗该症状的一种有效方式。作者强调，由于易性症患者通常遭受到社会和家庭的误解与排斥，导致他们的心理状态复杂，因此心理护理在整个治疗过程中至关重要。文中指出，治疗方法除了外科手术外，还包括心理治疗和药物治疗，而良好的心理支持能够帮助患者顺利过渡到新生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,10 +76,10 @@ DOI: [10.3760/cma.j.issn.1671-0290.2017.04.021](https://doi.org/10.3760/cma.j.is
 | Size            | 7986 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 李秀明、杨燕华、孟庆芳                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-08-15                                 |
+| Tags            | 易性症, 变性手术, 心理分析, 护理, 精神病, 性别认同, 医疗心理, 社会支持, 文献综述, 中华医学美学美容杂志                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

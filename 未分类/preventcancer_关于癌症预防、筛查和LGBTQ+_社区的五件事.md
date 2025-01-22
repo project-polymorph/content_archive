@@ -47,7 +47,7 @@ ___预防癌症基金会___ [网站](https://preventcancer.org/zh)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了LGBTQ+社区在癌症预防与筛查过程中面临的五个重要问题。内容强调了在骄傲月期间提升人们对癌症预防意识的重要性，尤其是在LGBTQ+群体中。文中指出，男同性恋和双性恋男性面临更高的HPV相关癌症风险，跨性别者在筛查中的参与度较低且面临更多医疗障碍，而女同性恋、双性恋及酷儿女性则在乳腺癌、宫颈癌和卵巢癌方面的风险也更高。此外，LGBTQ+群体普遍遭遇到医疗服务时的歧视和不平等待遇。这导致许多人推迟或完全避免必要的癌症筛查，从而增加了漏诊和晚期诊断的风险。文件还提供了与医疗保健提供者建立信任关系的重要性，并推荐了额外的医疗资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@ ___预防癌症基金会___ [网站](https://preventcancer.org/zh)
 | Size            | 6902 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 预防癌症基金会                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ+, 癌症预防, 筛查, 医疗资源, 跨性别者, 同性恋者, 双性恋者, 健康障碍, 歧视, 骄傲月                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

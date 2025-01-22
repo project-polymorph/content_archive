@@ -183,7 +183,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了陈志朋这位华语娱乐圈明星的职业生涯与个人经历。文章讲述了他在小虎队时期的成功以及解散后的挑战，尤其是他如何应对行业内的批评和个人的困扰。文中提到陈志朋在某次活动中遭到主持人的调侃，感到受伤，并因此对“小虎队”三字产生了抵触情绪。这种情绪导致他在商业活动中不愿提及过去，甚至对于任何关于他不红的说法，陈志朋都表现出强烈的不满。随着个人风格的演变，他开始尝试更为大胆的服装和造型，尽管因此受到外界的嘲讽，他却始终坚持展现自己的多面性。文章还揭示了陈志朋在社交媒体及直播带货方面的现状，以及对自己身份和事业的定位，表现出他对成就的渴望和不安。整个内容不仅反映了个体在娱乐行业中面对的压力和挑战，也寄托了对多元性别表现的某种理解与反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -196,10 +196,10 @@
 | Size            | 10277 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 米椒娱乐                               |
+| Region          | 山东                               |
+| Date            | 2023-12-02                                 |
+| Tags            | 陈志朋, 性别多元, 娱乐圈, 小虎队, 受欢迎程度, 个人转型, 社会评论, 服装设计, 心理健康, 名人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位21岁双性人小民的故事，揭示了她自出生以来所经历的困扰与挑战。小民因出生时同时具有男性与女性的生理特征，导致她在生活中遭受了来自周围人的羞辱和嘲笑。文章中提到，小民的家庭并不支持她，甚至在出生时就遭生母抛弃。尽管她拥有女性特征的胸部，但她的喉结等男性特征使得她在村里无法融入，受到歧视。在被采访中，她表现得相当羞涩和无奈，讲述了自己在村子里受到儿童嘲弄的苦恼。通过小民的故事，文章引发了对双性人群体生存现状的深思，并呼吁社会对多元性别的理解和接纳。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@
 | Size            | 1060 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 王天怡                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-08-14                                 |
+| Tags            | 双性人, 小民, 生母, 羞辱, 村里人, 性别多元, 性别认同, 社会歧视, 生存现状, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

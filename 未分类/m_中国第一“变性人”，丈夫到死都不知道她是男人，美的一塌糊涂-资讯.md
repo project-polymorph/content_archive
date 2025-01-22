@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位被誉为中国第一“变性人”的女性的故事。文章详细回顾了她的过渡经历，以及她在社会和家庭中的生活状况。尽管她的变化在丈夫生前都没有被察觉，文章突出了她的勇气和追求真实自我的决心，同时也反映了社会对变性人群体的认知和态度。内容中还包含了她的生活照，视觉上呈现了她在外貌和生活中的美丽与坚韧。该文来自于爱奇艺，受到38000人以上的评价，很大程度上引发了公众对于变性人及多元性别现象的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,10 +42,10 @@
 | Size            | 673 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 爱奇艺                               |
+| Region          | 中国                               |
+| Date            | 2019-05-11                                 |
+| Tags            | 多元性别, 变性人, 生命故事, 社会态度, 家庭关系, 勇气与坚韧, 媒体报道, 性别认同, 生活经历, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

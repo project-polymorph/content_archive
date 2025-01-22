@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为上海市长宁区精神卫生中心发育迟缓专家的推荐信息，详细介绍了该中心的康复医学科及一位专家——陈臻的职业背景和擅长领域。陈臻是主管康复师副教授，专注于处理发育迟缓相关问题，尤其是在口吃、语音障碍以及嗓音训练方面，特别为跨性别人士提供声带训练。其主观疗效和患者态度的满意度均达到100%。文件还包含了患者的评价、其他推荐医院的信息以及有关发育迟缓的科普知识链接，给家长提供了有关儿童发育迟缓的认识和医疗资源。同时，文件提到的各种疾病推荐度以及患者病情描述为寻求帮助的家庭提供了有价值的参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 2606 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 上海市                               |
+| Date            | 未知                                 |
+| Tags            | 发育迟缓, 跨性别, 康复医学, 语音障碍, 儿童发展, 医疗资源, 陈臻专家, 患者评价, 医院推荐, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

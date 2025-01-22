@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于罗氏公司在招聘方面对多元性别及包容性（Diversity, Equity and Inclusion, DEI）倡导的介绍。文件中强调了罗氏公司对每个人独特性的认可，以及致力于改善患者生活和社会的目标。内容提到，为了推进包容性研究，罗氏希望能够为全球患者提供更优的健康结果，并确保公司内部员工的多元性真正反映社会的多样性。通过增加少数民族和不同性别背景的员工，罗氏公司推动了薪酬平等和多样性的增强。此外，文件还提到建立了多个多元化社群，涵盖LGBTQ+、文化与种族、性别等维度，具体实践以促进公平、多样和包容的工作环境。文末强调，多元化是解决医疗问题、推动社会进步的一项重要因素，是实现未来公平与包容的基石。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 4974 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 罗氏公司                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 包容性, 公平, 招聘, 医药行业, 社会多样性, 跨性别群体, 多元背景, HLGBTQ+, 文化与种族                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

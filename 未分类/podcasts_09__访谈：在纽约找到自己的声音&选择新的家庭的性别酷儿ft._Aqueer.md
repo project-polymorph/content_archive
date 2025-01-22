@@ -59,7 +59,7 @@ _本单集由夏洛特参与剪辑_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本期访谈邀请到了性别酷儿Aqueer，分享了ta在纽约找到自我声音与选择新的家庭的经历。访谈内容涵盖了Aqueer对酷儿身份的认知过程，以及在纽约医疗系统中就医，特别是进行嗓音治疗的经历。Aqueer提到，嗓音训练是其性别转换过程中的重要一步，同时也分享了自己与家人之间的经验，以及对于“chosen family”（自选家庭）这种关系形式的理解与体验。通过这一期访谈，听众可以更加深入地了解到跨性别者在医疗系统中的挑战和选择，以及在多元性别身份认同中所面对的社会环境与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,10 +72,10 @@ _本单集由夏洛特参与剪辑_
 | Size            | 4007 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 酷儿流水席                               |
+| Region          | 美国                               |
+| Date            | 2023-09-21                                 |
+| Tags            | 性别酷儿, 跨性别身份, 嗓音治疗, 医疗经验, Chosen Family, 性别认同, 社会支持, 纽约医疗系统, 性别转换, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了日本“女装子”文化的兴起，聚焦于那些男扮女装的男性群体。文章指出，虽然在传统文化中，男扮女装可能遭遇嘲笑，但在现代日本，这已成为一种时尚潮流。大多数“女装子”为在校大学生或职场男性，他们在日常生活中打扮成女性来寻求自我认同和时尚表达。文件中提到，一家名为“美美杏”的美容沙龙是“女装子”们的聚集地，社交的同时也分享化妆心得。随着“女装子”现象的流行，甚至有学校建立专门的社团来支持这一活动。专家分析认为，社会的中性化趋势和性别角色的模糊化是“女装子”文化崛起的主要原因。文章还提及日本媒体和娱乐界的欢迎态度，表明这股风潮已深入到社会各个层面，包括男艺人和流行文化中。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 5356 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吴逸若                               |
+| Region          | 日本                               |
+| Date            | 2009-08-18                                 |
+| Tags            | 多元性别, 女装子, 男扮女装, 性别认同, 时尚潮流, 日本文化, 心理学, 社会中性化, 生活方式, 娱乐界                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

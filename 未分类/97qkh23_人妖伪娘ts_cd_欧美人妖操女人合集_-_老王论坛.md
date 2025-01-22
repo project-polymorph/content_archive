@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件来自老王论坛，标题为《欧美人妖操女人合集》，主要收录了关于欧美人妖与女性之间的互动内容。文件中提供了下载链接、资源信息，并说明这些资源的来源和大小。内容涉及人妖和伪娘文化，可能对相关群体的用户有吸引力。文件还包含用户评论，反映了人们对这些资源的兴趣和偏好：有用户希望能获取更多的此类资源，并细述其个人喜好。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,10 +54,10 @@
 | Size            | 1138 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Huanglaili                               |
+| Region          | 未知                               |
+| Date            | 2024-03-09                                 |
+| Tags            | 人妖, 伪娘, shemale, tranny, 欧美文化, 网络论坛, 性别表达, 成人内容, 下载资源, 用户评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -35,7 +35,7 @@ _来源：[人民网](http://www.people.com.cn/)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了全国政协委员李晓林在2017年全国两会上提出的一项建议，旨在将器官移植手术费用纳入大病医保，以减轻患者的经济负担。李晓林委员在采访中指出，虽然我国的器官移植技术日渐成熟，捐献数量逐年提升，但仍有很多患者在等待器官移植过程中面临着资金不足的困境。他提到，自2007年以来，中华思源工程扶贫基金会积极参与困难家庭的大病救助，特别是针对需要肝移植的儿童患者，采取亲体肝移植的方法以降低费用、提高可及性。李晓林委员认为，加强基层医疗机构对器官移植的认知和培训至关重要，并呼吁政府和社会加大财力支持，为急需医疗帮助的患者提供更多救助。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@ _来源：[人民网](http://www.people.com.cn/)_
 | Size            | 3654 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-03-10                                 |
+| Tags            | 器官移植, 大病医保, 李晓林, 全国政协, 健康政策, 医疗救助, 儿童肝移植, 亲体肝移植, 社会保障, 患者经济负担                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

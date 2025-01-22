@@ -50,7 +50,7 @@ FtM.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+FtM.wiki 是一个致力于为跨性别男性（FtM）群体提供信息与支持的知识整合平台。该网站的主要目标是帮助出生时被指派为女性的跨性别男性，以及与他们相关的群体（如 FtX、XtM）获得所需的各种资源与信息。网站内容包括如何获取心理健康支持、激素替代治疗（HRT）、社会身份转变及法律身份改变的过程等实用信息。此外，该网站也欢迎社区成员参与编辑和扩展内容，以期成为一个不断更新的免费开放的知识库。FtM.wiki 强调了希望为处于转变过程中的人们提供必要的支持和信息，尽管目前资料还不够齐全。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@ FtM.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 | Size            | 2389 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别男性, FtM, 女性到男性, 性别认同, 激素替代治疗, 法律身份转变, 社会支持, 心理健康, 真实生活体验, 性别重置手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

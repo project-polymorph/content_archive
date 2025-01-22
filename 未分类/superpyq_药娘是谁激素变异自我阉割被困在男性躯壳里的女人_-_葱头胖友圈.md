@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细探讨了所谓的“药娘”群体，这是一个以男性生理性别为主，但心理性别认同为女性的跨性别群体。文章描述了药娘这一人群的生活经历与心理状况，列举了跨性别者在社会中所面临的痛苦与挣扎。随着社会对性别认同的理解逐步加深，药娘们寻求通过药物来达到身体与心理性别不一致的转换，然而，药物治疗过程中的副作用与药物的获取途径又带给他们严峻的生理与心理挑战。文中提到的“吃糖”是药娘们用以隐晦指代药物的术语，这些药物通常有严重的副作用，药娘们在不被社会理解的环境中相互支持，勇敢追求他们的性别认同与生活目标。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,10 +108,10 @@
 | Size            | 12263 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-08                                 |
+| Tags            | 跨性别, 药娘, 性别认同, 激素治疗, 社会问题, 心理创伤, 药物副作用, 变性手术, 亚文化, 网络支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

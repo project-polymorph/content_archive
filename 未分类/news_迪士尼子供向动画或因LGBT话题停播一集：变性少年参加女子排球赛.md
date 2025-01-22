@@ -3,29 +3,29 @@
 ## 正文 { data-search-exclude }
 
 
-![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](//img1.kkeji.com/img/2005/20241223/102045310.gif)
+![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](https://img1.kkeji.com/img/2005/20241223/102045310.gif)
 
 **时间**：2024-11-17 13:22:47  
 **出处**：[游民星空](https://www.gamersky.com/news/202411/1846191.shtml)  
 **作者**：不凹就沁丶优格  
 **编辑**：拾柒  
 **人气**：6610 次  
-**评论**：[274](//comment8.mydrivers.com/review/1014398-1.htm)  
-**标签**：[_#_LGBT](//news.mydrivers.com/tag/lgbt.htm) | [_#_索尼](//news.mydrivers.com/tag/suoni.htm)
+**评论**：[274](https://comment8.mydrivers.com/review/1014398-1.htm)  
+**标签**：[_#_LGBT](https://news.mydrivers.com/tag/lgbt.htm) | [_#_索尼](https://news.mydrivers.com/tag/suoni.htm)
 
 据多位参与制作的工作人员透露，**漫威动画剧集《月光女孩与恶魔恐龙》中一集未公开的剧集因涉及政治敏感的LGBTQ主题而未在Disney Channel播出。**
 
 这一集名为《守门人》，讲述了主角月光女孩的跨性别同学布鲁克林在参加女子排球比赛时，因对方教练的偏见而遭遇歧视。
 
-![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](//img1.mydrivers.com/img/20241117/fedb2ba3-cbdf-4a3d-9faa-b268ff4eb1ac.jpg)
+![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](https://img1.mydrivers.com/img/20241117/fedb2ba3-cbdf-4a3d-9faa-b268ff4eb1ac.jpg)
 
 剧集中，布鲁克林回忆起过去在男队踢足球时的痛苦经历：“我必须在男队踢球，那是我生命中的黑暗时刻。”这一对话被对方球队教练格里尔听到，格里尔试图禁止布鲁克林参赛。然而，布鲁克林的教练赫尔贝克挺身而出表示：“布鲁克林是女孩，她有权利参赛。”
 
 剧情发展随后变得魔幻——格里尔利用一把魔法钥匙将布鲁克林、她的队友以及月光女孩困在女更衣室中。在剧集中，布鲁克林明确向队友表明自己是跨性别身份：“我是跨性别者，我的存在本身就打破了格里尔的规则。”这一情节通过细节进一步强化：布鲁克林佩戴彩虹主题护膝，水瓶上贴有“跨性别很美”的贴纸，画面的整体色调也融入跨性别旗帜的颜色。
 
-![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](//img1.mydrivers.com/img/20241117/5992029a-6a7b-432e-86f3-00388f402879.jpg)
+![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](https://img1.mydrivers.com/img/20241117/5992029a-6a7b-432e-86f3-00388f402879.jpg)
 
-![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](//img1.mydrivers.com/img/20241117/b5a604f8-5f79-4c3e-8970-b671e10dbf9d.png)
+![迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛](https://img1.mydrivers.com/img/20241117/b5a604f8-5f79-4c3e-8970-b671e10dbf9d.png)
 
 参与这集制作的制作者们近日在社交媒体上表达了失望情绪，称这集因“选举结果”被搁置，暗指特朗普及共和党胜选后对LGBT的清算。
 
@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了关于迪士尼动画剧集《月光女孩与恶魔恐龙》中因涉及LGBTQ主题而未播出的一集引发的争议。这一集名为《守门人》，讲述了跨性别少年布鲁克林在女子排球比赛中遭受歧视的故事。剧中描绘了布鲁克林的过往经历及其接受身份的旅程。制作方因剧集内容的政治敏感性及选举背景而感到失望，同时迪士尼方面表示，此决定与角色的跨性别身份无关。文章提供了对相关话题的深入分析，强调了对多元性别群体的尊重与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 3859 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 不凹就沁丶优格                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-17                                 |
+| Tags            | LGBT, 迪士尼, 跨性别, 动画, 排球比赛, 政治敏感, 社交媒体, 多元性别, 青少年, 社会偏见                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

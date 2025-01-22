@@ -190,7 +190,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件介绍了位于泰国芭堤雅的阿卡莎人妖秀门票的相关信息，包括产品编号、价格、特别推荐和购买须知。成人票价为27.5美元，儿童（100cm以下，不占座）免费。文件详尽列出了预订的基本信息，例如服务语言（英语）、出发方式、会员权益以及注意事项等。此外，文件还提供了表演的详细安排和可选项目，包括演出时间和表演内容。阿卡莎人妖秀被描述为一场结合了亚洲传统舞蹈和欧美励志热舞的经典演出，非常适合观众前来欣赏人妖的表演艺术。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -203,10 +203,10 @@
 | Size            | 9525 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 阿卡莎人妖秀, 芭堤雅, 人妖秀, 票务信息, 表演艺术, 旅游推荐, 娱乐活动, 旅行指南, 文化体验, 泰国旅游                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

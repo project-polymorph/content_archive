@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了东京奥运会历史上首位变性人运动员奎因（Quinn）获得金牌的事件，奎因在社交平台上公开自己是跨性别和非二元性别者。文章详细描述了女足决赛的过程，以及奎因成为运动历史的重要一刻。文中提到其他参与此次赛事的跨性别运动员，如新西兰的劳蕾尔·哈伯德与美国的阿拉娜·史密斯，并讨论了国际奥委会关于跨性别运动员参赛的政策与相关争议。文章还引用了多位专家对变性运动员参赛政策的看法，包括支持与反对的声音，展现了体育领域对性别多样性话题的广泛关注和讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 3605 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 极目新闻                               |
+| Region          | 未知                               |
+| Date            | 2021-08-07                                 |
+| Tags            | 东京奥运会, 跨性别者, 奎因, 女足, 历史性时刻, 劳蕾尔·哈伯德, 阿拉娜·史密斯, 性别认同, 体育包容性, 运动员权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

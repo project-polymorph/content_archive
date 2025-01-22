@@ -62,7 +62,7 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了河南百万网红伪娘罗大美遭绑架及其被害的案件。文中详细描述了罗大美的背景，包括他的真实姓名及从戏剧学校毕业后如何在短视频平台上走红，吸引了近300万粉丝的关注。报道提到，罗大美因其网络名声及慷慨的性格，在生活上曾多次借钱帮助朋友、支持公益。在案件发生后，罗大美因熟人绑架被勒索，最终遇害，尸体被藏在地窖内。三名嫌疑人已被抓捕，案件的细节以及目前的调查进展也得到了介绍。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 | Size            | 5567 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 星岛日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-20                                 |
+| Tags            | 罗大美, 伪娘, 绑架, 勒索, 社会事件, 网络名人, 案件报道, 河南, 法律问题, 性别多元性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

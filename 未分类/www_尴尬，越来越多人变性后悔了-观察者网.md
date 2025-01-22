@@ -52,47 +52,47 @@ Djordjevic医生说，20年前自己的病人平均年龄是45岁，现在已经
 
 ### 热门评论 11条
 
-- [李乐石](//user.guancha.cn/user/personal-homepage?uid=13687) 解释世界，改造世界，发现并面对新世界。  
+- [李乐石](https://user.guancha.cn/user/personal-homepage?uid=13687) 解释世界，改造世界，发现并面对新世界。  
 如果不是天生有什么生理缺陷，还是原装的好。  
 2017-10-05 18:34
 
-- [jiangtao9999](//user.guancha.cn/user/personal-homepage?uid=114388) 观网的黑名单，是保护假信息被戳穿用的  
+- [jiangtao9999](https://user.guancha.cn/user/personal-homepage?uid=114388) 观网的黑名单，是保护假信息被戳穿用的  
 问题是这个手术是不可逆的！  
 2017-10-05 19:31
 
-- [在朕一人](//user.guancha.cn/user/personal-homepage?uid=191252)  
+- [在朕一人](https://user.guancha.cn/user/personal-homepage?uid=191252)  
 翻开第四页，如已自宫……东厂往东  
 2017-10-05 19:14
 
-- [嵇无力](//user.guancha.cn/user/personal-homepage?uid=122234)  
+- [嵇无力](https://user.guancha.cn/user/personal-homepage?uid=122234)  
 确实，虽然体会不到变性人内心的那种渴望，但我感觉多数人都把问题想简单了，以为做了手术就能完全变成异性。现在变性手术肯定没那么先进。我感觉医生的鼓吹有很大影响。  
 2017-10-05 19:22
 
-- [Linbo](//user.guancha.cn/user/personal-homepage?uid=5007)  
+- [Linbo](https://user.guancha.cn/user/personal-homepage?uid=5007)  
 逆天改命不是那么容易的。  
 2017-10-05 19:22
 
-- [如来神展傅立叶](//user.guancha.cn/user/personal-homepage?uid=79165)  
+- [如来神展傅立叶](https://user.guancha.cn/user/personal-homepage?uid=79165)  
 心病还需心药医、改变身躯需谨慎![笑喷](http://user.guancha.cn/static/imgs/smiles/1/kbsa_thumb.gif)  
 2017-10-05 19:38
 
-- [有为青年](//user.guancha.cn/user/personal-homepage?uid=15045)  
-[一笑万年](//user.guancha.cn/user/personal-homepage?uid=156999)  
+- [有为青年](https://user.guancha.cn/user/personal-homepage?uid=15045)  
+[一笑万年](https://user.guancha.cn/user/personal-homepage?uid=156999)  
 绝大多数不是生理病态，而是心理病态，动手术是搞错病根，其实应该是去看心理医生或直接去精神病院  
 2017-10-05 21:12
 
-- [橙色污贼](//user.guancha.cn/user/personal-homepage?uid=75282) 立场确实重要，但只具备立场是完全不够的。  
+- [橙色污贼](https://user.guancha.cn/user/personal-homepage?uid=75282) 立场确实重要，但只具备立场是完全不够的。  
 我遇到过有人想变性根本不是因为想要真的改变性别，而是对自己的生活不满，同时对异性的生活了解不够，把变性当成了一劳永逸解决自己问题的方法。比如我碰到过直接说：我又小气又不讲道理所以我要变性成女人。。。。这是不仅对自己持负面看法还对女性有负面看法。这样的来访者需要的是心理辅导而不是变性。  
 2017-10-05 23:27
 
-- [dcmarvel](//user.guancha.cn/user/personal-homepage?uid=9983)  
-[嵇无力](//user.guancha.cn/user/personal-homepage?uid=122234)  
+- [dcmarvel](https://user.guancha.cn/user/personal-homepage?uid=9983)  
+[嵇无力](https://user.guancha.cn/user/personal-homepage?uid=122234)  
 确实，虽然体会不到变性人内心的那种渴望，但我感觉多数人都把问题想简单了，以为做了手术就能完全变成异性。现在变性手术肯定没那么先进。我感觉医生的鼓吹有很大影响。  
 2017-10-05 19:22
 
-- [何中石](//user.guancha.cn/user/personal-homepage?uid=43599)  
+- [何中石](https://user.guancha.cn/user/personal-homepage?uid=43599)  
 全部楼层  
-[有为青年](//user.guancha.cn/user/personal-homepage?uid=15045)  
+[有为青年](https://user.guancha.cn/user/personal-homepage?uid=15045)  
 西方的政治正确导致现在同性恋、性别模糊等等都被标注为正常生理行为了  
 2017-10-05 21:26
 <!-- tcd_original_link https://www.guancha.cn/europe/2017_10_05_429857.shtml -->

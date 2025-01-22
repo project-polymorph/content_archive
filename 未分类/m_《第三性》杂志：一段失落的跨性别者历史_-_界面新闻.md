@@ -54,7 +54,7 @@ _本文作者Matthew H. Birkhold是美国俄亥俄州立大学助理教授。_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了1930年首次出版的《第三性》杂志的历史及其对跨性别者社区的重要性。《第三性》被认为是世界上首个专注于跨性别问题的杂志，尽管只发行了五期便因政治压力停止出版。文章回顾了20世纪初德国跨性别者的社会环境，描述了魏玛共和国期间的性别多样性与社会自由主义的发展。杂志旨在为跨性别者提供指导和支持，文化活动和个人故事的融合使其成为一个能反映出当时人们对性别认同的深入思考的平台。尽管最终被纳粹政权关闭，杂志中展现的对跨性别者的关注与支持在当今依然具有历史意义。文中引用了许多历史资料和个人故事，以展示跨性别者在社会中所遇到的挑战与变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,10 +67,10 @@ _本文作者Matthew H. Birkhold是美国俄亥俄州立大学助理教授。_
 | Size            | 15359 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 界面新闻                               |
+| Region          | 未知                               |
+| Date            | 2019-01-21                                 |
+| Tags            | 跨性别, 历史, 魏玛共和国, 第三性杂志, 性别认同, 社会环境, 跨性别社区, 性别多样性, 文化自由主义, 纳粹政权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -43,7 +43,7 @@ Copyright © 1997-2008 by www.people.com.cn. all rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由罗雀撰写，介绍了足球运动员罗纳尔多的职业生涯与个人生活。罗纳尔多被称为"外星人"，是因其出众的足球天赋和重量级的比赛荣誉。他在2008年复出后，经历了多次严重的伤病，但仍然重返赛场，展现他的足球才华。文章详细描写了罗纳尔多的成长背景、职业生涯的辉煌成就，包括两次世界杯冠军和多项个人荣誉。同时，罗纳尔多的私生活也成为话题，他的多段感情和绯闻让他成为众多媒体关注的焦点，如与米兰妮的婚姻及之后的花边新闻等。文章揭示了在这些风波之后，罗纳尔多在球场上的努力与他热爱足球的初心。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,10 +56,10 @@ Copyright © 1997-2008 by www.people.com.cn. all rights reserved.
 | Size            | 3851 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 罗雀                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-01-11                                 |
+| Tags            | 罗纳尔多, 外星人, 足球, 职业生涯, 复出, 伤病, 绯闻, 婚姻, 媒体关注, 中国大陆新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

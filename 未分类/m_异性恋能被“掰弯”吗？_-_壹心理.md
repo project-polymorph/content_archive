@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《异性恋能被“掰弯”吗？》，由壹心理专栏作者唐映红撰写，旨在探讨性取向的复杂性及人类的性行为。文件通过问答的形式，讨论了对跨性别者（如TransFTM和TransMTF）的性取向理解，指出传统的同性恋与异性恋分类方式并不适用于跨性别者。针对性取向的定义，文章强调性取向是一种连续的谱系，指出许多人在不同情境下可能表现出不同的性向。文章提及典型异性恋者在遭遇爱情挫折后不会自然转向同性关系，而对于有双性取向的人来说，在特定情境下可能转向同性爱情。文件中还探讨了性别认同、法律、残障人士的性需求、社会认知与心理学的交互影响，以及同性恋与异装癖的不同对待等问题。整体上，文件为读者提供了对性取向及其社会文化背景的深入思考和理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,10 +108,10 @@
 | Size            | 13332 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 唐映红 | 壹心理专栏作者                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-04-26                                 |
+| Tags            | 性取向, 跨性别者, 同性恋, 异性恋, 心理性别, 性别认同, 法律政策, 社会文化, 心理学, 性少数群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

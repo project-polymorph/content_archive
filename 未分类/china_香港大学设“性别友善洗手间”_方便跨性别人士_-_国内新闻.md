@@ -21,7 +21,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了香港大学于2016年9月1日宣布设立首个“性别友善洗手间”的消息，旨在为性别少数群体，特别是跨性别人士提供便利。洗手间的门牌标明‘这是给大家使用的，不需以性别区分’，并在男女标识中间加入了第三性别的图案，象征着对多元性别的包容与尊重。该举措获得平等机会委员会的支持，相关部门亦在改装残疾人士专用厕所成中性厕所方面进行磋商。此项举措不仅使得跨性别人士在校园内有了更为友好的环境，也在社会层面推动了对性别多元性更加开放的讨论与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -34,10 +34,10 @@
 | Size            | 997 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中新网，编辑：zhangjinjin                               |
+| Region          | 香港                               |
+| Date            | 2016-09-01                                 |
+| Tags            | 性别友善洗手间, 跨性别人士, 香港大学, 平权, 性别多元, 厕所改造, 社会包容, 平等机会, 社会新闻, 健康资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

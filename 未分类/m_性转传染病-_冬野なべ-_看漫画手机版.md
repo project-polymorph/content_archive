@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![性转传染病](//cf.mhgui.com/cpic/m/26682.jpg)  
+![性转传染病](https://cf.mhgui.com/cpic/m/26682.jpg)  
 _连载_
 
 更新至：第57话  
@@ -204,7 +204,7 @@ _连载_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《性转传染病》是由作者冬野なべ创作的一部连载漫画，主要描述了一种名为“性转传染病”的奇幻设定。在这部作品中，伪娘角色经历了突如其来的性别转换，转变成美少女，且这种病症具有传染性，导致周围的朋友们相继受到影响。故事情节围绕着主角及其朋友们在这个离奇设定下发生的各种搞笑而感人的经历，展现出对性别身份与认同的探索。漫画更新至第57话，最后一次更新日期为2024年12月11日，部分评论与互动让作品增添了更多的生命力和趣味性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -217,10 +217,10 @@ _连载_
 | Size            | 9311 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 冬野なべ                               |
+| Region          | 未知                               |
+| Date            | 2024-12-11                                 |
+| Tags            | 性别转换, 伪娘, 漫画, 奇幻, 连载, 性别认同, 病症设定, 人际关系, 幽默, 生活故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

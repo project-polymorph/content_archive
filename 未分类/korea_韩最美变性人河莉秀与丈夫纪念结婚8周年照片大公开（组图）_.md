@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了韩国变性明星河莉秀与其丈夫Micky纪念结婚8周年拍摄的婚纱写真。河莉秀在1997年至1998年间为追求梦想而进行了变性手术，并于1998年成功完成。经过变性后，她凭借出色的外貌与身材成为模特，并迅速在韩国化妆品行业崭露头角。她的美丽使她被誉为“韩最美变性人”，并被列入“世界十大变性美人”之一。本文通过婚纱照片及简要回顾她的生活历程，展示了她的成功与幸福。尽管照片中展现了欢乐的结婚纪念时刻，但河莉秀的故事也反映了跨性别群体在被接受和追求自我生活上的奋斗与荣耀。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 1122 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网-韩国频道                               |
+| Region          | 韩国                               |
+| Date            | 2014-10-15                                 |
+| Tags            | 跨性别, 变性人, 婚姻, 河莉秀, 变性手术, 模特, 人生经历, 美丽与变迁, 社会接受, 时尚                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

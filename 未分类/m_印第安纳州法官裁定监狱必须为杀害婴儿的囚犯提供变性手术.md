@@ -50,7 +50,7 @@ ACLU的诉讼还称，cordellion从6岁起就被认定为女性，而这名囚�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名印第安纳州变性囚犯因要求接受变性手术而提起诉讼，最终获得联邦法官裁定。法官理查德·杨判决监狱必须为该囚犯提供变性手术，认为拒绝此手术违宪，违反了第八修正案关于禁止残忍和不寻常惩罚的规定。美国公民自由联盟（ACLU）为该囚犯辩护，提出其性别焦虑症的严重性，指出手术是其医疗需要之一。尽管印第安纳州法律对此有所限制，法官认为该囚犯的身体与性别认同不符，导致其面临严重的身体和心理伤害。此案在社会上引发了广泛争议，尤其是在有关纳税人负担囚犯变性手术费用的问题上。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@ ACLU的诉讼还称，cordellion从6岁起就被认定为女性，而这名囚�
 | Size            | 3114 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 本站编辑                               |
+| Region          | 美国                               |
+| Date            | 2024-10-10                                 |
+| Tags            | 变性手术, 性别焦虑症, 监狱制度, 法律政策, 美国公民自由联盟, 人权, 医疗需求, 心理健康, 判决, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

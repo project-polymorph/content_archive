@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要介绍了‘易性癖’这一性别认同障碍，分析其成因、行为表现及治疗方式。易性癖被认为是个体在性别认同方面遇到困惑，表现为对生理性别的不满和希望转换为异性的强烈愿望。文章指出易性癖并非由于后天习惯所致，而是与生物学因素及脑结构相关，更常见于男性。文中详细阐述了易性癖的定义、相关表现、产生原因、性别比对、诊断与治疗方法，并指出了易性癖者在生活中面临的挑战与现状。此外，文章还涉及到了对于易性癖人群的心理支持和接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 3004 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 易性癖, 性别认同障碍, 性身份障碍, 跨性别者, 心理治疗, 性别转换, 社会环境, 生理性别, 文化认知, 转变经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件中汇集了关于性别解放与艺术之间的研究成果，包括对性别边缘人群体的文学解读与社会背景的分析。其中，《蓝调石墙T》的解读揭示了跨性别者在西方社会中的新型叛逆形象，以及这一形象所引发的恐惧与自我认同的丧失，显示了追求个体生命自由与人性提升之间的复杂关系。此外，文件还收录了相关的文献资料，且提到了性别解放文本的历史与文学批评。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -98,10 +98,10 @@
 | Size            | 6125 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 夏茵英, 秦明利, 王双洪, 其他未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别解放, 跨性别者, 文学浮现, 社会环境, 个体自由, 性别边缘人, 文献资料, 文学批评, 社会认同, 西方社会                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

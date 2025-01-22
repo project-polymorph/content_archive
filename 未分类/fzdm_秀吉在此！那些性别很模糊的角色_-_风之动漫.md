@@ -60,7 +60,7 @@ TAG：在此 | 模糊 | 性别
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在动漫中性别模糊的角色现象，通过列举多个经典动漫角色，探讨了观众对于这些角色性别的模糊认识和感知。文章提到的一些角色包括《全职猎人》的酷拉皮卡、《侵陵的巨人》的阿尔敏和韩吉，以及《笨蛋测试理睬呼唤兽》的木下秀吉等。通过受访者的反馈，文章展现了观众对这些角色的感受，有的认为角色中性，有的则提到缺乏明确的性别认定，反映了对性别流动性的思考。这种对性别的模糊处理在动漫文化中引起了广泛的讨论与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@ TAG：在此 | 模糊 | 性别
 | Size            | 3187 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 罗德里赫                               |
+| Region          | 未知                               |
+| Date            | 2016-11-26                                 |
+| Tags            | 动漫, 性别模糊, 角色分析, 酷拉皮卡, 阿尔敏, 韩吉, 木下秀吉, 性别认同, 访谈, 日本媒体调查                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -8,34 +8,34 @@
 
 ## 视频列表 { data-search-exclude }
 
-1. ![【女装大佬】艾比abbily跳舞的影子都这么美，看多了上瘾啊](//p3-sign.bdxiguaimg.com/tos-cn-i-0000/db89e126ba5b11e9baf27cd30a55e9ba~tplv-pk90l89vgd-fglass:864:486:90.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=Cq41KB25etdbhob290F9J%2BVHdek%3D)  
+1. ![【女装大佬】艾比abbily跳舞的影子都这么美，看多了上瘾啊](https://p3-sign.bdxiguaimg.com/tos-cn-i-0000/db89e126ba5b11e9baf27cd30a55e9ba~tplv-pk90l89vgd-fglass:864:486:90.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=Cq41KB25etdbhob290F9J%2BVHdek%3D)  
    [观看视频](https://www.ixigua.com/6723015085616267784)  
 
-2. ![女装大佬艾比翻跳舞蹈合集，这个身材就问谁能顶得住！](//p3-sign.bdxiguaimg.com/mosaic-legacy/201ec0003f4e408410367~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=OFtnu5PHeiYCeSMfRWUgKbQdIRs%3D)  
+2. ![女装大佬艾比翻跳舞蹈合集，这个身材就问谁能顶得住！](https://p3-sign.bdxiguaimg.com/mosaic-legacy/201ec0003f4e408410367~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=OFtnu5PHeiYCeSMfRWUgKbQdIRs%3D)  
    [观看视频](https://www.ixigua.com/6685623104359629325)  
 
-3. ![女装大佬艾比的腿配上动人的舞姿，天呐，太美了！](//p26-sign.bdxiguaimg.com/tos-cn-i-0000/53d584fe795311e9bf270cc47ad2a5f0~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=7btu4Nc2s%2BGQs8cS2OEm9MRw8ak%3D)  
+3. ![女装大佬艾比的腿配上动人的舞姿，天呐，太美了！](https://p26-sign.bdxiguaimg.com/tos-cn-i-0000/53d584fe795311e9bf270cc47ad2a5f0~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=7btu4Nc2s%2BGQs8cS2OEm9MRw8ak%3D)  
    [观看视频](https://www.ixigua.com/6692303967814156807)  
 
-4. ![女装大佬艾比街头跳舞，果然男人骚起来，就没女人什么事了！](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/676aec82179c42afb7b5f54537616eed~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=c6MmVcmHZ4SFjJ0K07gJhdoApMI%3D)  
+4. ![女装大佬艾比街头跳舞，果然男人骚起来，就没女人什么事了！](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/676aec82179c42afb7b5f54537616eed~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=c6MmVcmHZ4SFjJ0K07gJhdoApMI%3D)  
    [观看视频](https://www.ixigua.com/6689381363818168846)  
 
-5. ![女装大佬艾比校服装跳舞，活力四射！你见过这么美的男同学吗？](//p3-sign.bdxiguaimg.com/tos-cn-i-0000/319babe27d6911e9aa7e0cc47af43c90~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=bEpJZbJ2nAcO0sXqlH9rcbXXWjI%3D)  
+5. ![女装大佬艾比校服装跳舞，活力四射！你见过这么美的男同学吗？](https://p3-sign.bdxiguaimg.com/tos-cn-i-0000/319babe27d6911e9aa7e0cc47af43c90~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=bEpJZbJ2nAcO0sXqlH9rcbXXWjI%3D)  
    [观看视频](https://www.ixigua.com/6690823612481405448)  
 
-6. ![超火的女装大佬艾比，跳舞非常好看，这身材连女生都羡慕了！](//p3-sign.bdxiguaimg.com/tos-cn-i-0000/dd89242e796e11e9b6e7ac1f6b0bd300~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=wrrCLGjSRZ0lUKxySApR9mv4gQw%3D)  
+6. ![超火的女装大佬艾比，跳舞非常好看，这身材连女生都羡慕了！](https://p3-sign.bdxiguaimg.com/tos-cn-i-0000/dd89242e796e11e9b6e7ac1f6b0bd300~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=wrrCLGjSRZ0lUKxySApR9mv4gQw%3D)  
    [观看视频](https://www.ixigua.com/6692354766137197070)  
 
-7. ![女装大佬艾比短裤跳舞，一双令女生都羡慕的腿太抢镜了吧！](//p3-sign.bdxiguaimg.com/tos-cn-i-0000/29726a3a7d6b11e993ca0cc47af43c90~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=r7Xs2cBBlrg8%2F5ps5arjtttwHHw%3D)  
+7. ![女装大佬艾比短裤跳舞，一双令女生都羡慕的腿太抢镜了吧！](https://p3-sign.bdxiguaimg.com/tos-cn-i-0000/29726a3a7d6b11e993ca0cc47af43c90~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=r7Xs2cBBlrg8%2F5ps5arjtttwHHw%3D)  
    [观看视频](https://www.ixigua.com/6690823612443656717)  
 
-8. ![女装大佬艾比真漂亮，曲线完美舞姿动人，我心动了](//p26-sign.bdxiguaimg.com/mosaic-legacy/187970007a36510b0c54b~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=cmvFyQ85qBc5sXwGSZxU925HNY8%3D)  
+8. ![女装大佬艾比真漂亮，曲线完美舞姿动人，我心动了](https://p26-sign.bdxiguaimg.com/mosaic-legacy/187970007a36510b0c54b~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=cmvFyQ85qBc5sXwGSZxU925HNY8%3D)  
    [观看视频](https://www.ixigua.com/6650337350574408196)  
 
-9. ![女装大佬艾比竟然在教室里穿着女装跳舞，网友：这胆子也太大了！](//p26-sign.bdxiguaimg.com/tos-cn-i-0000/1255a24287af11e9aa506c92bfa0f25c~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=X%2Fy5p5ViERLj%2FWxrieWsbQdVun8%3D)  
+9. ![女装大佬艾比竟然在教室里穿着女装跳舞，网友：这胆子也太大了！](https://p26-sign.bdxiguaimg.com/tos-cn-i-0000/1255a24287af11e9aa506c92bfa0f25c~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=X%2Fy5p5ViERLj%2FWxrieWsbQdVun8%3D)  
    [观看视频](https://www.ixigua.com/6688644609536426509)  
 
-10. ![他是真正的女装大佬，不但有让女生嫉妒的颜值，跳舞水平更是一绝](//p3-sign.bdxiguaimg.com/pgc-image/f89301e4be8f4ec399c0d52cd3a46225~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=bs59%2FglIwcnBWm3bxKvElQ45n9Q%3D)  
+10. ![他是真正的女装大佬，不但有让女生嫉妒的颜值，跳舞水平更是一绝](https://p3-sign.bdxiguaimg.com/pgc-image/f89301e4be8f4ec399c0d52cd3a46225~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114100537271F6C357328659E6550&requestFrom=401&x-expires=1768356338&x-signature=bs59%2FglIwcnBWm3bxKvElQ45n9Q%3D)  
    [观看视频](https://www.ixigua.com/6621794667044274696)  
 
 11. ![网红女装伪娘大佬艾比街头劲舞，糟了，是心动的感觉！](https://p26-sign.bdxiguaimg.com/mosaic-legacy/2032800060159b4b9c352~tplv-pk90l89vgd-fglass:864:486:90.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=2025011410055436DF1CE26033B1C2547D&requestFrom=401&x-expires=1768356355&x-signature=DUqCdX4jSoOaHYLXmOS7TGoG7BM%3D)  
@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段关于女装大佬艾比的跳舞视频，来源于西瓜视频，时间距离现今约五年前。艾比是一位以其独特风格和吸引力而受到关注的表演者，视频展示了他在不同环境下跳舞的片段，包括在教室、街头及穿着校服等场合，展现了他动人的舞姿与迷人的外貌。文中包含了多达十个视频的链接与相关图片，激发了观众的热情，评论中也充满了对他的外貌和舞蹈技巧的赞美。该文件不仅展示了艾比的表演，还反映出社会对女装文化的接受程度以及普遍观众的态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 11758 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 女装大佬, 艾比, 舞蹈, 视频, 西瓜视频, 性别表达, 跨性别文化, 自我表达, 网络文化, 年轻人                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

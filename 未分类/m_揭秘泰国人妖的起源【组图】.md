@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细探讨了泰国人妖的起源及其社会背景，揭示了人妖现象背后复杂的文化和经济因素。在泰国，因家庭经济困境而将男孩抚养成女孩的现象较为普遍，父母希望他们长大后成为家庭的经济支柱。文章分层次介绍了不同类型的人妖，从单纯装扮到接受激素治疗的过程，以及社会对人妖的身份认同问题。大部分人妖在生理和心理上都经历了巨大的挑战，甚至在法律上仍然被认定为男性，尽管她们在社会中常以女性身份生活。此外，文章还提及全国以曼谷和芭堤雅为中心的人妖文化，分析了人妖现象的历史根源，包括二战时期美军的需求对这一群体的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,10 +96,10 @@
 | Size            | 6610 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 人妖, 泰国文化, 性别认同, 性别角色, 社会经济, 法律问题, 心理健康, 身份认同, 过渡经历, 人妖表演                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

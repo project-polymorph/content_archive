@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了泰国最美的“人妖皇后”拒绝了富豪的求婚，选择出家成为和尚的故事。文中详细阐述了她的生命故事，尤其是她如何在多元性别身份的背景下做出如此重大的决定。文章提到了泰国社会对人妖群体的文化接受度，以及存在的社会挑战。她的故事反映了个人与社会、传统与现代、性别认同方面的复杂关系。同时，文章回顾了媒体对此类事件的关注，展示了人妖文化的独特视角。故事不仅是个人经验的分享，也是社会文化现象的映射，为公众提供了对多元性别理解的机会。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,10 +62,10 @@
 | Size            | 1639 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 早安英文                               |
+| Region          | 泰国                               |
+| Date            | 2023-01-24                                 |
+| Tags            | 泰国, 人妖, 社会文化, 多元性别, 出家, 和尚, 生命故事, 性别认同, 婚姻, 文化接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

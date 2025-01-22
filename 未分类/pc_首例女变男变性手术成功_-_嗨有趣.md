@@ -16,7 +16,7 @@ Copyright Hiyouqu.com. All Rights Reserved.  苏ICP备08021577号
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了我国首例女变男变性手术成功的过程与结果，手术由著名整形外科专家何清濂教授于1991年10月在上海长征医院完成。手术的患者是一位患有易性癖的26岁姑娘，她因不能转换自己的性别而饱受精神困扰，面临着工作能力减退和生命威胁。经过医学评估，专家决定为她施行变性手术，最终她在生理和心理上逐渐适应了新的男性生活。这一手术不仅为她带来了希望，也标志着我国在多元性别领域迈出了重要一步。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,10 +29,10 @@ Copyright Hiyouqu.com. All Rights Reserved.  苏ICP备08021577号
 | Size            | 849 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新华社、何清濂教授                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-12-14                                 |
+| Tags            | 变性手术, 多元性别, 易性癖, 医疗资源, 心理健康, 手术成功, 整形外科, 生命故事, 中国医疗, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

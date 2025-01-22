@@ -73,7 +73,7 @@ Copyright 2024 www.alicesw.org Inc. all Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《伪娘小说列表》，包含了多个与伪娘主题相关的小说作品。文件结构为表格形式，列出了每部小说的序号、分类、书名、最新章节、作者、字数以及更新日期。各个小说涉及的主题包括伪娘的生活、冒险、转生等多种题材，反映了伪娘文化在网络文学中的存在与发展。内容丰富多样，小说风格各异，为感兴趣的读者提供了广泛的阅读选择。部分书名和情节设计大胆，可能包含一些成人内容，如“沉沦母子”“校草雌堕”等，展现了伪娘角色在不同环境中的角色扮演和身份探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@ Copyright 2024 www.alicesw.org Inc. all Rights Reserved
 | Size            | 13408 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-12-01                                 |
+| Tags            | 伪娘, 小说, 网络文学, 性别认同, 身份探索, 文学创作, 极限题材, 成人内容, 情感关系, 次文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

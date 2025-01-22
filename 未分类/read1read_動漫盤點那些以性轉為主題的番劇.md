@@ -87,7 +87,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档主要盘点了几部以性别转化为主题的动漫作品，指出性转作为一种特定的ACG（动画、漫画、游戏）萌属性，近年来在作品中的出现率显著提升。文章通过简要介绍六部相关动漫，包括《与变成了异世界美少女的大叔一起冒险》、《肯普法》、《别当欧尼醬了！》、《乱码1/2》、《我要变成双马尾》和《刀剑神域 幽灵子弹》，每部作品都在文中附带了角色转变的描述和配图，展示了性别转化所带来的冲突与趣味。通过这些作品，观众不仅可以欣赏到不同类型的角色，还有助于促进对性别流动性的理解与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,10 +100,10 @@
 | Size            | 2659 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 动漫资讯                               |
+| Region          | 未知                               |
+| Date            | 2023-03-22                                 |
+| Tags            | 性别转化, 动漫, 文化现象, 性转作品, ACG, 角色发展, 性别流动, 影视推荐, 观众接受度, 故事背景                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

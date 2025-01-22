@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+艺颂嗓音中心受邀参加于2016年12月16日在澳大利亚举办的变性人医疗保健及女性化手术商谈研讨会。该研讨会旨在探讨变性人群体在医疗保健方面的需求与挑战，并分享相关的医疗资源与经验。在活动中，参与者将讨论如何更好地为变性人提供医疗支持，以改善他们的生活质量和健康状况。会议的内容不仅包括医疗手段的探讨，还涉及法律政策、社会环境等多元性别相关的议题，旨在提升公众对变性人权益的认识与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,10 +44,10 @@
 | Size            | 2273 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-12-16                                 |
+| Tags            | 变性人, 医疗保健, 女性化手术, 爱心医疗, 医疗资源, 社会环境, 变性人权益, 研讨会, 生命故事, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

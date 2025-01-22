@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了两位变性人红颜和雪儿的故事，他们从相遇、相恋，到共同经历变性手术，再到决定再次手术回归男性身分的生路。红颜出生在一个经济拮据的家庭，年幼辍学后跟随姐姐打工，在广州结识了同样有过苦涩经历的雪儿。二人在经历了各自的生活挑战后，选择了通过反串的方式在夜场演出，以此谋生。随着对自身身份的认同和感情的加深，他们最终选择了相互扶持，共同经历变性手术，获得了男性和女性身份的难得体验。尽管变性后他们的事业获得了成功，收入也大幅提高，但随着时间的推移，他们又开始探讨更适合自己的生活方式。最终，红颜决定再度上手术台，恢复男性身份以与雪儿结婚，共同追求一段更加幸福的未来。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 10647 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 性别认同, 爱情故事, 手术经历, 人生选择, 夜场演出, 社会接受, 人际关系, 家庭背景, 未来憧憬                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

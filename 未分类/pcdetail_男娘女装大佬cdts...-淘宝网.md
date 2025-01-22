@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![产品图片](//gw.alicdn.com/imgextra/i2/O1CN013tIBin22GeFWjiaZb_!!6000000007093-2-tps-1297-1200.png)
+![产品图片](https://gw.alicdn.com/imgextra/i2/O1CN013tIBin22GeFWjiaZb_!!6000000007093-2-tps-1297-1200.png)
 
 已售 少于100  
 ￥32 点击查看更多
@@ -51,8 +51,8 @@ t**9
 ![店铺推荐](https://img.alicdn.com/imgextra/i3/O1CN01MsWlBa29wVnysxUvn_!!6000000008132-2-tps-750-880.png)
 
 **本店推荐**  
-![官方插件](//huodong.taobao.com/wow/z/tbhome/default/extension-download-guide?spm=a21bo.jianhua/a.20220530.1.6e742a89RInddJ&bc_fl_src=tbsite_YxOHU7Kn)  
-![联系客服](//gw.alicdn.com/imgextra/i3/O1CN01CEAqor1T5Bm2U3Ccm_!!6000000002330-2-tps-48-44.png)
+![官方插件](https://huodong.taobao.com/wow/z/tbhome/default/extension-download-guide?spm=a21bo.jianhua/a.20220530.1.6e742a89RInddJ&bc_fl_src=tbsite_YxOHU7Kn)  
+![联系客服](https://gw.alicdn.com/imgextra/i3/O1CN01CEAqor1T5Bm2U3Ccm_!!6000000002330-2-tps-48-44.png)
 
 **商品码**  
 扫一扫，去手机购买
@@ -62,7 +62,7 @@ t**9
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的主题围绕男娘和女装文化，突出了一种名为cdts的情趣用品，即后庭肛门阴道清洗器，主要面向同志群体。文中详细介绍了该产品的参数信息，包括品牌、型号和颜色分类，并附有多个图片展示，帮助消费者了解产品外观与使用情况。同时，用户评价部分也体现了其在市场中的接受程度。该文档不仅展示了商品信息，还反映了现代社会中对多元性别及其相关产品的需求和关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@ t**9
 | Size            | 2841 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 女装, 情趣用品, 同志用品, 后庭清洗器, 卫生用品, 市场需求, 性别多元, 购物指南, 产品评价                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

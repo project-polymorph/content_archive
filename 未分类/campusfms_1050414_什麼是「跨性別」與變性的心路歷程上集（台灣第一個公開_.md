@@ -42,7 +42,7 @@ Copyright © 2021 National Open University All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是《什麼是「跨性別」與變性的心路歷程》的上集，主要由台灣第一個公開的跨性別團體TG蝶園的成員高旭寬主持。節目於105年4月14日播出，探討了跨性别和变性的相关概念、经历与心路历程，旨在提升对性别多元的理解与尊重，并为社会对跨性别群体的认知提供更多信息。文件中提及的性别平等系列是由国立空中大学制作的，持续时间达30:02，特邀嘉宾为跨性别者，介绍了个人的过渡经历和挑战，同时也分享了一些医疗资源和法律政策的相关信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@ Copyright © 2021 National Open University All Rights Reserved.
 | Size            | 1154 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 龙芳瑜                               |
+| Region          | 台湾                               |
+| Date            | 2016-04-14                                 |
+| Tags            | 跨性别, 变性, 心路历程, 性别多元, TG蝶园, 性别平等, 医疗资源, 法律政策, 个人故事, 台湾                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -42,17 +42,17 @@
 
 ### 词条标签：
 
-- [文化](//Search.e?sp=S文化&sp=1&ch=ch.bk.tags)
-- [娱乐](//Search.e?sp=S娱乐&sp=1&ch=ch.bk.tags)
+- [文化](https://Search.e?sp=S文化&sp=1&ch=ch.bk.tags)
+- [娱乐](https://Search.e?sp=S娱乐&sp=1&ch=ch.bk.tags)
 
 ### 合作编辑者：
 
-- [巢板砥石](//usercenter/home.v?uid=u_51f0fef875b13edca73c595bf760c254)
-- [sy](//usercenter/home.v?uid=u_38c153c06ad0c45dd9f52ec957a015c6)
-- [雲べ獨冄墮落](//usercenter/home.v?uid=u_a50a97956c2fcc4a4308406c023c6a5d)
-- [￠じ☆ve旭](//usercenter/home.v?uid=u_f40d8e89cf829c5229e91a012c95777c)
-- [白露未晞](//usercenter/home.v?uid=u_b899318e2fdd0e265119fdffef8f7b84)
-- [憚身⒐s溡緔](//usercenter/home.v?uid=u_7a30e8ca5805b4deb0b44a932710bb0b)
+- [巢板砥石](https://usercenter/home.v?uid=u_51f0fef875b13edca73c595bf760c254)
+- [sy](https://usercenter/home.v?uid=u_38c153c06ad0c45dd9f52ec957a015c6)
+- [雲べ獨冄墮落](https://usercenter/home.v?uid=u_a50a97956c2fcc4a4308406c023c6a5d)
+- [￠じ☆ve旭](https://usercenter/home.v?uid=u_f40d8e89cf829c5229e91a012c95777c)
+- [白露未晞](https://usercenter/home.v?uid=u_b899318e2fdd0e265119fdffef8f7b84)
+- [憚身⒐s溡緔](https://usercenter/home.v?uid=u_7a30e8ca5805b4deb0b44a932710bb0b)
 
 ### 免责声明
 
@@ -63,14 +63,14 @@
 - 词条浏览：_5226次_
 - 最近更新：24.09.10
 - 编辑次数：_7次_
-- 创建者：[憚身⒐s溡緔](//usercenter/home.v?uid=u_7a30e8ca5805b4deb0b44a932710bb0b)
+- 创建者：[憚身⒐s溡緔](https://usercenter/home.v?uid=u_7a30e8ca5805b4deb0b44a932710bb0b)
 <!-- tcd_original_link https://baike.sogou.com/v74978333.htm -->
 
 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要介绍了“瑞穗”这一名词的多重含义，特别是它在伪娘文化中的高级模式。瑞穗不仅是日本第二大金融机构的名称，还在动漫《漂流少年》中出现过。伪娘被定义为在现实或二次元世界中扮演女性形象的男生。文章详细讲述了伪娘的起源，指出瑞穗这一名称最早来自于05年caramel-box公司的GALGAME《少女爱上姐姐》中的主人公，并且在今后流行于中国。文中还包括了相关的编辑者信息和免责声明，整体呈现出伪娘文化在中文网络中的传播与影响。该资料适合对多元性别文化、二次元文化以及相关社群现状感兴趣的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@
 | Size            | 2172 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-09-10                                 |
+| Tags            | 伪娘, 多元性别, 文化, 娱乐, 动漫, 少女爱上姐姐, 性别认同, 跨性别, 次文化, 日本文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

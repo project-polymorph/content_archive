@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![新华网](//www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
+![新华网](https://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
 
 ![杰米 舒平](http://www.xinhuanet.com/world/2016-06/14/ewm_1290593511n.jpg)
 

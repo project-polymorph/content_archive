@@ -61,9 +61,9 @@ Copyright © 2016-2025 Pearvideo. All Rights Reserved. 梨视频 版权所有
 
 ## 图片 { data-search-exclude }
 
-![梨视频](//page.pearvideo.com/webres/img/internet_culture173.png)  
+![梨视频](https://page.pearvideo.com/webres/img/internet_culture173.png)  
 ![诚信经营示范单位](https://trust.hss.org.cn/credit/crz2002.png)  
-![梨视频APP二维码](//page.pearvideo.com/webres/img/qr160_download4.png)  
+![梨视频APP二维码](https://page.pearvideo.com/webres/img/qr160_download4.png)  
 
 ---
 

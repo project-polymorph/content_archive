@@ -21,7 +21,7 @@
 
 [娘泡](/w/index.php?title=%E5%A8%98%E6%B3%A1&action=edit&redlink=1 "娘泡（页面不存在）")
 
-![维基百科](//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/32px-Wikipedia-logo.png)
+![维基百科](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/32px-Wikipedia-logo.png)
 
 [维基百科](https://zh.wikipedia.org/wiki/zh:%E5%A8%98%E7%82%AE "w:zh:娘炮")有一篇相关的条目：
 

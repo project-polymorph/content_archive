@@ -42,7 +42,7 @@ _问_**答**
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了男性变性隆胸手术的过程和影响。变性隆胸是一种假体隆胸术，适合身体条件为男性但希望通过手术达到女性胸部形态的人群。手术方法是在胸大肌下植入假体，切口设置在腋窝处，以取得隐蔽的效果。文章中描述了手术的尺寸和效果，包括能够达到东方女性的胸部标准。此外，文章还包含了一些相关的问答，如变性之后的性生活、是否能生育、手术的费用等，提供了丰富的信息供需要这一医疗服务的变性人群参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@ _问_**答**
 | Size            | 2615 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 隆胸, 假体手术, 男性变性, 性别过渡, 医疗资源, 性别认同, 身体自主权, 性别与健康, 变性手术经验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

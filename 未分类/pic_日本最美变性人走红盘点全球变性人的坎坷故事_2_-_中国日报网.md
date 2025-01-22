@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了日本变性人金星的故事，她是一位在全球颇具影响力的变性舞蹈家。这篇文章中提到，金星在幼年便梦想成为女性，并于28岁时顺利完成了变性手术，成为中国大陆首位变性人舞蹈家。文中详细叙述了金星的生活历程，包括她在艺术上的成就、感情生活以及为人母亲的经历，体现了她在追求自我认同过程中的努力与坎坷。文章还记录了金星在与德国男友汉斯结婚后复合的亲密关系，以及她对于社会和个人认同的重大影响。除了金星的故事，文章还提到变性人在社会中面临的挑战与误解，探讨了更广泛的多元性别话题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@
 | Size            | 2265 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国日报网                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-03-16                                 |
+| Tags            | 变性人, 金星, 现代舞, 社会认同, 变性美女, 医学与社会, 情感经历, 家庭, 法律与政策, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

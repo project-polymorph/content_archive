@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了变性美髮师章琳的故事，她为了与爱人能够长相厮守选择进行了变性手术，然而却因此负债累累，还遭受到来自周围人的误解和偏见。文章详细记录了章琳的心理历程和她与男友杨启成的恋情，以及他们为维护爱情和面对困难所做的努力。她为了能拥有一个完整的女性身份，不惜冒着高额的医疗费用和社会压力，展现了变性人在寻求爱的道路上所遭遇的挑战与困境。尽管生计艰难，章琳表示自己并不后悔选择变性，体现了她对爱情与自我认同的追求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 2616 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 林瑋鈞, 蕭應強                               |
+| Region          | 四川, 台湾                               |
+| Date            | 2004-03-09                                 |
+| Tags            | 变性, 爱情故事, 性别认同, 生活经历, 社会偏见, 美髮师, 财务困难, 性别转换手术, 地方文化, 个人奋斗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

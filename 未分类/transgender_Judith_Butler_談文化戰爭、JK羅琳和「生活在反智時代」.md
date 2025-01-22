@@ -78,7 +78,7 @@ Judith Butler：如果辯論是可能的話，我想首先必須要重新省思�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是对著名哲学家朱迪斯·巴特勒（Judith Butler）在一次专访中的深度讨论摘要，主题集中在性别身份、跨性别权利与女性主义之间的紧张关系。巴特勒在访谈中强调，性别是一个社会性表演（Performance），并探讨了在当代文化和政治语境下这一观点的重要性与演变。她对与JK罗琳的争议进行了回应，指出排除跨性别者的女性主义立场是不合理的，强调应当尊重跨性别者的自我认同，及其在社会中的应有地位。她批评了将跨性别者视为威胁的假设，并呼吁转变对性别话语的理解，以更好地促进对跨性别权益的公共认可和支持。此外，巴特勒在对话中也提到了社交媒体中反智文化对理性辩论的影响，以及对跨性别者遭遇网络暴力和恐吓的关注。整体而言，这篇访谈展示了对当代性别政治复杂性的重要见解，是对跨性别与女性主义讨论提供了深刻的理论反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,10 +91,10 @@ Judith Butler：如果辯論是可能的話，我想首先必須要重新省思�
 | Size            | 10122 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Alona Ferber（采访朱迪斯·巴特勒的编辑）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 跨性别权利, 朱迪斯·巴特勒, 女性主义, 性别表演, 性别认同, JK罗琳, 性别政策, 文化战争, 社交媒体影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

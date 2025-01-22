@@ -106,7 +106,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了刘霆（后更名为刘婷）在完成变性手术后接受采访的经历。文章详细描述了刘婷的背景，早年照顾母亲的故事，以及她在变性过程中所面临的挑战和社会态度的变化。报道称，刘霆在经历了一系列手术后，终于实现了成为女性的愿望，并在手术后感到“真的完整了”。她谈到希望未来能够发展自己的演艺事业，并与身边的母亲共同努力帮助更多需要帮助的人。
+
+刘婷在手术后的恢复过程以及与母亲的亲密关系被生动描绘。母亲陆永敏在女儿转变过程中表达了对女儿幸福的期盼，希望女儿能找到合适的伴侣。此外，文章也提到了为刘婷手术的医师团队构成，以及术后定期检查对于保持健康的重要性。整个报道反映了刘婷面临的并不仅仅是身体上的改变，还有社会对多元性别的接受过程。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,10 +121,10 @@
 | Size            | 9492 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张淑玲                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-08                                 |
+| Tags            | 多元性别, 变性, 道德模范, 刘霆, 采访, 性别认同, 手术经历, 社会认知, 母女关系, 演艺梦想                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -409,7 +409,7 @@ www\_当一个异装癖二十年的丈夫决定把秘密告诉妻子\_故事FM\_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件分享了一个名为艾美的异性装扮者的真实故事，他在过去二十年中一直在秘密地穿女装拍照。在故事中，艾美描述了他与妻子坦白自己是异装癖者的过程，以及这一秘密对他们婚姻的影响。故事中详细讲述了艾美自2002年大学时期起，如何获得机会和勇气去尝试穿女装的经历。他的一个重要转折点是在大学时期第一次去婚纱影楼拍照，尽管内心充满忐忑，但他最终享受到了穿上女装、化妆后的乐趣。艾美还分享了自我性别认同的想法，强调他与同性恋和跨性别并不相同，他只是单纯喜欢穿女装，而这种爱好并不会伤害他人。通过一系列内心的挣扎和转变，艾美展示了一个对异装癖解读的多元视角，同时也是对个人性别认同的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -422,10 +422,10 @@ www\_当一个异装癖二十年的丈夫决定把秘密告诉妻子\_故事FM\_
 | Size            | 36494 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 故事FM                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-12-30                                 |
+| Tags            | 异装癖, 性别认同, 个人故事, 真实记录, 社会接受度, 心理经历, 文化表达, 婚姻影响, 性别表达, 影楼拍摄                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由安广禄撰写，探讨了泰国的人妖文化及其背后的社会与经济原因。文章的开头介绍了在人妖表演盛行的泰国旅游胜地芭堤雅，许多游客出于好奇而观看这些表演。然而，表面光鲜的背后却隐藏着人妖们不为人知的辛酸故事。通过具体实例，笔者深刻地揭示了人妖的成因，他们通常出自贫困家庭，被迫接受身体与心理上的强制改变，以至于他们的生活与选择都受到社会和经济的极大限制。人妖演员们的寿命普遍较短，常常活不过四十岁。为此，泰国政府开始重视人妖的身体健康，提供药物以延长他们的寿命。尽管人妖在社会中偶尔受到欢迎，但他们在现实生活中的生存状态却令人心碎。文末以诗意的视角反思人妖的命运，暗示其背后的社会结构问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -98,10 +98,10 @@
 | Size            | 8084 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 安广禄                               |
+| Region          | 泰国                               |
+| Date            | 2019-01-01                                 |
+| Tags            | 人妖文化, 泰国旅游, 性别认同, 社会压迫, 经济因素, 生命故事, 过渡经历, 性别多样性, 法律政策, 社会现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

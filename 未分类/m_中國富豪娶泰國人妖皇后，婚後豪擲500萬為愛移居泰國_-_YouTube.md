@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位中国富豪与泰国人妖皇后的跨国婚姻故事。内容描述了他们在结婚后的生活，富豪为爱移居泰国并豪掷500万，展现了他们之间温暖与爱的真实互动。通过YouTube频道'第五情報站'发布，该视频希望传递正能量与幸福感，反映多元性别群体的生活经历与社会接受度。该视频在发布后取得了51,062次观看，评论区充满了对这对夫妻的祝福与支持，反映出社会对多元性别婚姻的日渐开放与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 1315 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-08-17                                 |
+| Tags            | 跨国婚姻, 贵族, 混血, 爱心, 正能量, 暖心, 跨国家庭, 幸福人生, 分享, 温暖                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

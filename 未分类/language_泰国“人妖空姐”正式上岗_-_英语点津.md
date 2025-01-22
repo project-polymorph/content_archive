@@ -48,7 +48,7 @@ _Vocabulary:_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了泰国首家招募跨性别者空姐的新闻，标志着泰国在接受和包容性别多样性方面的重要进展。文章指出，被称为人妖的变性人和跨性别者目前在泰国的许多行业中都占有一席之地，尤其是在化妆品和药店等行业。新成立的PC航空首个航班上，22岁的变性人谭雅娜作为空姐为乘客提供服务，她希望这一举措能为变性人开启更多工作机会。航空公司总裁表示，跨性别空姐的服务可能更具优势，因她们能更好地理解男性和女性乘客的需求。文章最后提到新招募的跨性别空姐经过了专业的培训，并指出PC航空的网络涵盖泰国及其他亚洲国家的航线。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@ _Vocabulary:_
 | Size            | 3156 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国日报网                               |
+| Region          | 泰国                               |
+| Date            | 2011-12-19                                 |
+| Tags            | 跨性别, 人妖, 变性人, 航空业, 性别多样性, 性别认同, 社会包容, 就业机会, 泰国, PC航空                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为黄硯琳所撰写的硕士论文，题为《跨越性別的高牆：跨性別者的生命紀實》，于2018年4月18日完成，且由国立台湾大学社會科學院出版。随着全球同志婚姻合法化，台湾社会对于同性恋的故事逐渐熟悉，但对于跨性别群体的认知仍显不足。本研究通过对三十余名跨性别者的深度访谈，记录并呈现了他们的生命故事和生存经历，探讨了当代跨性别者面临的认同、情感和工作问题。文中涉及跨性别者自我的性别探索、身体改造工具、亲密关系及其社会职场的经历，反映出跨性别社群日益多样化的现实与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,10 +96,10 @@
 | Size            | 3421 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 黃硯琳 (Yan-Lin Huang)                               |
+| Region          | 台湾                               |
+| Date            | 2018-04-18                                 |
+| Tags            | 跨性别者, 性别认同, 生命故事, 社会调查, 性别理论, 台灣, 职场经验, 亲密关系, 身体改造, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

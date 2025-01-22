@@ -3,8 +3,8 @@
 ## 正文 { data-search-exclude }
 
 
-![男人壳女人心,“易性癖”怎么办?](//pic.616pic.com/word_preview/00/47/13/pkhZOZIL9Q62904796501ba.jpg-0.jpg!/fw/800/quality/90/unsharp/true/compress/true?) 
-![男人壳女人心,“易性癖”怎么办?](//pic.616pic.com/word_preview/00/47/13/pkhZOZIL9Q62904796501ba.jpg-1.jpg!/fw/800/quality/90/unsharp/true/compress/true?) 
+![男人壳女人心,“易性癖”怎么办?](https://pic.616pic.com/word_preview/00/47/13/pkhZOZIL9Q62904796501ba.jpg-0.jpg!/fw/800/quality/90/unsharp/true/compress/true?) 
+![男人壳女人心,“易性癖”怎么办?](https://pic.616pic.com/word_preview/00/47/13/pkhZOZIL9Q62904796501ba.jpg-1.jpg!/fw/800/quality/90/unsharp/true/compress/true?) 
 ![男人壳女人心,“易性癖”怎么办?](http://static.616pic.com/img/load.png)
 
 \[ 声明 \] 本站图片来自用户分享，仅限学习交流请勿用于商业用途。
@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《男人壳女人心，“易性癖”怎么办?》，讨论了易性癖的定义、表现及相关心理和社会压力。文中通过图片和文字的形式传达了对这一现象的关注，强调了对多元性别群体的理解和支持。该文件进一步探讨了易性癖者在生活中可能遇到的各种挑战，以及如何寻求帮助和资源，旨在为读者提供一些实用的信息与指导。同时，文末包含了版权声明，提醒读者本内容仅供学习交流使用，禁止商业用途。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 1259 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 易性癖, 心理健康, 社会支持, 性别研究, 过渡经历, 生活挑战, 医疗资源, 人权, 法律问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

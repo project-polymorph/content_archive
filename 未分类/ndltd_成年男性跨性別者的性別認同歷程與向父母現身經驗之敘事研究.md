@@ -124,7 +124,7 @@ The purpose of this research is to reveal the process of gender identity of adul
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于成年男性跨性别者的性别认同历程和向父母现身经验的叙事研究。研究者林以珊通过半结构式深度访谈的方式，记录了三位成年男性跨性别者的生命故事，并探讨了他们在性别认同过程中的困惑与挑战。研究揭示了跨性别者的认同历程分为六个阶段，分别为‘无／微性别意识期’、‘性别困惑期’、‘性别认同期’、‘认同探索与展现期’、‘现身期’及‘认同圆满期’。 每个阶段的经历都是相互交织、影响的，最终促进跨性别者建立个人的认同。此外，本文还讨论了跨性别者家庭关系的影响以及所得支持系统，包括家人、朋友和社会群体等。同时，研究还指出父母对于跨性别孩子的反应多源于对跨性别概念的误解与害怕，其中存在的障碍和挑战值得关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -137,10 +137,10 @@ The purpose of this research is to reveal the process of gender identity of adul
 | Size            | 7145 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 林以珊 / LIN, YI-SHAN                               |
+| Region          | 台湾                               |
+| Date            | 2018-01-17                                 |
+| Tags            | 跨性别, 性别认同, 现身经验, 叙事研究, 成年男性, 家庭关系, 心理支持, 性别困扰, 人际霸凌, 社会理解                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

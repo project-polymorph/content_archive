@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章标题为《同性高颜值体育生被伪娘勾引十四季》，主要围绕一位高颜值的同性体育生与一个伪娘之间的情感故事展开。内容通过视频片段展示了他们之间的互动，以及他们在健身房和私人生活中的亲密关系。这部视频由作者康康2011制作，时长为13分44秒，且在发布后获得了17.3K的观看量。文章还提及与该视频相关的一系列其他视频，涉及其他主题如男男情侣和体育生的互动，表现出在当代社会中同性恋情的多样性和复杂性。此外，文章提到了各种社交和观念的演变，反映了多元性别群体在当今社会的生存状态与心理态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,10 +108,10 @@
 | Size            | 2471 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 康康2011                               |
+| Region          | 未知                               |
+| Date            | 2020-03-31                                 |
+| Tags            | 多元性别, 同性恋, 体育生, 伪娘, 情感故事, 视频分享, 同性关系, 社会观念, 性别多样性, 爱情与性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

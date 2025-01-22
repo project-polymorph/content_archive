@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了泰国最美人妖皇后TOP10的图片收藏，展示了这些人妖的亮丽外表和精致身材。文章中配有多张彩色照片，生动展现了她们的独特魅力和在泰国文化中的地位。依据东北网的信息，文章发布于2015年6月26日，由编辑高琳琳整理。文中提到，泰国的跨性别者（人妖）文化在全球范围内闻名，以其光鲜亮丽的形象吸引众多游客，加深了社会对多元性别的理解和认知。此外，文章还提供了一些相关的标签，例如“泰国人妖”、“完美胸部”、“皇后”等，以帮助读者快速获取与主题相关的信息。在这些描述中，虽然呈现的是生动的视觉艺术表现，但也反映出多元性别群体所经历的社会接纳与文化展示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,10 +45,10 @@
 | Size            | 1938 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国日报网                               |
+| Region          | 中国                               |
+| Date            | 2015-06-26                                 |
+| Tags            | 泰国, 人妖, 皇后, 多元性别, 性别认同, 文化, 生活方式, 社群, 社交, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

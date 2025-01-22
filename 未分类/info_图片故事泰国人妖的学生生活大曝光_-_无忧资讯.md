@@ -35,7 +35,7 @@ A生于泰国中产阶层家庭，“她”当人妖不是为了赚钱，而是�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了泰国人妖（即变性者）在学校的生活以及她们所经历的困难与挑战。文章中指出，虽然人妖在泰国并不遭受严重的歧视，但她们在社会中仍然面临许多困难。根据统计，至20世纪90年代，泰国的变性人数量已超过两万。大多数人妖选择这一生活方式是为了经济原因，其中一些则是因为自己的性别认同。文章通过讲述名为A的变性人的故事，阐述了她在大学学习、成为人妖演员、经济困境和社会认同带来的心理挣扎。A经历了从自我认同到性别确认手术的过程，最终反映了人妖在演艺圈中的奋斗与生存状态。文章还提到，尽管人妖表演成为泰国旅游的一大亮点，但其背后的生存艰辛同样不容忽视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@ A生于泰国中产阶层家庭，“她”当人妖不是为了赚钱，而是�
 | Size            | 3490 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 无忧资讯                               |
+| Region          | 泰国                               |
+| Date            | 2009-08-23                                 |
+| Tags            | 泰国, 人妖, 变性者, 性别认同, 学生生活, 社会接受度, 经济困境, 演艺圈, 性别政策, 文化差异                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

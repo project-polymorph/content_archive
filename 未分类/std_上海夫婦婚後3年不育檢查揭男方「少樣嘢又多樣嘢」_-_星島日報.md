@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一对在上海结婚三年的夫妇因不育而求医的案例，经过检查发现男方实际上在生理上是女性，确诊为性发育异常（DSD）。患者因先天性腎上腺皮質增生症，造成了男性化的外生殖器，而其体内仍存在子宫。文中详细介绍了患者的病史和就诊经过，包括多次的治疗情况以及目前的生活身份等。此案例展示了性别不是简单的生理二元，而是一个复杂的概念，涉及多元的身份认同。文章引发了对性别认同与医疗体系的深思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 2425 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 星岛日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-20                                 |
+| Tags            | 性发育异常, 不育, 上海, DSD, 性别认同, 医疗报告, 婚后生活, 病例研究, 性别多元, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

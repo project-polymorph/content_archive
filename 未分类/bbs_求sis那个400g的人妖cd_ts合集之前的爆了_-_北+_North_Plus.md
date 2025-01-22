@@ -334,7 +334,7 @@ Mark
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于寻求分享特定类别内容的帖子，内容涉及400G的‘人妖’CD与变性人（TS）相关的资源汇总。帖子中多位用户讨论了对这些资源的需求、分享与购买的经历，反映了相关社群对该特定内容的关注及其流行程度。帖子提及，有用户发现之前的链接失效，等待其他用户重新分享，显示出在社交网络中资源分享的动态。此外，讨论中还包含一些关于该类资源内容的评价和用户交互，体现了活跃的社区文化与实时的交流气氛。此帖以及众多回复之生成时间大致在2019年3月，中间夹杂对内容的感慨与请求，进一步揭示了网络社群对变性与跨性别主题内容的需求和普遍的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -347,10 +347,10 @@ Mark
 | Size            | 6057 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-03-11                                 |
+| Tags            | 人妖, 变性人, 资源分享, 社交网络, 社区文化, 用户讨论, 内容需求, 网络互动, 更新链接, 特定类别内容                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

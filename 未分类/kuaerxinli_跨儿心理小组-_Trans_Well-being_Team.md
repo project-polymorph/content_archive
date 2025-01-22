@@ -84,7 +84,7 @@ Trans Well-being Team
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于跨儿心理小组（Trans Well-being Team）的介绍，旨在关注跨性别儿童的心理健康，致力于提高他们的福祉并促进社会对性别多元的理解与接纳。该组织提供心理咨询服务，并提供相关的心理健康热线。\n\n文件中介绍了跨儿心理小组的宗旨与服务，包括心理热线的实时服务、心理咨询的补贴等信息。同时还提到组织的社群活动与资源，邀请跨儿及其家庭加入跨儿微信群，以共享经验和支持。\n\n此外，文中包含了跨儿新闻报以及公众教育的链接，展示了该组织在社区中的积极作用，提供了与跨性别相关的研究、培训、文章与采访等丰富信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@ Trans Well-being Team
 | Size            | 4944 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 跨儿心理团队                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-08-22                                 |
+| Tags            | 跨性别, 心理健康, 儿童心理服务, 社会支持, 性别多元, 公益团队, 心理咨询, 社群活动, 资源分享, 公众教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

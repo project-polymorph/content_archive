@@ -96,7 +96,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本书《台灣跨性別前史：醫療、風俗誌與亞際遭逢》由陳薇真所著，是一部深入探讨台灣跨性别历史及相关社会运动的研究作品。书中详细回顾了自解严后台湾社会运动的演变，挖掘了那些在妇女运动和同志运动中被忽略的多元生命存在，试图建立起台湾跨性别群体的历史感与主体性。书中指出，跨性别现象并非源自西方，而是台湾本土历史经过长久以来的塑造。通过探讨变性手术的发展历程以及与之相关的社会政治因素，作者也提到了“人妖”这一概念在华文地区的复杂文化意义。作者运用历史化的方法呼应当前跨性别群体在主流文化中的体现与不足，期望提出地方性与另类的未来可能性。这部作品不仅是对学术界的贡献，也是对社会普及教育的重要参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,10 +109,10 @@
 | Size            | 6784 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陳薇真                               |
+| Region          | 台灣                               |
+| Date            | 2016-06-16                                 |
+| Tags            | 性別研究, 變性手術, 跨性別, 社會運動, 性別政治, 生命故事, 文學藝術, 醫療資源, 法律政策, 歷史回顧                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

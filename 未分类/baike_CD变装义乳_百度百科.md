@@ -70,7 +70,7 @@ CD变装义乳的概述图
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档详细介绍了CD变装义乳的相关信息，主要用于男扮女装的义乳。文中首先定义了CD变装义乳，并指出它是专门为性别认同不满足，想通过外观改变性别形象的人群所设计。接着，文档为读者提供了CD变装义乳的主要特点，包括其形状、佩戴方式及设计目的，与手术义乳的区别等。文档还将CD变装义乳分为多个类型，涵盖功能、使用方法、形状及材料等方面。同时，文档中给出了选择CD变装义乳时需提供的个人信息以及如何选择合适的义乳，确保其协调与美观。此外，配件部分介绍了与CD变装义乳相关的附属设备，如义乳胶水和肩带。最后，文档通过统计数据指出了该条目的浏览和编辑频率，体现了其受欢迎程度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@ CD变装义乳的概述图
 | Size            | 3257 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Amyxiao9785                               |
+| Region          | 未知                               |
+| Date            | 2023-06-02                                 |
+| Tags            | CD变装义乳, 性别认同, 男扮女装, 义乳选择, 医疗资源, 身体正义, 社会接受度, 舞台演出, 性别表达, 跨性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

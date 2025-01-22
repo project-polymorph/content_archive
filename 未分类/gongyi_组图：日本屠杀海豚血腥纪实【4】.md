@@ -30,7 +30,7 @@ _(责编：史雅乔、毕磊)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了日本屠杀海豚的血腥场面，揭示了这一被广泛批评的捕杀行为的内幕。根据报道，当海豚进入捕杀区后，有些海豚会被挑选出来送往海豚馆，价格可高达15万美元。这表明了海豚捕杀背后的经济利益与道德争议。同时，文中提到了一系列相关的延伸阅读链接，这些链接涉及变性手术的全过程、日本捕杀鲸鱼的血腥场景，以及其他动物被猎杀的记录，突显出全球范围内对动物保护和人道主义的讨论。综上所述，此文件不仅仅关注海豚的血腥捕杀，也反映了动物权益议题在社会中逐渐受到关注的趋势。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@ _(责编：史雅乔、毕磊)_
 | Size            | 1670 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球网                               |
+| Region          | 日本                               |
+| Date            | 2014-02-08                                 |
+| Tags            | 海豚屠杀, 动物保护, 变性手术, 捕鲸, 血腥场景, 公益, 社会环境, 人道主义, 生存现状, 曝光                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

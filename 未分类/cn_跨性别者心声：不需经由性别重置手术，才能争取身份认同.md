@@ -143,7 +143,7 @@ Q 穿上男生校服回校找老师拍照，老师们也有点愕然、气氛有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇有关跨性别者身份认同与法律挑战的报道，聚焦于一位在香港生活的跨性别男子Q先生的故事。Q先生于英国读大学期间成功将护照上的性别改为男性，但回到香港后，他的身份证性别却被官僚制度强制为女性，尽管他已进行了胸部切除手术。香港的法律要求跨性别者必须完成整套性别重置手术才能更改身份证性别，这引发了Q先生及其他受害者的司法挑战。文章详细描述了他在法庭上的斗争与困惑，表达了跨性别者在生活中遇到的挑战与痛苦，包括身份证与外表不符所带来的歧视和困扰，展示他与朋友们如何在困难中相互支持，以及他希望通过这次司法挑战争取权利的勇气。不仅是个人故事，也是对香港法律与跨性别者权益的深刻反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -156,10 +156,10 @@ Q 穿上男生校服回校找老师拍照，老师们也有点愕然、气氛有
 | Size            | 15749 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 立场新闻                               |
+| Region          | 香港                               |
+| Date            | 2019-02-19                                 |
+| Tags            | 跨性别, 身份认同, 法律挑战, 性别重置手术, 性别歧视, 社会公平, 香港法律, 司法覆核, 生活经历, 医疗经验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

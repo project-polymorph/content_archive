@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一场关于多元性别意识的培力活动，主题为「不合群的身体，塞不下标准的人」。该活动由台湾同志咨询热线社群发展部主任林昱君主讲，于2023年2月3日在台中水湳校本部举办。活动旨在提升教师及学生对多元性别者的理解与尊重，探讨多元性别者在生活中可能面临的问题与需求，分享可用的资源与支持网络。讲座内容涵盖如何面对不友善的言行，促进相互同理与包容，强调自我接纳和自我保护，降低被害风险，营造一个友善的校园环境。此外，文件中还提供了相关的性平申诉窗口和学生校外实习的性平资源链接，增进性别平等教育与意识的宣传。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@
 | Size            | 5886 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 台湾同志咨询热线社群发展部林昱君                               |
+| Region          | 台湾                               |
+| Date            | 2023-02-03                                 |
+| Tags            | 多元性别, 性别意识, 培力活动, 社会支持, 校园环境, 自我接纳, 性别平等教育, 同志权益, 心理健康, 性别差异                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为多元性别相关信息的整理记录，涵盖了众多重要的日期和与跨性别医疗的相关讨论。文件中提到了一些重要的医疗资源和经验，以及对当前跨性别医疗政策的解析。作者沙奈朵（大根茎形态）通过引用多个来源的信息，详细介绍了跨性别者在医疗过程中所需的各种材料及程序，包括手术准备、伦理审查等。因此，文中强调及时准备和了解医疗政策的重要性。文件还涉及了社会对跨性别的看法、网络评论和相关法律政策的争议，给读者提供了一个多维度的视角来理解跨性别者的经历和生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 5617 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 沙奈朵 （大根茎形态）                               |
+| Region          | 未知                               |
+| Date            | 2022-06-07                                 |
+| Tags            | 多元性别, 跨性别医疗, 手术经验, 伦理审查, 法律政策, 生存现状, 医学资源, Telegram, 网络讨论, 社会认知                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

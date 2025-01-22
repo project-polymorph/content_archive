@@ -17,7 +17,7 @@
 
 “但我很高兴自己没有得到这个角色。”孟辛格说。她是一名跨性别女性。“我看到了电影中的一首歌舞，看到自己曾经试镜过的角色正在以一种奇怪的暴力方式舞蹈。当时我的第一反应是，这看起来太可怕了。”
 
-![《吉祥天女》预告片截图](//img.allhistory.com/now/2020-11-08/5fa7dc045ed47a0001cee12f.png?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
+![《吉祥天女》预告片截图](https://img.allhistory.com/now/2020-11-08/5fa7dc045ed47a0001cee12f.png?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
 
 在宝莱坞电影中，跨性别角色常常以一种极其暴力或嘲弄的方式被描述出来。
 
@@ -29,7 +29,7 @@
 
 考虑到宝莱坞的影响力，该电影的预告片引发了一部分跨性别人士的愤怒，还有一些抵制该片上映的呼吁出现在社交媒体上。推特用户IndraJeet\_G发起了一场社交媒体活动，恳求迪士尼不要上映这部电影。“电影直接导致了对跨性别者的暴力。不要上映《吉祥天女》。”ta给推特帖子打上#DisneyStopTransphobia的标签，鼓励其他人转发这一信息。
 
-![网友呼吁抵制《吉祥天女》](//img.allhistory.com/now/2020-11-08/5fa7dc535ed47a0001cee133.png?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
+![网友呼吁抵制《吉祥天女》](https://img.allhistory.com/now/2020-11-08/5fa7dc535ed47a0001cee133.png?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
 
 ## “新的污名” { data-search-exclude }
 
@@ -41,7 +41,7 @@
 
 楚达瓦拉指出，电影《吉祥天女》的导演劳伦斯执导上一部电影《坎恰纳》（Kanchana）在2011年上映时，就招致针对跨性别群体的诽谤增加。
 
-![《坎恰纳》](//img.allhistory.com/now/2020-11-08/5fa7dc895ed47a0001cee134.jpg?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
+![《坎恰纳》](https://img.allhistory.com/now/2020-11-08/5fa7dc895ed47a0001cee134.jpg?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
 
 实际上，《吉祥天女》正是《坎恰纳》的印地语翻拍版本。
 
@@ -67,7 +67,7 @@
 
 去年，孟买的电影制片人法拉兹·安萨里（Faraz Arif Ansari）组织了一系列跨性别演员的表演研讨会，为他们在行业中创造更多空间。研讨会的目的是为安萨里正在制作的一部电影找到一名跨性别演员。
 
-![法拉兹·安萨里](//img.allhistory.com/now/2020-11-08/5fa7dd005ed47a0001cee135.jpg?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
+![法拉兹·安萨里](https://img.allhistory.com/now/2020-11-08/5fa7dd005ed47a0001cee135.jpg?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
 
 可他目前还没有找到一个。
 
@@ -85,7 +85,7 @@ _1，https://www.out.com/film/2020/11/05/disney-laxmii-bollywood-transphobia-tra
 
 _2，https://www.vice.com/en/article/k7a8wy/a-new-bollywood-movie-plays-into-transphobic-stereotypes-yet-again_
 
-![相关图片](//img.allhistory.com/now/2020-11-09/5fa8b024d7f8a70001e50452.jpg?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
+![相关图片](https://img.allhistory.com/now/2020-11-09/5fa8b024d7f8a70001e50452.jpg?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
 
 阅读数 9216
 
@@ -96,7 +96,7 @@ _2，https://www.vice.com/en/article/k7a8wy/a-new-bollywood-movie-plays-into-tra
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了宝莱坞电影《吉祥天女》的争议，特别是针对其对跨性别角色的表现和描绘所产生的反馈。电影由拉格哈瓦·劳伦斯执导，讲述了一个男人被跨性别女性的鬼魂附身的故事，发布的预告片引起了人们对跨性别者刻板印象的激烈讨论。许多评论者认为，这部电影的呈现方式不仅未能正面反映跨性别者的真实生活，更是通过暴力和嘲弄来描述他们，加深了社会对这一群体的误解与污名。文章中提到，跨性别者在印度面临的暴力与社会歧视问题依然严重，尽管影片导演承诺捐款建立跨性别之家以缓和争议，但许多活动家依然对此持批评态度，认为这并不能弥补影片造成的伤害。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,10 +109,10 @@ _2，https://www.vice.com/en/article/k7a8wy/a-new-bollywood-movie-plays-into-tra
 | Size            | 9046 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 全知识                               |
+| Region          | 印度                               |
+| Date            | 2020-11-08                                 |
+| Tags            | 跨性别, 宝莱坞, 吉祥天女, 性别刻板印象, 影视作品, 社会歧视, 跨性别权利, 暴力, 电影争议, 印度电影                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

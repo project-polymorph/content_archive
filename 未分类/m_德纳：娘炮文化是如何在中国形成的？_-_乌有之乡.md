@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由德纳撰写，探讨了“娘炮文化”在中国的形成及其背后的复杂历史背景。文章回顾了二战后美国对日本文化的影响，以及这种影响如何反向传播至韩国，最终影响到中国的男性形象。作者指出，‘娘炮文化’的兴起不仅是外部势力的渗透，也与犹太资本的推动分不开。同时，文中还提及了胡适等历史人物对中国男性气质改变的影响，以及美国中央情报局制定的策略对中国年轻人的思想教育的潜在影响。文章对当前社会对男性形象的讨论展开了深刻的思考，强调了文化和意识形态的渗透对国家和民族自信心的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 3922 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 德纳                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-08                                 |
+| Tags            | 娘炮文化, 文化影响, 男性气质, 美国冷战, 日本文化, 犹太资本, 历史分析, 社会思想, 性别研究, 文化自信                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

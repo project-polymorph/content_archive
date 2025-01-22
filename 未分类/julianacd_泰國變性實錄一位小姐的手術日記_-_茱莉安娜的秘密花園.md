@@ -27,8 +27,8 @@
 
 ---
 
-![arrow](//front.pixfs.net/images/blog/post/desktop/poi_btn_arrow_back.svg?v=d7bcde2b13e858972204c3e3905b21b4)
-![arrow](//front.pixfs.net/images/blog/post/desktop/poi_btn_arrow_next.svg?v=d7bcde2b13e858972204c3e3905b21b4)
+![arrow](https://front.pixfs.net/images/blog/post/desktop/poi_btn_arrow_back.svg?v=d7bcde2b13e858972204c3e3905b21b4)
+![arrow](https://front.pixfs.net/images/blog/post/desktop/poi_btn_arrow_next.svg?v=d7bcde2b13e858972204c3e3905b21b4)
 
 **注释:** 此文章来自我的老朋友 艾丝 (Aice)《[swsxsws1@yahoo.com](mailto:swsxsws1@yahoo.com)》。  
 **参考资料:** [http://swsxsws.com/thailand.htm](http://swsxsws.com/thailand.htm)
@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《泰国变性实录 一位小姐的手术日记》，由艾丝姑娘撰写并编者茱莉安娜整理。内容记录了一位已婚男性转变为女性的经历和在泰国进行变性手术的详细过程。日记中详细描述了手术前的准备、与医生的沟通、手术的实施以及术后的恢复过程。文中提到，手术费用相对低廉且医疗服务专业，手术期间作者感受到的未知与兴奋。作者与病友Tammy共同经历了这一过程，记录了她们的情感变化与强烈的自我认同。文件还包含一些实际的医疗建议与经验分享，突出手术的安全性与满意度，以及泰国友好的医疗环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@
 | Size            | 32152 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 艾丝姑娘 (Aice)                               |
+| Region          | 未知                               |
+| Date            | 1999-11-06                                 |
+| Tags            | 变性手术, 性别认同, 泰国医疗, 个人经历, 心理辅导, 医学报告, 女性化手术, 生活故事, 跨性别, 手术日记                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

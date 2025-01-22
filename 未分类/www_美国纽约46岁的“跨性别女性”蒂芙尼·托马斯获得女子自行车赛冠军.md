@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![蒂芙尼·托马斯](//i1.hdslb.com/bfs/archive/aa2ccceb8f74a1b52b6a860449444ebb36309b14.jpg@100w_100h_1c.webp)
+![蒂芙尼·托马斯](https://i1.hdslb.com/bfs/archive/aa2ccceb8f74a1b52b6a860449444ebb36309b14.jpg@100w_100h_1c.webp)
 
 **时间:** 2023-04-30 13:06:10
 
@@ -12,7 +12,7 @@
 **正文:**
 美国纽约46岁的“跨性别女性”蒂芙尼·托马斯获得女子自行车赛冠军，ta说感觉自己像个“超级英雄”。
 
-![蒂芙尼·托马斯](//i0.hdslb.com/bfs/face/27ed55e0702f48336c84da57c3e9660588724d65.jpg@96w.webp)
+![蒂芙尼·托马斯](https://i0.hdslb.com/bfs/face/27ed55e0702f48336c84da57c3e9660588724d65.jpg@96w.webp)
 
 ---
 

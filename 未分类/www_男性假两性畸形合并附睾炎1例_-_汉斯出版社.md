@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-**DOI:** [10.12677/ACM.2023.13112497](https://doi.org/10.12677/ACM.2023.13112497), [PDF](//pdf.hanspub.org/acm20231100000_28941278.pdf), [HTML](//www.hanspub.org/journal/paperinformation?paperid=75482), [XML](//image.hanspub.org/xml/75482.xml),  [被引量](citations?paperid=75482&journalid=597) 下载:63  浏览:191   
+**DOI:** [10.12677/ACM.2023.13112497](https://doi.org/10.12677/ACM.2023.13112497), [PDF](https://pdf.hanspub.org/acm20231100000_28941278.pdf), [HTML](https://www.hanspub.org/journal/paperinformation?paperid=75482), [XML](https://image.hanspub.org/xml/75482.xml),  [被引量](citations?paperid=75482&journalid=597) 下载:63  浏览:191   
 
 **作者:** [唐园源](articles?searchcode=%e5%94%90%e5%9b%ad%e6%ba%90&searchfield=authors&page=1)：成都中医药大学临床医学院，四川 成都；[陈泽君\*](articles?searchcode=%e9%99%88%e6%b3%bd%e5%90%9b&searchfield=authors&page=1)：成都市第一人民医院肾内科，四川 成都   
 

@@ -89,7 +89,7 @@ Genderfluid is a gender identity which refers to a gender which varies over time
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了非二元性别的概念，定义了相关术语，并提供了对流性人（Genderfluid）身份的描述。非二元性别指的是超越传统的男性和女性二元分类的性别认同，其表现形式多种多样，可能随着时间的推移而变化。文章中提到，非二元性别者可能在某些时刻感到自己是男性，而在其他时刻则感到自己是女性，甚至可以是两者或者不属于这两个类别。文件中引用了一些专业的翻译和相关文献，比如对非二元性别和流体性别的定义，并附上了多位专家的建议与翻译。文章旨在增加对非二元性别的理解和接受，倡导尊重每个人的性别认同。值得注意的是，文件还提到，询问一个人他们的性别身份是保持适当礼貌和尊重的做法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,10 +102,10 @@ Genderfluid is a gender identity which refers to a gender which varies over time
 | Size            | 2083 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Frank Feng                               |
+| Region          | 未知                               |
+| Date            | 2021-04-26                                 |
+| Tags            | 性别, 非二元性别, 流性人, 性别认同, 性别流动性, 社会性别, 性别多样性, 文化认知, 性别研究, 翻译术语                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

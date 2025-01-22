@@ -90,7 +90,7 @@ Too much money is spent treating the worried well rather than people who are act
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为剑桥词典中关于“焦虑”一词的中英文翻译及相关信息，提供了‘焦虑’的词汇定义，包括它的发音、用法以及在不同情境中的例句。文中强调了‘焦虑’作为一种情感状态，通常涉及对未来可能发生事件的担忧与不安，例如，孩子们在第一天上学前往往会感到‘焦虑’。文件还列出了与‘焦虑’相关的词汇，如‘紧张(tension)’、‘不安(nervousness)’和‘忧虑(disquiet)’，并附带了每个词汇的相关释义与例句。此外，还提供了一个关于健康人焦虑身体状况的定义，描述了‘焦虑自己身体状况的健康人’的概念。整体而言，文件通过多种维度分析了‘焦虑’这一心理状态及其表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -103,10 +103,10 @@ Too much money is spent treating the worried well rather than people who are act
 | Size            | 4026 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 焦虑, 心理健康, 词典, 中英文翻译, 状态词汇, 剑桥词典, 情感状态, 教育焦虑, 健康人焦虑, 情感表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -6,17 +6,17 @@
 ![变性人](https://count.pcbaby.com.cn/count.php?__uuid=000035088:1.0:cms&channel=3423&screen=800*600&refer=&anticache=1736851554090&url=https%3A%2F%2Fbaike.pcbaby.com.cn%2Fyycs%2F1603%2F2817019.html&from=cms&customInformation=&cookieEnable=true&gmvshows=&iframeCode=0)
 
 **时间**: 2016-03-18 09:31:30  
-**出处**: [PCbaby](//baike.pcbaby.com.cn/yycs/1603/2817019.html)  
+**出处**: [PCbaby](https://baike.pcbaby.com.cn/yycs/1603/2817019.html)  
 **作者**: 佚名  
 
 **标签**: 
-- [变性人能生育吗](//baike.pcbaby.com.cn/qzbd/13115.html) 
-- [不孕不育的原因](//baike.pcbaby.com.cn/qzbd/1401.html) 
-- [不孕不育](//baike.pcbaby.com.cn/qzbd/1132261.html) 
-- [备孕1个月](//baike.pcbaby.com.cn/qzbd/5025.html) 
-- [备孕](//baike.pcbaby.com.cn/yunqian.html) 
+- [变性人能生育吗](https://baike.pcbaby.com.cn/qzbd/13115.html) 
+- [不孕不育的原因](https://baike.pcbaby.com.cn/qzbd/1401.html) 
+- [不孕不育](https://baike.pcbaby.com.cn/qzbd/1132261.html) 
+- [备孕1个月](https://baike.pcbaby.com.cn/qzbd/5025.html) 
+- [备孕](https://baike.pcbaby.com.cn/yunqian.html) 
 
-虽然很多变性人在变性之后，自己的性别跟以往相反，但是对于生活的追求还是一如既往的向往美好的未来。同时也会希望自己能够有个孩子陪伴。那么，[**变性人能生小孩吗？**](//baike.pcbaby.com.cn/qzbd/1132261.html)
+虽然很多变性人在变性之后，自己的性别跟以往相反，但是对于生活的追求还是一如既往的向往美好的未来。同时也会希望自己能够有个孩子陪伴。那么，[**变性人能生小孩吗？**](https://baike.pcbaby.com.cn/qzbd/1132261.html)
 
 ## 变性人能生小孩吗 { data-search-exclude }
 
@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人是否能够生育的问题。一般情况下，变性人在完成变性手术后，生理上不具备生育能力。然而，有少数变性人可以通过子宫移植或让男性怀孕等方法实现生孩子的可能性。文中提到，尽管变性手术可以改变外在性别，但在生理和解剖学上尚未完全达到男性或女性的特点，生殖能力依旧是一个待解决的难题。文章还详细介绍了实现变性人育子的两种方法：器官移植和男性怀孕。在内因方面，提到了生物因素和教育影响，指出一些变性人是由于不当的性别教育而导致的性别认同障碍。同时，文章引述了专家的观点，讨论了家长与医生在性别认同过程中的潜在影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@
 | Size            | 4824 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 佚名                               |
+| Region          | 未知                               |
+| Date            | 2016-03-18                                 |
+| Tags            | 变性人, 生育问题, 性别认同, 变性手术, 医学研究, 社会教育, 法律政策, 心理健康, 生物因素, 性别教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一名75岁英国男子罗伊（Roy）完成变性，成为英国年纪最大的变性人，并改名为雷秋（Rachel）的故事。此新闻揭示了罗伊从小就感觉自己是女性，而他在实现自我认同的过程中经历了多次婚姻波折，最终在70岁时向家人宣布想要变性。在此背景下，文件讨论了变性人在社会中面临的挑战与个人背景，同时引发了对变性人群体的关注和理解。这篇报道不仅提供了罗伊的个人案例，还列出了相关新闻链接，使读者能够更深入地了解变性人和相关法律、社会问题。文件还包含了媒体对变性人群体的探讨与论述，表达了社会对于不同性别认同的逐渐包容与接纳。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@
 | Size            | 2673 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国新闻网                               |
+| Region          | 英国                               |
+| Date            | 2009-09-18                                 |
+| Tags            | 变性人, 老年变性, 性别认同, 变性经历, 社会包容, 人生故事, 性别多元, 婚姻与家庭, 性别平等, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

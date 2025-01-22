@@ -39,7 +39,7 @@ Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章从性别身份和性慾的变性叙事出发，深入探讨了由男性转变为女性的变性者“珍”的自传《珍的故事》，揭示了其在1980年代台湾性别认同和性别治疗历史中的重要性。文中分析了珍所描绘的对性别的理解，以及她的变性经历如何挑战当时的性别意识形态，尤其是恐同与异性恋规范。作者指出，珍的叙述中不仅重现了传统的性别角色，而且通过其独特的语用选择，重新定义了“女性”及其真实存在的概念。文章结论认为，变性者的经历深刻揭示了主流性别矩阵的限制，表现出性别身份及其社会归属的复杂性和矛盾，探索了变性身体的主体性与社会认同之间的张力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,10 +52,10 @@ Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 | Size            | 5182 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 王孝勇                               |
+| Region          | 台湾                               |
+| Date            | 2023-08-01                                 |
+| Tags            | 珍的故事, 变性叙事, 跨性别, 性别意识, 恐同, 性别认同, 异性恋规范, 性别确认, 台湾社会, 文学与文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

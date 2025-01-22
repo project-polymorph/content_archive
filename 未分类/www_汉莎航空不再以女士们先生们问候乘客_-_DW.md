@@ -49,7 +49,7 @@ _© 2021年德国之声版权声明：本文所有内容受到著作权法保护
 
 ## 打破藩篱：孟加拉首位跨性别主播 { data-search-exclude }
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+[图片]
 
 Video Player is loading.
 

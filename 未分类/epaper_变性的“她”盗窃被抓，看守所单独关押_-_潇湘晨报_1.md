@@ -67,7 +67,7 @@ Copyright © 2001-2011 xxcb.cn All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为潇湘晨报的报道，讲述了一个变性人桂英（化名）因盗窃被捕的故事。桂英在经济窘迫的情况下希望通过盗窃来筹集资金，再次进行变性手术。报导详细描述了桂英的变性经历和在长沙的生活，包括她的职业生涯，以及在变性手术后遭遇的身体健康问题。根据湖南省公安厅的介绍，桂英因其特殊的身份，受到特殊的羁押管理，独自关押在看守所并接受心理辅导和医疗护理。同时，报道提到湖南省监所系统对性别异常人员收押的相关政策和措施，以及类似案例的处理情况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,10 +80,10 @@ Copyright © 2001-2011 xxcb.cn All Rights Reserved
 | Size            | 4469 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 潇湘晨报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-21                                 |
+| Tags            | 变性人, 性别认同, 故事分享, 法律政策, 社会环境, 心理辅导, 医疗资源, 女性经历, 变化与挑战, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

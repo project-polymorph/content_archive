@@ -87,7 +87,7 @@ All Rights Reserved**
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了韩国变性艺人河利秀在台湾综艺节目中遭到的冒犯。在节目录制期间，河利秀的变性身份成为话题，其他嘉宾对其过去的男性身份进行了不当的调侃，导致韩国观众的不满，认为台湾综艺节目缺乏教养。河利秀在---节中表现淡定，但对于此事件感到震惊。文章分析了台湾艺人对事件的不同看法，有人认为应尊重艺人的隐私，有人则认为这是为了节目效果。除此之外，河利秀在完成变性手术后，进入广告、音乐和电影行业，展现了她的才华与魅力，逐渐受到国内外媒体的高度关注。文章还提到河利秀在身份转变后的生活，与男友的感情及未来计划，为其变性经历提供了更多背景与深度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,10 +100,10 @@ All Rights Reserved**
 | Size            | 9042 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2005-01-21                                 |
+| Tags            | 河利秀, 变性人, 综艺节目, 性别身份, 媒体报道, 韩国, 台湾, 性别歧视, 文化差异, 社会反应                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

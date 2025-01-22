@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道讲述了西班牙国王费利佩六世与王后莱蒂齐亚在访问灾区时遭遇民众示威的情景。在西班牙东部巴伦西亚地区，因近年来最大的洪水造成217人死亡，民众对政府反应缓慢表示愤怒，故在国王视察时上街抗议，甚至向国王掷泥巴以泄愤。报道详细描述了国王夫妇的访问情况以及民众的强烈反应，强调了公众对政府应急反应的不满。同时，金国王夫妇在探访期间还有居民流泪与他们拥抱，这表明了灾难中的人们对支持与关怀的渴望。此外，巴伦西亚的官员对国王夫妇的访问和公众愤怒表示理解，认为倾听公众声音是政治和道德义务。文章最后提到，搜救工作仍在继续，仍有多人失踪。此报道不仅关注了灾后救援工作，也反映了包括多元性别群体在内的民众对政府的不满情绪和对生命现状的真实记录。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 5892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 西班牙                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 西班牙, 洪水, 国王, 示威, 公共愤怒, 救援, 民生问题, 政治反应, 自然灾害, 社会状况                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

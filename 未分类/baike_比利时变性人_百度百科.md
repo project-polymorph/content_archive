@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个发生在比利时的真实故事，涉及一位男子与他的变性人配偶之间的婚姻生活。故事的主人公扬（Jan）在1993年与27岁的印尼女子莫妮卡（Monica）结婚，婚后19年，他才得知妻子的真实性别身份是变性人。这一发现对他们的婚姻产生了重大影响，扬在采访中回忆起当年对莫妮卡的初印象，强调她的迷人和女性特征，并称在婚后两人共同度过了美好的家庭生活。文中还提到，扬删除了与她有关的社交媒体信息，这使得两人的关系变得复杂。整篇文章不仅反映了个人生活中的困惑和挑战，也涉及了社会对变性人群体的认知与接纳问题，提供了更广泛的视角去理解变性人所面临的困境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@
 | Size            | 2403 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 比利时                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 婚姻故事, 社会事件, 个人经历, 生命故事, 女性身份, 家庭生活, 社会接受, 文化现象, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

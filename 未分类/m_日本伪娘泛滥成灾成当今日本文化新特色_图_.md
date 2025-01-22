@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![伪娘相关图片](//rs2.huanqiucdn.cn/huanqiucdn/image/m/share.jpg)
+![伪娘相关图片](https://rs2.huanqiucdn.cn/huanqiucdn/image/m/share.jpg)
 
 根据日本新华侨报网援引日媒报道，日本“伪娘”越来越多。一项对日本全国2000名男女开展的调查中，当问到“日常使用哪些护肤美容用品”时，在20岁到30岁的男性里，有57%的人回答每天使用洗面奶，有35%的人坚持每天修眉，有18%的人每天打粉。
 
@@ -13,7 +13,7 @@
 
 2006年9月，相关同人社团举办了“男少女COSH”同人志即售会，并且自此形成了每年举办两次的固定模式。2009年9月，即售会的名称也因“伪娘文化”的流行而改为“男少女”同人志即售会。2009年5月，日本三和出版社的《“男少女”俱乐部》杂志创刊，日本青少年对“男少女”形象的追星热潮开始为社会所认可。
 
-![伪娘相关图片](//himg2.huanqiucdn.cn/attachment2010/2012/0813/20120813123446324.jpg?imageView2/2/w/750)
+![伪娘相关图片](https://himg2.huanqiucdn.cn/attachment2010/2012/0813/20120813123446324.jpg?imageView2/2/w/750)
 
 随着“伪娘”文化逐渐在社会上的逐渐流行，它带动了相关产业的发展，如今已经成为当今日本文化的又一新特色。其影响力早已溢出动漫行业，以“伪娘”为主题的俱乐部、服装店、餐厅、居酒屋等等陆续在各地出现。毋庸置疑，“伪娘文化”正在由动漫界向其他产业延伸。
 
@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了日本的“伪娘”文化，这一现象近年来在日本社会中愈发流行，并逐渐成为日本文化的一种新特色。文中指出，根据日媒的调查数据显示，在20到30岁的男性中，有相当比例的人开始使用女性化的护肤美容产品，这反映出“伪娘”这一性别表现形式在日本年轻男性中的渗透与接受度。文件追溯了“伪娘”一词的起源和演变，最初指的是动漫中的女装角色，后来发展为一种参与角色扮演的社会活动。随着“伪娘”文化的普及，相关产业也迅速发展，衍生出专门的服装店和社交场所。文章提到，“伪娘”文化虽然促进了经济，但如果泛滥成灾，则可能引发男性心理与行为的女性化，导致新的社会问题，尤其是在日本年轻人的恋爱与婚姻观念上产生影响。通过描述与分析，文件展现了这一文化现象对现代日本社会的复杂影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 3520 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张晓芳                               |
+| Region          | 日本                               |
+| Date            | 2012-08-13                                 |
+| Tags            | 伪娘, 日本文化, 性别多样性, 角色扮演, 社会现象, 经济影响, 男性女性化, 恋爱观念, 社会活动, 时尚潮流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

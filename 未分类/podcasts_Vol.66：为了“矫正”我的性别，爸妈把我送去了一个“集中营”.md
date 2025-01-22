@@ -50,7 +50,9 @@ Tracklist：
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是《别任性》播客第66期的内容，嘉宾小丽是一位跨性别女性，她讲述了自己在青春期因性别身份而受到家庭和社会的误解与伤害。小丽的故事从她被父母带去精神科治疗开始，家人无视她的真实感受，并请没有经验的咨询师劝说她‘打消做女人的念头’。最终，因软性手段无效，父母将她送去了一个行为矫正‘教育机构’——湖南英高特励志教育学校，令小丽深感绝望，称之为‘集中营’。
+ 
+在节目中，小丽详细描述了她被绑架至英高特的过程，以及在那里遭受的种种不人道对待，包括身体虐待、强迫剪发等。在经历了长时间的禁闭和严酷的体能训练后，小丽被迫签署免责合同，成为学校的文化课老师。但即便如此，她仍保存着对外界的希望，努力收集证据以揭露这个机构的不法行为。节目最后，小丽分享了她在离开后逐渐恢复心理健康的历程，以及她对未来的期望，希望能帮助更多与她有相似经历的人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +65,10 @@ Tracklist：
 | Size            | 5257 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-08-21                                 |
+| Tags            | 跨性别, 行为矫正, 家庭困境, 性别认同, 心理健康, 湖南, 教育机构, 女性故事, 社会现实, 播客                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

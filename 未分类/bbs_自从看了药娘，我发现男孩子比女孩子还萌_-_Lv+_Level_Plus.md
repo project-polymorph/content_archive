@@ -110,7 +110,7 @@ yoooooooooo ![](images/post/smile/smallface/face098.jpg)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇来自南+ South Plus的讨论帖，包含用户对于“药娘”这一多元性别群体的看法与讨论。文中提到，药娘指的是那些通过药物手段来使自己在生理上接近女性特征的男性。帖子的参与者们表达了对药娘的不同看法，有人认为药娘很可爱，也有人对此抱有负面态度，认为其方法不够安全，甚至有可能对健康造成威胁。这场讨论反映了社会对多元性别认知的复杂性，以及对认同和变性的不同理解。文章中还包含了一些用户与网友之间的互动，显示了他们对于药娘这一群体的关注与探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,10 +123,10 @@ yoooooooooo ![](images/post/smile/smallface/face098.jpg)
 | Size            | 5760 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 南+ South Plus                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-11-12                                 |
+| Tags            | 药娘, 多元性别, 网络讨论, 社会认知, 变性, 药物治疗, 性别认同, 青春期, 用户互动, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

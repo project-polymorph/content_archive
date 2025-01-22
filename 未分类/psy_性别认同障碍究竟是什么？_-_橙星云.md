@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了性别认同障碍的概念，强调其复杂性和对个体心理健康的影响。性别认同障碍并不是单纯的生理问题，而更多地涉及个体内心的自我认知与社会期待之间的冲突。这种矛盾可能会导致严重的心理问题，如抑郁和焦虑。文件指出，性别认同障碍与社会文化、家庭教育等多种因素密切相关，尤其是在传统观念强烈的环境中，这种冲突会更加明显。文中还提到，现代心理学越来越关注个体的自我认同，倡导以包容与理解的态度来处理性别认同问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@
 | Size            | 2208 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 橙星云                               |
+| Region          | 未知                               |
+| Date            | 2024-10-29                                 |
+| Tags            | 性别认同障碍, 心理健康, 性别角色, 社会文化, 家庭教育, 心理压力, 抑郁, 焦虑, 自我认知, 心理治疗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

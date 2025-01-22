@@ -146,7 +146,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于二次元文化中的伪娘（即假女孩）形象的图鉴，作者来梓在2017年发布，文中展示了多个著名动漫角色的伪娘形象，这些角色虽是男性，却以极高的美貌与魅力模仿女性形象。文件中包含了角色的名称、出处及配音演员，并通过插图展示了每个角色的外观。作者表达了自己对伪娘角色的喜爱，并认为这些角色的魅力并不逊色于女性。该作品反映了二次元文化中性别表现的多样性，也展示了爱好者们对这一文化现象的积极评价与参与。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -159,10 +159,10 @@
 | Size            | 9952 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 来梓                               |
+| Region          | 台湾                               |
+| Date            | 2017-06-25                                 |
+| Tags            | 伪娘, 二次元文化, 动漫角色, 性别表现, 角色设计, 图鉴, 文化现象, 女性魅力, 男性角色, 动漫配音                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -98,7 +98,7 @@ This research is to explore the self-identification and social adaptation of the
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本研究以故事叙述的方法深入探讨了一位跨性别主体在父权体制下的自我认同和社会适应的情况。研究中首先对跨性别主体进行了定义，并分析了在性别/性别迷思下性别角色的适应过程。通过父权体制的视角，研究探讨了异性恋霸权、霸权式阳刚和同性及恐娘症等带来的污名化效应，以及这些因素如何影响个人的生活。同时，研究通过社会心理学和社会学理论分析访谈数据，发现跨性别主体的性别认同主要受到他人的影响，特别是从很小便感受到的快乐感与外界的反馈。研究进一步强调了性别刻板印象和性别二分观念对个人认同的压制作用，以及父权体制的延续如何影响跨性别者在社会中的身份认同和自我适应。这一过程中，个体的特质、他人的互动以及外部支持系统（如法律、医疗和宗教等）共同影响了跨性别主体的自我认同及其社会适应能力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,10 +111,10 @@ This research is to explore the self-identification and social adaptation of the
 | Size            | 6297 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 林家慧                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 自我认同, 社会适应, 父权体制, 性别认同障碍, 性别角色, 异性恋霸权, 社会心理学, 故事叙述, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

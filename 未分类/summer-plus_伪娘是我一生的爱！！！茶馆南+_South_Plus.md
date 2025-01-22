@@ -196,7 +196,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自于一个名为"夏季加值"的在线讨论区，标题为《伪娘是我一生的爱！！！茶馆南+》。文中包含多位网友的互动评论，表达了他们对伪娘的喜爱与个人看法，展现了来自不同视角的情感交流和幽默的互动。这些评论涵盖了对伪娘的吸引、想象与幻想内容，如"我的梦想就是娶个韩国的伪娘"，以及对伪娘性别与表现的探讨，诸如"男人就应该干男人"这样的大胆言论，展现出当代年轻人对于性别和性取向流动性的多样看法。同时，评论中也透露了一些关于个体性的挖掘和幽默的自我调侃，体现出网络文化的独特风格和语言特色。整体来看，这个讨论集结了性别多样性群体内的某些流行文化特征与社会讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -209,10 +209,10 @@
 | Size            | 3648 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-09-18                                 |
+| Tags            | 伪娘, 多元性别, 性别表达, 网络讨论, 年轻人, 性别认同, 性取向, 社会文化, 在线社区, 幽默交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

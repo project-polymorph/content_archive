@@ -8,7 +8,7 @@
 发布时间：2019-12-02 22:37  
 链接：[原文链接](https://xueqiu.com/8008190945/136695786)
 
-![行研学社](//xavatar.imedao.com/community/201911/1576030041328-1576030044164.jpg!100x100.png)
+![行研学社](https://xavatar.imedao.com/community/201911/1576030041328-1576030044164.jpg!100x100.png)
 
 ---
 

@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为多元性别档案馆收录的资料，主要介绍了一些与日本后宫伪娘动漫相关的职场剧内容，提供了多种多元性别的资料和信息。主要来自于零售百科网，文中包含了对职场剧的观看方式和相关内容的介绍。资料包括重要的链接到多元性别相关的图片和附件，其中附件包含了多项员工实操标准、培训手册等，这些内容与多元性别的探讨和理解有直接联系。文中还提到了多位知名商业人士的评论，进一步丰富了资料的深度和广度。基于这些信息，此文档适合研究和学习多元性别及其在社会中的表现与影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@
 | Size            | 2099 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 日本动漫, 职场剧, 资料, 医疗资源, 社会影响, 法律政策, 员工规范, 评论, 档案馆                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

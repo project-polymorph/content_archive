@@ -55,7 +55,7 @@ Dr Eli Coleman，美国明尼苏达州明尼阿波利斯明尼苏达大学医学
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《跨性别和多元性别人群健康照护指南（第8版）》（SOC-8）的中文翻译，旨在为跨性别和多元性别人群提供健康照护的科学依据和实践指导。该指南经过多位医疗专业人员和内容专家的贡献总结，包含了对于跨性别者的医疗需求、心理健康支持以及过渡相关的医疗服务等方面的全面阐述。文件中提到，指南在全球范围内被翻译成多个语言，以便不同读者能够更好地理解和使用，同时也强调了翻译的准确性不能得到完全保证，读者应优先参考官方英文版本。此外，文件中详细列出了参与翻译和校对的人员名单，体现了社区合作与支持的价值。总结部分虽未详细列出，但指向了需要进一步完善的地方。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@ Dr Eli Coleman，美国明尼苏达州明尼阿波利斯明尼苏达大学医学
 | Size            | 4269 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | E. Coleman 等                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 多元性别, 健康照护, 医学指南, 心理健康, 社会支持, 过渡经历, 医疗资源, 人权, 医疗政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

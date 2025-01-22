@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![女装大佬 直达底部↓](//d.silixs.cc/predefine-T5xY-37759.jpg?sm)
+![女装大佬 直达底部↓](https://d.silixs.cc/predefine-T5xY-37759.jpg?sm)
 
 作者：[月下行人所写的女装大佬无弹窗为转载作品](/zuozhe/67084r0o884p4ron624051997684597388p559274s6p65r05s397n974r3n8s6p8s7q4s5p54p1C.html)
 
@@ -108,7 +108,7 @@ Copyright © 2025 [思丽小说网](https://www.silixs.cc/)(silixs.cc) All Right
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部名为《女装大佬》的东方玄幻风格小说，由作者月下行人创作，并在思丽小说网上发布。本书共538章，主要讲述了主角的奇幻经历，涵盖了多元性别话题，尤其是与女装相关的情节。故事通过多样的人物角色和情节设置，反映了对性别认知和表达的探索。作者将女装的主题与角色的成长历程结合，通过精彩的文字让读者深刻感受角色的内心冲突和外界反响，生动展现了多元文化背景下的性别立场与身份认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -121,10 +121,10 @@ Copyright © 2025 [思丽小说网](https://www.silixs.cc/)(silixs.cc) All Right
 | Size            | 3735 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 月下行人                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-02-25                                 |
+| Tags            | 多元性别, 女装, 东方玄幻, 小说, 性别认同, 角色成长, 文化探讨, 故事经历, 性别表现, 文学创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

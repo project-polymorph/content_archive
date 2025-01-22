@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了成龙电影的多方面影响与特色，包括他的经典动作场景、独特的演技、幽默元素、电影中的社会和文化意义等。成龙的动作片以其创新的特技和生动的角色塑造而闻名，能够吸引观众并引发思考。例如，成龙在《神话》中的无绳跳跃和《功夫瑜伽》中的文化传承故事，都展示了他在电影中寄予的深刻寓意。此外，文章还分析了成龙电影中的配乐、音效与服装设计，强调了这些元素如何提升观影体验，并结合了对团队合作与演员表现的介绍，认为这些都是成龙成功的重要因素。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 3569 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 成龙, 动作电影, 电影分析, 文化意义, 幽默元素, 特技设计, 角色塑造, 社会影响, 配乐与音效, 服装设计                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

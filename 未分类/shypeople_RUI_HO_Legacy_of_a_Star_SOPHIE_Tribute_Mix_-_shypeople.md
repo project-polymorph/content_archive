@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为跨性别音乐制作人 RUI HO 所制作的“SOPHIE Tribute Mix”。SOPHIE，作为一位影响深远的跨性别音乐人，于2021年意外去世，此混音作品试图致敬她的音乐遗产和对LGBT社群的贡献。文中详细描述了 SOPHIE 作为音乐人和跨性别者对 RUI HO 的启发与影响，并回顾了 SOPHIE 的音乐历程，从第一支单曲的发布到在公开场合以跨性别女性身份示人。该作品的混音列表中包含了 SOPHIE 的多首经典曲目和其他受她风格影响的音乐作品，展示了她在流行音乐及电子音乐界的巨大影响力。此外，封面插画师朵朵分享了她在创作插画时的灵感来源，以及对性别身份及自我认同的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 5179 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | RUI HO                               |
+| Region          | 未知                               |
+| Date            | 2021-01-30                                 |
+| Tags            | 跨性别, 音乐, SOPHIE, 致敬, RUI HO, 电子音乐, 流行音乐, LGBT社群, 性别认同, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

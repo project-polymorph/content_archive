@@ -94,7 +94,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国变性人在服兵役方面的特殊情况，揭示了变性人在泰国社会中面临的挑战和权益保障。在泰国，变性人虽然在法律上被要求进行征兵，但实际上面临不少歧视和军中欺凌的风险，尤其是身份证上的性别与其外表不符者。这篇文章详细描述了2016年泰国军方如何根据跨性人权联盟的指导方针来教育和指引军官如何尊重变性新兵的权利，避免歧视行为。同时，文章也提到泰国于2015年引入的新宪法承认第三性，并保障其权益。文章最后列举了全球多位知名变性人的故事，反映出变性人群体所取得的成就与依然面临的困境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -107,10 +107,10 @@
 | Size            | 6147 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 朱惠悦                               |
+| Region          | 泰国                               |
+| Date            | 2016-07-01                                 |
+| Tags            | 变性人, 泰国, 军队, 性别权利, 跨性别, 性别认同, 社会公平, 人权保障, 变性手术, 变性经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

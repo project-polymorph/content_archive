@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自海角社区，描述了一位身高180厘米、体重140斤的男性（自称为猛男），他在社区中寻求跨性别者（TS）进行交流或其他结合。文中提到该男子有着良好的身体素质，并具备多种交互方式的经验，表达了意愿与可能的伴侣进行长期的交流或约会。评论区有多条回复，包括对他提及服务信息的无实际内容的互动。在这里，社区用户可以互动、约定见面，或进一步交流体验和想法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@
 | Size            | 1990 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 海角社区用户                               |
+| Region          | 未知                               |
+| Date            | 2023-06-14                                 |
+| Tags            | 多元性别, 跨性别, TS, CD, 约会, 社区互动, 性别认同, 心理健康, 社交交流, 生活经验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

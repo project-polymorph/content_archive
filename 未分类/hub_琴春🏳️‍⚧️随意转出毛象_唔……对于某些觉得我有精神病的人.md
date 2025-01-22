@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件由琴春撰写，详细记录了其作为跨性别者的个人经历及与家庭的复杂关系。琴春分享了在得知自己的性别身份后，亲生父母对其的极端反应，特别是在家庭断绝关系及面临来自家庭成员的威胁方面。文章描述了琴春在父母知晓其跨性别身份后与家人完全断绝联系的经历，以及父亲对其身份的否定和对跨性别者的偏见。琴春提到，由于一系列家庭矛盾和威胁，已与父母关系决裂近五年，同时也详细叙述了自己在这个过程中所面临的挑战与挣扎。文件最后附有琴春的医疗记录，以反驳对自身精神状态的质疑，并请求避免进一步的骚扰。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@
 | Size            | 2912 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 琴春🏳️‍⚧️随意转出毛象                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-11-24                                 |
+| Tags            | 跨性别, 家庭关系, 心理健康, 社会问题, 医疗记录, 身份认同, 个人经历, 代孕问题, 社会压力, 个体生存                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

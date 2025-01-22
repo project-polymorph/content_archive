@@ -45,7 +45,7 @@ Joanne出生于香港，原生性别为男，经历了四十多年的身份挣�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本书《是非男女（本土跨性别阅读手册-香港版, 简体中文）》是由跨性别资源中心出版的一本资源手册，旨在提供关于跨性别身份及其相关议题的综合性资料。书中探讨了跨性别人士在性别身份与性倾向方面的挣扎和社会上对此的误解，试图借此提升公众对跨性别群体的认识和理解。作者Joanne Leung以其个人经历为背景，分享了她自身份认同以来的艰辛之路，及在2008年成立跨性别资源中心的动机与目标。在书中，Joanne强调了社会的主流价值观对跨性别群体的影响，以及这些人士在寻求自我认同的过程中，面临的挑战与对支持资源的渴望。此书也集合了多位专家的推荐，适合对跨性别运动及相关领域有兴趣的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@ Joanne出生于香港，原生性别为男，经历了四十多年的身份挣�
 | Size            | 3386 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 梁詠恩 Joanne Leung，跨性别资源中心                               |
+| Region          | 香港                               |
+| Date            | 2008-01-01                                 |
+| Tags            | 跨性别, 性别身份, 性倾向, 社会认可, 跨性别资源, 生命故事, 过渡经历, 社会运动, 法律政策, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -37,7 +37,7 @@ Copyright © fznews.com.cn All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了厦门整形美容名医修志夫博士为泰国第一绝色人妖古琳娜成功施行脸部整形手术的事件。这是中国内地首次为泰国人妖进行整形手术。文章详细介绍了古琳娜的整形需求与过程，表达了她对手术结果的满意。古琳娜谈及自己在泰国接受人妖手术的经历，并表示她期望通过整形手术使面部外观更加柔美。修志夫博士在文中提到，他致力于整形美容行业的历程，并强调了整形手术培养的专业性和必要性。整篇文章反映了医学美容与性别认同的交集，展示了大力支持多元性别群体的养分。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@ Copyright © fznews.com.cn All Rights Reserved
 | Size            | 3075 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-11-08                                 |
+| Tags            | 整形手术, 人妖, 性别认同, 医学美容, 厦门, 泰国, 古琳娜, 修志夫, 面部整形, 社会文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

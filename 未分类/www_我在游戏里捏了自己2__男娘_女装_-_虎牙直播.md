@@ -27,7 +27,7 @@
 - 用户昵称
 
 ## 相关视频 { data-search-exclude }
-- [懵圈中…](//www.huya.com/video/play/1039994048.html)  
+- [懵圈中…](https://www.huya.com/video/play/1039994048.html)  
   ![懵圈中…](https://v-huya-img2.msstatic.com/transfer/2504/1039994048/104.jpg?x-oss-process=style/320x180&t=1737360634305)  
   李小北呀 422
 

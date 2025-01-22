@@ -103,7 +103,7 @@ Elliot Page（艾略特·佩吉）曾用名Ellen Page（艾伦·佩姬），1987
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了著名演员艾略特·佩吉（Elliot Page）变性后的感悟与生活，特别是他在社交平台上分享的赤裸照片，展示了他胸前的手术疤痕，标志着重要的生命转变。文章回顾了佩吉的职业生涯，从童星到知名演员的经历，强调了他的电影作品《朱诺》及其成功的背后。佩吉在2014年公开出柜，成为跨性别者，并在经历变性手术后，享受全新的生活，感受到前所未有的快乐。此外，他的自传即将发布，引发了公众的关注和期待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,10 +116,10 @@ Elliot Page（艾略特·佩吉）曾用名Ellen Page（艾伦·佩姬），1987
 | Size            | 6431 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 高能E蓓子                               |
+| Region          | 未知                               |
+| Date            | 2023-05-13                                 |
+| Tags            | 多元性别, 变性, 跨性别者, Elliot Page, 自传, 性别认同, 社交媒体, 生活故事, 心理转变, 社会支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

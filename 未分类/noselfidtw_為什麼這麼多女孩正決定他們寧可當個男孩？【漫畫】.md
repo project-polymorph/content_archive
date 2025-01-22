@@ -59,7 +59,7 @@ Youtube 上找得到的紀錄片：
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本漫画探讨了一个重要且引人注目的现象：为什么越来越多的女孩选择接受性别转变为男孩，甚至在某些情况下选择脱离这一转变（即脱跨）。在当前的社会背景下，年轻女跨男朋友们的转变背后，不仅是个人的内心挣扎，也涉及到社会的认同、家庭的支持，以及主流跨性别社区对于脱跨者的态度等复杂话题。漫画通过多个问题，引导读者思考这些女孩在接受性别转变的过程中所经历的心理变化和外部影响。相关资料指向了多种组织与资源，供读者深入了解与研究这一话题，尤其是儿童和青少年在性别认同及转变过程中所面临的挑战与困境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,10 +72,10 @@ Youtube 上找得到的紀錄片：
 | Size            | 2148 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Reality Girl                               |
+| Region          | 未知                               |
+| Date            | 2022-09-12                                 |
+| Tags            | 跨性别, 性别认同, 青少年, 社会现象, 性别转变, 生命故事, 心理健康, 家庭支持, 法律政策, 教育资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

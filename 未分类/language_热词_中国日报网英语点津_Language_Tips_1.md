@@ -23,7 +23,7 @@ Email: languagetips@chinadaily.com.cn
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了关于多元性别相关内容的介绍，特别重点关注变性手术的定义和其在泰国的普遍性。文件中提到的「Sex change surgery」是指“变性手术”，并指出在泰国，变性人和易性癖者（transsexual and transgender）十分常见。这篇文章来源于中国日报网，提供了一些医疗性质的信息，同时也反映出多元性别在不同文化背景下的存在和理解。画面配有相关图片，增加了可视化效果，使内容更加易于理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@ Email: languagetips@chinadaily.com.cn
 | Size            | 719 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国日报网                               |
+| Region          | 未知                               |
+| Date            | 2009-11-30                                 |
+| Tags            | 多元性别, 变性手术, 泰国, 医疗资源, 易性癖者, 变性人, 文化差异, 性别认同, 社会现象, 性别过渡                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

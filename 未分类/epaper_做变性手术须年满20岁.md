@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文发表于2009年6月17日的《三湘都市报》，报告了卫生部出台的《变性手术技术管理规范(征求意见稿)》，该规范规定变性手术的申请者须年满20岁且需满足一系列严格条件。其中包括必须被精神科医师诊断为易性癖病，并需提交无犯罪证明。申请者必须在选择的性别中生活和工作至少2年，且在决定进行变性手术前需经过至少一年无效的心理治疗。此外，申请者在手术时不得处于婚姻状态，需为单身或已离异。此规范意在规范变性手术的管理，保障手术申请者的合法权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@
 | Size            | 1418 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 三湘都市报                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-06-17                                 |
+| Tags            | 变性手术, 易性癖病, 卫生部, 法律政策, 医疗资源, 社会环境, 性别身份, 心理治疗, 婚姻状态, 变性管理规范                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

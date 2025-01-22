@@ -58,7 +58,7 @@ AG 全稱Autogynephilia，這一概念由一位加拿大性學家RAY提出。臺
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了Autogynephilia（AG）这一心理概念及其与跨性别（TS）的区别。AG是指男性对自己幻想成为女性的性幻想症，文章通过多种类的性幻想和性兴奋的例子，探讨了相关心理状态，以及AG与TS之间的不同。对于AG而言，性别手术（SRS）的含义是成为他人，而对于TS来说，SRS是回归自我。文件还指出了一些AG人士在经历变性手术后的感受，是否感到成功或失败，强调了这一心理状态的复杂性和多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@ AG 全稱Autogynephilia，這一概念由一位加拿大性學家RAY提出。臺
 | Size            | 4892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 偽娘                               |
+| Region          | 台湾                               |
+| Date            | 2021-03-02                                 |
+| Tags            | AG, Autogynephilia, 性别认同, 跨性别, TS, 性幻想, 心理状态, 性别手术, 性别焦虑, 性取向                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了“无性别男孩”这一概念，起源于日本，指的是内心认同为男性的人在外表上打破性别界限的表现方式。他们通常会穿着女性的衣物、化妆，追求一种“无性别”的视觉效果。这种打扮方式不仅展示了个体对自我的表达，还挑战了传统的性别观念。文中提到了一些相关的视频资料，展现了无性别男孩的日常装扮。通过这些表述，该词条旨在增进对无性别态度和身处的社会环境的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@
 | Size            | 1573 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 无性别男孩, 打扮方式, 性别界限, 男性装扮, 女性服装, 性别认同, 日本文化, 时尚, 社会现象, 个人表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

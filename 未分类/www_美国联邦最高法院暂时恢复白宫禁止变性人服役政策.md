@@ -7,7 +7,7 @@
 
 ---
 
-![变性人服役政策](//www.news.cn/res/xhwimg/xl2017/images/net_logo.png)
+![变性人服役政策](https://www.news.cn/res/xhwimg/xl2017/images/net_logo.png)
 
 新华社华盛顿1月22日电（记者徐剑梅　刘阳）美国联邦最高法院22日宣布，在相关诉讼进行期间，允许特朗普政府禁止大多数变性人在军队服役的政策生效。
 

@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《跨仔話你知》的第一集，主要由Kermit Not The Frog主讲，详细讨论了在香港公立医院进行性别过渡的程序，尤其针对女转男的跨性别者分享了她/他的经历和所需的步骤。Kermit描述了获取转介信以及预约不同科医生的过程，包括精神科、内分泌科及外科医生的见面经历，还提及了手术的排期以及如何修改身份文件等重要环节。该视频反映了在香港的跨性别人士在性别过渡过程中面临的挑战与困惑，并鼓励观看者提问和分享相关信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@
 | Size            | 1871 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Kermit Not The Frog                               |
+| Region          | 香港                               |
+| Date            | 2021-06-04                                 |
+| Tags            | 性别过渡, 跨性别, 女转男, 医疗程序, 香港公立医院, 精神科, 内分泌科, 外科手术, 身份认证, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

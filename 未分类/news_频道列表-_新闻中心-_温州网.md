@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自温州网，报道了与变性人相关的新闻。文章的标题为《变性人利菁被曝缩胸 自称'胸大无脑'拒回应》，发布时间为2008年6月6日，主要关注了变性人利菁的生活选择及社会对其的反应。文中提到利菁对于自己身体的改造进行了公开讨论，并引用了其自称'胸大无脑'，从而引发了一些关于性别表达和社会偏见的讨论。文章的评论部分指出这一说法对女性的偏见，强调个体身份认同的尊重。整体上，这篇报道不仅聚焦于个人的生活经历，也反映了潜在的社会文化问题，尤其是性别身份与社会期待之间的冲突。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 1090 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 温州网                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-06-06                                 |
+| Tags            | 变性人, 利菁, 性别认同, 社会偏见, 性别表达, 多元性别, 娱乐新闻, 媒体报道, 性别话题, 个人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

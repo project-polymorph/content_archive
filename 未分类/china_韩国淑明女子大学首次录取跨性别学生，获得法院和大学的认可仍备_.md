@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了韩国淑明女子大学首次录取跨性别学生甲某一事，引发的社会讨论及相关歧视现象。甲某在2019年8月接受变性手术，并于2020年获得法院许可，改变了性别登记。然而，在被该大学录取后，却遭受到广泛的反对声音，部分学生认为跨性别者不应进入女子大学，认为她在情感与身体上仍是男性。甲某在接受采访时表达了对社会的失望和愤怒，强调性少数群体的声音与权利应当被关注和接受，同时呼吁社会要更加包容。文中还提到其他相关案例，例如边熙洙下士的遭遇，反映出韩国社会对跨性别者依然存在的偏见与不理解。文章不仅展示了现代社会对性别认同的复杂态度，同时也提出了对话和理解的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@
 | Size            | 6562 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 姜载求                               |
+| Region          | 韩国                               |
+| Date            | 2020-02-03                                 |
+| Tags            | 跨性别, 淑明女子大学, 性别认同, 社会歧视, 法律地位, 生命故事, 社会运动, 女性权利, 医疗经历, 文化认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

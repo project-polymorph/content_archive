@@ -16,7 +16,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了名为艾胥莉的变性人故事，尤其是在变性后成为时尚男模后的成长历程。文章揭示了艾胥莉的父母最初对此感到无助，但在了解到其真实想法后全然支持。艾胥莉在经历了一段时间的外界流言后，终于能够勇敢地面对真实的自我，并且 actively 参与LGBT团体，帮助更多人。艾胥莉在教堂中公开自己的性别认同，展示了他勇于自我接纳的态度。文章中的图片展示了艾胥莉引人注目的身材，并强调了他作为变性人所面临的挑战与支持的社会环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,10 +29,10 @@
 | Size            | 1014 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2016-04-01                                 |
+| Tags            | 变性人, LGBT, 艾胥莉, 时尚男模, 性别认同, 人生故事, 社会支持, 法律政策, 跨性别, 勇气与自我接纳                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

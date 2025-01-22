@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了缅甸一名女子辛桑达在一夜之间神秘变性成为男人的故事。文章详细描述了辛桑达的经历，在6月21日的满月日，她自觉下身发生异样，醒来后发现自己的女性生殖器消失，取而代之的是男性生殖器。同时，她原本丰满的乳房也无迹可寻。辛桑达的父母对女儿的变化感到震惊和兴奋。此消息迅速传播，引起大批好奇者到访，并吸引了媒体的广泛关注。辛桑达后来改名为桑塞，期待医学专家能够帮助识别其变性原因，并表达了自己希望成为僧侣的愿望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 3096 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 海南新闻网                               |
+| Region          | 缅甸                               |
+| Date            | 2005-07-15                                 |
+| Tags            | 缅甸, 变性, 跨性别, 新闻报道, 生命故事, 媒体采访, 生殖器, 宗教, 医学探索, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -348,7 +348,7 @@ His physicians considered reassigning him back to female, which would have been 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《剑桥词典》中关于变性相关内容的中文及英文学术翻译资料，主要讨论与变性（transsexuality）和变性手术（sex reassignment surgery）有关的概念和术语。内容包括对变性、变性人、变性手术等的定义，以及相关医学和社会概念的解释，例如‘变性’是指通过医疗程序改变生理性别，‘转变性别’是描述人们如何感知自身性别与生理性别不匹配的现象。文件中还包括几个相关词汇的解释，例如可变性（mutability）和变性积极（trans-positive）等，突出这些概念在社会、文化及法律中的重要性。这些内容为研究多元性别与变性者权益提供了重要的词汇基础和概念解析。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -361,10 +361,10 @@ His physicians considered reassigning him back to female, which would have been 
 | Size            | 13161 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 变性手术, 跨性别, 性别认同, 性别重置, 性别流动性, 医学术语, 社会科学, 法律政策, 变性人权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

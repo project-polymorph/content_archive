@@ -125,7 +125,7 @@ Petrus出生在马来西亚，是第三代华裔。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为对Petrus Tung的专访，讲述了他从一名快乐的天主教神父转变为心理治疗师的故事。在采访中，他分享了自己在华裔社区性别认同方面的经历及挑战，以及如何帮助华裔家庭接受和理解他们的同性恋、跨性别孩子。Petrus强调，个体的认同和接受是一个漫长而艰难的过程，并提出爱是平等的，神的本质是包容的。他通过自己的经历来促进社会对性别多元性的理解，指出华裔社区对同性恋的认知和接纳还有很大的进步空间。值得注意的是，他在接受自己身份的过程中经历了数年的内心斗争，最终选择了做自己，乐观地对待生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -138,10 +138,10 @@ Petrus出生在马来西亚，是第三代华裔。
 | Size            | 8892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Yan Liang                               |
+| Region          | 加拿大                               |
+| Date            | 2022-07-21                                 |
+| Tags            | 同性恋, 心理治疗师, Petrus Tung, 华裔社区, 性别认同, 社会接纳, 心理辅导, 生命故事, 人权, 跨性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

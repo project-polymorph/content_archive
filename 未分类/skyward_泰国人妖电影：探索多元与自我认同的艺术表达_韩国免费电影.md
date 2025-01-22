@@ -19,7 +19,7 @@
 
 总而言之，泰国人妖电影通过多样的艺术形式，展现了泰国人妖群体不同的生活经历与追求。这些电影引发了观众对性别身份、多元文化和自我认同的思考，拓宽了人们对世界的理解和尊重。
 
-**来源**：[韩国免费电影](//skyward.flauntent.com/)  
+**来源**：[韩国免费电影](https://skyward.flauntent.com/)  
 **标签**：多元性别、泰国人妖电影、性别认同、自我认同  
 **作者**：未注明  
 **编辑**：未注明  
@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了泰国人妖电影作为一种重要的艺术表达形式，分析了几部显著的电影及其内容。这些电影通过多样的形式，如音乐喜剧、纪录片和爱情剧情片，展现了泰国人妖群体的生活经历、性别认同和自我追求。文中提到的几部电影，包括《歌舞春宵》、《变性之路》、《碧昂斯与人妖官兵》和《泰国人妖美艳风情》，不仅表达了人妖的社会角色和情感经历，也引发了观众对家庭、爱情和社会认同的反思。此外，文章强调了泰国人妖电影如何拓宽了观众对性别身份和多元文化的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,10 +42,10 @@
 | Size            | 2512 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-06                                 |
+| Tags            | 泰国人妖电影, 多元性别, 性别认同, 自我认同, 音乐喜剧, 纪录片, 爱情剧情片, 社会角色, 家庭关系, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

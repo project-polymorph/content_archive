@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一位在腾讯工作的IT男，他以其出色的化妆技巧而闻名，被称为"腾讯第一伪娘"。这位跨性别异装爱好者身穿高跟鞋与黑袍，以外表张扬的形象成为了LGBT和异装爱好者群体的代表，展现了科技圈内对多样性的包容与接纳。在文章中，他的同事称他为"鹏飞姐"，他喜欢在生活中展现与众不同的风格，表示自己在腾讯不仅仅是个人特立独行的存在。他曾在腾讯的"最美Q妹"评选中获名，因在活动中身着夸张礼服、cosplay成LOL角色的照片而一举成名。文章中提及了他与其他名人（如扎克伯格、库克）在推动性别多样性方面的共同努力，反映了多元性别在互联网企业中的逐渐普及与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@
 | Size            | 1400 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | congbaba                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-12-29                                 |
+| Tags            | 多元性别, 跨性别, 异装癖, 腾讯, IT男, LGBT, 化妆技巧, 社会包容, 性别多样性, QQ飞车                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

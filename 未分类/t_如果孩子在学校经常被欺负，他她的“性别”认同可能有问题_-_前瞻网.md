@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在校园中遭受霸凌的儿童和青少年，尤其是那些在性别认同上与主流观念不一致的年轻人的痛苦经历。研究指出，这些年轻人受到霸凌的几率是同龄人的三倍，且跨性别青年承受的同龄人霸凌率是男性的两倍至近三倍，是女性的2.6倍。无性别青年也遭遇到类似的不成比例的暴力与虐待。尽管许多学校在实施基于性别认同的反霸凌政策，但实际情况依然严峻。研究显示，当学校开设包含LGBTQ内容的课程时，学生们会感到更安全，并且同龄人之间的负面评论减少。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 2881 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 黄琨                               |
+| Region          | 美国                               |
+| Date            | 2021-05-13                                 |
+| Tags            | 校园霸凌, 性别认知, 跨性别, 心理健康, 青少年, LGBTQ, 暴力与歧视, 教育政策, 社会研究, 心理学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

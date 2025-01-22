@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了多元性别者实施变性手术的相关规定，强调手术者须年满20岁。内容引用了内蒙古新闻网的报道，并介绍了几位变性者的故事和不同国家对变性人权利的法律与社会环境。例如，报道提到2006年福州的谢小馨，通过手术完成性别转换，并参与国际小姐大赛。同时，文中还提到多个国家变性人面临的社会困境和法律挑战，包括日本、澳大利亚、美国、意大利和新西兰的相关案例。这些例子反映了全球范围内对变性人身份认同及合法权益的不同态度与处理，展示了多元性别社区的声音与生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,10 +56,10 @@
 | Size            | 2541 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 内蒙古新闻网                               |
+| Region          | 内蒙古, 中国                               |
+| Date            | 2009-11-21                                 |
+| Tags            | 变性手术, 性别认同, 法律政策, 社会环境, 生存现状, 国际案例, 性别平等, 女性权益, 变性人, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

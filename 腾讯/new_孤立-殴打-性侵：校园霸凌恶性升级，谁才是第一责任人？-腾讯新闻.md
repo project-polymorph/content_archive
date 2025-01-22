@@ -106,7 +106,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了山西大同市大成双语学校一起校园霸凌案件，该事件中一名四年级男生遭到了同宿舍两名男生的严重欺凌和性侵行为。受害者在长期遭受强迫喝尿、吃粪便等虐待后，精神状态极度不佳，抑郁轻生。事件引发了社会广泛关注，许多声音呼吁加强对校园霸凌的监管与处罚。文章分析了校园霸凌的普遍性，强调老师和家长在处理校园暴力中的重要责任，并提出了改进的建议，如老师应采取零容忍态度和家庭教育的重视等。通过传统和网络的案例，文章揭示了校园霸凌行为的复杂性，以及对孩子心理的长期影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,10 +119,10 @@
 | Size            | 11506 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 美国留学妈妈圈                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-09-28                                 |
+| Tags            | 校园霸凌, 性侵事件, 儿童心理健康, 家长责任, 教育问题, 法律政策, 社会关注, 未成年人保护, 心理辅导, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

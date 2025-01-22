@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![一周新闻回顾1690](//img.soundofhope.org/2020-10/1602306591943.jpg)
+![一周新闻回顾1690](https://img.soundofhope.org/2020-10/1602306591943.jpg)
 
 李颂  
 2024.11.3 01:56
@@ -67,43 +67,43 @@
 
 希望之声  
 [https://www.soundofhope.org/post/863243](https://www.soundofhope.org/post/863243)  
-![李强越权，去抓刀把子，政变枪声让习做出错误决定；当年明月得了精神病？未来一周，川普面临大考（政论天下第1509集 20250113）天亮时分](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/signal-2025-01-14-094228_002-1736827597877.jpeg?itok=15MyvbFh)
+![李强越权，去抓刀把子，政变枪声让习做出错误决定；当年明月得了精神病？未来一周，川普面临大考（政论天下第1509集 20250113）天亮时分](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/signal-2025-01-14-094228_002-1736827597877.jpeg?itok=15MyvbFh)
 
 希望之声  
 [https://www.soundofhope.org/post/863201](https://www.soundofhope.org/post/863201)  
-![加拿大热点新闻](//img.soundofhope.org/styles/dfl/public/upload/image04/2024-06/1718925793640.png?itok=MEdU6otr)
+![加拿大热点新闻](https://img.soundofhope.org/styles/dfl/public/upload/image04/2024-06/1718925793640.png?itok=MEdU6otr)
 
 希望之声  
 [https://www.soundofhope.org/post/863147](https://www.soundofhope.org/post/863147)  
-![今日点击](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/jrdj-5222-1736795341325.jpg?itok=y5yMXpQo)
+![今日点击](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/jrdj-5222-1736795341325.jpg?itok=y5yMXpQo)
 
 希望之声  
 [https://www.soundofhope.org/post/863117](https://www.soundofhope.org/post/863117)  
-![晨间新闻图标](//img.soundofhope.org/styles/dfl/public/upload/image04/2019-12/1576617446028.png?itok=XWP0_RMP)
+![晨间新闻图标](https://img.soundofhope.org/styles/dfl/public/upload/image04/2019-12/1576617446028.png?itok=XWP0_RMP)
 
 希望之声  
 [https://www.soundofhope.org/post/863057](https://www.soundofhope.org/post/863057)  
-![偶尔会感觉关节或骨头痛是怎么一回事呢](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/1736746318511.jpg?itok=MPHf0mec)
+![偶尔会感觉关节或骨头痛是怎么一回事呢](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/1736746318511.jpg?itok=MPHf0mec)
 
 希望之声  
 [https://www.soundofhope.org/post/863054](https://www.soundofhope.org/post/863054)  
-![婴儿的皮肤角质化应该怎么解决](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/1736746213268.jpg?itok=3Q7kp1pq)
+![婴儿的皮肤角质化应该怎么解决](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/1736746213268.jpg?itok=3Q7kp1pq)
 
 希望之声  
 [https://www.soundofhope.org/post/863051](https://www.soundofhope.org/post/863051)  
-![长年的咳嗽，喉咙常常发痒，有什么办法可以解决？](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/1736746111788.jpg?itok=Wb0TrbBY)
+![长年的咳嗽，喉咙常常发痒，有什么办法可以解决？](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/1736746111788.jpg?itok=Wb0TrbBY)
 
 希望之声  
 [https://www.soundofhope.org/post/863042](https://www.soundofhope.org/post/863042)  
-![习近平选他当接班人？通胀失控，普京放“绝招”；年轻人停缴养老金，为何关乎政权安危？（政论天下第1508集 20250112）天亮时分](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/signal-2025-01-13-090458_002-1736740175292.jpeg?itok=O_-mEQUW)
+![习近平选他当接班人？通胀失控，普京放“绝招”；年轻人停缴养老金，为何关乎政权安危？（政论天下第1508集 20250112）天亮时分](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/signal-2025-01-13-090458_002-1736740175292.jpeg?itok=O_-mEQUW)
 
 希望之声  
 [https://www.soundofhope.org/post/863006](https://www.soundofhope.org/post/863006)  
-![加拿大热点新闻](//img.soundofhope.org/styles/dfl/public/upload/image04/2024-06/1718925793640.png?itok=MEdU6otr)
+![加拿大热点新闻](https://img.soundofhope.org/styles/dfl/public/upload/image04/2024-06/1718925793640.png?itok=MEdU6otr)
 
 希望之声  
 [https://www.soundofhope.org/post/862976](https://www.soundofhope.org/post/862976)  
-![今日点击](//img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/jrdj-5221-1736715004679.jpg?itok=tg5SqvkT)
+![今日点击](https://img.soundofhope.org/styles/dfl/public/upload/image04/2025-01/jrdj-5221-1736715004679.jpg?itok=tg5SqvkT)
 
 中国广播台  
 美国联播网  
@@ -115,7 +115,7 @@
 
 希望之声  
 [https://www.soundofhope.org/post/826609](https://www.soundofhope.org/post/826609)  
-![1198](//img.soundofhope.org/styles/dfl/public/upload/image04/2024-07/photo-2024-07-16-20-46-15-1721184855805.jpg?itok=bG-irsk_)
+![1198](https://img.soundofhope.org/styles/dfl/public/upload/image04/2024-07/photo-2024-07-16-20-46-15-1721184855805.jpg?itok=bG-irsk_)
 
 希望之声  
 [https://www.soundofhope.org/post/788071](https://www.soundofhope.org/post/788071)

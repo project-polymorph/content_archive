@@ -63,7 +63,7 @@ Tags: [護家盟](https://queerology.net/tag/%e8%ad%b7%e5%ae%b6%e7%9b%9f/), [婚
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是2014年性别新闻回顾的下篇，主要探讨了台湾在跨性别及性别认定方面的相关政策及社会反响。文章首先讨论了跨性别者在性别变更登记中所面临的要求和争议，指出内政部之前的规定要求进行手术才能变更法律性别，使跨性别者遭受心理和生理上双重压力。随后，文章提到在长时间的抗争后，政府决定废除强制手术的要求，成立新的咨询委员会，但跨性别团体对此仍表示不满，认为这可能提高了变更登记的门槛。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,10 +76,10 @@ Tags: [護家盟](https://queerology.net/tag/%e8%ad%b7%e5%ae%b6%e7%9b%9f/), [婚
 | Size            | 11272 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2014-12-31                                 |
+| Tags            | 跨性别, 性别变更, 人权, 社会运动, 媒体报道, 性骚扰, 婚姻平权, 护家盟, 公共政策, 性别友善                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

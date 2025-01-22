@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了广州高校在课堂上进行的多元性别教育，特别是同志议题的探讨。作者崔乐回顾了自己在2013年到达广州后参与的‘认识同性恋’活动，并通过与多位同志活动人士的互动，描绘了当时同志公益圈的繁荣景象。在课堂上，阿山作为一位年长的同志志愿者，积极参与志愿工作并记录影像，展现了热情与坚定。课程的影响力不仅局限于校园，还扩展到社会各界，产生了积极的反馈与反响。文章强调了多元性别教育不仅是知识的传授，更是推动社会公正的重要手段，并探讨了多元性别教育的现状及其对学生价值观的塑造。最后作者提到阿山老同志致力于记录同志活动以及他发起的‘广州老年男同志口述史’项目，反映了他们的生存现状以及对未来的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@
 | Size            | 7346 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 崔乐                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-08-07                                 |
+| Tags            | 多元性别教育, 同志议题, 高校课堂, 广州, 社会文化, 阿山, 同性恋亲友会, 性别平等, 生命故事, 公益活动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -80,7 +80,7 @@ E-mail：ahndskxb@ahau.edu.cn
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了东晋时期著名的小说集《搜神记》中人妖相恋的神话，分析了其叙事特征、民俗文化背景及文学价值。从叙事角度切入，探讨了人妖恋情如何体现了该时期的文化观念，同时阐述了其对后世神怪文学的影响。文章指明，这些神话不仅是文人墨客的创作灵感源泉，更深入反映了社会对人妖文化的认知与接受程度，展现了多元性的文化包容与冲突。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@ E-mail：ahndskxb@ahau.edu.cn
 | Size            | 5113 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 李和平                               |
+| Region          | 中国                               |
+| Date            | 2025-01-14                                 |
+| Tags            | 人妖相恋, 神话, 文化价值, 叙事, 文学, 东晋, 民俗文化, 搜神记, 社会历史, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

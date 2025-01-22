@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了美国变性男性托马斯·比提的生活故事与经历，他是世界上首位通过人工授精成功怀孕并生子的男性之一。托马斯·比提原名特蕾西·拉贡蒂诺，在20多岁时接受了变性手术，之后于2003年与女友南希结婚。由于南希无法生育，比提选择通过人工授精进行怀孕。他在2008年和2009年分别生下两个女儿，成为国际媒体关注的焦点。比提的生活经历反映了多元性别人群在生育及家庭构成中的各种挑战与努力。文中还提及了比提与前妻的离婚及后来的生活选择，展示了其复杂的个人和家庭生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@
 | Size            | 3188 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 托马斯·比提, 变性人, 怀孕男性, 人工授精, 法律障碍, 同性婚姻, 家庭, 生育, 多元性别, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

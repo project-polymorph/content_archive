@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在“国际不再恐同日”到来之际，联合国难民署对性少数难民保护的呼吁以及相关工作的推广。联合国难民署负责人格兰迪表达了对性少数群体尤其是变性人的关心，指出性少数群体在日常生活中面临的虐待和侮辱，许多这样的暴行甚至来自亲近的家庭。为此，他呼吁各国应向这些需要庇护的性少数人士敞开大门，同时宣布任命比安卡·罗德里格斯为首位“变性人高级支助者”，以推动更大的社会支持和法律保障。文章进一步指出，全球范围内，性少数群体面临的法律和社会歧视，例如同性关系在70多个国家仍然被视为犯罪，并且在很多地区遭受着性侵和暴力。这一呼吁希望能够引起国际社会的重视，保障权益，改善性少数群体的生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 4717 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 联合国难民署                               |
+| Region          | 全球                               |
+| Date            | 2021-05-17                                 |
+| Tags            | 国际不再恐同日, 性少数群体, 难民保护, 变性人支持, 法律与社会保障, 人权, 性别认同, 性暴力, 社会歧视, 全球倡导                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

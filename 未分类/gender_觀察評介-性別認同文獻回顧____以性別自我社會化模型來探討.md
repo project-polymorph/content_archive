@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文献为一篇关于性别认同的回顾研究，作者为郑颖泽，籍贯为台湾，现为国立交通大学教育研究所教育心理学组的硕士研究生。文章探讨了性别的多层面概念，包括生理性别、性别气质、性别角色、性倾向和性别认同，重点强调了性别认同这一概念作为个体主观认定的性别（gender identity）。本文回顾了相关文献，分析了性别自我社会化模型对性别认同的影响，并提供了对性别认同在社会文化环境中的表现及其教育意义的深入观察。此外，文中还有一些相关资料和链接，指向有关妇女研究及性别议题的后续讨论和研究，展示了研究领域的动态和最新发展。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@
 | Size            | 5474 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 郑颖泽（国立交通大学教育研究所教育心理学组硕士班研究生）                               |
+| Region          | 台湾                               |
+| Date            | 2021-10-08                                 |
+| Tags            | 性别认同, 性别自我社会化, 性别角色, 性别气质, 性倾向, 教育心理学, 文献回顾, 社会文化, 性别研究, 台湾妇女研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

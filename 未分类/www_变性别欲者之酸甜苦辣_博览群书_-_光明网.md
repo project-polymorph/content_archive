@@ -55,7 +55,7 @@
 
 ![](//img.gmw.cn/pic/gmwLogo_share.jpg)
 
-[版权声明：转载须经版权人书面授权并注明来源](//www.gmw.cn/content/2011-02/14/content_1609313.htm)
+[版权声明：转载须经版权人书面授权并注明来源](https://www.gmw.cn/content/2011-02/14/content_1609313.htm)
 <!-- tcd_original_link https://www.gmw.cn/02blqs/2010-02/07/content_1133352.htm -->
 
 

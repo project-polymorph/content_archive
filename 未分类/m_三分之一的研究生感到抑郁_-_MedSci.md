@@ -36,7 +36,7 @@ Evans 等人称，该研究最大的局限是，焦虑和抑郁的学生可能�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一项关于研究生抑郁症状的新研究，揭示了研究生群体在心理健康方面面临的严峻挑战。根据德州大学圣安东尼奥分校的研究，研究生出现中重度焦虑及抑郁症状的几率明显高于其他群体，其中变性者和性别不认同者的焦虑和抑郁概率分别高达55%和57%。调查覆盖了26个国家的2279名学生，结果表明负担重、社会隔离以及与导师关系紧张等因素都会加重研究生的心理压力。作者呼吁学术界应重视学生的心理健康，为他们提供支持，帮助他们改善工作与生活的平衡，以减轻抑郁和焦虑的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@ Evans 等人称，该研究最大的局限是，焦虑和抑郁的学生可能�
 | Size            | 3191 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2018-03-30                                 |
+| Tags            | 抑郁症, 心理健康, 研究生, 性别认同, 焦虑症, 学术压力, 心理支持, 生活平衡, 教育政策, 社交隔离                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

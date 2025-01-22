@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了长沙市第一看守所对涉嫌盗窃的变性人桂英的关押经历。桂英因经济困难导致变性手术未完善，企图通过盗窃聚集资金以便进行进一步的手术，最终被警方逮捕。报道详细描述了桂英的背景，包括其变性手术前后的生活情况，以及在看守所的监禁方式和心理治疗措施。看守所以特殊的管理措施单独关押桂英，强调了对性别异常人员的监禁管理和心理健康支持的重要性。此事件引发了关于特殊群体的法律和社会关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,10 +80,10 @@
 | Size            | 4303 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 覃剑                               |
+| Region          | 长沙，湖南省                               |
+| Date            | 2014-05-21                                 |
+| Tags            | 变性人, 盗窃案件, 心理辅导, 监管措施, 性别认同, 医疗资源, 社会支持, 看守所管理, 法律政策, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

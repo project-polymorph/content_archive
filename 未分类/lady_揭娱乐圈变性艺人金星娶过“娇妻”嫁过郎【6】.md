@@ -25,7 +25,7 @@ _(责编：李昉、王静)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了娱乐圈变性艺人金星的个人经历，尤其是她的婚姻状况。金星提到她在23岁时的婚姻仅具有法律效应，实际上没有现实意义。她在变性之前并未与任何女性亲密接触。金星的第一任妻子坎波琳是她在美国学习舞蹈时的一位同学的女友，两人结婚主要是为了获取绿卡。此外，文中附上了若干与变性话题相关的延伸阅读链接，提供了更广泛的社会背景和相关信息，如变性者的满意度调查、法律政策等。因此，本文不仅是金星的个人故事，也反映了变性人在社会、法律和个人层面所面临的挑战和经历。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,10 +38,10 @@ _(责编：李昉、王静)_
 | Size            | 1373 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 网易女人                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-09-16                                 |
+| Tags            | 变性, 金星, 娱乐圈, 婚姻, 个人经历, 社会环境, 法律问题, 女性身份, 公共讨论, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

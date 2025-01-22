@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+国际变性人选美大赛（Miss International Queen）是由泰国芭提雅的蒂芬妮表演公司主办的国际性变性人选美比赛，自2004年开始举办。该赛事旨在为变性人群体提供一个展示自我的平台，增强社会对多元性别的理解和接纳。在历届比赛中，来自不同国家的选手争夺“国际皇后小姐”的称号，如2007年由来自泰国的谭雅娜获得冠军，2012年菲律宾的凯文·巴洛特也曾夺冠。此外，比赛不仅关注参赛者的外貌，更注重她们的才艺和个人故事，反映出变性人群体多样的生活经历与奋斗。该赛事近年来逐渐获得更广泛的认可，在推动性别平等方面发挥了重要作用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -82,10 +82,10 @@
 | Size            | 8217 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2004-01-01                                 |
+| Tags            | 变性人, 选美比赛, 国际皇后小姐, 社会接受, 性别多元, 芭提雅, 人权倡导, 跨性别, 生命故事, 文化活动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

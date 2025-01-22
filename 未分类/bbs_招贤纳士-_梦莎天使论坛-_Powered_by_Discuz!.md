@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为梦莎天使论坛发布的招聘信息，主要旨在招募对跨性别（CD、TS）群体有热爱和了解的人士担任论坛版主和推广员。招聘内容详细列出了各个职位的要求及工作职责，包括版主需要有定期更新论坛资料的能力、收集审核相关资料的工作技能，以及对跨性别文化的热情。同时，该招聘信息还提供了网络兼职推广员和小说管理员的职位，强调这些职位是针对对变装、SM、变性小说感兴趣的人士，且要求提供照片验证。此招聘信息体现了跨性别群体在社交网络中的活跃性及对专业支持和资源共享的需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,10 +78,10 @@
 | Size            | 2348 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 梦莎天使论坛                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 招聘信息, 变装, 跨性别, CD, TS, 梦莎天使论坛, 网络兼职, 社区支持, 社交网络, 文化交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

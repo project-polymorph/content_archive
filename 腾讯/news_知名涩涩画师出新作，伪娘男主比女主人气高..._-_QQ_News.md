@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自腾讯新闻，由作者碎碎念工坊撰写，介绍了一款名为《漫步少女世界的方法》的galgame新作。文章讨论了作为男主角的伪娘角色片桐由衣如何比女主人公更受欢迎，甚至在游戏的公开设定中透露了多种颓废和复杂的社会元素。画师mignon的精细画风让人印象深刻，尤其是在描绘伪娘男主的形象时，展示出完美的少女体态。文章还涉及到作品的编剧背景，提到此类伪娘角色在当前文化中受到欢迎，将性别设定和故事情节进行了深刻的讨论，反映了这种设定在当今二次元文化中的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 3077 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 碎碎念工坊                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-05-09                                 |
+| Tags            | 多元性别, 伪娘, GALGAME, 游戏, mignon, 文化现象, 性别表达, 男主角, 文学艺术, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

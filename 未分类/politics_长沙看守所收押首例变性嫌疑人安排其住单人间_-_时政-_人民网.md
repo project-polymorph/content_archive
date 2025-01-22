@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了长沙看守所收押的首例变性嫌疑人小婉的故事。四年前小婉经过完整的变性手术，成为了女性。在本次事件中，小婉因涉嫌盗窃被拘留，入狱前一直在娱乐场所工作。但由于身份证性别仍为男性，警方在将其安排在男监或女监时遇到了困扰。最终，长沙市第三看守所为小婉安排了一间单人间，并由两名女警进行24小时看护。此外，看守所为小婉提供了必要的医疗药物以及心理疏导，以帮助她应对监狱生活中的压力。小婉在被取保候审时对看守所的民警表示感谢，承诺将改过自新。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@
 | Size            | 4270 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-21                                 |
+| Tags            | 变性, 性别认同, 法律, 监狱管理, 心理疏导, 长沙, 盗窃案, 医疗保障, 社区支持, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

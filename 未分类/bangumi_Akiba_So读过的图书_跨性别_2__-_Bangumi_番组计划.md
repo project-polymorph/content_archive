@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![ミモザの告白 (2)](//lain.bgm.tv/pic/cover/c/df/de/357434_TelTh.jpg)
+![ミモザの告白 (2)](https://lain.bgm.tv/pic/cover/c/df/de/357434_TelTh.jpg)
 
 ### [ミモザの告白 (2)](http://bangumi.tv/subject/357434)
 - 3话 / 2021-12-17 / 八目迷 / 小学館 / 342
 - 2023-3-12 / 标签: 八目迷 轻小说 跨性别
 
-![银荆的告白](//lain.bgm.tv/pic/cover/c/67/f6/357437_TqGqm.jpg)
+![银荆的告白](https://lain.bgm.tv/pic/cover/c/67/f6/357437_TqGqm.jpg)
 
 ### [银荆的告白](http://bangumi.tv/subject/357437) 
 - ミモザの告白
@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为 Akiba So 的个人记录，列出了他所读过的与跨性别相关的轻小说，提供了每本图书的基本信息，包括书名、作者、出版日期、出版机构以及相关标签。文中特别提到的书籍有《ミモザの告白》和《银荆的告白》，均由八目迷创作，出版于小学馆。标签部分则包括 '跨性别'、'轻小说'、'校园' 等，反映出了这些书籍的主要主题与类别。此外，文件中附带了每本书的封面图片以及链接，方便进一步浏览与了解相关作品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 1758 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-03-12                                 |
+| Tags            | 跨性别, 轻小说, 校园, 八目迷, 银荆的告白, ミモザの告白, 小说, 日常, 黑暗, 百合                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细介绍了性发育异常的概念、分类及其临床背景。性发育异常通常被划分为真假两性畸形，但这种分类不足以涵盖近年来对该领域新认识的复杂性。文中提出了一种新的分类法，将性发育异常划分为三大类：性染色体异常、性腺发育异常和性激素异常，这一方法依据性染色体、性腺和性激素三个关键环节，为临床诊断提供了清晰的方向。文件还包括了具体类型的定义以及临床实例，如北京协和医院的相关研究从1995年至2010年收集的数据，证明这一分类法在实际应用中的有效性。整体而言，该材料为医务人员理解和处理性发育异常患者提供了重要的理论依据和数据支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 4400 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 田秦杰; 葛秦生                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性发育异常, 真假两性畸形, 染色体性别, 性腺性别, 内外生殖器性别, 性激素性别, 社会性别, 心理性别, 医学资源, 临床分类法                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -35,7 +35,7 @@ Copyright XINHUANET.com All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道来自新华网，标题为《泰国人妖彻底变性 颜值爆表成真正“女人”（组图）》，主要讲述了一名年轻的变性女性在经历过渡后，成功转变为一位女性，并开始了她的影视生涯。文中提到她不仅在外貌上获得了极大的改变，而且在事业上也迎来了光明的前景。文章通过多张图片展示了她的变化，并引发了对变性人群体生存状态的讨论和关注。报导还提及了变性经历在社会中的反响，提升了对变性人生活的认识与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@ Copyright XINHUANET.com All Rights Reserved.
 | Size            | 2291 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新华网                               |
+| Region          | 未知                               |
+| Date            | 2016-01-25                                 |
+| Tags            | 跨性别, 变性, 泰国人妖, 女性, 影视生涯, 社会环境, 身体展现, 身份认同, 性别多样性, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

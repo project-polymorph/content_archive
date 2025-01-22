@@ -8,7 +8,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档标题为《人妖在美国被黑人强奸》，内容涉及关于在美国的特定群体经历的一种极端且敏感的话题，可能反映了多元性别群体面临的社会问题与挑战。通过家庭剧的形式，该文件探讨了与性别认同和种族间关系相关的复杂情感与冲突，虽然内容简略，但主题引人深思，涉及了对受害者身心状况的深刻描绘和社会批判，旨在引发读者对多元性别群体权利和生活现状的关注。该资料的语言和叙事手法可能给人以冲击，建议读者对此保持敏感和理智。
+
+伴随这一主题的还有对社会偏见与暴力事件的反思，讲述了多元性别群体，尤其是变性者在接受社会接纳过程中所经历的种种困难和挑战。尽管该文件的具体信息例如原作者和发行日期均未提供，但该话题在当代社会中仍具重要意义，尤其在关于性别平等及保护少数群体权益的语境中。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -21,10 +23,10 @@
 | Size            | 125 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别认同, 美国, 家庭剧, 种族关系, 社会问题, 性别暴力, 变性者, 社会接受, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于跨性别和多元性别的议题，探讨了日常生活中存在的性别二元化现象及其对人们的影响。文章开头提到了在许多社交场合和商业环境中，传统的性别分类（如‘先生/小姐’）仍然占主导地位。接着，文件提供了一些重要的相关链接，包括非二元性别的介绍、面向社工及医疗专业人士的手册，以及为跨性别员工和客户准备的雇主指南。这表明了对跨性别人士的支持和理解的重要性。文章中还包括多个相关的图片和图表，展示了各种性别认同的表现形式和社会对性别的看法，尤其突出性别薑餅人的概念，这一概念旨在帮助人们理解性别的多样性。此外，Instagram上的相关图片提供了更直观的视觉信息，增加了对主题的引导和思考。整体而言，文件强调了对多元性别的理解、教育和支持的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,10 +72,10 @@
 | Size            | 5758 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 多元性别, 性别教育, 社会性别, 性别认同, 性别多样性, 非二元性别, 性别空间, 社工手册, 雇主指南                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -24,8 +24,8 @@
 欢迎来到女装子芭比酱的直播间。斗鱼严禁未成年人直播或打赏，依法对直播内容进行24小时巡查，禁止传播封建迷信、吸烟酗酒、低俗色情、赌博诈骗等任何违法违规内容。请理性消费，如主播在直播时以不正当方式诱导打赏、私下交易，请谨慎判断，以防人身财产损失。请勿轻信各类招聘征婚、代练代抽、私下交易、购买礼包码、游戏币等广告信息，谨防网络诈骗。
 
 ### 社交链接
-- [主播投稿](//v.douyu.com/author/lWAomEOj2Mwv)
-- [直播回看](//v.douyu.com/author/lWAomEOj2Mwv)
+- [主播投稿](https://v.douyu.com/author/lWAomEOj2Mwv)
+- [直播回看](https://v.douyu.com/author/lWAomEOj2Mwv)
 
 ### 活跃度统计
 - 日活跃度：0
@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容来自于一位名为“女装子芭比酱”的直播主在斗鱼平台的直播记录。这位主播于2018年5月12日进行了直播，并吸引了七个关注者。直播内容主要围绕个人介绍、直播互动和对观众的提示，包括直播活动的相关提醒和法律规定。内容中还包括主播的社交链接、互动信息及直播活动的参与方法，强调了参与度的提高与社区互动的重要性。该文件还定义了主播与观众之间的互动方式，如弹幕和礼物交流，并提醒观众理性消费与网络安全。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 1562 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-05-12                                 |
+| Tags            | 女装, 直播, 斗鱼, 多元性别, 网络互动, 主播, 社交媒体, 法律提示, 观众互动, 网络安全                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

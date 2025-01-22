@@ -50,7 +50,7 @@ E-Mail: bjs201022@gmail.com webmaster@bjzc.org manager@bjzc.org
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了2024年台湾同志游行的盛况，游行定于10月26日在台北举行，主题为“迈向共融，交织共生”。预计参与人数将达到18万人，其中包括台湾副总统萧美琴的参加，以及其他来自不同地区的LGBT+团体。文件详细描述了游行的组织、参与者的反应以及台湾社会对LGBT+群体支持的变化。特别提到台湾自2019年成为亚洲第一个合法化同性婚姻的国家，让同志游行成为一年一度的重要盛事，吸引了各国参与者，彰显了台湾在性别平权方面的努力与成就。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@ E-Mail: bjs201022@gmail.com webmaster@bjzc.org manager@bjzc.org
 | Size            | 4466 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2024-10-26                                 |
+| Tags            | 同志游行, 台湾, 性别平权, LGBT+, 社会运动, 婚姻平权, 民主运动, 文化活动, 政治参与, 公众集会                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了国立联合大学讲师周德荣在变性为女性后，首次接受媒体采访的经历。周德荣，拥有三个孩子，三年前取得变性鉴定，开始以女性身份生活。在研讨会中，她分享了变性过程中的痛苦和挣扎，包括家庭的接受程度和与孩子的关系。周德荣希望通过自己的经历来争取变性人及相关权益，反对性别歧视。此外，报道中还涉及了台湾变性手术的相关法律政策，手术的技术细节，以及变性人的社会现状。文章通过对周德荣个人故事的叙述，引发公众对变性者面临的社会问题的关注和讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 5225 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2004-11-23                                 |
+| Tags            | 变性, 性别认同, 变性手术, 生命故事, 法律与政策, 媒体报导, 社会现状, 性别歧视, 家庭关系, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

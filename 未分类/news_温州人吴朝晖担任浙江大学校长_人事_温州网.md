@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了温州人吴朝晖于2015年3月26日担任浙江大学校长的任职宣布大会。文章详细介绍了吴朝晖的个人背景，包括他的教育经历、工作岗位及其职业生涯的历程。他在宣布会上发表感人的讲话，回顾了自己与浙江大学的深厚渊源，并表示对浙大的感激之情，强调了作为校长所承担的责任与使命。吴朝晖的任职不仅是他个人成就的体现，也代表了对教育界的贡献与承诺。文章引用了相关的链接以供读者获取更深入的信息，并对吴朝晖的专业领域进行了简要说明，突出了他在计算机应用方面的专长。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@
 | Size            | 3530 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 温州新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-03-26                                 |
+| Tags            | 吴朝晖, 浙江大学, 校长任命, 教育, 温州人, 计算机应用, 个人经历, 职业生涯, 使命, 责任                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -114,7 +114,7 @@ nán tóng xìng liàn zhě
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件详细介绍了“男同性恋者”在法语中的翻译及其相关信息，包括对翻译的讨论和在多元性别议题中涉及的法律及社会背景。文件中列举了多重法语翻译，例如“gays”（粗俗用法）和“homosexuels”（正式用法），并提供了关于这些翻译的语境。内容涉及对男同性恋者的公开集会权利的讨论，强调了相关群体在社会中遭受的歧视和暴力现象，同时提到了一些国际报告中对LGBTQ+群体状况的关注，特别是对法律保护和平等待遇的支持。此外，该文中还包含了关于2009年男同性恋者遭受袭击和残酷对待的相关事件，以及对政府应采取措施以消除对多元性别人士歧视的呼吁。整体内容反映了对于男同性恋者及其他性少数群体的社会现状和法律政策的关切。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -127,10 +127,10 @@ nán tóng xìng liàn zhě
 | Size            | 8457 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男同性恋者, 法语翻译, 性别多样性, 社会歧视, 法律保护, LGBTQ+, 性取向, 社会环境, 文化隐形, 人权问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

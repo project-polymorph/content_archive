@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自一个动漫论坛，讨论了在二次元文化中，许多女装男性的发言并未被其他人察觉。作者rushsong对于这些现象发表了自己的看法，提到了在不同动漫角色评论中，往往是女性以男装角色来表达对故事情节和角色的喜爱，这种行为既让人惊讶，也引发了许多讨论。此外，评论区的回复增加了对这一现象的探索，参与者们分享了自己的观点，讨论了“女装男”和“男装女”的表现以及其社会背景。在这次对话中，大家不仅分享了各自的看法，还反思了网络文化中的性别表现和角色认同的复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@
 | Size            | 3491 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | rushsong                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-05-26                                 |
+| Tags            | 多元性别, 二次元文化, 论坛讨论, 女装男, 男装女, 性别认同, 动漫角色, 女性表达, 社会现象, 评论区互动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

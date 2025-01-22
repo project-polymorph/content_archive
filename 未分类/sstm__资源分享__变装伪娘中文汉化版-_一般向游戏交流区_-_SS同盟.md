@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![qian396](//s.sstmlt.com/board/monthly_2017_06/9f2f070828381f3046cedbc8a1014c086f06f0f8.thumb.jpg.f837b467298edd1d5f7a0035a9b24469.jpg)
+![qian396](https://s.sstmlt.com/board/monthly_2017_06/9f2f070828381f3046cedbc8a1014c086f06f0f8.thumb.jpg.f837b467298edd1d5f7a0035a9b24469.jpg)
 
 **qian396**， 十月 26, 2015 在 [一般向游戏交流区](https://sstm.moe/forum/12-%E4%B8%80%E8%88%AC%E5%90%91%E6%B8%B8%E6%88%8F%E4%BA%A4%E6%B5%81%E5%8C%BA/)
 
@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《变装伪娘中文汉化版》的介绍和资源分享，涵盖了该游戏的基本信息、玩法说明及汉化团队的成员。游戏的主要内容是将正常男性角色变为伪娘（男の娘），玩家可以在游戏中探索并完成这一转变。文件详细列出了游戏的汉化过程，包括破解、翻译、修图及测试人员，并提供了游戏下载链接。此外，文件中还包含了游戏的截图和玩家反馈，反映出玩家对此游戏的积极参与与体验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@
 | Size            | 2347 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 扑家汉化组                               |
+| Region          | 未知                               |
+| Date            | 2015-10-26                                 |
+| Tags            | 变装伪娘, 中文汉化, 一般向游戏, 伪娘文化, 男の娘, 游戏资源, 汉化团队, 玩家反馈, 性别多元, 资源分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -61,11 +61,11 @@ ID信息：
 ![](//pic.shipengliang.com/NS/010035501BC98000-2.jpg)
 ![](//pic.shipengliang.com/NS/010035501BC98000-3.jpg)
 
-![男娘连连看：帅哥辍学-1 游戏截图](//pic.shipengliang.com/NS/010035501BC98000-1.jpg)
+![男娘连连看：帅哥辍学-1 游戏截图](https://pic.shipengliang.com/NS/010035501BC98000-1.jpg)
 
-![男娘连连看：帅哥辍学-2 游戏截图](//pic.shipengliang.com/NS/010035501BC98000-2.jpg)
+![男娘连连看：帅哥辍学-2 游戏截图](https://pic.shipengliang.com/NS/010035501BC98000-2.jpg)
 
-![男娘连连看：帅哥辍学-3 游戏截图](//pic.shipengliang.com/NS/010035501BC98000-3.jpg)
+![男娘连连看：帅哥辍学-3 游戏截图](https://pic.shipengliang.com/NS/010035501BC98000-3.jpg)
 
 **如您从本文得到了有价值的信息或帮助，请考虑扫描文末二维码捐赠和鼓励。**
 
@@ -86,7 +86,7 @@ All resources come from the network, this site does not participate in any dump 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了一款名为《Otoko Cross: Pretty Boys Dropout! 男娘街机：滑砖》的游戏。这款益智解谜游戏由一群跨性别“男装娘”角色共同参与，包含45个挑战阶段，玩家需要通过滑动方块拼图以匹配颜色并清除相同方块，使角色图标朝向出口落下。每个角色都有独特的背景故事，可在游戏内进行探索。游戏在2023年首次发布，具备一系列特色功能，比如根据积分解锁不同服装和背景图像，且配有日语配音。文中还包含了下载链接及相关资源的说明，适合游戏爱好者，尤其是对多元性别文化感兴趣的玩家。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,10 +99,10 @@ All resources come from the network, this site does not participate in any dump 
 | Size            | 5371 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 时鹏亮                               |
+| Region          | 未知                               |
+| Date            | 2023-09-01                                 |
+| Tags            | 多元性别, 男装娘, 跨性别, 游戏, 益智解谜, Otoko Cross, 文化表达, 娱乐, 下载内容, 游戏资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

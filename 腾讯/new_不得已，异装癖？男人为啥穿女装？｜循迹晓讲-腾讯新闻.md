@@ -113,7 +113,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇腾讯新闻的文章，通过整合多段历史和现代的男扮女装的实例，探讨了男性穿着女装的文化现象。这篇文章由赛艇队长主讲，具备丰富的历史背景资料，从中国古代到现代战争中男扮女装的各类故事进行了讲解。文中提到了一些著名的历史人物和事件，例如隋末唐初的李密、法国财政官迪昂、以及劳伦斯等，分析了男扮女装背后的社会与心理动因。文章以轻松幽默的方式呈现了男性在特定情况下为何选择穿女装，并通过幽默的语言描述了这些历史事件，展现了性别角色和社会期望的复杂交织。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -126,10 +126,10 @@
 | Size            | 9867 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 循迹晓讲                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-11-19                                 |
+| Tags            | 多元性别, 性别角色, 男扮女装, 历史故事, 军事行动, 文化现象, 社会心理, 法律政策, 新闻报道, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

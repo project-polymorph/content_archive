@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《纯洁小伪娘的故事》是由日本漫画家ウロ创作的一部少年向的伪娘漫画。本作品围绕主人公的生活与心理历程展开，展现了多元性别的主题和角色。漫画通过细腻的描绘，探索了个体在性别认同过程中所面临的挑战与困惑，体现了对性别多样性的尊重与理解。作品的风格结合了典型的动漫元素和温柔的叙述风格，使得读者在享受漫画艺术的同时，也能深刻感受到多元性别文化的影响。该作品在ACGN（动画、漫画、游戏、小说）爱好者中有着良好的反响，并引发了关于多元性别身份和表达的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,10 +44,10 @@
 | Size            | 957 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | ウロ                               |
+| Region          | 日本国                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 伪娘, 日本漫画, ACGN, 性别认同, 漫画作品, 性别表达, 青少年文学, 女性角色, 文化探索                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

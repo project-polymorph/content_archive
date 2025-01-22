@@ -106,7 +106,7 @@ KPJ Healthcare Berhad集团的子公司以质量和先进的医疗服务闻名�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了马来西亚提供变性手术的医疗资源，主要集中在数家整形外科医院与诊所的信息，包括KPJ特瓦嘉专科医院和KPJ白沙罗专科医院。这些医院以其高标准的医疗服务和合理的医疗费用受到关注，尤其是在医疗旅游方面。文章详细阐述了变性手术的类型和过程，分别介绍了男变女和女变男手术的具体操作步骤、术后护理及可能的并发症。同时，也提醒患者在寻求变性手术时要进行充分的医疗咨询和了解手术风险。整体上，本文为想要在马来西亚接受变性手术的患者提供了宝贵的信息和指引，是一份重要的医疗资源指南。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,10 +119,10 @@ KPJ Healthcare Berhad集团的子公司以质量和先进的医疗服务闻名�
 | Size            | 5926 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 马来西亚                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 整形外科医生, 医疗旅游, KPJ特瓦嘉专科医院, KPJ白沙罗专科医院, 性重建手术, 医疗资源, 男性到女性, 女性到男性, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

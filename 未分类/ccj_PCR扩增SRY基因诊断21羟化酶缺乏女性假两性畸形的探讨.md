@@ -61,7 +61,7 @@ GB/T 7714
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了21羟化酶缺乏引起的女性假两性畸形的PCR扩增SRY基因诊断方法。21羟化酶缺乏是最常见的先天性肾上腺皮质增生症类型之一，主要临床特征是性发育异常，患者可表现为男性化假两性畸形。文章首先介绍了该病的发病机制与临床症状，随后详细论述了通过PCR方法对SRY基因的扩增研究，旨在对女性假两性畸形进行鉴别诊断。与传统的激素水平测定和细胞水平染色体检查相比，PCR方法具有快速、灵敏和简便的优势，为早期确诊与针对性治疗提供了新的思路。文章最后附有多个相关论文的链接，供读者深入参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,10 +74,10 @@ GB/T 7714
 | Size            | 2482 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 魏星, 张立群, 王家锦, 赵亚妹, 王妍, 穆莹                               |
+| Region          | 中国大陆                               |
+| Date            | 1994-01-01                                 |
+| Tags            | 性别身份, 假两性畸形, 21羟化酶缺乏, 性发育异常, PCR诊断, 性别医学, 先天性疾病, 遗传学, 医学研究, 社会性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

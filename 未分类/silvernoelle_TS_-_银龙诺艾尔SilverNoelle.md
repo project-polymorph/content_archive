@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了银龙诺艾尔（SilverNoelle），一个关于跨性别者生活经历的分享平台，文章中描述了一群人在特定环境下的逗留及生活状态，探讨了青春与身份认同之间的关系。内容中提到的“乌云压顶”是对一种社会压力的隐喻，引发人们对多元性别群体在社会中所承受的心理和情感负担的思考。同时，文章内包含多个链接，连接了关于跨性别者的生活、故事以及分享经验的不同部分，展现了社群的凝聚力和当事人的亲历感。这个平台不仅仅提供了生活轨迹的记录，还引导读者关注多元性别者的心理健康、法律支持和社会歧视等议题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 2239 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 银龙诺艾尔 SilverNoelle                               |
+| Region          | 未知                               |
+| Date            | 2024-12-10                                 |
+| Tags            | 银龙诺艾尔, TS, 多元性别, 青春故事, 生活经历, 社会压力, 心理健康, 法律支持, 身份认同, 经验分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

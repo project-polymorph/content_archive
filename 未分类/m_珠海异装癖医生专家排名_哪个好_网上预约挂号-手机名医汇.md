@@ -99,7 +99,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件提供了珠海地区异装癖相关医疗专家的排名及其详细信息。文章中列出了十位医生，包括他们的职称、所在医院、专业领域及患者评价。文件强调了这些医生在精神心理疾病，尤其是抑郁症、焦虑症等方面的丰富临床经验，适合相关患者进行就诊与咨询。此外，还包含了一些患者咨询例子，涉及青少年对异装癖的认知与应对。文中提供了医院及医生的联系电话，便于患者预约和咨询。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -112,10 +112,10 @@
 | Size            | 3599 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 名医汇                               |
+| Region          | 珠海, 中国                               |
+| Date            | 2023-01-01                                 |
+| Tags            | 异装癖, 医疗, 珠海, 精神心理, 医生排名, 心理健康, 患者咨询, 治疗方案, 男性穿衣, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

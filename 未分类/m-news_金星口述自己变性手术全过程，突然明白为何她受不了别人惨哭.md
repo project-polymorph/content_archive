@@ -140,7 +140,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细记录了知名艺术家金星在进行变性手术过程中的亲身体验与感受，包含了手术前的心理准备、手术过程中的痛苦以及对手术结果的反思。金星通过文字分享了她在医院中的经历，包括心理测试的细节、不同手术步骤的描述及其对自身身体和身份认同的理解。文章中提到，与医师的沟通、选择隆胸材料的纠结以及对于手术疼痛的忍耐等方面，展现了她在面对生理变化时的心理斗争与决心。金星的故事中，夹杂着个人对于社会对女性定义的反思，以及关于身份、痛苦与选择的深入探讨。她引用了自己认为重要的观点："你可以不认可我的生活方式，存在方式，那是你的问题，不是我的问题。"
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -153,10 +153,10 @@
 | Size            | 16871 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 艺术联盟                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-06-29                                 |
+| Tags            | 金星, 变性手术, 生命故事, 性别认同, 艺术家, 身体变化, 心理测试, 手术过程, 医疗事故, 社会认知                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇讨论变性手术相关法律问题的评论文章，作者邓子庆在文章中针对北大博士韩友谊关于变性手术可能涉及故意伤害的言论进行反驳。作者认为，变性手术并不是医疗事故，反而是一些心理问题的解决方案。他提到心理健康与生理健康的关系，强调变性决策往往是经过深思熟虑的个人选择，不应受到法律的无端限制。此外，文章还论及了法律与社会进步之间的关系，认为法律需要与时俱进，不能因为某些国家的立法经验就一概而论。整体上，邓子庆希望社会能够更加理解和包容变性人群体的合法权利与需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,10 +56,10 @@
 | Size            | 6575 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 邓子庆                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-11-18                                 |
+| Tags            | 变性手术, 心理健康, 法律讨论, 版权问题, 社会包容, 生理心理关系, 医疗事故, 法治环境, 个人选择, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

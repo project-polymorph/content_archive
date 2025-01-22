@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一个未成年男孩小楠在未经父母同意的情况下，通过网络寻找一名未具资格的实习医生为自己进行变性手术的事件。小楠因强烈厌恶男性身份，隐瞒父母未成年状态，冒险来到成都接受手术。手术由一名没有执业资格的实习医生田某进行，结果导致小楠的睾丸被切除，且在法律上，这种手术是未经允许、非法的。手术后，小楠因抑郁险些自杀，最终其父亲得知真相后报案，田某被指控涉嫌故意伤害罪被逮捕，涉事医院也因违反医疗规范遭到处理。此事件引发社会对未成年转性手术的法律和道德讨论，强调了性别认同与医疗行为之间的复杂关系，以及对未成年人的法律保护责任。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,10 +77,10 @@
 | Size            | 5714 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 成都商报                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-09-24                                 |
+| Tags            | 变性手术, 未成年人, 法律责任, 医疗事故, 性别认同, 社会舆论, 心理健康, 医疗规范, 实习医生, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

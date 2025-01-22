@@ -114,7 +114,7 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为Attaboy Deven撰写的关于跨性别男性（FtM）在进行荷尔蒙替代治疗（HRT）前需要了解的七件重要事项的文章。文章详细讨论了许多跨男对HRT的误解和幻想，强调HRT不仅是身体外表的变化，更是心理和社会生活的复杂过程。Deven首度阐明HRT的开始并不能解决个人生活中的所有问题，反而可能带来更多需要面对的挑战，诸如法律身份问题和心理健康风险。文中提到HRT的效果具有个体差异，且不应被视作简单的选择，而是要考虑可能的副作用和身体变化。在结尾处，作者提到并非所有跨男都需要通过HRT来确认自我身份，鼓励读者重新审视这一选择，可以通过其他方法实现性别认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -127,10 +127,10 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 | Size            | 12845 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Attaboy Deven                               |
+| Region          | 未知                               |
+| Date            | 2021-01-03                                 |
+| Tags            | 跨性别, 荷尔蒙替代治疗, HRT, 心理健康, 性别认同, FtM, 法律问题, 性别不安, 医疗资源, 自我认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

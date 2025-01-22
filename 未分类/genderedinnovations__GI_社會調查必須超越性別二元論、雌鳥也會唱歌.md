@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性别二元论在社会调查中的局限性，并引述了史丹佛大学贫穷与不平等研究中心的Aliya Saperstein的研究成果，根据研究显示，有7%的受访者认为自己的性别气质介于男性与女性之间，而4%的受访者在后续问题的回答中未能“符合”他们的生理性别。文章呼吁社会调查应该超越传统的性别二分法，允许更多的性别身份选择，指出多个国家如加拿大、丹麦、爱尔兰等已提供非二元性别的选项。此外，文章提到雌鸟也能鸣唱，挑战了对鸟类性别角色的传统认知，并提供了相关链接以供进一步了解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@
 | Size            | 2038 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2018-03-26                                 |
+| Tags            | 性别二元论, 社会调查, 性别身份, Aliya Saperstein, 雌鸟鸣唱, 性别化创新, 跨性别, 流动性别, 性别政策, 社会平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

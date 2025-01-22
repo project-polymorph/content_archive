@@ -89,7 +89,7 @@ Copyright Reserved 2000-2025  雅昌艺术网 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为沈晔创作的艺术作品《异装9^_^Cross Dressing 9》的详细介绍。该作品属于‘异装 Cross Dressing’系列，创作于2010年，尺寸为60*40厘米，采用亚麻布面油画的材质。文件中不仅介绍了该作品，还列出了与之相关的一些类似作品，包括《异装10^_^Cross Dressing 10》、《人行道》和《秘戏（一种爱情的想象4）^_^Secret play （One Kind Imagine Of Love 4）》，均为2010年创作。通过丰富的作品信息，读者可以了解沈晔的创作风格及艺术理念，其中涉及到的主题似乎与多元性别相关，反映了艺术家对这一领域的关注与表达。此外，还提供了沈晔的生平、展览经历以及联系方式等详细信息，使读者能更全面地理解该艺术家及其作品的背景与意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,10 +102,10 @@ Copyright Reserved 2000-2025  雅昌艺术网 版权所有
 | Size            | 2971 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 沈晔                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-01-01                                 |
+| Tags            | 多元性别, 艺术作品, 油画, 沈晔, 异装文化, 生命故事, 创作经历, 社会环境, 展览信息, 油画艺术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

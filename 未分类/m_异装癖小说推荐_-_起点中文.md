@@ -96,7 +96,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要推荐了一系列与异装癖相关的小说，并试图阐释异装癖和药娘之间的关系。内容涵盖免费虐心小说以及多种类型的小说推荐，如古风、后宫、玄幻等类别。文件中提到的异装癖是指喜欢穿戴与自身性别不同服饰的人，与药娘的概念进行了简要区分，药娘是借由医学手段实现性别转换的跨性别者，属于男性向女性转换范畴（MtF）。这篇文章不仅是针对小说的推荐，也尝试为读者提供对异装癖的更深了解，引导他们体验文化传承和情感共鸣。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,10 +109,10 @@
 | Size            | 3648 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 起点中文网                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-30                                 |
+| Tags            | 异装癖, 小说推荐, 跨性别, 药娘, 情感小说, 文学, 文化, 性别研究, 网络文学, 起点中文                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

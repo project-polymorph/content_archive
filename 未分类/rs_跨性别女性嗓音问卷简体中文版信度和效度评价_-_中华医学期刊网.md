@@ -60,7 +60,7 @@ TWVQ-SC具有良好的信度和效度，可作为跨性别女性嗓音自我评�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章对简体中文版的跨性别女性嗓音问卷（Trans Woman Voice Questionnaire, TWVQ-SC）进行了信度和效度评价，目的是验证该量表在跨性别女性的嗓音功能评估中的科学性和实用性。文章中详细描述了研究方法，包括采用跨文化适度法进行双向翻译和回译，以及样本的选取与问卷的设计。研究通过简单版TWVQ-SC评测340名跨性别女性和134名顺性别女性，结果显示跨性别女性在嗓音功能的认知、心理社会影响及社会参与受限等方面的得分显著高于顺性别女性，且该量表在信效度评估中的表现良好。此研究为临床应用提供了有效的自我评估工具，帮助跨性别女性更好地了解和改善其嗓音特征，为后续的嗓音女性化咨询和训练提供了科学支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@ TWVQ-SC具有良好的信度和效度，可作为跨性别女性嗓音自我评�
 | Size            | 3828 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 王路, 张嘉禾, 王晨希, 张祥, 丁惠君, 靳雨锟, 胡荣庆, 张庆丰, 陈臻                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-11-07                                 |
+| Tags            | 跨性别女性, 嗓音, 问卷调查, 信度, 效度, 心理社会影响, 社会参与, 数据统计, 医疗研究, 声音女性化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

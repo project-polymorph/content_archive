@@ -76,7 +76,7 @@ Sky，（微博:三号技师sky， ins:skycc）上海 MEDUSA 派对组织者，D
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于变装文化的播客节目《反潮流俱乐部》的一期内容，专门讨论了‘变装皇后’这一文化现象。‘变装皇后’是指那些通过穿着女性服装来表演女性角色的男性。节目中邀请了两位嘉宾Ray和Sky，他们分别是Drag Queen职业表演者和Drag Queen爱好者。他们分享了自己的经历和对变装文化的理解，以及变装文化背后的精神和历史，旨在增进公众对这一小众文化的了解。节目提及了多个相关电影和音乐作品，并提供了丰富的背景资料和资源链接。这期节目时长33分钟28秒，于2020年2月3日播出。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -89,10 +89,10 @@ Sky，（微博:三号技师sky， ins:skycc）上海 MEDUSA 派对组织者，D
 | Size            | 3359 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 反潮流俱乐部（声动活泼）                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-02-03                                 |
+| Tags            | 变装皇后, Drag Queen, 文化, 小众, 力争平权, 社会现象, 生命故事, 播客, 多元性别, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

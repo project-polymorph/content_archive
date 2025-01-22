@@ -31,7 +31,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一位来自澳大利亚的变性球员马丁·德莱尼的故事，她在结束了25年的职业男足生涯后，成功转投女子足球联赛。报道详细阐述了德莱尼的背景及其变性经历，并说明了她在女足比赛中的表现及引发的争议。德莱尼是一位人权活动家，曾为变性人群体发声，并在相关法规下被允许参加女子足球联赛，此事件引起了澳大利亚媒体的广泛关注。文章中提到，在澳大利亚足协的规定中并没有对变性球员的限制，但建议应遵循国际奥林匹克委员会的指导方针。同时，德莱尼的这个决定也借鉴了另一位变性运动员米阿尼·巴戈尔对赛事规则的影响。这则新闻不仅展现了体育界对变性运动员态度的变化，也深刻反映了社会对性别认同的包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,10 +44,10 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
 | Size            | 2049 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 搜狐体育                               |
+| Region          | 澳大利亚                               |
+| Date            | 2005-06-24                                 |
+| Tags            | 变性人, 女足联赛, 男足经历, 马丁·德莱尼, 人权运动, 体育新闻, 性别认同, 澳大利亚足协, 体育政策, 变性运动员                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

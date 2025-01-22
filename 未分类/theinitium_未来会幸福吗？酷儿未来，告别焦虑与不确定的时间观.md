@@ -148,7 +148,7 @@ Je, tu, il, elle O Fantasma The living end Hedwig and the angry inch Les Amours 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由海德薇格撰写，刊登于2024年2月11日，探讨了酷儿的未来和对幸福的理解。作者引用2018年诺贝尔文学奖得主奥尔加・托卡尔丘克的观点，讨论现代社会普遍存在的不确定性和焦虑感，并分析了幸福的概念及其社会构建。文章从幸福科学的假设出发，批评了社会对幸福的定义和追求，指出这种追求往往是异性恋规范的结果，标准化了人们对理想生活的想象。作者提出，随着全球社会环境的变化，曾经的幸福承诺愈发显得触不可及，而这种来自社会的压力使得个人在追求幸福的道路上承受了诸多困扰与焦虑。最后，作者借用“残酷乐观主义”的概念，讨论了人们对这些幸福承诺的依赖及其带来的痛苦。在此过程中，文章通过多个引人深思的案例，揭示了规范如何内化于人们的生活，并影响着人们对未来与幸福的感知。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -161,10 +161,10 @@ Je, tu, il, elle O Fantasma The living end Hedwig and the angry inch Les Amours 
 | Size            | 25845 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 海德薇格 / 端传媒 Initium Media                               |
+| Region          | 未知                               |
+| Date            | 2024-02-11                                 |
+| Tags            | 酷儿, 幸福, 未来, 不确定性, 社会规范, 异性恋, 残酷乐观主义, 心理健康, 文化批评, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了跨性别群体在社会中的认同和医疗需求，强调跨性别者面临的心理和生理挑战。文章开头引入了对跨性别者的定义，并提到复旦大学附属儿科医院开设的国内首个跨性别儿童与青少年多学科门诊，旨在为这一特殊群体提供更好的医疗支持。文中提到，许多跨性别者在生理性别方面感到不适，伴随着焦虑和抑郁情绪，甚至有自杀倾向的个案。通过引用《2017年中国跨性别群体生存现状调查报告》，文章指出，中国的跨性别者在社会中承受着巨大的压力和歧视，亟需社会的理解和支持。此外，文中最后呼吁社会各界共同努力，帮助跨性别者缓解困境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@
 | Size            | 4357 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吴雨林（湖南师范大学）                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-11-06                                 |
+| Tags            | 跨性别, 心理健康, 医疗资源, 社会支持, 焦虑, 抑郁, 儿童青少年, 性别认同, 社会歧视, 生存现状调查                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

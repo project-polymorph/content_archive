@@ -40,7 +40,7 @@ _本帖最后由 中国冰人 于 2012-3-24 10:14 编辑_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一组有关泰国芭提雅地区人妖表演的图片和相关描述。文中提到，泰国的人妖是指那些通过服用雌性激素等手段改变身体形态的男性，其中部分人是经过手术的变性人。作者分享了他在2012年2月底去泰国芭提雅旅游时观看人妖表演的经历，描述了芭提雅作为著名旅游胜地的美丽风光，以及人妖艺术表演的吸引力。此帖包含一些表演的照片，旨在向读者展示这种独特的文化现象和娱乐形式。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@ _本帖最后由 中国冰人 于 2012-3-24 10:14 编辑_
 | Size            | 2676 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国冰人                               |
+| Region          | 泰国                               |
+| Date            | 2012-03-24                                 |
+| Tags            | 泰国, 芭提雅, 人妖表演, 变性人, 文化现象, 旅游, 表演艺术, 性别多元, 雌性激素, 生活经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

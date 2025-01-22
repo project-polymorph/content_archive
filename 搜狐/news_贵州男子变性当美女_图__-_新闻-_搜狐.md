@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了贵州一名25岁男子刘艺妃的变性经历。他于2006年4月10日在广西南宁华美整形医院举行的新闻发布会上亮相，宣布即将进行变性手术，成为广西首例变性美女。刘艺妃在手术前的采访中，谈到自己的变性梦想和对未来生活的期待，以及手术由来自医院的知名医生主刀。根据报道，手术预计耗资超过20万人民币，整形医院将承担费用。本文突出了变性人的勇敢和追求自我认同的精神，具有一定的社会和医疗价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -31,10 +31,10 @@
 | Size            | 933 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 钟新                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-04-12                                 |
+| Tags            | 变性, 女性化手术, 跨性别, 尊重多元性别, 生命故事, 变性人士, 整形手术, 广西, 社会认同, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

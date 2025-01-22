@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了德国于2024年11月1日生效的性别自决法案，该法案允许个人自由更改官方记录上的姓名和性别。根据该法案，德国公民可选择包括男性、女性、双性和无性别的四种身份，不再受生理特征的限制，每年最多可更改一次。通过该法案，自称女性的跨性别者可自由使用女厕、女更衣室等设施。此外，文章提到，截止法案生效当日，已接获超过1200份性别更改申请，显示出这项政策的广泛关注及其对跨性别人士的积极影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 2441 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中國評論通訊社                               |
+| Region          | 香港                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 性别自决, 跨性别权利, 法律政策, 德国, 姓名更改, 性别身份, 性别平等, 公共设施使用, 社会变革, 政策影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

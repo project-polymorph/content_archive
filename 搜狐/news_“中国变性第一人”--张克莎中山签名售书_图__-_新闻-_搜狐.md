@@ -42,7 +42,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. [版权所有](https://www.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了中国变性人张克莎的成长经历和变化，她被称为“中国变性第一人”。张克莎于1962年出生于大连的一个部队高干家庭，尽管从小被认定为男性，但她的性别认同始终是女性。在接受了中国首例变性手术后，张克莎以新的身份生活，展现出她的优雅和自信。文章中也提到她在中山的签名售书活动中受到众多路人的瞩目，以及社会对变性人的尊重与接纳程度的提升。文中同时探讨了变性人在社会中面临的挑战和生存现状，强调了社会进步的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. [版权所有](https://www.
 | Size            | 3964 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 储德武，李柳婷                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-10-20                                 |
+| Tags            | 变性人, 张克莎, 性别认同, 变性手术, 社会进步, 成长经历, 生命故事, 新闻报道, 性别多元, 文化接受                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

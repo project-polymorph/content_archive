@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位名为小灿的男扮女装艺人的故事，他因其在反串表演中的出色表现而受到广泛关注。文章开头介绍了小灿在综艺节目《我是传奇》中的出色表现，使他脱颖而出，成为签约演员，甚至在《中国达人秀》中引起评委的赞叹。他的生活照在社交媒体上疯传，很多网友对他的外貌赞不绝口，称他为“真正的男神”。小灿对伪娘的标签表示拒绝，强调自己为了家庭而努力工作，并陈述反串表演的艺术性质。文章还提到社会对多元性别表现的逐渐包容，指出反串文化在中国古已有之，是文化多元化的一种体现。专家的观点认为，尊重和包容不同的公众形象是时代发展的必然趋势。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 5382 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 扬子晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-01-16                                 |
+| Tags            | 多元性别, 反串文化, 男扮女装, 娱乐圈, 综艺节目, 小灿, 社会包容, 艺术表演, 网络文化, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

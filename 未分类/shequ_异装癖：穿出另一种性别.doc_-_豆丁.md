@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档探讨了异装癖现象及其对个人身份认同的影响。作者通过实例展示了跨性别人士在日常生活中的经历，尤其是在穿着方面的选择如何影响他们的自我表达与社会认同。文章中还包括了一些历史文化背景，分析了社会对异装癖的接受度及相关挑战。通过生动的案例和细致的观察，本文力求让读者了解异装癖不仅是穿衣风格的选择，更是性别认同和个人表达的复杂交织。文档的创建时间为2010年，体现了一段时间内，社会对于性别非二元化理解的变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 1397 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | cmlang                               |
+| Region          | 未知                               |
+| Date            | 2010-09-11                                 |
+| Tags            | 异装癖, 性别认同, 自我表达, 跨性别, 社会接纳, 文化背景, 个人故事, 生活经历, 身份认同, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

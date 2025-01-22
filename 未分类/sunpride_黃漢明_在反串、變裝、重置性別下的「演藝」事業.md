@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了艺术家黄汉明在反串、变装及重置性别方面的演艺事业及其创作理念。黄汉明出生于1971年，现居德国柏林，他通过录像、表演和装置艺术表现自我，将自身化作电影角色，以探索性别、年龄、国籍等多种身份的可塑性。他的创作不仅受到电影的影响，还尝试将不同文化背景融入表演和艺术作品中。在文中，黄汉明提到变装的深层意义：“身份充满着可塑性，随着装束的变化而重塑。”通过他在国际艺术展览中的展出作品，如《Life of Imitation》和《明年》等，黄汉明探讨了种族身份、性别认同和社会结构的复杂关系。文中还包括他的多幅作品图像，以及对其在威尼斯双年展及其他重要展览中表现的具体分析。文章不仅展现了他的艺术创作，也反映了他作为一位城市与性别认同的边缘艺术家的独特视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,10 +79,10 @@
 | Size            | 6560 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 黄汉明                               |
+| Region          | 未知                               |
+| Date            | 2021-09-13                                 |
+| Tags            | 反串, 变装, 重置性别, 艺术家, 录像艺术, 文化认同, 性别流动, 社会结构, 身份认同, 威尼斯双年展                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

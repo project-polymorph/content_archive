@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![南方网](//nfcms-mainsiteoss.southcn.com/nfw/__tpl_asset/1dc4fe9695.png)
+![南方网](https://nfcms-mainsiteoss.southcn.com/nfw/__tpl_asset/1dc4fe9695.png)
 
 ## 正文 { data-search-exclude }
 
@@ -26,7 +26,7 @@
 ### 编辑：郭昊奇  
 ### 责任编辑：周存  
 
-![南方网二维码](//nfcms-mainsiteoss.southcn.com/nfw/__tpl_asset/e0f9526042.png)
+![南方网二维码](https://nfcms-mainsiteoss.southcn.com/nfw/__tpl_asset/e0f9526042.png)
 
 本网站由南方新闻网版权所有，未经授权禁止复制或建立镜像。  
 广东南方网络信息科技有限公司负责制作维护。   
@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人的身份与认同问题，通过艺人金星的变性经历与某女歌手的互相批评，引入了多部电影（如《丹麦女孩》与《现在这样就好》）来阐述变性人进行角色转换的深刻影响。文章指出，金星作为中国最早的变性人之一，其经历引发了社会的广泛关注与讨论。同时，文中涉及多种文化表现形式（包括电影），展示了变性人的困扰与社会接受度，强调人们对性别和身份流动性的理解正在改变。通过对历史和当代电影的分析，文章提出，尽管社会对于变性人的看法尚存在偏见，但随着时间的推移，接受程度会逐渐提高。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 6399 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 潮白                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-05-28                                 |
+| Tags            | 变性人, 身份认同, 文化表现, 电影分析, 性别流动性, 角色转换, 金星, 社会接受度, 南方网, 性别问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

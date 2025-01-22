@@ -104,7 +104,7 @@ _多数情况下，GnRH类似物自费，一月一针，医院常见的“贝依
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档提供了关于跨性别男性（FtM）合法激素替代疗法（HRT）医疗资源的详细信息，列出全国各地相关医院及医生的联系方式与服务。文中详细说明了不同地区，尤其是上海、北京、浙江和广东等地所提供的HRT及相关医疗信息，来源包括医院名称、医生名字及具体备注。内容还包括关于GnRH类似物的治疗及注意事项，提供患者就诊时需要遵循的具体流程和注意点，特别是未成年患者需如何就医及其家长的陪同要求。整个资料利于FtM群体寻找合法、合适的激素治疗方案，确保健康与权益的保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -117,10 +117,10 @@ _多数情况下，GnRH类似物自费，一月一针，医院常见的“贝依
 | Size            | 6221 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-09-28                                 |
+| Tags            | 跨性别, 激素替代疗法, FtM, 医疗资源, 医院信息, GnRH治疗, 法律政策, 社会环境, 生命故事, 医疗经验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

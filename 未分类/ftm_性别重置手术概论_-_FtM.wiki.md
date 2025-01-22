@@ -124,7 +124,7 @@ WPATH 指南对 SRS 在术前的 HRT 和 RLE 时长上有着严格的规定，�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了跨性别男性（FtM）的性别重置手术相关的内容，主要讨论了手术的类型、过程和必要性。文中指出，跨性别者可能寻求多项性别肯定干预，包括激素替代治疗（HRT）和各类手术。具体提到FtM的手术项目，包括胸部手术、子宫和附件切除、阴道闭锁、尿道延长以及阴茎成形术等，强调了每项手术的复杂性和所需完成的阶段。文中还讨论了进行性别重置手术的心理因素，以及手术的必要性并不是对所有跨性别者都适用，鼓励个体根据自身需求理性选择手术。此外，对手术带来的法律性别修改权利以及术后生活的期待与现实也进行了阐述，为跨性别人士提供了详细的指导和建议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -137,10 +137,10 @@ WPATH 指南对 SRS 在术前的 HRT 和 RLE 时长上有着严格的规定，�
 | Size            | 8563 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-07-23                                 |
+| Tags            | 跨性别, FtM, 性别重置手术, 激素替代治疗, 胸部手术, 子宫切除, 阴茎成形术, 心理因素, 法律性别修改, 跨性别健康问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

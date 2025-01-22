@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章《古典音乐界LGBTQ群像素描 | 紧致圆滑奏》探讨了古典音乐领域内多个杰出LGBTQIA人物，文章始于对2020年美国同志骄傲月的强调，描述了林肯中心首次以彩虹色灯光装点广场和喷泉的盛况。接着，作者回顾了多位历史与当代著名的LGBTQ音乐人，包括作曲家如Francis Poulenc，Pyotr Ilyich Tchaikovsky，以及现代女高音Jamie Barton。文章不仅聚焦于个人的艺术成就，还涉及了他们对性别平权的支持以及在传统古典音乐界的影响。论及的音乐作品展示了多元文化的融合，特别是在特定的歌剧和音乐创作中，如Laura Kaminsky的跨性别室内歌剧《As One》。此外，还提及了其他相关的作曲家与演出，彰显了对多样性的认可与接纳。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 14248 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2020-06-30                                 |
+| Tags            | 古典音乐, LGBTQIA, 性别平权, 作曲家, 音乐人, 室内歌剧, 跨性别, 同性恋, 骚动事件, 文化多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

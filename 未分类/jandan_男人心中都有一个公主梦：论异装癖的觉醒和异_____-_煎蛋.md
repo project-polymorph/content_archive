@@ -29,16 +29,16 @@ Naoko对于Mariko开诚布公的做法表示认同，她坚持认为：“接受
 
 ---
 
-**版权信息:** 本文译自 [rocketnews24](//en.rocketnews24.com/2014/06/08/japan-begins-to-more-openly-discuss-crossdressing-men-in-heterosexual-relationships/)，由 [小脑袋](http://jandan.net/p/52995) 编辑发布。  
+**版权信息:** 本文译自 [rocketnews24](https://en.rocketnews24.com/2014/06/08/japan-begins-to-more-openly-discuss-crossdressing-men-in-heterosexual-relationships/)，由 [小脑袋](http://jandan.net/p/52995) 编辑发布。  
 
-![重要图片](//img.toto.im/mw600/66b3de17gy1hxbbuguei6j21340lcq7d.jpg)
+![重要图片](https://img.toto.im/mw600/66b3de17gy1hxbbuguei6j21340lcq7d.jpg)
 <!-- tcd_original_link http://jandan.net/p/52995 -->
 
 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了异装癖在当今社会中的觉醒与接受情况，特别是在日本文化中的表现。文章指出，尽管日本的媒体对于性别不拘一格的表达持开放态度，但现实社会中的性别界限仍然十分明确。借助一则关于日本导演辻仁成与妻子离婚的新闻，文章深入探讨了异装癖男性（otoko no ko）的情感世界与社会挑战。作者引述了专家的观点，认为许多男性在其一生中会经历多次性别认同的觉醒。尽管文章中对这种现象呈现出一种积极的态度，但也指出了现实时常残酷，异装者和他们的伴侣都面临着来自社会的压力与内心的挣扎。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@ Naoko对于Mariko开诚布公的做法表示认同，她坚持认为：“接受
 | Size            | 4237 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 小脑袋                               |
+| Region          | 日本                               |
+| Date            | 2014-06-10                                 |
+| Tags            | 异装癖, 跨性别, 性别认同, 日本文化, 情感生活, 社会压力, 性别角色, 婚姻关系, otoko no ko, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

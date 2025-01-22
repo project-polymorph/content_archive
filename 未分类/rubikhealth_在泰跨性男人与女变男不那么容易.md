@@ -107,7 +107,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在泰国进行女性到男性（FTM）跨性别手术的复杂性与挑战。首先，文章对“跨性别男性”的定义进行了说明，强调了其性别认同与法律性别的冲突。接下来，文件详细列出了进行此类手术所需的资格条件，包括年龄限制、社会生活要求、精神健康评估等。此外，文中说明了手术的具体步骤及所需的生理改变，例如子宫切除、卵巢切除以及乳房切除等，强调了多次手术的必要性。作者分析了手术过程中可能面临的风险与并发症，如伤口愈合不良、感染及手术后心理适应等问题。同时提供了手术后的护理与注意事项，建议跨性别者们与医生保持良好的沟通，并终生接受激素治疗以维持身体健康。整体来看，此文为希望了解泰国跨性别手术的关注者提供了宝贵的知识与指导。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -120,10 +120,10 @@
 | Size            | 5514 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Rubikhealth                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性手术, 女性变男性, 跨性别男性, 性别重置手术, 医疗资源, 性别认同, 心理健康, 激素治疗, 手术风险                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

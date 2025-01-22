@@ -122,7 +122,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别人士在荷兰的生活现状与变化，尤其是社会对他们的接受度和政策支持。文章首先回顾了荷兰的变性历史，指出跨性别者的存在是历史悠久的，但直至20世纪，相关需求才逐渐得到社会的重视。尤其是2017年的研究显示，公众对跨性别群体态度依然消极，但近年来荷兰在医疗和社会支持方面取得了一定进展。其次，文章详细介绍了在社会上生活的跨性别者的现状，包括荷兰人在变性议题上的接受度以及跨性别群体对自己权益维护的努力。调查数据显示，57%的荷兰人对变性持积极态度，34%持中立，反对者仅占9%。此外，文中提到荷兰的法律法规也在不断变化，尤其是在变性申请和性别信息更新方面，正在朝着更包容的方向发展。最后，文章提出虽然荷兰整体上对跨性别者的支持较好，但社会上仍然存在针对他们的语言和身体暴力，尤其在青少年群体中亟待改善。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -135,10 +135,10 @@
 | Size            | 10979 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 荷兰在线                               |
+| Region          | 荷兰                               |
+| Date            | 2021-11-24                                 |
+| Tags            | 跨性别, LGBT, 荷兰, 变性者, 社会支持, 医疗资源, 负面态度, 法律政策, 社区支持, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了“男娘”这一网络用语的含义及其来源。‘男娘’是伪娘的别称，源自于日语‘男の娘’（Otokonoko），指的是一些喜欢穿女装的男生。此术语在网络文化中较为流行，尤其是在ACG（动画、漫画、游戏）文化圈内，常用来描述那些在外观上更具女性特征的男性。这种文化现象不仅反映了多元性别表达的一种形式，也展示了当代年轻人在性别认同和表达上的开放态度。文件内附有相关图片和网络链接，提供了更深入的理解材料。这篇文章可以帮助人们理解男娘这一概念在当前社会和网络语境中的位置和意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 730 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 佚名                               |
+| Region          | 未知                               |
+| Date            | 2022-04-19                                 |
+| Tags            | 男娘, 伪娘, 网络用语, 性别表达, 男生穿女装, ACG文化, 性别认同, 多元性别, 文化现象, 时尚                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

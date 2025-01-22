@@ -102,7 +102,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一位名为查理斯的玩家在抖音上观看并讨论他与变性人和药娘（正在进行性别转变的人）相关的经历与看法的对话记录。查理斯在对话中分享了他对抖音平台上人们行为的感受，认为那里的用户言辞相对直接和真实，并提及了他对变性人士在竞技领域影响的看法。他提到自己曾经在某个公会中遇到过药娘，这让他感到意外。文中还引入了对弹幕内容的讨论，反映出一些网友对变性人和药娘在竞技领域的看法，展示了网络社区对这一话题的关注和争论。文件融合了电竞文化与多元性别的相关讨论，提供了许多富有趣味性和争议性的话题，并引导出对社会性别认知的深思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -115,10 +115,10 @@
 | Size            | 5676 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 查理斯                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-08-08                                 |
+| Tags            | 多元性别, 变性人, 药娘, 抖音, 社交媒体, 电子竞技, 网络文化, 性别认知, 社会现象, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

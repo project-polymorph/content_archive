@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一个名为《男娘温迪X超乳巨根罗莎莉亚》的艺术创作，作者是ahrdkl。该作品为CG艺术类型，适合于成年观众，展现了《原神》系列中的两个角色：温迪和罗莎莉亚。文中包含了多种与角色相关的标签，彰显了其多元性别表现以及成人内容。作品通过精美的插画表达了角色之间的互动与幻想，涉及性别扮演、身体特征的夸张表现等主题。这份资料突显了当代亚文化中对性别流动性和非传统性别角色的探讨，并借由角色的表现与艺术风格吸引了众多粉丝的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@
 | Size            | 2163 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | ahrdkl                               |
+| Region          | 未知                               |
+| Date            | 2024-08-05                                 |
+| Tags            | 男娘, 温迪, 罗莎莉亚, 超乳, CG艺术, 成人内容, 性别扮演, 原神, 幻想插画, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

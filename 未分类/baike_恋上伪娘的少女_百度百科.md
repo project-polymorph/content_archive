@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于日本漫画《恋上伪娘的少女》的百度百科条目，主要介绍了该漫画的基本信息和故事情节。故事围绕着一个害怕男性的少女与一个伪娘之间的日常生活展开，探讨了性别认同和情感纠葛等主题。这部漫画由岛崎无印创作，其内容和主题与多元性别相关，体现了性别多样性和个体之间的情感连接。文中还包含了一些参考资料和相关链接，提供了对漫画的更深入了解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@
 | Size            | 2093 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 岛崎无印                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 恋爱故事, 伪娘, 漫画, 性别认同, 青少年, 情感纠葛, 文化作品, 日本漫画, 社会认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

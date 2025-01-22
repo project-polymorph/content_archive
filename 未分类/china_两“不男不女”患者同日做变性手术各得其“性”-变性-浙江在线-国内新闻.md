@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了两名患者，由于各自的先天性性别特征，在陕西生殖医学医院进行了变性手术。标题为‘两“不男不女”患者同日做变性手术各得其“性”’，文章详细叙述了19岁的军军和21岁的芳芳的故事。两人都面临性别认同上的困扰，军军出生时被家人认定为女孩，却被诊断为‘男性假两性畸形’，后来决定按照她和家人的意愿进行变性手术，成为一名女孩；而芳芳从小被抚养为女孩，但内心渴望成为男孩，在家庭的支持下也选择了变性手术。文章展示了他们的经历，反映出多元性别个体在社会性别偏见和生理特征不符的情况下所经历的困境与自我认同的努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@
 | Size            | 3435 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-08-25                                 |
+| Tags            | 变性手术, 多元性别, 性别认同, 生命故事, 医疗资源, 社会性别, 心理性别, 男性假两性畸形, 人生经历, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

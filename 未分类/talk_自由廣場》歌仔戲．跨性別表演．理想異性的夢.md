@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别表演在台湾传统艺术歌仔戏中的表现与发展历程。文章指出，歌仔戏作为一种土生土长的剧种，最初是由男性演出，其中男性角色多由男演员反串。随着时代的发展，女性的参与增加，开始女扮男装成为主流。作者回顾了歌仔戏历史上重要的角色变迁，强调跨性别表演带来了独特的艺术表现和观众体验。文章还提到，跨性别表演在戏剧中不仅丰富了演出形式，也促进了演员的技艺提升，其间所蕴含的对性别的重新理解与认知为当代社会提供了深刻的反思与启示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 2882 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 林榮淑                               |
+| Region          | 台湾                               |
+| Date            | 2020-12-05                                 |
+| Tags            | 跨性别, 歌仔戏, 表演艺术, 性别认同, 性别多元, 华文戏曲, 文化历史, 女性角色, 艺术表现, 社会观察                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -10,7 +10,7 @@
 
 上海长海医院 烧伤科 
 
-![早报图](//www.cn-healthcare.com//skin/jkj/images/touxiang.png) 
+![早报图](https://www.cn-healthcare.com//skin/jkj/images/touxiang.png) 
 
 一直以来，我以为一个人之所以选择去做变性手术，是为了满足同性恋人的需要。
 

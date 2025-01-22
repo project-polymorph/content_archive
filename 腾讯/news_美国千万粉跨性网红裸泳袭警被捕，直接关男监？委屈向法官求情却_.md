@@ -179,7 +179,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了跨性别网红尼基塔·阮在美国因裸泳而被捕的事件。尼基塔是一名拥有数百万粉丝的跨性别女性，因她的个人经历而颇具知名度。文章详细描述了事件的经过，包括她在经历精神崩溃后在酒店裸泳，并与警方发生冲突的经过。她在法庭上被要求进入男子监狱的决定引发了公众对跨性别者应有的权利和监狱系统如何处理跨性别囚犯的广泛讨论。多名网友在社交媒体上对此事件表示关注，对法官和警察的决定表示严厉批评，同时也引发了一些对跨性别者安全和法律定义的争论。本文不仅提供了事件的直接描述，还包含了社会对待跨性别者安全与权利的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -192,10 +192,10 @@
 | Size            | 10274 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 腾讯新闻                               |
+| Region          | 中国香港                               |
+| Date            | 2022-11-15                                 |
+| Tags            | 跨性别, 尼基塔·阮, 法律, 社会讨论, 监狱系统, 人权, 精神健康, 事件报道, 社交媒体反响, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

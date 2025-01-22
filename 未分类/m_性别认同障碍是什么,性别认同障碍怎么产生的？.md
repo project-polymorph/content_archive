@@ -78,7 +78,7 @@ Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性别认同障碍的概念及其产生原因。性别认同障碍，简单来说，是对自己实际性别的不认同。这种状况通常被心理学家和医生用来描述那些经历严重性别烦躁的人群，属于精神病学的领域。文中指出，性别认同障碍患者通常在儿童时期就会感受到对自己性别的极度不适，并随着年龄的增长变得更加明显。在成因方面，文章介绍了个人经历、先天因素以及后天影响对性别认同障碍产生的重要性。比如，曾经遭遇性别困扰的个人经历可能严重影响患者的性别认同，而生理上在胚胎或幼年时期受到性激素的影响，也可能导致性别认同的混乱。文章最后强调，性别认同障碍是一个复杂的心理状态，需要社会的关注与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,10 +91,10 @@ Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841�
 | Size            | 3603 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-07-27                                 |
+| Tags            | 性别认同障碍, 心理健康, 性别心理学, 精神医学, 个人经历, 先天因素, 后天影响, 儿童性别认同, 性别烦躁, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

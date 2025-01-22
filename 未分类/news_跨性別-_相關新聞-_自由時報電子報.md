@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一系列关于跨性别的话题的新闻报道，涵盖了社会、文化和政策层面的多元性别相关议题。内容涉及在媒体上出现的争议事件，如小S节目中关于网红出柜的情况，以及跨性别人士在职场和公共空间中面临的挑战，如川普政府对跨性别军人政策的影响、相关法律案的提案等。此外，文件还包括了跨性别教育者的获奖情况及社会的反响，描绘了跨性别者在当前社会中的生存现状与奋斗。另外还呈现了跨性别者在选择医疗手段上的一些争议与法律诉讼，反映出在法律与医疗政策方面的复杂性。通过这些新闻报道，读者可以更深入地理解跨性别社群在现代社会中的处境与声音。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,10 +74,10 @@
 | Size            | 4405 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 新闻报道, 社会政策, 文化议题, 法律争议, 生存现状, 媒体反响, 医疗政策, 教育者, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

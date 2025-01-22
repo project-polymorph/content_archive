@@ -62,7 +62,7 @@ tgfuns上面的一个合集被曝了，求合集资源，多谢各位大佬。�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《求变身，性转小说合集》的询问与资源分享帖，发布于贴吧社区，由用户hearxin于2019年11月20日发布。该帖主要讨论性转（变身）题材的小说以及相关资源的分享，旨在寻求此类小说的合集资源。这类小说多涉及变性、性别转换等主题，吸引了许多爱好者的关注与探索。文章包含了多条评论，评论区的用户们积极并表达了对这种题材的兴趣，讨论的内容不仅包括请求小说资源，还有用户对以往作品的怀念和评析。尤其有用户提及了对2005年作品的回忆，显示出了此类文学作品在特定人群中的持续影响力。此文件内容涉及的标签包括性转小说及资源分享，反映了当前网络文化中多元性别表现的一个侧面。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@ tgfuns上面的一个合集被曝了，求合集资源，多谢各位大佬。�
 | Size            | 1844 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | hearxin                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-11-20                                 |
+| Tags            | 性转小说, 资源分享, 变身, 贴吧社区, 网络文学, 评论交流, 小说合集, 性别转换, 文化探讨, 网络文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

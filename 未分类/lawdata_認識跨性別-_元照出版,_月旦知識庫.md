@@ -28,7 +28,7 @@ Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文《認識跨性別》出自《台灣醫學》期刊，由林彥慈、王紫菡及成令方等人撰写，探讨了跨性别者在社会与医疗环境中的困境。跨性别者的性别认同与其出生时的生理性别存在不一致，这使得他们在社会生活中面临压迫。文章阐述了社会对性别的二分主義认知以及这种思维对于跨性别者的影响，指出由于文化和制度对非男即女的依赖，跨性别者在许多情况下难以获得理解与支持。文中提到英国于2004年通过的《性别承认法》，允许跨性别者在无需进行性别置换手术的情况下改变性别身份，作为对全球跨性别权益的一种推动。针对台湾现状，文章讨论了当前法律和医疗体系对跨性别者的影响，并反思可能的制度改进措施。通过讨论跨性别者的手术个案及日常生活经验，读者可以更好地理解这种群体所面临的压力与挑战，以及他们所采取的应对策略。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@ Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 | Size            | 2303 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 林彥慈、王紫菡、成令方                               |
+| Region          | 台湾                               |
+| Date            | 2015-05-01                                 |
+| Tags            | 跨性别, 性别, 医疗, 法律, 社会压迫, 性别认同, 性别二分主義, 权益运动, 性别承认法, 台湾医学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

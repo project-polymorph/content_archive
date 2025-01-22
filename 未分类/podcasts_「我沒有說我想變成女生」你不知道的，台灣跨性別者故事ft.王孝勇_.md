@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本播客节目《我沒有說我想變成女生》深入探讨了台湾的跨性别话题，特别是通过历史视角回顾一些重要事件。主持人李佩雯与特邀嘉宾王孝勇教授讨论了1950年代台湾的跨性别者现象，如「谢尖顺事件」如何被国家利用为大外宣素材，以及同样时期的「人妖曾秋煌」遭遇的偏见与负面标签。同时，节目提到1980年代第一位公开身份的跨性别者珍的故事，通过这些案例突显性别平等在台湾的重要性，并强调跨性别问题并非西方发明，而是与台湾的历史紧密相关。节目还探讨了如何通过语艺学的角度分析跨性别在新闻报道中的呈现，提醒听众关注社会对跨性别议题的认知与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 3425 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 李佩雯（主持人），王孝勇（嘉宾）                               |
+| Region          | 台湾                               |
+| Date            | 2024-10-01                                 |
+| Tags            | 跨性别, 性别平等, 台湾社会, 历史事件, 谢尖顺事件, 人妖曾秋煌, 性别重制手术, 语艺学, 社会关怀, 跨性别故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

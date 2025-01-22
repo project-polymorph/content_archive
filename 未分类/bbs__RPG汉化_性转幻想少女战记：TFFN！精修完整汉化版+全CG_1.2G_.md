@@ -23,7 +23,7 @@ Powered by **SP Project** v1.0 © 2010-2019 Time 0.002176 second(s),query:2 Gzip
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《性转幻想少女战记：TFFN！精修完整汉化版+全CG》的汉化资源介绍，刊登于南+ South Plus。文件内包含对该游戏的详细评述，关注了其在游戏文化中的地位以及对性别转换主题的探索。该作属于RPG类型，结合了幻想元素和性别转化的设定，为玩家提供了丰富的游戏体验与视觉享受。文件中还提及了游戏的汉化过程，并附有全CG图片资源，旨在让玩家更好地理解和体验该作品。发布时间为2020-06-09，属于多元性别文化相关的游戏资源文献。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@ Powered by **SP Project** v1.0 © 2010-2019 Time 0.002176 second(s),query:2 Gzip
 | Size            | 491 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 45135790                               |
+| Region          | 未知                               |
+| Date            | 2020-06-09                                 |
+| Tags            | 性转, 幻想, RPG, 游戏资源, 汉化, 少女战记, CG, 文化探讨, 多元性别, 游戏体验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

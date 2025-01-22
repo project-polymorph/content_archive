@@ -21,7 +21,7 @@ _（责任编辑：薛白、乔雪峰)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章通过组图的形式揭秘了泰国的“第三性”群体的生存状态，主要以变性人为中心，探讨了性行业对他们认同感的影响。文章提到，许多变性人从小就认同这一“职业观念”，在成年后纷纷选择性行业作为谋生手段。这一领域的从业门槛较低，且能够为变性人提供经济支持及社会认同。通过描述澳大利亚游客Scott与变性人舞女Coco的互动，展示了性行业中变性人寻找认同感的过程。Coco虽然生理上尚未完全变性，但其魅力吸引了Scott，并未因性别的定义而影响其对Coco的喜爱。同时，文章也揭示了填补性别认同差异的复杂性，以及变性人面对的社会挑战与生存策略。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -34,10 +34,10 @@ _（责任编辑：薛白、乔雪峰)_
 | Size            | 1790 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 光明网                               |
+| Region          | 泰国                               |
+| Date            | 2013-01-21                                 |
+| Tags            | 多元性别, 变性人, 第三性, 性旅游, 社会认同, 性行业, 文化分析, 澳大利亚游客, 生存状态, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

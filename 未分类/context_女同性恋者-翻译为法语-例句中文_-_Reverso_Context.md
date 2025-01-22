@@ -111,7 +111,7 @@ La communication conjointe no 6 note que les autorités ont tenté de restreindr
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容聚焦于女同性恋者及其相关议题，涵盖了多个方面的讨论和实例，包括在法语中的翻译、相关法律政策、社会环境及LGBTI权利的保护等。文中提到女同性恋者核心小组在纽约的讨论会，参与者超过150人。文件中还提到关于性取向歧视的法律问题，以及在一些州，因性取向可能被解雇的情况。实际上，文件也反映了媒体对暴力行为的呼吁和社群所面临的障碍。在信息中，引用了不同国家和地区（如瑞典、巴西、冰岛等）对LGBTI人权的关注与行动，强调了对女同性恋者、男同性恋者、双性恋者和跨性别者的支持和保护。这些问题在社会中不断升温，显示出复杂的法律和人权局势。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -124,10 +124,10 @@ La communication conjointe no 6 note que les autorités ont tenté de restreindr
 | Size            | 6464 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女同性恋者, LGBTI, 人权, 社会问题, 性别歧视, 法律政策, 媒体报道, 社群支持, 国际关注, 保护措施                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

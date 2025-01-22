@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![本页使用了标题或全文手工转换](//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png)
+![本页使用了标题或全文手工转换](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png)
 
-![巴西国民会议宫为2022年国际不再恐同日点亮彩虹旗颜色](//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Congresso_Iluminado_-_Dia_Internacional_de_Combate_%C3%A0_LGBTIfobia.jpg/220px-Congresso_Iluminado_-_Dia_Internacional_de_Combate_%C3%A0_LGBTIfobia.jpg)
+![巴西国民会议宫为2022年国际不再恐同日点亮彩虹旗颜色](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Congresso_Iluminado_-_Dia_Internacional_de_Combate_%C3%A0_LGBTIfobia.jpg/220px-Congresso_Iluminado_-_Dia_Internacional_de_Combate_%C3%A0_LGBTIfobia.jpg)
 
 巴西[国民会议宫](https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%B0%91%E6%9C%83%E8%AD%B0%E5%AE%AE)为2022年国际不再恐同日点亮[彩虹旗](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E6%97%97_\(LGBT\))颜色[^1]
 
@@ -17,7 +17,7 @@
 
 ## 历史 { data-search-exclude }
 
-![国际不再恐同日创始人——Louis-Georges Tin](//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Louis_Georges_Tin.jpg/220px-Louis_Georges_Tin.jpg)
+![国际不再恐同日创始人——Louis-Georges Tin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Louis_Georges_Tin.jpg/220px-Louis_Georges_Tin.jpg)
 
 -   1990年，[世界卫生组织](https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87)于5月17日的大会决议，将同性恋自[国际疾病与相关健康问题统计分类](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E7%96%BE%E7%97%85%E8%88%87%E7%9B%B8%E9%97%9C%E5%81%A5%E5%BA%B7%E5%95%8F%E9%A1%8C%E7%B5%B1%E8%A8%88%E5%88%86%E9%A1%9E)（ICD）删除。
 -   2003年，加拿大举行首次“全国不再恐同日”（National Day Against Homophobia）活动。
@@ -54,14 +54,14 @@
 
 ### 中文网站
 
--   [国际不再恐同日 (香港区)](https://www.facebook.com/hk.idaho.plus/) （[页面存档备份](//web.archive.org/web/20210517085355/https://www.facebook.com/hk.idaho.plus/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）
+-   [国际不再恐同日 (香港区)](https://www.facebook.com/hk.idaho.plus/) （[页面存档备份](https://web.archive.org/web/20210517085355/https://www.facebook.com/hk.idaho.plus/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）
 
 ### 外文网站
 
 -   [官方网站](http://dayagainsthomophobia.org/) （英文）
 -   [RainbowFlash (ru) (en) (de)](https://web.archive.org/web/20110615222421/http://rainbowflash.info/) - Russian-Germany Campaign
--   [Project IDAHO launched by the social network Gays.com and the Committee for the International Day Against Homophobia and Transphobia (IDAHO)](http://gays.com/idaho) （[页面存档备份](//web.archive.org/web/20160703043521/http://gays.com/idaho)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)） 
--   [Internetional Lesbian and Gay Association](http://www.ilga.org/)（[页面存档备份](//web.archive.org/web/20160409042054/http://www.ilga.org/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%AC)）
+-   [Project IDAHO launched by the social network Gays.com and the Committee for the International Day Against Homophobia and Transphobia (IDAHO)](http://gays.com/idaho) （[页面存档备份](https://web.archive.org/web/20160703043521/http://gays.com/idaho)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)） 
+-   [Internetional Lesbian and Gay Association](http://www.ilga.org/)（[页面存档备份](https://web.archive.org/web/20160409042054/http://www.ilga.org/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%AC)）
 
 [分类:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT%E6%96%87%E5%8C%96) · [分类:LGBT事件](https://zh.wikipedia.org/wiki/Category:LGBT%E4%BA%8B%E4%BB%B6)
 <!-- tcd_original_link https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E9%9A%9B%E4%B8%8D%E5%86%8D%E6%81%90%E6%87%BC%E5%90%8C%E6%80%A7%E6%88%80%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%A5%E8%88%87%E9%9B%99%E6%80%A7%E6%88%80%E6%97%A5 -->

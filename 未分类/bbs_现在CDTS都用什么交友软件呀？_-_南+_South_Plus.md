@@ -103,7 +103,7 @@ cross-dresstrans-sexuality
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在多元性别群体中使用的交友软件，主要聚焦于CD（Cross-dresser）和TS（Transsexual）交友的现状。文章中提到用户对以往流行的软件"西蒂"的依赖和失去后面临的困境，并提出了其他交友软件的推荐。用户们分享了对各种交友应用的使用体验和对他们功能的需求，并对如何找到适合自己需求的交友软件进行了讨论。如用户提到了"Drrr"这一软件，并对"喜弟APP"的使用进行了反馈，指出了其更新后部分功能的限制。整体上，这是一次关于多元性别交友平台的有益讨论，提供了当前可用软件的信息以及用户的真实反馈。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,10 +116,10 @@ cross-dresstrans-sexuality
 | Size            | 1792 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 南+ South Plus                               |
+| Region          | 未知                               |
+| Date            | 2022-05-25                                 |
+| Tags            | 交友软件, CD, TS, 多元性别, 社区讨论, 用户反馈, 软件更新, 社交平台, 经验分享, 网络互动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

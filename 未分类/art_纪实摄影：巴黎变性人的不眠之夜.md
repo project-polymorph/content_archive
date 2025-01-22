@@ -27,7 +27,7 @@ _(责编：孙石磊、张卉)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了瑞典摄影师克里斯特尔·斯特伦霍尔姆在巴黎皮加勒区与变性人朋友们的生活与经历。自1959年起，克里斯特尔在这个红灯区频繁活动，并用镜头记录了这些变性人的生存状态。变性人们由于社会的偏见和严格的法律条款，往往被迫在街头谋生，以抵御生活的困境。这篇文章不仅展示了克里斯特尔所拍摄的真实而动人的影像，还揭示了他与这些变性人之间的深厚友谊，以及对她们生存现状的怜悯和理解。文中还提到，与变性人相关的法律及社会环境的严酷，使得她们的生活充满挑战和压迫。此外，文末附有相关文献与链接，供读者深入阅读。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@ _(责编：孙石磊、张卉)_
 | Size            | 1769 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新华网，克里斯特尔·斯特伦霍尔姆                               |
+| Region          | 法国，巴黎                               |
+| Date            | 2013-06-28                                 |
+| Tags            | 变性人, 纪实摄影, 生活故事, 人权, 社会环境, 医疗资源, 克里斯特尔·斯特伦霍尔姆, 法律政策, 红灯区, 生存状态                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

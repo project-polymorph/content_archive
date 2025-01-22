@@ -111,7 +111,11 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文《谈谈周围人对男同性恋存在的幻想与误解》由作者白熊阿丸撰写，详细探讨了社会中普遍存在的对男同性恋的误解和幻想。文章从个人经验出发，分享了与一位女性朋友之间的讨论，指出许多人对男同性恋的理解往往片面，甚至与现实大相径庭。作者提到，许多腐女通过爱情和耽美作品认识同性恋文化，但缺乏对真实同性恋群体的了解。这种现象在直男群体中同样普遍，许多人将男同性恋与女性化的男性等同，未能理解性别认同与性取向之间的差异。
+
+文中讨论了男同性恋（Gay）群体中的角色扮演及其复杂性，强调性别认同不是仅仅由性取向决定的，并对“0”和“1”的角色进行了深入的分析。作者也提到，由于社会压力，同性恋群体往往被迫隐藏自己的性取向，生活在恐惧和歧视之中。
+
+此外，文章指出了被社会边缘化的性别酷儿群体及不同性别身份认同的复杂性，借助大量实例从而形成对男同性恋的全面理解。最后，作者呼吁社会对LGBTQ+群体的尊重和平等，强调每个人都有权选择自己的生活，而不应因为性取向而受到社会歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -124,10 +128,10 @@
 | Size            | 17106 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 白熊阿丸                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男同性恋, 性别认同, 性取向, 社会误解, 角色扮演, 腐女文化, 性别酷儿, LGBTQ+, 平权, 社会歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

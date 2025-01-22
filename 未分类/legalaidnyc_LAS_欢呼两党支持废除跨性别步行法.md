@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为法律援助协会发布的一篇关于纽约跨性别步行法（Walking While Trans Law）的新闻报道。文章赞扬了越来越多的州立法者和社区团体对废除该法律的支持。跨性别步行法是一项餐个风险影响到有色人种跨性别女性的歧视性法律。根据纽约州刑事司法服务部的数据，在2018年根据该法律被捕的人中，有91%是黑人或拉丁裔，且大部分被捕者是女性。这项法律的废除被视为对跨性别群体权益的重要进展。文章还提供了关于该法律影响的数据，以及相关的LGBTQ+社群的背景。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 1536 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 法律援助协会                               |
+| Region          | 美国                               |
+| Date            | 2020-03-31                                 |
+| Tags            | 跨性别, 步行法, 纽约, 法律援助, 民权, 社会正义, 有色人种, LGBTQ+, 歧视, 立法                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

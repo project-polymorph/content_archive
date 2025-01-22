@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本报告详细描述了一例伴有易性癖的Klinefelter综合征患者的病例。这是一种罕见的遗传病，由于额外的X染色体导致男性在生理和心理上表现出独特的特征。报告中指出，患者在青春期发展中出现了明显的性别认同和性别表现的分歧，以及对女性特征的倾向。患者在就医过程中经历了多重挑战，包括社会接纳和医疗资源的不足，显示了对多元性别群体的医疗支持和社会认同的迫切需求。结合病例研究，文中也探讨了Klinefelter综合征在临床上的表现及可能的治疗方案，并呼吁对该综合征的进一步研究与关注，以提高人们的认知和理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 22690 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 高谦, 刘连沛                               |
+| Region          | 中国大陆                               |
+| Date            | 1995-06-01                                 |
+| Tags            | Klinefelter综合征, 易性癖, 病例报告, 性别认同, 生理心理特征, 医疗资源, 心理健康, 社会接纳, 性别表现, 医学研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

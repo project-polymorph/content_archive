@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是对《所有美好的东西》这一主题的深入讲解，重点探讨了异装癖的定义、表现、心理背景及其在社会中的接受度和反响。文件引用了一段精彩的对白，表达了一种逃避身份困扰的心理。异装癖被描述为一种通过穿着异性服装获得性满足的行为，文件详细阐述了异装癖男子的生活状态、心理状态及其与伴侣的关系。文中指出，尽管异装癖者在生活中通常能够维持正常的夫妻关系，但一旦这一行为被发现，将对家庭关系造成巨大冲击。文件还提及异装癖与恋物癖之间的区别，并针对这一现象提出了一些社会服务建议，强调及时干预和支持的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@
 | Size            | 7763 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陈丹妮                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-12-02                                 |
+| Tags            | 异装癖, 性别认同, 心理健康, 社会接受度, 性别表达, 文化认同, 性别多样性, 情感关系, 社会干预, 教育与支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是多元性别相关故事，通过主人公的第一人称叙述，讲述了他与一名女生李莹之间关于性与身份认同的冒险经历。故事开始于主人公在游戏中与李莹的互动，逐渐发展出一种主奴关系。主人公渴望成为一个被阉割的阴茎，进而实现对传统性别角色的反叛。在李莹的提议下，他们进行了阉割手术，主人公经历了身体和心理的双重创伤，同时也逐步接受了这种转变。作品探讨了性别认同、权力关系以及对身体的支配与剥夺的复杂性，融合了幻想与痛苦，展示了多元性别叙事中的极端表达。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@
 | Size            | 6362 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 阉割, 性别认同, 性奴, 权力关系, 身体自主权, 性别与身份, 幻想与现实, 生命故事, 叙述文学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

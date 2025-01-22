@@ -84,7 +84,7 @@
 
 ## 作者簡介 { data-search-exclude }
 
-[![](//okapi.books.com.tw/uploads/author/2018/12/author_1543921410_5c065f90e3789_3.jpg)](https://okapi.books.com.tw/writer/detail/2214)
+[![](https://okapi.books.com.tw/uploads/author/2018/12/author_1543921410_5c065f90e3789_3.jpg)](https://okapi.books.com.tw/writer/detail/2214)
 
 ### [紀大偉](https://okapi.books.com.tw/writer/detail/2214)
 
@@ -127,7 +127,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由紀大偉撰寫，探討了台灣同志文學的歷史與發展。文章指出，在文學中，同志角色常常被邊緣化，作者呼籲讀者追求正面形象的同時，也應欣賞那些以負面或背影示人的文本。紀大偉解釋了「正面」與「負面」形象之間的良性互補關係，強調在文學作品中，正面形象的表現不僅僅是角色的外在呈現，而是與社會認同的變化密切相關。作者提到了一些重要的作品和作家，例如倪匡、林燿德和洪凌，分析他們在科幻文學中對同志及性別議題的探討，並指出科幻文學提供了突破傳統性別規範的空間，讓邊緣化的性別角色得以肩負主角。文章中還討論了台灣文學大獎與同志題材作品的關係，並詳細介紹了數部重要作品，例如《逆女》。總之，這篇文章不僅對於台灣同志文學的演變有全面的梳理，也激發了對文學中性別多樣性的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -140,10 +140,10 @@
 | Size            | 20059 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 紀大偉                               |
+| Region          | 台灣                               |
+| Date            | 2012-06-05                                 |
+| Tags            | 同志文學, 台灣文學, 性別多樣性, 正面形象, 負面形象, 科幻文學, 林燿德, 倪匡, 洪凌, 逆女, 社會文化, 文學評論                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

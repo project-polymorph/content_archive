@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇书评围绕Maia Kobabe的图画小说《神奇的性别》（Gender Queer）展开，深入探讨了作者的性别认同和个人经历。书中作者以独特的non-binary视角叙述自身在性别认同、情感关系及社会交往中的困惑和成长。内容涵盖了与性别相关的多样理论、名词解释及个人感悟，例如在与家人、朋友的互动中，展现了对性别的思考和对自身身份的探索。书中引用了作者的日记摘录，表达了对超越传统性别身份的渴望，也讨论了社会对性别认同的偏见与复杂性。整体而言，这是一部探索性别多样性、展示个体真实经历的重要作品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,10 +54,10 @@
 | Size            | 9888 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Maia Kobabe                               |
+| Region          | 美国                               |
+| Date            | 2019-05-28                                 |
+| Tags            | 性别认同, 多元性别, 非二元性别, 酷儿文学, 自传, 性别理论, 性别与社会关系, 个人经历, 情感探索, 图画小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

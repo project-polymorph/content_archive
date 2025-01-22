@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![财新传媒](//file.caixin.com/file/weixin/cx_logo.jpg)
+![财新传媒](https://file.caixin.com/file/weixin/cx_logo.jpg)
 
 **文｜财新周刊 姚家怡（实习）**
 

@@ -96,7 +96,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讨论了“异装癖”的生理性别与心理性别的关系，并通过多种案例探讨这一现象的多样性与复杂性。文章首先以北爱尔兰的易装皇后蒂蒂・冯・特兰普为例，展示了异装癖者的形象与生活。在许多人眼中，异装癖者被视作有趣且极具个性的人物，然而文章指出，实际上的易装癖者群体复杂多样，他们的心理动机各不相同。文中深入探讨了心理性别（性别认同）、生理性别及性取向三个变量之间的关系，强调这些特质在许多人身上并不总是相互匹配，因此科学家逐渐认识到这三者的相对独立性。另外，介绍了易性人群体的心理状态与性别焦虑，特别提到女变男易性人最终多数成为女同性恋者的现象，总结了性别认同在社会与心理层面的重要性。文章最后提到“幻想变性性兴奋”的理论，为读者提供了有关性别认同与性别表现的更深刻理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,10 +109,10 @@
 | Size            | 9564 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 心灵花园网                               |
+| Region          | 北爱尔兰                               |
+| Date            | 2014-05-14                                 |
+| Tags            | 异装癖, 心理性别, 生理性别, 性别认同, 性取向, 性别理论, 心理学, 社会压力, 性别焦虑, 个人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

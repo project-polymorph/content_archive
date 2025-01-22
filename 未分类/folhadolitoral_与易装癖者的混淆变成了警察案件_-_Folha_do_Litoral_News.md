@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一起与异装癖者相关的警察案件。事件发生在巴拉那瓜埃斯特拉丁哈社区，一名23岁的男孩因为误搭异装癖者而引发的混乱。根据男孩的供述，他在车内要求异装癖者下车，但对方拒绝并试图向他索要性服务费用。男孩在无钱情况下试图摆脱僵局时，异装癖者在纠缠过程中抢走了他的手机，最终因双方的争执导致男孩对异装癖者实施了攻击。警察介入后，异装癖者被送往医院治疗，案件被登记为贪污和人身伤害罪。案件反映了社会对性别少数群体的误解和法律保护的不足。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 2802 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Folha do Litoral                               |
+| Region          | 巴西                               |
+| Date            | 2017-03-27                                 |
+| Tags            | 异装癖者, 性别认同, 警察案件, 性别权利, 社会误解, 医疗资源, 法律问题, 巴拉那州, 性别少数, 公共安全                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

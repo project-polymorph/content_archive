@@ -139,7 +139,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的伪娘室友》是由腾讯动漫发布的一部关于多元性别主题的漫画作品。本章节为第九话，标题为“成为伪娘吧（下）”，继续讲述主角在伪娘身份转变中的经历与感受。该章节通过描述细腻的生活细节和人物情感，探索了伪娘群体的生活状态和自我认同，同时通过图文并茂的方式展示了角色之间的互动与冲突，构建了一个丰富的多元性别视角。作品包含大量插图，引人注目的是角色们的日常生活与内心挣扎，反映出伪装和自我认同的复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -152,10 +152,10 @@
 | Size            | 5023 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 腾讯动漫                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 伪娘, 漫画, 青少年, 生活故事, 互动, 角色发展, 情感, 自我认同, 网络文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

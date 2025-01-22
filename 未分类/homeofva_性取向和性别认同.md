@@ -63,7 +63,7 @@ _本网站的所有者承诺提供无障碍访问和包容性服务，如果您�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了性取向和性别认同在弗吉尼亚州法律中的重要性，具体介绍了自2020年起，性取向与性别认同成为弗吉尼亚州公平住房法的受保护类别。这意味着在住房领域，基于性取向（如异性恋、双性恋、同性恋）和性别认同的歧视行为都是违法的。文章详细列出了可能的歧视行为，例如，房东对变性租户的不同收费，或对同性伴侣的区别对待等。通过列举具体案例，文件呼吁公众关注并报告此类歧视情况。该文件还提供了反映生存现状的文献，强调对LGBTQ+群体的法律保护，及其在住房方面的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,10 +76,10 @@ _本网站的所有者承诺提供无障碍访问和包容性服务，如果您�
 | Size            | 4643 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2020-01-01                                 |
+| Tags            | 性取向, 性别认同, 住房歧视, 法律保护, 弗吉尼亚州, LGBTQ+, 公平住房法, 社会正义, 反歧视, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

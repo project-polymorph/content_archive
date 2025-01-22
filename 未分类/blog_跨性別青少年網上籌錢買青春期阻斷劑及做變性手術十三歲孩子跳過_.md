@@ -77,7 +77,7 @@ Photo by Taylor Deas-Melesh on Unsplash
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了跨性别青少年在网上筹集资金以购买青春期阻断剂和进行变性手术的现象，尤其是年龄低至十三岁的孩子们如何绕过政府审查，私下购买药物。文章提到青春期阻断剂对骨骼和大脑的长期影响尚不明确，并分析了跨性别青少年在获取信息和药物方面可能受到的同温层效应影响，强调了在性别认同问题上的双重标准，及医务人员在面对青少年需求时所承受的压力。文章最后呼吁社会对年轻人的性别认同困惑给予更多关注与支持，特别是在香港这个相对保守的环境中，许多孩子对性别身份依然感到困惑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -90,10 +90,10 @@ Photo by Taylor Deas-Melesh on Unsplash
 | Size            | 9697 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 梁海欣（项目干事）                               |
+| Region          | 香港                               |
+| Date            | 2022-02-21                                 |
+| Tags            | 跨性别, 青少年, 青春期阻断剂, 变性手术, 社会影响, 法律政策, 医疗资源, 性别认同, 心理健康, 性别焦躁                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

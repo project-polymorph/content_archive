@@ -27,23 +27,23 @@
 
 ### 热门评论 30条
 
-- [新之AKIRA](//user.guancha.cn/user/personal-homepage?uid=255410)  
+- [新之AKIRA](https://user.guancha.cn/user/personal-homepage?uid=255410)  
     其实，对性少数群体不区别对待才是最大的尊重，所以我反对“骄傲游行”和类似“我们是同性恋，请支持我们”——异性恋我也不一定都支持啊，渣男渣女负心人出轨暴力等等恋爱中会出现的烂事，平等地出现在同性恋和异性恋当中，所以我只会看你这个人人品怎么样，选择是否拥抱，而不是性向，同样，我支持互敬互爱，相濡以沫的情侣，无论性向，但不会因为是同性情侣，我就“支持你们”“为你们骄傲”——一句话，性向是性向，本身不具备道德修正功能  
     2024-10-26 09:29 来自上海市
 
-- [夏天热冬天冷春秋困](//user.guancha.cn/user/personal-homepage?uid=700503)  
+- [夏天热冬天冷春秋困](https://user.guancha.cn/user/personal-homepage?uid=700503)  
     对变性、同性恋之类的，群众的沉默才是对他们最好的保护，非要把水下的静态的东西搅合到水面上，只会激起大多数人的反感和攻击。  
     2024-10-25 16:55 来自江苏省
 
-- [写日记的麒麟](//user.guancha.cn/user/personal-homepage?uid=49207)  
+- [写日记的麒麟](https://user.guancha.cn/user/personal-homepage?uid=49207)  
     为什么要发声？我们异性恋发声了吗？  
     2024-10-25 16:34 来自四川省
 
-- [郜德奥佛壹氧化贰氢](//user.guancha.cn/user/personal-homepage?uid=1369438) 男人要大气！  
+- [郜德奥佛壹氧化贰氢](https://user.guancha.cn/user/personal-homepage?uid=1369438) 男人要大气！  
     此条评论已被折叠，点击查看  
     2024-10-25 18:27 来自瑞士
 
-- [大鱼头](//user.guancha.cn/user/personal-homepage?uid=5295)  
+- [大鱼头](https://user.guancha.cn/user/personal-homepage?uid=5295)  
     是的。本质上这是基因突变引发的病变，非要拿出来宣扬其是正确的。这不是反人类吗？把黑说成白，这就是不对的。我们可以同情畸形，但不能同意畸形是美！  
     2024-10-25 18:10 来自浙江省
 

@@ -77,7 +77,7 @@ Other music: [Blue Dot Sessions](https://www.sessions.blue/)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本期播客节目以跨性别现身日为主题，由Kei（他们）和叶子（她）分享各自的跨性别生命故事。节目探讨了跨性别者的可见性，包括个人和社会的层面，强调了人们应有权选择自己认同的性别，以及性别的多样性和历史背景。嘉宾们回顾了个人转变经历，讨论了在不同环境中的挑战，例如社会对性别的刻板印象、工作场合的误性别指称和法律政策的差异。他们提到，虽然可见性在一定程度上可以促进社会理解，但在不平等的社会中，过度的曝光可能会带来压力和脆弱感。节目中还涉及了支持网络在同性恋社群中的重要性，以及如何通过人性化的方式促进彼此的同理与关怀。最后，嘉宾们呼吁跨性别群体不应被社会分化，顺性别者需要学习理解和共情。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -90,10 +90,10 @@ Other music: [Blue Dot Sessions](https://www.sessions.blue/)
 | Size            | 5516 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-03-31                                 |
+| Tags            | 跨性别, 生命故事, 个人经历, 社会可见性, 性别认同, 支持网络, 医疗资源, 法律政策, 社区倡导, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

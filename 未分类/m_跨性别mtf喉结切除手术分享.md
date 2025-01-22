@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章分享了跨性别女性（MTF）在进行喉结切除手术过程中的个人体验和感受。文中附有手术前后的视频链接和大量的相关图片，以帮助其他有相似愿望的人了解手术的实际效果。此外，文章还包含了对手术的分析和效果的讨论。手术在2019年6月10日拍摄，播放量达到5963次。内容旨在为跨性别人士提供医疗资源与经验分享，对想要进行类似手术的人士有重要的参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,10 +78,10 @@
 | Size            | 3516 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-06-10                                 |
+| Tags            | 跨性别, MTF, 喉结切除, 手术分享, 生命故事, 医疗资源, 手术经验, 性别认同, 视频分享, 女性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

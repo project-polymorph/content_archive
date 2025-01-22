@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国人妖是什么？怎么区分人妖和女性？人妖需要服兵役吗？](//i1.hdslb.com/bfs/archive/6507fe0b3c77a03e266862c37153d6171aa02836.jpg@518w_290h_1c_!web-video-share-cover.webp)
+![泰国人妖是什么？怎么区分人妖和女性？人妖需要服兵役吗？](https://i1.hdslb.com/bfs/archive/6507fe0b3c77a03e266862c37153d6171aa02836.jpg@518w_290h_1c_!web-video-share-cover.webp)
 
 **时间**: 2023-04-26 10:58:26  
-**来源**: [哔哩哔哩](//www.bilibili.com)  
-**作者**: [文史记](//space.bilibili.com/3493146056985502)  
+**来源**: [哔哩哔哩](https://www.bilibili.com)  
+**作者**: [文史记](https://space.bilibili.com/3493146056985502)  
 **标签**: 知识, 人文历史, 女性, 奇闻, 泰国, 科普, 危险, 必备, 知道, 需要, 区分, 人妖  
 **版权**: 未经作者授权，禁止转载  
 

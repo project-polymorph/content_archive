@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫阿婷的男人的故事，他从小就渴望成为一个真正的女人。文章详细描述了阿婷的家庭背景、性别认同和成长经历。1976年出生于广西的他，是家中唯一的儿子，父母对他的期望与他内心的渴望形成了鲜明的对比。文章中提到阿婷在幼儿园时首次意识到性别的差异，而随着成长，他越来越意识到自己与身边男孩的不同。在14岁时，他开始对自己的性别认同产生困惑，并最终在一部心理学书籍中找到了“易性癖”这一术语来定义自己的感受。阿婷的故事不仅揭示了他对女性身份的渴望，也反映了社会对他的误解与不接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@
 | Size            | 4890 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-12-27                                 |
+| Tags            | 易性癖, 性别认同, 成长经历, 心理咨询, 社会接受度, 男性到女性的过渡, 家庭背景, 性别歧视, 个人故事, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

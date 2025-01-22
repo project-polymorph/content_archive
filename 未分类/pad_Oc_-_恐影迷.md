@@ -170,7 +170,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一系列与多元性别相关的电影档案，共包含232部影视作品。通过不同类型的电影展示了多元性别在文化中的表现。文件中列出了几部电影的详细信息，包括影片的海报、类型、年份、国家、导演、主演及剧情简介。例如，《道格拉吸血鬼》是一部2013年美国制作的电影，讲述了七个高中朋友因灵魂交易而引发的血腥故事。《污垢化为灰烬，肉体化为灰尘》则是关于一个连环杀手的故事，强调生存与绝望的主题。每部电影均围绕着不同的社会现实和多元性别表达，展现了多样化的生命故事与体验。这些电影不仅反映了个体的情感和经历，还引发对社会现实和多元文化的探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -183,10 +183,10 @@
 | Size            | 7830 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 电影档案, 影视作品, 文化表现, 生命故事, 社会现实, 心理恐怖, 悬疑, 导演, 主演                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

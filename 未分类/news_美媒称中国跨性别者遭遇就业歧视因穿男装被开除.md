@@ -49,7 +49,7 @@ C先生说，自己仍处于失业状态，他的父母和女友一直在给予�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了中国跨性别者在就业中面临的歧视问题。文章聚焦于C先生（化名）的案例，他因穿着男装被贵州的慈铭健康体检中心开除。虽然在面试时，他以男装示人且没有受到质疑，但却在试用期结束后遭到解雇。C先生表达了对自己跨性别身份的认同，并希望能够得到尊重与公平对待。但企业负责人认为他的外表与其性别认同不符，因此拒绝他继续工作。律师指出，该公司的行为违反了劳动法，而C先生则提出仲裁，寻求合法的权益保护。此外，教授和非政府组织的代表对此案例表示支持，并提议加强法律保护，以改善跨性别者的生存现状。这一事件被认为是中国跨性别者权利运动的一个重要里程碑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,10 +62,10 @@ C先生说，自己仍处于失业状态，他的父母和女友一直在给予�
 | Size            | 4291 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 参考消息网                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-04-16                                 |
+| Tags            | 跨性别, 就业歧视, 性别认同, 法律保护, 人权, 劳动仲裁, 贵州, 性别少数群体, 社会运动, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

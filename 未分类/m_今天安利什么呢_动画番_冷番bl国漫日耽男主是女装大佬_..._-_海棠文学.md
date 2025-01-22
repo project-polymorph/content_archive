@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文提供了一系列与多元性别相关的动画推荐，主要聚焦于包含性转、BL（男同）、百合等元素的作品。文章提到了一些特定的动画作品及其内容，例如男主角是女装大佬的都市恋爱故事，以及角色在重生后与前世的纠葛。推荐了多部作品，包括《若风之声》、《三月初三》、《春江花月》等，展示了多元性别主题的丰富性和多样性。文章强调了动画中的女性友好元素，以及对性转和人外设定的亲和力，适合喜欢这些主题的观众。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,10 +64,10 @@
 | Size            | 1700 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 动画推荐, 多元性别, 性转, BL, 百合, 女性友好, 都市恋爱, 重生, 国漫, 日耽                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

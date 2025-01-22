@@ -146,7 +146,7 @@ Gwen还讨论了她的私生活，尽管她说大多数变性人都不喜欢被�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一名变性女人Gwen在网络论坛红迪网(Reddit)进行的“无下限提问”AMA活动的记录，她分享了自己的性别转变经历和感受。Gwen在文中描述了她从小开始对性别的困惑及对变性的渴望，并谈到了她在22岁时开始的性别转变过程，以及在使用激素替代疗法的过程中的身体变化。她对周围人对待她的不同反应有深入的观察，认为变性不仅仅是生理上的变化，心理感受也极为重要。文中还提到她的家庭接受过程以及她对未来的考虑，展现了变性人在生活中遇到的挑战及希望。文章从情感上真实而细腻，让读者对变性人的生活有了更深的理解和同情。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -159,10 +159,10 @@ Gwen还讨论了她的私生活，尽管她说大多数变性人都不喜欢被�
 | Size            | 7088 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 佚名                               |
+| Region          | 美国                               |
+| Date            | 2017-01-22                                 |
+| Tags            | 变性, 性别认同, 个人故事, 激素替代疗法, 性别歧视, 社会接受度, 心理变化, 家庭支持, 在线社区, 人生故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

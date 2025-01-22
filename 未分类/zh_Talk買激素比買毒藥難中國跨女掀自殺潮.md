@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-歡迎訂閱[**中文維基新聞廣播頻道**](//t.me/wikinews_zh_broadcast)！
+歡迎訂閱[**中文維基新聞廣播頻道**](https://t.me/wikinews_zh_broadcast)！
 
 ## 廣東跨性別女性為何接連自殺 { data-search-exclude }
 

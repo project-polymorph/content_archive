@@ -7,7 +7,7 @@
 
 **优惠价：¥60.00起**
 
-![人妖秀演出](//gtd.alicdn.com/bao/uploaded///img.alicdn.com/bao/uploaded/imgextra/i3/O1CN01ng7qtO29WrEgN9Agp_!!0-travel.jpg_600x600.jpg)
+![人妖秀演出](https://gtd.alicdn.com/bao/uploaded///img.alicdn.com/bao/uploaded/imgextra/i3/O1CN01ng7qtO29WrEgN9Agp_!!0-travel.jpg_600x600.jpg)
 
 - 当月销量：**900**笔
 - 景区电话：+66 81-490-5557
@@ -44,20 +44,20 @@
 
 ### 周边热门景点
 
-- [灵隐飞来峰](//s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=1228) - ¥45
-![灵隐飞来峰](//gtd.alicdn.com/bao/uploaded/imgextra/i2/6000000007452/O1CN013JeWCL24v4E1JF9U9_!!6000000007452-0-fliggyimage.jpg_80x60.jpg)
+- [灵隐飞来峰](https://s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=1228) - ¥45
+![灵隐飞来峰](https://gtd.alicdn.com/bao/uploaded/imgextra/i2/6000000007452/O1CN013JeWCL24v4E1JF9U9_!!6000000007452-0-fliggyimage.jpg_80x60.jpg)
 
-- [上海迪士尼度假区](//s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=20498) - ¥656
-![上海迪士尼度假区](//gtd.alicdn.com/bao/uploaded/imgextra/i4/6000000000197/O1CN01eUytBU1DKH3Ho4s70_!!6000000000197-2-fliggyimage.png_80x60.jpg)
+- [上海迪士尼度假区](https://s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=20498) - ¥656
+![上海迪士尼度假区](https://gtd.alicdn.com/bao/uploaded/imgextra/i4/6000000000197/O1CN01eUytBU1DKH3Ho4s70_!!6000000000197-2-fliggyimage.png_80x60.jpg)
 
-- [北京环球度假区](//s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=37907254) - ¥609
-![北京环球度假区](//gtd.alicdn.com/bao/uploaded/imgextra/i3/6000000000076/O1CN01qrxt131CQr7vGVGRV_!!6000000000076-0-fliggyimage.jpg_80x60.jpg)
+- [北京环球度假区](https://s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=37907254) - ¥609
+![北京环球度假区](https://gtd.alicdn.com/bao/uploaded/imgextra/i3/6000000000076/O1CN01qrxt131CQr7vGVGRV_!!6000000000076-0-fliggyimage.jpg_80x60.jpg)
 
-- [香港迪士尼乐园](//s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=3568) - ¥650
-![香港迪士尼乐园](//gtd.alicdn.com/bao/uploaded/imgextra/i3/6000000006812/O1CN01q4wBNR20Bx1d5a1ja_!!6000000006812-0-fliggyimage.jpg_80x60.jpg)
+- [香港迪士尼乐园](https://s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=3568) - ¥650
+![香港迪士尼乐园](https://gtd.alicdn.com/bao/uploaded/imgextra/i3/6000000006812/O1CN01q4wBNR20Bx1d5a1ja_!!6000000006812-0-fliggyimage.jpg_80x60.jpg)
 
-- [日本环球影城](//s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=2700) - ¥1773
-![日本环球影城](//gtd.alicdn.com/bao/uploaded/imgextra/i1/6000000003263/O1CN01uug73v1ZyVK3L7Rfe_!!6000000003263-0-fliggyimage.jpg_80x60.jpg)
+- [日本环球影城](https://s.fliggy.com/scenic/detail.htm?_input_charset=GBK&sid=2700) - ¥1773
+![日本环球影城](https://gtd.alicdn.com/bao/uploaded/imgextra/i1/6000000003263/O1CN01uug73v1ZyVK3L7Rfe_!!6000000003263-0-fliggyimage.jpg_80x60.jpg)
 
 --- 
 
@@ -75,7 +75,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了位于曼谷的金东尼人妖秀中心，包括演出详情、门票信息、景点介绍以及周边热门景点。一场引人注目的人妖秀，吸引众多游客前来观看，演出内容融合了传统与现代，展现了丰富的文化表现形式。金东尼人妖秀场著名于其精湛的表演和华美的服装，表演以泰国传统歌舞为主，同时也包括现代流行歌曲的演绎，给观众带来了一场视觉与听觉的盛宴。门票种类繁多，包括成人票、儿童票和家庭票等，适合不同需求的游客。此外，文中还提供了相关的景点地址与联系方式，方便游客获取进一步的信息与预定。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,10 +88,10 @@
 | Size            | 3688 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 曼谷                               |
+| Date            | 未知                                 |
+| Tags            | 人妖秀, 金东尼人妖秀中心, 旅游, 演出表演, 门票预定, 泰国传统文化, 现代流行歌曲, 观光旅游, 文化艺术, 海外演出                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

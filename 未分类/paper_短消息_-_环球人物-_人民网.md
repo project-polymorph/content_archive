@@ -82,7 +82,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《环球人物》2008年第12期的短消息集，内容涵盖了当时发生的重要国际新闻和社会事件。开篇提到韩国总统李明博因‘牛肉危机’面临支持率大幅下降，此次事件引发了广泛的抗议示威，凸显出韩国民众对政府决策的不满。接着报道了哈立德·穆罕默德首次出庭受审，他被控策划了‘9·11’恐怖袭击，显示了国际反恐斗争的持续性。
+
+文件中也提到了巴基斯坦总统穆沙拉夫面临辞职压力，以及尼泊尔取消君主制的历史性决定，使得贾南德拉王子失去了王位。此外，报道中提及了日本自杀问题的严峻性和古巴决定为公民提供免费变性手术，这对多元性别和社会医疗资源的改善具有重要意义。文件内容还包括有关旅游业和游客行为的调查结果，及对一些社会现象的观察，如英国游客的行为被评为‘世界最差’，以及对个别知名人物和企业动态的追踪，例如万科董事长王石的道歉、圣罗兰去世的消息和著名拍卖事件。整体来看，这些短消息展示了2008年全球政治、社会和文化的多元事件，具有重要的历史参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -95,10 +97,10 @@
 | Size            | 11604 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-06-16                                 |
+| Tags            | 多元性别, 变性手术, 韩国政治, 牛肉危机, 尼泊尔君主制, 日本自杀问题, 旅游调查, 文化动态, 法律政策, 国际新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

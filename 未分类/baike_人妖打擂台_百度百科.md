@@ -118,7 +118,7 @@ Gael Garcia Bernal 加艾尔加西亚般奴
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖打擂台》是一部由吕翼谋执导的泰国剧情电影，讲述变性人Nong Toom的真实生活故事。这部影片深刻探讨了Nong Toom不仅在泰拳擂台上的奋斗，同时也展示了她追求成为真实女性的心路历程。故事中，Nong Toom从小深信自己是女性，尽管身体是男性。她接受了泰拳的训练，成为了一名顶尖的泰拳手，通过擂台上的胜利赢得了尊重与名声，但她内心深处最渴望的是实现真正的自我，在这样的追求中，她付出了比金钱更高的代价。电影不仅反映了个人奋斗的故事，还对变性人在社会中的地位和遭遇进行了深刻的描绘。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,10 +131,10 @@ Gael Garcia Bernal 加艾尔加西亚般奴
 | Size            | 5431 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2004-04-09                                 |
+| Tags            | 电影, 变性人, 泰拳, 女性身份, 真实故事, 社会议题, 人生经历, 励志, 跨性别, 文化表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

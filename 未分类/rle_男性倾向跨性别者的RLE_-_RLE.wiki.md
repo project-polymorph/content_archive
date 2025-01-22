@@ -72,7 +72,7 @@ RLE 与其他性别肯定步骤是一定程度上相辅相成的 -- HRT 会让�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章《男性倾向跨性别者的RLE》由作者航撰写，主要探讨了男性倾向跨性别者在实际生活体验（RLE, Real-Life Experience）中的各种表现和重要性。文章指出，RLE是让跨性别者全天候以其所偏好的性别角色生活的一段时间，目的是为了探索内心、缓解性别焦虑。文中强调，RLE的方式有很多，包括易装、束胸和理发等，关键在于个体的舒适感，而非符合男性的刻板印象。文章还提到，RLE不是进行激素替代治疗（HRT）的必要条件，也不存在必须先进行RLE再进行HRT的规定。文章提供了多个方面的指南，帮助跨性别男性更好地适应自己的生活，并特别关注环境友好的校园选择。这篇文章是多元性别中文数字档案馆的一部分，为男性倾向跨性别者提供了具体实用的信息和建议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,10 +85,10 @@ RLE 与其他性别肯定步骤是一定程度上相辅相成的 -- HRT 会让�
 | Size            | 2877 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 航                               |
+| Region          | 未知                               |
+| Date            | 2024-04-18                                 |
+| Tags            | 男性倾向, 跨性别者, 实际生活体验, RLE, 性别过渡, 性别认同, 性别肯定步骤, 心理健康, 生活指南, 跨性别支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

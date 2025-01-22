@@ -149,7 +149,11 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在中国大陆社交平台豆瓣上兴起的女权运动，尤其聚焦于名为“鹅组”的小组，该小组逐渐转变为网络女权的重要阵地。作者啡卡分析了2020年女权主义在中国的觉醒，指出这一年不仅是女权网络行动频发的时期，更是新生代女权主义者对前辈们缺乏认知的结果。文章提到新生女权主义者多以‘社会主义女权’或‘中国特色女权主义’自居，并在豆瓣上聚集形成多元的网络社群。
+
+文中指出，女权在豆瓣的讨论中充斥着对传统父权制的反思，例如涉及性别暴力和女性职场地位等问题事件。虽然‘鹅组’因其用户群体复杂而成为众矢之的，但它也为知识架构较为成熟的女权主义者提供了表达空间。在政治审查愈加严峻的环境下，部分女权者为了规避被视为‘境外势力’的风险，倾向于使用‘社会主义’等话语，这反映出当前女权运动与国家主义的微妙关系。
+
+总体而言，鹅组成为了一个多元化的女权讨论平台，内容既有对女性经济与社会价值的探讨，也有对政府性别政策的评价和批判。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -162,10 +166,10 @@
 | Size            | 26132 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 啡卡                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-03-08                                 |
+| Tags            | 女权运动, 豆瓣, 社会运动, 女性权益, 网络社群, 社会主义女权, 中国特色女权主义, 性别暴力, 社会政策, LGBTQ权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

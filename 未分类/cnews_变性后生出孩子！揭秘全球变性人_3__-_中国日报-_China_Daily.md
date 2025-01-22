@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了变性人群体的一位重要人物——澳大利亚前冲浪世界冠军Peter Drouyn的故事。他于2008年决定变性为女性，并为自己取名‘Westerly’。文章探讨了他的转变经历以及在此过程中所面临的挑战和社会反响。此外，文中也涉及到变性人群体的生存现状以及他们在社会中的地位，包括相关的法律、医疗和社会支持体系。通过Peter的个人故事，本文揭示了变性人实现自我认同的过程，以及他们在生育、家庭生活方面的选择和挑战。文章还包含了相关的链接和标签，指向更多变性人相关的内容和研究。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@
 | Size            | 1560 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国日报                               |
+| Region          | 未知                               |
+| Date            | 2016-05-11                                 |
+| Tags            | 变性人, 变性美女, 变性手术, 女性认同, 社会支持, 法律政策, 生存现状, 个体故事, 生育问题, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

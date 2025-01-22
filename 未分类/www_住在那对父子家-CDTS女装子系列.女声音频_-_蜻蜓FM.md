@@ -11,7 +11,7 @@
 时长: 14:15  
 
 播放分享下载  
-[![CD/TS/女装子系列.女声音频](//pic.qtfm.cn/device/a2a4230129c64226b80404e0083c3245/1642229215423_kufI97mc-.png!400)](/channels/430192)
+[![CD/TS/女装子系列.女声音频](https://pic.qtfm.cn/device/a2a4230129c64226b80404e0083c3245/1642229215423_kufI97mc-.png!400)](/channels/430192)
 
 扫码下载蜻蜓app  
 4.5亿用户的选择
@@ -36,7 +36,7 @@
 
 手机端下载
 
-![蜻蜓微信公众号二维码](//sss.qtfm.cn/neo/wechat.jpg)
+![蜻蜓微信公众号二维码](https://sss.qtfm.cn/neo/wechat.jpg)
 
 微信公众号
 

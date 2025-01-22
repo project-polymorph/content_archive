@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件标题为《国产伪娘（TS、CD）集中营》，是一个关于国产伪娘（跨性别、变装）内容的社群公告，旨在分享与推广伪娘相关的资源和社群交流平台。文件中提到的频道专注于提供伪娘主题的视频和相关资源，如需更多内容则需加入会员群。文中详细介绍了群组的运营模式、票价信息以及如何加入社群的步骤，涉及大量成人内容的推广，包括各种成人群组和相关链接，显示出其内容的多样性与成人取向。同时，文件提供了关于社群热点资源的描述，并鼓励用户进行互动与分享。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@
 | Size            | 5170 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 2023-12-31                                 |
+| Tags            | 多元性别, 跨性别, 伪娘, 变装, 社群, 成人内容, 网络资源, 视频分享, 会员制, 社会文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

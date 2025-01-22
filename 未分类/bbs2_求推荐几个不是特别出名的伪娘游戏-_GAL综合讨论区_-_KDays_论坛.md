@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了在KDays论坛GAL综合讨论区中发布的一条求助帖子，主题为推荐几个不太出名的伪娘游戏。帖子中，作者寻求其他论坛用户推荐类似游戏，并分享了自己曾玩过的一些作品，例如《恋爱少女人格崩坏》和《不要弄脏天使的翅膀》等。文件包含了相关的讨论和回复，且有一定的互动性，显示出社区中的游戏推荐氛围。作者要求社区成员分享更多不为人知的伪娘游戏，体现了对这一主题的兴趣和对多元性别文化的探索。此外，帖子中还提供了作者的头像和回复时间，进一步丰富了互动内容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@
 | Size            | 947 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | qaz741wsd86                               |
+| Region          | 未知                               |
+| Date            | 2022-09-12                                 |
+| Tags            | 伪娘游戏, 论坛讨论, KDays, GAL游戏, 多元性别, 游戏推荐, 互动社区, 用户分享, 生命故事, 文化探索                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

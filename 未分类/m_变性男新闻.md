@@ -4,47 +4,47 @@
 
 
 ## 突如其来的爆笑瞬间，农村小伙花25万做变性，回家后父母无法理 { data-search-exclude }
-![突如其来的爆笑瞬间，农村小伙花25万做变性，回家后父母无法理](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/oE2IA3yEVOAXB7JpweLQALDAknW9bAAejAEfDE~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=dCD3%2F9O4ToqJppYYV2zVpYaggI8%3D)
+![突如其来的爆笑瞬间，农村小伙花25万做变性，回家后父母无法理](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/oE2IA3yEVOAXB7JpweLQALDAknW9bAAejAEfDE~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=dCD3%2F9O4ToqJppYYV2zVpYaggI8%3D)
 [观看视频](https://www.ixigua.com/7270041054940758539?& "突如其来的爆笑瞬间，农村小伙花25万做变性，回家后父母无法理")  
 作者：Drift | 播放次数：2859 · 时间：1年前
 
 ## 中国第一变性人，一生被五个男人宠爱，他的经历比金星还传奇 { data-search-exclude }
-![中国第一变性人，一生被五个男人宠爱，他的经历比金星还传奇](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/d22446b397204e98a270aab85a3be590~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=Deotkold%2FEW5kadEYdWIFeBC9PU%3D)
+![中国第一变性人，一生被五个男人宠爱，他的经历比金星还传奇](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/d22446b397204e98a270aab85a3be590~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=Deotkold%2FEW5kadEYdWIFeBC9PU%3D)
 [观看视频](https://www.ixigua.com/7208808386215969335?& "中国第一变性人，一生被五个男人宠爱，他的经历比金星还传奇")  
 作者：最华人 | 播放次数：2.2万 · 时间：1年前
 
 ## 揭秘女变男全过程，17年前中国首例女变男变性人，后来怎么样了？ { data-search-exclude }
-![揭秘女变男全过程，17年前中国首例女变男变性人，后来怎么样了？](//p26-sign.bdxiguaimg.com/tos-cn-i-0004/30892fc953374bbb9c996ca769fa0dbb~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=sx%2Fw8h5L7qcPzju7R3nELwoakQc%3D)
+![揭秘女变男全过程，17年前中国首例女变男变性人，后来怎么样了？](https://p26-sign.bdxiguaimg.com/tos-cn-i-0004/30892fc953374bbb9c996ca769fa0dbb~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=sx%2Fw8h5L7qcPzju7R3nELwoakQc%3D)
 [观看视频](https://www.ixigua.com/7140571119668429325?& "揭秘女变男全过程，17年前中国首例女变男变性人，后来怎么样了？")  
 作者：科普事物薄 | 播放次数：23.3万 · 时间：2年前
 
 ## 男子变性后面部整形失败变“大冬瓜”  众筹换脸又惹争议 { data-search-exclude }
-![男子变性后面部整形失败变“大冬瓜”  众筹换脸又惹争议](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/a464c104b59947f78fc36c8173401bb8~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=6YvY7m2PtSSmqmXkilW9kZkIGfk%3D)
+![男子变性后面部整形失败变“大冬瓜”  众筹换脸又惹争议](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/a464c104b59947f78fc36c8173401bb8~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=6YvY7m2PtSSmqmXkilW9kZkIGfk%3D)
 [观看视频](https://www.ixigua.com/6952317383914553864?& "男子变性后面部整形失败变“大冬瓜”  众筹换脸又惹争议")  
 作者：星知趣闻 | 播放次数：1.4万 · 时间：3年前
 
 ## 高僧当场“圆寂”，男人宁愿变性也不当兵，泰国征兵为何如此？ { data-search-exclude }
-![高僧当场“圆寂”，男人宁愿变性也不当兵，泰国征兵为何如此？](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/e7de6940127e4c43b18500500a0a5eef~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=PQy6fk94%2F5nqOcOVoqu0JefI98M%3D)
+![高僧当场“圆寂”，男人宁愿变性也不当兵，泰国征兵为何如此？](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/e7de6940127e4c43b18500500a0a5eef~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=PQy6fk94%2F5nqOcOVoqu0JefI98M%3D)
 [观看视频](https://www.ixigua.com/7167195645945184802?& "高僧当场“圆寂”，男人宁愿变性也不当兵，泰国征兵为何如此？")  
 作者：伊木科学 | 播放次数：2339 · 时间：2年前
 
 ## 男子为逃避兵役去做变性手术 6个月后由帅小伙变成美女 { data-search-exclude }
-![男子为逃避兵役去做变性手术 6个月后由帅小伙变成美女](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/911731b004e44b309b682ac02710cd30~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=Z3MK2paGX1dE3W%2FnybGneTBLjWQ%3D)
+![男子为逃避兵役去做变性手术 6个月后由帅小伙变成美女](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/911731b004e44b309b682ac02710cd30~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=Z3MK2paGX1dE3W%2FnybGneTBLjWQ%3D)
 [观看视频](https://www.ixigua.com/6652842597062541837?& "男子为逃避兵役去做变性手术 6个月后由帅小伙变成美女")  
 作者：济青高速交警 | 播放次数：4.4万 · 时间：5年前
 
 ## 英国一男子，结婚生育后变性，夫妻变闺蜜，仍与妻子一起生活 { data-search-exclude }
-![英国一男子，结婚生育后变性，夫妻变闺蜜，仍与妻子一起生活](//p3-sign.bdxiguaimg.com/pgc-image/152237314844751659e51b2~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=AWu3Oa4NMrhIf3ecczPINYaJHDk%3D)
+![英国一男子，结婚生育后变性，夫妻变闺蜜，仍与妻子一起生活](https://p3-sign.bdxiguaimg.com/pgc-image/152237314844751659e51b2~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=AWu3Oa4NMrhIf3ecczPINYaJHDk%3D)
 [观看视频](https://www.ixigua.com/6538544286932140548?& "英国一男子，结婚生育后变性，夫妻变闺蜜，仍与妻子一起生活")  
 作者：蜻蜓看世界 | 播放次数：3.1万 · 时间：6年前
 
 ## 变性男子首次台上讲婚后生活，主持人：你们躺在一张床上不尴尬？ { data-search-exclude }
-![变性男子首次台上讲婚后生活，主持人：你们躺在一张床上不尴尬？](//p26-sign.bdxiguaimg.com/mosaic-legacy/1ba820001ee3f69adb620~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=sS2OnuVHmT2WVBtVpbiWyXhWQLw%3D)
+![变性男子首次台上讲婚后生活，主持人：你们躺在一张床上不尴尬？](https://p26-sign.bdxiguaimg.com/mosaic-legacy/1ba820001ee3f69adb620~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=sS2OnuVHmT2WVBtVpbiWyXhWQLw%3D)
 [观看视频](https://www.ixigua.com/6663650650682819085?& "变性男子首次台上讲婚后生活，主持人：你们躺在一张床上不尴尬？")  
 作者：用背影成全美好 | 播放次数：956 · 时间：5年前
 
 ## 泰国小伙为了逃避每年的征兵仪式，竟然选择了变性手术 { data-search-exclude }
-![泰国小伙为了逃避每年的征兵仪式，竟然选择了变性手术](//p26-sign.bdxiguaimg.com/tos-cn-i-pk90l89vgd/f3473dab8ec646b5bb785485811f2e79~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=ARSqn6oyTFl57WxKyD145ACd6e4%3D)
+![泰国小伙为了逃避每年的征兵仪式，竟然选择了变性手术](https://p26-sign.bdxiguaimg.com/tos-cn-i-pk90l89vgd/f3473dab8ec646b5bb785485811f2e79~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250114210117C1DB5397AFEC96C54CEB&requestFrom=401&x-expires=1768395678&x-signature=ARSqn6oyTFl57WxKyD145ACd6e4%3D)
 [观看视频](https://www.ixigua.com/7365185870804025897?& "泰国小伙为了逃避每年的征兵仪式，竟然选择了变性手术")  
 作者：破屋解忧 | 播放次数：12.5万 · 时间：8个月前
 
@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要收录了与变性相关的多则新闻报道，涵盖了从个人变性经历到社会文化现象的各个方面。内容中有农村小伙花费25万做变性手术后回家遭父母无法理解的幽默故事，以及对中国第一变性人的传奇经历的回顾。此外，还有关于男性变性后整形失败的案例，以及逃避征兵做变性的新闻报道，种种事件揭示了社会对变性人的关注与争议。各个报道均配有生动的图片和相关视频链接，增强了信息的表现力。整体内容是一组对多元性别现象的真实反映，同时也引发了对变性人生活、社会认同和法律地位的深入思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@
 | Size            | 12852 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 个人故事, 社会现象, 法律政策, 男性变性人, 新闻报道, 医疗资源, 生活经历, 文化理解, 变性手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

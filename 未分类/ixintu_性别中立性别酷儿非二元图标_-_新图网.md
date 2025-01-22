@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![性别中立性别酷儿非二元图标](//img.ixintu.com/download/jpg/20200714/839db600a2a87aae2eaed0b8371ac143_512_512.jpg!con)
+![性别中立性别酷儿非二元图标](https://img.ixintu.com/download/jpg/20200714/839db600a2a87aae2eaed0b8371ac143_512_512.jpg!con)
 
 新图网(ixintu.com)提供海量U I 图标免费下载，性别中立性别酷儿非二元图标由新图网用户分享上传，推荐搜索性别中立,性别酷儿,跨性别,非二元获得更多内容。图中水印仅用于网站防护，不具有其他含义。
 
@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一款性别中立性别酷儿非二元图标，该图标在新图网（ixintu.com）提供下载。文件中包含了该图标的图片，以及关于图标尺寸、格式等信息的详细描述。图标的尺寸为512x512px，支持PNG和SVG格式，分辨率为96 dpi。此图标由用户分享上传，适合用于个人学习分享，不得用于商业目的。文件还提到网站对版权的尊重与投诉机制，阐明了图标的使用限制及法律条款，并且鼓励用户反馈意见。除此之外，还提供了与图标相关的标签，包括性别中立、性别酷儿、跨性别和非二元等，反映了这一图标的多元性别特性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,10 +65,10 @@
 | Size            | 2350 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别中立, 性别酷儿, 跨性别, 非二元, 图标, 视觉艺术, 设计资源, 个人学习, 知识产权, 社区支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

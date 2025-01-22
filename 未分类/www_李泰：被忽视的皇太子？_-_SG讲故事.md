@@ -33,7 +33,7 @@
 
 ---
 
-![saigege的头像](//www.jgushi.com//wp-content/uploads/1234/06/238a0b923820dcc5.1523952957.jpg)  
+![saigege的头像](https://www.jgushi.com//wp-content/uploads/1234/06/238a0b923820dcc5.1523952957.jpg)  
 [saigege管理员](http://www.jgushi.com/user/saigege)  
 评论：无  
 标签：无

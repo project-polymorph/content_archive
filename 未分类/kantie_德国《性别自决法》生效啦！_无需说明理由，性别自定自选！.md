@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了德国最近生效的《性别自决法》，该法允许人们在无需说明理由的情况下申请更改法定性别，规定了相关申请过程。例如，14岁以下的儿童可以由父母代为申请，而14岁以上的青少年则可以自主申请，但需要获得父母的同意。更改性别的申请需要经过心理学家或青少年福利服务机构的咨询，并且更改结果在申请后需经过三个月才能生效。此法案的实施引发了社会各界的热议，文中包含了一些网友对此法的看法和评论，体现了人们对性别认同及法律政策的不同看法。有评论指出，法律在性别定义上的变化是否会带来社会更多的理解和包容，也是一个值得关注的话题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,10 +67,10 @@
 | Size            | 2410 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 北美华人网                               |
+| Region          | 未知                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 性别自决法, 法律政策, 德国, 性别认同, 跨性别, 未成年人权利, 心理咨询, 青少年福利, 性别变更, 社会讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -296,7 +296,7 @@ TA的爱人一直知道这个情况，也一直在鼓励TA。当TA再次向爱�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了中国首个跨性别门诊的诞生及其背后的故事，详细讲述了整形外科医生潘柏林及其团队为跨性别者提供医疗帮助的经历与挑战。门诊自2016年成立以来，已经帮助了超过2500名跨性别者，服务内容包括心理疏导和身体手术等。潘医生通过其个人故事及对跨性别群体的生命故事介绍，强调了提高社会对跨性别概念的理解和接纳的重要性。本文深入探讨了跨性别医疗的复杂性、社会偏见及与家庭沟通的困难，同时也提供了关于心理健康状态的数据。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -309,10 +309,10 @@ TA的爱人一直知道这个情况，也一直在鼓励TA。当TA再次向爱�
 | Size            | 20273 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 2024-06-28                                 |
+| Tags            | 跨性别, 医疗资源, 生命故事, 平权, 社会偏见, 性别认同, 心理健康, 医学专业, 性别焦虑, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

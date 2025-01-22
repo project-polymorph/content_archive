@@ -87,7 +87,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了性别的多重样貌与认同，鼓励人们跳脱二元框架，尊重他人的自我价值。文件以2022年亚洲同志运动会为背景，强调了同性恋群体在全球范围内面临的挑战，如佛罗里达州通过的‘不说同性恋’法案，引发了社会对性别认同的广泛讨论。接着，文章对生理性别与性别认同进行了定义，详细说明了顺性别、跨性别、非二元性别及其各自概念，帮助公众更好地理解多元性别的内涵。最后，文中提到性倾向的含义，强调性别与性倾向的独立性，并呼吁社会要尊重每个人的性别认同。文章依据丰富的案例和研究指出，性别是一个光谱而非二元，鼓励大家以开放的心态去理解与接纳多元性别的现实。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,10 +100,10 @@
 | Size            | 7264 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 女子学                               |
+| Region          | 未知                               |
+| Date            | 2022-05-10                                 |
+| Tags            | 性别认同, 女性, 性别二元论, 多元性别, 男性, 跨性别, 顺性别, 非二元性别, 性倾向, LGBTQ+, 社会环境, 性别教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

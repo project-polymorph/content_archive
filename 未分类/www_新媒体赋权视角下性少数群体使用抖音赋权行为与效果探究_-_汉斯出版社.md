@@ -4,9 +4,9 @@
 
 
 **DOI:** [10.12677/ASS.2021.109364](https://doi.org/10.12677/ASS.2021.109364)  
-**PDF:** [PDF](//pdf.hanspub.org/ass20210900000_90792600.pdf)  
-**HTML:** [HTML](//www.hanspub.org/journal/paperinformation?paperid=45528)  
-**XML:** [XML](//image.hanspub.org/xml/45528.xml)  
+**PDF:** [PDF](https://pdf.hanspub.org/ass20210900000_90792600.pdf)  
+**HTML:** [HTML](https://www.hanspub.org/journal/paperinformation?paperid=45528)  
+**XML:** [XML](https://image.hanspub.org/xml/45528.xml)  
 **被引量:** [被引量](citations?paperid=45528&journalid=720)  
 **下载:** 336  
 **浏览:** 3,355  

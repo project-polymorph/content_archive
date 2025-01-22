@@ -60,7 +60,7 @@ TS和CD的主要区别在于它们对性别认同和表达的方式不同。TS�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了TS（变性人）和CD（异装者）在网络中的含义及其区别，尤其关注性别认同与表达的不同方式。TS通常指希望通过手术等方式来改变生理构造的人，其动机和目标是全面转型，以与内心的性别认同相符。而CD则是通过服饰和妆容来表现异性角色，通常保持原有的性别认同和性取向；这种行为更多是一种个人的艺术表达或兴趣爱好。文中详细阐述了二者在动机、行为、社会认同等方面的区别，使读者对多元性别的定义有更深入的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@ TS和CD的主要区别在于它们对性别认同和表达的方式不同。TS�
 | Size            | 3449 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 于浩淙                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-17                                 |
+| Tags            | TS, CD, 变性人, 异装者, 性别认同, 性别表达, 网络文化, 社会认同, 心理健康, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

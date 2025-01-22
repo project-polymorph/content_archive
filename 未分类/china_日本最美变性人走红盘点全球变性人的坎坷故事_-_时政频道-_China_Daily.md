@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了日本一位变性美女さつき的走红故事，并且盘点了全球变性人的坎坷经历。さつき在经历了变性手术后，凭借其性感的身材和美丽的外貌逐渐受到媒体的关注。她不仅参加了多档电视节目，还在社交媒体上展现了与中国知名艺人范冰冰的互动。文章中也提及了さつき曾在泰国参加国际变性人选美大赛，并获得2013年第4名的佳绩。此报道反映了变性人在社会认知中的复杂性，以及他们所经历的挑战和奋斗。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,10 +44,10 @@
 | Size            | 1955 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 光明网                               |
+| Region          | 日本                               |
+| Date            | 2015-03-18                                 |
+| Tags            | 变性人, 变性美女, 变性手术, 社会认知, 媒体曝光, 泰国选美大赛, 变性人故事, 跨性别, 文化差异, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

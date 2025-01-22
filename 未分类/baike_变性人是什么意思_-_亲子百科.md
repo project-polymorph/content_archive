@@ -5,11 +5,11 @@
 
 ![变性人是什么意思](https://count.pcbaby.com.cn/count.php?__uuid=000035088:1.0:cms&channel=3423&screen=800*600&refer=&anticache=1736841759695&url=https%3A%2F%2Fbaike.pcbaby.com.cn%2Fyycs%2F1603%2F2817028.html&from=cms&customInformation=&cookieEnable=true&gmvshows=&iframeCode=0)
 
-**出处**：[PCbaby](//baike.pcbaby.com.cn/yycs/1603/2817028.html)  
+**出处**：[PCbaby](https://baike.pcbaby.com.cn/yycs/1603/2817028.html)  
 **作者**：佚名  
 **时间**：2016-03-18 09:31:30  
 
-**标签**： [变性人能生育吗](//baike.pcbaby.com.cn/qzbd/13115.html) | [不孕不育的原因](//baike.pcbaby.com.cn/qzbd/1401.html) | [不孕不育](//baike.pcbaby.com.cn/qzbd/1132261.html) | [备孕1个月](//baike.pcbaby.com.cn/qzbd/5025.html) | [备孕](//baike.pcbaby.com.cn/yunqian.html)
+**标签**： [变性人能生育吗](https://baike.pcbaby.com.cn/qzbd/13115.html) | [不孕不育的原因](https://baike.pcbaby.com.cn/qzbd/1401.html) | [不孕不育](https://baike.pcbaby.com.cn/qzbd/1132261.html) | [备孕1个月](https://baike.pcbaby.com.cn/qzbd/5025.html) | [备孕](https://baike.pcbaby.com.cn/yunqian.html)
 
 ---
 
@@ -53,15 +53,15 @@
 
 **精彩推荐：**
 
-- [月经不调](//baike.pcbaby.com.cn/qzbd/953697.html)
-- [痛经](//baike.pcbaby.com.cn/qzbd/953734.html)
-- [月经周期](//baike.pcbaby.com.cn/qzbd/1137996.html)
-- [排卵期有什么症状](//baike.pcbaby.com.cn/qzbd/939533.html)
-- [月经期间注意事项](//baike.pcbaby.com.cn/qzbd/9355.html)
-- [女人多大不能生育](//baike.pcbaby.com.cn/yycs/1504/2240489.html)
-- [月经推迟13天是怀孕吗](//baike.pcbaby.com.cn/yycs/1412/2001925.html)
-- [宫寒想要宝宝怎么办](//baike.pcbaby.com.cn/yycs/1504/2232046.html)
-- [月经干净后几天是排卵期](//baike.pcbaby.com.cn/yycs/1412/1969710.html)
+- [月经不调](https://baike.pcbaby.com.cn/qzbd/953697.html)
+- [痛经](https://baike.pcbaby.com.cn/qzbd/953734.html)
+- [月经周期](https://baike.pcbaby.com.cn/qzbd/1137996.html)
+- [排卵期有什么症状](https://baike.pcbaby.com.cn/qzbd/939533.html)
+- [月经期间注意事项](https://baike.pcbaby.com.cn/qzbd/9355.html)
+- [女人多大不能生育](https://baike.pcbaby.com.cn/yycs/1504/2240489.html)
+- [月经推迟13天是怀孕吗](https://baike.pcbaby.com.cn/yycs/1412/2001925.html)
+- [宫寒想要宝宝怎么办](https://baike.pcbaby.com.cn/yycs/1504/2232046.html)
+- [月经干净后几天是排卵期](https://baike.pcbaby.com.cn/yycs/1412/1969710.html)
 
 ---
 
@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了“变性人”这一概念，包括两种产生变性倾向的原因：生物因素和后天教育。文章阐述了变性人不同于易性癖者，指出接受变性手术后，才能被称为变性人。作者引用了整形外科专家的观点，强调了性别认知的社会影响和医疗判断的复杂性。文中还描述了变性人通常具备的特征，探讨性别认同问题，以及在性别认知教育中的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,10 +85,10 @@
 | Size            | 5195 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 佚名                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-03-18                                 |
+| Tags            | 变性人, 性别认同, 易性癖, 性别教育, 医疗资源, 心理障碍, 变性手术, 法律政策, 社会环境, 文化认知                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

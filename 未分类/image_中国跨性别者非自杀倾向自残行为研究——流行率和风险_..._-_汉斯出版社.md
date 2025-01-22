@@ -213,7 +213,7 @@ Table 3. Logistic regression with NSSI history as dependent variable, whereas BI
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文献为一项针对中国跨性别者进行的关于非自杀倾向自残行为（NSSI）的流行率和风险因素的横断面研究。研究由黄心蕊在西南大学心理学部主持，主要目的在于调查中国跨性别人群中NSSI的流行情况及其相关的心理健康问题。研究结果显示，在参与调查的703名跨性别个体中，63%的人报告有NSSI经历，跨性别女性的NSSI行为更为普遍，并且她们的焦虑水平高于男性，身体满意度和自尊水平较低。文中指出，改善跨性别者的心理健康问题和身体接受度有助于减少NSSI行为。此外，本文还强调了社会需要采取措施消除对跨性别者的社会歧视，以提升这一群体的自尊和社区归属感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -226,10 +226,10 @@ Table 3. Logistic regression with NSSI history as dependent variable, whereas BI
 | Size            | 42645 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 黄心蕊                               |
+| Region          | 中国                               |
+| Date            | 2022-01-28                                 |
+| Tags            | 跨性别者, 非自杀倾向自残行为, 心理健康, 社会歧视, 身体接受度, 跨性别女性, 研究, 风险因素, 自尊水平, 中国 LGBTQ 研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

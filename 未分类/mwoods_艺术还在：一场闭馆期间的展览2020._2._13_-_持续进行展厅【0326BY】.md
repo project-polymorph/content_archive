@@ -144,7 +144,7 @@ aaajiao (徐文恺), 阿洛拉&卡尔萨迪利亚, 安妮卡·埃里克森, 巴�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了《艺术还在：一场闭馆期间的展览》。该展览在木木美术馆推出，旨在通过线上平台持续展示艺术创作，尤其专注于生态、自然、消亡、隔离和亲缘关系等主题。这场展览的首个推出时间是2020年2月13日，至今仍在展示。展览中介绍了多位艺术家及他们的作品，包括朱拉亚农·西里彭的《鬼球》，一部通过数字摄影技术可视化超自然现象的实验电影；圭多·范·德·维沃的双频录像装置《第17号，从最深的海到最高的山》，通过人类极限挑战的行为表演来探讨常态与极限的关系。其他艺术作品涵盖了故事、影像和多种媒介，均在不同程度上探讨了人与自然、社会及自身认同的关系。文中还提及了参展艺术家的名单及联系方式。通过此次展览，木木美术馆希望提供一个反映当代艺术的窗口以及一个面对持续变化环境的艺术平台。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -157,10 +157,10 @@ aaajiao (徐文恺), 阿洛拉&卡尔萨迪利亚, 安妮卡·埃里克森, 巴�
 | Size            | 5941 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 木木美术馆                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-02-13                                 |
+| Tags            | 艺术展览, 在线艺术, 生态艺术, 跨文化对话, 新媒体艺术, 当代艺术, 文化反思, 社会环境, 艺术家访谈, 艺术作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

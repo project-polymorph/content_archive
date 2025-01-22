@@ -27,7 +27,7 @@ _(责编：李昉、王静)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要介绍了变性艺人金星的个人经历及其在娱乐圈的生活。金星于1995年进行了变性手术，从男性转变为女性，并在其转变过程中得到了来自家人和朋友的支持。文章详细讲述了金星的生活变化，尤其是在变性后所面临的机遇与挑战。金星曾在北京香山医院进行手术，心里做好了最坏的打算，但后来她感受到了周围人给予的温暖。此外，文章还提及了对变性者心理和社会接受度的讨论，以及与变性相关的一些社会现象和统计数据。文章不仅是对金星个人故事的讲述，也是对变性人群在社会中生存现状的记录。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@ _(责编：李昉、王静)_
 | Size            | 1363 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 网易女人                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-09-16                                 |
+| Tags            | 金星, 变性人, 娱乐圈, 个人经历, 生命故事, 性别认同, 社会支持, 变性手术, 心理健康, 女性艺术家                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

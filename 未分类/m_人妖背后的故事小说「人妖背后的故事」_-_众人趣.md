@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国人妖的生活与文化，揭示了人妖历史、教育、外貌与社会地位等方面的内容。人妖，作为一种独特的性别现象，通常来自贫困家庭，接受女性化的教育和训练，从小到大通过药物和手术进行身体的转变。文章详细描述了人妖的生活现状，心理状态以及社会对她们的歧视，强调了在法律上人妖被视为男性，但社会上仍然将她们当作女性对待。文章还讨论了她们的职业生涯、身体变化和经济状况，以及人妖面临的挑战，生存现状，以及在晚年时的困境，展示了一个深刻的社会现实。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 6223 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 众人趣                               |
+| Region          | 泰国                               |
+| Date            | 2023-05-28                                 |
+| Tags            | 人妖, 性别身份, 泰国文化, 生存现状, 女性化教育, 社会歧视, 变性手术, 经济困境, 心理健康, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

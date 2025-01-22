@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讨论了如何与青少年谈论和处理跨性别问题，特别是在学校环境中遇到性别混淆的情况下。它以家长的视角提出了一个具体的问题，家长们对孩子在公立高中中遇到的跨性别好友感到困惑和担忧。文中给出了一些建议，鼓励家长与青少年进行深入交流，创造一个安全且开放的环境，让他们能够表达自己的感受和情绪。同时，提供了一些具体的指导，比如如何引导孩子理解基督教的宽容和道德观念，如何与学校的工作人员有效沟通及获取相关资源。文章引用了基督教的理论作为处理这些复杂问题的框架，并推荐了一些相关网站和资源，以帮助家长更好地支持他们的孩子。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,10 +56,10 @@
 | Size            | 7170 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 爱家协会                               |
+| Region          | 美国                               |
+| Date            | 2017-01-01                                 |
+| Tags            | 青少年, 跨性别, 家庭关系, 基督教, 教育, 心理健康, 支持资源, 性别认同, 亲子沟通, 法律与政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

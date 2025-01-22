@@ -168,7 +168,7 @@ J.P.Morgan有一个项目叫做“Proud to Be”，自我认同为女同性恋�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了高盛公司内一位名为Maeve的变性经理的历程以及跨性别者在职场中的挑战和成就。Maeve初为男性Michael，后在高盛的支持下成功进行变性手术，并以她身份重新入职。文中提到高盛为性少数群体提供的支持，包括健康保险覆盖和员工满意度调查。与Maeve的积极经历相对的是一位名叫吴维的年轻公务员，他因公开身份而遭遇同事和家庭的歧视，甚至选择自杀。文章还讨论了在职场出柜的艰难选择及其对职业发展的潜在影响，以及包括高盛在内的其他公司促进性少数群体的平等机会的做法。最后总结了一些企业在包容性和多元化方面的先行措施，促进了LGBTQ群体的成长与发展。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -181,10 +181,10 @@ J.P.Morgan有一个项目叫做“Proud to Be”，自我认同为女同性恋�
 | Size            | 11660 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 小易                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 高盛, 变性人, 职场, 跨性别者, LGBTQ, 性少数群体, 法律政策, 医疗支持, 社会环境, 职场包容性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

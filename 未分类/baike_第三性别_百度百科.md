@@ -122,7 +122,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细介绍了“第三性别”的概念及其相关背景知识。第三性别是指除男性和女性外的所有性别，包括跨性别者、双性人和变性人等。文章指出，第三性别的概念在20世纪80年代开始被提出并传播，并讨论了其产生背景、起源追溯、各国对该概念的研究与立场等。文中涉及了不同国家对第三性别的法律和政策变化，如印度在选民登记中增加‘其它’性别选项，尼泊尔发放第三性别护照，澳大利亚在护照中增设第三种性别选择等。此外，文章汇总了许多对第三性别进行研究的著名机构和学者的观点，探讨了人类未来性别演变的可能性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -135,10 +135,10 @@
 | Size            | 9557 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 第三性别, 跨性别, 双性人, 变性人, 法律政策, 社会环境, 性别研究, 国际案例, 性别歧视, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

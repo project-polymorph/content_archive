@@ -83,7 +83,7 @@ PC/Switch
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了十大必玩美少女游戏，详细解析每款游戏的背景、玩法及其魅力所在。文章由中关村在线发布，作者是电玩墨客。美少女游戏通常融合了恋爱模拟、角色扮演与动作元素，通过精美的画面与引人入胜的剧情，吸引了众多玩家的关注。文章重点介绍了《罪恶少女2》、《真爱记录》、《闪乱神乐：少女们的证明》、《恋姬演武：辽来来》和《Clannad外传》等经典作品，强调了它们在美少女游戏领域中的独特地位与受欢迎程度。各款游戏包含丰富的故事情节和角色发展，玩家可在其中体验到甜蜜与刺激的情感交互以及战略性战斗，带来极致的游戏体验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,10 +96,10 @@ PC/Switch
 | Size            | 4565 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 电玩墨客                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 美少女游戏, 角色扮演, 恋爱模拟, 游戏评测, 二次元文化, 电子游戏, 视觉小说, PC游戏, PS Vita, 动漫                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

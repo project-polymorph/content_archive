@@ -45,7 +45,7 @@ _摄影 记者 崔锦宁_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了即将举行的2024年第25届首尔酷儿文化节的相关信息及背景。文章由记者崔锦宁撰写，报道了记者会上首尔酷儿文化节组织委员会对本届活动的介绍，包括节庆的历史、参展规模以及过往的成就。在首尔酷儿文化节的组织者Holic的发言中提到，今年是该节庆举办的第25周年，自2000年首次举办以来，累计吸引了大量观众，并成为韩国最大的非营利性民间节庆活动之一。通过多样的活动，如游行、电影放映、讲座和展览，该文化节为不同背景的人士提供了交流与沟通平台，促进了对多元文化的理解和接受。尽管面临不少挑战，包括多次申请场地被拒，但组织者仍坚决坚持举办本届文化节，以“YES, QUEER!”为口号，表达对性少数者认同和文化尊重的信念。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@ _摄影 记者 崔锦宁_
 | Size            | 3882 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 崔锦宁                               |
+| Region          | 韩国                               |
+| Date            | 2024-05-20                                 |
+| Tags            | 性少数, 酷儿文化节, 首尔, 文化多样性, 社会接受度, 性别认同, 非营利活动, 媒体报道, 多元文化, 韩国社会                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

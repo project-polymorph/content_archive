@@ -15,7 +15,7 @@
 - 所属系列：无从属系列
 - 文章进度：连载
 - 全文字数：31556字
-- 版权转化：尚未出版（[联系出版](//www.jjwxc.net/aboutus/#fragment-29)）
+- 版权转化：尚未出版（[联系出版](https://www.jjwxc.net/aboutus/#fragment-29)）
 - 签约状态：未签约
 - 作品荣誉：尚无任何作品简评
 
@@ -59,7 +59,7 @@
   发表时间：7年前  
   所评章节：12
 
-- 网友：[22263000](//www.jjwxc.net/onereader.php?readerid=22263000)  
+- 网友：[22263000](https://www.jjwxc.net/onereader.php?readerid=22263000)  
   评论：认真的看完了  
   打分：1  
   发表时间：7年前  

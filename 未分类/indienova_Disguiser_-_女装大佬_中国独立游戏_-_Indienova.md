@@ -152,7 +152,7 @@ _邮箱：_**qx18917917172@gmail.com**
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了一款名为《女装大佬 Disguiser》的中国独立游戏，游戏结合了潜入冒险与解谜元素，玩家将扮演一个哥哥，带着保护妹妹的使命，潜入女校并与黑暗势力作斗争。游戏的核心玩法是通过女装来获取在学校中的立足之地，并建立粉丝团，以便获取线索。游戏在画风、剧情与玩法上均做了创新与突破，旨在挑战对性别角色的固有印象，强调尊重与性别平等的主题。该游戏的背景设定在一个神秘的学校，玩家在探索中将揭开更多真相。这款游戏在设计上带有猎奇与幽默的元素，时刻考验玩家的隐蔽技能与社交策略。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -165,10 +165,10 @@ _邮箱：_**qx18917917172@gmail.com**
 | Size            | 4314 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 游戏, 女装, 性别, 独立游戏, 冒险, 潜入玩法, 社交互动, 粉丝文化, 性别认同, 游戏设计                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

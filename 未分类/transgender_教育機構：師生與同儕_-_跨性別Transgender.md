@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别学生在教育机构内面临的挑战与解决方案。首先，指出跨性别学生在校园中常常遭遇同侪霸凌和对性别意识不足的困扰，例如宿舍分配问题。文中以小花的故事为例，讲述了她的跨性别身份在高中时得到认可，但在大学中却面临因性别证件与实际性别不符而无法申请女生宿舍的困境。小花积极寻求支持，并最终成功入住女生宿舍，反映出学校在处理跨性别学生需求时的进步。这种经历不仅展示了学生与校方之间的沟通与协作，也强调了学校应更充分地理解并支持多元性别学生的需求，并改进相关政策。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@
 | Size            | 2161 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 教育, 校园经历, 同侪霸凌, 宿舍分配, 性别认同, 社会支持, 政策改进, 生活经验, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

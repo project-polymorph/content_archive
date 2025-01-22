@@ -124,7 +124,7 @@ LV.3
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是来自 KDays 论坛的一个关于伪娘角色月丘彰的活动归档帖子。帖子发布于2014年11月19日，由秋雨霜担任楼主。内容主要围绕月丘彰这一角色展开，他是一个代替双胞胎妹妹在女校就读的男生，性格乐观，面对与妹妹相关的事情总是会毫不顾虑地采取行动。帖子中包含角色的身体特征、性格介绍，以及一些回复中对角色的讨论和调侃。参与者们对于角色的外貌、声优等多方面进行了讨论，展现出一定的社群文化和对伪娘角色的支持。这一帖子体现了二次元文化中对性别表达和角色塑造的探索与支持，也是对伪娘文化的一种积极响应。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -137,10 +137,10 @@ LV.3
 | Size            | 3767 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 秋雨霜                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-11-19                                 |
+| Tags            | 伪娘, 月丘彰, 二次元文化, 角色讨论, 性别表达, 论坛活动, 漫画, ACG, 女子学园, 社区文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

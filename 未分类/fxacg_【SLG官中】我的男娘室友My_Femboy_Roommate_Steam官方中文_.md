@@ -73,7 +73,7 @@ Powered by [飞雪论坛](https://fxacg.cc/forum.html)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的男娘室友》是一款PC平台上的2D恋爱养成游戏，玩家在游戏中扮演刚搬到新城市的角色，与你的新室友罗宾共同生活。罗宾是一个自称为男娘的可爱直播者，游戏含有与多元性别相关的元素。游戏的叙述将围绕着玩家与罗宾之间的关系发展，探讨生活、情感以及性别认同等主题，旨在让玩家体验和理解跨性别者的生活状态与情感连接。该游戏具有一定的互动性，玩家的选择将直接影响角色之间的关系和游戏的剧情走向。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@ Powered by [飞雪论坛](https://fxacg.cc/forum.html)
 | Size            | 1740 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 勤奋哒火星人                               |
+| Region          | 未知                               |
+| Date            | 2024-10-31                                 |
+| Tags            | 男娘, 多元性别, 恋爱游戏, 性别认同, 生活故事, 情感连接, 跨性别, 互动性游戏, PC游戏, 2D游戏                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

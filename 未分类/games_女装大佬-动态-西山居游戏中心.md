@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![头像](//xoyo.xoyocdn.com/game-center/public/images/default-member-thumb-dfaf556c.png)
+![头像](https://xoyo.xoyocdn.com/game-center/public/images/default-member-thumb-dfaf556c.png)
 
 **推栏ID**：444298  
 **时间**：2018-05-30  
@@ -11,11 +11,11 @@
 
 恕在下斗胆，讨问各路小可爱一个问题，你们是怎么给武器精炼到8的？🌚有玄学这一说嘛
 
-![动态图片](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyVpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQ4IDc5LjE2NDAzNiwgMjAxOS8wOC8xMy0wMTowNjo1NyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1zbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzVCMkExQkM4RDA5MTFFQTlBNjA4QURBMzcwMkZFQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzVCMkExQkQ4RDA5MTFFQTlBNjA4QURBMzcwMkZFQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3NUIyQTFCQThEMDkxMUVBOUE2MDhBREEzNzAyRkVBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3NUIyQTFCQjhEMDkxMUVBOUE2MDhBREEzNzAyRkVBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pu7tqQsAAAAGUExURf///wAAAFXC034AAAABdFJOUwBA5thmAAAADElEQVR42mJgAAgwAAACAAFPbVnhAAAAAElFTkSuQmCC)
+[动态图片]
 
 ### 发表回复
 
-![头像](//xoyo.xoyocdn.com/game-center/public/images/default-member-thumb-dfaf556c.png)
+![头像](https://xoyo.xoyocdn.com/game-center/public/images/default-member-thumb-dfaf556c.png)
 
 **评论列表**：  
 - **[二两螺蛳粉](/blog/4059b074d55e421280074a7677dc2e00#)**  
@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了来自西山居游戏中心的一段动态信息，由一位用户名为“女装大佬”的玩家于2018年5月30日发布。内容围绕着游戏中的武器精炼技巧展开，作者向其他玩家询问如何将武器精炼到8，并表现出一种轻松幽默的态度。评论区内有多位玩家参与互动，共同分享他们的经验和建议。这表明该文件不仅是一则个人动态，更展示了一个线上游戏社区中玩家间的交流与合作。数据中包含多位用户的评论，展现了在线游戏文化中的社交元素。而且，文件中还嵌入了动态图片和表情符号，增强了信息的趣味性和表现力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@
 | Size            | 2794 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 女装大佬                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-05-30                                 |
+| Tags            | 女装大佬, 游戏动态, 西山居, 武器精炼, 玩家交流, 在线游戏, 幽默, 社区互动, 评论, 游戏技巧                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

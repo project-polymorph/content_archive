@@ -112,7 +112,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细列出了64个与性别认同和表达相关的术语，旨在帮助人们更好地理解和使用这些术语以支持自身及他人的性别认同。作者骡子通过对各种性别术语的定义与解释，探讨了多元性别的复杂性与多样性，包括了如'AGENDER'、'BIGENDER'、'GENDERFLUID'等重要概念。这些术语不仅帮助人们识别自己的性别身份，也促进了对其他性别认同的接纳和理解。文中强调了语言对于身份认同的重要性，指出在当今社会，尽管信息获取方式变得多元，但关于性别的全面和包容性资源仍显不足。通过这一文档，读者能够更深入地了解单一性别和非二元性别之间的差异，从而增强对性别谱系的认识。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -125,10 +125,10 @@
 | Size            | 6125 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 骡子                               |
+| Region          | 未知                               |
+| Date            | 2021-01-10                                 |
+| Tags            | 性别认同, 性别表达, 术语, 多元性别, LGBTQIA+, 非二元性别, 性别理解, 性别多样性, 文化接受, 社会动力                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

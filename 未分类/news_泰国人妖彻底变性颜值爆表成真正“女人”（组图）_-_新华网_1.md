@@ -23,7 +23,7 @@ Copyright XINHUANET.com　All Rights Reserved. 　制作单位：新华网 [版�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国人妖完成变性手术后，容貌大幅提升的 사례。通过各种图片展示了手术前后的对比，强调手术后其颜值达到了真正"女人"的标准，以至让其他女性羡慕。报道中提到，这种转变不仅是身体外观的变化，也反映出社会对变性者的认同与接受度。这篇文章还涉及到人妖文化在泰国的表现以及社会对性别认同的讨论，是对多元性别话题的生动记录。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@ Copyright XINHUANET.com　All Rights Reserved. 　制作单位：新华网 [版�
 | Size            | 788 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 钟玉岚                               |
+| Region          | 泰国                               |
+| Date            | 2016-01-25                                 |
+| Tags            | 变性, 人妖文化, 性别认同, 社会接受度, 医疗手术, 泰国, 新闻报道, 生存现状, 颜值, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇来源于《明报》的文章讲述了一位35岁双性人的生活困扰，他面临着女性身份和男性外表之间的冲突，受到了社会的偏见和异样的目光。从小，他在家庭和社会环境中都无法找到对应自己的性别认同，曾遭受无数的误解和困境。在经历了性别认同的探索后，他成功进行了性别重置手术，改名为男性，然而在这个过程中仍然遇到了多方面的挑战。文中提到，除了他个人的经历外，文章还强调了教育和认知多元性别的重要性，呼吁社会对性别认同问题的理解和接纳。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 3294 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 2024-11-03                                 |
+| Tags            | 双性人, 性别认同, 生活困扰, 性别重置手术, 社会偏见, 父母支持, 教育, 男性身份, 女性身份, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

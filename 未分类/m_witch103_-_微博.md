@@ -82,7 +82,7 @@
 
 我投给了“A.黄色”~ 池梓灿（池健聪）同学造谣并制作色情图片的行为极度不道德然而学校非但没有严肃处理此事反而选择包庇维护，所以我想讽刺这所学校的标志色就是“黄色”。“黄色”不仅是指色情的含义，也暗指学校在应对这些问题时态度暧昧、缺乏正气，给人一种不健康、不负责任的感觉
 
-[@浙江传媒学院](https://m.weibo.cn/u/1854671854?luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424): [#这船媒问题#](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&extparam=%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424) 浙江传媒学院的校标是什么颜色的？ [![](//h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png) 网页链接](http://t.cn/A6EmZVTQ)
+[@浙江传媒学院](https://m.weibo.cn/u/1854671854?luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424): [#这船媒问题#](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&extparam=%23%E8%BF%99%E8%88%B9%E5%AA%92%E9%97%AE%E9%A2%98%23&luicode=10000011&lfid=1005057494833629&featurecode=sinanews20170424) 浙江传媒学院的校标是什么颜色的？ [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png) 网页链接](http://t.cn/A6EmZVTQ)
 
 ---
 
@@ -126,7 +126,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为微博用户@witch103发布的多元性别相关事件讨论，包含多个论坛用户对近期事件的评论与互动，涉及热门话题李明德与马天宇的事件，引起了广泛的讨论。微博评论中提到了浙江传媒学院在处理有关学生传播不当行为案件中的处理方式，遭到公众的质疑和批评，认为校方在面对投诉时选择压热度、不处罚有错方，反映了校园风气和道德困境。讨论的内容不仅涉及明星个人行为的争议，也提及了更广泛的社会问题，比如女性权益和社会公正的问题。多个用户的评论中穿插了对社会现状的反思与对校园文化的关注，显示出公众对这些事件的不同看法和深刻的社会洞察。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -139,10 +139,10 @@
 | Size            | 9493 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 微博用户 @witch103                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-01-01                                 |
+| Tags            | 多元性别, 社会事件, 微博讨论, 浙江传媒学院, 女性权益, 社会公正, 医疗资源, 公共舆论, 校园文化, 法律问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

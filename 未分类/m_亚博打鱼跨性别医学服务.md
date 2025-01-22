@@ -9,9 +9,9 @@
 
 很高兴有Dr.Pooja Luthra和Britta亚博打鱼shute,FNP-BC,UCONN卫生局内分泌学导导理疗院位于法明顿校园内,可调用电话预约**[860-679-3245](tel:860-679-3245)**.
 
-[Pooja LuthraMDFE](//m.productshows.com/find-a-provider/physician/Luthra-Pooja)跨性别荷尔蒙理疗
+[Pooja LuthraMDFE](https://m.productshows.com/find-a-provider/physician/Luthra-Pooja)跨性别荷尔蒙理疗
 
-[布列塔shute,FNP-BC](//m.productshows.com/find-a-provider/physician/Shute-Britta)跨性别荷尔蒙理疗
+[布列塔shute,FNP-BC](https://m.productshows.com/find-a-provider/physician/Shute-Britta)跨性别荷尔蒙理疗
 
 ## 性别确认外科/附加治疗 { data-search-exclude }
 
@@ -19,33 +19,33 @@
 
 ### 耳鼻外科
 
-[丹尼斯拉夫涅尔MD](//m.productshows.com/find-a-provider/physician/Lafreniere-Denis)声音修改外科手术、犀利板术、减压甲状腺外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科
+[丹尼斯拉夫涅尔MD](https://m.productshows.com/find-a-provider/physician/Lafreniere-Denis)声音修改外科手术、犀利板术、减压甲状腺外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科外科
 
-[希拉里A新人MD](//m.productshows.com/find-a-provider/physician/Newsome-Hillary)闪存式犀牛填充器/BOTOX
+[希拉里A新人MD](https://m.productshows.com/find-a-provider/physician/Newsome-Hillary)闪存式犀牛填充器/BOTOX
 
 ### 通用词理学护理
 
-[布鲁克AHarnischMD](//m.productshows.com/find-a-provider/physician/Harnisch-Brooke)测试松置换常规极光护理
+[布鲁克AHarnischMD](https://m.productshows.com/find-a-provider/physician/Harnisch-Brooke)测试松置换常规极光护理
 
-[StantonhonigMD](//m.productshows.com/find-a-provider/physician/Honig-Stanton)初级性别确认外科MtF(双边orichectomies)修改外科MtF-尿室和外部实验问题、节育咨询和服务MtF(sperm加密)、长动作睾丸粒子或试贝(Brand命名)转介、常规urlogic护理
+[StantonhonigMD](https://m.productshows.com/find-a-provider/physician/Honig-Stanton)初级性别确认外科MtF(双边orichectomies)修改外科MtF-尿室和外部实验问题、节育咨询和服务MtF(sperm加密)、长动作睾丸粒子或试贝(Brand命名)转介、常规urlogic护理
 
 ### 妇科
 
 下院认证妇科医生向变性病人提供全科妇科护理、oophortectomy、子宫切除术、月经抑制法、怀孕预防法和产前护理
 
-[Ramzi AlkassMD](//m.productshows.com/find-a-provider/physician/Alkass-Ramzi)[香农LDegroffMD](//m.productshows.com/find-a-provider/physician/DeGroff-Shannon)[丹妮尔ELucianoMD](//m.productshows.com/find-a-provider/physician/Luciano-Danielle)[克里斯托弗M莫洛斯基MD](//m.productshows.com/find-a-provider/physician/Morosky-Christopher)[大卫H公园 D.O](//m.productshows.com/find-a-provider/physician/Park-David)
+[Ramzi AlkassMD](https://m.productshows.com/find-a-provider/physician/Alkass-Ramzi)[香农LDegroffMD](https://m.productshows.com/find-a-provider/physician/DeGroff-Shannon)[丹妮尔ELucianoMD](https://m.productshows.com/find-a-provider/physician/Luciano-Danielle)[克里斯托弗M莫洛斯基MD](https://m.productshows.com/find-a-provider/physician/Morosky-Christopher)[大卫H公园 D.O](https://m.productshows.com/find-a-provider/physician/Park-David)
 
 ### 脉冲学
 
-[Madina FalconeMDMS](//m.productshows.com/find-a-provider/physician/Falcone-Madina)脑膜外科
+[Madina FalconeMDMS](https://m.productshows.com/find-a-provider/physician/Falcone-Madina)脑膜外科
 
 ### Pelvic物理处理
 
-[Cathy Trahiotis,P.T.M.A](//m.productshows.com/find-a-provider/physician/Trahiotis-Catherine2)色素感应和呼吸、骨盆稳定人工理疗、PFM松绑和处理、疤分感知释放、下端极度拉伸、运动缺陷评估、术前连接组织工作
+[Cathy Trahiotis,P.T.M.A](https://m.productshows.com/find-a-provider/physician/Trahiotis-Catherine2)色素感应和呼吸、骨盆稳定人工理疗、PFM松绑和处理、疤分感知释放、下端极度拉伸、运动缺陷评估、术前连接组织工作
 
 ### 塑胶/胶片外科
 
-[吉利安LFortierMD](//m.productshows.com/find-a-provider/physician/Fortier-Jillian)乳房扩增、乳房切除/男性乳房裁剪、面部脂肪搭接、面部填充器
+[吉利安LFortierMD](https://m.productshows.com/find-a-provider/physician/Fortier-Jillian)乳房扩增、乳房切除/男性乳房裁剪、面部脂肪搭接、面部填充器
 
 ### 语音解析
 
@@ -53,13 +53,13 @@
 
 StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-SLP
 
-[更多了解语音咨询所](//m.productshows.com/otolaryngology/services/voice-and-speech-clinic/)
+[更多了解语音咨询所](https://m.productshows.com/otolaryngology/services/voice-and-speech-clinic/)
 
 ## 资源类 { data-search-exclude }
 
 [UConn](javascript:void\(0\);) _扩展_
 
--   [病人权利和责任声明](//m.productshows.com/policies/wp-content/uploads/sites/28/2019/12/Attachment-A-Statment-of-Patient-Rights.pdf)
+-   [病人权利和责任声明](https://m.productshows.com/policies/wp-content/uploads/sites/28/2019/12/Attachment-A-Statment-of-Patient-Rights.pdf)
 -   [彩虹中心](https://rainbowcenter.uconn.edu)
 
 [社区](javascript:void\(0\);) _扩展_
@@ -96,13 +96,13 @@ StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-
 
 [高级生殖服务中心](https://www.uconnfertility.com/lgbtq-family-building/)保留生育力,保护密码精子,鸡蛋,子宫内受精,体外受精
 
-![包容性护理徽章](//m.productshows.com/wp-content/uploads/2020/09/inclusive-care-badge-150x150.png)
+![包容性护理徽章](https://m.productshows.com/wp-content/uploads/2020/09/inclusive-care-badge-150x150.png)
 
 ### 相关链接
 
--   [访问者资源](//m.productshows.com/plan-your-visit/visitor-resources/)
--   [部处](//m.productshows.com/patient-services/all-departments-and-services/)
--   [病人和访客泊车](//m.productshows.com/park/patient-and-visitor/)
+-   [访问者资源](https://m.productshows.com/plan-your-visit/visitor-resources/)
+-   [部处](https://m.productshows.com/patient-services/all-departments-and-services/)
+-   [病人和访客泊车](https://m.productshows.com/park/patient-and-visitor/)
 -   [取住院外科巡回](https://youtu.be/TjN04B7J-dU)
 <!-- tcd_original_link https://m.productshows.com/patient-services/transgender-medicine-services -->
 
@@ -110,7 +110,7 @@ StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了亚博打鱼UCONN健康组织为跨性别和性别不兼容社区成员提供的跨性别医学服务。它描述了组织的使命，以及提供的各种医疗服务，包括性别确认荷尔蒙治疗、性别确认外科手术和相关医疗支持。文中列出了多位提供相关医疗服务的专业医师和他们的联系方式。服务范围不仅包括基础医疗护理，还涵盖了耳鼻喉外科、妇科、声带治疗等多个领域，为跨性别患者提供多元化的支持和必须的医疗服务。此外，文章还提供了许多相关资源和链接，帮助患者了解和获取更多信息，比如权利声明、支持团体，以及跨性别人士的医疗指南等。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,10 +123,10 @@ StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-
 | Size            | 6652 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | UCONN健康组织                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别医疗, 医疗服务, 荷尔蒙治疗, 性别确认手术, LGBTQIA+, 健康组织, 亚博打鱼, 耳鼻喉科, 女性健康, 跨性别资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了位于泰国芭堤雅的阿尔克萨人妖秀（ALCAZAR Cabaret），其被认为是泰国三大必看的人妖秀之一。文中详细描述了演出的精彩内容，舞者们的表现风格以及演出时间和票务信息等。阿尔克萨人妖秀集合了顶尖的人妖舞者，以欧美风格的舞蹈和表演为主，结合搞笑串场及互动游戏，大大丰富了观众的观赏体验。演出包括多个精彩节目，如《Wondrous World》、《Aqua Playa》及《Le Jazz Hot》等。此外，文章还提供了详细的票务购买信息和特别注意事项，使观众能够顺利参与这一独特的文化活动。芭堤雅的阿尔克萨人妖秀不仅仅是一场表演，更是泰国文化的重要体现，吸引了来自世界各地的游客。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@
 | Size            | 3170 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 人妖秀, 阿尔克萨人妖秀, 芭堤雅, Cabaret表演, 文化体验, 演出活动, 旅游服务, 票务信息, 外国文化, 娱乐节目                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

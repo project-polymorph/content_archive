@@ -50,7 +50,7 @@ GB/T 7714
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章讨论了阴道成形术的研究进展及未来展望，特别强调了该手术在处理先天性无阴道（如MRKH综合征）、盆腔廓清术后的阴道缺失或狭窄以及跨性别男性希望进行变性手术方面的重要性。文中指出，先天性无阴道的发生率大约为1/4000至5000。此外，文章还提到阴道成形术的各种技术及其效果，并引用了相关文献以展现该领域的研究成果和发展历程。文章的归属单位为首都医科大学附属北京妇产医院，其作者包括郝焰和吴霞，文章发表于《中微创外科杂志》2012年第09期。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@ GB/T 7714
 | Size            | 2233 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 郝焰、吴霞                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-09-01                                 |
+| Tags            | 阴道成形术, 性别重置手术, MRKH综合征, 医学研究, 妇科, 男性变性, 医疗资源, 生殖健康, 中国微创外科, 学术期刊                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

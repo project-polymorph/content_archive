@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//i0.hdslb.com/bfs/banner/de18e1dee602d33bd52d9132847592c8c40025c9.png)
+![图片](https://i0.hdslb.com/bfs/banner/de18e1dee602d33bd52d9132847592c8c40025c9.png)
 
 来源: 哔哩哔哩  
 标签: 多元性别

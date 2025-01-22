@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了LGBTQ+卫生保健中心的服务及其对LGBTQ+患者的承诺，强调患者的健康和幸福为中心的服务理念。文件内容包含对LGBTQ+社区成员的尊重、支持和关怀，并呼吁患者在医疗过程中分享他们的性别代词，以创造一个开放和安全的就医环境。此外，文件列出了多个与LGBTQ+社区健康相关的资源和组织，帮助患者获取必要的医疗服务和支持。整个文件传达了对多元性别群体的包容性和对其健康关注的承诺。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -82,10 +82,10 @@
 | Size            | 4343 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ+, 卫生保健, 医疗服务, 心理健康, 社区资源, 性别认同, 医疗支持, 健康教育, 变性人服务, 女性健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

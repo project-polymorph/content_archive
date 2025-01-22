@@ -93,7 +93,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了泰国权威变性手术医生潘皮斯麦的背景、职业成就以及她在跨性别医疗领域的贡献。潘医生作为整形与重建外科的专家，拥有超过十年的临床经验，并以其腹膜阴道成形术在国际上崭露头角。她的手术不仅确保了美观和功能性，还提升了术后患者的满意度。文件中详细列出了潘医生的教育背景、发表过的医学论文以及在多个医院的任职情况。她在跨性别手术领域的权威地位，吸引了许多寻求变性手术的患者来泰国就医。此外，文件还涉及了她在跨性别健康卓越中心（CETH）会议上的发言及对跨性别女性进行性教育的实际建议。文末提供了与潘医生的联系信息，强调她对患者需求的重视和对手术严谨性的承诺。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -106,10 +106,10 @@
 | Size            | 6554 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2022-11-04                                 |
+| Tags            | 跨性别, 变性手术, 泰国, 潘皮斯麦, 整形外科, 生殖健康, 医学教育, 性别确认手术, 患者满意度, 临床研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

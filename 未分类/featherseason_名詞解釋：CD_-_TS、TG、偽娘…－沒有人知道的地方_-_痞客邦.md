@@ -85,7 +85,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于多元性别相关名词的详细解释，涵盖了诸多与跨性别及变装文化相关的术语。本文件分为多个部分，首先定义了不同名词的含义，例如CD（变装者）、TS（跨性别者）、TG（跨性别者的总称）、以及其他如同性恋（gay）、女同性恋（lesbian）、酷儿（queer）等词汇。解释中指出，变装的目的不仅是为了穿着异性的服装，也是一种自我表达的方式。此外，文中对各个术语之间的联系和区别进行了深入的探讨，例如CD与TS的不同，以及CD与gay的关系。
+
+文章最后强调了社会对于这些名词的理解和接受度如何影响多元性别人士的生活，反映了社会环境对于跨性别和变装者的包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -98,10 +100,10 @@
 | Size            | 5450 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | featherseason                               |
+| Region          | 台湾                               |
+| Date            | 2010-11-24                                 |
+| Tags            | 多元性别, 跨性别, 变装, CD, TS, TG, LGBT, 酷儿, 医学名词, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

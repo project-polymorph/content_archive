@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《love×love 伪娘》是一部于2014年上映的日本微电影，由佐古俊介导演。影片围绕伪娘与伪娘之间的禁忌恋爱展开，讲述了不能喜欢上伪娘的故事。影片的主要演员包括本川翔太、矢口空等，整体类型为爱情短片，特别聚焦于同性之间的情感纠葛。故事情节呈现出极富想象力的画面，通过模拟美丽伪娘的恋爱体验，渲染了BL（男男恋）文化的独特魅力。影片时长为41分钟，增添了日语对话的文化深度。该资料或许反映了当时在日本对伪娘及其文化的逐渐接受与关注，也为了解多元性别文化提供了有价值的视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 2050 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 2014-04-18                                 |
+| Tags            | 伪娘, 微电影, BL文化, 爱情短片, 同性恋, 日本文化, 性别多元, 情感故事, 电影评论, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

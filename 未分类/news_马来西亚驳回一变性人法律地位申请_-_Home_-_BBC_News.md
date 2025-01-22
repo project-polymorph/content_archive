@@ -43,7 +43,7 @@ BBC中文网 - 产品与服务
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了马来西亚一名变性人黄秋蓉在法律上要求承认其男性身份的申请遭到拒绝的案例。法官星甘认为，生理特征与生俱来，不能通过心理测试来决定性别，认为该请求需通过议会裁定。报道中提到，马来西亚的变性人法律处于灰色地带，缺乏相关法规来支持性别重新鉴定的请求。尽管变性手术在该国合法，但仍有法律限制，导致变性人无法在法律上获得应有的性别身份。此外，当地的变性人组织呼吁法律改革，以允许个人自由选择性别，但社会上对此问题的观点普遍保守，使得这一改革的难度增加。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,10 +56,10 @@ BBC中文网 - 产品与服务
 | Size            | 2549 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 肯特，BBC驻吉隆坡记者                               |
+| Region          | 马来西亚                               |
+| Date            | 2004-11-05                                 |
+| Tags            | 变性人, 法律地位, 马来西亚, 性别认同, 社会政策, 性别权益, 变性手术, 法律判断, 生理特征, 性别选择权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

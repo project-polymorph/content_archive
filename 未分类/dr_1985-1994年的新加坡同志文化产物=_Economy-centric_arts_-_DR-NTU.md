@@ -51,7 +51,7 @@ Items in DR-NTU are protected by copyright, with all rights reserved, unless oth
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了1985年至1994年间新加坡同志文化的艺术产物，特别是同志剧场的发展与国家经济的关系。文章指出，尽管同志话题在新加坡社会中一直相对敏感，但在80年代末至90年代中期，随着政府艺术政策的实施和审查制度的松动，同志主题的戏剧开始浮现。同志表演不仅丰富了新加坡的艺术形式，还成为推动经济的重要工具，帮助国家塑造良好的国际形象，吸引外资，促进旅游业发展。本文通过引用皮埃尔·布迪厄的文化资本理论，分析了国家如何通过资助艺术团体与审查制度来控制艺术场域，并利用这种文化资本推动经济发展。此外，作者提到，当同志表演脱离经济效益后，面临的禁止和惩罚风险加大。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,10 +64,10 @@ Items in DR-NTU are protected by copyright, with all rights reserved, unless oth
 | Size            | 3853 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陈贤馥（Chan, Denis Xian Fu）                               |
+| Region          | 新加坡                               |
+| Date            | 2015-01-01                                 |
+| Tags            | 新加坡, 同志文化, 艺术, 经济关系, 同性恋, 文化资本理论, 80年代, 90年代, 社会变化, 表演艺术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

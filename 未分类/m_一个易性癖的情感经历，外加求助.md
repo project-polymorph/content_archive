@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于一位易性癖者的情感经历的分享，作者通过自身经历探讨了性别认同和情感体验对其个人生活的影响。文章以叙述的方式讲述了作者从孩童时代到大学期间与性别身份相关的烦恼与困惑。在学校生活中，作者遭受了困扰，例如无法正常使用公共厕所以致于形成的心理负担，以及与同学之间的互动。在情感方面，作者回忆了初恋的甜蜜与苦涩，讲述了与高中同学的复杂情感交织。整篇文章深刻揭示了多元性别群体在情感和社会关系中的挑战与挣扎，同时表达了对自身性别认同的渴望和对外界偏见的抗争。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -90,10 +90,10 @@
 | Size            | 6914 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 孙eggs                               |
+| Region          | 未知                               |
+| Date            | 2015-11-10                                 |
+| Tags            | 易性癖, 性别认同, 情感经历, 心理负担, 初恋, 社会偏见, 多元性别, 青春困惑, 成长故事, 个人叙述                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

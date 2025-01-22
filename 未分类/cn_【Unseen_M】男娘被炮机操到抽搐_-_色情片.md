@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段名为《男娘被炮机操到抽搐》的色情视频，其主题围绕一位穿着女性化服装的男娘（sissy boy）与炮机之间的互动。视频的观看次数达到了130K，并且获得了91%的高评分。文件中包含了视频的关键细节，如上传时间为2年前，视频时长为02:23，以及插图和视频评论等信息。评论区展示了观众的热切反应和对内容的高度关注，同时还包含了一些咖啡色的调侃留言。该视频的发布者为Unseen_M，主要以分享类似具有争议性的成人内容而著称。除了视频内容之外，文件还涉及了多个标签，反映了性别多元的表现形式。此类素材在多元性别表达和性别认同的讨论中扮演了重要角色。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 2055 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 色情片, 性别多元, 成人内容, 炮机, sissy boy, 观众评论, 亚洲人, 调教, Unseen_M                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

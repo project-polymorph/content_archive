@@ -17,7 +17,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了日本最美变性人走红的故事，并回顾了全球变性人所经历的坎坷历程。文章首先介绍了美国加州的一名变性人斯科特·莫尔，以及他与配偶托马斯共同经历的变性手术和成为父亲的故事。斯科特通过人工授精怀孕，成为全世界第二个“怀孕父亲”。文章通过这一案例，展示了变性人面临的社会与个人挑战，同时引发了对性别认同、家庭构成和社会接受度的深度思考。该文本不仅是对个体故事的总结，也是对全球变性人群体生存现状的一个反映，探讨了变性与社会认同、法律和政策之间的关系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -30,10 +30,10 @@
 | Size            | 1578 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 光明网                               |
+| Region          | 未知                               |
+| Date            | 2015-03-18                                 |
+| Tags            | 变性人, 变性美女, 父亲, 母亲, 日本民众, 变性手术, 怀孕父亲, 性别认同, 家庭构成, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

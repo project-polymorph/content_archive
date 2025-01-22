@@ -129,7 +129,7 @@ _“_影片《阿莉芙》亮点很突出，Sherry葬礼上老吴的控诉，阿
 
 ![边缘人物](https://bkimg.cdn.bcebos.com/pic/b17eca8065380cd7fd1179b5ae44ad345982815f)
 
-[阿莉芙](//wapbaike.baidu.com/tashuolist/%E9%98%BF%E8%8E%89%E8%8A%99/22150347?fromModule=tashuo-article_bottom-lemma-list)
+[阿莉芙](https://wapbaike.baidu.com/tashuolist/%E9%98%BF%E8%8E%89%E8%8A%99/22150347?fromModule=tashuo-article_bottom-lemma-list)
 
 本文仅代表作者个人观点，不代表百度百科立场。
 <!-- tcd_original_link https://wapbaike.baidu.com/tashuo/browse/content?id=e3ce1325376470e731416f1e -->

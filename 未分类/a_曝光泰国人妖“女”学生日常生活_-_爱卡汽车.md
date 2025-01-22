@@ -24,7 +24,7 @@ IP属地: 湖南
 时间: 2009-09-17  
 IP属地: 湖南
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAADklEQVQIW2NkQAOMBAUAAJkABB99l1EAAAAASUVORK5CYII=)
+[图片]
 
 泰国清迈技术学校里有15名“人妖”学生，由于总是受到男同学和女同学的冷落，他们希望能够拥有属于自己的厕所，前不久他们终于梦想成真。
 
@@ -32,7 +32,7 @@ IP属地: 湖南
 时间: 2009-09-17  
 IP属地: 湖南
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAADklEQVQIW2NkQAOMBAUAAJkABB99l1EAAAAASUVORK5CYII=)
+[图片]
 
 这个厕所被人们称为“粉红莲花厕所”，仅供这15名“人妖”学生使用，里面有4个蹲位，没有小便池。厕所门上挂着男女两性的标志。这所学校位于曼谷以北580公里，学校的负责人波萨旁说：“这些学生早上一来就会使用女厕所，但女学生会不高兴，她们便给他们搞恶作剧。”“人妖”学生在学校里必须穿着男装，但却可以留女式发形，如果他们走进男厕所，便会遇到更多的麻烦。波萨旁说：“男同学会嘲笑和追打他们，最终他们只能哭泣。”于是，波萨旁专门为他们设计了一间厕所，让其他学生尽管用自己的厕所。
 
@@ -40,7 +40,7 @@ IP属地: 湖南
 时间: 2009-09-17  
 IP属地: 湖南
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAADklEQVQIW2NkQAOMBAUAAJkABB99l1EAAAAASUVORK5CYII=)
+[图片]
 
 人妖学生和其他同学讨论问题
 
@@ -51,7 +51,7 @@ IP属地: 湖南
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细描述了泰国的一所学校中，一群被称为“人妖”的学生的日常生活及其面临的挑战。这篇文章讨论了泰国的文化背景中，人妖这一群体的存在和社会接受度，以及学校为这些学生专门设立的厕所的影响。作者提到，这所学校是清迈技术学校，里面有15名“人妖”学生，他们在日常生活中受到其他同学的冷落与嘲笑，因此希望能够有一个属于自己的空间。为了满足这一需求，学校负责人波萨旁特意为他们打造了“粉红莲花厕所”，这个厕所仅供这15名“人妖”使用，从而让他们在使用时不再遭受其他同学的嘲弄。此外，文章还提到人妖表演在泰国旅游产业中的地位以及社会整体对人妖群体的包容态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,10 +64,10 @@ IP属地: 湖南
 | Size            | 2589 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | csgglove1                               |
+| Region          | 泰国                               |
+| Date            | 2009-09-17                                 |
+| Tags            | 人妖, 泰国文化, 学校生活, 性别认同, 社会接受度, 厕所问题, 学生权益, 文化差异, 性别多元, 人妖表演                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

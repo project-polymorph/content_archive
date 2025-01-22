@@ -12,13 +12,13 @@
 
 系统维护中，博文仅作者可见。登陆后可查看本人文章。
 
-![新浪博客](//simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif)  
+![新浪博客](https://simg.sinajs.cn/blog7style/images/common/topbar/topbar_logo.gif)  
 ![](//simg.sinajs.cn/blog7style/images/common/loading.gif)  
 
 ---
 
 版权 © 1996 - 2022 SINA Corporation, All Rights Reserved  
-新浪公司 [版权所有](//www.sina.com.cn/intro/copyright.shtml)  
+新浪公司 [版权所有](https://www.sina.com.cn/intro/copyright.shtml)  
 <!-- tcd_original_link https://blog.sina.com.cn/s/articlelist_1572472157_5_1.html -->
 
 

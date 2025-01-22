@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性手术后男变女个体能否怀孕的问题。根据潘柏林整形外科副主任医师的观点，目前的性别重置手术主要通过切除阴茎、阴囊和睾丸，并再造阴道，因此无法实现卵巢移植或子宫再造的技术。这意味着男变女的个体在经历性别重置手术后，生育能力会遭到永久性丧失。作者强调在手术前需与受术者充分沟通，告知他们手术后的生育状况，以便他们能有心理准备和相应的规划。文中还包括了警告，提醒读者此内容无法替代医生面诊，如有身体不适，建议尽快就医。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,10 +38,10 @@
 | Size            | 1237 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 潘柏林整形外科副主任医师                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-09-02                                 |
+| Tags            | 变性手术, 生育问题, 性别重置, 医疗信息, 性别认同, 生育能力, 女性生育, 生育咨询, 健康教育, 医学资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

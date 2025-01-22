@@ -46,7 +46,7 @@ D669
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为对中国医学科学院整形外科医院性别重塑中心首席专家陈焕然博士的访谈，作者魏晶晶对此进行了详细的采访与分析。文章探讨了性别的定义及其在社会与医学中的多重含义，强调了性别重塑中心在实现性别认同和促进性别多样性方面的重要作用。文中提到，"性别"不仅仅是生理上的男性或女性，还包括个人的身份认同和社会角色，陈博士提出了性别认同与其心理状态之间的复杂关系。通过对至少十篇相关文献的引用，本文展示了性别研究的多样化以及在中国社会中对待性别话题的逐步开放和重视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@ D669
 | Size            | 1971 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 魏晶晶，中国人口报社                               |
+| Region          | 中国大陆                               |
+| Date            | 2002-02-01                                 |
+| Tags            | 性别重塑, 性别认同, 跨性别, 心理性别, 性别研究, 中国医学科学院, 女性健康, 医学伦理, 社会环境, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

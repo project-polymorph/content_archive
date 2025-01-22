@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《男娘养成系统》是由作者程潇超屌创作的一部连载小说，描绘了一个有关男娘角色成长的故事。小说通过主人公的视角展现了宅男文化与多元性别身份之间的鲜明碰撞，带有幽默和励志的色彩。作品包含多个章节，目前已有三章更新，其中涉及的情节包括宅男出没以及在男宿舍中的互动。作者初次尝试写作，表达了希望通过这本书传递正能量和个人梦想的愿望。此书在988字的篇幅内，已经吸引了不少读者关注，形式上结合了网络小说的特点，具有一定的娱乐性和社会讨论性，适合关注性别多元与文化表现的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@
 | Size            | 2058 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 程潇超屌                               |
+| Region          | 未知                               |
+| Date            | 2024-08-18                                 |
+| Tags            | 男娘, 多元性别, 网络小说, 宅男文化, 励志, 成长故事, 小说连载, 性别表现, 文学艺术, 文化探讨                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

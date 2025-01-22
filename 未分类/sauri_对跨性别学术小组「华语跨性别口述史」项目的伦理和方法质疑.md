@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是对跨性别学术小组发起的「华语跨性别口述史」项目在伦理和方法论上的质疑。文章开头介绍了该项目的背景和目标，意在记录和分享中国跨性别者的经历和历史。作者提到自己在该项目中的参与经验，并对项目的组织管理、伦理审查和方法论提出一系列批评。特别是，作者指出项目存在伦理委员会缺失、访谈者专业性不足、对创伤事件的处理不当等问题。作者希望在保持对跨性别叙事的收集同时，能强化伦理审核和方法论的专业性，以确保受访者的权益和数据的正确使用。最后，作者提出了若干改进建议，期望新项目能够在伦理、组织结构等方面更为严谨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 6541 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 北雁书                               |
+| Region          | 未知                               |
+| Date            | 2024-10-07                                 |
+| Tags            | 跨性别, 口述史, 伦理问题, 声音, 社会研究, 方法论, 受访者权益, 跨性别者经历, 社区记忆, 学术审查                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

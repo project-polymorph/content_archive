@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件记录了作者在泰国观看人妖秀的经历与感受，探讨了人妖表演在泰国旅游业的重要性，以及人妖的生活背景和社会状况。文章描述了人妖秀的热闹场景和观众反应，同时也表现了对人妖现状的同情和对其短命的忧虑。作者回忆了自己在中国和泰国观看人妖秀的不同体验，并深入探讨了人妖所面临的社会与身体的双重困境。人妖作为出租劳动力背负着社会与经济的双重压力，且因长期服用女性荷尔蒙而导致的健康问题更是令人揪心。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,10 +87,10 @@
 | Size            | 8103 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 在水一方                               |
+| Region          | 泰国                               |
+| Date            | 2012-09-25                                 |
+| Tags            | 人妖秀, 泰国旅游, 生命故事, 性别认同, 社会环境, 医疗资源, 法律政策, 生存现状, 艺术表达, 经历分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

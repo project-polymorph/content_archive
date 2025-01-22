@@ -14,7 +14,7 @@
 - **所属系列**：2018完结
 - **文章进度**：完结
 - **全文字数**：680198字
-- **版权转化**：尚未出版（[联系出版](//www.jjwxc.net/aboutus/#fragment-29)）
+- **版权转化**：尚未出版（[联系出版](https://www.jjwxc.net/aboutus/#fragment-29)）
 - **签约状态**：已签约
 - **作品荣誉**：2018年年中/年终盘点优秀作品
 
@@ -24,21 +24,21 @@
 
 ## 内容标签 { data-search-exclude }
 
-- [穿越时空](//www.jjwxc.net/bookbase.php?bq=60)
-- [系统](//www.jjwxc.net/bookbase.php?bq=122)
-- [快穿](//www.jjwxc.net/bookbase.php?bq=125)
-- [爽文](//www.jjwxc.net/bookbase.php?bq=137)
-- [轻松](//www.jjwxc.net/bookbase.php?bq=262)
+- [穿越时空](https://www.jjwxc.net/bookbase.php?bq=60)
+- [系统](https://www.jjwxc.net/bookbase.php?bq=122)
+- [快穿](https://www.jjwxc.net/bookbase.php?bq=125)
+- [爽文](https://www.jjwxc.net/bookbase.php?bq=137)
+- [轻松](https://www.jjwxc.net/bookbase.php?bq=262)
 
-![主角](//static.jjwxc.net/images/basic/main_role.png) ![视角](//static.jjwxc.net/images/basic/main_view.png)
+![主角](https://static.jjwxc.net/images/basic/main_role.png) ![视角](https://static.jjwxc.net/images/basic/main_view.png)
 
 **主角**：程羽
 
-![互动](//static.jjwxc.net/images/basic/relation_right_to_left.png?ver=240613)
+![互动](https://static.jjwxc.net/images/basic/relation_right_to_left.png?ver=240613)
 
 **配角**：雪童子
 
-![配角](//static.jjwxc.net/images/basic/costar.png)
+![配角](https://static.jjwxc.net/images/basic/costar.png)
 
 **其它**：阴阳师，综武侠，综仙侠
 

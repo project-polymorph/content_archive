@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![壹点灵心理测试](//static.ydlcdn.com/zj/mobile/images/ydl-m-logo.png)
+![壹点灵心理测试](https://static.ydlcdn.com/zj/mobile/images/ydl-m-logo.png)
 
 ### 测评介绍
 
@@ -253,7 +253,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了壹点灵心理性别测试的相关信息，包含测评介绍、测评须知和用户评论等内容。测评旨在帮助参与者更好地认识自己的心理性别，并提供相应的报告和建议。测试可重复购买，且每次测试仅限一次，参与者在完成测试后可随时查看个人报告。用户的评价显示，整体评分高达4.9分，尤其在题目易懂性和结果准确性方面得分均为4.8分，反馈普遍积极，用户认为测试效果显著，有助于自我认识。用户评论中提到，测试结果与个人感受相符，也反映了多元性别的认同与理解，特别是针对性别认同和性取向的探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -266,10 +266,10 @@
 | Size            | 10438 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 壹点灵                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 心理性别, 性别认同, 测试, 自我认识, 用户反馈, 心理健康, 多元性别, 测评介绍, 社交评价, 性取向                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -408,7 +408,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位17岁跨性别少年黄晓迪的真实故事。黄晓迪不喜欢自己的男性身体，渴望得到家庭的理解与支持，但却面临着来自家庭和社会的压力。他曾多次选择逃离家庭，寻找自我认同。文章中详细描绘了他的逃亡经历，描述了他与父母的关系，以及在这条跨性别道路上的艰辛与挣扎。在他的故事中，其他跨性别者的经历也被提及，强调了他们在寻求认同和支持过程中所经历的苦难与渴望。此外，文章还探讨了家庭成员与跨性别者关系的重要性，并呼吁社会对跨性别群体的包容与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -421,10 +421,10 @@
 | Size            | 35218 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 记者/佟晓宇 实习记者/李晶晶 甘笠男                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-07-02                                 |
+| Tags            | 跨性别, 家庭关系, 社会压力, 心理健康, 性别认同, 逃逸经历, 医疗资源, 社会支持, 性别置换手术, 青少年困境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

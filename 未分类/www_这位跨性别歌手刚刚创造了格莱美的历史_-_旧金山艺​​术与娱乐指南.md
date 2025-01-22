@@ -7,7 +7,7 @@
 
 金·佩特拉斯和山姆·史密斯获得了格莱美最佳流行二人组/组合合作奖。图片来源:Emma McIntyre / Getty Images
 
-金·佩特拉斯创造了历史[2023年格莱美奖](//www.t1mobile.com/music/grammys-2023-how-to-watch-the-awards-show-and-whos-performing)于2月5日，周日，成为第一个变性艺术家获得最佳流行组合/组合合作奖[萨姆·史密斯](https://www.sfchronicle.com/music/article/Music-Sam-Smith-melts-hearts-in-Oakland-5788848.php)因为他们的歌曲“邪恶”。
+金·佩特拉斯创造了历史[2023年格莱美奖](https://www.t1mobile.com/music/grammys-2023-how-to-watch-the-awards-show-and-whos-performing)于2月5日，周日，成为第一个变性艺术家获得最佳流行组合/组合合作奖[萨姆·史密斯](https://www.sfchronicle.com/music/article/Music-Sam-Smith-melts-hearts-in-Oakland-5788848.php)因为他们的歌曲“邪恶”。
 
 身着红色礼服点亮红毯后，三位艺术家一起走上舞台领奖，史密斯在后面站着，佩特拉斯拿着麦克风，观众起立鼓掌。
 
@@ -21,7 +21,7 @@
 > 
 > \- Tomás Mier (@Tomas\_Mier)[2023年2月6日](https://twitter.com/Tomas_Mier/status/1622418751907045378?ref_src=twsrc%5Etfw)
 
-她还感谢了[麦当娜,](//www.t1mobile.com/music/madonna-is-coming-to-s-f-heres-how-to-get-tickets-for-her-concert)在随后的节目中，他介绍了两人激烈的现场表演“Unholy”，为什么作为LGBTQ权利的支持者。
+她还感谢了[麦当娜,](https://www.t1mobile.com/music/madonna-is-coming-to-s-f-heres-how-to-get-tickets-for-her-concert)在随后的节目中，他介绍了两人激烈的现场表演“Unholy”，为什么作为LGBTQ权利的支持者。
 
 麦当娜的开场白不负众望:“我在这里感谢所有的反叛者，”她说。“你的无畏并没有被忽视。”
 
@@ -29,7 +29,7 @@
 
 “我在德国一条高速公路旁长大，”她说，“我母亲相信我，我是个女孩，如果没有她、她的支持和所有相信我的人，我不可能走到今天。”
 
-这是史密斯第五次获得格莱美奖。最佳流行组合/团体表演奖项的其他竞争者包括卡米拉·卡贝洛和艾德·希兰的《Bam Bam》，酷玩乐队和[BTS](//www.t1mobile.com/music/with-packed-bts-shows-and-bambam-joining-the-warriors-the-bay-area-has-become-a-k-pop-hot-spot)“《我的宇宙》，波斯特·马龙和Doja Cat的《我喜欢你(一首更快乐的歌)》。
+这是史密斯第五次获得格莱美奖。最佳流行组合/团体表演奖项的其他竞争者包括卡米拉·卡贝洛和艾德·希兰的《Bam Bam》，酷玩乐队和[BTS](https://www.t1mobile.com/music/with-packed-bts-shows-and-bambam-joining-the-warriors-the-bay-area-has-become-a-k-pop-hot-spot)“《我的宇宙》，波斯特·马龙和Doja Cat的《我喜欢你(一首更快乐的歌)》。
 
 佩特拉斯是第一位获得该奖项的跨性别女性，她是电子音乐作曲家[温迪卡洛斯](https://www.sfchronicle.com/entertainment/article/Plugged-In-to-the-Music-Pioneering-electronic-2974207.php)1969年，她成为首位获得格莱美奖的跨性别女性，当时她获得了三项奖项。
 
@@ -50,10 +50,10 @@ Beyoncé也感谢LGBTQ社区在舞蹈音乐类型上的创新。
 _美联社对这篇报道也有贡献。_
 
 ### 有关的故事
-- [Beyoncé打破了格莱美记录，现在是获奖最多的艺术家](//www.t1mobile.com/music/beyonce-breaks-grammys-record-is-now-most-decorated-artist)
-- [Beyoncé赢得3次格莱美奖，维奥拉·戴维斯的胜利使她成为EGOT](//www.t1mobile.com/music/grammy-winner-viola-davis-makes-her-an-egot)
-- [鲍比·麦克费林一生都在探索新的音乐世界](//www.t1mobile.com/music/bobby-mcferrin-on-a-lifetime-of-breaking-into-new-musical-universes)
-- [2023年格莱美颁奖礼:如何观看颁奖礼，谁在表演](//www.t1mobile.com/event/classical/opera-san-jose-falstaff/)
+- [Beyoncé打破了格莱美记录，现在是获奖最多的艺术家](https://www.t1mobile.com/music/beyonce-breaks-grammys-record-is-now-most-decorated-artist)
+- [Beyoncé赢得3次格莱美奖，维奥拉·戴维斯的胜利使她成为EGOT](https://www.t1mobile.com/music/grammy-winner-viola-davis-makes-her-an-egot)
+- [鲍比·麦克费林一生都在探索新的音乐世界](https://www.t1mobile.com/music/bobby-mcferrin-on-a-lifetime-of-breaking-into-new-musical-universes)
+- [2023年格莱美颁奖礼:如何观看颁奖礼，谁在表演](https://www.t1mobile.com/event/classical/opera-san-jose-falstaff/)
 
 作者: [艾丁·瓦齐里](https://www.sfchronicle.com/author/aidin-vaziri/)  
 来源: 《旧金山纪事报》  

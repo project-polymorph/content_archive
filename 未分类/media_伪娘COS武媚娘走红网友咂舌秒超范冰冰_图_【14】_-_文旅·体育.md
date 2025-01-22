@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件展示了一位伪娘在网络上COS（角色扮演）著名的历史人物武媚娘而受到广泛关注的事件。文章讲述了在2015年1月14日，这位伪娘以其出色的装扮在社交媒体上走红，相比于其他女明星范冰冰，得到了网友们的高度评价和热议。通过生动的图片和幽默的语言，文章体现了当时社交媒体对于性别表现多样性的接受度和公众的反应。文件还提供了相关链接，进一步引导读者探索与此事件相关的其它报道，反映了当代社交媒体文化与多元性别表现之间的关系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 1833 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网-娱乐频道                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-01-14                                 |
+| Tags            | 伪娘, COS, 武媚娘, 范冰冰, 性别表现, 网络文化, 角色扮演, 社会现象, 娱乐新闻, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

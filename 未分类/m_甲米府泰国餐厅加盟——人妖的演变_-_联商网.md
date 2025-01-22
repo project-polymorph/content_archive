@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了泰国人妖的起源和历史演变。作者首先提到人妖的概念与印度阉人的历史相联系，详细描述了在莫卧儿帝国时期，军中阉人作为阴阳人负责照顾女性的历史背景。随着时间的推移，阉人以其特有的生理特征成为市场上备受青睐的角色，最终在泰国生根发芽。文章还讨论了泰国独特的文化背景如何促进人妖的出现，尤其是泰国对性文化的开放态度。文本中提到人妖的生存状态，使读者了解到在现代社会中，人妖身份的复杂性和挑战，尤其在法律认定上，体现出社会对于性别认同的多元的理解与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@
 | Size            | 3360 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | zeroliu                               |
+| Region          | 泰国                               |
+| Date            | 2015-05-22                                 |
+| Tags            | 人妖, 性别多元, 泰国文化, 阉人, 历史演变, 社会接受, 性别认同, 身份认同, 医疗资源, 生活现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

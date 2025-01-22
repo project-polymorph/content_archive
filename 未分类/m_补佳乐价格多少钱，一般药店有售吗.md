@@ -8,7 +8,7 @@
 日期：2023-02-07  
 阅读人数：3478  
 
-![广东亮健好药房连锁有限公司，认证信息](//image.360lj.com/guide/common/img/lj_v.png)
+![广东亮健好药房连锁有限公司，认证信息](https://image.360lj.com/guide/common/img/lj_v.png)
 
 补佳乐戊酸雌二醇片是一种天然的雌激素。有部分读者朋友会对此有疑问，补佳乐是天然的雌激素，价格会很贵吗？下面我们来解答一下：补佳乐价格多少钱，一般药店有售吗这两个问题。
 
@@ -21,9 +21,9 @@
 以上就是对“补佳乐价格多少钱？一般药店有售吗？”的疑问解答信息，若对其他药品有疑问的话请拨打电话400-0183-80，亮健好药网药师会为您提供专业的意见。亮健好药网温馨提示：建议患者朋友用药需要严格遵循医嘱，在使用每种药品前应仔细阅读其说明书，了解其用法用量、禁忌、不良反应等信息，避免病情加重或产生副作用。
 
 共有4人分享  
-![微信分享](//image.360lj.com/2020/10/double11/videodetail/weixin.png) ![微博分享](//image.360lj.com/2020/10/double11/videodetail/sina.png) ![QQ空间分享](//image.360lj.com/2020/10/double11/videodetail/qq.png) ![QQ分享](//image.360lj.com/2020/10/double11/videodetail/qq2.png)
+![微信分享](https://image.360lj.com/2020/10/double11/videodetail/weixin.png) ![微博分享](https://image.360lj.com/2020/10/double11/videodetail/sina.png) ![QQ空间分享](https://image.360lj.com/2020/10/double11/videodetail/qq.png) ![QQ分享](https://image.360lj.com/2020/10/double11/videodetail/qq2.png)
 
-![97人点赞.png](//image.360lj.com/2020/10/double11/videodetail/dz.png) ![97人点赞.png](//image.360lj.com/2020/10/double11/videodetail/dz2.png) 共有97人点赞
+![97人点赞.png](https://image.360lj.com/2020/10/double11/videodetail/dz.png) ![97人点赞.png](https://image.360lj.com/2020/10/double11/videodetail/dz2.png) 共有97人点赞
 
 标签: 相关问答
 <!-- tcd_original_link https://m.360lj.com/drugguide/fuke/29142.html -->
@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了补佳乐（戊酸雌二醇片）的市场价格及其在药店的购置情况。补佳乐是一种天然的雌激素，主要用于女性的激素替代疗法。文章详细解答了公众对于补佳乐的价格疑问，指出其市场价格一般在32元至48元之间，具体价格受地域和物价影响。补佳乐由拜耳医药保健有限公司生产，存在其他未命名的同类药物，价格可能会有所差异。文章还提到，患者可在正规医院和药店凭处方购买补佳乐，也可在网上药店购买，并强调了在用药时遵循医嘱的重要性。文末鼓励读者在使用药物前，应仔细阅读说明书，以避免副作用或病情加重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,10 +45,10 @@
 | Size            | 2477 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 小吴                               |
+| Region          | 未知                               |
+| Date            | 2023-02-07                                 |
+| Tags            | 补佳乐, 戊酸雌二醇片, 药物信息, 药店购买, 医疗资源, 激素替代疗法, 健康咨询, 在线药店, 药品价格, 用药安全                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

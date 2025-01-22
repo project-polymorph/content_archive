@@ -74,7 +74,7 @@ Medicaid 承保其他手术，例如隆胸手术、面部女性化手术等，�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为法律援助协会提供的一份指南，详细介绍了纽约州Medicaid对过渡相关护理的承保范围。文件中指出，Medicaid承保包括激素治疗（如青春期抑制剂和跨性别激素）、相关手术及其他医疗程序，并强调接受这些服务的要求，例如需要诊断为性别焦虑症并必须证明治疗的医学必要性。指南特别强调，若是未成年人，则需父母的同意才能接受治疗。同时，文件提供了关于如何获得手术和激素治疗保险的详细程序，列出了需要的医学证明材料。另有有关申诉权利的说明，确保患者在遇到保险申请被拒时能够有所行动。通过这份文件，患者可以更好地理解自己在治疗过程中的权利与义务。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,10 +87,10 @@ Medicaid 承保其他手术，例如隆胸手术、面部女性化手术等，�
 | Size            | 7589 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 法律援助协会                               |
+| Region          | 美国                               |
+| Date            | 2019-XX-18                                 |
+| Tags            | Medicaid, 过渡护理, 纽约州, 性别焦虑症, 激素治疗, 手术保险, 医疗必要性, 未成年人医疗, 法律援助, 患者权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

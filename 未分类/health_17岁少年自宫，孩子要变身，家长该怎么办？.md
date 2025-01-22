@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了一位17岁少年自行切除睾丸以实现性别转变的事件，并由广州医科大学附属第一医院的临床心理科主任余金龙提供了专业的分析和建议。文章解释了性别认同障碍及其根源，指出该少年所经历的‘自宫’行为属于易性癖的范畴。余金龙强调了易性癖的产生可能与幼年时期的生活经历有关，并提到不应轻易为其贴上‘易性癖’的标签。此外，文章还提示伴随这种心理状态的患者应寻求专业心理支持，避免自行施行危险的行为，如注射激素或动手术，而家庭的理解和接纳则是至关重要的。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 5168 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 羊城晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-04-12                                 |
+| Tags            | 性别认同, 易性癖, 性心理, 心理健康, 青春期, 医疗建议, 家庭支持, 广州, 性别转变, 自我伤害                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

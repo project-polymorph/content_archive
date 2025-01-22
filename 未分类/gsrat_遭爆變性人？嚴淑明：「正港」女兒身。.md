@@ -108,7 +108,7 @@ TVBS 2005/12/07
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了艺人严淑明在2005年12月被媒体指控为变性人的一系列事件。内容涵盖了相关的新闻报道和她的辩护。在事件初期，严淑明被港媒曝出曾经在变性手术前为夜总会陪酒女，媒体利用其年轻时的照片来质疑她的女性身份。严淑明在多个场合中公开否认了这些指控，并通过提供出生证明等方式维护自己的身份，强调自己是真实的女性。报道中也展示了对她言论的反响，涉及对她私人生活的探讨以及各界人士的评价，并引发了关于变性、性别身份和社会认知的广泛讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -121,10 +121,10 @@ TVBS 2005/12/07
 | Size            | 3730 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 东森新闻报及其他媒体                               |
+| Region          | 台湾                               |
+| Date            | 2005-12-07                                 |
+| Tags            | 严淑明, 变性人, 性别身份, 媒体争议, 夜总会陪酒, 性别权利, 社会讨论, 法律辩护, 跨性别, 公众形象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

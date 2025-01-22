@@ -70,7 +70,7 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一个讨论男性跨性别者相关小说的推荐帖，主要记录了由用户羽翼在起点中文网上的发言。羽翼分享了几部关于男性跨性别主题的小说，包括《变身女神狂想曲》、《都市之我不想做女装大佬啊》、《好一段撒狗血的缘分》等，还提到了几部现代跨性别小说和跨性别演员李李仁的演出经历。文中包含了多位用户的推荐与交流，旨在为寻找男性跨性别者小说的读者提供参考，强调了跨性别主题在文学创作中的体现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 | Size            | 4349 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 羽翼                               |
+| Region          | 未知                               |
+| Date            | 2023-10-24                                 |
+| Tags            | 跨性别, 男性跨性别者, 小说推荐, 性别认同, 文学艺术, 网络文学, 故事, 性别转化, 轻小说, 跨性别主题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

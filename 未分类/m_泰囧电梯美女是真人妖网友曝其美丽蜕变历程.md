@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了在电影《泰囧》中出现的电梯美女Rose的故事，她是一位泰国的变性人（人妖），在影片中因其美丽的外形而受到广泛关注。Rose在成为电影热潮的一部分之前，通过整形手术进行了多次美容改造。文章详细描述了Rose的整形经历，包括她在广东的一家整形美容医院进行的多项美容项目，如激光脱毛和玻尿酸隆鼻等。通过电影的成功和广大网友的讨论，Rose成为了一个备受关注的公众人物。整形行业的迅速发展帮助了她及许多其他人实现了美丽的蜕变，激发了公众对整形的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 3116 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 缤丽网                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-12-27                                 |
+| Tags            | 多元性别, 变性人, 整形手术, 泰国人妖, 泰囧电影, 美容经历, 大众文化, 社会舆论, 媒体报道, 个人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

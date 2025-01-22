@@ -172,7 +172,7 @@ _《月光男孩》_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了漫威在其电影和电视系列中对LGBTQ角色的处理，尤其是即将推出的与黑人女同角色Debrii相关的美剧《新勇士》。文章指出，虽然漫威漫画早已引入多元性别角色，但在电影中却缺乏这样的表现，反映了其在市场考量与政治正确之间的挣扎。此外，文章还对比了DC和漫威在LGBTQ代表性方面的不同态度，认为DC在这一领域的开放程度远超漫威，同时探讨了当今社会对多元性别表达的需求及其在商业电影中的影响。尤其提到，自2015年美国最高法院裁定同性婚姻合法化以来，同志电影开始迎来“黄金时代”，多部涉及LGBTQ内容的影片获得越来越多的关注和认可。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -185,10 +185,10 @@ _《月光男孩》_
 | Size            | 12207 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 界面新闻                               |
+| Region          | 广东                               |
+| Date            | 2017-05-08                                 |
+| Tags            | LGBTQ, 漫威, 新勇士, 同志角色, DC电影, 多元性别, 社交媒体, 电影评论, 文化研究, 性别政治                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

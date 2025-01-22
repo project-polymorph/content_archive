@@ -115,7 +115,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件标题为《性别意识形态101 - Parents Defending Education》，主要讨论了在美国教育体系内性别意识形态的推广及其影响。文章阐述了当前学校教育中批判性性别理论的地位，指出许多学校正教授学生性别是可塑的，与生理性别无关。这种意识形态的支持者将‘男人’、‘女人’等术语与生理性别完全脱钩，以性别认同来定义。文章还介绍了性别支持计划及其在学校实施的情况，强调这些计划如何支持学生选择其性别认同，而许多家长对此并不知情。文中提到了一些特殊利益集团（如GLSEN、计划生育协会等），这些组织推动将性别意识形态纳入学校课程，并与学校合作，推广相关的医疗和教育方案。最后，作者提供了一些建议，告诫家长如何应对学校中的性别倡导现象，包括提出信息自由法案请求、参加学校董事会会议等。整体上，该文深入探讨了性别意识形态在美国教育系统中的传播、相关的法律和社会问题，以及父母如何参与维护教育理念的权利。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -128,10 +128,10 @@
 | Size            | 13816 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Parents Defending Education                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性别意识, 性别认同, 教育政策, 美国教育, 批判性性别理论, 家长权益, 性别支持计划, 性别教育, 特殊利益集团, 法律与社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

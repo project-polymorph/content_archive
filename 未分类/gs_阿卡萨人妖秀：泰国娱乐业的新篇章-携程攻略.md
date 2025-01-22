@@ -78,7 +78,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了阿卡萨人妖秀这一知名的泰国娱乐项目，强调了其在泰国旅游业中的特殊地位。阿卡萨人妖秀以精彩绝伦的表演而闻名，每年吸引成千上万的游客前来观看。内容中包含了演出的具体信息和旅行建议，诸如如何办理签证、使用WiFi电话卡、交通工具的选择以及外币兑换等，适合前往泰国的游客参考。此外，文中提到本秀在芭堤雅排名第17位，是游客在当地必打卡的景点之一，评分高达4.6分。这些信息为想要体验泰国多元文化的游客提供了详尽的参考和指引。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,10 +91,10 @@
 | Size            | 1540 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 携程社区                               |
+| Region          | 泰国                               |
+| Date            | 2023-11-02                                 |
+| Tags            | 阿卡萨人妖秀, 泰国娱乐, 旅游攻略, 演出信息, 生活方式, 文化体验, 表演艺术, 游客推荐, 芭堤雅, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

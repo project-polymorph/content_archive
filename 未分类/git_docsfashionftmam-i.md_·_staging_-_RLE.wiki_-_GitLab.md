@@ -118,7 +118,7 @@ WPATH 提供了许多医疗机构（包括保险公司）在为跨性别者、�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档探讨了跨性别者的身份认同和自我探索的方法。它涵盖了跨性别者的定义，包括跨性别女性、跨性别男性、性别酷儿等多种身份，强调个人对自身性别认同的探索至关重要。文中提到一些常见问题，例如身体性别与性别认同的关系，以及如何判断自己是否是跨性别者，还建议通过与可信赖的人沟通、咨询心理医生以及进行真实生活体验（RLE）来深入了解自己。本文还讨论了性别不一致的医学分类，并强调跨性别者不是精神病患者的观点，提供了WPATH组织的医疗指导信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,10 +131,10 @@ WPATH 提供了许多医疗机构（包括保险公司）在为跨性别者、�
 | Size            | 6776 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 真实生活体验, 性别表达, 跨性别男性, 心理支持, 性别焦虑, WPATH, ICD-11, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道讲述了一名香港男子陆×扬（29岁）的极端自残事件。男子因对自己生理性别感到不满，选择用剪刀自残进行自宫，导致严重受伤和极度痛苦。事件发生在2013年1月6日，当时他的父亲因为听到凄惨的尖叫声而被惊醒，紧急报警送医。医生指出，虽然案例中的阴茎未被完全割断，但受伤极为严重，需接受数小时的接驳手术。警方初步调查发现，事主有变性倾向，曾表示“不想做男人”，怀疑其可能患有“性别认同障碍（Gender Identity Disorder）”。该文详细探讨了性别认同障碍的概念，以及相关的医疗和心理支持资源，反映了多元性别者在香港社会面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@
 | Size            | 3869 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网-港澳频道                               |
+| Region          | 香港                               |
+| Date            | 2013-01-06                                 |
+| Tags            | 自残, 性别认同障碍, 变性, 心理健康, 社会报道, 医疗资源, 男性转女性, 自杀事件, 性别多元, 香港新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

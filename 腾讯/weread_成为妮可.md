@@ -63,7 +63,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《成为妮可》是由艾米·埃利斯·纳特撰写的一部纪实文学作品，讲述了一个关于跨性别者妮可的真实故事。故事通过个人日记、家庭录像、新闻报道和法律文件，真实再现了妮可从一个性别困惑的男孩到最终自信地成为女孩的转变过程。作品深刻反映了传统社会对跨性别者的偏见与不理解，以及妮可的家庭如何在社会压力下逐渐学习接受和支持她的选择。随着时间的推移，妮可在父母、兄弟及法律的支持下，成功地完成了性别转变，并最终实现了内心的自我认同。书中不仅探讨了跨性别者的心理历程，也展示了他们所面临的外部挑战与心理斗争，是一本值得每个人关注的作品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,10 +76,10 @@
 | Size            | 10182 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 艾米·埃利斯·纳特                               |
+| Region          | 美国                               |
+| Date            | 2021-01-01                                 |
+| Tags            | 跨性别, 纪实文学, 性别认同, 家庭支持, 社会偏见, 成长故事, 心理斗争, 法律保护, 文化争议, 真实故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

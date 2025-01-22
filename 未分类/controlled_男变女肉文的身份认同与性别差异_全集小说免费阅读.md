@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章以穿越题材为背景，讲述了一位普通大学生穿越回民国时期的黄埔军校一期的经历与感悟。文章不仅展现了黄埔军校的历史与教育理念，还深入描述了学员们艰苦的训练过程、面临的挑战以及革命思想的灌输。作者通过生动的叙述，让读者感受到当时的艰辛与热血，探讨了黄埔军校在中国近现代历史中重要的地位，特别是它对当代青年的影响与启迪。文中也提到了一些知名校友如蒋介石和宋庆龄，强调了画时代的教育理念与青年责任感的传承。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@
 | Size            | 3884 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 穿越小说, 民国, 黄埔军校, 文化历史, 教育理念, 军事训练, 青年发展, 革命精神, 校友, 社会责任                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

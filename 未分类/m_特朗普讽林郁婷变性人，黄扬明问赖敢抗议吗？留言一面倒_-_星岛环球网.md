@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了共和党籍美国总统候选人特朗普近期对变性人发言的争议。在巴黎奥运期间，特朗普公开称有两名变性选手参加女性拳击赛事，明显暗指台湾拳击手林郁婷与阿尔及利亚拳手凯利夫。此言论引发了媒体人黄扬明的关注，他在社交平台上询问赖清德是否会对此采取抗议。网民们对此事大多持负面看法，认为赖清德不敢与特朗普对抗。林郁婷对此回应称，社会应该允许不同的声音，不必过度解读此事。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@
 | Size            | 2040 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-08-19                                 |
+| Tags            | 特朗普, 林郁婷, 变性人, 拳击, 巴黎奥运, 黄扬明, 赖清德, 社会舆论, 性别议题, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

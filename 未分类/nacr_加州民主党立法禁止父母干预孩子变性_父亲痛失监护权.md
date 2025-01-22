@@ -244,7 +244,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了加州近期的法律变化，尤其是州长加文·纽森签署的AB1955法案，该法案禁止学校在未经学生同意的情况下告知家长学生的性取向或性别认同。这项法律被视为对父母权利的侵犯，特别是在涉及儿童性别认同和医疗干预方面。作者通过案例分析，探讨了这一法律的影响，引述了高等法院法官乔妮·平本（Joni Hiramoto）对父亲泰德·胡达科的监护权剥夺的判决，指出父亲因为反对对儿子施行变性而丧失了监护权。这反映了变性意识形态在法律系统中的渗透，以及父母面临的困境和法律方法的缺失。文中提到的多个案例显示，面对变性问题时，父母的声音和权利正受到日益严重的威胁。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -257,10 +257,10 @@
 | Size            | 45436 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Victoria / 加州家庭理事会                               |
+| Region          | 美国                               |
+| Date            | 2024-07-29                                 |
+| Tags            | 多元性别, 跨性别, 法律变更, 父母权利, 性别意识形态, 2024年AB1955法案, 加州, 监护权, 性别认同, 儿童保护                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

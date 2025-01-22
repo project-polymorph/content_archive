@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了异装癖这一性变态现象，阐述了患者的心理状态及其对异性装扮的欲望。文章中描绘了一个名为闫波的年轻人的故事，他从小就对女性身份充满向往，并逐渐在大城市中以‘伪鸡’的身份出入于同性恋者之间，为了生存而妥协自己的性别认同。故事的高潮部分展示了一个凶残的情节，闫波因其性别认同被误认为女性而遭到抢劫和杀害。警方在调查后发现了死者的身份及其背后的悲剧，文章引发对流动性别身份、社会偏见和暴力行为的反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@
 | Size            | 6390 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-12-21                                 |
+| Tags            | 异装癖, 性别认同, 社会偏见, 性别暴力, 心理状态, 生存故事, 性社会学,  LGBT 文化, 犯罪与法律, 都市生活                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

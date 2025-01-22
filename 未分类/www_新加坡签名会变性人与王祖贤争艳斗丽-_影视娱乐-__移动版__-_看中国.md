@@ -22,13 +22,13 @@
 
 看到这么多支持自己的新加坡朋友，王祖贤笑着表示：“很高兴，尤其是看到他们都那么健康。”
 
-![image1](//img6.secretchina.com/pic/2024/10-2/p3545031a601285350.jpg)
+![image1](https://img6.secretchina.com/pic/2024/10-2/p3545031a601285350.jpg)
 
-![image2](//img6.secretchina.com/pic/2024/11-2/p3556881a508884777.jpg)
+![image2](https://img6.secretchina.com/pic/2024/11-2/p3556881a508884777.jpg)
 
-![image3](//img6.secretchina.com/bigpic/2024/11-4/p3557701a911506510.jpg)
+![image3](https://img6.secretchina.com/bigpic/2024/11-4/p3557701a911506510.jpg)
 
-![image4](//img6.secretchina.com/pic/2024/11-2/p3556891a661087618.jpg)
+![image4](https://img6.secretchina.com/pic/2024/11-2/p3556891a661087618.jpg)
 
 版权所有，任何形式转载需本站授权许可。
 <!-- tcd_original_link https://www.secretchina.com/news/gb/2001/10/17/104484.html -->

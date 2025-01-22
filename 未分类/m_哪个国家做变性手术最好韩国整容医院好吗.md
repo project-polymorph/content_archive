@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了变性手术的相关信息，特别关注于韩国整形医院的优劣，尤其是哪些医院提供的服务质量以及哪些医生评价较高。文章提到，许多人在考虑变性手术时都会询问哪个国家的手术效果最佳，而韩国因其整形行业发达，成为很多寻求变性手术的人的选择。文中还列举了一些在韩国受欢迎的整形医院及其擅长的项目，帮助读者了解如何获取医生的联系方式和相关信息。此外，文件中也提供了一些与整形手术相关的热门文章链接，展示了网络上对整形手术的不同讨论和观点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 1377 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-10-01                                 |
+| Tags            | 变性手术, 整形医院, 韩国整容, 医疗资源, 过渡经历, 求医指南, 整形评估, 生存现状, 性别认同, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

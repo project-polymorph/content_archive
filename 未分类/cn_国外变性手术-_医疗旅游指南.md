@@ -81,7 +81,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是关于变性手术（性别重建手术）的医疗旅游指南，重点介绍了海外进行变性手术的医院、诊所和医疗中心，尤其是泰国的然禧医院。内容详细阐述了变性手术的过程、原因以及手术的类型，包括男变女和女变男的具体步骤和相关准备。这篇文章中提到，变性手术的主要目的在于帮助个体根据其心理体验与身体性别之间的差异进行生理上的转变。此外，文章讨论了变性手术后的性满意度、潜在风险及术后护理的重要性。文章还提供了其他国家的变性手术信息，以及变性手术相关的医疗资源和参考链接，旨在为需要此类手术的个体提供实用的参考和指导。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -94,10 +94,10 @@
 | Size            | 4942 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别重建手术, 医疗旅游, 然禧医院, 男变女手术, 女变男手术, 性满意度, 风险与并发症, 医疗资源, 海外医院                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

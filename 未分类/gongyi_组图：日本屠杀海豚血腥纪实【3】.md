@@ -44,7 +44,7 @@ _(责编：史雅乔、毕磊)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细记录了日本屠杀海豚的血腥过程。尽管这种捕杀行为受到国际社会的严重谴责和抗议，但日本仍坚持认为捕杀海豚是合法的商业行为，能带来巨额利益。文章中附带了多张日本捕杀海豚时的现实图片，展现了海水被鲜血染红的惨状，让人感到震撼与愤怒。文中还提到日本对这种行为的辩解，以及国际社会对其强烈反对的声音，反映出法律政策与社会环境的复杂性。此外，文章提供了相关的延伸阅读材料，帮助读者更深入地理解这一人道主义危机。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@ _(责编：史雅乔、毕磊)_
 | Size            | 2134 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球网                               |
+| Region          | 日本                               |
+| Date            | 2014-02-08                                 |
+| Tags            | 海豚屠杀, 日本捕杀, 动物保护, 国际谴责, 人道主义危机, 法律政策, 商业行为, 鲜血染红, 生存现状, 海洋生物保护                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

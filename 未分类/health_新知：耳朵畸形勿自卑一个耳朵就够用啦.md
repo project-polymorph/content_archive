@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了耳朵畸形及其对患者的影响，强调公众对耳朵畸形和听力之间关系的误解。耳朵作为重要的感知器官，畸形或缺损的情况在社会中较为普遍，造成心理和生理的双重压力。郭树忠教授介绍了耳再造4.0技术，借助3D打印技术，可以在耳朵再造中实现个性化和自然的外观，极大地增强了患者的自信。对于因耳缺损而感到自卑的患者，耳再造手术提供了希望。文章结合实际案例，展示了耳朵畸形患者的日常生活和职业选择，证明大多数耳朵畸形患者在生活和工作中基本没有障碍。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@
 | Size            | 5110 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网-人民健康网                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-07-27                                 |
+| Tags            | 耳朵畸形, 耳再造, 心理健康, 医疗技术, 郭树忠, 听力, 自信重建, 整形外科, 3D打印技术, 患者生活经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

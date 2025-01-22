@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了联合国人权高专皮莱在2012年11月对印度尼西亚的考察访问，主要关注印尼的宗教和性别歧视问题。皮莱在雅加达举行的记者会上赞扬了印度尼西亚政府在民主转型和人权促进方面的努力，但同时强调该国在宗教信仰和性别歧视方面的严重问题，尤其是与《伊斯兰教法》的实施相关的残酷处罚。此外，皮莱向媒体表达了她对艾哈迈迪耶教、基督教、什叶派等宗教群体所遭受的暴力和歧视的深切关心，指出亵渎神明法等法律应尽快进行修正。她呼吁印尼当局加强对脆弱群体的保护，以应对日益严重的社会问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 2838 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 联合国人权高专                               |
+| Region          | 印度尼西亚                               |
+| Date            | 2012-11-13                                 |
+| Tags            | 人权, 性别歧视, 宗教歧视, 《伊斯兰教法》, 人权高专, 艾哈迈迪耶教, 新闻报道, 社会问题, 法律政策, 国际人权法规                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

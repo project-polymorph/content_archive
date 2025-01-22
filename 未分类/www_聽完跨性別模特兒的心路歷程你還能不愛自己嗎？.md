@@ -15,7 +15,7 @@ by [Titi Chen](https://www.marieclaire.com.tw/author/55/Titi Chen) - 2019/08/10�
 
 在2013年的Marc Jacobs 大秀上，因為一頭蓬鬆的紅捲髮以及厭世臉一戰成名，當時也與Miley Cyrus共同出鏡年度廣告大片。
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Xw8AAoMBgDTD2qgAAAAASUVORK5CYII=)
+[图片]
 
 成為時裝設計師愛用的名模，也拍攝了為數不少的形象廣告及時裝雜誌。
 

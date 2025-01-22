@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了多元性别及两性畸形的定义和分类。首先讨论了先天性和假两性畸形的概念，强调这两种畸形在生殖器特征上同时具有男性和女性的特征。先天性两性畸形是因孕期受到影响而导致的生殖器发育异常，例如女性可能会出现男性特征或男性则会逐渐女性化。假两性畸形则描述了内生殖器官与外生殖器外观不一致的情况，包括男性和女性的假两性畸形。文章还介绍了真两性畸形，以同时存在卵巢和睾丸的患者为例，普通情况下外生殖器表现为混合型，治疗则根据功能状态决定，应切除不必要的生殖腺。论及新生儿的人为干预和医疗必要性，提醒读者及时就医。最后提供了建议和相关医疗资源链接。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 3919 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 两性畸形, 生殖器特征, 医疗资源, 法律政策, 社会环境, 医学知识, 先天性疾病, 假两性畸形, 真两性畸形                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

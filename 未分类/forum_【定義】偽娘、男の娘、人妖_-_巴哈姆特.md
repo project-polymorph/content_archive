@@ -58,7 +58,7 @@ __版權：__ 本站所刊載之圖文內容等版權皆屬原廠商或原作者
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了"偽娘"、"男の娘"和"人妖"三个词的定义及其背后的文化含义。"偽娘"通常指那些生理上是男性但外表像女性的人，起源于二次元文化，特别是在ACG（动画、漫画、游戏）界中，具有独特的发展历史。文中提到，"偽娘"一词早期出现在手塚治虫的作品中，并在2005年之后通过一些游戏而流行。文中分析了"男の娘"与"偽娘"的文化差异，指出前者强调心态，而后者更侧重于外貌。同时，"人妖"一词常常带有歧视色彩，逐渐被"偽娘"所取代，代表了对这些次文化标签的重新审视。此外，文章还提供了一些关于如何与"偽娘"互动的建议，强调尊重和理解是关键。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@ __版權：__ 本站所刊載之圖文內容等版權皆屬原廠商或原作者
 | Size            | 5944 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 冰の羽翼 (full9box)                               |
+| Region          | 台湾                               |
+| Date            | 2011-12-04                                 |
+| Tags            | 偽娘, 男の娘, 人妖, 二次元文化, 性别认同, 文化差异, 角色扮演, 社会认知, 法律平权, 身份认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

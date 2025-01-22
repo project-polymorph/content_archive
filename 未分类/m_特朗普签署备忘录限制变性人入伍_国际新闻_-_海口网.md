@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国总统特朗普于2018年3月23日签署的备忘录，该备忘录禁止大部分变性人入伍，并保留国防部执行自主权。特朗普在备忘录中指出，"有性别焦虑症病史的变性人，即需要药物和手术治疗的变性人，除个别情况外，没有入伍权利。" 该政策在实施前就引发了广泛的争议和批评，许多法院已裁定其不合法。尽管如此，五角大楼后来允许变性人继续服役，并在之后开展新一轮的入伍接纳工作。依据一份来自五角大楼的报告，2016年美军中大约有1320至6630名变性人活跃服役。此文附带了多个相关链接，补充了与美国军队和变性人政策相关的其它新闻报道。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 1905 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘阳, 孙丁                               |
+| Region          | 美国                               |
+| Date            | 2018-03-24                                 |
+| Tags            | 特朗普, 变性人, 入伍限制, 国防部, 性别焦虑症, 军队政策, 性别认同, 歧视, 法律与政策, 社会争议                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -170,7 +170,7 @@ _**最后建议参考我们过去已经发布的字幕视频系列《[何为女�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了当前北美性别意识形态的混乱及其对青少年的影响。作者阿比盖尔·施里尔（Abigail Shrier）通过分析历史和社会背景，指出性别不安（gender dysphoria）症状的稀有性及其通常的起源，提出现代社会对青少年性别认同的干预可能产生的负面后果。文章中提到，十年前几乎没有关于女子性别不安的文献，而在短短几年内，这一现象的增长率非常惊人，尤其是在社交媒体的影响下，少女们通过同龄人之间的影响形成了对跨性别身份的认同。作者强调，今日的性别肯定护理常常牺牲儿童的健康与发展，且缺乏必要的科学依据。文章最后呼吁对这一现象的深入探讨，以便更全面地理解其带来的社会和文化影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -183,10 +183,10 @@ _**最后建议参考我们过去已经发布的字幕视频系列《[何为女�
 | Size            | 27051 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 阿比盖尔·施里尔（Abigail Shrier）                               |
+| Region          | 美国                               |
+| Date            | 2023-01-26                                 |
+| Tags            | 性别意识, 跨性别, 性别不安, 医疗干预, 青少年心理健康, 社会影响, 文化现象, 社会传染, 性别政策, 家庭影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

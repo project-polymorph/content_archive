@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了德国最新实施的《性别自决法》（Selbstbestimmungsgesetz），该法于2024年11月1日生效。该法案显著简化了性别和姓名更改的程序，允许成年德国人每年自由更改官方记录上的性别和名字，且不再需要医疗证明或法律判决。这一立法变动意味着性别的认定将依个人意愿，而非生理特征。法案允许选择的性别包括男性、女性、双性和无性别。未成年人可在父母同意下进行性别变更的申请。此外，法案要求中小学开展LGBT相关教育。尽管法案获得了约47%的民众支持，但一些女性权利组织对此表示担忧，认为新法可能被滥用，影响某些女性的隐私与安全。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,10 +81,10 @@
 | Size            | 4061 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 德国                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 性别, 德国, 性别自决法, 法律政策, LGBT教育, 社会环境, 性别认同, 性别变更, 新闻, 公共政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

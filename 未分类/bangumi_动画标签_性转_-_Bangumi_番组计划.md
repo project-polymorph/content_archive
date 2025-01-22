@@ -7,7 +7,7 @@
 
 按 [标注数](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=collects) [排名](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=rank) [日期](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=date) [名称](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=title) 排序
 
-- [![](//lain.bgm.tv/pic/cover/c/7e/ca/378862_24TnR.jpg)](https://bangumi.tv/subject/378862)
+- [![](https://lain.bgm.tv/pic/cover/c/7e/ca/378862_24TnR.jpg)](https://bangumi.tv/subject/378862)
     
     ### [别当欧尼酱了！](https://bangumi.tv/subject/378862) お兄ちゃんはおしまい！
     
@@ -17,7 +17,7 @@
     
     7.6 (13150人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/35/19/336458_k6K0q.jpg)](https://bangumi.tv/subject/336458)
+- [![](https://lain.bgm.tv/pic/cover/c/35/19/336458_k6K0q.jpg)](https://bangumi.tv/subject/336458)
     
     ### [与成为异世界美少女的大叔一起](https://bangumi.tv/subject/336458) 異世界美少女受肉おじさんと
     
@@ -27,7 +27,7 @@
     
     6.5 (3721人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/ad/c5/92429_p2289.jpg)](https://bangumi.tv/subject/92429)
+- [![](https://lain.bgm.tv/pic/cover/c/ad/c5/92429_p2289.jpg)](https://bangumi.tv/subject/92429)
     
     ### [我， 要成为双马尾](https://bangumi.tv/subject/92429) 俺、ツインテールになります。
     
@@ -37,7 +37,7 @@
     
     5.8 (3286人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/13/a3/489820_Hre3R.jpg)](https://bangumi.tv/subject/489820)
+- [![](https://lain.bgm.tv/pic/cover/c/13/a3/489820_Hre3R.jpg)](https://bangumi.tv/subject/489820)
     
     ### [乱马1/2](https://bangumi.tv/subject/489820) らんま1/2
     
@@ -47,7 +47,7 @@
     
     7.6 (3278人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/5d/10/231278_FrbN1.jpg)](https://bangumi.tv/subject/231278)
+- [![](https://lain.bgm.tv/pic/cover/c/5d/10/231278_FrbN1.jpg)](https://bangumi.tv/subject/231278)
     
     ### [后街女孩](https://bangumi.tv/subject/231278) Back Street Girls -ゴクドルズ-
     
@@ -57,7 +57,7 @@
     
     6.5 (4747人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/f6/2b/363026_191za.jpg)](https://bangumi.tv/subject/363026)
+- [![](https://lain.bgm.tv/pic/cover/c/f6/2b/363026_191za.jpg)](https://bangumi.tv/subject/363026)
     
     ### [妖幻三重奏](https://bangumi.tv/subject/363026) あやかしトライアングル
     
@@ -67,7 +67,7 @@
     
     6.2 (1438人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/ec/a2/360345_ooFO2.jpg)](https://bangumi.tv/subject/360345)
+- [![](https://lain.bgm.tv/pic/cover/c/ec/a2/360345_ooFO2.jpg)](https://bangumi.tv/subject/360345)
     
     ### [英雄王，为了穷尽武道而转生～而后，成为世界最强的见习骑士♀～](https://bangumi.tv/subject/360345) 英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～
     
@@ -77,7 +77,7 @@
     
     5.0 (1851人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/b3/5c/307378_gHP47.jpg)](https://bangumi.tv/subject/307378)
+- [![](https://lain.bgm.tv/pic/cover/c/b3/5c/307378_gHP47.jpg)](https://bangumi.tv/subject/307378)
     
     ### [自称贤者弟子的贤者](https://bangumi.tv/subject/307378) 賢者の弟子を名乗る賢者
     
@@ -87,7 +87,7 @@
     
     4.3 (1553人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/2d/0e/109956_b1Bnb.jpg)](https://bangumi.tv/subject/109956)
+- [![](https://lain.bgm.tv/pic/cover/c/2d/0e/109956_b1Bnb.jpg)](https://bangumi.tv/subject/109956)
     
     ### [灵魂注入](https://bangumi.tv/subject/215140) 魂インサート
     
@@ -97,7 +97,7 @@
     
     6.2 (408人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/66/5a/68807_xX3m1.jpg)](https://bangumi.tv/subject/68807)
+- [![](https://lain.bgm.tv/pic/cover/c/66/5a/68807_xX3m1.jpg)](https://bangumi.tv/subject/68807)
     
     ### [肯普法 为了爱](https://bangumi.tv/subject/68807) けんぷファー für die Liebe
     
@@ -107,7 +107,7 @@
     
     6.0 (702人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/59/5d/235722_hq54e.jpg)](https://bangumi.tv/subject/235722)
+- [![](https://lain.bgm.tv/pic/cover/c/59/5d/235722_hq54e.jpg)](https://bangumi.tv/subject/235722)
     
     ### [格林笔记](https://bangumi.tv/subject/235722) グリムノーツ The Animation
     
@@ -117,7 +117,7 @@
     
     5.8 (819人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/9b/1d/294864_li8Rn.jpg)](https://bangumi.tv/subject/294864)
+- [![](https://lain.bgm.tv/pic/cover/c/9b/1d/294864_li8Rn.jpg)](https://bangumi.tv/subject/294864)
     
     ### [两不疑](https://bangumi.tv/subject/294864)
     
@@ -127,7 +127,7 @@
     
     6.6 (318人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/cd/4b/2129_fX9b7.jpg)](https://bangumi.tv/subject/2129)
+- [![](https://lain.bgm.tv/pic/cover/c/cd/4b/2129_fX9b7.jpg)](https://bangumi.tv/subject/2129)
     
     ### [肯普法](https://bangumi.tv/subject/2129) けんぷファー
     
@@ -137,7 +137,7 @@
     
     6.0 (2647人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/b1/9a/2789_4OsUj.jpg)](https://bangumi.tv/subject/2789)
+- [![](https://lain.bgm.tv/pic/cover/c/b1/9a/2789_4OsUj.jpg)](https://bangumi.tv/subject/2789)
     
     ### [乱马1/2](https://bangumi.tv/subject/2789) らんま1/2
     
@@ -147,7 +147,7 @@
     
     7.6 (1500人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/dd/e3/167655_O0npY.jpg)](https://bangumi.tv/subject/167655)
+- [![](https://lain.bgm.tv/pic/cover/c/dd/e3/167655_O0npY.jpg)](https://bangumi.tv/subject/167655)
     
     ### [幼女战记](https://bangumi.tv/subject/167655) 幼女戦記
     
@@ -157,7 +157,7 @@
     
     7.2 (5288人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/ba/c9/404804_1sTp8.jpg)](https://bangumi.tv/subject/404804)
+- [![](https://lain.bgm.tv/pic/cover/c/ba/c9/404804_1sTp8.jpg)](https://bangumi.tv/subject/404804)
     
     ### [天国大魔境](https://bangumi.tv/subject/404804) 天国大魔境
     
@@ -167,7 +167,7 @@
     
     7.8 (11765人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/a3/5e/529966_15UX8.jpg)](https://bangumi.tv/subject/529966)
+- [![](https://lain.bgm.tv/pic/cover/c/a3/5e/529966_15UX8.jpg)](https://bangumi.tv/subject/529966)
     
     ### [乱马1/2 第二季](https://bangumi.tv/subject/529966) らんま1/2 第2期
     
@@ -175,7 +175,7 @@
     
     (少于10人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/cc/c4/145946_Q8CBE.jpg)](https://bangumi.tv/subject/145946)
+- [![](https://lain.bgm.tv/pic/cover/c/cc/c4/145946_Q8CBE.jpg)](https://bangumi.tv/subject/145946)
     
     ### [魔法少女育成计划](https://bangumi.tv/subject/145946) 魔法少女育成計画
     
@@ -185,7 +185,7 @@
     
     5.8 (1974人评分)
 
-- [![](//lain.bgm.tv/pic/cover/c/eb/c6/295870_uq4XY.jpg)](https://bangumi.tv/subject/295870)
+- [![](https://lain.bgm.tv/pic/cover/c/eb/c6/295870_uq4XY.jpg)](https://bangumi.tv/subject/295870)
     
     ### [爱圣天使Love Mary ～恶性受胎～ THE ANIMATION](https://bangumi.tv/subject/295870) 愛聖天使ラブメアリー ～悪性受胎～ THE ANIMATION
     
@@ -222,7 +222,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容主要围绕多元性别相关动画标签——"性转"，列出了一系列关联的动画作品。如《别当欧尼酱了！》《与成为异世界美少女的大叔一起》等。这些动画涉及性别转换、转生等主题，体现了当前动画中多元性别表现的趋势和丰富性。文中提供了每部动画的评分、首播日期及创作团队等详细资料，可以作为多元文化和性别认同的参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -235,10 +235,10 @@
 | Size            | 8435 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性转, 动画, 生命故事, 过渡经历, 文化表现, 性别认同, 社会环境, 娱乐, 艺术创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

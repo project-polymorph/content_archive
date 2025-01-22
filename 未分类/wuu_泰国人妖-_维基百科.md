@@ -5,7 +5,7 @@
 
 出自维基百科，自由个百科全书
 
-![一排人妖](//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8E%9F%E6%AA%94_%2830676767750%29.jpg/400px-%E5%8E%9F%E6%AA%94_%2830676767750%29.jpg)
+![一排人妖](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8E%9F%E6%AA%94_%2830676767750%29.jpg/400px-%E5%8E%9F%E6%AA%94_%2830676767750%29.jpg)
 
 **泰国人妖**（[泰语](https://wuu.wikipedia.org/wiki/%E6%B3%B0%E8%AF%AD)：**กะเทย**，羅馬拼音：Kathoey或Katoey，[國際音標](https://wuu.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%99)：\[kaʔtʰɤːj\]）是指从男性變成女性个[泰國](https://wuu.wikipedia.org/wiki/%E6%B3%B0%E5%9C%8B) [变性](https://wuu.wikipedia.org/wiki/%E5%8F%98%E6%80%A7)人，也叫_ladyboy_。
 
@@ -23,15 +23,15 @@
 
 ## 相册 { data-search-exclude }
 
-- ![芭塔雅个人妖](//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pattaya_transwomen_2.jpg/500px-Pattaya_transwomen_2.jpg "芭塔雅个人妖")
+- ![芭塔雅个人妖](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pattaya_transwomen_2.jpg/500px-Pattaya_transwomen_2.jpg "芭塔雅个人妖")
  
   芭塔雅个人妖
 
-- ![宝儿](//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Treechada_Petcharat_POEM_Autumn-Winter_2019.png/259px-Treechada_Petcharat_POEM_Autumn-Winter_2019.png "宝儿")
+- ![宝儿](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Treechada_Petcharat_POEM_Autumn-Winter_2019.png/259px-Treechada_Petcharat_POEM_Autumn-Winter_2019.png "宝儿")
  
   宝儿
 
-- ![贝儿](//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bell_Nuntita_at_VERY_TV_%28cropped%29.jpg/250px-Bell_Nuntita_at_VERY_TV_%28cropped%29.jpg "贝儿")
+- ![贝儿](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bell_Nuntita_at_VERY_TV_%28cropped%29.jpg/250px-Bell_Nuntita_at_VERY_TV_%28cropped%29.jpg "贝儿")
   
   贝儿
 

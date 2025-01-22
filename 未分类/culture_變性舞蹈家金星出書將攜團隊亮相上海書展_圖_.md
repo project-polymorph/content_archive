@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了中国知名变性舞蹈家金星在2013年发布的第一本散文集《掷地有声——金星的人生正能量》，并提到她将在上海书展上携团队亮相。金星通过这本书回顾了她非凡的人生经历，包括她的变性手术和在公众面前的表现。她在书中分享了自己深刻的内心感悟，以及对女性与爱情的见解，强调了真诚的自我表达的重要性。书中涵盖了她的个人生活、婚姻经历以及对社会偏见的反思，金星表示她希望通过自己的故事传递真实与勇气。文中引用金星的话：“我用我的生命、我的作品来做人，看社会怎么认同我，接受我”，展现了她面对社会的态度与坚定的自我认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@
 | Size            | 2520 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-08-12                                 |
+| Tags            | 变性人, 金星, 散文集, 人生经历, 女性思考, 社会偏见, 真实自我, 上海书展, 舞蹈艺术, 个人成长                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

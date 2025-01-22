@@ -87,7 +87,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要涉及跨性别和泛性别旗帜的批发采购信息, 包括LGBTQ社区相关的多彩旗帜产品。内容包含多种样式和尺寸的彩虹旗的采购信息，配有价格、最小起订量以及产品链接。文件中列出了一系列跨性别、泛性别以及其它性别身份相关的旗帜，包括但不限于 2024 年的半身旗、手持旗、横幅以及各种尺寸的彩虹旗等。此外，文件中还包含了产品的图片，以帮助用户直观了解这些产品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,10 +100,10 @@
 | Size            | 5919 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ, 跨性别旗帜, 泛性别, 彩虹旗, 采购信息, 性别多样性, 平权运动, 性别认同, 手持旗, 横幅                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

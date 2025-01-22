@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了宝鸡市公安局首次受理变性人申请户口性别变更的案例，涉及个案小米的经历。小米因易性癖进行了变性手术，手术后希望更新身份证和户口本上的性别信息。文章详细叙述了小米在公安局申请变更性别过程中的经历，民警的困惑，以及最终获得性别变更的心路历程。文中提及，相关程序依据《公安部三局关于公民实施变性手术后变更户口登记性别项目有关问题的批复》，并提到小米在变更后重新开始了新生活的积极心态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,10 +38,10 @@
 | Size            | 2838 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 西安晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-07-09                                 |
+| Tags            | 变性人, 性别变更, 户口登记, 易性癖, 变性手术, 小米 case, 法律政策, 社会环境, 公安局, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

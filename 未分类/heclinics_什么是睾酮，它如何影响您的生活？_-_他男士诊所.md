@@ -58,7 +58,7 @@ HE Clinic 是一家专门为男性服务的私人诊所，位于曼谷通罗区�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了睾酮这一激素及其对男性生活的影响。文章首先解释了睾酮的基本定义，指出它是促进男性第二性别特征发育的重要激素，其水平随着年龄的增长而逐渐下降。接着，文中提到睾酮替代疗法（TRT）通常适用于睾酮水平低的男性，因其可能面临诸多症状，如性欲降低、勃起功能障碍、情绪波动等。文章还列出了低睾酮的常见症状，并指出治疗过程中的重要性，包括必要的血液检查和医疗指导，以确保安全性。最后，HE 诊所提供的服务和联系方式，也为需要相关治疗的男性提供了途径。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@ HE Clinic 是一家专门为男性服务的私人诊所，位于曼谷通罗区�
 | Size            | 3703 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | HE Clinic                               |
+| Region          | 泰国曼谷                               |
+| Date            | 2023-04-26                                 |
+| Tags            | 睾酮, 激素, 男性健康, 睾酮替代疗法, 医疗资源, 性腺功能减退症, 症状诊断, 男性生理, 健康咨询, HE Clinic                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

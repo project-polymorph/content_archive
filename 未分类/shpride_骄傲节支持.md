@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件描述了2018年上海骄傲节的活动和相关的公益支持项目。上海骄傲节每年都会将部分奖券收入捐赠给不同的跨性别和多元性别支持组织。本文重点介绍了巴黎2018世界同志运动会，中国代表队的组建及其参与情况，本次运动会的核心使命是通过体育与文化推广平等和包容的理念。文中列出了四个受益的机构，分别是跨性别生活社、跨儿说、跨性别庇护所和跨儿中心，详细介绍了它们的服务内容、目标和支持资金的用途。这些机构主要为跨性别者提供法律、健康教育、咨询及庇护服务，旨在改善跨性别者在社会中的生存状况和权益。文件还提到2018年上海骄傲节的详细活动安排，并展望了该节日的未来发展与合作机会。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 4977 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 上海骄傲节组织                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-06-08                                 |
+| Tags            | 上海骄傲节, 跨性别, 多元性别, 公益组织, 巴黎同志运动会, 性别平权, 性别生活社, 跨儿说, 跨性别庇护所, 跨儿中心, 社会运动, 性少数群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

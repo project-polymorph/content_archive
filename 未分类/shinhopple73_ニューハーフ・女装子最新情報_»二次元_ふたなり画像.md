@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![Quantcast](//pixel.quantserve.com/pixel/p-KygWsHah2_7Qa.gif)
+![Quantcast](https://pixel.quantserve.com/pixel/p-KygWsHah2_7Qa.gif)
 
 ## 二次　ふたなり娘っていやらしすぎ～～ { data-search-exclude }
 *April 10, 2011, 10:40 pm*
@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要介绍和讨论了二次元文化中的ふたなり（双性角色）图像及其吸引力。内容包含对二次元ふたなり娘的各种表现以及男孩们如何逐步被这一文化所吸引的讨论。文本分为几个部分，分别讨论了二次元世界中的ふたなり文化对于男孩子的影响、涉及到的性别角色，以及现实社会中可能的对应行为。此外，还提到了一些在现代社会中，与生理操作和性别认同相关的现象，特别是提到了泰国等地的性别认同情况。文中有提到男孩子们如何对女装和ニューハーフ产生好奇，进而探索这些奇特的性别现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 2220 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 二次元, ふたなり, 性别角色, 女装, ニューハーフ, 动漫文化, 性别认同, 社会现象, 性别表达, 文化分析                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

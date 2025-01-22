@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了新加坡电影中的生态异托邦这一主题，首次引入福柯提出的“异托邦”概念，讨论了语言的限制和对此类概念的认知。文件中提到，不同的电影媒介能够通过各种手法传达出既真实又虚幻的内容，展现出一种理想与现实的对比。作者提到，生态体系中的事物归类并不绝对，这为观众提供了一种新的视角以审视电影所呈现的内容，以及人们对这些内容的认知变化。此外，本文的研究结合了语言、文化和电影艺术，适合对电影研究、社会科学和多元价值观感兴趣的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 2183 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 纪鸣凤 Kee, Ming Feng                               |
+| Region          | 新加坡                               |
+| Date            | 2023-01-01                                 |
+| Tags            | 新加坡电影, 生态异托邦, 异托邦, 电影研究, 文化研究, 多元性别, 语言学, 社会科学, 人类认知, 福柯                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

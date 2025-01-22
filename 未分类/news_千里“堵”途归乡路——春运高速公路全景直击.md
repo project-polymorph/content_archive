@@ -90,7 +90,7 @@ Copyright © 2000 - 2016 XINHUANET.com　All Rights Reserved. 　制作单位：
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由新华网报道，详细描绘了2015年春运期间中国高速公路的拥堵情况，特别关注南方地区的交通状况。在文章中，作者展示了由于返乡潮，交通流量剧增导致的严重拥堵，温暖的故事以及交通管理部门为缓解拥堵而采取的措施。文章通过阐述数据和真实案例，描绘了人们在高速公路上面临的挑战与艰辛，包括应急情况和路政工作的压力。同时，文中提到了一些交通大数据的应用，如对预计拥堵路段的预测，并给出了一些建议，以帮助司机度过这一繁忙的时刻。全文重点传达了对归乡的渴望及其过程中的情感冲突。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -103,10 +103,10 @@ Copyright © 2000 - 2016 XINHUANET.com　All Rights Reserved. 　制作单位：
 | Size            | 8106 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新华网                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-02-17                                 |
+| Tags            | 春运, 交通拥堵, 高速公路, 归乡, 春节, 交通管理, 数据分析, 社会故事, 公共安全, 人性关怀                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

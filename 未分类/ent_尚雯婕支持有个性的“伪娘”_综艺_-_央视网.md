@@ -6,9 +6,9 @@
 来源: _央视网_  
 时间: 2010年05月23日 09:22  
 
-![视频简介](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630738760_548.jpg)  
-![视频链接](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630746885_635.jpg)  
-![另一视频链接](//p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630752952_775.jpg)
+![视频简介](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630738760_548.jpg)  
+![视频链接](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630746885_635.jpg)  
+![另一视频链接](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630752952_775.jpg)
 
 _视频简介：_
 
@@ -36,7 +36,7 @@ _更新时间：_2010年05月23日
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇来自央视网的文章讨论了歌手尚雯婕对有个性的“伪娘”文化的支持。文章提到尚雯婕在综艺节目中公开表达了对这一人群的认可，并鼓励他们勇敢做自己，维护自身个性。文中提到的视频也展示了尚雯婕在节目中的发言，强调了多元性别表达的重要性，并批评了社会对穿着和性别表现的刻板印象。这种支持在当时的社会环境中尤为重要，反映出逐渐开放的多元性别观念和对个体表达的尊重。文章发布日期为2010年05月23日，是对多元文化与性别表达的早期讨论之一。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@ _更新时间：_2010年05月23日
 | Size            | 1589 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 央视网                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-05-23                                 |
+| Tags            | 尚雯婕, 伪娘, 多元性别, 文化支持, 性别表达, 社会认可, 个性, 综艺节目, 央视网, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

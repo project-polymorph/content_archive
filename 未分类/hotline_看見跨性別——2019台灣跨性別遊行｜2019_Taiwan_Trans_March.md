@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了2019年10月25日举行的台湾首场跨性别游行的相关信息。游行旨在让社会更好地理解跨性别群体的多样性及面临的困境，强调每个人无论性别表现如何，都应获得尊重与理解。文中提到，跨性别是一个包含众多性别身份的广泛概念，无论个人的性别认同或表现如何，都可能与主流的男女二元框架有所不同。文章还讨论了在社会对LGBTI+议题逐渐重视的背景下，跨性别及阴阳人群体的生活现状与挑战。活动主办单位为台湾同志咨询热线协会跨性别小组，游行旨在促进跨性别与其他性别取向社群的合作与理解。文中包含了活动的时间、地点、主旨与预期目标等信息，鼓励所有对多元性别话题感兴趣的人士共同参与。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@
 | Size            | 5049 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 台湾同志咨询热线协会跨性别小组                               |
+| Region          | 台湾                               |
+| Date            | 2019-10-25                                 |
+| Tags            | 跨性别, 性别多元, 台湾同志游行, LGBTI+, 性别认同, 社会运动, 性别平权, 人权, 活动报道, 同志文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

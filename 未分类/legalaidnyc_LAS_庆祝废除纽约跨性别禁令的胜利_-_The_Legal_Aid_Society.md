@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自法律援助协会，庆祝纽约州正式废除PL 240.37法令，也称为“跨性别行走禁令”。此项法律长期以来被批评为针对跨性别者的工具，特别是以卖淫为目的的游荡行为的执法中。该文件详细讲述了法律援助协会以及跨性别权利活动家们如何共同努力，以法律诉讼挑战这一歧视性法律，并最终取得胜利。文件中提到，2016年法律援助协会与8名客户联合起诉纽约市和警察局，这起集体诉讼成功促使警察局在2019年修改了关于逮捕的指导方针，确保不再基于“性别、性别认同、服装和位置”进行判断。最终，废除后的声明明确禁止警官使用这些因素来判断逮捕原因。本文件不仅记录了一项重要法律的变更，还反映出跨性别者在法律面前的抗争与胜利。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 2949 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 法律援助协会                               |
+| Region          | 美国                               |
+| Date            | 2021-03-01                                 |
+| Tags            | 跨性别, 法律援助, 纽约, PL 240.37, 反歧视, 社会正义, 人权, 法律改革, 跨性别运动, 活动家                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

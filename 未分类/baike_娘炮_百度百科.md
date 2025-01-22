@@ -73,7 +73,7 @@ Sissy和Tomboy是不同的，要区分开来。后者指的是男孩似的女孩
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了网络流行语“娘炮”的内涵与社会态度。从历史背景分析到如今的社会认知，‘娘炮’不仅是对男性外表和行为的一种性别刻板印象，更是对传统男性形象的一种挑战和反思。文章分析了‘娘炮’的文化背景，认为它与社会对男性角色的期待及性别教育密切相关。随着时代的发展，‘娘炮’现象引发了媒体、公众甚至政府的关注，并在社会中引发了一系列的讨论，涉及到性别歧视、文化毒瘤、以及家庭教育的重要性等方面。文章指出，‘娘炮’作为贬义词的流行不仅影响了男性的多样性表现，也影响了社会对女性气质的认知，反映出社会对性别角色的固有预期，并呼吁对传统性别观念进行反思与升级。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@ Sissy和Tomboy是不同的，要区分开来。后者指的是男孩似的女孩
 | Size            | 7957 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 娘炮, 性别刻板印象, 阴柔气质, 男性形象, 网络流行语, 社会态度, 文化分析, 性别教育, 公众反应, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

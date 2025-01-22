@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部名为《与女装大佬合法萝莉神交的不可名状日常》的小说，其作者为艺文众生，创作于2019年10月23日。小说内容围绕一个普通学生如何成为对抗梦魇的超级英雄展开。故事中，女装大佬和合法萝莉共同帮助主角觉醒特异能力。作品类型融合了悬疑、热血、科幻和都市元素，具有一定的娱乐性和幻想色彩。小说试图通过幽默与戏谑的方式探讨性别身份与角色的多样性，同时也展现了社会与个体之间复杂的互动。整体而言，这部作品不仅仅是一部小说，也在多元性别的框架下探讨了角色转变与社会现实。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 2487 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 芸芸众生                               |
+| Region          | 未知                               |
+| Date            | 2019-10-23                                 |
+| Tags            | 女装大佬, 合法萝莉, 超级英雄, 悬疑, 科幻, 都市, 性别认同, 角色转变, 社会互动, 小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了6部经典跨性别电影，强调了跨性别主题在电影中的重要性和影响。文章回顾了电影《丹麦女孩》、《冥王星早餐》、《三代人》、《发胶》、《足球尤物》和《不良教育》，逐一介绍这些影片中的跨性别角色及其所经历的挑战和成长。比如，《丹麦女孩》讲述了艺术家莉莉·艾尔比的真实人生故事，涉及性别认同和历史背景；而《冥王星早餐》则聚焦于一个被社会拒绝的青少年，展现了他的内心挣扎与转变。每部电影都通过不同的角色和情节，反映了跨性别人士的真实经历，并探讨了社会对性别的理解与包容度。还有关于每位演员为角色所做的准备和改变，表现出跨性别角色的多样性与复杂性。整篇文章传递了对多元性别的理解与尊重，倡导在这个世界里对抗二元对立的思维，呼吁更多的宽容和爱。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 6794 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 墨黑三贼                               |
+| Region          | 未知                               |
+| Date            | 2021-12-22                                 |
+| Tags            | 跨性别, 电影, 性别认同, 文化, 社会接受度, 历史背景, 个人成长, 演员表现, 女性角色, 文艺作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

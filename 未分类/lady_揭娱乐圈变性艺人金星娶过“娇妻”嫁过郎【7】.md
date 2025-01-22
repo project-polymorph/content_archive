@@ -26,7 +26,7 @@ _(责编：李昉、王静)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文通过讲述变性艺人金星的故事，揭示了她在娱乐圈中的经历和生活。金星在2000年接到“太太”肯波琳的电话，这是一段长达10年的复杂婚姻关系，包括离婚和她的变性过程。文中提到金星的类型更替，从曾经的帅小伙转变为女儿身，对于她的经历，金星形容人生如同一出荒唐戏，流露出人生无常的感慨。文章还附带了一张金星的照片及若干与变性相关的延伸阅读链接，展现了变性艺人在娱乐行业的生活与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@ _(责编：李昉、王静)_
 | Size            | 1468 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 网易女人                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-09-16                                 |
+| Tags            | 变性, 金星, 娱乐圈, 人生故事, 婚姻经历, 女性身份, 社会接受度, 个人转型, 性别认同, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

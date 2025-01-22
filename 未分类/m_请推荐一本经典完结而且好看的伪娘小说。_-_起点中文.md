@@ -15,15 +15,15 @@
 
 😋我推荐以下两本小说给你，都是伪娘题材的经典完结小说哦～
 
-1. [《变身倾世女装伪娘》](//www.qidian.com/so/变身倾世女装伪娘.html)  ：主人公是个咸鱼男主，不喜虐，内容轻松愉快，书名也很有趣味性哦。
+1. [《变身倾世女装伪娘》](https://www.qidian.com/so/变身倾世女装伪娘.html)  ：主人公是个咸鱼男主，不喜虐，内容轻松愉快，书名也很有趣味性哦。
    
-2. [《我的死宅萝莉妹妹》](//www.qidian.com/book/1009918248/)  ：来自轻小说领域，作者一滴水啊，主角是一个up主，和二次元萝莉妹妹们的日常故事。希望您能喜欢本仙女的推荐，么么哒😗～
+2. [《我的死宅萝莉妹妹》](https://www.qidian.com/book/1009918248/)  ：来自轻小说领域，作者一滴水啊，主角是一个up主，和二次元萝莉妹妹们的日常故事。希望您能喜欢本仙女的推荐，么么哒😗～
 
 ---
 
 ### 提到的作品
 
-![我的死宅萝莉妹妹](//bookcover.yuewen.com/qdbimg/349573/1009918248/180)
+![我的死宅萝莉妹妹](https://bookcover.yuewen.com/qdbimg/349573/1009918248/180)
 - **书名：** 我的死宅萝莉妹妹
 - **作者：** 一滴水啊·轻小说
 - **简介：** B站当唱见、女装宅舞、coser各种动漫女神！“up主这么漂亮，你给我说他是男孩子？”这是伪娘哥哥与二次元妹妹们的日常！土间埋：我要喝可乐。洛天依：我饿了！珈百璃：哥哥帮我氪金啊！涂山苏苏：我的小狐狸呢？和泉纱雾：大笨蛋！！！蕾姆：一直在一起哦。......有一种信仰叫妹妹！有一种诱惑叫女装！
@@ -47,7 +47,7 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一份关于经典伪娘小说的推荐答案，主要由用户白衣煮茶于2023年09月13日发布。文件中推荐了两本伪娘题材的小说，分别是《变身倾世女装伪娘》和《我的死宅萝莉妹妹》。详细介绍了这两部作品的内容：前者讲述了一位挺啃老的男主与轻松愉快的故事，而后者则是通过一个青春日常的轻小说展现了一位UP主与二次元妹妹们的互动情感。此外，文件也提及了相关的问答，提供了更多关于伪娘题材的阅读推荐，展现了多元性别在文学中的表现与探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 | Size            | 1961 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 白衣煮茶                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-09-13                                 |
+| Tags            | 伪娘小说, 轻小说, 变身题材, 文学推荐, 二次元文化, 性别表现, 网络小说, 女性化, 角色扮演, 轻松幽默                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

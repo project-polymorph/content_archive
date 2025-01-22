@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-**来源**: [肉文小说](//m.xhtk.net)  
+**来源**: [肉文小说](https://m.xhtk.net)  
 **作者**: qiyuan0911  
 **标签**: 多元性别、女友故事
 
@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《女友琳琳的故事》的第四部分，主要讲述了琳琳参加一场变装派对的经历。在故事中，琳琳与她的女友A一同出席派对，A在与琳琳的聊天中表现出开放且放荡的生活态度，而琳琳在这样的氛围中则显得有些迷茫。A在派对中介绍了她的新男朋友JK，他是一位健身教练，并与琳琳展开了一段幽默的对话。文中展现了派对的欢乐气氛和琳琳与朋友们的互动，同时也反映出多元性别背景下的社交动态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 3554 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | qiyuan0911                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 女友故事, 变装派对, LGBTQ, 社会互动, 生命故事, 友谊, 性别认同, 生活方式, 开放关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

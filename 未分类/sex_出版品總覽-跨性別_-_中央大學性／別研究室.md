@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《跨性别出版品总览》的Markdown格式资料，主要记录了跨性别相关的出版物，包含了多篇论文的合集。这本书由中央大学性别研究室出版，主编是何春蕤，出版时间为2003年11月。书中探讨了性别解放的概念，尤其是跨性别运动的发展如何影响性别观念，强调了只有当跨性别者获得自由平等的权利，才能实现真正的性别解放。书中收录了多位学者的研究论文，内容涉及跨性别主体与社会历史的互动，包括在台湾的跨性别运动以及与跨性别相关的文化表达等。文本详尽地探讨了跨性别认同、身体与身份的纷争，提供广泛的文献参考和对跨性别现状的深刻洞察。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@
 | Size            | 5098 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中央大学性别研究室                               |
+| Region          | 台湾                               |
+| Date            | 2003-11-01                                 |
+| Tags            | 跨性别, 性别研究, 性别解放, 台湾文化, 跨性别运动, 论文集, 性别认同, 生存现状, 社会环境, 学术研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

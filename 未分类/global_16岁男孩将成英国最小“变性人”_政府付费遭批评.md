@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了一名16岁男孩库珀即将成为英国最年轻的变性人的故事。根据2010年1月26日的报道，库珀的变性手术将由英国国民健康保险机构报销，但这一决定引发了社会的广泛争议。许多人对此表示担忧，认为16岁的人对性别角色的认同尚不成熟，变性手术是一个不可逆的过程，后悔之时可能已为时已晚。库珀的母亲和他自己则辩称，这笔手术对他们而言意义重大，影响着他的生活质量和内心的平静。文章还提到了一些反对变性手术的民众意见，指出纳税人的钱应更合理地使用，并总结了在这一议题上，社会各界对于医疗资源分配的不同看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,10 +52,10 @@
 | Size            | 2777 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陈笛                               |
+| Region          | 英国                               |
+| Date            | 2010-01-26                                 |
+| Tags            | 变性手术, 性别认同, 青少年, 医疗资源, 法律政策, 社会环境, 公众争议, 家庭支持, 心理健康, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

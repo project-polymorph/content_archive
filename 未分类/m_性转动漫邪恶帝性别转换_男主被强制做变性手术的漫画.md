@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一部围绕性别转换主题的日本性转动漫，特别集中在男主角被强制进行变性手术的情节上，描绘了主角从普通男高中生突然变成美少女的经历。主角濑能名津流的转变不仅是身体上的变化，同时也引发了一系列关于性别认同与社会角色的探讨。文章引用了多部相关的性转动漫作品，如《肯普法》和《我,要成为双马尾》等，讨论了性转题材在动漫中的流行及其对少女角色塑造的影响。文中还提及了一些角色的故事背景以及网友的评论，进一步展示了性转动漫在动漫文化中的地位和演变。同时，本文还指出，虽然性转这一主题在动漫中较早出现，但依旧面临外界的误解和低估。通过丰富的图像和配图，读者可以更好地理解这一主题的视觉表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -82,10 +82,10 @@
 | Size            | 6601 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-07-28                                 |
+| Tags            | 性转, 动漫, 变性手术, 性别转换, 濑能名津流, 肯普法, 莉莉, 双马尾, 性别认同, 社会角色                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

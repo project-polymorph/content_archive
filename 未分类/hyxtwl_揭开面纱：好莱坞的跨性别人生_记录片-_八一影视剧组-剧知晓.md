@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《揭开面纱：好莱坞的跨性别人生》是一部由萨姆·费德尔导演的记录片，探讨了好莱坞电影和电视剧中对跨性别者的描绘。此片通过拉弗恩·考克斯、莉莉·沃卓斯基、恩斯·福特、MJ·罗德里格斯、杰米·克莱顿等多个跨性别思想家和创意人士的声音，为观众揭示了跨性别者在银幕上的形象如何影响社会对性别的认知。这部影片涵盖了从早期的《弗州迷魅》到近代的《男孩别哭》等多部电影作品，追溯了复杂而幽默的历史，同时也表达了与跨性别者生活实际之间的深刻影响。它旨在让观众重新思考其对跨性别者的看法，打破了许多人对于性别的固有假设，提供了一个全新的视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@
 | Size            | 3724 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 八一影视剧组                               |
+| Region          | 美国                               |
+| Date            | 2023-03-07                                 |
+| Tags            | 跨性别, 好莱坞, 电影, 社会认知, 性别研究, 记录片, 文化批评, 生命故事, 性别多样性, 跨性别者经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -19,7 +19,7 @@ _(责编：李栋、曹华)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文通过一个案例，深入探讨了泰国的变性人文化与生活现状，特别聚焦在曼谷的Cascade Bar这一著名的夜总会。文中提到，变性舞女在此场所被分为两拨轮换表演与陪客，展现出他们独特的职业与生活方式。此外，文章也指出泰国在全球变性人比例和变性手术数量上名列前茅，体现了该国相对开放和包容的社会态度。文中还提及了2009年泰国政府立法允许男性自主选择变性，反映了变性人在泰国的法律地位及社会接受度。文末附有多名舞女的图片，增添了文章的直观性和生动性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -32,10 +32,10 @@ _(责编：李栋、曹华)_
 | Size            | 1435 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 光明网                               |
+| Region          | 泰国                               |
+| Date            | 2013-07-05                                 |
+| Tags            | 变性人, 生活故事, 泰国文化, 夜总会, 社会态度, 变性手术, 女性身份, 性别认同, 舞女生活, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

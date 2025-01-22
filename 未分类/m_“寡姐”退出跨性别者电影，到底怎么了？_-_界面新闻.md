@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道讨论了著名演员斯嘉丽·约翰逊因参与跨性别者电影《摩擦与拖拽》而引发的争议和她随后退出该项目的决定。文章详细列出了斯嘉丽在声明中提到的理由，以及她对跨性别群体的支持和对于在好莱坞缺乏LGBTQ+角色的关切。斯嘉丽强调了包容性的重要性，并表达了对这一群体的尊重与学习。文章还提到，斯嘉丽的决定是对跨性别群体反对她选角的回应，并提示了娱乐行业中对变性人群的公平对待问题。同时，文章回顾了她早先的行为所引发的争论，并对其在不同情况下的选角做了比较。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,10 +81,10 @@
 | Size            | 4442 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 时光君                               |
+| Region          | 未知                               |
+| Date            | 2018-07-15                                 |
+| Tags            | 跨性别, 斯嘉丽·约翰逊, 电影行业, 性别多样性, LGBTQ+, 包容性, 选角争议, 好莱坞, 性别平等, 社会议题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

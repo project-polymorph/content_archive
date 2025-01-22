@@ -62,7 +62,7 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国乔治华盛顿大学的一名女篮球员凯·阿伦斯（Kye Allums）向NCAA（全国大学体育协会）提出申请，以男性身份参赛的故事。凯·阿伦斯在初中时意识到自己的性别认同，她不愿再被称为女性，虽然她并没有进行过变性手术。在学校的支持下，她希望能改变性别登记，真诚表达自己真实的身份。此举在NCAA中引起了广泛关注，因为如果申请得到通过，凯·阿伦斯将成为该联盟历史上首位以跨性别身份参赛的球员。关于跨性别运动员的参与政策，NCAA显然还没有找到一个明确的答案，因此面临很多挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 | Size            | 3775 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2010-11-05                                 |
+| Tags            | 跨性别, 女篮球员, NCAA, 凯·阿伦斯, 性别认同, 运动员, 社会支持, 变性, 性别政策, 体育新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

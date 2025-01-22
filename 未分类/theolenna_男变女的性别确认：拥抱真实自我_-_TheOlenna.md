@@ -74,7 +74,7 @@ MTF 性别确认手术不必包含上述所有程序。个人可以咨询其提�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了男变女（MTF）性别确认手术的多个方面，为寻求性别确认的变性人提供了详细的解释和信息。文章首先介绍了性别确认手术的概念，强调手术如何帮助那些接受自己真实性别的人实现其所希望的身体形象。针对变性人的需求，文章详细列举了与MTF性别确认手术相关的多种整形手术，包括面部女性化手术、胸部手术、下体手术信息，并讨论了这些手术在变性旅程中所起的支持作用。此外，文章提到手术过程中应考虑的医健康因素，以及为了实现个人的美感目标，变性人可能需要与专业整形外科医生咨询和合作。整篇文章旨在为读者提供全面的理解与认识，帮助变性人了解自己的选择和所需的支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,10 +87,10 @@ MTF 性别确认手术不必包含上述所有程序。个人可以咨询其提�
 | Size            | 5746 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | TheOlenna                               |
+| Region          | 未知                               |
+| Date            | 2024-06-26                                 |
+| Tags            | 性别确认, 男变女, 变性手术, 跨性别, 医疗资源, 身体美感, 文化, 心理健康, 性别认同, 整形外科                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

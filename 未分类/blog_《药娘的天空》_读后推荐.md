@@ -58,7 +58,7 @@ Last Modified: July 3, 2020
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《药娘的天空》是一部探讨药娘群体及其心理和生理挑战的小说读后推荐，作者Kiritake Kumi在文中分享了自己的感受与观点。文章深入分析了药娘这个群体，即那些生理为男性但内心认同为女性的个体，他们为了改变身体而选择长期服用雌性激素。此过程伴随着巨大的身体和精神负担，作者描述了药娘所经历的身体伤害，如药物对肝脏和肾脏的损害，以及家庭和社会的压力。尤其是社会普遍对非传统性别认同的排斥和歧视，导致很多药娘在追求自我认同的道路上倍感艰难。文中还提到，现代社会中越来越多的年轻男性因受“伪娘”文化影响而选择走上这条路，强调在决定之前必须认真思考未来的后果。作者主张要尊重和理解药娘的选择，但也呼吁更多的社会包容和接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@ Last Modified: July 3, 2020
 | Size            | 11002 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Kiritake Kumi                               |
+| Region          | 中国                               |
+| Date            | 2020-04-12                                 |
+| Tags            | 药娘, 性别认同, 女性化, 跨性别, 心理压力, 家庭支持, 社会歧视, 青春期, 激素治疗, 性别认同障碍                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

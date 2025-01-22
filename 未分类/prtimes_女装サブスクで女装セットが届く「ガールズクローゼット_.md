@@ -217,7 +217,7 @@ A. 郵便局留めできます。指定した郵便局にお荷物が送られ�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了一项名为“女孩衣橱”的女装订阅服务，旨在帮助男性以低风险的方式体验女装。通过这个服务，用户可以在家中收到完整的女装套件，包括衣服、化妆工具等，并通过观看教学视频学习如何化妆和穿搭，增加女装的乐趣与自信。文件详细描述了订阅服务的内容、会员福利、订单处理、包裹配送到接收方式，甚至为顾虑隐私的用户提供邮局代收服务。此外，文中还包括对女装体验带来的心理变化的讨论，如如何让人感受到女性视角，如何在日常生活中轻松地进行角色转换。整体内容积极、包容，旨在传递女装带来的乐趣、释放压力和自我探索的机会。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -230,10 +230,10 @@ A. 郵便局留めできます。指定した郵便局にお荷物が送られ�
 | Size            | 21340 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 株式会社UNI                               |
+| Region          | 日本                               |
+| Date            | 2020-07-20                                 |
+| Tags            | 女装, 订阅服务, 女装体验, 心理健康, 时尚, 化妆技巧, 社交支持, 男女角色, 自我探索, 物流隐私                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

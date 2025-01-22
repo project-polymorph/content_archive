@@ -17,7 +17,7 @@
 回答数：4  
 收藏：是  
 
-![答案标题](//static.xinli001.com/node-website/public/img/answer-title.c2f2273a.png)  
+![答案标题](https://static.xinli001.com/node-website/public/img/answer-title.c2f2273a.png)  
 ![Aurora～兴](https://ossimg.xinli001.com/20210509/d26d8eec3f7ce2b87db133fae7e37a82.png?x-oss-process=image/resize,w_100)  
 **心理作者/精华答主/鲸鱼社工**
 
@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位生理男性在性别认同方面的困惑与探索。内容详细描述了他从十三四岁开始，对女性的羡慕心理，以及他对自己性别身份的思考和挣扎。他在心理上经历了对女性的认同渴望，并尝试通过穿着女装和化妆来满足这一心理需求。在工作后，他逐渐开始表达自己作为女性的渴望，包括想要做隆胸手术和割喉结，并且对是否属于异装症或易性症产生了困惑。心理专家给予了建议，指出其表现似乎更符合性别烦躁，并提供了一系列关于性别认同与性别角色的专业分析，强调了接纳自我与自我定义的重要性。整个帖子围绕性别认同所带来的痛苦与自我探索而展开，给与读者心理支持与专业指导。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@
 | Size            | 8109 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 壹心理                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别困惑, 羡慕女生, 生理男, 异装症, 易性症, 性别烦躁, 个体心理, 性别认同, 性别角色, 心理咨询                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

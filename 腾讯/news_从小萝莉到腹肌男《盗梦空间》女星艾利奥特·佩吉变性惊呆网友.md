@@ -3,9 +3,9 @@
 ## 正文 { data-search-exclude }
 
 
-![用微信扫描二维码](data:image/png;base64,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)
+[用微信扫描二维码]
 
-![用QQ扫描二维码](data:image/png;base64,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)
+[用QQ扫描二维码]
 
 ![手机看](https://inews.gtimg.com/newsapp_bt/0/0522140926837_6113/0)
 
@@ -94,7 +94,7 @@ Copyright © 1998 - 2025 Tencent. All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了《盗梦空间》女星艾利奥特·佩吉（Elliot Page）的变性经历与个人生活。艾利奥特·佩吉在2021年5月25日首次在社交平台上发布了变性后的泳照，引发网友的广泛关注与讨论。文章回顾了佩吉的职业生涯起步，从童星到获得奥斯卡提名的演员的精彩经历，并强调了他的勇气与自信。在这篇文章中，许多网友在评论中表达了对佩吉变性决定的支持与鼓励，同时也反映出社会对变性人群体的复杂反应与讨论。通过对佩吉的身份转变和社交媒体反响的记录，这篇报道揭示了在现代社会中多元性别身份的重要性和影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -107,10 +107,10 @@ Copyright © 1998 - 2025 Tencent. All Rights Reserved
 | Size            | 10188 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 封面新闻记者 杨帆                               |
+| Region          | 未知                               |
+| Date            | 2021-05-26                                 |
+| Tags            | 艾利奥特·佩吉, 跨性别者, 变性, 性别认同, 社交媒体, 娱乐新闻, 个人经历, 演员, 公众支持, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

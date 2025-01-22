@@ -52,7 +52,7 @@ R713.31
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了悬吊式腹腔镜技术在乙状结肠代阴道成形术中的应用，共回顾了31例手术案例，主要针对先天性无阴道患者及男性易性癖者的手术情况。研究的目的是探讨该手术的临床效果和安全性，手术过程中采用了特定的操作技术，包括肠段的切取和吻合。结果显示所有手术均成功，术后随访至多月的体验良好，满意度高。该文为临床医学中多元性别相关的医疗技术提供了科学的数据支撑，适合关注变性者及相关患者的医疗专业人士阅读。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,10 +65,10 @@ R713.31
 | Size            | 3000 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 王焕英, 王君, 伍冀湘, 李斌                               |
+| Region          | 中国                               |
+| Date            | 2011-09-01                                 |
+| Tags            | 悬吊式腹腔镜, 乙状结肠, 代阴道成形术, 先天性无阴道, 男性易性癖, 医学研究, 医疗技术, 生殖健康, 性别认同, 变性者医疗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于公安部三局发布的关于公民实施变性手术后如何变更户口登记性别项目的批复，文件编号公治〔2002〕131号。根据文件内容，公安部门同意了福建省公安厅治安巡警总队提出的请求，明确表示，对于经过国家指定医院成功实施变性手术的公民，提供相关证明后，可以申请变更户口登记的性别项目。公安机关需审核申请材料，随后派出所应为申请人办理性别项目的变更手续，并重新编制公民身份号码。此外，已经领取居民身份证的申请者需将原证件交回并重新办理。这一批复对促进变性人群的合法权益具有重要意义，标志着在户籍管理方面对性别认同的政策支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 1158 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 公安部三局                               |
+| Region          | 中国大陆                               |
+| Date            | 2002-09-04                                 |
+| Tags            | 多元性别, 变性手术, 公安部, 户口登记, 性别变更, 法律政策, 公民权益, 福建省, 性别认同, 身份号码                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

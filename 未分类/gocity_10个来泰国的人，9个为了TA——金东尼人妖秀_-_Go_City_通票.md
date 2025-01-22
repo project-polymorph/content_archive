@@ -51,7 +51,7 @@ Go曼谷通票已推出**官方****中文网站**（[_https://gocity.com.cn/bang
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了曼谷最著名的人妖秀之一——金东尼人妖秀，吸引了大量游客前往观看。文件详细描述了人妖秀的历史背景、观赏价值和相关的旅游信息，包括票价、开放时间、地址及通票购买方式等。泰国的人妖，指的是在旅游胜地专事表演的从小服用雌性激素而发育的男性，他们通过华丽的服装和精彩的表演吸引游客，并反映了多元性别的文化现象。金东尼人妖秀结合了泰国传统和现代舞蹈元素，展示了具有浓厚的东方特色的艺术形式，是到曼谷旅游必看的体验之一。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,10 +64,10 @@ Go曼谷通票已推出**官方****中文网站**（[_https://gocity.com.cn/bang
 | Size            | 3280 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2021-03-16                                 |
+| Tags            | 泰国, 人妖秀, 金东尼, 旅游, 多元性别, 文化, 表演艺术, 社会现象, 娱乐, 观光                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

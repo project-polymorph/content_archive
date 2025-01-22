@@ -7,7 +7,7 @@
 来源：[抖音](https://www.douyin.com/)  
 标签：#医学科普 #变性  
 
-![泌外贺厚光](//p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3fae4d1993e694635d93cee78355ccc3.jpeg?from=327834062)  
+![泌外贺厚光](https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3fae4d1993e694635d93cee78355ccc3.jpeg?from=327834062)  
 **泌外贺厚光**  
 认证徽章  
 徐州市中心医院泌尿外科主任医师 贺厚光  

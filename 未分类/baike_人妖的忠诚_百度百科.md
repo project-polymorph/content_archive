@@ -113,7 +113,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖的忠诚》是一首感人至深的泰国流行歌曲，由Vid Hiper R siam演唱，其歌词传达了对于身份认同和爱的渴望。歌曲讲述了Mai和Oak之间的故事，Mai是一位为了爱而选择变性的男孩，他对Oak有着深深的情感，而Oak最终也接受了Mai的转变。MV在拍摄和剪辑上都十分精美，截止2014年6月前，网络点击率已超过1亿。这首歌曲不仅在音乐上打动人心，也反映了多元性别人群的生存状态及他们对社会接受度的期望。此外，歌曲的女主角Nisamanee Lertworapong曾获得2012年度泰国人妖选美大赛冠军，在文化层面上也显示了人妖文化在泰国的影响力和重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -126,10 +126,10 @@
 | Size            | 7344 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人妖, 忠诚, 歌曲介绍, 泰国流行音乐, 变性故事, 身份认同, 爱情故事, Nisamanee Lertworapong, 多元性别, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

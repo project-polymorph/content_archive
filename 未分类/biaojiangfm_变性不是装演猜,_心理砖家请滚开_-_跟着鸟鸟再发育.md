@@ -60,7 +60,7 @@ _（特约专栏，未经允许，不得转载。本文不代表本网观点。�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别问题，重点回应了央视《心理访谈》栏目中某些所谓心理学专家对跨性别者的偏见和无知。通过Jess和云老师的对话，探讨了社会对跨性别者的误解及荷兰在性别认同医疗支持方面的先进经验。文章强调，荷兰为那些性别焦虑的青少年提供了专业的支持和医疗资源，这些医疗服务并不是对其性别认同的强制矫正，而是基于对孩子真实想法的理解。同时，文章提到家庭和社会应给予青少年更大的选择空间，鼓励人们打破对性别角色的刻板印象，以实现真正的性别包容。总体而言，文章在强调尊重个体选择的同时，也呼吁社会对性别多元认知的提升。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@ _（特约专栏，未经允许，不得转载。本文不代表本网观点。�
 | Size            | 5698 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 跟着鸟鸟再发育                               |
+| Region          | 未知                               |
+| Date            | 2016-01-01                                 |
+| Tags            | 性别, 跨性别, 心理健康, 医疗支持, 荷兰, 性别认同, 心理咨询, 性别焦虑, 青少年, 社会包容                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

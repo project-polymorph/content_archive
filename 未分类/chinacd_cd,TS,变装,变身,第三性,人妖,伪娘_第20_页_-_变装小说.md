@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自多元性别档案馆，专注于变装小说的领域。在这里，变装文化和相关角色扮演深受读者喜爱，文件中提到了一系列与变身、变装、及第三性相关的内容，虽然正文部分出现了404错误而无法查看具体内容。根据标签和分类信息可知，涉及的人物以及情节设定往往围绕着伪娘和人妖等角色展开，展现了特定性别认同的表现和探索。该文件不仅包含丰富的变装小说的链接，也涉及到医疗资源、法律政策等相关领域，形成了一个多元的生存现状与体验的交汇点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -113,10 +113,10 @@
 | Size            | 6096 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 变身, 第三性, 人妖, 伪娘, 小说, 多元性别, 角色扮演, 性别认同, 文化研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

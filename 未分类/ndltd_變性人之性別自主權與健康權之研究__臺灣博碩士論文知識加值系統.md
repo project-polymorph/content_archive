@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该论文《变性人之性别自主权与健康权之研究》由张千蓉（Chien-Jung Chang）撰写，指导教授为张永明（Yung-Ming Chang），完成于2011年，学位类别为硕士，所属学校为国立高雄大学法律学系硕士班。论文共127页，探讨了变性人在性别自主权与健康权方面的法律与社会问题。在现代社会，人民的自由与权利尤为重要，但变性人常因社会对其性别认同障碍的误解而受到排斥和不公正对待。该研究试图从法律角度分析性别自主权的性质与功能，促使社会关注并改善变性人面临的多重困境，包括法律地位的不确定性以及生活中面临的各种歧视和压力。本文还建议对变性人相关法律进行研究，推动未来立法的改进。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,10 +79,10 @@
 | Size            | 4028 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张千蓉（Chien-Jung Chang）                               |
+| Region          | 台湾                               |
+| Date            | 2011-01-01                                 |
+| Tags            | 变性人, 性别自主权, 健康权, 性别认同, 基本人权, 法律政策, 医疗资源, 社会环境, 生命故事, 性别认同障碍                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

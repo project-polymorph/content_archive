@@ -34,7 +34,7 @@ LGBTQ 运动旨在促进和保护 LGBTQ 权利以及 LGBTQ 平等。作为一个
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了 LGBTIQ（女同性恋、男同性恋、双性恋、跨性别者、双性人和酷儿）群体所面临的歧视和暴力问题，强调平等是人权的基本原则。文章提到，尽管联合国《世界人权宣言》保障每个人的自由和平等，许多国家的法律仍然对 LGBTQ 群体存在歧视，导致他们面临被捕等生命安全威胁。文中分析了交叉歧视的现象，即不同身份特征（如种族、性别、性取向等）如何共同作用，导致部分群体情况更加严峻，特别是酷儿黑人女性所遭受的双重挑战。最后，本文提到了国际人权服务社（ISHR）在推动 LGBTIQ 权利和改善社会对 LGBTQ 群体态度方面的努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@ LGBTQ 运动旨在促进和保护 LGBTQ 权利以及 LGBTQ 平等。作为一个
 | Size            | 3117 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 国际人权服务社                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | LGBTIQ, 人权, 交叉歧视, 性别认同, 同性恋, 跨性别, 双性人, 社会平等, 国际人权, 性取向                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

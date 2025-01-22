@@ -9,7 +9,7 @@
 
 ![广告](https://ad.gmw.cn/content_banner/content_650x120_qrcodes.jpg)
 
-[版权声明：转载须经版权人书面授权并注明来源](//www.gmw.cn/content/2011-02/14/content_1609313.htm)
+[版权声明：转载须经版权人书面授权并注明来源](https://www.gmw.cn/content/2011-02/14/content_1609313.htm)
 
 光明网版权所有
 <!-- tcd_original_link https://www.gmw.cn/01wzb/2000-04/27/GB/2000%5E1741%5E0%5EWZ2-2727.htm -->

@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容主要探讨了性身份异常及相关疾病，详细描述了性身份异常的定义、表现及其分类，包括易性癖和双性恋等现象。文中解释了性身份异常的心理特征，例如个体在心理上不认同自己的生物学性别，并列举了易性癖患者的具体行为及心理需求。文章进一步分析了易性癖及双性恋的成因，并探讨了基于心理行为治疗及外科手术的干预方法。同时，该文件还提供了一些关于双性恋的社会现象的见解，强调了社会环境对性身份认同的影响。整体上，该文件为了解和研究多元性别及性心理相关内容提供了重要的医学视角和实证资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@
 | Size            | 3916 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 医生在线                               |
+| Region          | 未知                               |
+| Date            | 2008-12-24                                 |
+| Tags            | 性身份异常, 易性癖, 双性恋, 性心理障碍, 性别认同, 医学资源, 心理健康, 性别病理, 性别与社会, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

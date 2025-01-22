@@ -240,7 +240,7 @@ Retrieved from "[https://nonbinary.wiki/index.php?title=Genderfluid/zh-cn&oldid=
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了流动性别（Genderfluid）这一性别身份的定义和特征。流动性别是指性别认同在不同时间可能会变化的个体，可能在男性、女性或非二元性别之间流动。文件中提到流动性别的个体可能同时拥有多重性别认同，并且可能经历快速或缓慢的转变。文中还提到了一些相关身份，如性别流动（Genderfluid）、性别流动体（Fluidflux）和次流动（Demifluid），并将其纳入更广泛的多性别及非二元性别的类别。历史部分回顾了流动性别的概念是如何演变的，从1994年Kate Bornstein首次提到的流动性别到近年来在社会上逐渐被接受和使用的情形。特别提到，2015年Dictionary.com首次将“gender-fluid”作为词条收录。本文可以作为了解流动性别及其影响因素的重要资料，特别是在性别认同方面的探索与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -253,10 +253,10 @@ Retrieved from "[https://nonbinary.wiki/index.php?title=Genderfluid/zh-cn&oldid=
 | Size            | 36857 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 流动性别, 性别认同, 多性别, 非二元性别, 跨性别, 性别流动, Genderfluid, Genderqueer, Bigender, 社会接受性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

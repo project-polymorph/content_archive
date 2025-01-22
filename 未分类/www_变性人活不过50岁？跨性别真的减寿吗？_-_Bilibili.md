@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![变性后能活多久？2010年：变性人活不过40岁？2022年:变性人活不过50岁？跨性别真的减寿吗？](//i0.hdslb.com/bfs/archive/1fb77beb32cd77892ac9507ba608bbb33dd8f73a.jpg@518w_290h_1c_!web-video-share-cover.webp)
+![变性后能活多久？2010年：变性人活不过40岁？2022年:变性人活不过50岁？跨性别真的减寿吗？](https://i0.hdslb.com/bfs/archive/1fb77beb32cd77892ac9507ba608bbb33dd8f73a.jpg@518w_290h_1c_!web-video-share-cover.webp)
 
 来源: 哔哩哔哩  
 时间: 2022-03-20 10:13:04  
@@ -26,7 +26,7 @@
 - 一个人赴泰国做变性手术到底有多痛苦？看看术后恢复过程 你还敢吗？
 - 变性手术做一半 人醒了 看着医生做手术是种什么体验？
 
-![作者头像](//i1.hdslb.com/bfs/face/79977fb1288040a38791ce683b3780b9e1242d00.jpg@96w.webp)
+![作者头像](https://i1.hdslb.com/bfs/face/79977fb1288040a38791ce683b3780b9e1242d00.jpg@96w.webp)
 
 **评论区留言:**
 > 有请各位说变性会减寿的同志们，说出你认为变性会减寿的原因。

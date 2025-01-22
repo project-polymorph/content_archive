@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了28岁两性人付华建的艰辛故事，他因性别特征不男不女而无法办理身份证和户籍，生活中面临重重困难。付华建的童年经历充满了不幸：在幼年时遭遇严重意外，失去了父母，成为无家可归的孤儿。随着年龄的增长，付华建发现自己的生理特征与正常人有显著差异，导致他在社会上遭受歧视和排斥。尽管经过多年的努力尝试寻求认同与身份，付华建的生活仍受到性别模糊问题的制约，甚至在找工作和生活中面临如上厕所被殴打等极端情况。报道中提到，付华建在23岁时终于决定求医，接受检查，得知自己有先天性两性畸形的病症。随着医院同意为其进行手术，付华建开始对未来充满希望，但因经济条件限制仍感到不安。文章不仅揭示了他面临的困境，也反映了社会对多元性别群体的认识与支持的缺乏。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 5472 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 四川新闻网实习记者 郑永嘉                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-01-19                                 |
+| Tags            | 多元性别, 两性人, 性别认同, 身份问题, 医疗资源, 社会歧视, 法律政策, 变性手术, 性别差异, 真实案例                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

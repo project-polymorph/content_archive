@@ -239,7 +239,7 @@ LV.0
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于伪娘蓝川绊的一篇应援帖，内容充满了轻松幽默的氛围，探讨了伪娘这一性别身份的独特魅力以及在性别认同中可能引发的各种情感互动。帖子中提到蓝川绊作为伪娘，其可爱的外貌与身材，并分析了她在与男主间的复杂关系，以此展现了性别流动性和情感的细腻变化。文中还引用了网友对这一角色的玩笑与支持，体现了粉丝文化的活跃氛围。这类讨论不仅促进了对多元性别的理解，也为相关性别群体的情感表达提供了平台。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -252,10 +252,10 @@ LV.0
 | Size            | 6318 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 本田小板凳                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-11-12                                 |
+| Tags            | 伪娘, 性别认同, 情感故事, 夸张幽默, 粉丝文化, 社交媒体, 男男关系, 性别流动性, 性别研究, 网络社区                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

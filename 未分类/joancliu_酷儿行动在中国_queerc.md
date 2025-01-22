@@ -79,7 +79,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档《酷儿行动在中国》探讨了近年来中国LGBT+群体在权利实现方面的历程，虽然面临许多挑战，却也表达了对未来的希望。文件以地图的形式提供了LGBT+群体在法律、文化及社会活动等领域的动态和进展。文中提到了一系列值得关注的事件和问题，包括性别歧视、同性伴侣监护权申请等，并引用了多个相关新闻的报道。此外，作者也列举了一些和 LGBTQ+ 相关的法律法规、研究者和社会组织，希望能够为读者提供一个清晰的现状概述和未来展望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 | Size            | 4786 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | LGBT+, 法律, 性别歧视, 文化, 社会组织, 上海骄傲节, 同性婚姻合法化, 性别认同, 粉红经济, 教育资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -249,7 +249,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了恋物癖的心理学特点及案例分析。内容从恋物癖的定义入手，深入探讨了这一现象在心理学上的理解，以及其可能的成因与表现。文件提到，恋物癖是指在强烈的性欲望驱使下，个体对异性的贴身物品产生依赖，并通过接触或使用这些物品获得性快感。案例中描述了一些典型的恋物癖者，包括中学生因对高跟鞋的迷恋而产生的性冲动，以及成年男性因童年缺乏母爱而形成的恋物癖。这些案例揭示了患者内心深处的情感缺失与社会环境的影响。文件还探讨了恋物癖的治疗方法，强调心理治疗的重要性。此文对理解多元性别心理背景下的恋物癖提供了深入的视角，是了解心理问题和性别研究的重要资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -262,10 +262,10 @@
 | Size            | 28214 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张印                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恋物癖, 心理学, 性别认同, 性欲, 心理疾病, 案例分析, 女性内衣, 性偏好障碍, 人际关系, 社会文化影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

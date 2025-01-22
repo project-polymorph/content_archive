@@ -29,9 +29,9 @@
 
 如果说若干年前达斯汀·霍夫曼在《宝贝》里装扮成女人，还只是明星们为了创新而偶一为之，那么今天电影里男变女、女变男，靠性倒错的招术寻求事业或票房突破，已经成为了一股风潮。
 
-![光明网](//img.gmw.cn/pic/gmwLogo_share.jpg)
+![光明网](https://img.gmw.cn/pic/gmwLogo_share.jpg)
 
-[版权声明：转载须经版权人书面授权并注明来源](//www.gmw.cn/content/2011-02/14/content_1609313.htm)
+[版权声明：转载须经版权人书面授权并注明来源](https://www.gmw.cn/content/2011-02/14/content_1609313.htm)
 <!-- tcd_original_link https://www.gmw.cn/01shsb/2001-08/07/05-4C070708561C8AB148256AA1000830CB.htm -->
 
 

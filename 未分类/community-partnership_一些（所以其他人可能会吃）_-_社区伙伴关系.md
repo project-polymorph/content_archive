@@ -48,7 +48,7 @@ SOME 的淋浴设施一年中的每一天都可供使用。将提供洗浴用品
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档提供了针对多元性别群体的支持资源，特别是有关卫生设施和紧急援助的信息。主要介绍了社区伙伴关系 (TCP) 提供的淋浴设施及相关帮助，详细说明了设备的开放时间和接待对象。文件中提到，SOME（So Others Might Eat）每年持续提供淋浴服务，针对不同性别和特殊人群，如跨性别者和医疗转诊者，设有特定的使用时段。同时，前台还提供必要的卫生用品包，包括肥皂、洗发水等，旨在为弱势群体创造便利条件。文中还包含了紧急庇护热线的联系方式以及访问的相关信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@ SOME 的淋浴设施一年中的每一天都可供使用。将提供洗浴用品
 | Size            | 1485 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Community Partnership                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 社区服务, 卫生设施, 跨性别支持, 紧急援助, SOME, 社会服务, 资源信息, 生活支持, 卫生用品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

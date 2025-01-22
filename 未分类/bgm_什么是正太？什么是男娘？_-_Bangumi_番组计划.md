@@ -131,7 +131,7 @@ futa是女性有了男性的第一性征
 
 ---
 
-![逃げ上手の若君](//lain.bgm.tv/r/100x100/pic/cover/l/32/14/424573_YYLzT.jpg)
+![逃げ上手の若君](https://lain.bgm.tv/r/100x100/pic/cover/l/32/14/424573_YYLzT.jpg)
 
 ---
 
@@ -142,7 +142,7 @@ futa是女性有了男性的第一性征
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了正太与男娘这两个概念，详细阐述了其定义及文化背景。正太通常指的是年龄或形象幼态的男性角色，而男娘则是生理性别为男性但外貌和风格符合女性刻板印象的角色。文中进一步列出了若干关于男娘的特征，包括男性是否穿着女装，或自我认知为女性等。此外，文中也引入了若干用户评论，分享他们对这两个词的理解，涵盖文化、性别认知及社会看法等多方面的话题。文章还包含了一些引用，说明这些词汇在日本文化中的不同含义及使用背景，展现了多元性别表达在当今社会的复杂性与多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -155,10 +155,10 @@ futa是女性有了男性的第一性征
 | Size            | 4770 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 景曜东隅☀                               |
+| Region          | 未知                               |
+| Date            | 2024-07-14                                 |
+| Tags            | 正太, 男娘, 跨性别, 性别认知, 文化讨论, 二次元, 性别角色, 社会文化, 性别表达, 用户讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

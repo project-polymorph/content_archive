@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了香港身份證更改性别标记的新政策。根据最近的法律修订，未完成整项性别重置手术的跨性别人士，若符合特定条件，可以申请更改其香港身份證上的性别记项。文件中强调了这些条件，包括要求申请人已完成以改变性征为目的的手术、过去两年内持续以另一性别生活并接受异性荷尔蒙治疗等。此外，文件提到，此次修订仅限于身份证性别标记的更改，并不影响其他法律政策的处理方式。文章详细列出了相关条件及细节，表达了跨性别者在法律上可能受到的限制和挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 2390 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陳展棋                               |
+| Region          | 香港                               |
+| Date            | 2024-04-03                                 |
+| Tags            | 性别重置, 跨性别, 身份证, 法律政策, 医疗条件, 社会权利, 性别认同, 性别平等, 性别身份, 香港法律                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

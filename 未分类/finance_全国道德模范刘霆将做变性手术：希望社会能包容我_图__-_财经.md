@@ -101,7 +101,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了全国道德模范刘霆在接受变性手术前的个人经历与内心挣扎。刘霆在接受手术前的生活管理、个人身份认同以及与母亲关系中的冲突和和解被详细描述。文章开篇介绍刘霆宣布将接受变性手术的消息，并对其生活做了回顾，特别是他如何在传统社会角色与自身真实身份之间挣扎。刘霆分享了从小到大的经历，描述自己从很小开始就意识到自己是女孩，尽管生理性别是男孩。面对家庭的期望，他在寻求自我认同的道路上经历了重重困难。文章还讨论了刘霆在决心要做自己后的心理变化，以及通过咨询与母亲的支持，最终决定进行手术的经过。其过程不仅是个人身份的回应，也反映了社会对多元性别认知的希望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -114,10 +114,10 @@
 | Size            | 8105 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 京华时报记者张淑玲                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-08-18                                 |
+| Tags            | 变性手术, 多元性别, 个人故事, 家庭关系, 心理挣扎, 社会认同, 性别认同, 医学咨询, 法律政策, 文化冲突                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

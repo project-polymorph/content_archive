@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+克里丝汀·贝克，原名克里斯多夫·贝克，是一位退役的美国海豹突击队成员，成为了美国首位变性海豹突击队成员。她在担任海豹突击队期间参与了波斯尼亚、阿富汗和伊拉克等多个战役，并因表现突出荣获多项勋章，包括青铜星章和紫心勋章。2011年贝克退役后，经历了多次婚姻与育子，并于同年进行变性手术，改名为克丽丝汀·贝克。此后，她开始公开她的新身份，并分享了她的转变历程，包括接受激素治疗和整形手术。贝克在其自传《勇士公主》中探讨了自己的性别认同问题和在军中服役的经历，希望能重返海豹突击队来训练希望加入的女性。她的故事不仅反映了个人的重大转变，也揭示了变性人在军队中所面临的挑战与希望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@
 | Size            | 4579 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 克里丝汀·贝克, 变性, 海豹突击队, 性别认同, 军事承包商, 个人故事, 自传, 女性历程, 荣誉勋章, 美国军队                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -135,7 +135,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了豆瓣社区中激进女权的污名化及相关误解。文章首先解释了激进女权的定义与其起源，指出其立场更加反对父权制度，并详细剖析了豆瓣激进女权群体的共识和发展状况。文章列举了该群体被封禁的原因，强调其反婚反育的主张与隐私性讨论的特征。接着，作者探讨了激进女权在社会中的误解，指出旁观者常常将激进女权与过激行为等同，而忽视其理论基础及追求的女性权利。文章深入分析了豆瓣女权内部的分歧以及自由派与激进派的对立，指出激进女权在推动女性独立中的努力与面临的挑战。此文通过各种实例，例如6b4t的讨论，呈现了当前女权主义者的态度及社会变化的复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -148,10 +148,10 @@
 | Size            | 16858 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 多数事务社                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-05-03                                 |
+| Tags            | 激进女权, 豆瓣社区, 女性主义, 思想斗争, 性别平等, 反婚反育, 6b4t, 女权运动, 社会批判, 意识形态                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -56,7 +56,7 @@ Copyright © Since 2005 JINT All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一部名为《人妖的长奶头》的农村剧相关内容，其主要涉及与性别多元性相关的主题。尽管具体的剧情摘要和人物设置未详细说明，该剧可能以其独特的视角触及性别认同和性别表现的问题，结合传统农村社会背景下的多元性别角色表现。同时，该文件可能包含与性别及其表现相关的文化分析、社会评论或个人故事，通过戏剧的形式展现身份认同的复杂性。文件内容包括图片链接和外部推荐，说明了该剧在某种程度上可以与当代性别话题联系起来。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@ Copyright © Since 2005 JINT All Rights Reserved
 | Size            | 2479 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 农村剧, 性别认同, 文化分析, 传统社会, 戏剧表现, 性别角色, 社会评论, 个人故事, 网络资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

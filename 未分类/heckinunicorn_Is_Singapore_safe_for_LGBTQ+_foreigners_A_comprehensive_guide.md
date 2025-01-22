@@ -5,7 +5,7 @@
 
 by Heckin’ Unicorn | Updated on October 14, 2023
 
-![Is Singapore safe for LGBTQ+ foreigners? A comprehensive guide](//heckinunicorn.com/cdn/shop/articles/queer-merlion-is-singapore-safe-for-lgbt-foreigners-v2-optimised_345x345@2x.jpg?v=1637914991)
+![Is Singapore safe for LGBTQ+ foreigners? A comprehensive guide](https://heckinunicorn.com/cdn/shop/articles/queer-merlion-is-singapore-safe-for-lgbt-foreigners-v2-optimised_345x345@2x.jpg?v=1637914991)
 
 **\[UPDATE\] On 21 August 2022, Prime Minister Lee Hsien Loong has announced that the Singapore government will repeal s377A but retain all forms of anti-LGBTQ+ regulations and policies. [Read more](https://heckinunicorn.com/blogs/heckin-unicorn-blog/377a-will-be-repealed-but-whats-next)**
 
@@ -408,7 +408,7 @@ In effect, the new Bill potentially increases the punishment for inciting violen
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是对新加坡针对LGBTQ+外国人的全面安全指南，由Heckin' Unicorn撰写，并于2023年10月更新。文章首先探讨了新加坡对LGBTQ+社群的法律和社会环境，包括2022年总理宣布将撤销第377A条款但维持针对LGBTQ+的其他法规的情况。文件指出，尽管政府声称LGBTQ+群体受到欢迎，实际上，2020年的一项调查显示，身为同性恋者或双性恋者会导致人们的幸福感下降11%。文章列出了外国LGBTQ+人士访问或生活在新加坡时需要了解的多个方面，包括法律保护的缺失、健康护理中对HIV感染者的歧视、学校环境、以及在职场中可能面临的歧视。它还提到新加坡缺乏自豪游行和对LGBTQ+表现的审查。此指南涵盖了游客、国际学生、外国工作者等不同群体所需了解的重要信息，旨在帮助LGBTQ+人士制定更为明智的旅行和生活决定。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -421,10 +421,10 @@ In effect, the new Bill potentially increases the punishment for inciting violen
 | Size            | 42287 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Heckin' Unicorn                               |
+| Region          | 新加坡                               |
+| Date            | 2023-10-14                                 |
+| Tags            | 新加坡, LGBTQ+, 安全指南, 法律政策, 社会环境, 医疗资源, 歧视, HIV, 教育环境, 职业歧视, 旅行建议                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -45,7 +45,7 @@ _0_条评论
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章详细介绍了泰国罕见的人妖表演秀，尤其是位于曼谷的克里普索人妖秀。文章中提到，这种表演在泰国旅游中占据重要地位，许多游客专门为观赏人妖秀而来到泰国。在表演中，人妖们主要模仿音乐和歌舞的表演形式，比如Calypso，同时也提到这些表演通常为假唱。文章还描述了游客的互动，以及人妖的个人经历，如由于家庭贫困而选择打激素成为人妖以谋生。文中有多处提到表演场地的华丽与热烈的气氛，且指出虽然秀场外表看似光鲜，但人妖们在追逐生存的背后却有着不为人知的辛酸故事。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@ _0_条评论
 | Size            | 4896 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2018-06-27                                 |
+| Tags            | 多元性别, 文化, 表演, 人妖, 泰国旅游, 克里普索人妖秀, 生存故事, 表演艺术, 社会环境, 女性化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

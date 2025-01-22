@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![女声ts小说作家](//pic.qtfm.cn/qtfm/2020/12/04/qingting-kf-avatar.png)
+![女声ts小说作家](https://pic.qtfm.cn/qtfm/2020/12/04/qingting-kf-avatar.png)
 
 ## 专辑信息 { data-search-exclude }
 
 TA的专辑共1个专辑
 
-[![CD/TS/女装子系列.女声音频](//pic.qtfm.cn/device/a2a4230129c64226b80404e0083c3245/1642229215423_kufI97mc-.png!400)](/channels/430192)
+[![CD/TS/女装子系列.女声音频](https://pic.qtfm.cn/device/a2a4230129c64226b80404e0083c3245/1642229215423_kufI97mc-.png!400)](/channels/430192)
 
 **CD/TS/女装子系列.女声音频**  
 CD/TS/女装子/变装系列,女声音频,TS本人录制

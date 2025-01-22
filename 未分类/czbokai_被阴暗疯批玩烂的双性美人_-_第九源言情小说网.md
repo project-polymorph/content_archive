@@ -33,7 +33,7 @@ _（提示：已启用缓存技术，最新章节可能会延时显示，登录�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《被阴暗疯批玩烂的双性美人》是水中月创作的一部网络小说，讲述了一个双性人徐迎的内心挣扎和情感发展。徐迎对自己的身体感到自卑和厌恶，尽管如此，他却又被自身日益增长的欲望所困扰。在一次机缘巧合中，他邂逅了新来的快递员，开始了一段复杂而曲折的情感经历。然而，随着故事的发展，徐迎的生活中出现了一些诡异的变化，包括神秘的液体和不断骚扰他的消息，最终迫使他考虑搬家的决策。此文不仅反映了性别认同的困惑与探索，也深刻揭示了当代网络小说中多元性别议题的表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@ _（提示：已启用缓存技术，最新章节可能会延时显示，登录�
 | Size            | 1808 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 水中月                               |
+| Region          | 未知                               |
+| Date            | 2024-06-04                                 |
+| Tags            | 双性人, 性别认同, 网络小说, 欲望, 内心挣扎, 情感发展, 生活困惑, 小说, 文学作品, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

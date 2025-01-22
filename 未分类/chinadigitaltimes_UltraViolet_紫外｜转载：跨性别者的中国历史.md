@@ -209,7 +209,7 @@ CDT 档案卡
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为对跨性别者在中国历史上存在状况的研究，探讨了古代中国跨性别者的生活经历与历史记载。文件详细记录了从战国至近现代的多种历史资料，涵盖了如李良雨和熊尔圣等著名跨性别者的故事。这些故事展现了她们在严苛的性别制度下所经历的痛苦与挣扎，记录了她们努力以女性身份生活的经历，以及所面临的社会暴力与偏见。文章提到，尽管跨性别术语在现代才逐渐成型，但描述跨性别者及其变性现象的历史记录在古代文献中是普遍存在的。跨性别现象在历史文献中多次被提及，常常与国家灾祸相联系，显示了当时社会对性别变迁的理解与解读。此文不仅为跨性别者提供了更为丰富的历史背景，也强调了对历史记录进行挖掘与理解的重要性，在此基础上期望能够为当代跨性别者带来灵感和力量。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -222,10 +222,10 @@ CDT 档案卡
 | Size            | 37640 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | UltraViolet 紫外                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-04-24                                 |
+| Tags            | 跨性别者, 中国历史, 性别研究, 社会暴力, 偏见与歧视, 变性现象, 李良雨, 熊尔圣, 古代文献, LGBTQ                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

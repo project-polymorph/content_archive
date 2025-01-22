@@ -175,7 +175,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了好莱坞电影中女扮男装这一表现手法的多样性与艺术性。文章由FunHouse影视特效化妆团队发布于2022年，细致回顾了数个经典的女扮男装角色，分析了其背后的表演技巧与特效化妆技术如何提升角色的真实感。文章提到的著名演员包括凯特·布兰切特、安吉丽娜·朱莉、格伦·克洛斯、梅丽尔·斯特里普等，她们在不同电影中成功塑造了令人印象深刻的反串人物。通过讨论这些角色，文章强调了女扮男装如何打破传统性别角色的界限，并为观众带来不同寻常的视觉和情感体验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -188,10 +188,10 @@
 | Size            | 7461 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | FunHouse影视特效化妆                               |
+| Region          | 未知                               |
+| Date            | 2022-05-14                                 |
+| Tags            | 多元性别, 女扮男装, 好莱坞电影, 影视艺术, 角色分析, 特效化妆, 性别表现, 跨性别角色, 电影明星, 影视评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -107,7 +107,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了“跨性别”一词在法语中的翻译及其相关讨论，提供了多种翻译和用法。文件中包含了针对跨性别者的法律政策、社会环境的敏感性例子，特别提到了加拿大政府在跨性别人士的政策和培训方面所做的工作。通过多个具体的例句，展示了有关跨性别的不同语境和使用方式。文件中提到了提高跨性别女性的地位、防止歧视的重要性，以及在禁闭环境中保护跨性别女性的隐私和尊严。还有提到了一些法律和政策的变动，如《第577号特派员指令》等，展示了对跨性别者权益的关注和保护。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -120,10 +120,10 @@
 | Size            | 10293 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 法语翻译, 性别政策, 社会环境, 法律法规, 性别歧视, 女性权益, 跨性别者, 加拿大政策, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

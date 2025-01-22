@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为来自吉他中国论坛的讨论，围绕bass伪娘的性别问题展开。帖子由博先生发布，记录了他对这一人物性别身份的观察和思考，特别是针对其外貌特征（如腿毛和手部细节）的分析。他最初认为bass伪娘可能是女性，但经过仔细观察后改变了看法，认为其性别应该是男性。跟帖的回复中，多位网友对此问题发表了不同看法，显示了群体对性别身份的辨识和讨论。此文档中涉及了性别表现和外貌特征的社会观察，反映了论坛用户对多元性别话题的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,10 +74,10 @@
 | Size            | 2304 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 博先生                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-04-04                                 |
+| Tags            | 性别问题, 伪娘, 论坛讨论, 性别身份, 外貌特征, 吉他, 社区互动, 性别表现, 社会观察, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

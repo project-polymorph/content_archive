@@ -150,7 +150,7 @@ LGBTG、变性手术，不但在成为一种政治风潮，还在成为一种“
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由申鹏撰写，首先批评了自媒体“丁香医生”以情感化的手法撰写的关于儿童性别认同的文章，认为其内容缺乏科学性，并且可能对未成年人的心理发展产生负面影响。文章提到，未成年人在青春期可能会面临性别身份的困惑，但这并不意味着他们真正希望改变性别或性取向。申鹏引用了美国青少年跨性别者的案例，指出一些接受变性手术后悔的例子，强调未成年人缺乏足够的理解做出此类重大决策的能力。文章同时提到，西方社会的政治正确现象正在影响儿童教育，认为这可能导致未成年人在没有充分认识的情况下改变性别。整体而言，文章旨在批判当前关于性别认同的舆论及其可能带来的社会影响，特别是在青少年教育中宣传LGBTQ思想的广泛性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -163,10 +163,10 @@ LGBTG、变性手术，不但在成为一种政治风潮，还在成为一种“
 | Size            | 11847 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 申鹏                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-05-25                                 |
+| Tags            | 性别认同, 儿童性别教育, 未成年人, LGBTQ, 社会影响, 政治正确, 跨性别者, 心理健康, 性别焦虑症, 文化批判                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

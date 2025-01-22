@@ -283,7 +283,7 @@ Witten, T. M. (1999). Hate crimes and violence against the Transgendered: Peace 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《2022年关于跨性别者的社会态度调查报告》是一项关于中国跨性别群体社会态度的研究。该报告通过问卷调查和心理学实验的方式，分析了社会公众对跨性别者的认识与态度，旨在推动性别多元教育和相关政策的制定。报告指出，中国跨性别者群体的实际人数估计在400万以上，但社会可见度依然极低。调查结果显示，绝大多数人认为性别可以改变，且跨性别者对网络和生活中的跨性别者持较为正面的态度。该研究是CW未命名色彩策划的系列研究之一，参与的研究者来自北京大学各个相关学科，体现了学术机构与社群组织、医疗机构的密切联系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -296,10 +296,10 @@ Witten, T. M. (1999). Hate crimes and violence against the Transgendered: Peace 
 | Size            | 27268 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | CW学术组                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-03-31                                 |
+| Tags            | 跨性别者, 社会态度, 调查报告, 性别认同, 非二元性别, 性别教育, 心理学实验, 性倾向, 问卷调查, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

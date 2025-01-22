@@ -134,7 +134,7 @@ Photo by [Aziz Acharki](https://unsplash.com/photos/M2iEigqVbFM) on [Unsplash](h
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别者的生理性别与性别认同之间的差异，深入探讨了跨性别者的生活经历、心理状态以及社会对其的认知与接纳。文章涵盖了跨性别者的身份定义、性别角色的社会构建、以及性别认同的多元性，强调了个人的性别表现与社会规范之间的冲突，同时也总结了在当今社会中相关法律政策的变化。文中引用了多部影视作品，帮助读者更好地理解跨性别者的生活状态与挑战。同时，作者呼吁社会对跨性别者的理解与尊重，倡导平等对待每一个人的权利，并希望通过教育与文化传播消除偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -147,10 +147,10 @@ Photo by [Aziz Acharki](https://unsplash.com/photos/M2iEigqVbFM) on [Unsplash](h
 | Size            | 12258 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 生理性别, 媒体报道, 社会平等, 人权, 性别角色, 电影, 心理健康, 性别意识                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

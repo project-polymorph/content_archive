@@ -94,7 +94,7 @@ Aparicio-García, M. E., et al. (2018). Health and well-being of cisgender, tran
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《非二元性别者之性别认同历程：叙事研究》是一项关于非二元性别者性别认同的质性研究，研究通过对五位非二元性别者的深入访谈，探讨他们的性别认同历史及其出柜经历。研究发现，参与者在成长过程中普遍对出生时指定的性别感到不适，并在获取性别认同信息后通过不断探索来完善自身的性别表现。此外，非二元性别者在出柜时常面临社会对其身份认识的缺乏及情感劳作的压力，因此需要采取策略进行出柜。这一研究不仅填补了台湾地区关于非二元性别研究的空白，还为心理咨询领域提出了重要的建议，旨在增强对非二元性别者的理解和支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -107,10 +107,10 @@ Aparicio-García, M. E., et al. (2018). Health and well-being of cisgender, tran
 | Size            | 4712 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吴礼瑋                               |
+| Region          | 台湾                               |
+| Date            | 2024-01-05                                 |
+| Tags            | 非二元性别, 性别认同, 出柜过程, 社会建构论, 质性研究, 心理咨询, 生活影响, 文化背景, 跨性别, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

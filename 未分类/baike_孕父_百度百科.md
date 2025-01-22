@@ -97,7 +97,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档介绍了“孕父”这一概念，指的是转变为男性的变性人通过人工授精怀孕的情况。文章详尽地讲述了多位变性男性的个人经历和生育故事。从2008年美国的托马斯·比提开始，他是第一个怀孕的男性并产下女儿，接着讲述了1998年德国变性男子迪伦的早期经历，他同样成为了父亲，并在此之后，又提到西班牙变性人鲁本·诺伊·科罗纳多的案例，他通过人工授精代女友怀孕并即将生下双胞胎。每个故事都反映了变性人群体在生育方面的多样性和复杂性，同时探讨了社会对这样的现象接受度。文中除了生殖的技术层面，也包含了情感和法律背景，例如托马斯的怀孕经历涉及到激素治疗和生育能力的保留等更多技术性细节，而鲁本则表达了与伴侣共同育儿的愿望。总体来看，这篇文档不仅提供了关于变性人怀孕的历史案例，也揭示了较深的社会文化认知。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -110,10 +110,10 @@
 | Size            | 9535 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 百度百科                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 孕父, 变性人, 怀孕, 人工授精, 托马斯·比提, 德国孕父, 西班牙孕父, 性别认同, 生育, 社会文化认知                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -80,7 +80,7 @@ Retrieved from "[https://en.wiktionary.org/w/index.php?title=易性症&oldid=786
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了‘易性症’一词，其中文名称及定义，同时探讨了其在医疗和法律领域中的应用与影响。‘易性症’指的是一种性别认同与生理性别不一致的状态，常常导致当事人经历诸多医疗及心理上的挑战。文中指出，这个词通常被认为是贬义的，并不被某些跨性别群体所偏好，尽管一些医院仍使用此术语作为诊断标签。文件中包含易性症在法律判决中的引用，强调了该领域的法律与医疗交集，表明在某些情况下，这种状态会影响到合法权益的保障。此外，文中提供了相关的发音和词源信息，使读者更好地理解这一概念的复杂性。整个文件的内容旨在促进对易性症及其相关话题的理解与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@ Retrieved from "[https://en.wiktionary.org/w/index.php?title=易性症&oldid=786
 | Size            | 6377 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 2019-07-04                                 |
+| Tags            | 易性症, 性别认同, 医疗资源, 法律政策, 跨性别, 生存现状, 性别障碍, 性别焦虑, 诊断标签, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

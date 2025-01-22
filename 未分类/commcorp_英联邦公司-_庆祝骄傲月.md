@@ -55,7 +55,7 @@ Commonwealth Corporation是一家准公共机构，成立于1996年，隶属于�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要庆祝骄傲月，强调LGBTQI+社区在六月份对其自豪身份的肯定。这篇文章回顾了1969年石墙暴动的历史背景，指出了这一事件是争取LGBTQI+平等权利的重要分水岭。作者杰夫·史密斯呼吁公众关注当前LGBTQI+社区面对的挑战，包括基本人权的剥夺。文章介绍了骄傲月的庆祝方式，如游行和社区活动，并推荐了一些关于LGBTQI+身份、历史和文化的相关资源和链接。特别提到虽然波士顿骄傲游行在今年解散，但该地区仍然会举办多种庆祝活动。整体上，这篇文章旨在提升对LGBTQI+社区生存状况的认识，同时鼓励人们参与庆祝活动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@ Commonwealth Corporation是一家准公共机构，成立于1996年，隶属于�
 | Size            | 2974 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 杰夫·史密斯                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 骄傲月, LGBTQI+, 石墙暴动, 平等权利, 社区活动, 庆祝, 人权, 生命故事, 历史, 文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

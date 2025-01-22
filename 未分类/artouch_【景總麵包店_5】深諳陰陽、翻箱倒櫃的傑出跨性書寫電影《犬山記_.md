@@ -96,7 +96,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文献探讨了珍．康萍执导的电影《犬山记》（The Power of the Dog，2021），在跨性别叙事方面的成功，以及其在牛仔文化和性别议题中所表现的复杂性。文章指出，电影通过深刻的角色描写，成功呈现了跨性别的身份认同和生存境遇。电影中的男主角展现了‘自我如他者’的主题，反映了两个世代的男性角色之间的相互影响与挑战。文中还提到了在第94届奥斯卡颁奖典礼上，威尔．史密斯怒击克里斯．洛克事件对电影讨论的影响，以及如何揭示了美国文化中的性别问题。作者通过细致的分析，将电影的情节和角色与社会的性别议题相结合，探讨了所谓的深柜文化、跨性别认同、以及当代社会中对性别的误解与偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,10 +109,10 @@
 | Size            | 12040 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吳牧青                               |
+| Region          | 台湾                               |
+| Date            | 2022-04-06                                 |
+| Tags            | 跨性别, 犬山记, 珍康萍, 牛仔文化, 性别认同, 性别议题, 威尔·史密斯, 奥斯卡, 电影分析, 文化研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

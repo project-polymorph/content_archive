@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了网络上一个关于‘伪娘’相关视频的评论，主要来自吉他中国论坛，包含用户对该视频的反应和评价。作者chawind分享了视频内容，提到了一位男性（大叔）在吉他演奏中的表现，并引发了一些网友的讨论。评论环绕大叔的演奏风格、外观和乐器设置展开，表达了网友对该类内容的不同看法和感受，反映了多元性别表达在社交网络中的现象和讨论。文中提到‘他的弦位好低啊’，并且包含多个关于视频内容的表情符号及互动，标明这些对网络文化的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,10 +108,10 @@
 | Size            | 2619 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | chawind                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-09-07                                 |
+| Tags            | 伪娘, 网络文化, 吉他, 演奏, 用户评论, 性别表达, 多元性别, 社交网络, 视频讨论, 音乐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

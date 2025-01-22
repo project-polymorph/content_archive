@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了关于伪娘文化、足交和H动漫的内容。文本主要探讨了伪娘（穿着女性服装的男性）在动漫中的表现，以及与这一文化相关的视频和图片内容。文章首先提供了一张Cosplay的图片，展示了伪娘的特征，接着详细介绍了与之相关的标签和类别，例如角色扮演、足部崇拜等。此外，文件中列出了多段视频的链接，进一步展示了伪娘在成人动漫中的表现，以及与性相关的情趣内容。此文关注现代互联网文化中，伪娘及其爱好者的生活与表达方式，展现了这一特定群体的多样性与存在。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 3054 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Habinesta                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 动漫, 足交, 角色扮演, 女性化男性, H动漫, 足部崇拜, 性别表现, 社会文化, 成年人内容                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

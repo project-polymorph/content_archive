@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了泰国电视剧《彩虹月亮》，其中涉及的人妖角色与其生活。某匿名用户提到，剧中角色的养父是人妖，这为整个剧情增添了丰富的情感线索。文件中包含一些相关声音的推荐，包括讨论泰国人妖生活现状的节目、相关事件的新闻报道以及艺术创作，描绘了人妖这一群体的社会地位和公众认知。通过对电视剧和声频内容的分析，文件体现出多元性别在文化表现中的重要性，以及社会对人妖群体的理解和刻板印象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,10 +80,10 @@
 | Size            | 3114 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 匿名用户                               |
+| Region          | 泰国                               |
+| Date            | 2023-12-26                                 |
+| Tags            | 泰国, 人妖, 电视剧, 彩虹月亮, 性别多样性, 文化表达, 生活故事, 社会现状, 媒体报道, 艺术创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

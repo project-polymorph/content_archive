@@ -44,7 +44,7 @@ ___(责编：覃博雅、邓志慧)___
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于香港终审法院在2013年5月13日裁定变性人W有权以新的性别进行结婚的历史性判决的详细报道。该裁定认为，香港现行婚姻法律禁止变性人结婚违宪，并指出，变性人在完成变性手术后，有权以新性别与异性结婚。文件中提到，W在经历了长期的变性手术后，成功申请与其男友结婚，法院认为应当包括“由男变女的变性人”在内的法律解释。这一判决不仅为W本人带来了法律上的保障，也对减少社会对变性人的歧视起到了积极作用。文中还提到，香港平等机会委员会对此判决表示欢迎，并呼吁特区政府尽快处理相关法律问题，以保障变性人的权利和尊严。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@ ___(责编：覃博雅、邓志慧)___
 | Size            | 2778 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网-港澳频道                               |
+| Region          | 香港                               |
+| Date            | 2013-05-13                                 |
+| Tags            | 变性人, 结婚权利, 香港法院裁定, 平等权利, 社会歧视, 法律政策, 人权, 变性手术, 平等机会委员会, 香港婚姻法律                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

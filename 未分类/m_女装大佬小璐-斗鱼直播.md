@@ -29,7 +29,7 @@
 - 完成任务，领取大奖！
 - 互动预言
 - 礼物红包
-- 直播回看: [直播回看](//v.douyu.com/author/qy70gp8Q0XAX)
+- 直播回看: [直播回看](https://v.douyu.com/author/qy70gp8Q0XAX)
 
 ## 直播政策 { data-search-exclude }
 
@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位名为女装大佬小璐的主播在斗鱼平台上的直播内容，包括她的个人信息、直播政策以及互动信息。文件中提供了主播的区域信息（扬州市）及其直播时间（2018年7月28日）。该主播专注于女装直播，吸引了23个关注者。内容包括介绍直播的互动方式，例如礼物展馆、奖励任务等，以及禁止未成年人打赏充值的政策。同时，文件补充了主播的个人形象，通过图片展示了其使用VR设备进行直播的场景。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@
 | Size            | 1107 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 扬州市                               |
+| Date            | 2018-07-28                                 |
+| Tags            | 女装, 主播, 斗鱼, 直播, VR, 互动, 政策, 网络安全, 性别表现, 过渡经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

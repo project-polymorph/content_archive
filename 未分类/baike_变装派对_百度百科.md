@@ -94,7 +94,7 @@ DIY，彩绘脸谱，道具服装，不开口说话你一定认不出来这是�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为百度百科中关于“变装派对”的条目，详细介绍了这一社交活动的性质与发展。变装派对是参与者身穿不属于本身职业的服装参加的一种派对，其中不仅包括传统的男女反串，还可以涵盖各种夸张妆容、动漫角色COSPLAY等丰富形式。文中提到了变装派对在现代都市生活中的兴起，强调了参与者热衷于社交和展现个性的重要性。文件还对不同参与者的变装水平进行分类，从门外汉到天外飞仙的等级划分，并详细描述了各个等级的特点。此外，文章也分享了一些著名变装派对的例子，包括明星的参与和世界纪录的创造。整体而言，该文为了解变装派对及其文化提供了丰富的背景信息和实用的视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -107,10 +107,10 @@ DIY，彩绘脸谱，道具服装，不开口说话你一定认不出来这是�
 | Size            | 4643 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装派对, 社交活动, 跨性别文化, 个人表达, 娱乐圈, 化妆与服装, COSPLAY, 社群参与, 现代文化, 流行趋势                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

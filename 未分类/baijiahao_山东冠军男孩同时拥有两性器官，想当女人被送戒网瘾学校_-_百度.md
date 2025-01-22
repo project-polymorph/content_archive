@@ -89,7 +89,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了18岁山东男孩张小乾的故事，他具备双性二元生殖器，渴望成为女性，并因此与父母产生了剧烈冲突。张小乾在学校表现优秀，曾代表中国参加国际比赛，但因向父母透露其性别认同和服用雌性激素遭到父母的拒绝与惩罚。此后他被送往一种自称戒网瘾的行为矫正机构。家庭内部矛盾日益加剧，张小乾为了保护自己甚至准备了报警委托书。通过朋友的交流可以看出，张小乾深感绝望且试图寻求自我认同的支持，但是社会及家庭环境对跨性别者的认同极其复杂，导致其在求助时面临诸多困难。报告还提及了贾某与跨性别社群的心理和生理摧残，以及跨性别者面临的恐惧和被矫正治疗的经历。整体文章反映了在中国社会中，跨性别者在追求自我认同时面临的种种挑战与困苦。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,10 +102,10 @@
 | Size            | 9277 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 河北青年报                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-12-17                                 |
+| Tags            | 跨性别, 性别认同, 家庭支持, 医療资源, 社会认可, 精神健康, 案例研究, 少年经历, 法律政策, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

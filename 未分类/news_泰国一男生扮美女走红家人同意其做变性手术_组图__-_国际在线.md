@@ -46,7 +46,7 @@ poommee目前就读的高中是该府公立的男子高中，所以朋友们常�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名为Poommee的泰国男生，他以美女的形象走红网络，受到了大众的关注。Poommee出生在泰国东北部的呵叻府，自小对护肤、女性服饰充满热情，尽管是男性身份，但从小学开始便以女生的装扮参与活动，并在女子舞蹈比赛中多次获奖。其独特的性别表达得到了家人的支持，他们尊重Poommee的性别认同，并在他成年后陪同其完成变性手术。在他所在的男子高中，Poommee因其漂亮外表被称为唯一的校花，体现了社会对多元性别个体的逐步接受与认同。文章通过多个配图展示了Poommee的风采，同时也探讨了变性话题及性别认同相关的社会现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@ poommee目前就读的高中是该府公立的男子高中，所以朋友们常�
 | Size            | 2108 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 国际在线，编辑：邓晨曦                               |
+| Region          | 泰国                               |
+| Date            | 2016-12-11                                 |
+| Tags            | 性别认同, 变性手术, 社会话题, 泰国男生, 网络走红, 青春故事, 多元性别, 家庭支持, 性别表达, 文化接受                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

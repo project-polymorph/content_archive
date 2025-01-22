@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《No Gender 光谱之外》，主要介绍了一部名为《光谱之外》的纪录片，该片由导演渡邊正吾执导，聚焦于日本双性人漫画家新井祥及其伴侣兼徒弟的生活故事。纪录片探讨了性别认同和性倾向的复杂性，强调性别并非二元的固定状态，而是一个光谱的概念。新井祥通过制作漫画来表达自己的真实故事，并以幽默的方式向读者展现双性人在生活中面临的困境。除了新井祥的故事，纪录片中还记录了其他性少数群体的经历，例如细细老师和性别酷儿青山老师，让观众对这些多元身份有更深入的了解。该片不仅是对LGBTQ+群体的一次深入探讨，也鼓励更多人认识和理解性别的多样性，尤其是在日本这样充满传统束缚的社会中。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 2386 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-08-30                                 |
+| Tags            | LGBTQ, 性别认同, 双性人, 纪录片, 新井祥, 性倾向, 多元性别, 社会环境, 散文漫画家, 文化记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

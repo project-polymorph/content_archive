@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一个阴阳人杨柳的变性故事，展现了他漫长而艰难的性别认同之旅。出生时的他同时具有男性和女性的生殖器官，一生中经历了无数痛苦与挣扎。从被亲生父母遗弃，到不断接受变性手术与心理上的挣扎，杨柳选择了成为女性，而这一决定伴随着身体和心理上的双重挑战与成长。文中详细描述了她进行的多次手术记录，包括丰胸、改脸形、尿道修补和阴道再造的经历，以及手术后的心理变化与自我认同的恢复。在经历了这些挑战后，杨柳不仅获得了女性身份，还开始适应女性的生活方式，享受购物、化妆等女性活动。同时，她也表达了对未来的期待，希望找到真爱，并在故事的结尾展现了她的自信与新生。这一过程真实而感人，给人以深刻的人性思考和对多元性别的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@
 | Size            | 5750 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 南方网                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-03-07                                 |
+| Tags            | 多元性别, 变性故事, 阴阳人, 性别认同, 生命故事, 心理挣扎, 医疗经历, 社会接纳, 法定身份变更, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

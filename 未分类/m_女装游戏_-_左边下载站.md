@@ -59,7 +59,7 @@ Copyright © 2018-2024 zuobiandown.com All Rights Reserved. 左边下载站 版�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了一款名为"女装游戏"的休闲益智类游戏，着重探讨了性别认同和自我接纳的主题。游戏允许玩家根据个人喜好自定义角色外观和个性，并提供高度自由的游戏体验。玩家在不同任务和异世界中探索，与各式各样的NPC互动，从而推动剧情。游戏特色包括性别转换体验、丰富的角色定制、多线剧情、互动式故事讲述等。其优势在于原创性和创新性，不仅为玩家提供了娱乐，也引发了对性别认同的思考。游戏的视觉风格优美，角色之间情感丰富，吸引玩家的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,10 +72,10 @@ Copyright © 2018-2024 zuobiandown.com All Rights Reserved. 左边下载站 版�
 | Size            | 3871 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-06-04                                 |
+| Tags            | 女装, 游戏, 性别认同, 自我接纳, 角色扮演, 互动剧情, 多线发展, 角色定制, 视觉艺术, 原创游戏                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

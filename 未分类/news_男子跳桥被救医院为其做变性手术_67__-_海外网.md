@@ -16,7 +16,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2015年8月17日发生在长春的一起事件，一名30岁男性高先生因心理压力选择跳桥自杀，幸运的是被警方及时救下。高先生表达了他想要变性的愿望，并希望能够以女性的身份生活。长春一家医院对此表示愿意为其进行变性手术，这一举动标志着医疗机构对变性个体需求的支持，也反映出社会对性别多样性的逐渐接受与理解。该事件引发了社会对变性人群及心理健康问题的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,10 +29,10 @@
 | Size            | 636 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 侯兴川                               |
+| Region          | 长春市, 中国                               |
+| Date            | 2015-08-20                                 |
+| Tags            | 变性手术, 自杀预防, 性别认同, 心理健康, 支持与救助, 社会关注, 医疗资源, 性别多样性, 长春, 海外网                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -149,7 +149,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖打排球2》是泰国喜剧电影《人妖打排球》的续集，讲述了排球队在经历解散后，如何在困境中重组并再次追求胜利的故事。影片于2003年3月7日在泰国上映，由翁乙执导，迪·杰西达邦·福尔迪等主演。该片通过幽默且鼓舞人心的剧情，不仅展示了团队的团结与奋斗，也反映了多元性别的接受与包容。影片中的角色富有个性，设定多样，涵盖了不同的社会背景和情感历程，其中，队长Chai作为唯一的非同性恋者，带着对于团队的责任感努力振兴队伍，展示了对多元文化的接纳。影片不仅注重剧情的趣味性，同时通过角色的设定与发展，深入探讨了性别认同与社会角色的主题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -162,10 +162,10 @@
 | Size            | 9651 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 翁乙                               |
+| Region          | 泰国                               |
+| Date            | 2003-03-07                                 |
+| Tags            | 人妖打排球2, 电影, 喜剧, 体育, 多元性别, 性别认同, 泰国电影, 排球, 档案馆, 文化包容                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

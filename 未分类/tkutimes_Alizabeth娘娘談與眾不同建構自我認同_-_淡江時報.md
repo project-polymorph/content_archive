@@ -42,7 +42,7 @@ Alizabeth娘娘是來自泰國的跨性別者，她用笑聲感染全場氣氛�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章采访了Alizabeth娘娘，讲述了她的跨性别经历和自我认同的过程。Alizabeth是一位来自泰国的跨性别者，她在倾诉中分享了自己在孩提时代的痛苦与不被认同的经历，以及如何逐渐接受自己的性别认同。她提到，虽然她的父母一开始并不理解自己的选择，但通过沟通和理解，逐渐得到了支持。在演讲中，Alizabeth指出泰国依然面临严重的性别不平等问题，强调自我认同的重要性，并呼吁大家展现出每个人独特的价值。最后，她鼓励同学们每天反思自己的情感状态，从而认识真实的自我，接受彼此的不同与多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@ Alizabeth娘娘是來自泰國的跨性別者，她用笑聲感染全場氣氛�
 | Size            | 3509 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 淡江时报                               |
+| Region          | 台湾                               |
+| Date            | 2021-04-05                                 |
+| Tags            | 跨性别, 自我认同, 性别平等, 泰国, 生命故事, 心理健康, 社会环境, 性别多样性, 教育, 公共演讲                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -181,7 +181,7 @@ _伙伴关系_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容围绕保护女同性恋、男同性恋、双性恋、变性人、间性人和酷儿（LGBTIQ+）的权益和需求展开，尤其是在流离失所和紧急情况下的特殊保护需求。内容强调了LGBTIQ+人员在性取向、性别认同、性别表达和性特征（SOGIESC）等方面所面临的人权侵犯风险，并列出了难民署（UNHCR）和相关工作人员在应对这些风险时应采取的保护措施和策略。文件中提到要确保与LGBTIQ+群体互动的工作人员了解该群体的需求，提供一个友好、保密、安全的环境，积极地征询和纳入LGBTIQ+人士的意见，以便为他们提供必要的服务和支持。此外，文件中定义了不同的术语，如SOGIESC和LGBTIQ+，并澄清了这些术语的重要性，强调了理解和使用正确语言的重要性，避免任何可能的贬义称呼。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -194,10 +194,10 @@ _伙伴关系_
 | Size            | 17655 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 联合国难民署（UNHCR）                               |
+| Region          | 未知                               |
+| Date            | 2024-01-29                                 |
+| Tags            | LGBTIQ+, 人权, 流离失所, 女同性恋, 男同性恋, 双性恋, 变性人, 间性人, 酷儿, 紧急保护, 性别认同, 性别表达, 法律政策, 社会服务, 人道主义援助                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

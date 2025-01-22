@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档总结了多元性别相关的研究文章，主要集中在心理依赖、性幻想、爱情与性行为、产后性问题等主题上。作者田聚群在不同文章中探讨了性行为与心理状态之间的关联，以及这些因素如何影响个体的快乐和痛苦。这些研究涵盖了心理依赖的形成机制，性心理障碍的诊断标准，以及身体性别与心理性别之间的关系深化了对性别多样性的理解。此外，文档中提供了多个链接指向作者发表的论文，包括相关的摘要和关键词，旨在帮助研究者和对此主题感兴趣的人们更好地理解这些复杂的社会与心理现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 6924 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 田聚群                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性幻想, 心理依赖, 性心理障碍, 快乐模型, 身体性别, 心理性别, 社会性别文化, 性行为, 心理治疗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

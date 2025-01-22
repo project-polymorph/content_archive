@@ -45,7 +45,7 @@ Andy 在勇敢以女裝扮相生活後改名為 Evon。蘇荷曾經告訴 Evon�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于电影《迷失安狄》的评论文章，探讨了跨性别者在社会中的经历，特别是以马来西亚为背景。文中描述了主角Andy（后改名Evon）的生命旅程，面对家庭的拒绝与社会的排斥，体验到的希望与失望之间的挣扎。李李仁在影片中以女装身份出演Evon，呈现了跨性别者在追寻自我认同与社会接受时的痛苦。这部影片不仅反映了马来西亚对LGBT群体的忽视，还深刻揭示了人际关系的复杂性，主人公在与他人的关系中经历了从希望走向绝望的过程。作者通过生动的描述表达了对Evon生命悲剧的同情，并对社会对跨性别者的忽视表示愤慨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@ Andy 在勇敢以女裝扮相生活後改名為 Evon。蘇荷曾經告訴 Evon�
 | Size            | 5250 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | MyVideo 影音編輯室                               |
+| Region          | 马来西亚                               |
+| Date            | 2021-10-14                                 |
+| Tags            | 跨性别, LGBT, 电影评论, 马来西亚, 社会排斥, 生命故事, 希望与绝望, 人际关系, 文艺作品, 李李仁                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

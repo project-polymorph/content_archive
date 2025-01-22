@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![Tango](//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png)
+![Tango](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tango-nosources.svg/45px-Tango-nosources.svg.png)
 
 此条目**需要补充更多[来源](https://zh.wikipedia.org/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90)**。 _(2024年7月10日)_请协助补充多方面[可靠来源](https://zh.wikipedia.org/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90)以[改善这篇条目](https://zh.wikipedia.org/w/index.php?title=%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E&action=edit)，[无法查证](https://zh.wikipedia.org/wiki/Wikipedia:%E5%8F%AF%E4%BE%9B%E6%9F%A5%E8%AF%81)的内容可能会因为[异议提出](https://zh.wikipedia.org/wiki/Template:Fact)而被移除。致使用者：请搜索一下条目的标题（来源搜索：["变装皇后"](https://www.google.com/search?&as_eq=wikipedia&q=%22%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%22) — [网页](https://www.google.com/search?q=%22%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%22)、[新闻](https://www.google.com/search?tbm=nws&q=&as_src=-newswire+-wire+-presswire+-PR+-press+-release+-wikipedia&q=%22%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%22)、[书籍](https://books.google.com/books?&as_brr=0&as_pub=-icon&q=%22%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%22)、[学术](https://scholar.google.com/scholar?&q=%22%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%22)、[图像](https://www.google.com/search?tbm=isch&safe=off&q=%22%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%22)），以检查网络上是否存在该主题的更多可靠来源（[判定指引](https://zh.wikipedia.org/wiki/Wikipedia:%E5%8F%AF%E9%9D%A0%E6%9D%A5%E6%BA%90)）。
 

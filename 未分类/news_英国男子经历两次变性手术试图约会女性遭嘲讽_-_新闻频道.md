@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了英国男子凯恩的变性经历，他曾经历两次变性手术，第一次手术后变成女性的他，经历了17年的女性生活，却在情感和性别认同上感到困惑与失落。最终，他选择重新变回男性。凯恩尝试与女性约会时常遭到拒绝与嘲讽，但在遇到现任女友埃姆斯后，他们之间的关系有所改善，并计划结婚。凯恩希望通过自己的经历拍摄纪录片《变性错觉》，提醒他人在做出变性决定前，必须三思并接受心理辅导。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 2832 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 京华时报                               |
+| Region          | 英国                               |
+| Date            | 2010-11-09                                 |
+| Tags            | 变性手术, 性别认同, 心理辅导, 凯恩, 女性角色, 情感经历, 约会, 纪录片, 社会反响, 变性经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

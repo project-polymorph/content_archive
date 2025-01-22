@@ -91,7 +91,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件提供了一场名为“一同跨步——跨性别生命历程中的困境与韧性”的讲座活动的详细信息，旨在通过分享真实的跨性别生命经验，增进公众对多元性别议题的理解。讲座将介绍跨性别个体面临的日常生活、医疗、职场、学校与家庭中的各种挑战，以及他们如何在这些挑战中展现韧性，甚至取得繁荣。活动特别适合对跨性别议题感兴趣、或有相似性别挣扎的学生。文件详细列出了活动的时间、地点、分享者及报名方式，意在促进校园内对多元性别权益的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -104,10 +104,10 @@
 | Size            | 3753 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 国立台湾大学学辅中心                               |
+| Region          | 台湾                               |
+| Date            | 2024-04-17                                 |
+| Tags            | 跨性别, 多元性别, 生命历程, 健康议题, 教育活动, 社会环境, 生命故事, 性别认同, 文化意识, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

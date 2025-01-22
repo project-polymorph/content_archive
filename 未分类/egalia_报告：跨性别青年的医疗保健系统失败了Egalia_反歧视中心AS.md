@@ -80,7 +80,7 @@ Hamnvik 和 Løvdal 还回顾了各种治疗知识库，并展示了如何实施
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份报告由Egalia反歧视中心发布，探讨了挪威医疗系统中对跨性别青年（未成年人）医疗服务的缺失与人权侵犯。报告由哈佛医学院的Ole-Petter Hamnvik博士和反歧视律师Lene Løvdal共同撰写，指出现行医疗保健制度缺乏对跨性别青年的个人化评估及尊重，导致他们在获取必要医疗服务时遭遇严重障碍与失败。报告批评了挪威医疗体系中性别不一致患者的权利未能得到恰当保护，尤其是NBTK（性别不一致国民治疗服务）对未成年患者的系统拒绝，认为这样的做法不仅违背患者的基本权利，也是对医疗伦理的严重忽视。报告的核心内容包括跨性别医疗保健的专业性和伦理性讨论、挪威性别治疗服务现状的剖析，以及针对现行政策与卫生当局职能的深刻反思与批评。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@ Hamnvik 和 Løvdal 还回顾了各种治疗知识库，并展示了如何实施
 | Size            | 8641 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Egalia反歧视中心                               |
+| Region          | 挪威                               |
+| Date            | 2024-10-25                                 |
+| Tags            | 跨性别, 医疗保健, 人权, 法律, 政策, 医疗体制, 未成年人, Egalia反歧视中心, 报告, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

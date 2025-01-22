@@ -128,7 +128,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了刘霆的变性经历以及与母亲陆永敏的情感互动。刘霆于2015年完成了变性手术，成为女性刘婷。文章中描述了刘霆从小照顾身患尿毒症的母亲，成为全国道德模范的过程，以及在光环下的焦虑和孤独。母亲对刘霆变性的接受经历了纠结和转变，从一开始的无法理解，到后来通过心理医生和自身的探索，理解孩子的真实身份。文章深入反映了母女间深厚的情感和对生活的希望，同时探讨了社会对多元性别个体的接纳与挑战。本文不仅是个人故事，也反映了变性个体在家庭与社会中所面临的复杂心理与社会支持的需求，呼吁社会对多元性别的包容与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -141,10 +141,10 @@
 | Size            | 6105 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新京报                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-13                                 |
+| Tags            | 多元性别, 变性, 刘霆, 母亲, 心理支持, 社会包容, 生命故事, 医疗经历, 法律政策, 情感互动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

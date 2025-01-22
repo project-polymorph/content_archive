@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章探讨了异装癖（亦即异性装扮癖）的心理学背景与相关因素，主要关注这一现象的表现及成因，特别是对男性群体的影响。首先，文章定义了异装癖，明确其为一种通过穿着异性服装获取性满足的心理状态，并指出在西方社会中，异装癖受到的接受度相对较高。接着，作者分析了导致异装癖的多种心理因素，包括对两性关系的恐惧、家庭环境对性别认同的影响以及不当的教育引导。文章还分类区分了异装癖与易性癖、同性恋及恋物癖之间的不同之处，指出异装癖患者较多地在婚姻中获得支持，能够维持正常的性关系。此外，文中还提及了异装癖的多种治疗方法，如早发现早治疗、通过结婚建立健康的异性关系，以及更为极端的厌恶疗法等。综上所述，这篇文章为理解异装癖这一复杂的心理现象提供了丰富的视角与深入的分析。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -105,10 +105,10 @@
 | Size            | 9334 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 佚名                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-02-11                                 |
+| Tags            | 异装癖, 性心理, 跨性别, 心理疾病, 治疗方法, 家庭环境, 社会文化, 性别认同, 心理因素, 男性心理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

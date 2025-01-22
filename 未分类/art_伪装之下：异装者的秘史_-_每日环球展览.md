@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![Imsm top](//icity-static.icitycdn.com/assets/m/shares/imsm-top-630a6808b29c78c019cfba75fba692548a5c075c1a55f2a099086906e3f61de4.png)
+![Imsm top](https://icity-static.icitycdn.com/assets/m/shares/imsm-top-630a6808b29c78c019cfba75fba692548a5c075c1a55f2a099086906e3f61de4.png)
 
 ![展览封面](https://icity-static.icitycdn.com/images/uploads/ap/imsm/event/pic_head/spqsfjm/7f096c8ba0cc0b03spqsfjm.jpg/1519455353/640x0)
 
@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件标题为《伪装之下：异装者的秘史》，是关于一场展览的详细介绍。展览由法国电影导演Sébastien Lifshitz策划，旨在展示他私人摄影收藏中与异装文化相关的图片，展期为2018年2月23日至6月3日，地点位于伦敦摄影师艺廊。本次展览通过男扮女装和女扮男装两个部分，展现1880年代以来异装文化的演变，展品包括了来自不同阶层、行业和国家的人物 photographes。展览中不仅展出了历史上的异装者，还提及了变性女艺人Marie-Pierre Pruvot的生平，以及Lifshitz所做的关于异装者的纪录片《斑比》。展品中的照片反映了异装者对性别身份的探索以及当时社会对其的接受度，给观众提供了一个难得的了解异装文化的机会。总的来看，展览通过精美的摄影作品与背景故事，让人们重新审视传统性别观念和异装者的生活经历。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 3561 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Sébastien Lifshitz                               |
+| Region          | 伦敦                               |
+| Date            | 2018-02-23                                 |
+| Tags            | 异装文化, 性别研究, 摄影艺术, 展览信息, 历史, 变性人, Sébastien Lifshitz, Marie-Pierre Pruvot, 文化研究, 社会态度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

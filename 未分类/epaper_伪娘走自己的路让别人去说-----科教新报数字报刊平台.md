@@ -63,7 +63,7 @@ copyright © 2008 VOC.COM.CN, Geo Info. All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了伪娘这一群体在社会中的呈现与发展，探讨了其文化内涵与社会接受度。伪娘，指生理上为男性但打扮得像女性的男性，最初因快男刘著的登场而进入公众视野。文章通过多个实例，如小白和西西的经历，展示了伪娘在自我认同、社会互动中的种种困难与勇气。小白在初中时期因性取向而自卑，但在高中环境中获得了尊重与接纳。西西则以设计专业背景，积极探索自己的性别表达。这些故事反映了伪娘群体面对的挑战与社会的逐渐变迁，同时也揭示了伪娘文化与现代审美的交融。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,10 +76,10 @@ copyright © 2008 VOC.COM.CN, Geo Info. All Rights Reserved
 | Size            | 5875 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 马鹿                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-06-02                                 |
+| Tags            | 伪娘, 另类文化, 性别表达, 社会接受度, 人生故事, 过渡经历, 性取向, 心理学, 文化分析, 青年群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

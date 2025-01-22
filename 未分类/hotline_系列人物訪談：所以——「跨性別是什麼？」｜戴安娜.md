@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是系列人物访谈中的一篇，主题围绕跨性别者戴安娜的生命故事与内心探索。戴安娜曾是台湾的一名女性艺术家，逐渐认知到自己的性别认同与生理性别不符。通过与跨性别志工的交流，她开始探索跨性别的定义与可能性，在认知上经历了重大的转变。戴安娜在2016年之后开始反思自己的性别认同，并勇敢地向外界公开自己的跨性别身份，同时也分享了自己的身体变迁经历。她详细描述了切除双乳的过程，以及未来是否要进行全面的性别重置手术的考虑，展现了个体在性别与社会期待重新定义中的复杂情感。文中探讨了社会对跨性别者的认知与支持缺失的现实，同时强调个人自我认同与内心和谐的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,10 +65,10 @@
 | Size            | 5215 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | zoeychung                               |
+| Region          | 台湾                               |
+| Date            | 2024-03-11                                 |
+| Tags            | 跨性别, 性别认同, 个人故事, 生命经历, 台湾, LGBT, 心理评估, 身体变迁, 社会支持, 性别框架                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

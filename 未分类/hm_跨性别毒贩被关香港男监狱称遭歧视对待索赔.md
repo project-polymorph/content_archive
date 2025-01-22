@@ -36,7 +36,7 @@ Navarro又称，每次往医院前均要在惩教人员面前露出胸部。香�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名菲律宾籍跨性别女性Navarro Luigi Recasa因贩运毒品被关押在香港男子监狱的经历。Navarro自12岁起接受跨性别治疗，计划进行变性手术。然而，在监狱中，她遭遇了不人道的对待，包括被要求在没有女性惩教员的情况下裸身搜身，且未能接受荷尔蒙治疗，导致其身体出现男性特征，给她带来了极大的心理困扰。此外，Navarro还受到各种限制，如不允许她佩戴胸围、参与宗教活动和与其他囚犯互动等。本文提到香港警方将会了解这起事件，但惩教署对此事件未作回应。文章从跨性别者在监狱内的生存现状切入，揭示了法律与人权方面的问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@ Navarro又称，每次往医院前均要在惩教人员面前露出胸部。香�
 | Size            | 2328 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国侨网                               |
+| Region          | 香港                               |
+| Date            | 2015-06-14                                 |
+| Tags            | 跨性别, 毒品贩运, 人权, 监狱待遇, 荷尔蒙治疗, 性别歧视, 司法复核, 菲律宾, 社会保障, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

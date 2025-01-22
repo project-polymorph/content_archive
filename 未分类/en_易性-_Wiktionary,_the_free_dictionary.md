@@ -54,7 +54,7 @@ Retrieved from "[https://en.wiktionary.org/w/index.php?title=易性&oldid=741783
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于"易性"的多元性别相关内容，主要摘录自维基词典。文件中详细解释了"易性"一词的发音及其含义，包括作为动词的用法，表现出对性别变换的相关理解和描述。通过引用的文献，展示了社会对于性别认同和转变的态度，文中提到个别在进行性别转换后的感受与挑战，如"可以相信，如果易性成功，他（她）也就容易当好这个角色"，同时也提到了一些有关心理健康的问题，如抑郁和自杀倾向，强调了社会支持的重要性。注释部分请求添加例句的英文翻译。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,10 +67,10 @@ Retrieved from "[https://en.wiktionary.org/w/index.php?title=易性&oldid=741783
 | Size            | 2853 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Deng Weizhi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 易性, 变性, 多元性别, 性别认同, 性别转换, 心理健康, 抑郁症, 自杀倾向, 社会支持, 人类权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

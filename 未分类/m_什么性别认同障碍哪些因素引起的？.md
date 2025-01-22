@@ -68,7 +68,9 @@ Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了性别认同障碍（也称性别认同或性识别障碍）及其可能的成因。文中首先解释了性别认同障碍的定义，指出这一现象常常与一种异性装扮癖相关，是心理学和精神医学领域对经历严重性别烦躁人群的描述。正常儿童在约3岁时即可识别自身性别，并逐渐形成稳定的性别认知。然而，有些儿童的性别认知与其生理性别不一致，表现出对异性性别的偏好或行为，导致他们感受到认同障碍。  
+
+文章进一步分析了性别认同障碍的成因，主要分为先天因素和后天因素。先天因素包括胚胎时受到不平衡激素影响，而后天因素则涉及家庭环境对儿童性别认知的影响，例如，父母对孩童性别的期望可能会造成性别认同的问题。文件最后讨论了性别歧视这一相关主题，指出性别歧视是由于对性别的偏见及不平等待遇所造成的社会问题。这篇文章不仅为读者提供了丰富的理论知识，还试图唤起对性别认同及其影响的重视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,10 +83,10 @@ Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841�
 | Size            | 3870 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-06-18                                 |
+| Tags            | 性别认同障碍, 心理学, 精神病学, 性别认知, 性别歧视, 性别角色, 性别认同, 家庭环境, 生理性别, 社会影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

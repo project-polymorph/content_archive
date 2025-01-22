@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位50岁男性老陈进行变性手术的过程和经历。手术于2007年4月26日在沈阳的杏林医院进行，手术主要包括生殖器的切除和再造，手术时长约四个小时。文件中提及手术的准备工作和老陈术前的精神状态，表达了对手术成功的信心。手术成功后，老陈将成为我国年龄最大的变性人，标志着他个人性别认同的重大转变。通过这样真实的经历，本文展现了变性过程中的生理与心理变化，并引发了对变性人群体的社会关注，反映出多元性别议题的复杂性和重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 1045 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人民网                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-04-30                                 |
+| Tags            | 变性手术, 性别认同, 变性人, 手术记录, 沈阳, 多元性别, 心理健康, 生理转变, 社会关注, 真实案例                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

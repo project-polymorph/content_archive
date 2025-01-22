@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了多元性别的探索与认同，撰写者洪梓修在此文中深刻剖析了同志身份认同的各个阶段，从“认同混淆”到“认同整合”六个阶段，提供了有关同志族群的定义、历史统计以及心理学家Cass的性别认同形成模式。作者通过描绘在社会主流文化影响下同志人士所经历的认同挑战，强调了自我认同的重要性及其复杂性。此外，此文还提及了如何在大学阶段探索性别认同，鼓励读者深入了解自己的身份和性向，参与相关的社交活动，并寻求心理辅导帮助。文中还包含丰富的参考资料，供读者进一步学习和了解相关主题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@
 | Size            | 6157 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 洪梓修                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别认同, 同志, 自我探索, 心理学, Cass模型, 认同过程, 性向, 大学生活, 支持资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

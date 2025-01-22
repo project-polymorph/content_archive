@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了日本“伪娘”文化的崛起，以及其对年轻男性影响的调查结果。根据2012年对2000名日本男女的调查显示，约35%的青年男性每天修眉，57%的人使用洗面奶，18%的男性每天打粉底。伪娘，或称“男少女”，是指男性在日常生活中以女性形象出现，受到媒体和动漫文化影响的现象。文中提到，伪娘文化自2001年诞生以来，在日本越来越流行，成为社会的新特色。近年来，很多日本商家对这一文化表现出浓厚的兴趣，出版相关杂志，开设伪娘主题的俱乐部与餐厅。“伪娘”文化的流行不仅推动了相关产业的发展，也引发了对于男性身份和社会文化的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 2497 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国广播网                               |
+| Region          | 日本                               |
+| Date            | 2012-08-14                                 |
+| Tags            | 伪娘, 男少女, 文化现象, 青年男性, 美容, 动漫影响, 日本社会, 社交活动, 产业发展, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

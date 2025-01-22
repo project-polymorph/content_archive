@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细探讨了一名17岁少年选择自宫手术的极端经历，并分析了这一选择背后的社会、家庭和文化因素。文中报告了一名少年因性别认同困扰而进行的自我伤害行为，强调了其背后的心理和社会问题。这一事件引发了对变性手术的讨论，尤其是现有的法律和医疗制度对于年轻易性癖患者的限制。文件中提到，变性手术并非单纯的医学问题，还涉及到家庭支持、经济条件和社会接受度等多方面的影响。文章呼吁社会应给予更多理解和关注，以缓解这一群体的痛苦。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@
 | Size            | 3558 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国江苏网                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-04-07                                 |
+| Tags            | 多元性别, 性别认同, 自宫手术, 心理健康, 医疗资源, 家庭支持, 法律政策, 社会环境, 易性癖, 青少年经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

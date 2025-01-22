@@ -111,7 +111,7 @@ Photo Credit：《暴力蜜桃調教中》，來源：女性影展
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细探讨了暴力蜜桃（Peaches）在电音派对中如何将性别解放的理念融入音乐与表演之中。作者通过对暴力蜜桃的巡演纪录片进行分析，揭示了她的音乐风格与艺术表现形式反叛传统性别规范，致力于挑战社会中的父权体制。暴力蜜桃的演出不仅仅是一场音乐会，更是一个宣扬性别平等与女性赋权的社会运动。文章强调了暴力蜜桃在表演中运用极具挑衅性的服装和音乐，旨在传达对酷儿文化和女性权利的坚定立场。文中多次提到她的歌曲充满激情与直白之美，以此反映她对生活的真实表达和对社会的反抗。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -124,10 +124,10 @@ Photo Credit：《暴力蜜桃調教中》，來源：女性影展
 | Size            | 9138 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | eld editor                               |
+| Region          | 未知                               |
+| Date            | 2024-10-30                                 |
+| Tags            | 女性影展, 暴力蜜桃, 电音派对, 性别解放, 社会运动, 酷儿文化, 女性赋权, 艺术表达, 性别平等, 音乐纪录片                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

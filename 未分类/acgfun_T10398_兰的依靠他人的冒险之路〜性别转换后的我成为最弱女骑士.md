@@ -27,7 +27,7 @@ Designed by **[AcgFun!](https://acgfun.net)**
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《兰的依靠他人的冒险之路〜性别转换后的我成为最弱女骑士》，内容讲述了名为兰的角色在经历性别转换的过程中，如何在团队中找到自己的位置，成为一名女骑士。文件详细描述了兰在冒险过程中所经历的挑战和成长，尤其是在依靠他人和团队合作方面的经历。内容中提到兰虽然是团队中最弱的，但是她通过不断努力和接受帮助，最终找到自我认同和价值。这是一篇探讨性别认同与团队角色的生动故事，也反映了多元性别人群中的成长经历与社会互动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@ Designed by **[AcgFun!](https://acgfun.net)**
 | Size            | 785 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别转换, 女骑士, 冒险故事, 团队合作, 个人成长, 心理发展, 身份认同, 社会支持, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

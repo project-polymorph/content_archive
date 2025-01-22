@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2019年1月22日美国最高法院通过特朗普政府的军事禁令，禁止跨性别者在军队服役的决定。此禁令标志着奥巴马时期允许跨性别者入伍政策的逆转。文章中引用了特朗普在2017年通过推特首次发布该禁令时的言论，称医疗成本和混乱会拖累军队。尽管这一禁令在2017年曾遭到美国联邦法院的否决，判决允许跨性别者正常服役，但最高法院此次的裁决使得禁令得以实施。根据2016年的数据，约8980名军人被认定为跨性别者，显示出这一政策对现役军人的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,10 +33,10 @@
 | Size            | 1171 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 海外网                               |
+| Region          | 美国                               |
+| Date            | 2019-01-22                                 |
+| Tags            | 美国最高法院, 跨性别者, 军事禁令, 特朗普, 法律政策, 军队服役, 奥巴马政府, 社会环境, 医疗成本, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一些跨性别者和非二元性别者的故事，以欢庆骄傲月为主题，重点推荐几款包含相关角色和故事情节的优质游戏。这些游戏通过多样的表现形式，不仅展现了多元性别的生命故事，还通过互动方式让玩家体验包容和理解。具体推荐的游戏包括《花映繁星》、《符咒学》、《The Arcana: A Mystic Romance》、《Diablo Immortal》和《A Year of Springs》。每款游戏都附有开发者信息、用户评分、评价数量和内容分级，为玩家提供了丰富的信息，增强了对性别多样性的理解和尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,10 +97,10 @@
 | Size            | 3761 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别认同, 跨性别者, 非二元性别者, 骄傲月, 游戏推荐, 包容性, 社会环境, 生命故事, 游戏体验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

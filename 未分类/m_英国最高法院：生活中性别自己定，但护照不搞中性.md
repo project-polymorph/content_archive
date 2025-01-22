@@ -46,7 +46,7 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了英国最高法院对维权人士艾伦凯恩提出的法律挑战的裁决。艾伦凯恩主张，政府不允许在护照上选择性别中立选项（如‘X’，表示不指明性别）是一种歧视，违反了人权法。然而，法院裁定护照上的性别标记必须明确为男性或女性。法院指出，虽然个体可以在生活中自由认同自己的性别，但在法律文件中必须有清晰的界定。艾伦凯恩的斗争自1995年开始，反映了全球对于非二元性别认同的逐渐关注。随着越来越多的国家开始接受性别中立证件，艾伦凯恩表示将在欧洲人权法院上诉，继续为非二元性别者的权利奋斗。文章中还提及，尽管提供中性护照的国家逐渐增多，但这并不能保证持有者在其他国家的入境权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 | Size            | 3789 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 观察者网 李丽                               |
+| Region          | 英国                               |
+| Date            | 2021-12-15                                 |
+| Tags            | 性别中立, 非二元性别, 护照政策, 人权法, 法律挑战, 艾伦凯恩, 性别认同, 社会权益, 英国最高法院, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

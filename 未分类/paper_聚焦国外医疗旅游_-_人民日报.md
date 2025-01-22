@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了医疗旅游现象，特别是中国人赴日本进行身体检查和治疗的经历。作者余易安讲述了周敏的一次赴日医疗旅游，尽管在体检中被告知有94%的概率可能患有肺癌，但她用乐观的心态坚持完成旅游。这篇文章反映了日本医疗体检的高效与细致，及其与中国医疗服务的对比。通过这个案例，作者还探讨了医疗旅游的经济规模和潜在的商业利益，并强调了健康意识的重要性。文中引用了多位专家的观点，指出中国在医疗技术上的进步并不逊色于国外，提倡公众应具备理性的健康消费观念。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -82,10 +82,10 @@
 | Size            | 5874 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 余易安                               |
+| Region          | 中国                               |
+| Date            | 2011-09-01                                 |
+| Tags            | 医疗旅游, 肺癌, 日本体检, 健康意识, 医疗服务, 社会经济, 癌症预防, 国外医疗, 消费者权益, 医疗市场                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了程菲（化名）在女儿陪同下决定进行变性手术的故事，突显了这个特殊家庭的理解与宽容。程菲，一个49岁的男子，因厌恶自己的性别而经历了长达20年的痛苦。他的妻子和两个女儿在艰难的家庭伦理与亲情面前，用理解和支持陪伴着他接受了这个决定。经过多年的挣扎与痛楚，程菲终于决心进行变性手术，在家庭成员的支持下，展现了她追求自我认同的无畏精神。这不仅是程菲的个体故事，也反映了社会对多元性别群体的认知与接纳的渐进过程。医学、法律与社会伦理交织在一起，使得这一故事具有深远的社会意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,10 +80,10 @@
 | Size            | 8056 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 沈阳晚报                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-11-09                                 |
+| Tags            | 变性, 性别认同, 家庭支持, 心理健康, 社会接纳, 医疗资源, 报道, 快乐生活, 伦理选择, 女性身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

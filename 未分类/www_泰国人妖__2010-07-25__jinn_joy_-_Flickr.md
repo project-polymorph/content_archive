@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![泰国人妖 | by joyjinn](//live.staticflickr.com/4123/4906593677_717f484502_c.jpg)
+![泰国人妖 | by joyjinn](https://live.staticflickr.com/4123/4906593677_717f484502_c.jpg)
 
 **作者**: jinn joy  
 **上传日期**: 2010-08-19  

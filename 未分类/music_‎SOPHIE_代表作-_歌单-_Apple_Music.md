@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细介绍了苏格兰电子音乐制作人和歌手SOPHIE的代表作品及其艺术生涯。SOPHIE以其创新的手法，将金属元素与高音女声结合，通过合成器创造出迷幻且具有实验性的流行音乐。文件提到SOPHIE早期的影响，包括其父亲在车上播放的电子音乐磁带，以及她与乐队Motherland合作后正式开始的音乐生涯。SOPHIE的首张单曲《Nothing More to Say》以及后续作品如《Bipp》展现了她对现代主义美学的追求，并在英国House音乐界引起热潮。最重要的是，文件强调了SOPHIE在音乐中对性别和身份的探索，特别是在专辑《Oil of Every Pearl's Un-Insides》中，通过《It's Okay to Cry》这首歌首次公开自己的跨性别身份，传达了对LGBTQ+群体的敏感和共情。文末提到，SOPHIE于2021年去世后，小行星以她的名字命名，表明她在音乐界的持久影响力.
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 7974 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | SOPHIE, 实验流行音乐, 跨性别艺术家, 电子音乐, LGBTQ+, 音乐作品, 艺术表达, 性别认知, 身份探索, 音乐创新                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

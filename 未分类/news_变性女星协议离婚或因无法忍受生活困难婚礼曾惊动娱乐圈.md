@@ -19,7 +19,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要报道了韩国变性女星河莉秀与其丈夫micky郑的离婚事件，结束了长达10年的婚姻。根据媒体的报道，二人达成离婚协议，主要原因是micky郑在事业上的失败导致经济困难，另外性格差异也是影响两人关系的重要因素。河莉秀在1997至1998年间赴日本学习发型师课程，并在当地进行变性手术，最终于2007年与micky郑在首尔举办婚礼。离婚的消息引起了广泛关注，尤其是在娱乐圈内。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -32,10 +32,10 @@
 | Size            | 962 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 凤凰网娱乐                               |
+| Region          | 韩国                               |
+| Date            | 2017-06-12                                 |
+| Tags            | 河莉秀, 变性女星, 离婚, micky郑, 婚姻破裂, 性别认同, 社会关注, 娱乐圈, 媒体报道, 生活困难                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

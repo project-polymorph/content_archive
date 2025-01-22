@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件收录了多元性别及性别认同相关的多个话题，包括国际不再恐惧同性恋、跨性别与双性恋日（IDAHOTB）以及针对性别认同的心理学研究与讨论。文件中提到保加利亚总统鲁门·拉德夫颁布的法律，禁止宣传与非传统性取向及性别认同有关的思想，显示出政策层面对性少数群体的潜在威胁。此外，文件还引用了许多个人经历和心理分析的观点，探讨性别认同的复杂性，比如个人对自身性别的认同和社会对其的期望冲突。这些内容反映了多元性别群体的真实生存现状，以及在社会环境和法律政策下所面临的挑战。最后，文件还提出了不当的“矫正治疗”实践，强调需要更好地维护性少数群体的基本人权。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -105,10 +105,10 @@
 | Size            | 10339 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 同性恋, 双性恋, IDAHOTB, 心理学, 法律政策, 生存现状, 性别表达, LGBTQI+                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -29,7 +29,7 @@ Re: 有没有男主被女王调教成男娘性奴后被男人干的游戏？
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇讨论关于一个特定游戏的主题帖，内容围绕男主被女王调教成男娘性奴的情节展开。作者在帖文中请教论坛用户，询问是否有类似设定的游戏推荐。讨论中提及的一些游戏元素如“被调教成伪娘性奴”和“被其他男人侵犯”说明了该类游戏的受众可能偏向于SM、性转及性奴等特定类型的受众群体。这种内容在多元性别及性小众文化中颇具争议，也反映了当下网络文化中对性别与性取向的开放态度。由于话题较为敏感，涉及的具体内容预示了调教、性别与权力动态等主题，值得关注并进一步讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,10 +42,10 @@ Re: 有没有男主被女王调教成男娘性奴后被男人干的游戏？
 | Size            | 897 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | creamyou35                               |
+| Region          | 未知                               |
+| Date            | 2014-11-03                                 |
+| Tags            | 多元性别, 男娘, 性奴, 女王调教, SM文化, 游戏, 性别研究, 性取向, 性别角色, 网络文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

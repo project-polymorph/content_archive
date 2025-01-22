@@ -36,7 +36,7 @@ Ep0 制作人员名单：
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+“E2 TALK” 是一个专注于跨性别女性生活经历与权益的播客栏目，旨在探索跨性别女性在社会中的真实生活、面临的挑战及其权益诉求。该播客通过邀请多位跨性别女性参与对话与讨论，分享她们的个人故事和成长经历，以增进公众对性少数群体的理解与尊重。在播客中，主持人以及参与者共同探讨社会环境与相关政策对跨性别女性的影响，倡导平等与包容，努力消除对性别少数群体的误解。此播客致力于让每一个跨性别女性的声音被更多人听见，帮助她们在逆境中绽放力量。节目包含多集内容，首集于2024年12月1日推出，探讨了跨性别女性面临的重要议题并提出了更深层次的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@ Ep0 制作人员名单：
 | Size            | 2663 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | E2 Project/橙柚橙                               |
+| Region          | 未知                               |
+| Date            | 2024-12-01                                 |
+| Tags            | 跨性别, 女性权益, 生存故事, 社会环境, 个人成长, 性少数群体, 播客, 公开对话, 平等与包容, 文化理解                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是以《烈火军校》为背景的性转同人文，作者为风同学，作品状态为连载中，最新更新于2024年1月13日。全文围绕着几位主要角色的转变与互动展开，涉及多种人物关系与情节，展示了多元性别的表现形式和情感冲突。文中充满了丰富的描述和剧情设定，角色们于军校的生活与挑战下，经历了性别认同与情感冲突的多样化体验，既有刺激的情节，也深入探讨了性别与个人身份的复杂性。该作品不仅结合了军事题材与青春爱情，更通过性转的设定，展现了多元性别在当代文学创作中的重要性。这种创作方式既是对传统观念的挑战，同时也为同人文化注入了新的活力和讨论。这一系列的章节链接提供了丰富的戏剧情节，受到了28980次点击，显示出读者的关注和互动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@
 | Size            | 3899 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 风同学                               |
+| Region          | 未知                               |
+| Date            | 2024-01-13                                 |
+| Tags            | 性转, 同人文, 烈火军校, 多元性别, 军事题材, 青春爱情, 角色发展, 性别认同, 文学创作, 社会文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

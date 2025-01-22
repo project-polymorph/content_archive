@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档来自北京同志中心，详细介绍了该中心的宗旨、服务内容和社会使命。北京同志中心成立于2008年，致力于增强中国同志（LGBT）人群的自我认同，推动同志运动，消除歧视，并促进多元文化和公民社会的发展。文中列出了中心的服务项目，包括心理咨询、跨性别项目、企业项目等，提供了一系列专业服务来满足多元性别群体的需求。文中还包含了中心的联系方式、地址、开放时间及其官网和社交媒体链接。通过这份资料，可以了解到北京同志中心如何在全国范围内倡导性别平等、传播文化和历史，同时提供安全可靠的服务。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@
 | Size            | 4243 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 北京同志中心                               |
+| Region          | 北京，中国                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, LGBT, 心理咨询, 跨性别, 社会服务, 法律咨询, 生存现状, 文化宣传, 平等权益, 公益组织                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

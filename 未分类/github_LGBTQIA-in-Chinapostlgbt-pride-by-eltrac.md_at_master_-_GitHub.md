@@ -191,7 +191,7 @@ Well, 像对待普通异性恋那样就好了。 :@(无所谓)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了LGBT+群体在中国的平权问题，详细阐述了群体所面临的社会歧视与霸凌现象。正文部分借助个人经历和外部数据，分析了LGBT+群体的定义及其所处的社会状况，包括对群体的普遍误解和偏见。此外，文件还引用了联合国关于中国性少数群体生存状况的调查报告，指出仅有5%的性少数人士公开他们的性身份，大部分人遭受来自家庭、学校和工作场所的严重歧视。根据调查，跨性别者面临的歧视最为严峻，而女同性恋和男同性恋则分别在家庭和学校中遭受更多的排拒。文件还讨论了老一辈人对LGBT+的看法、舆论的冲击以及法律与医学上的障碍，透露出中国社会仍对性少数群体存在压迫和不理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -204,10 +204,10 @@ Well, 像对待普通异性恋那样就好了。 :@(无所谓)
 | Size            | 31923 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | LGBT+, 平权, 社会歧视, 家庭排斥, 跨性别者, 双性人, 社会态度, 法律问题, 老年人看法, 性少数群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

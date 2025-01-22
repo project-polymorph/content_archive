@@ -79,7 +79,7 @@ fnf性转教堂3.0模组是周五夜放克教堂模组的全新版本，模组�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档介绍了一个名为fnf性转教堂3.0模组的音乐游戏，这个游戏是基于热门游戏《周五夜放克》制作的全新版本。在这个模组中，所有角色都进行了性别转变，不仅人物立绘发生变化，角色的声音也进行了重新设计。文件中详细列出了游戏的基本信息，例如类型、平台、版本、更新日期和下载链接。此外，文档还提供了新手攻略和常见问题解答，帮助玩家更好地理解如何下载和玩这个模组，包括游戏模式选择、操作步骤、难度设置等。同时，文章附有精美的图片，增强了用户的阅读体验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@ fnf性转教堂3.0模组是周五夜放克教堂模组的全新版本，模组�
 | Size            | 3697 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-06-05                                 |
+| Tags            | 音乐游戏, 性转, 入门攻略, 游戏设计, 玩家体验, 下载链接, 操作指南, 新手帮助, 游戏模组, 周五夜放克                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

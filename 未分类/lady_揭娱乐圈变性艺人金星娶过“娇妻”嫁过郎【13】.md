@@ -25,7 +25,7 @@ _(责编：李昉、王静)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细揭示了变性艺人金星的个人经历，特别是她的婚姻与家庭关系。文章通过相关报道，讲述了金星的变性背景及其在娱乐圈的生存现状。她的母亲在她的变性选择中持支持态度，而父亲最初反对，直至她在完成变性手术后以女性形象站在父亲面前时才被接受。金星的故事反映了变性人在社会中的挑战与支持，同时也强调了家庭关系在这个过程中扮演的重要角色。除了金星，文章还提及其他变性艺人的经历，展示了变性女性在娱乐圈中的奋斗与成功，进一步探讨了人们对变性手术认知的变化和接受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,10 +38,10 @@ _(责编：李昉、王静)_
 | Size            | 1434 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 网易女人                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-09-16                                 |
+| Tags            | 变性, 金星, 娱乐圈, 生命故事, 家庭关系, 社会支持, 手术经历, 生命转折, 女性身份, 婚姻经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

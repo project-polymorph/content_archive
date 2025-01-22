@@ -94,7 +94,7 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于美国总统特朗普在2017年7月26日发布的推文及其所引发的广泛争议。特朗普宣布不允许变性人在美国军队中服役，称这一决定是为了帮助美国军队在各方面追求胜利，并避免变性人可能带来的医疗负担。他的这个决定立即引发了包括民主和共和两党议员、LGBT权益团体以及社会名人在内的广泛批评。文件详细描述了特朗普的推文内容、他的背景信息，以及他的决定如何与之前的承诺相悖。此外，文件中还引用了多个政界和公众人物对此决定的反应，强调了这一政策对在军中服役的变性人的潜在影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -107,10 +107,10 @@ LGBT权益组织GLAAD表示，特朗普禁止变性人参军，是对所有属�
 | Size            | 7750 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球网                               |
+| Region          | 美国                               |
+| Date            | 2017-07-27                                 |
+| Tags            | 变性人, 特朗普, 军队, LGBTQ, 医疗费用, 歧视, 社会影响, 政治反对, 报道, 权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -262,7 +262,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件提供了有关变性手术的全面信息，主要介绍了变性手术（性别重置手术）的定义、适应症、手术类型、风险与并发症、术前准备及术后注意事项等。变性手术指通过外科手术手段，旨在使患者的生物学性别与其性别认同相符，通常适用于那些与其生物性别存在激烈矛盾认同的个体。文件详细列出不同类型的手术，包括针对男性转变为女性的手术和女性转变为男性的手术，讨论了手术适合的对象、绝对禁忌证及相对禁忌证，以及手术前后可能的心理和生理影响。另外，文件提到手术的相关规定及规范性文件，确保医疗质量和安全。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -275,10 +275,10 @@
 | Size            | 16212 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 丁香医生医学团队                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别重置手术, 医疗资源, 法律政策, 生存现状, 性别认同, 心理健康, 医疗风险, 手术准备, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

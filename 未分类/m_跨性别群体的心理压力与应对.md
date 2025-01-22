@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了跨性别群体所面临的心理压力以及应对的方法。作者小希从自我认同与社会因素两个角度分析了跨性别者的心理状况，强调了他们在传统社会中受歧视、就业难、教育机会不足等压力来源。同时，文章指出跨性别者在个人心理上对于身体不适应、情绪波动、身份认同困惑等问题的挣扎。针对这些压力，文章提出多种应对策略，包括寻求专业心理辅导、建立支持性社交圈以及积极争取权益等，以帮助跨性别者更好地应对生活中的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 2979 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 小希                               |
+| Region          | 未知                               |
+| Date            | 2023-05-13                                 |
+| Tags            | 跨性别, 心理压力, 社会因素, 应对方法, 个人心理, 身份认同, 歧视, 心理辅导, 社交圈, 权益保障                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

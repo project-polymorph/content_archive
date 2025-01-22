@@ -75,7 +75,7 @@ Steven Arnold参演的影视作品
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《布莱克浦的沙滩》是一部由Karlton Parris执导的英国喜剧电影，讲述了1953年布莱克浦的故事。影片围绕两名年轻的同性恋矿工Eddy和Tommy，他们在度假期间遇到了一位异装癖者James Elbridge。影片通过幽默而坚韧的叙事手法，展现了当时LGBTQ群体的生活状态和挑战。电影的情节融合了爱情、友情与自我认同的探索，反映了社会对多元性别个体的接纳与包容的重要性。此外，电影的主要演员阵容包括Kyle Brooks和Vicki Glover等人，整体呈现了一幅温馨与挑战交织的北方风景。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,10 +88,10 @@ Steven Arnold参演的影视作品
 | Size            | 3568 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Karlton Parris                               |
+| Region          | 英国                               |
+| Date            | 2021-01-01                                 |
+| Tags            | 布莱克浦的沙滩, LGBTQ, 同性恋, 奇幻喜剧, 电影, Karlton Parris, Eddy和Tommy, 社会接纳, 多元性别, 历史背景, 1953年                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

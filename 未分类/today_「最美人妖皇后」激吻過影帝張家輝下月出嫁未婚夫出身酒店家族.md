@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了被称为“泰国最美变性人”的艺人宝儿与香港影帝张家辉之间的合作与她的婚讯。宝儿在17岁时决定接受变性手术，这个决定不仅是她自我认同的追求，也包括了她痛苦的经历。文章详细描述了她的婚礼安排，她与相恋20年的男友订婚，男方的家庭背景，以及她曾与张家辉合作电影《扫毒》的吻戏细节。文中引用了宝儿对自己变性手术的回忆，表明她从小就想成为女人，以及她在身份认同上的挣扎和最终的坚定选择，同时也提到她在东南亚演艺圈的成就与经历。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 2341 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 曾宛如／综合报道                               |
+| Region          | 台湾                               |
+| Date            | 2023-02-04                                 |
+| Tags            | 变性人, 婚讯, 张家辉, 艺人, 泰国最美变性人, 变性手术, 人生经历, 订婚, 东南亚演艺圈, 吻戏                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

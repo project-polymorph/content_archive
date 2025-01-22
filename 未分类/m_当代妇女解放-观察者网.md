@@ -71,7 +71,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文摘录了当代妇女解放主题的多个报道，聚焦于妇女权益、性别平等、经济发展等方面，旨在探讨当今社会中女性面临的挑战与成就。文件内容包括对三八妇女节活动的报道、经济现象如‘她经济’的崛起、跨性别女性与女性权益活动的冲突，以及有关家暴和性侵事件的法律结果等。这些内容不仅反映了社会对女性角色与权利的关注，同时展示了女性在争取平等和自由过程中遭遇的斗争与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,10 +84,10 @@
 | Size            | 3341 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 观察者网                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-03-08                                 |
+| Tags            | 男女平等, 女性权益, 三八妇女节, 她经济, 跨性别, 家暴, 性侵, 法律政策, 社会活动, 女性主义                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

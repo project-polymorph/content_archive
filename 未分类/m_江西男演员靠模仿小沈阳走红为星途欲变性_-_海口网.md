@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于江西男演员翟艺阳的报道，讲述了他因模仿小沈阳而走红，并希望通过变性手术获得更好的演艺机会的故事。文章详细描述了翟艺阳的个人背景、职业发展以及他对演艺圈的不满情绪。他早期在京剧领域有着相当的才能，但未能引起广泛关注，直到模仿小沈阳后才开始受到欢迎。悲伤与对自我认同的渴望交织在一起，翟艺阳透露出强烈的对名声的渴望以及对变性手术的担忧。他表达了想要变成‘真正的女人’的愿望，并讨论了变性手术可能带来的艺术生涯变化以及性别身份的复杂性。同时，他向整形专家咨询，反映了他在个人选择上的挣扎和医务人员关于变性手术的专业看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@
 | Size            | 4513 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-06-20                                 |
+| Tags            | 多元性别, 变性, 演艺圈, 性别认同, 生活故事, 医疗资源, 翟艺阳, 小沈阳, 艺术与性别, 性别变迁                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

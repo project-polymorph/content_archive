@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于多元性别相关的图书标签，特别聚焦于“女装大佬”这一文化现象。它于2019年发布，记录了与女装大佬相关的动画、书籍、音乐、游戏及三次元的多元文化产品。此外，文件中列出了与此主题相关的多个年份的时间线，从2016年至2025年不等，显示了这一现象在不同时间段的活跃表现。此文档还引用了Bangumi（番组计划）平台的版权信息，并鼓励读者注册参与讨论和评论。这是一个集合了多种媒体形式的资源，旨在为喜欢女装大佬文化的读者提供丰富的信息和资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 1400 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-01-01                                 |
+| Tags            | 女装大佬, 多元性别, 动画, 书籍, 音乐, 游戏, 三次元, Bangumi, 文化现象, 2019年                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

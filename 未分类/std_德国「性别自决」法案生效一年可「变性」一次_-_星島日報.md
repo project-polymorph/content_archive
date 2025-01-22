@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了德国于2024年11月1日生效的「性别自决」法案，允许德国居民根据自我认同自由更改法律文件上姓名和性别。该法案不再要求申请者提供医疗证明或法院命令，自生而来的性别选择权力得到了保障。法案规定，成年后每人每年可更改一次性别信息，未成年人则需监护人同意，14岁以下的儿童亦须在监护人同意下才能变更性别。相关法律也保障了在公共设施使用上的权利。同时，文件还提到了一些对法案的反对声音，认为该法案可能带来法律和社会的复杂问题。此消息标志着跨性别权利在德国的一个重要进展。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@
 | Size            | 5908 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 德国                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 性别自决法案, 跨性别者权利, 德国新闻, 性别认同, 法律政策, LGBTQ+权益, 社会运动, 公共设施使用权, 未成年人权益, 社会争议                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

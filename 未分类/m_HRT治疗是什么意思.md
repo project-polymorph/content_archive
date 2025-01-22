@@ -36,7 +36,7 @@ HRT治疗更年期综合征：HRT是一种治疗更年期综合征的方法：�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细阐述了激素替代治疗（HRT）的概念及其在多元性别群体中的应用。HRT被广泛用于缓解因雌激素缺乏带来的更年期症状，比如潮热、失眠和情绪波动。此外，文章还提到跨性别者也可以通过HRT来改善身体特征，以帮助他们更好地接纳自己的性别认同。文中提及HRT的常用药物及其可能的副作用，例如乳房胀痛和阴道出血。最后，作者强调在接受HRT治疗时，务必在专业医生的指导下进行，同时建议保持健康的生活方式以促进疗效。文章内容强调了HRT的必要性与重要性，同时也提醒患者注意治疗中的潜在风险。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@ HRT治疗更年期综合征：HRT是一种治疗更年期综合征的方法：�
 | Size            | 5755 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 激素替代治疗, HRT, 跨性别, 更年期综合征, 雌激素, 孕激素, 身体特征, 情绪波动, 健康管理, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

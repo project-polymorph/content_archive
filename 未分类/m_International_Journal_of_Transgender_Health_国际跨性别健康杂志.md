@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《International Journal of Transgender Health》是一本专注于跨性别健康及相关领域的英文学术期刊，致力于发表关于跨性别与多元性别研究的高质量文章。该期刊由TAYLOR & FRANCIS INC出版，每年发布四期，涵盖生物医学与社会科学领域，旨在及时、准确地报告学术界在跨性别健康、政策、社会环境等方面的最新研究成果及动态。期刊的信息显示，其在国际上获得多个重要数据库的收录，如SCI、SCIE及SSCI，体现了其学术地位与影响力。期刊过去一年共发表了25篇文章，其中21.64%为开放获取文章，影响因子为4.6。这本刊物不仅展示了学术研究的成果，也反映了多元性别群体在健康领域所面临的挑战与需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 2011 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别健康, 学术期刊, 社会科学, 生物医学, 研究成果, 政策, 健康政策, 多元性别, 国际期刊, 跨性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

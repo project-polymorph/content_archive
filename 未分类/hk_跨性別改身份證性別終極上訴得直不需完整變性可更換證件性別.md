@@ -15,7 +15,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一起有关跨性别人士在香港法庭上进行的终审上诉案件。两名跨性别者未完成所有变性手术，然而在申请更改身份证上性别时却遭政府拒绝。经过司法覆核败诉后，他们向香港终审法院提出上诉。最终，法院裁定无需完成全部变性手术，即可更改身份证性别，指出现行政策违反了《香港人权法案》第十四条有关权利的保障。这一裁决具有重要的里程碑意义，将影响未来跨性别人士在身份认定上的权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -28,10 +28,10 @@
 | Size            | 1602 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 现代电视                               |
+| Region          | 香港                               |
+| Date            | 2023-02-06                                 |
+| Tags            | 跨性别, 身份证, 法律, 香港, 人权, 性别认同, 司法, 政策, 变性手术, 社会权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

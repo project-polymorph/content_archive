@@ -116,7 +116,7 @@ A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于LGBTQ人士在纽约州家庭法院的权利的详细指南，探讨了在法律程序中，LGBTQ个体应享有的权利与保护。文中明确了LGBTQ的定义，包括女同性恋、男同性恋、双性恋、跨性别者和酷儿等，并强调性取向与性别认同的重要性。文件指出，LGBTQ人士在家庭法庭有多项权利，如要求使用自己选择的名字和代词、穿着符合性别认同的服装、使用符合性别认同的卫生间设施等。同时，文件也说明了对LGBTQ人士的歧视行为，提供了投诉的途径和支持资源。文件最后还讨论了家庭法庭中涉及儿童监护权和收养权的法律问题，确保同性伴侣和配偶在法律上享有与异性伴侣相同的权利。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -129,10 +129,10 @@ A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家�
 | Size            | 8567 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ权利, 家庭法庭, 法律指南, 性别认同, 性取向, 歧视投诉, 监护权, 收养权, 艾滋病人权利, 纽约州法律                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

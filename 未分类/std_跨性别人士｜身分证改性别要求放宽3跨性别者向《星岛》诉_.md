@@ -39,7 +39,7 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别人士在香港更改身份证性别政策的新变化，旨在放宽对跨性别者的要求，以允许未进行全面手术的跨性别者进行身份注册的性别修改。文章中提到，跨性别女生Anna分享了她对手术风险的顾虑，指出切除性器官的手术可能导致严重的后遗症。她还表示因为身份证未能及时符合其性别认同，日常生活中承受着巨大的心理压力。在采访中，跨性别男子Ming也提到新政策对跨性别者的要求存在不平等现象，尤其是在对跨女性和跨男性手术要求方面的不对等。文章同时齋写了政府应考虑让跨性别人士通过医生证明来改变身份证性别，以减少不必要的手术和心理负担。整体上，该文章反映了跨性别人士对政策变动的期待和日常生活中的困难，以及社会对跨性别者的认识和接受度问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,10 +52,10 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 | Size            | 4802 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 星岛日报                               |
+| Region          | 香港                               |
+| Date            | 2024-04-03                                 |
+| Tags            | 跨性别, 性别认同, 身份证, 政策变动, 心理压力, 手术风险, 社会环境, 医疗资源, 法律政策, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《性别的故事》是一本深入探讨性别现象的书籍，由身边的科学人体的奥秘编委会编写，出版于2010年。书中从生理、情感、行为及历史文化等多个层面，揭示了性别的复杂性和多样性，以及性别角色的形成与影响。它不仅探讨了传统的两性之别，诸如性别与性别角色的关系，而且深入分析了性别的产生过程和社会问题，包括第三性别的存在及其在社会中的位置。书中还讨论了同性恋者的生活与挑战，提供了一个全面反映性别多样性与社会环境的视角，并试图解开性别差异背后的科学与社会文化因素。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@
 | Size            | 2494 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 身边的科学人体的奥秘编委会                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-01-01                                 |
+| Tags            | 性别, 多元性别, 性别认同, 社会文化, 性取向, 性别角色, 性别差异, 第三性别, 同性恋, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

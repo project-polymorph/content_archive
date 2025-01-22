@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+小药娘模拟器是一款基于GitHub的项目，它的灵感来源于《人生重开模拟器》。该模拟器正处于早期开发阶段，开发者欢迎大众在游戏中发现的各种bug，通过问题反馈及建议来进行改进。游戏的概念允许玩家在不同的场景中进行角色的角色扮演与试探性选择，反应出多元性别者的生活经历与内心世界。该项目使用Kotlin语言开发，尚未发布正式版本，开发者致力于创建一个可以探索多元性别身份与转变的模拟环境。项目由Luna5ama创立，目前有一些其他贡献者共同参与。项目链接与相关信息也通过GitHub提供，值得关注的是，该项目虽然尚未成熟，但有潜力成为多元性别体验的一个有趣工具。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,10 +62,10 @@
 | Size            | 1429 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Luna5ama                               |
+| Region          | 未知                               |
+| Date            | 2021-09-11                                 |
+| Tags            | 小药娘, 模拟器, 多元性别, 角色扮演, 开发, 开源项目, Kotlin, 人生重开模拟器, 游戏设计, 玩家反馈                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

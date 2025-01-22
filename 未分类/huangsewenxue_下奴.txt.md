@@ -8,7 +8,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇讨论多元性别和性别认同的文学作品，标题为《下奴》，其内容涉及生命的复杂性与个体在社会中的挣扎。通过生动的叙述，作者描绘了多元性别者在当今社会中的处境，探讨了他们在个人认同与社会期待之间的抵触与融合。文件未明确揭示作者的身份，但其内容展示了对于性别流动性的深刻理解和批判，反映了在性别领域中普遍存在的困惑与寻求自由的渴望。整篇作品给人以启迪，可以启发读者思考性别身份的流动性及其社会接受程度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -21,10 +21,10 @@
 | Size            | 233 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别认同, 社会环境, 生命故事, 文学作品, 文化表达, 性别流动性, 社交挑战, 性别政治, 人权问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

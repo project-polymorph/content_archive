@@ -96,7 +96,7 @@ YouTube 和 IG（Instagram）等社群媒体平台都是视觉导向的，这使
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为小说《变装的艺术》的推荐书籍，探讨变装作为一种颠覆传统性别观念的艺术形式。正文由杰克·霍尔撰写，强调变装的多样性，打破了'变装是男性专属'的迷思，指出任何人都能参与变装的艺术表达。文中还详细介绍了全球各地的变装文化，尤其是跨性别及非二元性别表演者在这场艺术革命中所扮演的先锋角色。此外，文章还涉及到变装在时尚产业及流行文化中的影响力，以及变装如何成为 LGBTQ+ 权益运动的一部分。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,10 +109,10 @@ YouTube 和 IG（Instagram）等社群媒体平台都是视觉导向的，这使
 | Size            | 8888 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 杰克·霍尔 / 大块文化                               |
+| Region          | 未知                               |
+| Date            | 2021-11-09                                 |
+| Tags            | 变装, 性别艺术, 跨性别, 非二元性别, LGBTQ+, 时尚, 文化影响, 社会运动, 法律与权利, 艺术表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

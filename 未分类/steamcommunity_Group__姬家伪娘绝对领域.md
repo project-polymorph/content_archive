@@ -90,7 +90,7 @@ Hi
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《姬家伪娘绝对领域》是一个Steam上的社群群组，专注于男装子（Otokonoko）、女装文化及其相关交流。该群组成立于2016年2月26日，目前有351位成员。群组的标签涉及广泛，包括但不限于跨性别（transgender）话题、伪娘文化以及游戏交流等。群组内设有不同的话题讨论，成员们在此可以无障碍地分享自己的兴趣，进行角色扮演，并关注与伪娘相关的法律和社会问题。群组的规则强调友善和互相尊重，禁止任何形式的歧视和不当言论。此外，群组鼓励成员保护个人隐私，盗图和传播未经允许的图片同样受到严格禁止。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -103,10 +103,10 @@ Hi
 | Size            | 7026 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 神楽坂雅詩                               |
+| Region          | 中国                               |
+| Date            | 2016-02-26                                 |
+| Tags            | 伪娘, 男装子, 女装文化, 跨性别, 社群, 游戏交流, 友善对待, 隐私保护, 社交媒体, 反歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

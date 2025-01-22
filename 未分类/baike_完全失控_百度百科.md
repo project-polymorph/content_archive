@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档主要介绍了1997年香港惊悚电影《完全失控》的剧情和主要内容。影片围绕两个故事展开，探讨了易性癖和恋尸癖这两种特殊心理及其带来的悲剧后果。第一个故事讲述了一名易性癖男性对一个已婚男性的痴迷，最终因自杀而告终；第二个故事则涉及一名女性化妆师与她恋爱对象的复杂关系，最终以男方自杀作为对爱的极端表达。整体上，电影通过角色的极端体验，反映了社会对变性者和较少被理解心理状态人群的偏见与挑战，并引发观众对这些特殊人群生存现状的深思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@
 | Size            | 6263 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国香港                               |
+| Date            | 1997-10-10                                 |
+| Tags            | 性别认同, 多元性别, 易性癖, 恋尸癖, 心理健康, 电影分析, 社会认可, 死亡, 自杀, 悲剧                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

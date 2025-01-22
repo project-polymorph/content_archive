@@ -250,7 +250,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《因为写小说，被粉丝送去做了变性》的一部分，作者为三岁不爱吃糖。故事围绕主人公李墨韵展开，他原本是一名普通的萝莉文小说作者，因其女性化的笔风让粉丝们误以为他是女性。后来，李墨韵在一次聊天中坦白自己是男性，几位粉丝由于情感失控，决定将他送到泰国进行变性手术。这一情节不仅反映了主人公的内心挣扎与转变，也揭示了当今社会对性别认同的复杂反应。小说通过幽默而夸张的方式探讨了性别流动性、社会期待与个人身份认同的问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -263,10 +263,10 @@
 | Size            | 17446 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 三岁不爱吃糖                               |
+| Region          | 中国大陆                               |
+| Date            | 2025-01-20                                 |
+| Tags            | 小说, 多元性别, 变性经历, 性别认同, 社会期望, 人物故事, 个人经历, 都市幻想, 作者经历, 文学作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

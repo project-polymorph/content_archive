@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了湖南省新邵县人民法院关于变性人结婚的问题。本案的主角是一位女青年阿欢，她与同居伙伴阿香希望登记结婚，但因阿欢的性别变更问题而遭遇困难。在经过变性手术后，阿欢尝试再次申请结婚登记，最终在法律的支持下，获得了结婚的许可证。文章中分析了对变性人婚姻合法性的两种不同观点：一是认为变性人不应结婚，因为生育能力的缺失；二是认为变性人应有结婚权利，基于法律性别和意愿。文章最后指出，我国的婚姻制度应与社会发展相适应，并未明确禁止变性人结婚。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 4125 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 罗君君                               |
+| Region          | 湖南省                               |
+| Date            | 2015-10-28                                 |
+| Tags            | 变性人, 婚姻登记, 法律法规, 性别认同, 同性恋, 社会问题, 婚姻法, 案例分析, 性别变更, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

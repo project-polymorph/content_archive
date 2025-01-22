@@ -35,7 +35,7 @@ Stroke order images provided by [wikimeida stroke order project](http://commons.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了性别认同障碍（Gender Identity Disorder）的基本定义、相关术语及其相关知识。文件中介绍了性别认同障碍的拼音和英文表述，以及它在医学和心理学上的重要性。性别认同障碍通常指的是个体对其出生性别的强烈不满意感，这种情感可能导致不同的社会和个人挑战。文件中还包含了一些相关词汇的链接，帮助读者进一步理解与性别认同障碍相关的语词及概念。同时，提供了相关的参考资料和链接，供感兴趣的读者进行深入研究。整体来说，文件提供了性别认同障碍的基础知识，是了解此主题的起点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@ Stroke order images provided by [wikimeida stroke order project](http://commons.
 | Size            | 3002 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同障碍, 性别, 心理学, 医学, 社会挑战, 性别表达, 性别身份, 性别研究, 性别认同, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

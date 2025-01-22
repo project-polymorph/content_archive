@@ -11,7 +11,7 @@
 
 Rodriguez只是在Laverne Cox在2014 - 2014年的“橙色是新的黑色”的嘉宾Cox的三个提名之外，罗德里格斯仅被提名为EMMY;和2020年，雨瓦尔德兹的短片喜剧或戏剧女演员提名“剃刀舌”。
 
-自2018年“姿势”首次介绍以来，它已将新的地面破碎，作为一个系列的系列，周围环绕着20世纪80年代和90年代的纽约舞厅舞台舞台的跨妇女的生活。世界的世界[vogue球](//www.t1mobile.com/art-exhibits/dont-ask-rashaad-newsome-to-explain-his-art-its-your-job-to-understand-it)詹妮·利文斯顿(Jenny Livingston)在1990年获奖的纪录片《燃烧的巴黎》(Paris Is Burning)中捕捉到了这一著名的场景[“RuPaul拖种族,”](https://www.sfchronicle.com/style/article/Does-RuPaul-think-San-Francisco-drag-queens-13665722.php)也是2021年艾美奖的提名者，擅长舞厅方言。
+自2018年“姿势”首次介绍以来，它已将新的地面破碎，作为一个系列的系列，周围环绕着20世纪80年代和90年代的纽约舞厅舞台舞台的跨妇女的生活。世界的世界[vogue球](https://www.t1mobile.com/art-exhibits/dont-ask-rashaad-newsome-to-explain-his-art-its-your-job-to-understand-it)詹妮·利文斯顿(Jenny Livingston)在1990年获奖的纪录片《燃烧的巴黎》(Paris Is Burning)中捕捉到了这一著名的场景[“RuPaul拖种族,”](https://www.sfchronicle.com/style/article/Does-RuPaul-think-San-Francisco-drag-queens-13665722.php)也是2021年艾美奖的提名者，擅长舞厅方言。
 
 ”构成的“三个赛季都飞溅和生产价值你期望从创造者瑞恩墨菲(《欢乐合唱团》“候司顿),布拉德Falchuk和史蒂文运河,但创意艾美奖提名的制作人/作家/导演圣母J和珍妮特假,谁都是反式,引导系列的故事和哲学。
 
@@ -45,11 +45,11 @@ Mj Rodriguez在《Pose》中扮演布兰卡。罗德里格斯获得艾美奖最�
 
 ### 相关链接
 
-- [2021年艾美奖:《王冠》(The Crown)和《曼达洛人》(Mandalorian)获得提名最多。乔丹·罗德里格斯创造历史](//www.t1mobile.com/movies-tv/emmys-2021-the-crown-mandalorian-dominate-nominations-mj-rodriguez-makes-history)
-- [EMMYS 2021：这是主要奖项的提名列表](//www.t1mobile.com/movies-tv/emmys-2021-heres-the-full-list-of-nominations)
+- [2021年艾美奖:《王冠》(The Crown)和《曼达洛人》(Mandalorian)获得提名最多。乔丹·罗德里格斯创造历史](https://www.t1mobile.com/movies-tv/emmys-2021-the-crown-mandalorian-dominate-nominations-mj-rodriguez-makes-history)
+- [EMMYS 2021：这是主要奖项的提名列表](https://www.t1mobile.com/movies-tv/emmys-2021-heres-the-full-list-of-nominations)
 - [Emmy惊喜：'姿势，''我可能会摧毁你'和'汉密尔顿'](https://www.sfchronicle.com/entertainment/article/Emmy-surprises-Pose-I-May-Destroy-You-16311712.php)
-- [石墙50年后，LGBTQ社区是否完全解放？](//www.t1mobile.com/entertainment/50-years-after-stonewall-how-has-lgbtq-life-changed)
-- [ACT重播的音乐剧《城市故事》(Tales of the City)被跨性别群体批评为有问题的选角](//www.t1mobile.com/theater/act-rebroadcast-of-tales-of-the-city-musical-criticized-by-trans-community-for-out-of-date-casting)
+- [石墙50年后，LGBTQ社区是否完全解放？](https://www.t1mobile.com/entertainment/50-years-after-stonewall-how-has-lgbtq-life-changed)
+- [ACT重播的音乐剧《城市故事》(Tales of the City)被跨性别群体批评为有问题的选角](https://www.t1mobile.com/theater/act-rebroadcast-of-tales-of-the-city-musical-criticized-by-trans-community-for-out-of-date-casting)
 
 - 托尼•布拉沃
     托尼•布拉沃Tony Bravo的专栏显示在日期书中的星期一。电子邮件：tbravo@sfhonelice.com推特：@tonybravosf

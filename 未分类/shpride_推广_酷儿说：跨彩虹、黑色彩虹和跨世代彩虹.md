@@ -29,7 +29,7 @@ Queer Talks酷儿讲座在歌德学院（文化教育系）举办了三个彩虹
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了 2021 年上海骄傲节上举行的三场酷儿讲座，包括跨彩虹、黑色彩虹和跨世代彩虹的主题。跨彩虹部分针对性别少数群体的挑战进行讨论，参与者包括跨兄弟会和 Trans Talks 的代表，涉及家庭、工作场所等话题。黑色彩虹则展示了来自肯尼亚、南非及美国黑人酷儿的经历，包含虚拟现实艺术展和表演，突显了多元文化的交融。跨世代彩虹部分聚焦不同年龄段酷儿的故事，尤其技术与社会多样性方面的探索，促进了世代间的理解与接纳。整体内容展示了酷儿社区内不同群体的声音与经验，共同探讨在社会环境下的挑战与机遇。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,10 +42,10 @@ Queer Talks酷儿讲座在歌德学院（文化教育系）举办了三个彩虹
 | Size            | 3386 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 上海骄傲节                               |
+| Region          | 中国                               |
+| Date            | 2021-06-26                                 |
+| Tags            | 酷儿讲座, 跨性别, 人权, 活动, 文化, 社会多样性, 艺术展, 黑人酷儿, 代际沟通, 上海骄傲节                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

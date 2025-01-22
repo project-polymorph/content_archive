@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![1996年珍贵影像，金星刚做完变性手术，面对记者侃侃而谈！#历史](//p26-sign.bdxiguaimg.com/tos-cn-p-0004/2b3252c67387460dba9c8c3eabbb0717_1710221496~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=V12xniO7WDRO8QMKKTX9W0p27Tk%3D)
+![1996年珍贵影像，金星刚做完变性手术，面对记者侃侃而谈！#历史](https://p26-sign.bdxiguaimg.com/tos-cn-p-0004/2b3252c67387460dba9c8c3eabbb0717_1710221496~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=V12xniO7WDRO8QMKKTX9W0p27Tk%3D)
 
 **时间:** 1996年  
 **来源:** 西瓜视频  
@@ -13,7 +13,7 @@
 
 ---
 
-![“无畏世俗”金星：做16个小时手术成变性人，金星为何如此执着？](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/0ab841ff8bbb485bb31fd89417264b71~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=N1k%2FXtayC8LPt3cVaiM4Hb2vN3Q%3D)
+![“无畏世俗”金星：做16个小时手术成变性人，金星为何如此执着？](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/0ab841ff8bbb485bb31fd89417264b71~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=N1k%2FXtayC8LPt3cVaiM4Hb2vN3Q%3D)
 
 **视频:** ["无畏世俗"金星：做16个小时手术成变性人，金星为何如此执着？](https://www.ixigua.com)  
 **时间:** 05:50  
@@ -23,7 +23,7 @@
 
 ---
 
-![做16个小时手术，成为中国首位变性人，金星为啥这么执着？](//p26-sign.bdxiguaimg.com/tos-cn-i-0004/ca7126612eda496ead70ea5743711c3b~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=gTO0tVxt91xj0MSvF9VdPBCJfZo%3D)
+![做16个小时手术，成为中国首位变性人，金星为啥这么执着？](https://p26-sign.bdxiguaimg.com/tos-cn-i-0004/ca7126612eda496ead70ea5743711c3b~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=gTO0tVxt91xj0MSvF9VdPBCJfZo%3D)
 
 **视频:** [做16个小时手术，成为中国首位变性人，金星为啥这么执着？](https://www.ixigua.com)  
 **时间:** 05:59  
@@ -33,7 +33,7 @@
 
 ---
 
-![1996年刚做完变性手术的金星接受采访，他说“重生”后自己很开心](//p26-sign.bdxiguaimg.com/tos-cn-i-0000/ddd6ec303101489a816c3c092b9062a7~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=Dt0Pb34iZip9qNGDiY56XhamzmE%3D)
+![1996年刚做完变性手术的金星接受采访，他说“重生”后自己很开心](https://p26-sign.bdxiguaimg.com/tos-cn-i-0000/ddd6ec303101489a816c3c092b9062a7~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=Dt0Pb34iZip9qNGDiY56XhamzmE%3D)
 
 **视频:** [1996年刚做完变性手术的金星接受采访，他说“重生”后自己很开心](https://www.ixigua.com)  
 **时间:** 02:00  
@@ -43,7 +43,7 @@
 
 ---
 
-![独家专访1996年刚完成变性手术的金星 术后马上筹备演出](//p26-sign.bdxiguaimg.com/tos-cn-i-0004/b980edc00c494282973ee0acf659a646~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=wu203opbNzhX5LmHpR9GMBgbUos%3D)
+![独家专访1996年刚完成变性手术的金星 术后马上筹备演出](https://p26-sign.bdxiguaimg.com/tos-cn-i-0004/b980edc00c494282973ee0acf659a646~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=wu203opbNzhX5LmHpR9GMBgbUos%3D)
 
 **视频:** [独家专访1996年刚完成变性手术的金星 术后马上筹备演出](https://www.ixigua.com)  
 **时间:** 02:11  
@@ -53,7 +53,7 @@
 
 ---
 
-![金星变性23年，后遗症让她痛苦不堪！被调侃越来越有男人味](//p3-sign.bdxiguaimg.com/tos-cn-i-0004/16a22fe6d1f8471d8a9aff36e4b16122~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=202501211749104BFFC4E7521DE9F1A06A&requestFrom=401&x-expires=1768988950&x-signature=VLh4YXwewG63TU3%2BKpaLnzQROjI%3D)
+![金星变性23年，后遗症让她痛苦不堪！被调侃越来越有男人味](https://p3-sign.bdxiguaimg.com/tos-cn-i-0004/16a22fe6d1f8471d8a9aff36e4b16122~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=202501211749104BFFC4E7521DE9F1A06A&requestFrom=401&x-expires=1768988950&x-signature=VLh4YXwewG63TU3%2BKpaLnzQROjI%3D)
 
 **视频:** [金星变性23年，后遗症让她痛苦不堪！被调侃越来越有男人味](https://www.ixigua.com)  
 **时间:** 05:08  
@@ -63,7 +63,7 @@
 
 ---
 
-![金星早期珍贵影像：1996年刚做完变性手术，大胆发言谈性别跨](//p26-sign.bdxiguaimg.com/tos-cn-i-0000/a3aefabb4c464a7697cacd6628cd0326~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=202501211749104BFFC4E7521DE9F1A06A&requestFrom=401&x-expires=1768988950&x-signature=qpScwq%2Bf8knvuMU7gsZGMh9a3Jo%3D)
+![金星早期珍贵影像：1996年刚做完变性手术，大胆发言谈性别跨](https://p26-sign.bdxiguaimg.com/tos-cn-i-0000/a3aefabb4c464a7697cacd6628cd0326~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=202501211749104BFFC4E7521DE9F1A06A&requestFrom=401&x-expires=1768988950&x-signature=qpScwq%2Bf8knvuMU7gsZGMh9a3Jo%3D)
 
 **视频:** [金星早期珍贵影像：1996年刚做完变性手术，大胆发言谈性别跨](https://www.ixigua.com)  
 **时间:** 02:08  
@@ -73,7 +73,7 @@
 
 ---
 
-![金星：做16个小时的手术，成为中国首位变性人，过程令人胆寒行家](//p26-sign.bdxiguaimg.com/tos-cn-i-0004/fede27cdeb864ddd87a271e0053c0feb~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=202501211749104BFFC4E7521DE9F1A06A&requestFrom=401&x-expires=1768988950&x-signature=zzYyXlKCC8bX6V6pqcuBCKip1yQ%3D)
+![金星：做16个小时的手术，成为中国首位变性人，过程令人胆寒行家](https://p26-sign.bdxiguaimg.com/tos-cn-i-0004/fede27cdeb864ddd87a271e0053c0feb~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=202501211749104BFFC4E7521DE9F1A06A&requestFrom=401&x-expires=1768988950&x-signature=zzYyXlKCC8bX6V6pqcuBCKip1yQ%3D)
 
 **视频:** [金星：做16个小时的手术，成为中国首位变性人，过程令人胆寒行家](https://www.ixigua.com)  
 **时间:** 11:53  
@@ -110,7 +110,7 @@ ICP备案号: 京ICP备12025439号-172A
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细记录了中国知名变性人金星于1996年进行变性手术的经历与相关视频资料。资料中包含金星变性前后的故事，反映出她在手术过程中的坚韧与执着。金星在手术后的多个采访中，用心分享了她的感受和经历，包括她对新生的感慨，以及如何面临社会的偏见与压力。视频资料展示了她从手术恢复后的心路历程，以及她在演艺事业上的努力与成就。该资料为研究与了解中国变性人群体提供了重要的第一手信息与视角，并且在众多相关视频中，金星的故事成为了标志性的议题，激发了对多元性别及社会接受度的进一步讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,10 +123,10 @@ ICP备案号: 京ICP备12025439号-172A
 | Size            | 7100 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 西瓜视频                               |
+| Region          | 中国大陆                               |
+| Date            | 1996-01-01                                 |
+| Tags            | 金星, 变性手术, 性别认同, 生命故事, 社会偏见, 医疗经验, 女性主义, 变性人, 历史记录, 视频资料                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

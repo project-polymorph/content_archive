@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了伊朗足协决定开除四名女国脚的事件，原因是她们的性别身份与实际不符，经过医学鉴定后被确认为男性。这一举措反映了伊朗国内在变性问题上的复杂性与挑战，尽管变性在伊朗是合法的，但仍有很多男性借此途径进入女足队伍。伊朗足协的医疗委员会负责人指出，这些球员必须通过医学鉴定，才能代表国家参赛，而这一过程可能需要两年的时间。这一事件引发了媒体的广泛关注与讨论，尤其是在性别认同与运动员资格方面，显示了当前社会对变性者及其权利的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@
 | Size            | 2383 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新民晚报                               |
+| Region          | 伊朗                               |
+| Date            | 2014-02-11                                 |
+| Tags            | 伊朗足协, 性别问题, 变性手术, 女足, 体育新闻, 医学鉴定, 性别身份, 运动员资格, 社会政策, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

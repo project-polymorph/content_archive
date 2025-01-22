@@ -173,7 +173,7 @@ _See main article: [Nonbinary gender in fiction](https://nonbinary.wiki/wiki/Non
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《非二元性别 - Nonbinary Wiki》，详细介绍了非二元性别的概念及相关身份认同。非二元性别是一个涵盖所有不能完全被传统男女二元性别定义的性别认同与表达的伞状词汇。文中包括了非二元性别的含义、相关性别身份（如性别酷儿、双性人、不性别等），以及非二元旗的设计与象征意义。文件中引用了杰（19岁）的经验分享，表达了在多元性别旅程中的困惑与希望，并论述了非二元性别的历史与社会背景，比如2014年Facebook允许用户选择的多种性别选项。整个文件秉持包容性，强调非二元性别者应以其个人方式表达自我，并受到尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -186,10 +186,10 @@ _See main article: [Nonbinary gender in fiction](https://nonbinary.wiki/wiki/Non
 | Size            | 23711 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 非二元性别, 性别认同, 性别多样性, 性别表达, 身份认同, 非二元旗, 跨性别, 性别酷儿, 社会认同, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

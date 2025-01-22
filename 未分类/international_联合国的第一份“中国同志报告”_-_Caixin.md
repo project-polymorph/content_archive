@@ -10,7 +10,7 @@
 **作者**: 实习记者 邵希  
 **责任编辑**: 任波(ZN004) | 版面编辑：王嘉鹏(ZN006)  
 
-![财新传媒](//file.caixin.com/images/content/PC.jpg)
+![财新传媒](https://file.caixin.com/images/content/PC.jpg)
 
 报告指出，中国法律政策缺乏对LGBT群体权利的保护，社会对该群体的态度仍以负面为主。
 
@@ -33,7 +33,7 @@
 
 北京纪安德咨询中心主任魏建刚在报告发布会上表示，这份报告“重申了中国LGBT社群的需求，并强调了其脆弱性”。  
 
-![页面加载中](//file.caixin.com/file/content/images/loading.gif)
+![页面加载中](https://file.caixin.com/file/content/images/loading.gif)
 
 财新通会员可畅读全文
 
@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为第三方AI基于财新网文章提炼总结而成，介绍了联合国开发计划署于2014年发布的《“亚洲同志”项目中国国别报告》。这是第一份综合性国别报告，分析了中国LGBT（女同性恋、男同性恋、双性恋和跨性别者）群体的法律和社会环境。报告指出，中国在法律政策上缺乏对LGBT群体权利的保护，社会对该群体的态度仍以负面为主，特别是在就业、教育、健康等方面。北京纪安德咨询中心主任魏建刚表示，这份报告重申了中国LGBT社群的需求，强调其脆弱性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 3366 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 邵希                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-08-15                                 |
+| Tags            | LGBT, 法律政策, 社会环境, 生命故事, 国际组织, 中国, 同志报告, 就业权利, 健康权利, 文化态度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

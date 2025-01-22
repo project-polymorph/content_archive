@@ -176,7 +176,7 @@ HK$273.57
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于泰国各大成人表演的人妖秀推荐指南，详细介绍了曼谷、芭达雅和普吉岛的热门人妖秀。文章包括了金东尼人妖秀、克里普索人妖秀、蒂芬妮人妖秀、阿卡萨人妖秀、芭提雅6996秀和西蒙人妖秀等多个表演的详细信息，如每个秀的评分、观众评价、演出时长、票价、演出场次及地点等。文中强调了人妖秀的观赏性与受欢迎程度，提到这些表演以其华丽的舞台、精彩的歌舞和魅力四射的表演者著称，是游客到泰国时值得体验的亮点之一。整个指南为计划前往泰国旅行的游客提供了实用的参观建议和攻略。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -189,10 +189,10 @@ HK$273.57
 | Size            | 11182 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2024-11-12                                 |
+| Tags            | 人妖秀, 泰国成人表演, 芭达雅, 普吉岛, 曼谷, 旅游推荐, 文化特色, 表演艺术, 娱乐, 观光景点                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

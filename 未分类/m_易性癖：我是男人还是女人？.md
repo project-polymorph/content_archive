@@ -106,7 +106,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了关于性别认同和身份的问题，特别是易性癖和变性者的定义和认知。作者吴晓芬参考名人李银河及其伴侣的情感故事，深入探讨了性别和心理意象的复杂关系。文章强调每个人内心都同时具备男性和女性的意象，这种内在的自我认同影响着他们的情感归属和恋爱关系。通过对社会性别类型的梳理，作者总结了女性同性性取向中的‘T’角色，分析了‘爷T’和‘娘T’的特征以及各自的社会认同。同时，文章表达了对爱情的美好定义，认为爱情不应受到性别标签的限制，并呼吁人们以更包容的心态面对自己的爱情和内心的身份问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,10 +119,10 @@
 | Size            | 9441 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吴晓芬                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 易性癖, 变性者, 性别认同, 心理意象, 李银河, 同性恋, 爱情, 社会性别, 爷T, 娘T, 双性恋                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -194,7 +194,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章深入探讨了经典电影《沉默的羔羊》，分析了电影中的反派角色汉尼拔·莱克特和主角克拉丽斯之间的复杂关系。文章提到汉尼拔的角色塑造极具深度，不仅展现了他食人的恐怖形象，同时也揭示了他与克拉丽斯之间微妙的情感互动。通过对克拉丽斯童年经历的回忆、汉尼拔的机智表演及整部影片对人性的分析，作者指出了这部电影的恐怖实质不在于血腥场面，而在于对人性的残酷剖析。文章最后还探讨了汉尼拔的哲学观，即人类的贪婪与虚伪，并展现了克拉丽斯在面对他时的脆弱与勇气。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -207,10 +207,10 @@
 | Size            | 11053 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 我是十四哦                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-18                                 |
+| Tags            | 多元性别, 性别认同, 反派角色, 电影分析, 人性探讨, 克拉丽斯, 汉尼拔, 心理戏, 经典影片, 恐怖片                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

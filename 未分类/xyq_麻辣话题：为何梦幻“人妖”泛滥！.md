@@ -6,7 +6,7 @@
 时间：2009-07-31 17:17  
 作者：xxw911111
 
-![梦幻西游](//i.17173cdn.com/0561y4/YWxqaGBf/gamebase/game-cover-horizontal/QKlNMobmEvAsAoE.jpg)
+![梦幻西游](https://i.17173cdn.com/0561y4/YWxqaGBf/gamebase/game-cover-horizontal/QKlNMobmEvAsAoE.jpg)
 
 ## [梦幻西游](https://newgame.17173.com/game-info-118.html)[氪金玩的爽第4名](https://newgame.17173.com/rank/info.html#氪金玩的爽) { data-search-exclude }
 
@@ -70,7 +70,7 @@ FC，双封没有；WZ，三封的命中率从理论来说又低了一点；TG�
 
 ——不是我想变性，只是……人太帅了，也麻烦啊……
 
-![广告](//ue.17173cdn.com/a/news/final/2014/img/eye02.gif)
+![广告](https://ue.17173cdn.com/a/news/final/2014/img/eye02.gif)
 
 ---
 

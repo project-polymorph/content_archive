@@ -82,7 +82,7 @@ The above picture comes from "网易博客"
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容主要讨论了泰国的人妖表演及其社会文化背景，指出人妖表演是针对中国游客开发的娱乐项目，吸引了大量游客前来观看。文章中提到，泰国人妖表演的最大观众群体是中国游客，演出内容也不断根据游客的需求进行更新。在描述中，作者提到人妖的定义和生理特征，以及在泰国社会中的地位。文件还详细介绍了泰国的旅游特点、其他相关表演形式以及如何理解人妖在表演中的角色，阐述了人妖对社会的文化贡献，最后提及了这类表演在泰国本地的普遍接受度和社会认同。这是一篇反映多元性别文化和旅游互动的文章，表明了人妖表演作为一种与性别认同和社会文化交流相关的现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -95,10 +95,10 @@ The above picture comes from "网易博客"
 | Size            | 11121 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2013-02-19                                 |
+| Tags            | 旅游, 人妖表演, 泰国旅游, 社会文化, 多元性别, 性别认同, 文化交流, 娱乐产业, 表演艺术, 中国游客                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

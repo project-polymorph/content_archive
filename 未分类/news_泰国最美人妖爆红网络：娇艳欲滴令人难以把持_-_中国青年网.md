@@ -23,7 +23,7 @@ Yoshin今年14岁,美得像从画里走出来一样,最近因参演《为爱所�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了泰国人妖文化及其在网络上的影响，特别关注一位被称为泰国最美人妖的14岁女孩Yoshin。文章指出，泰国的人妖已经成为一种传统文化和产业，其美丽甚至可以与真正的美女相媲美。Yoshin因参演电视剧《为爱所困》而受到广泛关注，吸引了大量网友的目光。文章通过图片以及网友的评价，展现了人妖在社会中的魅力与地位。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@ Yoshin今年14岁,美得像从画里走出来一样,最近因参演《为爱所�
 | Size            | 721 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国青年网                               |
+| Region          | 泰国                               |
+| Date            | 2016-02-12                                 |
+| Tags            | 人妖文化, 泰国, 美丽, 社会现象, 性别多元, 网络传播, 娱乐产业, 生活故事, 青春, 文化传统                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

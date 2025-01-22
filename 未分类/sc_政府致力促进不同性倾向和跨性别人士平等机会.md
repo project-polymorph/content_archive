@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细阐述了香港特别行政区政府在促进不同性倾向和跨性别人士平等机会方面的努力与措施。政制及内地事务局发言人在回应媒体关于同志游行的询问时，强调政府一直以来致力于在维护现有婚姻制度的基础上，推动性少数群体的平等机会，力求在社会上建立包容和不歧视的文化。发言人提到，政府通过各种宣传媒介进行公众教育，以促进对不同性倾向和跨性别人士的理解与接纳。此外，政府还支持性小众服务，资助电话热线提供即时支援，帮助性小众及其家庭应对生活中的挑战。发言人表示，将进一步研究消除歧视的法律与行政措施，并期待在未来的讨论中为此提供更多信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@
 | Size            | 3498 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 香港特别行政区政府                               |
+| Region          | 香港                               |
+| Date            | 2018-11-17                                 |
+| Tags            | 性别平等, 跨性别, 性少数群体, 政府政策, 社会包容, 媒体宣传, 公众教育, 法律研究, 支援服务, 反歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

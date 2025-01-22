@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了北医三院副主任医师刘烨关于跨性别医疗的专业背景和经验。刘烨医生专注于糖尿病、内分泌代谢与生殖健康，并在跨性别激素医疗领域积累了丰富的经验。文件中提到刘医生在其学术职业生涯中，曾赴香港和丹麦进行短期交流学习，并在各类学术期刊上发表多篇论文，承担国家自然科学青年基金和教育部新教师基金的项目。除此之外，文本还引入了一些关于跨性别作者在学术出版领域面临挑战的讨论，具体案例提到了变性学者欧文·雷蒂格在出版过程中所遇到的困难。这些内容为研究多元性别及其相关社会环境和医疗资源提供了重要的视角与信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 1882 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 偶然动情                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-08-26                                 |
+| Tags            | 跨性别, 医疗资源, 刘烨, 内分泌科, 激素治疗, 学术研究, 社会挑战, 变性, 北京大学第三医院, 甘特情, 国色芳华                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

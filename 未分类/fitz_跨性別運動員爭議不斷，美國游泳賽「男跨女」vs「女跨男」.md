@@ -30,7 +30,7 @@ _資料: [New York Post](https://nypost.com/2022/01/08/lia-thomas-defeated-by-fe
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了有关跨性别运动员Lia Thomas在美国游泳赛中的争议及相关事件。Lia曾是一名男子游泳运动员，之后进行了性别重置手术，并在女子组比赛中取得了优异成绩，引发了关于性别公平的广泛讨论。尽管她在比赛中表现出色，打破了校际记录，但她的参赛资格和身体素质引起了许多争议。文章进一步介绍了Lia在1月的一场比赛中被正在进行性别重置手术的Iszac Henig战胜的事件，再次推动了公众对运动界性别认同和公平竞争的关注和讨论。这篇文章深入探讨了社会对性别多元化的认知变化以及这些变化如何影响体育界。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@ _資料: [New York Post](https://nypost.com/2022/01/08/lia-thomas-defeated-by-fe
 | Size            | 2365 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张伯伦                               |
+| Region          | 美国                               |
+| Date            | 2022-01-08                                 |
+| Tags            | 跨性别运动, 游泳比赛, 性别认同, 性别重置手术, 运动员, 女子组, 体育争议, 性别平等, 社会讨论, Lia Thomas                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

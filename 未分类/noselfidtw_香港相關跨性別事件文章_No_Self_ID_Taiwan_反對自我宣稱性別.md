@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档收录了与香港跨性别人士相关的一系列事件和政策变更，尤其关注身份证性别更改的法律进展。文件提到，香港入境处因终审法院裁定须完成所有手术才能更改性别的规定违法，因此暂停了更改性别申请的政策。文章详细记录了几项重要事件，包括两名跨性别人士（谢浩霖和Q）在终审法院胜诉的案例，允许他们在未进行变性手术的情况下更改身份证的性别标记。此外，文中还提到两名女性跨男性在申请更改身份证性别时被拒的经历，认为入境处的政策侵犯了他们的隐私。整体来看，文件提供了对香港跨性别群体在身份证性别登记过程中的挑战与法律环境的详尽反映。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 1892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 2023-03-10                                 |
+| Tags            | 跨性别, 身份证性别更改, 法律政策, 香港, 性别歧视, 隐私权, 性别认同, 司法裁决, 社会运动, 性别登记                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

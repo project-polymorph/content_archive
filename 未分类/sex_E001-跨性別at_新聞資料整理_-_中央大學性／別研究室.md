@@ -264,7 +264,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为国立中央大学性别研究室的资料整理，主题围绕跨性别群体在社会中的生存现状与心理体验，尤其聚焦于一个名为《双身》的小说。文件中的文章由作者方非撰写，详细探讨了性别界限的问题以及易性倾向和易性癖的心理与社会影响。文中提到在生理上性别界限难以逾越，但心理上，有人希望通过变性手术来实现自我认同。特别是通过对《双身》这一作品的分析，揭示了男性变为女性后所经历的巨大心理冲突与屈辱。小说中的主角林山原，在经历突如其来的变性后，感受到被迫接受女性身份所带来的身心痛苦，深刻反映了社会性别观念对个体的影响。通过小说情节，文件对这种突变的心理状态以及对女性身份的恐惧进行了深度剖析，表明了在男性视角中，女性角色常常是被轻视与鄙视的，造成了深重的心理伤害。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -277,10 +277,10 @@
 | Size            | 47285 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 国立中央大学性别研究室                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别研究, 变性手术, 心理冲突, 性别认同, 女性角色, 社会歧视, 小说分析, 方非, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

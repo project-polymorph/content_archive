@@ -110,7 +110,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件涉及中国篮球明星易建联的近期丑闻，报道了其与一名自称为变性人网民的性交易事件。根据网上流传的信息，这名变性人声称与易建联进行了性交易，并提供了相应的证据，如所谓的聊天记录和身份证明的图片。报道中提到易建联在2023年宣布退役，现年36岁，即便事件发酵，他仍未对此事做出回应。而变性人李金金，曾因其社会活动和个人经历被广泛讨论，事件背景涉及她的身份认同和社会接受度等议题。文中同时提到与易建联的妻子荆灵的婚姻关系和家庭生活，增加了事件的复杂性与公众的关注度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,10 +123,10 @@
 | Size            | 10829 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-17                                 |
+| Tags            | 易建联, 变性人, 性交易, 社会事件, 性别认同, 媒体报道, 丑闻, 法律问题, 公众人物, 陈述与回应                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

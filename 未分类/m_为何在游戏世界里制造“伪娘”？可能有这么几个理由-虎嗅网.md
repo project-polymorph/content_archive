@@ -119,7 +119,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在游戏世界中制造‘伪娘’的多种可能原因和背景，强调了电子游戏的亚文化超越传统性别认知的能力。文章首先回顾了‘伪娘’的历史起源，提及了日本动漫及游戏中早期角色的影响，并引出了‘伪娘’的兴起与去性别化趋势。内容详细分析了多个游戏角色如《少女爱上姐姐》中男主角宫小路瑞穗通过穿女装来探索性别认知壁垒，以及在其他作品中男角色变装的情境，往往是基于对社会规范的挑战、牺牲奉献的主题、对爱情的追求，或是个人的性别认同的需要。此外，文章也讨论了现代作品中性别模糊与中性角色的趋势，体现出社会对性别议题的日益开放与包容。总体而言，这篇文章不仅为读者提供了丰富的游戏文化分析，同时也衍生出了对性别社会学的深入思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -132,10 +132,10 @@
 | Size            | 12104 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | DLS_MWZZ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 游戏文化, 中性角色, 日本动漫, 社会包容性, 文化分析, 性别认知, 性别差异, 电子游戏                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

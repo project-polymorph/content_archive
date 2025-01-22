@@ -57,7 +57,7 @@ MY LIFE SKILLS 服務主要透過外展活動、性健康工作坊、小組及�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了Marvel剧集《洛基》中的性别流动角色洛基（由汤姆·希德斯顿饰演），强调了性别流动（Gender fluid）的定义以及与跨性别（Transgender）的区别。文中指出，性别流动者的性别认同是动态的，可能在一生中经历多次变化，而跨性别者的性别认同与出生时指定的性别不同。文章还提到，洛基在影集中的个人资料卡上标注为性别流动，反映了对多元性别文化的认同。通过对比法律政策，提出对性别流动者和非二元性别的接纳和识别的重要性，同时提供了支持多元性别社群的建议及相关资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@ MY LIFE SKILLS 服務主要透過外展活動、性健康工作坊、小組及�
 | Size            | 5892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 2021-07-29                                 |
+| Tags            | LGBT+, 性别流动, 跨性别, Marvel, 洛基, 性别认同, 多元性别, 影视分析, 社会认同, 性别政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

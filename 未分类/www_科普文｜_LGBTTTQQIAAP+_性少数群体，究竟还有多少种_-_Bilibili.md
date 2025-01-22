@@ -278,7 +278,7 @@ LGBTQ是性少数群体社区中比较常用的术语， 你可能也听到用�
 
 ＊备注： 部分内容来自互动百科、百度百科、豆瓣
 
-[科普](//search.bilibili.com/all?keyword=%E7%A7%91%E6%99%AE) [LGBT](//search.bilibili.com/all?keyword=LGBT) [亚文化](//search.bilibili.com/all?keyword=%E4%BA%9A%E6%96%87%E5%8C%96)
+[科普](https://search.bilibili.com/all?keyword=%E7%A7%91%E6%99%AE) [LGBT](https://search.bilibili.com/all?keyword=LGBT) [亚文化](https://search.bilibili.com/all?keyword=%E4%BA%9A%E6%96%87%E5%8C%96)
 
 ---
 

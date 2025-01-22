@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在好莱坞，跨性别者参与自己的故事和形象的重要性。2018年8月，斯嘉丽·约翰逊因公众抗议而退出电影《摩擦与拖拽》，引发了对跨性别角色扮演的广泛讨论。近40家制片公司与倡导团体共同呼吁好莱坞提高LGBTQ+的出镜率，支持让跨性别者有机会讲述他们自己的故事。在一封公开信中，各大制片厂被敦促要优先让跨性别者参与角色扮演，并利用其影响力改变社会对跨性别者的观念。信中指出，顺性别演员扮演跨性别者对整个群体的负面影响，并且跨性别者应被赋予讲述自身经历的权利。同时，GLAAD和5050by2020还提供了资源指南，以帮助片方创建更安全和包容的工作环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,10 +53,10 @@
 | Size            | 4875 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Ricardo Lopez                               |
+| Region          | 未知                               |
+| Date            | 2018-08-09                                 |
+| Tags            | 跨性别, 好莱坞, LGBTQ, 斯嘉丽·约翰逊, 影视制作, 多样性, 性别认同, 社会认知, 公共倡导, 文化影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

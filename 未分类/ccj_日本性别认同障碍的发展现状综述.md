@@ -57,7 +57,7 @@ GB/T 7714
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于日本性别认同障碍（Gender Identity Disorder, GID）发展的现状综述。性别认同障碍通常指个体对于自己性别认同与生物性别之间不一致的情况，这种不一致常常伴随着心理上的痛苦及转变对其生物性别的渴望。本文核心探讨了日本性别认同障碍患者的调查研究，分析了荷尔蒙治疗、性别转变手术及生殖医疗等领域的最新发展，同时提及2013年美国《精神疾病诊断及统计手册》第五版将性别认同障碍重新定义为“性别烦恼”，不再视其为疾病，而是承认性别多样性的合法存在。这一变化反映了国际社会对性别认同的理解与接受度的提高，为相关患者提供了新的视角与选择。文中引用了相关数据及文献，提供了对日本性别认同障碍治疗现状的深入分析，并指出心理治疗在该问题上的效用已被证实为无效，强调了患者更倾向于通过显著的生理手段来实现性别认同与生物学上的性别一致性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@ GB/T 7714
 | Size            | 2949 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 周宇, 李毅, 中塚幹也                               |
+| Region          | 日本                               |
+| Date            | 2017-11-01                                 |
+| Tags            | 性别认同障碍, 性别烦恼, 日本, 心理治疗, 荷尔蒙治疗, 性别转变手术, 生殖医疗, 性别多样性, 社会接受度, 患者调查                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -14,7 +14,7 @@
 
 装束与妆容都不能仅仅用性别来定义，这就是“无性别主义”。无性别主义在一定程度上超越了性别。本次坐庄意在探讨无性别主义是否是一种流行趋势，相关产品又应该如何营销？
 
-![专题图片](//i0.hdslb.com/bfs/article/8fd2796f688f8486abbff6c296a1d5c85b193dcb.jpg@1192w.webp)
+![专题图片](https://i0.hdslb.com/bfs/article/8fd2796f688f8486abbff6c296a1d5c85b193dcb.jpg@1192w.webp)
 
 **参与者**
 
@@ -112,7 +112,7 @@ Evie-香港-2群副群主:
 Evie-香港-2群副群主:  
 那确定了我们今天讨论的定义，我们就进入第二部分，无性别主义的代表性品牌和人物。大家觉得，根据上述定义，有哪些品牌和人物符合这个定义，或者至少具有这样的内涵？
 
-![代表人物图片](//i0.hdslb.com/bfs/article/e1b21f0744a600e2b854dfbc025c70e72c7bee6c.jpg@1192w.webp)
+![代表人物图片](https://i0.hdslb.com/bfs/article/e1b21f0744a600e2b854dfbc025c70e72c7bee6c.jpg@1192w.webp)
 
 Evie-香港-2群副群主:  
 大家知道这是谁吗？
@@ -127,7 +127,7 @@ Shane-上海-服装工作室:
 古一大师很帅。
 
 Evie-香港-2群副群主:  
-![另一个代表人物图片](//i0.hdslb.com/bfs/article/dcf6e6e6da9a4d995ec3337f3aef832c0ad47cc1.jpg@1192w.webp)
+![另一个代表人物图片](https://i0.hdslb.com/bfs/article/dcf6e6e6da9a4d995ec3337f3aef832c0ad47cc1.jpg@1192w.webp)
 
 Evie-香港-2群副群主:  
 除了Tilda之外，不知道大家对这位前段时间在Met Gala上大放异彩的明星是否还有印象？
@@ -150,9 +150,9 @@ Evie-香港-2群副群主:
 Evie-香港-2群副群主:  
 然后山本耀司大家也很熟悉了，他的设计理念里，很重要的就是不希望“女性为男性打扮”，希望能够让服装彰显个性。
 
-![山本耀司设计](//i0.hdslb.com/bfs/article/f30379c79b0a2dbc4b736cf607017e063c603d61.jpg@760w_1140h.webp)
+![山本耀司设计](https://i0.hdslb.com/bfs/article/f30379c79b0a2dbc4b736cf607017e063c603d61.jpg@760w_1140h.webp)
 
-![YSL设计](//i0.hdslb.com/bfs/article/b6c7c73d9d2b6baae0bac55cff6eded9af106364.jpg@1192w_1788h.webp)
+![YSL设计](https://i0.hdslb.com/bfs/article/b6c7c73d9d2b6baae0bac55cff6eded9af106364.jpg@1192w_1788h.webp)
 
 Yihan-杭州-3群副群主:  
 Thom Browne也算是。
@@ -222,9 +222,9 @@ Evie-香港-2群副群主:
 李萍-太原-买手:  
 刚做的品牌，销量一般。但是我个人很爱的风格，休闲机车风。
 
-![休闲机车风](//i0.hdslb.com/bfs/article/d311c5fd57bc7866d64d777d790bf5d48c1d2736.jpg@1192w_1192h.webp)
+![休闲机车风](https://i0.hdslb.com/bfs/article/d311c5fd57bc7866d64d777d790bf5d48c1d2736.jpg@1192w_1192h.webp)
 
-![另一种风格](//i0.hdslb.com/bfs/article/a66edb729809872292ba25d53c2ee6f6f4bd0c6c.jpg@1192w_1192h.webp)
+![另一种风格](https://i0.hdslb.com/bfs/article/a66edb729809872292ba25d53c2ee6f6f4bd0c6c.jpg@1192w_1192h.webp)
 
 Fiona Chen-武汉-设计师:  
 应该有一部分是为了与众不同吧！想有自己特立独行的风格，我也喜欢穿中性的衣服。
@@ -274,7 +274,7 @@ Shane-上海-服装工作室:
 威廉-上海-四群副群主:  
 这样的风格是书生气？
 
-![书生气风格](//i0.hdslb.com/bfs/article/964b8f46ac5a82759c43f6095b68d825b6274af0.jpg@1192w.webp)
+![书生气风格](https://i0.hdslb.com/bfs/article/964b8f46ac5a82759c43f6095b68d825b6274af0.jpg@1192w.webp)
 
 李萍-太原-买手:  
 不书生，挺潮的。
@@ -282,7 +282,7 @@ Shane-上海-服装工作室:
 Shane-上海-服装工作室:  
 可以看一下男士大衣与风衣款，有的流量小生蛮中性化的。
 
-![男士风衣](//i0.hdslb.com/bfs/article/cfc9fc373d6467856cacc7338290a9d3eb5696c5.jpg@1192w_1192h.webp)
+![男士风衣](https://i0.hdslb.com/bfs/article/cfc9fc373d6467856cacc7338290a9d3eb5696c5.jpg@1192w_1192h.webp)
 
 Evie-香港-2群副群主:  
 这些都很清爽啊，大众接受度都很高吧。
@@ -451,7 +451,7 @@ Evie-香港-2群副群主:
 
 这两张都是他们的海报。
 
-![FLUIDE海报1](//i0.hdslb.com/bfs/article/477b0381c3079c1d8438f2d70455aa03ed843ffb.jpg@1024w_1536h.webp)
+![FLUIDE海报1](https://i0.hdslb.com/bfs/article/477b0381c3079c1d8438f2d70455aa03ed843ffb.jpg@1024w_1536h.webp)
 
 李萍-太原-买手:  
 第一张很棒。
@@ -474,9 +474,9 @@ Evie-香港-2群副群主:
 Evie-香港-2群副群主:  
 对，就是很真实可爱，鼓励这种真实可爱。这也是他们的海报，一张是指甲油，一张是唇彩和眼影。
 
-![指甲油](//i0.hdslb.com/bfs/article/744faf7d825a45580f7d3571d11c2270f10b47b4.jpg@1192w.webp)
+![指甲油](https://i0.hdslb.com/bfs/article/744faf7d825a45580f7d3571d11c2270f10b47b4.jpg@1192w.webp)
 
-![唇彩和眼影](//i0.hdslb.com/bfs/article/cf161cfe6b387f5b1475ef97994521aabdbdfb45.jpg@1024w_1536h.webp)
+![唇彩和眼影](https://i0.hdslb.com/bfs/article/cf161cfe6b387f5b1475ef97994521aabdbdfb45.jpg@1024w_1536h.webp)
 
 Evie-香港-2群副群主:  
 他们的第二个特点就是，无论是产品线还是宣传物料，都很喜欢用闪亮的、活泼的、明快的颜色，是很张扬的个性表达。我觉得在这个意义上，他们与我们传统所看到的以黑白灰为主调，以简洁设计为特点的中性风品牌区别开来，而是鲜明、确切的无性别主义品牌。
@@ -551,7 +551,7 @@ Evie-香港-2群副群主:
 
 **庄主微信**:
 
-![庄主微信](//i0.hdslb.com/bfs/article/9741da2d244f2cad0115cdaaf359298bdb76364d.jpg@470w.webp)
+![庄主微信](https://i0.hdslb.com/bfs/article/9741da2d244f2cad0115cdaaf359298bdb76364d.jpg@470w.webp)
 
 ---
 
@@ -561,7 +561,7 @@ Evie-香港-2群副群主:
 
 **感谢您的阅读，期待今后更多的讨论也欢迎大家来分享！**
 
-![反馈图片](//i0.hdslb.com/bfs/article/76a4476766c2f8915053a1b06646919bacaaa534.jpg@1192w.webp)
+![反馈图片](https://i0.hdslb.com/bfs/article/76a4476766c2f8915053a1b06646919bacaaa534.jpg@1192w.webp)
 
 **👇【试听】冷芸时尚微课👇**
 
@@ -569,10 +569,10 @@ Evie-香港-2群副群主:
 **“商品企划对于设计工作有何意义？”**  
 **请扫描下方二维码获取网址**
 
-![微课二维码](//i0.hdslb.com/bfs/article/11ad3d5ea78e628cb11d2a53b224834ae0dffdcf.png@520w_520h.webp)
+![微课二维码](https://i0.hdslb.com/bfs/article/11ad3d5ea78e628cb11d2a53b224834ae0dffdcf.png@520w_520h.webp)
 
-[无性别主义](//search.bilibili.com/all?keyword=%E6%97%A0%E6%80%A7%E5%88%AB%E4%B8%BB%E4%B9%89)  
-[时尚圈讨论](//search.bilibili.com/all?keyword=%E6%97%B6%E5%B0%9A%E5%9C%88%E8%AE%A8%E8%AE%BA)
+[无性别主义](https://search.bilibili.com/all?keyword=%E6%97%A0%E6%80%A7%E5%88%AB%E4%B8%BB%E4%B9%89)  
+[时尚圈讨论](https://search.bilibili.com/all?keyword=%E6%97%B6%E5%B0%9A%E5%9C%88%E8%AE%A8%E8%AE%BA)
 <!-- tcd_original_link https://www.bilibili.com/read/cv3014369/ -->
 
 

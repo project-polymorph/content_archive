@@ -28,7 +28,7 @@ Copyright(c) 2003-Present [Metamedia Technology](https://www.mm.co.th/)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为对“人妖”这个词的含义和解释的介绍，内容涉及该词汇的多重含义，包括怪物、妖精、变装者、变性者等，同时也提到在当前社会中该词汇的俚语使用。文件中提供了相关的语言资源链接和词典来源，强调了该词汇的定义在研究多元性别与性别身份方面的意义。该文件原文带有某些自动生成的摘要与附加信息，但缺乏详细的说明和背景信息，整体内容较为简洁却客户端重要的多元性别理解基础。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@ Copyright(c) 2003-Present [Metamedia Technology](https://www.mm.co.th/)
 | Size            | 1093 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人妖, 多元性别, 性别身份, 词汇解释, 变性者, 变装者, 怪物, 妖精, 俚语, 文化研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

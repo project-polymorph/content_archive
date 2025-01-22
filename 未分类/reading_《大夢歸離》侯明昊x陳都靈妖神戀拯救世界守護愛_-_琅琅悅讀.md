@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《大夢歸離》是一部奇幻爱情剧，由侯明昊与陈都灵主演，展现了一种人妖共存的幻想世界。故事设定在古代的贞元时期，神女与妖兽之间的纠葛深入迷人。剧情主要围绕妖兽朱厭化为人形后，化名赵远舟，携手其他角色形成捉妖小队，揭示妖兽作恶背后的残酷真相。在剧情中，角色之间的感情纠葛与三角恋关系有机地交织，使得整个故事更为引人入胜。同时，角色的复杂性格和情感令观众思考爱与守护的意义。该剧自2024年10月30日首播以来，受到了观众的广泛讨论与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@
 | Size            | 7291 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 琅琅悦读                               |
+| Region          | 未知                               |
+| Date            | 2024-10-30                                 |
+| Tags            | 幻想爱情, 古代神话, 人妖共存, 爱的纠葛, 捉妖小队, 性别角色, 戏剧反转, 情感探讨, 角色发展, 中国电视剧                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

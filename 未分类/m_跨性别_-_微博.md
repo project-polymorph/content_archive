@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了多个与跨性别相关的微博视频内容，每个视频讲述了不同的跨性别者的经历和故事，涉及身份认同、医疗过程、社会接受度等重要话题。内容包括个人的过渡经历，比如如何修改身份证上的性别、庆祝社会性别认同、治疗经历、跨性别教育以及面临的社会挑战等。每个视频都附有相关话题标签，给观看者提供更多的搜索和讨论信息。例如，有视频记录了一位36岁的跨性别者成功将身份证上的性别由“女”改为“男”，以及在北京的一次庆祝活动。这些视频反映了跨性别者在个人生活、医疗健康和社会环境中的真实经历，是对跨性别现状的一个生动展示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,10 +108,10 @@
 | Size            | 4692 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, LGBT, 医学资源, 个人故事, 社会接纳, 性别认同, 法律政策, 心理咨询, 过渡经历, 性别多元性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

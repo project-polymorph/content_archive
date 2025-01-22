@@ -221,7 +221,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于跨性别调研方法的简介，旨在为研究者提供关于跨性别者的调研设计和实施的指导建议。文件从多个方面入手，首先强调了研究方法的友好性与文化响应性，特别是在设计问卷时要避免触发参与者的创伤回忆。此外，本文讨论了抽样的意义，指出研究者需要确保抽样的代表性，强调伦理规范的重要性，如知情同意和避免对参与者造成伤害。整篇文章便于跨性别者及其相关研究者理解调研过程中应遵循的伦理原则和操作方法，最后提供了一些可行的研究技术及具体问题设计的建议以提高数据的可靠性与有效性。这是为答复跨性别者及其社区的需求而编写的调研指导手册，具有重要的学术和实践价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -234,10 +234,10 @@
 | Size            | 20596 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | QQ平台“跨性别相关bot”                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-08-01                                 |
+| Tags            | 跨性别, 调研方法, 伦理, 研究设计, 问卷调查, 抽样方法, 性别多元, 社区参与, 数据收集, 心理研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

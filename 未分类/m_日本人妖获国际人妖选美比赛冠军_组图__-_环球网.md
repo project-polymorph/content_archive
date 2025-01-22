@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![日本人妖获国际人妖选美比赛冠军](//rs2.huanqiucdn.cn/huanqiucdn/image/m/share.jpg)
+![日本人妖获国际人妖选美比赛冠军](https://rs2.huanqiucdn.cn/huanqiucdn/image/m/share.jpg)
 
 环球时报驻日本特约记者赵学亮、环球网记者杨虹报道 据日本《产经新闻》11月2日报道，在泰国芭提雅10月31日举办的2009 国际人妖选美比赛中，日本人妖春名爱（37岁）夺得桂冠，并获得1万美金奖金。
 
@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了日本人妖春名爱在2009年10月31日于泰国芭提雅举办的国际人妖选美比赛中夺冠的消息。文章详细描述了比赛的背景和参赛选手的情况，提到此次比赛共吸引了来自泰国、日本、中国、菲律宾等多个国家的21位参赛者。最终，共有18位选手进入决赛，展现了各自的风采。这场比赛不仅吸引了当地观众，也成为外国游客的一大亮点，充分反映了多元性别的文化现象与社会接受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,10 +38,10 @@
 | Size            | 1146 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球时报驻日本特约记者赵学亮、环球网记者杨虹                               |
+| Region          | 日本                               |
+| Date            | 2009-11-02                                 |
+| Tags            | 人妖, 选美比赛, 多元性别, 社会文化, 国际赛事, 泰国, 日本, 春名爱, 媒体报道, 女性化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

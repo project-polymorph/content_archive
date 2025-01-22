@@ -3,11 +3,11 @@
 ## 正文 { data-search-exclude }
 
 
-![非二元性别](//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg/80px-Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg)
+![非二元性别](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg/80px-Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg)
 
 非二元性别（英语：Non-binary gender）、性别酷儿（英语：genderqueer）和X性别（日语：Xジェンダー）是处于二元性别以外的性别认同。非二元性别认同可以归于作为伞状术语的跨性别概念之内，因为绝大多数非二元性别人士的性别认同都与其指定性别不同。不过，并非所有非二元性别人士都视自己为跨性别者。
 
-![荒木飛呂彥](//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hirohiko_Araki_2013_-_cropped.jpg/80px-Hirohiko_Araki_2013_-_cropped.jpg)
+![荒木飛呂彥](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hirohiko_Araki_2013_-_cropped.jpg/80px-Hirohiko_Araki_2013_-_cropped.jpg)
 
 载，以獨特的畫風和分鏡著稱，劇情方面以「歌頌人類」為探討主題。他曾经获得过日本漫画界的手塚奖。 荒木小學時參加過少棒，中學時是劍道社。有一對雙胞胎妹妹，因為常被妹妹欺負、所以會躲去看漫畫，小時候便喜歡漫畫，因此想成為漫畫家。喜歡的作品是梶原一騎的《巨人之星》和《小拳王》、橫山光輝的《巴比倫2世》。荒木與手塚治虫有過握手的經驗。
 

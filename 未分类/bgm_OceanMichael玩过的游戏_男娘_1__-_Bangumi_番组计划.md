@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了用户OceanMichael玩过的与男娘主题相关的游戏，重点介绍了2016年发布的《女装学园（孕）》。文件中提供了游戏的基本信息，包括游戏类别（伪娘、galgame等）和个人对游戏的体验与看法。文中提到尽管该游戏延续了系列的套路，但通过小元素的融入和角色形象的丰富，使得游戏内容依然具有趣味性。文档内还列出了与该游戏相关的标签，包括伪娘、拔作、男娘等，以便于分类和检索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,10 +54,10 @@
 | Size            | 2483 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 女装学园, 伪娘, galgame, 游戏体验, 游戏分类, 西田一, R18, 国产, 汉化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

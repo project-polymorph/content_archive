@@ -53,7 +53,7 @@ a transsexual [person](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细解释了“Transsexual”一词在剑桥英语词典中的定义与用法，包括对多元性别人士的描述，强调性别过渡的意义。该文档分为几个部分，从词性的定义开始，然后详细讲述了“Transsexual”如何被用于描述那些其性别认同与出生时的肉体性别不符的人。此外，文章提到性别过渡的概念，并列举了一些相关的例句以供参考，使读者更好理解这个术语的实际用途。值得注意的是，文中指出“Transsexual”这个词在当今社会中的使用频率已大幅下降，且在某些情况下可能对个体造成冒犯，因此建议在描述他人时谨慎使用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@ a transsexual [person](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%
 | Size            | 6157 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | Transsexual, 多元性别, 性别认同, 性别过渡, 性别术语, 医学术语, 语言学, 性别平等, 人权, 文化认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

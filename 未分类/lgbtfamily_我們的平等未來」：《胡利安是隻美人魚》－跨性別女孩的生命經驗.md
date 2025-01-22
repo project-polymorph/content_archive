@@ -62,7 +62,7 @@ netiCRM 是一套採用 [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.html) �
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了由台湾同志家庭权益促进会主办的活动，主题为《胡利安是隻美人魚》，着重于跨性别女孩的生命经验。活动的目的是通过讲者的生命经历和绘本故事，让参与者看到台灣女孩的多元样貌。特别提到了一名小男孩胡利安在泳池中看见美丽女性后，内心中的美人鱼梦想，以及与许多跨性别女性的共鸣。活动安排在2020年10月24日举行，参与者通过真人图书馆的形式听取故事，增进对跨性别者的理解和尊重。文中展示了活动的详细信息，如时间、地点及相关的防疫措施，并提供了联系方式。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@ netiCRM 是一套採用 [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.html) �
 | Size            | 2761 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 台湾同志家庭权益促进会                               |
+| Region          | 台湾                               |
+| Date            | 2020-10-24                                 |
+| Tags            | 跨性别故事, 跨性别, 生命经验, 女权, 台湾LGBT, 平权运动, 同志家庭, 艺术表达, 社会正义, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

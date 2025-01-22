@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了英国萨塞克斯大学的提议，该校可能成为英国第一所全面配置三种类型厕所的高等教育机构，即男厕所、女厕所和变性人厕所。萨塞克斯大学学生会提出这一建议，旨在创造一个对所有学生友好的环境，让每一位成员都感觉“受欢迎”。学生会的发言人伊莫金·艾迪对此表示支持，强调这是打破成见的一步，反映了学校对变性人群体关注的努力。然而，该提议也遭到了一些学生的质疑，认为学生会应优先关注更紧迫的问题。报道还提到，2009年斯塔福德郡大学曾有类似的政策，从这一历史背景来看，萨塞克斯大学的举动可能标志着更多高等院校在性别多元性方面的进步。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,10 +37,10 @@
 | Size            | 1241 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张阳                               |
+| Region          | 英国                               |
+| Date            | 2013-10-19                                 |
+| Tags            | 性别多元, 厕所政策, 萨塞克斯大学, 变性人, 学生会, 社会包容, 校园环境, 性别意识, 性别平等, 英国高校                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

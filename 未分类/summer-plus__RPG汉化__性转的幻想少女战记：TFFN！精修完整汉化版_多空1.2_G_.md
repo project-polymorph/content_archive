@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了一款名为《性转的幻想少女战记：TFFN！精修完整汉化版》的角色扮演游戏。此游戏是由6COLORS社团发布，且翻译组SSTM汉化组完成了精修汉化，游戏内容丰富，质量极高。游戏的情节围绕一名男主角逐渐转变为女性的历程，涵盖了身体和心理的变化，特别强调了角色在过程中的「伪娘」身份。随着游戏的推进，角色会使用魔法而逐渐变成真正的女孩，游戏中的设定非常神奇，有趣中透着一种对性别流动的探索与表现。该游戏内含多种角色和丰富的剧情，且有全程配音，吸引玩家体验其独特的性别转换过程以及充满羞耻感的冒险经历。文中还提供了游戏的下载链接，让玩家能够直接获取。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@
 | Size            | 3221 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-29                                 |
+| Tags            | 性转, 角色扮演游戏, RPG, 性别流动, 虚拟现实, 汉化版, 心理变化, 身体变化, 魔法冒险, 全程CV                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

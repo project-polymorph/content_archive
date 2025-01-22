@@ -11,8 +11,8 @@
 
 任贤齐回忆女装反串拍戏经历，不知去女厕还是男厕。
 
-![任贤齐回忆女装反串拍戏](//www.iqiyipic.com/lequ/20220727/4a7cfd6ca50a42f280aab45f9bb637f9.png)
-![张柏芝现场还原《星愿》](//www.iqiyipic.com/lequ/20220727/e66106a048c44826bbd6d260b316e5bb.png)
+![任贤齐回忆女装反串拍戏](https://www.iqiyipic.com/lequ/20220727/4a7cfd6ca50a42f280aab45f9bb637f9.png)
+![张柏芝现场还原《星愿》](https://www.iqiyipic.com/lequ/20220727/e66106a048c44826bbd6d260b316e5bb.png)
 
 > **评论区**：0条
 

@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一名18岁少年小斌为了变性而在网上寻找假医生为其实施的切睾丸手术的故事。文章详细描述了小斌从小对性别身份的认同，以及他因家庭环境和社会压力而选择走上非法手术之路。少年因无力获得正规的医疗支持而向网上自称具备手术经验的‘医生’小俊求助，最终导致了其三年半的监禁。此案件不仅反映了对变性者社会环境的压迫，还揭示了假医生横行的严峻问题，给需要变性手术的人造成了极大的风险和伤害。审视这个事件，我们应关注性别认同与家庭支持的重要性，同时呼唤法律对假医行为的严格打击。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@
 | Size            | 3870 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-21                                 |
+| Tags            | 变性手术, 性别认同, 假医生, 医疗安全, 法律案例, 家庭支持, 社会压力, 性别非传统, 青少年故事, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

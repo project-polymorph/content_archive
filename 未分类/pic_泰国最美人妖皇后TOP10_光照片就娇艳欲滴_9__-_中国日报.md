@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了2010年泰国本地变性人选美比赛中获得冠军的娜拉达，以及泰国最美人妖皇后TOP10的相关信息。文章附有多张照片，展示了这些人妖皇后的美丽与风采，强调了她们的外貌和魅力。文章的发布时间为2015年6月26日，文章来源为中国日报，属于新闻报道类别。内容不仅包括对这些美丽女性的介绍，还涉及了变性人在社会中的表现与接受程度，反映了多元性别在文化中的地位。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 1530 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 中国日报                               |
+| Region          | 泰国                               |
+| Date            | 2015-06-26                                 |
+| Tags            | 泰国, 人妖, 选美比赛, 娜拉达, 变性人, 美丽, 社会文化, 多元性别, 新闻报道, 皇后                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

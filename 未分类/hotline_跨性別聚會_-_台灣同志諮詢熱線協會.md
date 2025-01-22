@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细介绍了由台湾同志咨询热线协会主办的跨性别聚会活动，旨在为跨性别者及其家庭提供一个安全的交流平台。聚会分为跨性别聚会、跨性别同乐会及晃游性/别系列讲座，旨在让参与者自由表达自己的性别认同，无论是自认跨性别还是正在探索性别认同的个体。内容中提到不同阶段的跨性别者及其面临的各种挑战与困扰，例如对性别的认同、家人对身份的接受，以及在跨性别过渡过程中可能遇到的困难。此外，文件还列出了2024年和2025年的聚会及讲座的具体时间和地点，说明了这些活动开放给自认为跨性别或支持跨性别者的人的参与，强调了对隐私的保护和聚会的包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,10 +93,10 @@
 | Size            | 4119 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 台湾同志咨询热线协会                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 聚会, 性别认同, 社会支持, 台湾, 同志咨询, 医疗资源, 活动组织, 个人故事, 团体活动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

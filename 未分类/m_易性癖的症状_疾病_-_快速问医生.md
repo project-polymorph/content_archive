@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了易性癖的症状及其心理特征。根据刘强副主任医师的介绍，易性癖的主要特点是个体在心理上的性别认同与其生理性别相反，表现为持续的转换性别的渴望。这种状况通常在青年期开始，个体倾向于模仿异性，不仅穿着异性衣物，还在行为举止上表现出与其生理性别不符的特征。而与异性装扮癖不同，这种表现并不伴随性兴奋。文中还指出，这些个体可能会厌恶其生理性特征，并常常要求进行变性手术。易性癖患者的心理状况如果未能及时处理，可能导致极端后果，甚至自杀，因此对待这种情况应该以宽容与专业的态度对待，并在必要时寻求医疗帮助与矫正。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@
 | Size            | 1501 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘强 副主任医师                               |
+| Region          | 上海市                               |
+| Date            | 2023-01-02                                 |
+| Tags            | 多元性别, 易性癖, 心理健康, 性别认同, 医疗资源, 社会支持, 性别转换, 个体故事, 行为表现, 医疗经验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

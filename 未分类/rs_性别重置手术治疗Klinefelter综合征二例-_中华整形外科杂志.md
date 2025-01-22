@@ -65,7 +65,7 @@ Klinefelter综合征的病因学是由于双亲之一的生殖细胞形成过程
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了两例Klinefelter综合征患者在性别重置手术后的治疗过程与案例分析。Klinefelter综合征是一种先天性染色体畸变疾病，患者在青春期后表现出性别特征的模糊化，外展女性化特征，伴有睾丸发育不全。文章详细记录了两位患者的临床资料、手术过程以及术后效果。第一例患者在进行性别重置手术后，经历了一系列的身体重塑手术，最终实现了身心合一，并在心理辅导的辅助下，重拾自信，融入社会。第二例患者同样表现出女性化特征，并在多年的期望下决定进行性别重置手术，手术结果满意。文章讨论了Klinefelter综合征的病因及其对患者性别认同的影响，强调了心理和生理上的一致性对患者的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,10 +78,10 @@ Klinefelter综合征的病因学是由于双亲之一的生殖细胞形成过程
 | Size            | 6161 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 夏兆骥, 周鹏武, 潘柏林                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-25                                 |
+| Tags            | Klinefelter综合征, 性别重置手术, 医疗案例, 性别认同, 先天性疾病, 心理健康, 生殖健康, 生理转变, 社会适应, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

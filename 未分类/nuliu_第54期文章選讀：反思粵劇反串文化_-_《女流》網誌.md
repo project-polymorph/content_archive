@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是来自《女流》杂志的一篇文章，标题为《反思粤剧反串文化》，作者为陈泽蕾，发表于2009年12月15日。文章深入探讨了粤剧中的反串文化，特别是女性演员在演出男性角色时所面临的挑战与社会认同的问题。文章中提到，反串不仅仅是艺术表演中的一种形式，它还涉及到性别的流动性与可演性，这在粤剧中表现得尤为明显。作者通过举例如任剑辉等知名演员，阐述了反串现象在社会文化中的复杂性与多元性。通过分析观众和业界对反串的不同理解，本文反映了性别与艺术表现之间的微妙关系。最后，作者呼吁重新思考和认识戏曲文化，尤其是其中的性别表现与认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@
 | Size            | 10631 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陈泽蕾                               |
+| Region          | 香港                               |
+| Date            | 2009-12-15                                 |
+| Tags            | 粤剧, 反串文化, 性别流动性, 跨性别, 艺术表现, 文化批评, 女性角色, 表演艺术, 社会认同, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

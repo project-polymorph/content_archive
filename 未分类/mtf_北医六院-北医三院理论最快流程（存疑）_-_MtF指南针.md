@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细描述了在北医六院和北医三院进行性别确认医疗流程的理论最佳方式。作者分享了自己亲身经历，介绍了从排队挂号到拿到证明的具体步骤，包括需要注意的细节和注意事项。文中提到，理论上此流程只需一天（约12小时）便可完成，作者对每一个环节进行了细致的阐述，例如如何安排到达时间，排队经验，以及挂号、就诊、检查和拿药的具体流程。文中还包含了一些有关心态和准备的建议，如与家长同行的利与弊、着装、向医生提出问题的方式，以及情绪和心理状态的表达。此外，作者表达了对所有跨性别者实现自我认同的祝福。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,10 +79,10 @@
 | Size            | 7065 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, MtF, 北医六院, 北医三院, 性别确认, 医疗流程, HRT, 心理健康, 性别认同, 人生经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

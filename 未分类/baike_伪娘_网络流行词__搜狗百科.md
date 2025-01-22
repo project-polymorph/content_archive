@@ -146,7 +146,7 @@ _伪娘_是一个多义词，您可以选择查看以下义项（共2个义项�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于“伪娘”这一网络流行词的详细介绍，涉及其词语释义、形态分类、常见误区及其在不同地区的表现。伪娘是ACG（动画、漫画、游戏）文化中常用的词汇，指代那些在外貌上接近女性的男性，通常是通过化妆、打扮等手段达到一种“女性化”的效果。文中明确定义了伪娘的分类，包括伪娘类和伪娘预备，分别指代不同阶段的角色或形态。它还解释了伪娘与变装者和变性者的区别，指出伪娘不仅仅是外观上的女性化，更强调了其在男性身体上的女性魅力。最后，文章还提供了伪娘在日本、泰国、台湾、韩国和中国大陆的文化背景，展示了伪娘这一现象在不同文化中的发展状况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -159,10 +159,10 @@ _伪娘_是一个多义词，您可以选择查看以下义项（共2个义项�
 | Size            | 5856 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 多元性别, ACG文化, 网络流行词, 性别认同, 男扮女装, 变装文化, 人妖文化, 文化差异, 社会现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

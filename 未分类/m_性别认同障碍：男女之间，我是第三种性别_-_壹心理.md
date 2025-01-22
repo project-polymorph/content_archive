@@ -162,7 +162,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了性别认同障碍（性别不一致）的主题，通过叙述女同学美月的生命故事，揭示了她在性别身份上的挣扎与探索。美月自小感受到与生理性别的强烈不符，虽然外界对她的认知为女性，但她内心深处坚持认为自己是男性。文章不仅回顾了美月的心路历程，从退隐、尝试荷尔蒙疗法，到最终认识到自我身份的多元，不同的性别表达方式。作者呼吁社会对跨性别人群的接纳，强调性别认同的复杂性。文中还引用了世界卫生组织对性别认同障碍的定义变更，并分析了儿童性别角色意识的发展，指出许多青少年在青春期面对的身份困惑，强调寻求专业心理咨询的必要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -175,10 +175,10 @@
 | Size            | 10199 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 谭素怡                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-08-01                                 |
+| Tags            | 性别认同, 心理咨询, 跨性别, 性别不一致, 青春期, 身份认同, 社会接纳, 心理健康, 人生故事, 荷尔蒙治疗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

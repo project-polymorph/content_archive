@@ -42,7 +42,7 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了针对跨性别人士更改身份证性别的政策新规定，自2024年4月3日起，跨性别人士在接受指定手术改变性征并符合一定条件后，可以申请更改身份证上的性别记项。尽管政策有放宽的趋势，但相关团体对此表示失望，认为在要求上存在歧视性。文章引用了“跨青时刻”创办人及总监曾令弦医生的观点，他批评政策对跨性别女性的要求较对跨性别男性更为苛刻，且在医疗和隐私权方面也带来了担忧。该政策提出诸多要求，比如必须在申请前至少两年内持续接受异性荷尔蒙治疗以及提交血液测试报告等，然而对于荷尔蒙水平要求则解释不清。此外，曾令弦医生反对使用病理化的术语来定义性别不安，支持去病化的理念，并呼吁政策应反映性别认同而非手术状态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 | Size            | 4370 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 郭咏欣                               |
+| Region          | 香港                               |
+| Date            | 2024-04-04                                 |
+| Tags            | 跨性别, 身分证, 性别更改, 政策, 医疗资源, 权益, LGBT, 性别不安, 性别认同, 社会歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

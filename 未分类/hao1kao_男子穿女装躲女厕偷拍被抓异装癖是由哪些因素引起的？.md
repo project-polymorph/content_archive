@@ -50,7 +50,7 @@ Copyright 2021-2023 www.hao1kao.com All rights reserved | 好医靠 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一起在上海闵行区购物中心女厕所内发生的事件：一名男子穿着女装在女厕偷拍。文章中详细描述了事件的经过，以及该男子的外貌特征。文中分析了异装癖的定义及成因，指出这是一种性变态形式，通常是心理疾病，尤其在男性中更为常见。文章探讨了异装癖的心理因素，认为与童年时期的环境影响以及父母的期待有很大关系，指出社会对于异装癖的态度在西方社会发生了变化，逐渐被视为一种时尚，而非简单的异常行为。整体来看，文章不仅报道了一起具体事件，也探讨了异装癖这一复杂的社会心理现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,10 +63,10 @@ Copyright 2021-2023 www.hao1kao.com All rights reserved | 好医靠 版权所有
 | Size            | 3974 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-11-17                                 |
+| Tags            | 异装癖, 心理疾病, 性变态, 社会现象, 女装, 男厕偷拍, 性别认同, 社会环境, 家庭影响, 性别角色                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

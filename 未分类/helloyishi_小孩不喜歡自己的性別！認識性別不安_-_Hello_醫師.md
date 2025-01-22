@@ -66,7 +66,7 @@ Gender Dysphoria Basics. [https://childmind.org/guide/guide-to-gender-dysphoria/
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《小孩不喜歡自己的性別！認識性別不安》，探讨了性别不安（Gender Dysphoria）的概念，尤其聚焦于儿童的经历。性别不安指的是个体无法对自己出生时的生理性别产生认同感，时常伴随着情绪的压力与社会的排斥。本文件详细描述了性别不安的临床症状，包括对生理性别的困扰、对另一性别特征的强烈希望及可能对正常生活的影响。文中还探讨了性别不安的风险因素与诊断方式，提出心理治疗作为一种缓解性别不安风险的有效方法，并提示相关的社会挑战，如青少年容易遭遇的霸凌和心理压力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,10 +79,10 @@ Gender Dysphoria Basics. [https://childmind.org/guide/guide-to-gender-dysphoria/
 | Size            | 3232 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Jenny Hung，醫學審稿：賴建翰醫師                               |
+| Region          | 台灣                               |
+| Date            | 2024-10-25                                 |
+| Tags            | 性別不安, 性別焦慮, 跨性別者, 心理健康, 孩童性別認同, 婦女與性別平等, 社會工程, 心理治療, 霸凌, 醫學資源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

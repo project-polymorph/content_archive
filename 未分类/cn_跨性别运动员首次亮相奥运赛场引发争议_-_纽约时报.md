@@ -97,7 +97,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了新西兰跨性别运动员劳雷尔·哈伯德首次参加奥运会的背景及其引发的争议。哈伯德在东京奥运会的女子重量级比赛中成为首位公开身份的跨性别女性运动员，激发了对她是否应参赛的广泛讨论及质疑。一些女性运动员和公平体育倡导者对此提出了反对意见，认为哈伯德可能在身体上具有不公平的优势。文章引用了多位专家和运动员的观点，强调跨性别运动员参与体育的复杂性及社会对性别认同的变化。哈伯德在2012年变性，并在经历长达15年的职业中断后重返力量运动，体现了跨性别运动员在竞技体育中面临的机遇与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -110,10 +110,10 @@
 | Size            | 11891 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | TARIQ PANJA, KEN BELSON                               |
+| Region          | 未知                               |
+| Date            | 2021-08-02                                 |
+| Tags            | 跨性别运动员, 劳雷尔·哈伯德, 东京奥运会, 性别争议, 女性运动, 体育公平, 医疗政策, 社会变迁, 奥林匹克运动, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

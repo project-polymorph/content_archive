@@ -37,7 +37,7 @@
 
 网友评论仅供其表达个人看法，并不表明51.CA立场。
 
-[![userAvatar](//info.51.ca/assets/images/default-avatar.gif)](https://bbs.51.ca/space-uid-0.html)
+[![userAvatar](https://info.51.ca/assets/images/default-avatar.gif)](https://bbs.51.ca/space-uid-0.html)
 
 请先 **点击登录** 后发表评论！ 
 
@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了美国儿童变性手术的争议，主要聚焦于天主教倡导团体“天主教投票”针对民主党总统候选人贺锦丽的广告攻势。广告指出，贺锦丽支持由纳税人资助的儿童变性手术，掀起了围绕儿童医疗干预的重要讨论。文中提到，天主教团体通过广告寻求激发选民对这一问题的关注，将儿童变性手术作为选战的焦点。文章详细引用了有关各州未成年人接受变性手术的数据，并质疑这一政策的伦理性。贺锦丽及其竞选团队的立场和回应被提及，反映了美国社会中围绕性别认同及医疗保健的激烈辩论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 3980 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 自由时报                               |
+| Region          | 美国                               |
+| Date            | 2024-09-16                                 |
+| Tags            | 儿童, 变性手术, 贺锦丽, 天主教, 广告攻击, 医疗政策, 跨性别议题, 性别认同, 社会争议, 美国总统大选                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

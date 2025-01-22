@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章讲述了中俄混血变性人白露的个人故事，记录了她在性别过渡过程中的心理变化与社会经历。白露在2006年8月2日开始进行性别确认手术，先后经历了隆胸手术和生殖器切除手术，期待能以女性的身份回家团聚。她希望在春节时以女儿的身份看望父母，带着满满的期待与幸福感，尽管这个过程伴随着痛苦。文章中还提到，白露曾有多个男友，但最终因性别身份问题未能走入稳定的爱情关系。她追求的是一个理解她的健康男性，渴望得到真正的爱情与幸福。白露的故事反映了多元性别者在追求自我认同与社会接纳过程中所面临的种种挑战与希望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@
 | Size            | 3703 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 朱俊骏、宗一多                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-11-07                                 |
+| Tags            | 变性人, 生命故事, 性别认同, 中俄混血, 爱情与关系, 医疗经历, 社会接受度, 性别过渡, 个人成长, 亲情                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

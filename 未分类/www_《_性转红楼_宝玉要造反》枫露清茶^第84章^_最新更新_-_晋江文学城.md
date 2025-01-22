@@ -61,11 +61,11 @@
 
 ## 评论 { data-search-exclude }
 
-- **昵称**：[开心最重要](//www.jjwxc.net/comment.php?novelid=9016306&chapterid=84)  
+- **昵称**：[开心最重要](https://www.jjwxc.net/comment.php?novelid=9016306&chapterid=84)  
   **主题**：向《夜色亦阑珊》四百八十寺投了1个深水鱼雷  
-- **昵称**：[彼岸天明](//www.jjwxc.net/comment.php?novelid=9016306&chapterid=84)  
+- **昵称**：[彼岸天明](https://www.jjwxc.net/comment.php?novelid=9016306&chapterid=84)  
   **主题**：向《综武侠 少侠 请留步！》星火尞原投了1个深水鱼雷  
-- **昵称**：[星河照亮三十岁的远处](//www.jjwxc.net/comment.php?novelid=9016306&chapterid=84)  
+- **昵称**：[星河照亮三十岁的远处](https://www.jjwxc.net/comment.php?novelid=9016306&chapterid=84)  
   **主题**：向《余生为期》闵然投了1个深水鱼雷  
 
 ---

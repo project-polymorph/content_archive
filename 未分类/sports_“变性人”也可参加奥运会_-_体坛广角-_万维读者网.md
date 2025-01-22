@@ -22,7 +22,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了国际奥委会（IOC）最近作出的一项重要决定，即允许“变性人”参加奥运会的政策。这项决定是在2003年召开的一次会议中制定的，IOC医学委员会主席林奎斯特及医学专家对变性人参赛的问题进行了深入讨论。根据IOC的说法，此政策表明需要尊重人权，强调不应该有歧视。然而，参加比赛的变性运动员必须遵守特殊的规则，尤其是关于接受变性手术后的激素治疗。
+
+文章详细解释了变性人参与竞技体育所面临的敏感性和复杂性，提到历史上曾有男选手冒充女选手参赛的事件，并指出为了防止这种欺诈行为，IOC过去在前26届奥运会上曾试图进行性别检查，但由于其产生的争议，到了2000年第27届奥运会时被取消。文章还提到，由于生理特征差异，性别检查可能导致“冤假错案”，因此IOC决定开放这一政策。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +37,10 @@
 | Size            | 1753 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 万维读者网                               |
+| Region          | 未知                               |
+| Date            | 2003-11-24                                 |
+| Tags            | 变性人, 奥运会, 国际奥委会, 人权, 性别检查, 激素治疗, 运动员, 生理特征, 政策, 体育新规                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

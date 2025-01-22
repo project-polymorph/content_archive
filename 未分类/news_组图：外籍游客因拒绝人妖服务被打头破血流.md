@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是2015年5月3日发生在泰国芭提雅的一起事件的新闻报道。报道中提到，一名来自爱尔兰的外籍游客因拒绝人妖的服务而遭到人妖的袭击，事件导致游客面部受伤、流血。春武里府的旅游警察在巡逻时目睹了这一事件，并迅速介入制止了攻击行为。报道中包括了多张事件现场的照片，记录了受伤游客和施暴人妖的情景。这起事件不仅引发了对旅游安全的关注，也反映了多元性别群体在社会生活中所面临的危机与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 1846 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球网                               |
+| Region          | 泰国芭提雅                               |
+| Date            | 2015-05-03                                 |
+| Tags            | 多元性别, 人妖, 外籍游客, 旅游安全, 社会事件, 法律, 反对暴力, 跨性别问题, 媒体报道, 旅行经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

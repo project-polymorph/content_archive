@@ -98,7 +98,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了有关跨性别的主题，探讨了性别认同的多元性，以及社会对跨性别者的认知与理解问题。文中提出性别并不仅限于男性与女性两种身份，还有多种性别认同的存在。通过分析跨性别者的日常生活及其所面临的挑战，旨在消除由于无知和误解导致的暴力和歧视现象。文中还提及了与跨性别相关的艺术工作坊、资源和支持团体，鼓励人们对跨性别者的经历有更深的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,10 +111,10 @@
 | Size            | 4542 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2021-10-01                                 |
+| Tags            | 跨性别, 性别认同, 多元性别, 社会歧视, 生命故事, 工作坊, 身体认同, 艺术表达, 性别平等, 支持团体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

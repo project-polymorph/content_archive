@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名男子在进行变性手术期间因为缺乏资金而选择扮成女人进行盗窃以筹集手术费用的案件。男子刘某在接受变性手术时只完成了一半，因为家庭的反对和经济负担，他通过伪装成女性在酒吧寻找“猎物”，最终因盗窃被丰台法院判处有期徒刑10个月及罚金1000元。这篇报道反映了变性过程中的经济困境以及其中的法律问题，强调了对多元性别人士在手术及生存问题上的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 1448 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 京华时报                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-01-31                                 |
+| Tags            | 变性手术, 盗窃罪, 性别认同, 社会问题, 法律案例, 人生经历, 经济压力, 医学伦理, 性别转换, 刑事判决                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

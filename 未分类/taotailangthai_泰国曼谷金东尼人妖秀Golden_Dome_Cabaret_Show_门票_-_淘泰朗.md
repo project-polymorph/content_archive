@@ -76,7 +76,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了位于泰国曼谷的知名人妖表演——金东尼人妖秀（Golden Dome Cabaret Show）的票务信息和演出安排。金东尼人妖秀是泰国前三大人妖秀之一，表现出精致的舞台编排、美丽的演员和华丽的服装，吸引了众多游客的目光。该秀的演出时长约60分钟，提供多个场次选择，包括17:00、18:30和20:00。票价从฿300到฿800不等，分为孩童票和成人票，观众需要提前进行预订。此外，文档中提到需要提前15分钟入场的注意事项，以及票务订购后的退款政策等重要信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -89,10 +89,10 @@
 | Size            | 2554 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 淘泰朗                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 人妖秀, 金东尼秀, 曼谷, 艺术表演, 票务信息, 文化活动, 旅游推荐, 夜间活动, 现场演出, 演出安排                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

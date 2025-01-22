@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了泰国的人妖文化，以2007年8月9日的文章为依据，探讨了泰国人妖表演在旅游业中的重要性。人妖是泰国特色旅游的一部分，尤其在著名的海滨城市芭堤雅，那里每年吸引大量境外游客前来观赏人妖表演。文章描述了观看表演的经历，包括人妖的外貌特征、身材优雅与表演魅力，以及她们在观众心中的地位。同时，文中强调了泰国人妖文化对当地旅游经济的贡献，提到每年吸引700万游客，带来70亿美元的经济效益。通过细腻的描写，作者传达了人妖在泰国文化中的独特地位和诱人魅力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@
 | Size            | 1986 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 深圳本地宝                               |
+| Region          | 泰国                               |
+| Date            | 2007-08-09                                 |
+| Tags            | 人妖, 泰国, 旅游, 表演文化, 性别多样性, 文化旅游, 芭堤雅, 女性魅力, 社会现象, 旅游经济                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

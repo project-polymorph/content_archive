@@ -114,7 +114,7 @@ Autogynephilia即「幻想變性性興奮」。auto-是自己，-gynephilia是�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了男人变性的原因，重点是性幻想理论“Autogynephilia”，即男性如何因自身在女性身体中的幻想而产生性欲。文章首先介绍了这一理论的产生背景及其创始人雷·布兰查德（Ray Blanchard），并指出其与某些男性的变性行为之间的复杂关系。文中提到，许多跨性别人士对此理论持反对态度，他们认为性别身份是内在的，绝非单纯的性幻想所驱动。此外，文章讨论了抵制这一理论的原因，包括对性别焦虑者可能的社会歧视与心理影响。最后，文章指出有必要对性别焦虑的根本原因以及治疗方式展开更深入的讨论，尤其应该考虑不同类型的性别焦虑者的需求和权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -127,10 +127,10 @@ Autogynephilia即「幻想變性性興奮」。auto-是自己，-gynephilia是�
 | Size            | 11058 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 招雋寧（特約撰稿員），香港性文化學會                               |
+| Region          | 香港                               |
+| Date            | 2019-11-26                                 |
+| Tags            | 变性, 跨性别, 性幻想, Autogynephilia, 性别身份, 性别焦虑, 社会运动, 心理健康, 雷·布兰查德, 女性本质叙事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

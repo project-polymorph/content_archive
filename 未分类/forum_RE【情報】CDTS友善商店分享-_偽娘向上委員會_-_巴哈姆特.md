@@ -18,11 +18,11 @@
 ![巴哈姆特](https://i2.bahamut.com.tw/top_logo.svg)
 
 #### 相关链接
-- [哈啦區](//forum.gamer.com.tw)
-- [偽娘向上委員會](//forum.gamer.com.tw/A.php?bsn=60552)
-- [文章列表](//forum.gamer.com.tw/B.php?bsn=60552)
-- [精華區](//forum.gamer.com.tw/G1.php?bsn=60552)
-- [板規](//forum.gamer.com.tw/rules.php?bsn=60552)
+- [哈啦區](https://forum.gamer.com.tw)
+- [偽娘向上委員會](https://forum.gamer.com.tw/A.php?bsn=60552)
+- [文章列表](https://forum.gamer.com.tw/B.php?bsn=60552)
+- [精華區](https://forum.gamer.com.tw/G1.php?bsn=60552)
+- [板規](https://forum.gamer.com.tw/rules.php?bsn=60552)
 
 ---
 
@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文分享了一家位于板桥的CD/TS友善商店的相关信息，作者雪之王女‧F‧巧可奈是一位自称原生女性的顾客，表达了她在该店的购物体验。尽管她并非偽娘，但由于店内提供大尺码服饰，最大程度满足了她的需求。她对店员和老板的亲切服务表示感激，并鼓励有类似需求的朋友们访问这家商店。文件中还包含了与店铺相关的评论、扩展阅读的链接及版权信息，呈现了社区对多元性别友好的商业环境的一种积极态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@
 | Size            | 1887 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 雪之王女‧F‧巧可奈                               |
+| Region          | 台湾                               |
+| Date            | 2020-02-07                                 |
+| Tags            | 多元性别, 偽娘, 购物体验, 友善商店, 大尺码服饰, 生命故事, 社会包容, 性别认同, 社区支持, 衣物分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

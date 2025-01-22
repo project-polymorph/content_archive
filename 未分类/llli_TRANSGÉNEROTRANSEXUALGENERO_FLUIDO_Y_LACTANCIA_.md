@@ -75,7 +75,7 @@ Una persona es transgénero，不是跨性别者。跨性别者的形式不需�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讨论了变性人、变性人或流动性人（gender fluid）的乳汁喂养及相关信息。内容详细介绍了性别与生物学的关系，重点在于性别认同与性取向的区别。包括对变性人和流动性人的常见误解的澄清，强调用适当的代词来称呼他们的重要性。此外，文中还提及了不同性别表达及其社会背景的多样性。文末提供了母乳喂养的相关支持信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,10 +88,10 @@ Una persona es transgénero，不是跨性别者。跨性别者的形式不需�
 | Size            | 4420 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Amaia Sarriegui, Veronica Garea, Lourdes Santaballa, Rocío Velásquez                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 流动性别, 乳汁喂养, 性别认同, 性取向, 跨性别, 社会认知, 医疗资源, 文化差异, 同志权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

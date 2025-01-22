@@ -171,7 +171,7 @@ Frankie的分娩经历和纪录片，媒体报道都是正面积极的，然而�
 
 对此，你怎么看？
 
-关键词： [男子](//www.sydneytoday.com/search?kw=男子)[分娩](//www.sydneytoday.com/search?kw=分娩)[跨性别](//www.sydneytoday.com/search?kw=跨性别)
+关键词： [男子](https://www.sydneytoday.com/search?kw=男子)[分娩](https://www.sydneytoday.com/search?kw=分娩)[跨性别](https://www.sydneytoday.com/search?kw=跨性别)
 
 转载声明：本文为转载发布，仅代表原作者或原平台态度，不代表我方观点。今日澳洲仅提供信息发布平台，文章或有适当删改。对转载有异议和删稿要求的原著方，可联络content@sydneytoday.com。
 <!-- tcd_original_link https://www.sydneytoday.com/content-1024536460062001 -->

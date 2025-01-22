@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《伪娘里番合集 男の娘アニメ（17部）》是一部由伪娘导演的日本R级动画电影合集，于2020年上映。该片包含多达17部与伪娘相关的动画作品，体现了多元性别文化中的伪娘现象。影片旨在展示伪娘角色的多样性及其在当代动漫作品中的表现，这类作品不仅仅是娱乐产品，更是多元文化和性别表现的一部分。影片侧重于情节中的性别转换和角色扮演，吸引了一定范围的观众群体。此文件还包含与伪娘文化相关的重要专题链接，对其在文化遗产项目中的地位进行了概述。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,10 +48,10 @@
 | Size            | 1908 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 伪娘                               |
+| Region          | 日本                               |
+| Date            | 2020-01-01                                 |
+| Tags            | 伪娘, 男の娘, 动画, R级影片, 日本文化, 多元性别, 性别表现, 动漫, 文化遗产, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![比基尼遇胸毛画面太美](//rs2.huanqiucdn.cn/huanqiu/image/m/share.jpg)
+![比基尼遇胸毛画面太美](https://rs2.huanqiucdn.cn/huanqiu/image/m/share.jpg)
 
 **时间**：2016年7月25日  
 **来源**：society.huanqiu.com  
@@ -24,12 +24,12 @@
 
 ---
 
-![图片1](//himg2.huanqiucdn.cn/attachment2010/2016/0725/10/48/20160725104835662.jpg?imageView2/2/w/750)  
-![图片2](//himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090327589.jpg?imageView2/2/w/750)  
-![图片3](//himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328307.jpg?imageView2/2/w/750)  
-![图片4](//himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328406.jpg?imageView2/2/w/750)  
-![图片5](//himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328989.jpg?imageView2/2/w/750)  
-![图片6](//himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328933.jpg?imageView2/2/w/750)  
+![图片1](https://himg2.huanqiucdn.cn/attachment2010/2016/0725/10/48/20160725104835662.jpg?imageView2/2/w/750)  
+![图片2](https://himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090327589.jpg?imageView2/2/w/750)  
+![图片3](https://himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328307.jpg?imageView2/2/w/750)  
+![图片4](https://himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328406.jpg?imageView2/2/w/750)  
+![图片5](https://himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328989.jpg?imageView2/2/w/750)  
+![图片6](https://himg2.huanqiucdn.cn/attachment2010/2016/0725/20160725090328933.jpg?imageView2/2/w/750)  
 
 **版权**：东方IC  
 **评论**：7004575  
@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2016年7月23日至24日在北京举办的第十七届中国（北京）动漫游戏嘉年华，重点介绍了动漫展的盛况以及与会者的精彩表现。该活动吸引了大量观众，展示了中国动漫产业的蓬勃发展。近年来，中国对国产动漫行业的支持力度加大，使得动漫产业快速成长，其产值从2009年的368亿增长到2014年的1000亿。文章还提到，近年来‘泛二次元’消费者已经达到2.7亿，表明动漫文化在社会中的广泛影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,10 +54,10 @@
 | Size            | 1928 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 何兆龙                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-07-25                                 |
+| Tags            | 动漫展, 漫展, 北京, 多元性别, 伪娘, 次文化, 文化产业, 生命故事, 社会现状, 中国动漫                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

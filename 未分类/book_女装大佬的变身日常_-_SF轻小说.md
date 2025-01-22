@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![SF轻小说](//rs.sfacg.com/web/novel/images/images/logo.png)
+![SF轻小说](https://rs.sfacg.com/web/novel/images/images/logo.png)
 
 ### 目录列表
 -   [重置版，请看这个版本](http://www.sfacg.com/)
@@ -452,7 +452,7 @@
 -   [又是定时更新分错卷的产物](https://www.sfacg.com/Novel/147955/248707/2626932/)
 -   [故事部分设定](https://www.sfacg.com/Novel/147955/248707/2743820/)
 
-![菠萝包轻小说](//rs.sfacg.com/web/novel/images/images/qrcode.png)
+![菠萝包轻小说](https://rs.sfacg.com/web/novel/images/images/qrcode.png)
 
 iOS版APP安卓版APP扫一扫下载
 <!-- tcd_original_link https://book.sfacg.com/Novel/147955/MainIndex/ -->
@@ -461,7 +461,7 @@ iOS版APP安卓版APP扫一扫下载
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《女装大佬的变身日常》是一部以女装文化为主题的轻小说，主要讲述了主角在重生后经历的一系列有趣而感人的故事。故事中，主角以全新的身份进入社会，通过女装展现了如女性的温柔与坚韧。小说内容丰富，涵盖了角色的过渡经历、身心变化与社会交往，包括如何在亲友面前揭示自己的真实身份，以及如何在公众场合处理性别认同等挑战；不仅反映了主角内心的纠结与成长，也展现社会对多元性别的接受与抵制。各章节涵盖了角色的人际关系、家庭背景及职业发展，设计了多样化的情节，让人感受到主角在这一过程中找到自我认同的温暖与力量。整体而言，小说通过轻松幽默的叙述风格，让读者在享受故事的同时，也对性别流动性的议题产生思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -474,10 +474,10 @@ iOS版APP安卓版APP扫一扫下载
 | Size            | 37429 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 女装文化, 轻小说, 性别认同, 重生故事, 人际关系, 社会接受度, 女性身份, 多元性别, 成长经历, 小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

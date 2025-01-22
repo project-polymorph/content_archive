@@ -70,7 +70,7 @@ PZH的[参考文献](https://docs.google.com/document/d/1dGOPiq5mTryTbhs_rK564Lm
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一场名为“想念逝去的华人跨儿”的互动工作坊的活动回顾。活动在2023年11月11日于多伦多公共图书馆举行，由多伦多华语女权主办，目的是为了悼念和探讨跨性别群体面临的挑战和困境。活动以纪录片《二毛》的放映开始，主角李二毛是一名经历过性别转变的跨性别女性农民工，影片深入探讨了她在生命中遭遇的种种剥削与困扰。随后的圆桌讨论由多位嘉宾参与，围绕跨性别者的生活经历和心理健康进行了深入的交流与思考。参与者们探讨了跨性别的双重文化身份、移民经历中的挑战，以及如何在生死之间找到自己的声音与存在的意义。该活动不仅是对已故爱人的缅怀，也为跨性别及2SLGBTQ+群体提供了一个分享和讨论的平台。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,10 +83,10 @@ PZH的[参考文献](https://docs.google.com/document/d/1dGOPiq5mTryTbhs_rK564Lm
 | Size            | 4869 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 多伦多华语女权                               |
+| Region          | 加拿大，多伦多                               |
+| Date            | 2023-11-11                                 |
+| Tags            | 跨性别, 悼念, 华人跨儿, 心理健康, 纪录片, 双重文化身份, 移民经历, 2SLGBTQ+, 活动回顾, 多伦多公共图书馆                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

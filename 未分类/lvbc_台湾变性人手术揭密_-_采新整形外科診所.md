@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细探讨了台湾变性手术的过程与挑战，文章由作者lavisage撰写，追溯了变性人群体面临的社会偏见及手术技术的进步。文中提到，变性人在生理上体验到的困扰通常源于基因的错位，这使得他们渴望通过手术来实现自我认同。文章生动描述了从入院到手术执行的全过程，包括医护人员的准备、手术中的情绪波动和手术的复杂技术细节。特别提到台湾在女变男手术方面的国际声誉以及先进的医疗技术。此外，文章也展示了一名日本变性人如何选择前往台湾进行手术，以及他们在变性后的生活适应情况。通过这些个人故事，读者能更好理解变性人生活的真实现状与需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,10 +77,10 @@
 | Size            | 8809 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | lavisage                               |
+| Region          | 台湾                               |
+| Date            | 2009-03-14                                 |
+| Tags            | 变性人, 手术经历, 性别认同, 医疗资源, 心理评估, 社会接受度, 性别焦虑症候群, 生存现状, 医疗技术, 跨性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

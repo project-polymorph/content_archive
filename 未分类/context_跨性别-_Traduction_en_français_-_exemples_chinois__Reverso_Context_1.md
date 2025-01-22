@@ -83,7 +83,7 @@ Mais， après environ 14 ans au pouvoir， la meilleure comparaison est peut-ê
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了有关跨性别的相关内容，主要集中在"跨性别"这一词汇的法语翻译以及在多元性别领域的相关讨论。文件首先介绍了"跨性别"的法语翻译及其相关的词汇，如"transgenre"、"LBT"和"transsexuel"等。接着，文件列举了几个围绕跨性别权利和生存现状的重要句子与评论，强调了对跨性别人士在社会中地位的提高和反歧视的必要性。此外，文件包含了一些法律和政策的条款，这些条款旨在保护跨性别员工的权益，并促进社会对跨性别议题的关注与讨论，例如加拿大的"混合配置政策"和相关性的皇家法令。这一档案不仅是语言翻译的记录，还为研究和理解跨性别相关的法律与社会环境提供了参考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,10 +96,10 @@ Mais， après environ 14 ans au pouvoir， la meilleure comparaison est peut-ê
 | Size            | 4088 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, LBT, 性别, 政策, 社会平等, 法律, 性别认同, 歧视, 人权, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

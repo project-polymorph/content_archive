@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//rs2.huanqiucdn.cn/huanqiu/image/m/share.jpg)
+![图片](https://rs2.huanqiucdn.cn/huanqiu/image/m/share.jpg)
 
 **来源：** 正义网  
 **时间：** 2016年11月8日  
@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名男子张浩在上海一旅馆内选择进行变性手术的事件。张浩长期对自己的性别感到不认同，最终选择了花费仅千元的价格在网上找到一名没有医师资质的网友姜伟进行手术。然而在手术过程中，由于缺乏专业设备和知识，手术导致张浩出现了严重出血情况。事后，姜伟因涉嫌非法行医被检察院提起公诉。本文详细描述了事件的经过，指出主刀者姜伟并没有行医的合法资格，并强调了切除睾丸对张浩的身体所造成的重伤影响，以及法律对于变性手术的认可与非法行医行为的界定。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 2510 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 通讯员 蒋凤静                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-11-08                                 |
+| Tags            | 变性手术, 非法行医, 性别认同, 医疗事故, 法律责任, 生命故事, 社会环境, 性别多元, 医疗资源, 张浩事件                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

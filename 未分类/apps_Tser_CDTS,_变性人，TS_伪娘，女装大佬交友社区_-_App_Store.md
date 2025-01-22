@@ -130,7 +130,7 @@ App 內購買項目
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+Tser是一款专为跨性别社区设计的约会和聊天应用程序，包括变性女性、变性男性和性别非二元者。该应用程序为跨性别单身、伪娘和女装大佬提供了一个安全的交流空间。Tser致力于创建一个无偏见的环境，让用户可以自由表达他们的身份。这款应用程序允许用户在全球范围内与其他跨性别者进行连接，无论是在本地还是国际上。Tser接纳所有来自LGBTQ+社区的人，并为他们提供一个友好的平台，以便寻找恋爱、友谊或支持。该应用程序的特点包括有趣的用户界面、简单的注册流程和对用户隐私的保护。用户在使用过程中可以选择不同的订阅方式，并享受无障碍的社交网络体验。此外，Tser提供了丰富的功能，确保跨性别者可以在安全和尊重的环境中找到与自己志同道合的人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -143,10 +143,10 @@ App 內購買項目
 | Size            | 5106 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Dating Apps Ltd                               |
+| Region          | 未知                               |
+| Date            | 2024-08-26                                 |
+| Tags            | 跨性别, 变性人, 伪娘, 女装大佬, 社交应用, 约会平台, LGBTQ+, 友好社区, 隐私保护, 无偏见环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

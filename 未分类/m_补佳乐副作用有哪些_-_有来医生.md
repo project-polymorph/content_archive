@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由药学部副主任药师陈頔撰写，主要讨论了补佳乐（戊酸雌二醇片）的副作用。补佳乐是一种用于补充雌激素的药物，广泛应用于改善女性的健康状态。文中提到的副作用包括阴道出血、乳房胀痛、体重改变、神经系统影响、过敏及增加血栓性疾病风险等。每种副作用都有详细解释，以帮助读者了解用药可能带来的风险。最后，作者提醒读者，任何不适应尽快就医，强调该内容仅供参考，不能替代专业医疗建议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@
 | Size            | 1573 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陈頔，有来医生                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-02-05                                 |
+| Tags            | 补佳乐, 副作用, 药学, 女性健康, 雌激素, 阴道出血, 乳房疼痛, 体重变化, 神经系统影响, 过敏反应, 血栓风险, 北京医院                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

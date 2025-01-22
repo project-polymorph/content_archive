@@ -109,7 +109,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了大卫·赖默（David Reimer）的悲剧性故事，揭示了性别认同的复杂性。1967年，年幼的大卫因医疗事故失去阴茎后，医生和父母在约翰·莫尼的主导下，决定进行性别转换手术，试图将他抚养成女孩。这一过程中，导致了大卫的长期心理痛苦与挣扎。大卫的故事不仅展示了医疗伦理的缺失以及对儿童权利的忽视，同时也引发了关于性别认同与性别社会建构的重要讨论。最终，在被迫承受的性别角色与真实自我的冲突中，大卫于38岁时自杀，带走了一个未被认可的完整生命。该文呼吁社会对性别认同的复杂性进行更深入的理解与探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -122,10 +122,10 @@
 | Size            | 11411 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 玛雅蓝                               |
+| Region          | 未知                               |
+| Date            | 2024-10-18                                 |
+| Tags            | 性别认同, 性别转换, 大卫·赖默, 医学伦理, 心理健康, 社会建构论, 先天论与后天论, 儿童权利, 跨性别, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

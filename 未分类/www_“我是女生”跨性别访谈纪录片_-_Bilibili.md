@@ -62,11 +62,11 @@
 - 人生感言
 
 ![](//i1.hdslb.com/bfs/face/61535a8a0c4c3b834dd9e8b27bba0778fe457a3e.jpg@96w_96h_1c_1s_!web-avatar.webp)  
-**作者**: [混乱的鱼](//space.bilibili.com/344945155)  
+**作者**: [混乱的鱼](https://space.bilibili.com/344945155)  
 **关注**: 5883  
 
 **反馈和支持**:  
-[客服](//www.bilibili.com/blackboard/help.html#%E5%B8%B8%E8%A7%81%E6%92%AD%E6%94%BE%E9%97%AE%E9%A2%98%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95 "帮助反馈")  
+[客服](https://www.bilibili.com/blackboard/help.html#%E5%B8%B8%E8%A7%81%E6%92%AD%E6%94%BE%E9%97%AE%E9%A2%98%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95 "帮助反馈")  
 <!-- tcd_original_link https://www.bilibili.com/video/BV1Jv41117e7/ -->
 
 

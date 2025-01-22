@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于现代艺术的文章，名为《破坏即创造——人妖同体的现代艺术》。作者刘骁纯在文章中讨论了现代艺术的本质及其发展过程，探讨了从古典到现代的艺术转型过程，认为现代艺术是一场前所未有的巨大破坏和创造的革命。文章分析了艺术的自主性和功能需求之间的关系，强调了抽象艺术和达达艺术的出现如何影响了艺术的本质和边界。刘骁纯认为，艺术从根本上是由人类的仿生冲动与功能需求的矛盾运动而产生的，同时也指出了后现代艺术的兴起和中国艺术在现代进程中的独特性和差异性。文章通过深入探讨现代艺术史，反思了中西方艺术的发展和未来。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,10 +81,10 @@
 | Size            | 9989 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘骁纯                               |
+| Region          | 中国                               |
+| Date            | 2011-07-30                                 |
+| Tags            | 人妖同体, 现代艺术, 破坏即创造, 抽象艺术, 达达艺术, 艺术革命, 艺术史, 中国艺术, 仿生冲动, 功能需求                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

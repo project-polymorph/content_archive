@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![TSlabi520](//s.sstmlt.com/board/monthly_2017_06/1ade812b.thumb.jpg.6d453deb327b8b45784d61eb6651a873.jpg)
+![TSlabi520](https://s.sstmlt.com/board/monthly_2017_06/1ade812b.thumb.jpg.6d453deb327b8b45784d61eb6651a873.jpg)
 
 **TSlabi520**， 六月 22, 2017 在 [新手保护区](https://sstm.moe/forum/32-%E6%96%B0%E6%89%8B%E4%BF%9D%E6%8A%A4%E5%8C%BA/)
 
@@ -19,7 +19,7 @@
 
 ---
 
-![Shiroce](//s.sstmlt.com/board/monthly_2017_06/-1f0963af971565b9.thumb.jpg.1d088165f6452dbd879cb5bdf688baa1.jpg)
+![Shiroce](https://s.sstmlt.com/board/monthly_2017_06/-1f0963af971565b9.thumb.jpg.1d088165f6452dbd879cb5bdf688baa1.jpg)
 
 **Shiroce**，[发布于六月 26, 2017](https://sstm.moe/topic/182240-%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84ts%E5%B0%8F%E8%AF%B4%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9A%84%EF%BC%8C%E6%8E%A8%E5%AD%98%E4%B8%80%E4%B8%8B%E5%91%97/?do=findComment&comment=10082109)
 
@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于对变性（TS）小说推荐的讨论，包含了一些用户的感想和推荐。文件中提到了一名用户TSlabi520在新手保护区求助，希望能找到好看的TS小说，并分享了他正在阅读的作品《一派之长为老不尊》。他对此小说表达了一些欣赏之处，同时也提到他的期待和对角色设定的看法。文件中还引用了另一位用户Shiroce的评论，提到一些与TS小说相关的社团和作品，表现出对这种类型作品的浓厚兴趣。整体上，这是一篇交流和分享变性小说资源的帖子，展现了对多元性别文化的探索和热爱。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 1502 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | TSlabi520, Shiroce                               |
+| Region          | 未知                               |
+| Date            | 2017-06-22                                 |
+| Tags            | TS小说, 变性文学, 性别多元, 网络论坛, 用户评论, 角色故事, 文学推荐, 读者讨论, 小说分享, 文化交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

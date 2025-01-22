@@ -45,7 +45,7 @@ i
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇名为《姊 | 变装小说》的变装小说，属于第三性主题的文学作品。故事围绕一位性别倒错的模特与一位名为静枝的女性之间的复杂关系展开。故事中细腻地描绘了主角的情感体验和身体感受，展现了跨性别者在演艺界面临的挑战和性别歧视。文中包含了许多细腻的情节与情感互动，如主角与静枝在温泉中的亲密接触，探讨了两人之间的性别认同与情感依赖，以及身体的欲望和社会对性的看法。整体故事充斥着对情感和肉体欲望的深刻探索，同时也反映了跨性别者在人际关系中的温柔与困惑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@ i
 | Size            | 9884 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | chinacd                               |
+| Region          | 未知                               |
+| Date            | 2015-02-22                                 |
+| Tags            | 变装, 第三性, 性别认同, 情感关系, 跨性别, 文学艺术, 性别歧视, 模特儿, 欲望, 情感挫折                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

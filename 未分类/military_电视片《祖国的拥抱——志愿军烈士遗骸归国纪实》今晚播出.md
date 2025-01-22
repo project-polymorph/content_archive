@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该电视片《祖国的拥抱——志愿军烈士遗骸归国纪实》讲述了中国人民志愿军烈士遗骸回归祖国的过程。纪录片通过来自国内外的众多资料，详细展示了志愿军烈士遗骸的发现、挖掘、保存及移交的全过程。片中不仅采访了参与移交工作的组织者和志愿军老兵，还包括烈士家属的视角，表达了祖国人民和战友们数十年来对在异国埋葬的志愿军烈士的深切追念与崇高敬意。这一片子在2014年4月4日晚20时，於中央电视台的《军事纪实》栏目播出，旨在弘扬烈士精神，安慰烈士家属，并教育激励后人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 1932 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 解放军报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-04-04                                 |
+| Tags            | 志愿军, 烈士遗骸, 军事纪实, 祖国的拥抱, 归国记实, 烈士精神, 历史回顾, 文化传承, 情感表达, 社会关怀                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -88,7 +88,7 @@ This essay is intended as a draft. I wrote it in an hour based on ideas I have h
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章题为《为傻瓜而生的跨性别指南：cd、tv等之间的差异及其重要性》。作者艾米·派珀在文中探讨了跨性别及相关术语之间的细微差别，如‘跨性别者’、‘变装者’和‘跨性别女性’等，以及这些术语在英国社会意识中的理解。文章强调了这些定义的重要性，尽管派珀本人倾向于避免严格的分类。她提到，“跨性别”一词的广泛性使其能够涵盖整个与性别相关的问题，而另一个常见的词“Tranny”在流行文化中却往往被误解，通常没有区分穿着风格与跨性别者之间的界限。派珀同时提到，尽管一些人可能会接受这些术语，但对许多英国人来说，这些标签依然是困惑的。文章借助个人经历和社会观察，引导读者重新审视这些概念和社会对跨性别者的看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@ This essay is intended as a draft. I wrote it in an hour based on ideas I have h
 | Size            | 12780 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 艾米·派珀                               |
+| Region          | 英国                               |
+| Date            | 2010-07-21                                 |
+| Tags            | 跨性别, 变装, 性别认同, 文化差异, 社会偏见, 术语定义, 性别流动性, 社会接受度, 跨性别女性, 流行文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

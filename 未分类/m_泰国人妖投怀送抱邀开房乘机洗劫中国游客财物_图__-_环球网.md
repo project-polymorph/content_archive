@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![图片](//rs2.huanqiucdn.cn/huanqiu/image/m/share.jpg)
+![图片](https://rs2.huanqiucdn.cn/huanqiu/image/m/share.jpg)
 
 **来源**: 环球网综合报道  
 **时间**: 2023年4月26日  
@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国旅游胜地芭堤雅发生的针对中国游客的多起变性人抢劫案件。根据消息来源，涉嫌抢劫的变性人通过搭讪和邀请开房的方式诱骗游客，随后实施抢劫。文中提到一名26岁的中国籍男子在海滩散步时遭到几名变性人围攻，失去了金链和钻戒。随着案件的增加，警方正在加强对这一犯罪现象的调查与打击。报道还指出，其他国家的游客也遭遇类似的攻击，情况逐渐严重，有游客因此受伤，甚至死亡。警方在此背景下提醒游客提高警惕，注意自身安全，特别是在夜间出行时。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 2699 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球网                               |
+| Region          | 中国                               |
+| Date            | 2023-04-26                                 |
+| Tags            | 泰国, 变性人, 抢劫, 游客安全, 芭堤雅, 性别多元, 法律问题, 社会安全, 旅游犯罪, 国际新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

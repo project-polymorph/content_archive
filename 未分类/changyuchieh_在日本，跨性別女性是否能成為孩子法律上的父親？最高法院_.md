@@ -142,7 +142,7 @@ A 接受採訪時則表示，這次的案子她最重視的是完成孩子們認
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于日本跨性别权利的法律案例分析，讨论了一名跨性别女性（A）在变更性别后，能否成为其两名女儿的法律父亲的问题。最初，东京地方法院和东京高等法院对该跨性别女性的父亲身份申请作出了拒绝的判决，认为她在生育女儿时仍为男性身份。然而，随着案件的上诉以及最高法院的最终裁决，最高法院在2024年6月21日认定A是她次女的法律父亲，强调了法律亲子关系的基于血缘的原则并指出，法律不应因户籍性别而剥夺孩子的权利。这项判例标志着日本法律在承认跨性别者的父母权利方面的进展，反映出日本法律环境和社会对跨性别者权益的逐步认可。同时，文中提及《性同一性障害特例法》的苛刻条件及其对跨性别者生育权的影响，突显了法律和社会对跨性别者及其家庭生活的复杂看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -155,10 +155,10 @@ A 接受採訪時則表示，這次的案子她最重視的是完成孩子們認
 | Size            | 15652 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 石川カオリ                               |
+| Region          | 日本                               |
+| Date            | 2024-06-21                                 |
+| Tags            | 跨性别, 法律, 亲子关系, 儿童权益, 最高法院, 性别变更, 血缘关系, 社会福利, 性同一性障害特例法, 案例分析, 家族法, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

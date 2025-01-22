@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了医疗旅游的现状和发展，尤其是在台湾、泰国、韩国和新加坡等地提供的多元医疗服务。随着医疗旅游的兴起，越来越多的人选择去海外接受医疗服务，本文通过介绍新加坡的医疗环境和日本的医疗服务，强调了“医疗旅游”这一新兴行业的吸引力及其对中高收入群体的影响。文章提到，新加坡医院为国际病人提供的一流就医环境及人性化的医疗设施是吸引游客的重要因素。此外，文章也提到了对医疗旅游的谨慎选择，指出进行医疗旅游前需要考虑的四个前提条件，以保障医疗安全。整体而言，文章反映了医疗游对增强医疗体验和改善治疗效果的重视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@
 | Size            | 4161 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 马娅楠                               |
+| Region          | 未知                               |
+| Date            | 2011-07-11                                 |
+| Tags            | 医疗旅游, 多元医疗服务, 医疗环境, 医疗签证, 医学技术, 健康管理, 旅游与医疗结合, 中高收入人群, 跨国医疗, 海外治疗选择                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

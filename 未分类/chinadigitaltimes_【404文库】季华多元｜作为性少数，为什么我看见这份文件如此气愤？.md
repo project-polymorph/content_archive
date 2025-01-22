@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由季华多元撰写，发布于2022年12月9日，主要讨论了近年来中国各地对性少数群体相关书籍和文化内容的审查和查禁行动。作者对这种审查行为表达了强烈的不满，认为这些行动妨碍了性少数群体的合法权益，限制了社会对性别多元性和性少数群体议题的开放讨论。文中引用了多个地方政府和部门发布的相关文件，详细描述了针对耽美文化和LGBT主题的打压，从福建、内蒙古到四川和江苏等地的具体政策措施，以及对未成年人性教育的影响。作者呼吁社会关注性少数群体的生存现状，促进性别平等。同时，作者提到了联合国在此方面的立场，强调平等接纳每一个人至关重要，并指出，青少年对于性少数群体的理解可以培养包容和尊重的价值观。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,10 +74,10 @@
 | Size            | 7892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 季华多元                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-12-09                                 |
+| Tags            | LGBT权利, 多元性别, 文化管制, 言论审查, 出版审查, 性少数群体, 耽美文化, 未成年人保护法, 全面性教育, 社会能见度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

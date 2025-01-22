@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性手术在台湾的健保给付问题，借助影片《XXY》的叙述，引入了关于性别认同与法律问题的讨论。文章通过一个虚构的故事，描述了一个名叫雅莉丝的双性人女孩在找寻自我性别认同过程中的疼痛与挣扎。她的父母对其性别的认定出现分歧，而在青春期的成长过程中，面对自身性别特征的困惑与社会的排斥。文中还探讨了雅莉丝与同龄人的性关系以及社会暴力如何影响心理健康。此外，文章对法律条款进行了深入分析，包括强制性交罪及亲权滥用的法律界定，指出即使未满18岁的未成年人，其父母也没有权力强制要求进行性别确认手术。最后还涉及到这一手术在医疗保险中的支付问题，明确指出变性手术不在健保给付范围内，需自费负担。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,10 +92,10 @@
 | Size            | 6594 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 黄律师                               |
+| Region          | 台湾                               |
+| Date            | 2008-08-28                                 |
+| Tags            | 变性手术, 健保给付, 双性人, 性别认同, 法律问题, 勇敢过生活, 社会环境, 青春期困扰, 心理健康, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -65,7 +65,7 @@ SAFE 新加坡 与 新加坡跨性协会 TransgenderSG 举办：Proudly Parents 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自 Facebook 的邀请函，内容为新加坡跨性别支持组织 SAFE 新加坡与新加坡跨性协会 TransgenderSG 联合举办的“Proudly Parents”茶聚会的通知。该聚会专为跨性别儿童的父母而设，目的是提供一个平台，让父母之间能够分享经验、交流感受，并建立联系。聚会定于 2024 年 2 月 24 日（星期六）下午 3 点至 5 点举行。提交参加意愿的父母需要在 2 月 22 号之前通过电子邮件通知主办方，以便确认出席并获取详细地点信息。此文件为多元性别家庭提供了一个重要的支持性社群，彰显了家长们支持其跨性别孩子的决心与努力，同时也呼应了社会对多元性别群体的关心和认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,10 +78,10 @@ SAFE 新加坡 与 新加坡跨性协会 TransgenderSG 举办：Proudly Parents 
 | Size            | 2530 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Pink Dot SG                               |
+| Region          | 新加坡                               |
+| Date            | 2024-02-24                                 |
+| Tags            | 跨性别, 家长支持, 心理健康, 茶聚会, SAFE新加坡, TransgenderSG, 社群联系, 父母交流, 跨性别家庭, 支持团体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

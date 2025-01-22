@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国人妖和变性人之间的区别，揭示了众多公众对这两个群体的误解。文章首先指出，人妖是指那些在没有进行变性手术前，外形上更偏向女性的男性，他们仍保留着男性的生殖器官。而变性人则是指那些通过医学手段改变了生殖器官的人。他们对自己的性别感到强烈不满，通过变性手术进行身体变更以完成自我认同。文章分析了人妖如何通过长期服用雌性激素来形成女性化的外表，并指出人妖的生理特征与健康风险，以及变性手术的必要步骤与法律限制。此外，作者还讨论了人妖和变性人在感情生活中的法律地位，包括结婚和生育的可能性。总体而言，文中强调了面对歧视与误解，变性人和人妖寻求自我认同与幸福的勇气。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,10 +85,10 @@
 | Size            | 6855 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Pink大叔                               |
+| Region          | 未知                               |
+| Date            | 2017-12-08                                 |
+| Tags            | 泰国人妖, 变性人, 性别认同, 医疗资源, 社会环境, 法律政策, 性别差异, 性别理论, 艾滋病风险, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

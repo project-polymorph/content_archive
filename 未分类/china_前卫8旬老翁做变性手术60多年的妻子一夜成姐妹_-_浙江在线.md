@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一位80岁高龄的黄女士（化名）与其擅自进行变性手术的丈夫之间的婚姻问题。黄女士在完全不知情的情况下，自己夫君决定变性并要求以姐妹相称，导致黄女士感到困惑和无法接受。她在与女儿交流后，决定寻求法律帮助，并希望解除这段已不再符合婚姻条件的关系。文章详细叙述了黄女士的经历，丈夫未经她同意的重大决定对其产生的情感影响，以及相关法律条款如何支持她的离婚请求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,10 +44,10 @@
 | Size            | 2581 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-06-02                                 |
+| Tags            | 变性手术, 离婚, 婚姻法, 同性婚姻, 性别认同, 成都, 法律援助, 老年人问题, 家庭关系, 社会问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -65,37 +65,37 @@ Z世代更熟悉中性代词 图：皮尤研究中心
 
 30条评论
 
-1. **[藏羚羊](//user.guancha.cn/user/personal-homepage?uid=210264)** 经常幻想用某种射线瞬间让核武器失效  
+1. **[藏羚羊](https://user.guancha.cn/user/personal-homepage?uid=210264)** 经常幻想用某种射线瞬间让核武器失效  
    别来中国，别来中国，别来中国  
    2019-12-12 12:05
 
-2. **[GXNM](//user.guancha.cn/user/personal-homepage?uid=235383)** 我从来不说人IQ不够高，我只证明确实如此  
+2. **[GXNM](https://user.guancha.cn/user/personal-homepage?uid=235383)** 我从来不说人IQ不够高，我只证明确实如此  
    白左们发明了量子态的性别  
    2019-12-12 11:53
 
-3. **[木子冰霜涣](//user.guancha.cn/user/personal-homepage?uid=624947)** 生我者猴，亡者雕  
+3. **[木子冰霜涣](https://user.guancha.cn/user/personal-homepage?uid=624947)** 生我者猴，亡者雕  
    2019-12-12 12:09
 
-4. **[青阳长弓](//user.guancha.cn/user/personal-homepage?uid=222039)** 此评论已被屏蔽  
+4. **[青阳长弓](https://user.guancha.cn/user/personal-homepage?uid=222039)** 此评论已被屏蔽  
    2019-12-12 12:34
 
-5. **[有故事の人](//user.guancha.cn/user/personal-homepage?uid=26583)** 自杀性文明  
+5. **[有故事の人](https://user.guancha.cn/user/personal-homepage?uid=26583)** 自杀性文明  
    2019-12-12 12:09
 
-6. **[西瓜](//user.guancha.cn/user/personal-homepage?uid=126139)** 此评论已被屏蔽  
+6. **[西瓜](https://user.guancha.cn/user/personal-homepage?uid=126139)** 此评论已被屏蔽  
    2019-12-12 12:34
 
-7. **[藏羚羊](//user.guancha.cn/user/personal-homepage?uid=210264)** 经常幻想用某种射线瞬间让核武器失效  
+7. **[藏羚羊](https://user.guancha.cn/user/personal-homepage?uid=210264)** 经常幻想用某种射线瞬间让核武器失效  
    尊重个体选择，保护个体隐私，但是别将个体诉求提升至政治、法律层面，谢谢  
    2019-12-12 13:27
 
-8. **[飞去偶来](//user.guancha.cn/user/personal-homepage?uid=240397)** 变性人怎么就二次元性别了？  
+8. **[飞去偶来](https://user.guancha.cn/user/personal-homepage?uid=240397)** 变性人怎么就二次元性别了？  
    2019-12-12 12:07
 
-9. **[青阳长弓](//user.guancha.cn/user/personal-homepage?uid=222039)** 今天在这篇文章下的评论是生平被点踩最多的一次。  
+9. **[青阳长弓](https://user.guancha.cn/user/personal-homepage?uid=222039)** 今天在这篇文章下的评论是生平被点踩最多的一次。  
    2019-12-12 13:58
 
-10. **[nhkbc](//user.guancha.cn/user/personal-homepage?uid=573721)** 人家说的是这种风气别吹来中国LGBT群体本来就应该是小众的默默的留在哪里。  
+10. **[nhkbc](https://user.guancha.cn/user/personal-homepage?uid=573721)** 人家说的是这种风气别吹来中国LGBT群体本来就应该是小众的默默的留在哪里。  
     2019-12-12 13:12
 
 **版权信息**: Copyright © 2014-2024 观察者 All rights reserved。[沪ICP备10213822号-2](https://beian.miit.gov.cn) 互联网新闻信息服务许可证：31220170001 网登网视备（沪）02020000041-1号。

@@ -11,7 +11,7 @@
 
 ---
 
-![cut-off](//i0.hdslb.com/bfs/article/db75225feabec8d8b64ee7d3c7165cd639554cbc.png)
+![cut-off](https://i0.hdslb.com/bfs/article/db75225feabec8d8b64ee7d3c7165cd639554cbc.png)
 
 **哪朵玫瑰 没有荆棘？**  
 **最好的 报复是 美丽**  
@@ -94,20 +94,20 @@
 
 每个人都有自己定义的属于自己的故事。性别和性取向是多元的、复杂的、让人迷惑的，充满荆棘的，但同时也是坚韧的、有魅力的、勇敢绽放，永不凋谢的。这个世界因为多元而精彩，让我们一起无所畏惧的走下去，Ni不再是一个人。你，妳，还有Ni，不再孤单。
 
-![cut-off](//i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
+![cut-off](https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png)
 
 ---
 
 **标签：**  
-[美国](//search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD)  
-[彩虹](//search.bilibili.com/all?keyword=%E5%BD%A9%E8%99%B9)  
-[酷儿](//search.bilibili.com/all?keyword=%E9%85%B7%E5%84%BF)  
-[FTM](//search.bilibili.com/all?keyword=FTM)  
-[LGBT](//search.bilibili.com/all?keyword=LGBT)  
-[跨性别](//search.bilibili.com/all?keyword=%E8%B7%A8%E6%80%A7%E5%88%AB)  
-[性取向](//search.bilibili.com/all?keyword=%E6%80%A7%E5%8F%96%E5%90%91)  
-[LOVE IS LOVE](//search.bilibili.com/all?keyword=LOVE%20IS%20LOVE)  
-[MTF](//search.bilibili.com/all?keyword=MTF)
+[美国](https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD)  
+[彩虹](https://search.bilibili.com/all?keyword=%E5%BD%A9%E8%99%B9)  
+[酷儿](https://search.bilibili.com/all?keyword=%E9%85%B7%E5%84%BF)  
+[FTM](https://search.bilibili.com/all?keyword=FTM)  
+[LGBT](https://search.bilibili.com/all?keyword=LGBT)  
+[跨性别](https://search.bilibili.com/all?keyword=%E8%B7%A8%E6%80%A7%E5%88%AB)  
+[性取向](https://search.bilibili.com/all?keyword=%E6%80%A7%E5%8F%96%E5%90%91)  
+[LOVE IS LOVE](https://search.bilibili.com/all?keyword=LOVE%20IS%20LOVE)  
+[MTF](https://search.bilibili.com/all?keyword=MTF)
 
 ---
 

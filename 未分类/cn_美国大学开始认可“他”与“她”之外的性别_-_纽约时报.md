@@ -134,7 +134,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自《纽约时报》，主要讨论了美国佛蒙特大学开始认可除了“他”与“她”之外的性别身份的改变。文中通过洛可·吉梳曼的故事，展现了一名跨性别者在校园内的经历和情感。吉梳曼从小就感觉到“女生”或“男生”的标签无法真正定义自己，最终认同自己是跨性别者，并积极参与与性别相关的团体活动。文章详细描述了佛蒙特大学如何在性别认同的政策上做出创新，包括允许学生选择自己的名字和性别代词。作者解析了校园内对于性别的个人认知变化，以及对社会结构和语言偏见的反思。通过吉梳曼的个人经历以及校园中对性别认同的讨论，文章深化了对于性别二元论的理解，并探讨了LGBTQ群体面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -147,10 +147,10 @@
 | Size            | 20907 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | JULIE SCELFO，由纽约时报中文网发布                               |
+| Region          | 美国                               |
+| Date            | 2015-03-19                                 |
+| Tags            | 跨性别者, 性别身份, 性别认同, 佛蒙特大学, 校园生活, LGBTQ, 性别政策, 性别酷儿, 自我认同, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

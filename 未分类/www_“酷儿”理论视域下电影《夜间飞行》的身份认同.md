@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-**DOI:** [10.12677/ARL.2022.114025](https://doi.org/10.12677/ARL.2022.114025), [PDF](//pdf.hanspub.org/arl20220400000_57808358.pdf), [HTML](//www.hanspub.org/journal/paperinformation?paperid=57879), [XML](//image.hanspub.org/xml/57879.xml),  [被引量](citations?paperid=57879&journalid=758) 下载:62  浏览:661   
+**DOI:** [10.12677/ARL.2022.114025](https://doi.org/10.12677/ARL.2022.114025), [PDF](https://pdf.hanspub.org/arl20220400000_57808358.pdf), [HTML](https://www.hanspub.org/journal/paperinformation?paperid=57879), [XML](https://image.hanspub.org/xml/57879.xml),  [被引量](citations?paperid=57879&journalid=758) 下载:62  浏览:661   
 **作者:** [曾思繁](articles?searchcode=%e6%9b%be%e6%80%9d%e7%b9%81&searchfield=authors&page=1)：福建师范大学，福建 福州    
 **关键词:** [酷儿理论](articles?searchcode=%e9%85%b7%e5%84%bf%e7%90%86%e8%ae%ba&searchfield=keyword&page=1)；[酷儿电影](articles?searchcode=%e9%85%b7%e5%84%bf%e7%94%b5%e5%bd%b1&searchfield=keyword&page=1)；[韩国电影](articles?searchcode=%e9%9f%a9%e5%9b%bd%e7%94%b5%e5%bd%b1&searchfield=keyword&page=1)；[Queer Theory](articles?searchcode=Queer+Theory&searchfield=keyword&page=1)； [Queer Movies](articles?searchcode=+Queer+Movies&searchfield=keyword&page=1)； [Korean Movies](articles?searchcode=+Korean+Movies&searchfield=keyword&page=1)  
 

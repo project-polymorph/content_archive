@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章围绕中国医学科学院性别重塑中心的工作展开，详细介绍了变性手术的背景、挑战及社会认知。文章由叶润霞撰写，主要讲述了陈焕然博士在中心所做的手术，以及与变性人患者的真实故事。作者提到变性手术的许可条件中，只有大学本科以上的学历者才能够申请手术，强调受过高等教育的人对手术的理解和理智性。同时，文章探讨了社会对变性人的偏见，以及在法律认同上的困难。通过具体案例，文章展现了手术对个人生活的影响，如性别认同、家庭支持和社会接纳等问题。文中提到了一些成功案例，如患者术后与家庭的互动，以及其在社会中的角色重塑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 9806 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 叶润霞                               |
+| Region          | 中国大陆                               |
+| Date            | 2002-04-07                                 |
+| Tags            | 变性手术, 性别重塑, 心理健康, 医疗资源, 社会认知, 法律政策, 生命故事, 性别认同, 医疗经验, 文化偏见                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

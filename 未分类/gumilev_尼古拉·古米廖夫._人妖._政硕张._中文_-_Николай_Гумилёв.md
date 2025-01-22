@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含俄罗斯诗人尼古拉·古米廖夫的作品《人妖》及其中文翻译。文本探讨了人类存在、牺牲和对伟大存在的信仰，使用了丰富而深刻的意象，表达了对古老誓言和灵魂自由的思考。这首诗反映了对个人身份和性别流动性的探索，尤其是在人妖这一复杂性别身份的背景下，更加突显了个体与社会之间的关系。它通过抒情的语言引导读者感受到情感的复杂性和存在的哲理。整个文本饱含着对爱的呼唤和对自由的渴望，象征着人类对于超越传统性别界限的对抗与追求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 2579 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 尼古拉·古米廖夫                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人妖, 尼古拉·古米廖夫, 诗歌, 性别流动, 生命故事, 牺牲, 社会环境, 灵魂自由, 对伟大的信仰, 文学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

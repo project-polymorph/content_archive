@@ -36,7 +36,7 @@ _(责编：刘博雪、李昉)_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详述了刘婷（术前名为刘霆）在接受变性手术后的经历，特别是她参加2015年在广州举办的选美比赛并获得“最美蝶变奖”的过程。文章回顾了刘婷的手术决定和其对生活的影响，提到她的大学同学为她组建微信群“迷路的小孩”，并在其中表达对她的支持与祝福。文章中刘婷谈到社会对她的变性过程的关注，获得了来自朋友与陌生人的关心与祝福，甚至还有陌生男子主动联系希望照顾她，展现了她在这段经历中的适应与坦然。整体上，这篇报道不仅展示了个体的变性经历，还引发了对社会对多元性别理解与接受的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,10 +49,10 @@ _(责编：刘博雪、李昉)_
 | Size            | 1434 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘博雪                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-09-26                                 |
+| Tags            | 刘婷, 变性, 选美, 隆胸, 变性手术, 广州, 社会关注, 更新状态, 支持, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

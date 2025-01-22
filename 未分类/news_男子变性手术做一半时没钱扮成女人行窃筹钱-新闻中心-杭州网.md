@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇新闻报道讲述了一个名为刘某的男子在进行变性手术的一半时，由于缺乏资金而选择了非法手段来筹集手术费用。刘某在接受部分变性手术后，因未能筹集到足够的资金，便扮成女人到酒吧寻求男客人并盗窃其财物。报道中提到，刘某从小就受到影响，母亲希望有个女儿，并经常给他打扮成女孩的样子。最终，刘某因盗窃罪被判刑，事后表示出悔意，并希望出狱后能正当工作继续完成手术，折射了许多变性者面对的困难与挣扎。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,10 +72,10 @@
 | Size            | 3674 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 记者裴晓兰                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-01-31                                 |
+| Tags            | 变性手术, 社会新闻, 盗窃, 人生故事, 法律判决, 性别认同, 变性经历, 社会环境, 性别多元, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

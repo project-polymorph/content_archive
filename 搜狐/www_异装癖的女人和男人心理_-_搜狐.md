@@ -32,7 +32,7 @@ vivian前次恋情的失败让她开始压抑自己的感情，只能通过着�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了异装癖的心理现象，分析了男性和女性在异装癖行为背后的原因与表现。异装癖被定义为通过穿着异性衣物来获得性兴奋的行为，这种行为与同性恋和恋物癖有所不同。作者引用心理学家荣格的观点，讲述了人格中存在的两个原型－‘阿尼玛’和‘阿尼姆斯’，并分析了性别特质在个体性格及其社会环境中的角色。同时，文中结合多位个体的案例，比如生活环境对性别认同的影响，展示了男女在社会压力下如何通过异装来寻求内心的认同和满足。文末呼应现代社会对双性化特质的接纳，强调每个人都有多个性别特质的一面，倡导对性别角色的理解与宽容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,10 +45,10 @@ vivian前次恋情的失败让她开始压抑自己的感情，只能通过着�
 | Size            | 4085 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 郭利方心理咨询                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-05-08                                 |
+| Tags            | 异装癖, 心理分析, 性别特质, 社会压力, 性别认同, 心理咨询, 性行为, 双性化特质, 个体案例, 荣格心理学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

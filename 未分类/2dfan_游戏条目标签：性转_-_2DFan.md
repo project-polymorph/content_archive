@@ -312,7 +312,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一份关于多元性别相关游戏的档案，主要涵盖性别转换（性转）主题的游戏列表。内容包括游戏的封面图、名称、品牌、发售日期、原画和剧本作者信息等。文件中列出了多款以性别转换为主题的游戏，如《TS魔法少女なお!2nd!!》、《光翼戦姫エクスティアTS パラレルエピソード3 トワイライトセイバー》和《俺嫁!?》等，详细介绍了每款游戏的特点、标签和下载链接。标签包含了关于游戏类型、主题和内容的多个方面，例如“性别转换”、“魔法少女”、“ADV”等，展现了多元性别文化在游戏领域的表现和发展。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -325,10 +325,10 @@
 | Size            | 29207 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别转换, 游戏, ADV, 魔法少女, 喜剧, 反映生存现状, 文学艺术, 中文游戏, 性转游戏                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

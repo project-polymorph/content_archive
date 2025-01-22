@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一名跨性别者杰米·克里斯蒂安的真实经历，她分享了自己在性别认同上的探索与Transition的过程。杰米在不到十岁时就开始意识到自己的性别身份，并在三十岁时选择以女性身份生活。她的故事不仅反映了个人的生活改变，也反映了社会对跨性别者的接受度正在逐渐提高。文章通过个人经历揭示了跨性别者在社会中面临的挑战与困境，同时也通过评论区的互动，鼓励人们用平常心对待性别多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@
 | Size            | 1303 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 美国之音中文网                               |
+| Region          | 未知                               |
+| Date            | 2016-08-06                                 |
+| Tags            | 跨性别, 性别认同, 社会议题, 变性, 个人经历, 性别多样性, 医疗资源, 法律政策, 社会环境, 文化认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

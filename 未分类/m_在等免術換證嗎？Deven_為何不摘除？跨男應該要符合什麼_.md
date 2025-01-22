@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本播客第61集围绕跨性别者在进行性别确认手术后的生活与思想展开讨论，特别聚焦于跨男Deven的经历和感受。节目中，主持人与跨男朋友们分享交流，探讨对身体的改变及手术的必要性与选择。尤其提到一位刚完成手术的朋友表达对身体状态的满意，称"身体终于没有破洞了"，引发了对手术与生活质量的深刻思考。此集节目试图探索跨性别者在身份确认过程中面临的现实挑战，包括证件性别与实际身份的不符所带来的困扰和困惑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,10 +71,10 @@
 | Size            | 2520 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 阿塔男孩的跨旅程                               |
+| Region          | 未知                               |
+| Date            | 2023-03-12                                 |
+| Tags            | 跨性别, 跨男, 荷尔蒙治疗, 性别认同, transgender, ftm, hrt, LGBTQ, 身体焦虑, 手术经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

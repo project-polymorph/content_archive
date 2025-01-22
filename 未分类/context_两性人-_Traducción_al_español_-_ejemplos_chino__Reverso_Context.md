@@ -103,7 +103,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件的主题是关于两性人与多元性别的相关内容，主要推荐了与之相关的一些概念、法律、政策和生存状况的真实记录。文件中提到，无论是两性人还是其他LGBTI群体，都不应受到强迫的性别划分或医学干预，这强调了身份认同与知情同意的重要性。文件引用了许多与人权维护有关的报告，指出在某些城市中，针对男、女同性恋、双性恋者和两性人的言论及集会自由的限制和歧视，尤其是在监狱中的不平等对待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,10 +116,10 @@
 | Size            | 8001 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 两性人, 性别, LGBTI, 人权, 性别平等, 社会环境, 法律政策, 真实记录, 医疗经验, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -31,7 +31,7 @@
 一般(5) 3%  
 不满意(2) 1%  
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8178695509**  
 总体评价：满意  
 取票便捷: 满意  
@@ -40,7 +40,7 @@
 很值得观看的一个表演！  
 2023-03-26 15:39:15
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **xihu1979**  
 总体评价：一般  
 取票便捷: 一般  
@@ -49,7 +49,7 @@
 给定的位子是黄金坐最边上的！花的是一样的钱！中间位子还空着！  
 2019-12-18 10:57:40
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8057599265**  
 总体评价：满意  
 取票便捷: 满意  
@@ -58,7 +58,7 @@
 体验一下地道风情，不枉此行  
 2019-09-09 16:15:57
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8172882795**  
 总体评价：满意  
 取票便捷: 满意  
@@ -76,7 +76,7 @@
 超级棒，表演，小哥哥和小哥哥都长得好好看  
 2019-06-19 14:19:08
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8159707881**  
 总体评价：满意  
 取票便捷: 满意  
@@ -85,7 +85,7 @@
 一般吧～没什么惊喜，给出行的朋友一句忠告：多穿点衣服～不然会被冷气吹死！  
 2019-06-03 20:46:48
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8161776921**  
 总体评价：满意  
 取票便捷: 满意  
@@ -103,7 +103,7 @@
 挺棒的体验，也很便宜，不错  
 2018-12-04 20:53:37
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8129908522**  
 总体评价：满意  
 取票便捷: 满意  
@@ -112,7 +112,7 @@
 非常不错的表演，值得去看  
 2018-04-13 18:39:13
 
-![用户头像](//s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
+![用户头像](https://s.tuniucdn.com/qn/images/552cf6c0fe3700b86d60837b366331e3.png)  
 **8005068305**  
 总体评价：满意  
 取票便捷: 满意  

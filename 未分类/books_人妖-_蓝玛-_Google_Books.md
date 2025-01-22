@@ -38,7 +38,7 @@ Ben shu bao gua " ming ruo xuan si ", " mo gui shou cang jia " he " zi yue liang
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖》是由蓝玛创作的一部小说，出版于1996年，由作家出版社发行。该书通过丰富的文学表现手法，讲述了与多元性别相关的故事及人物，涉及诸多主题，例如性别认同与社会接受度。在书中，蓝玛描绘了生动的角色，他们的生命故事与过渡经历展示了多元性别者在社会中所面临的挑战和直面自我的勇气。全文包含574页，涵盖了多个短篇故事，反映了多元性别群体的真实现状与情感纠葛。这部作品不仅具有文学价值，也为理解和认同多元性别的重要性提供了深刻的视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@ Ben shu bao gua " ming ruo xuan si ", " mo gui shou cang jia " he " zi yue liang
 | Size            | 1231 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 蓝玛                               |
+| Region          | 中国                               |
+| Date            | 1996-01-01                                 |
+| Tags            | 多元性别, 文学, 小说, 性别认同, 社会接受度, 生命故事, 生存现状, 性别多样性, 蓝玛, 作家出版社                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -38,7 +38,7 @@ _**從事金融業，自由撰稿，醉心武俠小說創作；近期發表《�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了近年来在中国大陆出现的“娘炮现象”，即男性在外表和性格上表现出阴柔特征的趋势。作者寒柏通过对这一现象的多角度分析，探讨了社会对于男性形象的审美标准、文化影响以及潜在的社会问题。文章举例了日、韩流行文化对中国大陆男性形象的影响，特别指出日本的漫画和电视节目中常出现的女性化角色，以及在韩国流行的“花美男”对年轻男性的影响。寒柏表示，虽然有批评声音认为“娘炮”形象不利于青少年的发展，但他同时也呼吁要尊重多元性别表达，批判社会的单一标准。在结尾部分，作者提及“躺平文化”的崛起，与“娘炮现象”之间的关联，认为两者都反映了当前社会中对于男性气概和性别角色的讨论及其转变。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@ _**從事金融業，自由撰稿，醉心武俠小說創作；近期發表《�
 | Size            | 5418 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 寒柏                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 娘炮现象, 性别表现, 男性形象, 阴柔特征, 社会审美, 文化影响, 日韩流行文化, 青少年发展, 躺平文化, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

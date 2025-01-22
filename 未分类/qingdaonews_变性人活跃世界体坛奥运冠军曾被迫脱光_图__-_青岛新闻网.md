@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了变性人在世界体坛中的现状与经历，重点讲述了几位知名变性运动员。包括丹麦高尔夫选手米安妮·巴格，她是首位参赛欧洲女子高尔夫球巡回赛的变性人。此外，文章还提到德国网球运动员莎拉·格罗内尔德和泰国拳王巴林亚的故事，强调了她们在追求自己的职业生涯过程中所面临的挑战和困难。尽管变性人在许多体育项目中得到了认可，但仍然存在较大的争议和限制。文章通过这些实例，反映了性别身份对体育运动员生涯的重要影响，以及社会对变性人运动员的态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,10 +55,10 @@
 | Size            | 2402 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 东方早报                               |
+| Region          | 中国                               |
+| Date            | 2009-07-09                                 |
+| Tags            | 变性人, 运动员, 性别认同, 体育, 米安妮·巴格, 莎拉·格罗内尔德, 泰国拳王巴林亚, 社会接受度, 媒体报道, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

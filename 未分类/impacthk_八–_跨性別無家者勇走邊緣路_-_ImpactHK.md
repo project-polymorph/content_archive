@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位跨性别女性阿美的生命故事，讲述了她作为无家者在香港的艰难经历。阿美自小认同自己应为女性，但在传统家庭环境中未获得认可，导致她在成长过程中面临认同障碍和家庭的压迫。经历多年的流浪与露宿，阿美曾遭遇性侵，深受精神创伤。尽管她在治愈和寻求身份认同的道路上经历了无数次的挫折，最终通过善心人士的帮助，她开始逐步恢复并尝试重建自己的生活。文章深入探讨了无家者群体，尤其是跨性别者面临的歧视和心理健康问题，呼吁社会对这些弱势群体给予更多关注和支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 8736 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 彭筠雅、吳兆康、黎凱容                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 无家者, 生命故事, 心理健康, 性别认同, 歧视, 社会支持, 香港, 流浪经历, 精神创伤                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

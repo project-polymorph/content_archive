@@ -23,9 +23,9 @@
 
 ### 相关搜索
 
-- [女装大佬小薰](//m.sogou.com/web/searchList.jsp?pid=sogou-waps-a3fc34dce15cda93&keyword=%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC%E5%B0%8F%E8%96%B0)  
-- [变身可爱男娘](//m.sogou.com/web/searchList.jsp?pid=sogou-waps-a3fc34dce15cda93&keyword=%E5%8F%98%E8%BA%AB%E5%8F%AF%E7%88%B1%E7%94%B7%E5%A8%98)  
-- [第二章被改造的少女怎么过](//m.sogou.com/web/searchList.jsp?pid=sogou-waps-a3fc34dce15cda93&keyword=%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A2%AB%E6%94%B9%E9%80%A0%E7%9A%84%E5%B0%91%E5%A5%B3%E6%80%8E%E4%B9%88%E8%BF%87)
+- [女装大佬小薰](https://m.sogou.com/web/searchList.jsp?pid=sogou-waps-a3fc34dce15cda93&keyword=%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC%E5%B0%8F%E8%96%B0)  
+- [变身可爱男娘](https://m.sogou.com/web/searchList.jsp?pid=sogou-waps-a3fc34dce15cda93&keyword=%E5%8F%98%E8%BA%AB%E5%8F%AF%E7%88%B1%E7%94%B7%E5%A8%98)  
+- [第二章被改造的少女怎么过](https://m.sogou.com/web/searchList.jsp?pid=sogou-waps-a3fc34dce15cda93&keyword=%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%A2%AB%E6%94%B9%E9%80%A0%E7%9A%84%E5%B0%91%E5%A5%B3%E6%80%8E%E4%B9%88%E8%BF%87)
 
 ### 评论区
 
@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档展示了二次元文化中的伪娘形象以及相关的讨论与链接。伪娘这一概念在二次元文化中，通常指的是男性装扮成女性的角色，常见于动漫和游戏中。文中提供了多张精美的伪娘图片，旨在展示其可爱的一面，同时链接至关于伪娘角色的相关讨论和评论，反映了社会对这一文化现象的接受度。同时，资料中也包含了一些网友的评论，展现了公众对可爱伪娘的喜爱与称赞，例如“怎么会有这么可爱的伪娘呢？”
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,10 +50,10 @@
 | Size            | 2134 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 二次元, 可爱文化, 动漫角色, 男性角色, 性别表达, 社交媒体, 网络文化, 角色扮演, 宅文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

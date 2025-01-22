@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性手术的复杂性以及伴随而来的心理与社会挑战，以72岁老人进行变性手术的新闻为切入点，强调变性并不仅仅是一个手术过程，背后涉及深刻的心理动机与社会压力。文章分析了易性癖的不同来源，如先天遗传与后天因素，探讨了变性手术的经历及可能面临的医疗风险，以及手术后变性人所需承受的巨大经济与身体代价。虽然变性手术为一些人提供了解脱的机会，但仍需直面随之而来的社会、伦理和法律问题，术后的个体还需要具备强大的内心与适应能力才能幸福生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 6386 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 佚名                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-02-28                                 |
+| Tags            | 变性, 易性癖, 心理健康, 社会压力, 变性手术, 医疗资源, 性别认同, 法律伦理, 人生故事, 身体自我认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

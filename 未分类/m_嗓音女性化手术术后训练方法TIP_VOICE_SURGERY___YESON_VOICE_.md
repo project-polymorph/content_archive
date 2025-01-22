@@ -23,7 +23,7 @@ VOICE SURGERY ( YESON VOICE CENTER )…
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了嗓音女性化手术术后的训练方法，来自艺颂嗓音中心医院，旨在帮助多元性别个体在手术后进行有效的嗓音训练，以实现更自然的女性化声音。这些训练方法包括具体的练习技巧以及康复过程中的注意事项。文中提到，术后适当的嗓音训练能够大大改善声音质量和情感表达，提升多元性别个体在日常生活中的自信心。同时，提供了与手术相关的医疗资源和专家的建议，为有需要的读者提供了宝贵的信息与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@ VOICE SURGERY ( YESON VOICE CENTER )…
 | Size            | 675 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 艺颂嗓音中心医院                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 嗓音训练, 女性化手术, 医疗资源, 康复训练, 声音质量, 情感表达, 自信提升, 嗓音治疗, 过渡经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了台湾的“变性王”小A辣的故事，讲述了他为塑造理想身材而花费330万的经历，以及他在变性和性别认同过程中的艰辛与挑战。小A辣在业界已出道10年，他的经历不仅展现了他的奋斗历程，还强调了家庭支持的重要性和对变性群体的榜样力量。文章中提到小A辣在性别转变后生活的真实感受，包括变性手术的过程及其带来的变化，以及他在社会和文化中应对的挑战。他对变性手术及其相关经验的分享，为多元性别群体提供了宝贵的第一手资料和心理支持。文末还包括了一些精彩片段的链接，供读者更深入地了解小A辣的故事。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,10 +61,10 @@
 | Size            | 2199 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | ALLIE                               |
+| Region          | 台湾                               |
+| Date            | 2023-12-27                                 |
+| Tags            | 变性, 性别认同, LGBTQ+, 小A辣, 变性手术, 个人故事, 社会支持, 家庭, 生存经历, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

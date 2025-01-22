@@ -176,7 +176,7 @@
 
 #### 传送门
 
-• [北医三院易性症序列医疗团队成立](//www.puh3.net.cn/cx(zxmr)wk/tzgg/124007.shtml/) .
+• [北医三院易性症序列医疗团队成立](https://www.puh3.net.cn/cx(zxmr)wk/tzgg/124007.shtml/) .
 
 取自“[http://mtf.aimo.moe/index.php?title=北医三院易性症序列医疗团队成立&oldid=64](http://mtf.aimo.moe/index.php?title=北医三院易性症序列医疗团队成立&oldid=64)”
 
@@ -190,7 +190,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《北医三院易性症序列医疗团队成立》文件详细介绍了北京大学第三医院针对易性症（跨性别者）建立的医疗团队。文中阐述了易性症的医学定义，强调其并非简单的疾病，而是病人群体因自我性别认同与社会环境之间的冲突而引发的心理和生理疾病。该医疗团队由多个学科的医生组成，包括心理咨询、内分泌、整形外科等，形成一个多学科合作的综合诊疗模式。文中详细列出了团队各成员的职能及其提供的医疗服务，包括心理咨询、激素替代治疗、性别重置手术等。并提到该团队吸收了1979年开始的跨性别诊疗与护理指南内容，为跨性别者提供系统的医疗保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -203,10 +203,10 @@
 | Size            | 10755 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-30                                 |
+| Tags            | 易性症, 跨性别, 医疗团队, 心理健康, 激素替代, 性别重置手术, 多学科合作, 北京大学第三医院, 医疗资源, 社会歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

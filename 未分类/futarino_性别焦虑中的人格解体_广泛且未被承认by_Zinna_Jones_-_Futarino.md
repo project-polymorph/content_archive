@@ -143,7 +143,7 @@ _Wolfradt, U., & Neumann, K. (2001). Depersonalization, self-esteem, and body im
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由Zinnia Jones撰写，讨论了性别焦虑相关的人格解体现象。作者描述了一系列跨性别者在经历性别焦虑时所感受到的人格解体症状，包括对自身思想和情感的疏离感、与自我的分离、以及生活中的麻木或“机器人”状态。文章引述了多个跨性别者的真实经历和感受，强调这些症状往往被忽视，却对个体的心理健康和生活质量造成了深远的影响。Zinnia还指出，许多经历这些症状的跨性别者在接受荷尔蒙替代疗法（HRT）之后，能重新与自己的情感和现实生活接轨，恢复生命的活力和深度。文章不仅探讨了人格解体的内涵，还呼吁社会对这一现象的认识和理解，以帮助更多人获得应有的支持与关怀。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -156,10 +156,10 @@ _Wolfradt, U., & Neumann, K. (2001). Depersonalization, self-esteem, and body im
 | Size            | 25633 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Zinnia Jones                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别焦虑, 人格解体, 跨性别者经历, 情感疏离, 心理健康, HRT, 真实故事, 性别认同, 社会环境, 生活质量                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

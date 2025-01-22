@@ -117,7 +117,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一场以跨性别者为主角的作品推荐讨论，作者在其中分享了自己对多部跨性别相关作品的看法和体验。作者松竹鸟话梅寻冬提出了对日本漫画中cross-gender 描述的不满及期望，希望找到更多真实且能贴近跨性别者生活的作品。涉及的作品包括《幽丽塔》、《放浪息子》、《丹麦女孩》和《心灵杀手》等，作者表示在观看过程中感受到了偏见及刻板印象，并积极寻求更具真实性且能引起共鸣的作品。此外，文中也分享了来自网友的多条推荐，涵盖影视、音乐剧及游戏等多种形式，表达了对性别多样性的支持与倡导。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -130,10 +130,10 @@
 | Size            | 6299 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 松竹鸟话梅寻冬                               |
+| Region          | 未知                               |
+| Date            | 2022-05-12                                 |
+| Tags            | 跨性别, 推荐, 影视作品, 生命故事, 社会环境, 性别研究, 真实记录, 医疗经验, 法律政策, 文化作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

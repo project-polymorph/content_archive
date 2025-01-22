@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了马斯克的变性女儿（现名为薇薇安·詹纳·威尔逊）宣布将要离开美国的消息，并提到了背后的社会背景和政治环境。文章开头提及自从马斯克支持川普后，其女儿频繁登上新闻，随后引用了她的声明，指出对美国未来的悲观态度。文章进一步探讨了马斯克与女儿之间的矛盾以及女儿对法律政策和社会态度的反应。此外，文中还提到美国各地出现的针对黑人群体的恶搞短信事件，显示出种族主义依然在社会中存在。说明了这些短信的种族歧视性质引发的愤怒和对社会现状的忧虑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 2947 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 那个NG                               |
+| Region          | 美国                               |
+| Date            | 2024-11-08                                 |
+| Tags            | 马斯克, 变性女儿, 薇薇安·詹纳·威尔逊, 川普, 美国政治, 种族主义, 跨性别, 社会环境, 法治, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

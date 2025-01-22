@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了近年来流行的女变成男电影，其代表性影片展示了女性角色在转变为男性后所面临的身份认同与社会观念的挑战。文章列举了四部相关电影，包括《剃刀边缘》、《转身》、《变身记》与《性别之旅》，每部电影都有其独特的视角来探讨性别转换对个体的影响和社会的反应。电影中，角色的变换不仅涉及生理层面的转变，更引发了关于性别认同和社会接纳的深刻讨论。此外，电影《性别转换者》以科技为背景，进一步引发关于科技与性别身份间关系的思考。总体而言，这些作品不仅是娱乐性内容，更是一种对性别认同和社会观念的反思与探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,10 +44,10 @@
 | Size            | 3283 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-10-22                                 |
+| Tags            | 性别认同, 电影分析, 女变成男, 社会观念, 身份转变, 性别转换, 性别角色, 女性经历, 文化表达, 电影推荐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

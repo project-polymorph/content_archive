@@ -12,7 +12,7 @@
 
 可以听文章啦！
 
-![听文章](//file.caixin.com/images/content/PC.jpg)
+![听文章](https://file.caixin.com/images/content/PC.jpg)
 
 一份评估报告显示，在中国，跨性别群体在法律、就业、医疗、公共服务、教育等方面仍面临不同程度的歧视。
 
@@ -35,7 +35,7 @@
 
 8月6日，《跨性别者性别认同的法律承认——中国相关法律和政策评估报告》（下称《报告》）在北京发布，《报告》主要执笔者为中华女子学院教授刘明辉。《报告》研究了中国跨性别者性别认同的法律承认及保障相关权益的法律和政策及其实施状况、仲裁裁决和法院判决，并分析了在就业、婚姻、医疗、公共服务等领域的具体法律和政策现状及其对跨性别者的影响。
 
-![报告加载中](//file.caixin.com/file/content/images/loading.gif) 
+![报告加载中](https://file.caixin.com/file/content/images/loading.gif) 
 
 **本文共计2859字 订阅后继续阅读** (javascript:;)
 
@@ -47,11 +47,11 @@
 
 音频：
 
-[试听](//file.caixin.com/pkg/cx-pay-layer/img/x.svg)
+[试听](https://file.caixin.com/pkg/cx-pay-layer/img/x.svg)
 
 报告：中国跨性别群体缺乏法律保护，承受过多歧视
 
-![音频订阅](//file.caixin.com/pkg/cx-pay-layer/img/x.svg)
+![音频订阅](https://file.caixin.com/pkg/cx-pay-layer/img/x.svg)
 
 开通财新通音频版、立享完整音频
 
@@ -71,7 +71,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该报告由联合国开发计划署与中华女子学院共同发布，专注于中国跨性别群体在法律和社会环境中的困境。报告指出，跨性别者在法律、就业、医疗及公共服务等多个领域面临严重的歧视和缺乏保护，导致他们承受着巨大的社会污名与身份焦虑。为改善现状，研究者呼吁应通过立法保障跨性别者的性别和姓名自主选择权，消除在医疗服务方面的障碍。报告还分析了具体的法律政策现状及其对跨性别者的影响, 并提出了建议与对策。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,10 +84,10 @@
 | Size            | 3965 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 王瑞琪（财新网实习记者）                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-07                                 |
+| Tags            | 跨性别, 法律保护, 社会歧视, 性别认同, 医疗服务, 就业歧视, 公共服务, 研究报告, 政策建议, 权益保障                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

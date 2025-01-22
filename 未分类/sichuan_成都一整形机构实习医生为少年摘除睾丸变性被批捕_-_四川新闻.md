@@ -24,7 +24,7 @@ _2015-09-24 08:27:09 来源：[新华网](http://news.xinhuanet.com/legal/2015
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道详细讲述了发生在中国成都的一起医疗事件。内容涉及一位年仅15岁的男少年小楠，为了变性，未经法律允许和合格医生操作，接受了睾丸摘除手术，导致严重的身体伤害。此手术由一名实习医生田某在没有医师执业证书的情况下进行。小楠在朋友的引导下，通过伪造免责声明的方式，获取了施术医生的同意。事件曝光后，警方介入并确认小楠的伤害程度为重伤二级，田某因此被依法逮捕。报道中提到，根据《变性手术技术管理规范》的规定，进行此类手术的患者年龄需满20岁，并需长期接受心理治疗，显然小楠的求医过程违规。这一事件再度引发了社会对未成年人变性现象及相关医疗伦理的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,10 +37,10 @@ _2015-09-24 08:27:09 来源：[新华网](http://news.xinhuanet.com/legal/2015
 | Size            | 2649 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 新华网                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-09-23                                 |
+| Tags            | 变性手术, 未成年人, 医疗事故, 成都新闻, 性别认同, 法律责任, 心理健康, 医疗安全, 社会问题, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

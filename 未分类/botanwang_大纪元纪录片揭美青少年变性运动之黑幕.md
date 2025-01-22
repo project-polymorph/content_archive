@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了纪录片《变性》（Gender Transformation），揭示了美国青少年变性运动背后的复杂性和社会机制。纪录片通过几位变性青年的真实经历，探讨了在孩童和青少年时期作出变性决定所面临的困境和可能带来的严重后果。这部影片审视了变性药物和手术对儿童的影响，引起了广泛关注，引发了一系列关于父母、医生以及社会如何看待和处理青少年性别认同问题的讨论。影片中，母亲们分享了自己孩子因变性导致的痛苦经历，以及社会对他们的压力和误导。纪录片意在警示观众，反思在推动变性运动中的伦理和道德责任，强调这些决定的不可逆性及其对家庭的影响，特别是希望能够引起公众对这些问题的重视与反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,10 +101,10 @@
 | Size            | 5813 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Eva Fu, 编译: 原泉                               |
+| Region          | 美国                               |
+| Date            | 2023-06-16                                 |
+| Tags            | 纪录片, 青少年, 变性, 性别认同, 跨性别, 儿童心理健康, 医学伦理, 社会影响, 家庭关系, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

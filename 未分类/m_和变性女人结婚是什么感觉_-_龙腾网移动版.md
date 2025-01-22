@@ -55,7 +55,7 @@ Dale Bewan:
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了与变性女性结婚的多种经历，通过匿名人士的分享，揭示了他们的真实感受与挑战。多位作者分享了与女士结婚后的生活，表达了对伴侣的深厚感情以及社会对他们关系的看法。尽管面临一些社会偏见和个人挑战，这些关系往往基于深厚的感情和相互支持。作者们讨论了变性女性在性别认同及社会接受度方面的变化，以及所经历的身份认同过程。内容中涉及MTF（男变女）手术后的生活状态，以及与家人、朋友的互动，揭示了社会环境对跨性别者的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@ Dale Bewan:
 | Size            | 8418 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | zgsdta2008                               |
+| Region          | 未知                               |
+| Date            | 2022-08-12                                 |
+| Tags            | 变性女性, 跨性别关系, 性别认同, MTF, 婚姻经历, 社会接受度, 个人故事, 性别手术, 伴侣支持, 情感经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

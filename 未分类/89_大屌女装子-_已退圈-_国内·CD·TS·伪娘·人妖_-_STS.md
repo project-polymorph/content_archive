@@ -57,7 +57,7 @@ her name, plz
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件记录了一位或多位在中国大陆参与跨性别文化的个人故事。标题为「大屌女装子-已退圈」，该文件详细描述了一个在相关社群中活跃的人的经历和过渡过程。在正文部分附有多张图片，可能展示了作者的个人形象和她在社群中的互动。该文在评论区中，其他用户对作者的声音和个人信息表现了浓厚的兴趣。文件于2023年6月15日正式发布，属于STC论坛，标签为国内、CD、TS、伪娘和人妖等相关关键词，这反映了该社群对跨性别身份和表现的关注与讨论。整体来说，这个文件为我们提供了一个关于跨性别者在现代社会中如何寻找认同和社交的视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,10 +70,10 @@ her name, plz
 | Size            | 1920 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 3q21                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-06-15                                 |
+| Tags            | 跨性别, 大屌女装子, 伪娘, 人妖, 社群, 生命故事, 文化经历, 社交媒体, 身份认同, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

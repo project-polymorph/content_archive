@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章记录了一位名为亚流丸的男生在女装爱好的探索过程中经历的各种情感和社会挑战。文章通过他初中时期开始偷穿女装的回忆，引出他与家庭的关系。亚流丸从中学时期喜欢上女装，到后来因父母的反对而一度压抑自己的爱好，最终在大学时期重新接触女装，找到了自我认同。文章还讨论了异装现象的多种心理和社会因素，引用了湖南师范大学副教授向燕辉的观点，阐述家庭因素对男孩性别角色认同及发展的重要性。整篇文章通过具体的故事和调研数据，深入探讨了男生女性化倾向的接受程度、社会认知以及心理健康。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -105,10 +105,10 @@
 | Size            | 6225 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 红网，宋叙泓，何青                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-04-20                                 |
+| Tags            | 多元性别, 女装, 性别认同, 家庭因素, 心理健康, 社会认知, 人生故事, 跨性别经历, 性别角色, 个体体验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性人与正常女性在生理结构和功能上的区别，具体分析了变性手术后下半身的变化，包括外观及性功能的差异。内容指出，尽管现代的变性手术技术已能让外观上接近女性，但在自然美观度和生理功能上仍存在很大差异。文章详细说明了进行男变女手术的步骤，如睾丸切除、尿道移位及阴道成形等，同时也提到手术后患者可能遇到的一些生理问题，例如表现不如正常女性的性体验和阴道分泌物减少等。最后，文中刊登了与手术相关的医生信息，以及相关的咨询联系方式。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,10 +52,10 @@
 | Size            | 3470 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 医生在线网                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-02-24                                 |
+| Tags            | 变性人, 性别认同, 变性手术, 生命故事, 医学资源, 性别差异, 生理结构, 医疗经验, 性功能, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -38,7 +38,7 @@ Copyright Hiyouqu.com.All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了网络用语“反串”的起源与含义，详细阐述了其在戏剧表演、网络文化以及娱乐圈中的应用。‘反串’一词最初源于戏剧表演，意指演员扮演与自身性别、年龄及身份特征完全相反的角色，例如男性演员扮演女性角色。在现代网络环境中，‘反串’也被用来形容一些网友在网络上模仿或颠覆特定角色或形象。此外，反串表演在音乐节目和影视剧中也极为常见，常常给观众带来新鲜感和深刻印象。该文还讨论了‘异装’现象，即个体在日常生活中选择与生理性别不符的服装和造型，强调对这一文化现象的开放与理解的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@ Copyright Hiyouqu.com.All Rights Reserved.
 | Size            | 3202 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-16                                 |
+| Tags            | 反串, 网络用语, 异装, 性别表达, 性别认同, 戏剧表演, 娱乐圈, 文化现象, 社会接受, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

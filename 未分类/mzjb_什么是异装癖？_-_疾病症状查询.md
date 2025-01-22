@@ -130,7 +130,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了异装癖这一现象，包括其定义、症状、发生机制及处理建议。异装癖被描述为一种病态欲望，患者通常表现为对异性服装的强烈兴趣，通过穿着异性服装获得性快感，尤其在男性中常见。文章指出，患者的心理状态通常与家庭和文化背景相关，且在未经治疗的情况下，可能会加重其症状。文中提到了一些常见的症状，如焦虑，同时推荐了可能的医疗科室和专家，并列出了一些相关医院的信息。此外，文章还给出了对待轻度和重度异装癖的不同建议，包括观察是否仅为个人爱好，或对心理问题的重视。同时，提供关于异装癖儿童的指导，强调这些行为并不一定表示心理疾病，只要加以关注和合理引导即可。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -143,10 +143,10 @@
 | Size            | 8716 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异装癖, 性变态, 心理健康, 精神病科, 医疗资源, 治疗建议, 文化背景, 心理问题, 焦虑, 社会现象, 性别认同, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

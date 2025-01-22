@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细记录了中华人民共和国在跨性别相关领域的法律法规的变迁历程。内容包括多项重要的法律文件和政策的日期与概要，如2001年发布的《中国精神障碍分类及诊断标准（第三版）》和2002年公安部关于变性手术后户口登记性别变更的批复。这些法律法规不仅反映了国家对跨性别者的医疗管理政策，还影响着社会对跨性别问题的认知和法律地位。文件中列出了一系列法律文件的变迁，其中包括了精神卫生法的草案与修订、性别重置手术的技术管理规范及其实施通知，表明了国家在此领域的逐步规范化与法律框架的建立。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,10 +51,10 @@
 | Size            | 4235 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 法律变迁, 法规, 精神卫生法, 变性手术, 户口登记, 政策, 社会认知, 医疗管理, 性别重置技术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

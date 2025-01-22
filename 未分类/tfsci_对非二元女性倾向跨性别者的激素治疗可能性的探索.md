@@ -240,7 +240,7 @@ Ada S. Cheung 是该论文的联名作者之一；其来自澳大利亚墨尔本
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细探讨了针对非二元（女性倾向）跨性别者的激素治疗可能性，分析了他们对激素疗法的需求以及现有的医学文献缺乏对此类治疗的研究。从理论上讲，非二元（女性倾向）跨性别者渴望一种可以区别于常规女性化激素疗法的治疗方案，能够实现身体和激素状态的中间态，同时保留一定的男性特征。文中介绍了不同的激素调节方案，如抗雄激素制剂、孕激素和选择性雌激素受体调节剂等，并讨论了治疗可能带来的健康风险，比如骨质流失。尽管非二元性别的激素治疗方法仍处于探索阶段，但本文强调这一需求正在日益受到关注，呼吁未来对该领域的更多研究和探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -253,10 +253,10 @@ Ada S. Cheung 是该论文的联名作者之一；其来自澳大利亚墨尔本
 | Size            | 51139 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Aly                               |
+| Region          | 未知                               |
+| Date            | 2023-07-25                                 |
+| Tags            | 非二元性别, 跨性别者, 激素治疗, 健康风险, 抗雄激素, 孕激素, 孤立性别认同, 治疗方案, 医学研究, 跨性别健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文旨在推荐与讨论一部关于泰国人妖的电影，特意提及了励志的故事情节和社会背景。文章的核心内容是寻找电影《美丽拳王》的信息，该片讲述了一个有易性癖的拳王的成长故事，展现了他虽然面临家庭与社会的压力，但最终追求自我的心路历程。文章还包含关于泰国人妖形成的背景、面临的社会状况以及他们在社会中的存在与认同等相关讨论。此外，文中还列出了多个相关问答，涵盖了人妖的生理特征、权利状况以及社会接纳度，反映了多元性别在泰国文化中的特殊位置。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@
 | Size            | 2884 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2024-01-14                                 |
+| Tags            | 泰国人妖, 电影推荐, 励志故事, 易性癖, 性别认同, 文化讨论, 生存现状, 社会接纳, 多元性别, 电影《美丽拳王》                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -20,8 +20,8 @@ Kyōran Kazoku Nikki
 [x6suke](https://zh.wikipedia.org/wiki/X6suke)
 
 **出版社**  
-[![日本](//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [Enterbrain](https://zh.wikipedia.org/wiki/Enterbrain)  
-[![台湾地区](//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80) [尖端出版](https://zh.wikipedia.org/wiki/%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88)
+[![日本](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [Enterbrain](https://zh.wikipedia.org/wiki/Enterbrain)  
+[![台湾地区](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80) [尖端出版](https://zh.wikipedia.org/wiki/%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88)
 
 **文库**  
 [Fami通文库](https://zh.wikipedia.org/wiki/Fami%E9%80%9A%E6%96%87%E5%BA%AB)
@@ -40,8 +40,8 @@ Kyōran Kazoku Nikki
 [ヱシカ/ショーゴ](https://zh.wikipedia.org/wiki/%E3%83%B1%E3%82%B7%E3%82%AB/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B4)
 
 **出版社**  
-[![日本](//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [Enterbrain](https://zh.wikipedia.org/wiki/Enterbrain)  
-[![台湾地区](//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80) [尖端出版](https://zh.wikipedia.org/wiki/%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88)
+[![日本](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [Enterbrain](https://zh.wikipedia.org/wiki/Enterbrain)  
+[![台湾地区](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80) [尖端出版](https://zh.wikipedia.org/wiki/%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88)
 
 **连载杂志**  
 Fami通文庫online
@@ -257,8 +257,8 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 ## 出版书籍 { data-search-exclude }
 
 **集数**  
-[![日本](//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [ENTERBRAIN](https://zh.wikipedia.org/wiki/ENTERBRAIN)  
-[![台湾地区](//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80) [尖端出版社](https://zh.wikipedia.org/wiki/%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88%E7%A4%BE)
+[![日本](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [ENTERBRAIN](https://zh.wikipedia.org/wiki/ENTERBRAIN)  
+[![台湾地区](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80) [尖端出版社](https://zh.wikipedia.org/wiki/%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88%E7%A4%BE)
 
 **发售日期**
 
@@ -425,9 +425,9 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 
 ## 外部链接 { data-search-exclude }
 
-- [ManiaX55](http://maniax55.blogspot.com/) （[页面存档备份](//web.archive.org/web/20191204050122/http://maniax55.blogspot.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）插画家个人网站
-- [FB Online](http://www.enterbrain.co.jp/fb/index.html) （[页面存档备份](//web.archive.org/web/20160305005126/http://www.enterbrain.co.jp/fb/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）Fami通文库网站
-- [动画版官方网站](http://www.kyouran.jp/pc/index.html) （[页面存档备份](//web.archive.org/web/20210126062856/http://www.kyouran.jp/pc/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）
+- [ManiaX55](http://maniax55.blogspot.com/) （[页面存档备份](https://web.archive.org/web/20191204050122/http://maniax55.blogspot.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）插画家个人网站
+- [FB Online](http://www.enterbrain.co.jp/fb/index.html) （[页面存档备份](https://web.archive.org/web/20160305005126/http://www.enterbrain.co.jp/fb/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）Fami通文库网站
+- [动画版官方网站](http://www.kyouran.jp/pc/index.html) （[页面存档备份](https://web.archive.org/web/20210126062856/http://www.kyouran.jp/pc/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）
 
 ---
 

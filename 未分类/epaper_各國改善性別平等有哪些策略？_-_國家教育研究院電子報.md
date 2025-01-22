@@ -125,7 +125,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《各国改善性别平等有哪些策略？》，由教育制度及政策研究中心的副研究员林信志撰写。文章主要探讨了因2020年新冠疫情所引发的性别平等教育滞后问题，并详细分析了越南、欧盟、新西兰、日本及奥地利等国家在性别平等教育方面的相关政策。文中提到，由于疫情导致的学校关闭，女性在教育上的劣势更加突出，对妇女的长期职业发展、收入以及家庭地位造成不利影响。各国在推动性别平等教育方面，采取了如增加女性领导者比例、改善研究领域的性别多样性、实施性别多元社群教育等策略。同时，中国台湾的相关教育政策也在借鉴这些国际经验，促进更广泛的性别平等，以及对LGBTIQA+群体的教育。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -138,10 +138,10 @@
 | Size            | 14206 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 林信志                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 性别平等, 教育政策, 女性领导力, LGBTIQA+, 国际经验, 社会政策, 性别教育, 疫情影响, 教育改革, 政府行动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -110,7 +110,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了《看见跨性别艺文展》于高雄举办的相关信息。展览的时间为2023年3月24日至3月31日，活动地点位于鸚鵡螺餐酒馆，展览旨在展示跨性别的美丽并聆听跨性别者的生命故事。3/31是跨性别现身日，展览包含脱口秀、讲座、真人图书馆等多样活动，参与者可通过多种方式了解跨性别及非二元性别的艺术与文化。展览的主办单位包括台湾伴侣权益推动联盟等多个组织，活动内容丰富，旨在打破传统性别的二元界限，推动性别认同与表达的多元性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,10 +123,10 @@
 | Size            | 7847 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 台湾伴侣权益推动联盟、鸚鵡螺餐酒馆等                               |
+| Region          | 台湾                               |
+| Date            | 2023-03-24                                 |
+| Tags            | 跨性别, 艺文展, 高雄, 艺术活动, 生命故事, 脱口秀, 讲座, 真人图书馆, 性别多元, 文化活动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

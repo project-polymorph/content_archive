@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了绍兴文理学院大脑、心智与教育研究中心王臣博士及其指导的硕士研究生聂伊姿于2024年4月22日在国际知名心理学期刊Acta Psychologica上发表的学术论文。该论文标题为《心理幸福感的PERMA评估工具在中国成年人中的心理测量验证》，主要研究了基于PERMA模型开发的评分工具（PERMA-profiler）在中国文化背景下的适用性。研究表明，该工具在中国成年人中表现出良好的结构效度和信度，能够有效评估个体的幸福感。在研究过程中，王臣博士和聂伊姿通过一系列心理测量分析，证实了PERMA模型适应中国文化，指出该评估工具在文化背景下的跨性别因子不变性，强调了其在心理健康领域的应用价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 1694 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 王臣博士、聂伊姿                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-04-22                                 |
+| Tags            | 心理研究, 教育, 幸福感, PERMA模型, 跨性别研究, 心理测量, 学术论文, 文化适应性, 心理健康, 心理学期刊                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

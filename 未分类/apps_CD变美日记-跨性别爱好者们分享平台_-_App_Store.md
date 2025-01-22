@@ -89,7 +89,7 @@ Privacy practices may vary, for example, based on the features you use or your a
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《CD变美日记》是一款专为变装爱好者而设计的社交应用程序，致力于建立一个温暖的交流平台，让用户能够分享他们的变装体验与美丽故事。这个应用提供了多个功能，例如美照分享、潮流灵感发现、精彩视频观看及社群加入，旨在帮助用户在变装文化中找到志同道合的朋友，并提升他们的创造力和技能。用户可以发布自己的变装照片、化妆技巧和穿搭心得，与同好讨论学习。同时，该平台也提供丰富的视觉内容，如时尚搭配和变装故事，进一步激发用户的灵感。应用信息中还提到，开发者为其隐私保护做了详细说明，确保用户数据的安全性。总而言之，这个平台不仅是一个记录个人变装经历的地方，也是一个能让用户在变装文化中相互支持、学习与成长的社群。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,10 +102,10 @@ Privacy practices may vary, for example, based on the features you use or your a
 | Size            | 3201 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 钦州正瑞科技有限公司                               |
+| Region          | 未知                               |
+| Date            | 2024-11-05                                 |
+| Tags            | 跨性别, 变装文化, 社交平台, 美妆技巧, 交流分享, 时尚搭配, 变装故事, 社群建设, 移动应用, 用户体验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -64,7 +64,7 @@ De Vries 等细心地发现，关于青春期抑制（12 岁）和跨性别激�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了青少年变性人相关的医疗干预及其争议，主要围绕荷兰模式在青少年性别认同者医疗护理中的应用。文件概述了自1998年以来荷兰对青少年变性人的医疗干预研究以及相关数据，介绍了在2014年版的儿科学期刊中，由De Vries及其同事对于55个年轻成年变性人心理功能改善的报告，强调变性手术后患者的心理功能改善和性别焦虑缓解。文中还提到反对者对这一模式的质疑以及青少年青春期抑制、跨性别激素应用的争议，并探讨了医疗护理的不平等现象和社会对变性人群体的关注。此外，文章期待未来可以更为灵活和个体化的治疗方案，呼吁社会对这一群体给予更多的理解与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,10 +77,10 @@ De Vries 等细心地发现，关于青春期抑制（12 岁）和跨性别激�
 | Size            | 7323 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | pheonix925                               |
+| Region          | 未知                               |
+| Date            | 2014-12-11                                 |
+| Tags            | 青少年变性人, 荷兰模式, 医疗干预, 心理功能, 性别焦虑, 变性手术, 跨性别激素, 青春期抑制, 社会环境, 临床护理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

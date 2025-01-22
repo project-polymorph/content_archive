@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为搜狗百科中关于"男娘"的页面，但内容并未完整呈现。页面提示当前链接无法访问并显示了一张404错误图像，可能表示该文章或资料已被删除或移除。404页面下方部分提及了一些与湖南省岳阳相关的内容，包括一张照片及其拍摄时间为2023年7月11日。文件的目的是提供关于多元性别的相关信息，因此该页面可能曾探讨有关"男娘"这一身份的定义、文化背景、社会接受度等信息。在现阶段，由于该文件无法提供具实质性的内容，更多的信息需要通过他处获取。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@
 | Size            | 846 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 多元性别, 搜狗百科, 404错误, 性别认同, 社会文化, 湖南省, 性别表达, 性别研究, 网络信息                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

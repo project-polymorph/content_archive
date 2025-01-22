@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了女装大佬艾比的转性成功及其在动漫文化中的重要性。艾比因其在2019年漫展期间cosplay女性角色而备受关注，随后因进入女厕引起争议。在微博上，艾比宣布她已成功转性，成为一名女性。同时，文章提及了动漫中多个知名的女装大佬角色，如《海贼王》中的小菊、《火影忍者》中的白和《东京喰种》中的金木研。这些角色的存在反映了社会对性别角色的复杂认知和接受度。文章探讨了女装大佬这一群体作为社会中一个特殊存在的意义，并邀请网友分享自己的看法和感受，介绍了动漫中的女装元素与社会现象的相互联系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 3978 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 山治看动漫                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-03-29                                 |
+| Tags            | 女装大佬, 转性, 动漫, 性别身份, 社会现象, 女性角色, 男性穿女装, 文化探讨, 性别多元, 艾比                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

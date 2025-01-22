@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为播客节目《故事FM》第410期，讲述了李二毛的一生。李二毛，出生于1983年，成长于四川渠县的一个农村家庭，经历了父亲因犯罪而被处决及母亲改嫁的动荡童年。他八岁时被迫与表哥一起到重庆捡垃圾，经过艰苦奋斗，最终来到深圳。此记录片由纪录片导演贾玉川为讲述者，贾玉川在二毛身边跟随拍摄了17年，记录了李二毛在改革开放的浪潮中所经历的命运变迁。据说李二毛是一位代表性的人物，展现了许多在社会边缘中挣扎与求生的个体的故事。该期节目播出于2020年9月11日，时长40分钟，旨在引发对多元性别及个体命运的深思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@
 | Size            | 2078 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 贾玉川                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-09-11                                 |
+| Tags            | 多元性别, 生命故事, 个人经历, 社会变迁, 人生转折, 纪录片, 改革开放, 深圳故事, 李二毛, 故事FM                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

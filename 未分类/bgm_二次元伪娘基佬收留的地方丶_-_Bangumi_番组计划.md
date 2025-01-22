@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件标题为《二次元伪娘基佬收留的地方》，是一个讨论伪娘和基佬相关议题的在线小组。在小组中，用户可以针对伪娘和基佬的生活、文化以及相关经历展开深入讨论。文件中包含了一些小组最新的讨论话题及回应，展示了小组成员的互动和参与情况。此外，还列出了最近加入该小组的成员名单，体现出小组的活跃程度。这一小组成立于2010年，显然已运作了多年，旨在为相关群体提供一个开放、宽松的讨论平台。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@
 | Size            | 2288 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2010-11-22                                 |
+| Tags            | 伪娘, 基佬, 二次元文化, 社区讨论, 生活经历, 社会互动, 性别认同, 文化交流, 网络论坛,  LGBTQ+ 社群                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

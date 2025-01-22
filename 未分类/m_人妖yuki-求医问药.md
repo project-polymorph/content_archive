@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![Logo](//cdn.120askimages.com/ask/m/header/logoimg.png)
+![Logo](https://cdn.120askimages.com/ask/m/header/logoimg.png)
 
 ---
 
@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性人健康状况及其寿命影响的多种因素，特别是在接受性别变更手术后，变性人的生命质量和寿命可能遭受的挑战。文中提到，变性人因失去正常的激素分泌和经常使用激素药物，可能会面临身体健康的严重问题，甚至缩短寿命。例如，文中强调了雌性激素对变性女性的重要性，并提出缺乏激素可能导致身体迅速老化和多种副作用。文章还涉及来历于咨询平台的医学建议，包括对尿路感染的防范和治疗建议，强调良好的生活方式和卫生习惯对变性人健康的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,10 +40,10 @@
 | Size            | 3393 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 人妖yuki                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人健康, 性别认同, 激素影响, 健康状况, 寿命问题, 性别变更手术, 医学建议, 尿路感染, 生活习惯, 艾滋病传播                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

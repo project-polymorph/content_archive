@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于韩国大法院历史性判决的新闻报道，内容涉及中国社会对变性人权利的法律认可进程。2006年6月22日，韩国大法院首次判决允许变性人在经历变性手术后更改户籍性别的请求，这是对于3万名变性人法律权益的重要保障。报道详细介绍了案件的经过，A某作为典型案例，在经过一系列法庭审理后大法院裁定其可以更改户籍性别。文件中还提到这一判决引发的社会反响和法律讨论，包括支持与反对的声音，涉及变性人面临的实际困难及对家庭、社会及法律制度的影响。主要描述了社会对变性人身份认同的变化，法律角色的界定，以及对未来立法和社会认知的呼吁，同时反映出日益增强的对变性人权利的尊重及法律支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,10 +80,10 @@
 | Size            | 8286 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘复晨                               |
+| Region          | 韩国                               |
+| Date            | 2006-06-30                                 |
+| Tags            | 多元性别, 变性人, 法律判决, 户籍性别更改, 社会权益, 心理健康, 医学诊断, 家庭关系, 性别认同, 社会支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

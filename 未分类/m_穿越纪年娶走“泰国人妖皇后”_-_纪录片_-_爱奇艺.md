@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于中国富商与泰国人妖皇后的纪录片，讲述了他们的爱情故事和生活状态。文件提到的中国富商娶了一位泰国人妖皇后，探讨了他们在社会中的形象与接受度。通过这个故事，影片揭示了多元性别的复杂性以及在文化交融背景下的个人选择和社会反应。此外，文中包含了一张相关的图片，以增强叙述的视觉效果。整体情节引发了观众的广泛关注和讨论，且该视频获得了29080次点赞，显示出公众对这一话题的高关注度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,10 +39,10 @@
 | Size            | 512 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-05-08                                 |
+| Tags            | 纪录片, 多元性别, 爱情故事, 泰国人妖, 社会接受度, 文化交融, 个体选择, 生活状态, 真实记录, 公众讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

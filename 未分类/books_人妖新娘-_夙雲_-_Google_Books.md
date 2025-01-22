@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖新娘》是一本由夙云撰写的书籍，出版于1997年，由狗屋出版社发行。书籍涵盖了多元性别相关的故事和经历，具体讲述了一位变性人物的生命历程与个人过渡体验。这本书不仅是对变性者生活的一种个人叙述，也反映了社会对变性人群体的态度与理解。它可能包括了个人的挑战、成长、恋爱、以及社会对非传统性别身份的接受程度等元素，具有深刻的社会文化含义。书籍通过其深入的叙述和丰富的人物描绘，让读者对这一群体有更全面的了解与认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 1489 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 夙云                               |
+| Region          | 未知                               |
+| Date            | 1997-01-01                                 |
+| Tags            | 多元性别, 变性人, 生命故事, 社会接受, 文化反思, 性别认同, 个人经历, 情感, 文学作品, 社会问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

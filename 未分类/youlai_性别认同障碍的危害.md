@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![有来](//static.youlai.cn/images/youlai/logo_yl.png)
+![有来](https://static.youlai.cn/images/youlai/logo_yl.png)
 
 ### 作者
 **燕利娟**  
@@ -25,9 +25,9 @@
 131
 
 ### 相关资源
-- [什么是性别认同障碍](//www.youlai.cn/video/article/387535.html)
-- [性别认同障碍测试方法](//www.youlai.cn/ask/A438A1MhgES.html)
-- [顺尔宁的危害](//www.youlai.cn/ask/782C9CMkaF0.html)
+- [什么是性别认同障碍](https://www.youlai.cn/video/article/387535.html)
+- [性别认同障碍测试方法](https://www.youlai.cn/ask/A438A1MhgES.html)
+- [顺尔宁的危害](https://www.youlai.cn/ask/782C9CMkaF0.html)
 
 ### 免责声明
 特别声明：本站内容仅供参考，不作为诊断及医疗依据。  

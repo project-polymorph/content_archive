@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了几部与穿越变成女生主题相关的电影，通过主人公的经历，探索性别认同和自我接纳的重要性。这些电影展示了男主角在面对新身份时的成长与挑战，强调了性别不应限制个人的能力和梦想。例如，《女生时代》讲述了一位男生穿越后必须适应新的女性身份，并重新思考性别和平等的问题；《时空女孩》则通过冒险故事展现了主人公发现自我潜力的旅程；而《异性世界》通过幽默的情节引发观众对性别角色的思考。《女神转生》聚焦于男生在转变身份后寻找真爱和人生目的的故事，而《性别转换之旅》则探讨了性别与自我认同之间的深刻关系。这些电影不仅提供了娱乐，还鼓励观众思考性别认同、社会期望与个体价值之间的复杂关系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,10 +60,10 @@
 | Size            | 2595 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 电影资讯网                               |
+| Region          | 未知                               |
+| Date            | 2024-11-03                                 |
+| Tags            | 多元性别, 性别认同, 自我接纳, 穿越电影, 成长故事, 性别平等, 个人价值, 真实体验, 文化反思, 心理探索                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

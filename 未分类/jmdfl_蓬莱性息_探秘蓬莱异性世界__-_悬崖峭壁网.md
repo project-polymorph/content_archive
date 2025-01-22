@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档来自多元性别档案馆，内容围绕蓬莱地区的多元性别现象开展深度探讨。文章以悬崖峭壁网为平台，着眼于蓬莱地区的异性世界，尝试揭示社区内的多元性别经历和生活故事。尽管目前正文内容尚待更新，但通过标题可以推测出这将是一篇关于探索不同性别认同和表达的文章，可能包括个人的过渡经历、生活挑战以及社区支持。文件中提及的“多元性别”标签也指向了其广泛的主题，包括社会认同、文化展示等。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,10 +35,10 @@
 | Size            | 397 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别认同, 社会文化, 人权, 生活故事, 过渡经历, 社区支持, 性别表达, 蓬莱, 异性世界                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

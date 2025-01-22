@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性手术的伦理、医学背景及其对变性人群体的影响。文章首先解释了生理性别（Sex）与性别身份（Gender Identity）的区别，指出性别的社会构建性。近年来精神疾病诊断与统计手册（DSM-5）中将性别认同障碍改为性别焦虑症，标志着在医学界对跨性别问题的重新认识。变性手术被描述为一种不可逆的程序，尽管手术能够改变个体的外观，使他们在社会中更容易以目标性别身份生活，然而，手术并不能改变个人的生理性别，性染色体仍然决定着个体的生理性别。此外，文件还提到法律层面上关于性别身份的转变以及其带来的复杂情况，例如香港关于变性人法律身份的规定，以及社会对跨性别人群的偏见和挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,10 +69,10 @@
 | Size            | 6617 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张勇杰 | 明光社项目主任                               |
+| Region          | 香港                               |
+| Date            | 2013-12-07                                 |
+| Tags            | 变性人, 性别焦虑, 医疗伦理, 性别身份, 法律政策, 跨性别权益, 心理治疗, 生理性别, 文化认同, 社会建构                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

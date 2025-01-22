@@ -45,7 +45,7 @@ Copyright © 2005 Sohu.com Inc. All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章记录了一名孕妇在公交车上的经历，她上车时并没有空位，甚至连老弱病残孕专座也被其他乘客占据。文章中详细描述了乘客的反应，指出了一位长者在看到孕妇站着时忍不住提醒车上其他乘客让座，最终促使一位中年男子让出了他的座位。这篇报道反映了社会对孕妇的关心和支持，同时也揭示了公交车上存在的社会行为问题，尤其是在对待弱势群体方面的态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@ Copyright © 2005 Sohu.com Inc. All rights reserved.
 | Size            | 1437 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 《新民晚报》                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-10-05                                 |
+| Tags            | 社会新闻, 孕妇, 公交车, 乘车礼仪, 社会行为, 弱势群体, 公众责任, 社区关怀, 新闻报道, 人文关怀                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

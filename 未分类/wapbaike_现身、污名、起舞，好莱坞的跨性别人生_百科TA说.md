@@ -272,7 +272,7 @@ GLAAD媒体主管尼克·亚当斯（Nick Adams）说，现实生活中确实有
 **校对**丨苟怡琳  
 **来源**丨北京师范大学儿童性教育课题组出品  
 
-**标签**：[跨性别](//wapbaike.baidu.com/tashuolist/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644?fromModule=tashuo-article_bottom-lemma)，[性少数群体](//wapbaike.baidu.com/tashuolist/%E6%80%A7%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93/19500488?fromModule=tashuo-article_bottom-lemma)  
+**标签**：[跨性别](https://wapbaike.baidu.com/tashuolist/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644?fromModule=tashuo-article_bottom-lemma)，[性少数群体](https://wapbaike.baidu.com/tashuolist/%E6%80%A7%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93/19500488?fromModule=tashuo-article_bottom-lemma)  
 
 **原创**|2021-04-01 11:19:03  
 <!-- tcd_original_link https://wapbaike.baidu.com/tashuo/browse/content?id=82c735fad6e0692a5af719d3 -->

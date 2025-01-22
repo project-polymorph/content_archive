@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一位家长发现自己8岁儿子喜欢穿着女性服饰、使用口红和高跟鞋的经历。家长表达了对孩子这一行为的困惑，并询问其他父母是否有类似经历。文字中提到，在打扫过程中发现孩子的房间里有口红和高跟鞋等物品，反映出孩子可能在探索性别认同。该家长与丈夫进行过初步讨论，但还不确定如何进一步与孩子沟通以及这一行为是否正常。这体现了家长在面对孩子性别表达时的紧张和不安，同时文章也包含了一些网友的评论，部分评论支持顺其自然，另一些则表达了担忧，认为应该引导孩子。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,10 +57,10 @@
 | Size            | 1567 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 给生活加点糖                               |
+| Region          | 重庆，中国                               |
+| Date            | 2024-10-24                                 |
+| Tags            | 多元性别, 儿童性别表达, 异装, 家庭教育, 性别认同, 家长心声, 社会讨论, 性别问题, 情感交流, 亲子关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

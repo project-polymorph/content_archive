@@ -856,12 +856,12 @@ ChinaJoy游戏联盟成立仪式主持人
 
 ### 词条标签：
 
--   [组织机构](//Search.e?sp=S组织机构&sp=1&ch=ch.bk.tags)
--   [社会团体](//Search.e?sp=S社会团体&sp=1&ch=ch.bk.tags)
+-   [组织机构](https://Search.e?sp=S组织机构&sp=1&ch=ch.bk.tags)
+-   [社会团体](https://Search.e?sp=S社会团体&sp=1&ch=ch.bk.tags)
 
 ### 合作编辑者：
 
-[巢板砥石](//usercenter/home.v?uid=u_51f0fef875b13edca73c595bf760c254) ，[百科用户1662709887114](//usercenter/home.v?uid=u_fb53df86d882283c5b591e1aad5d014f) ，[匆匆※那年](//usercenter/home.v?uid=u_eb1ac9ff8d1f7d263172211fda872a79) ，[百科用户](//usercenter/home.v?uid=u_d5fce598a6e2c350ea5e3e0130fe50f3) ，[芒果](//usercenter/home.v?uid=u_f49bce9e34dcca0dc8b2c937f948c4d5) ，[陈晓](//usercenter/home.v?uid=u_af57af7b81e137d16f364248635aaafc) ，[Mix](//usercenter/home.v?uid=u_fed82b45e925c7de444a423eecc968b6) ，[Hey! Guys.](//usercenter/home.v?uid=u_51281539c1061e5ac5be0eab2e34bd01) ，[ヤ頹廢](//usercenter/home.v?uid=u_a1cbdf197df6344398ac72c426901f45) ，[风向决定发型d](//usercenter/home.v?uid=u_5d96edaae38ae26801aec7503c0a01e6)
+[巢板砥石](https://usercenter/home.v?uid=u_51f0fef875b13edca73c595bf760c254) ，[百科用户1662709887114](https://usercenter/home.v?uid=u_fb53df86d882283c5b591e1aad5d014f) ，[匆匆※那年](https://usercenter/home.v?uid=u_eb1ac9ff8d1f7d263172211fda872a79) ，[百科用户](https://usercenter/home.v?uid=u_d5fce598a6e2c350ea5e3e0130fe50f3) ，[芒果](https://usercenter/home.v?uid=u_f49bce9e34dcca0dc8b2c937f948c4d5) ，[陈晓](https://usercenter/home.v?uid=u_af57af7b81e137d16f364248635aaafc) ，[Mix](https://usercenter/home.v?uid=u_fed82b45e925c7de444a423eecc968b6) ，[Hey! Guys.](https://usercenter/home.v?uid=u_51281539c1061e5ac5be0eab2e34bd01) ，[ヤ頹廢](https://usercenter/home.v?uid=u_a1cbdf197df6344398ac72c426901f45) ，[风向决定发型d](https://usercenter/home.v?uid=u_5d96edaae38ae26801aec7503c0a01e6)
 
 ## 免责声明 { data-search-exclude }
 
@@ -872,7 +872,7 @@ ChinaJoy游戏联盟成立仪式主持人
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+爱丽丝伪娘团是亚洲最早成立的动漫cosplay团体之一，成立于2009年10月1日。该团体以精致的伪娘角色扮演和多才多艺的表演而闻名，成员主要来自武汉各大高校，如中南民族大学、武汉理工大学等。团体参与了许多重要的动漫展览和活动，并成为了动漫界的明星，特别是在ACGN文化中发挥了重要作用。爱丽丝伪娘团以其独特的伪娘文化，促进了男性对cosplay伪娘角色的热爱，成为了推动ACGN产业的领军人物。该团体成员的多样性也为其带来了丰富的表现力，不仅活跃于各类动漫活动，还扩展至娱乐、游戏代言等多个领域。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -885,10 +885,10 @@ ChinaJoy游戏联盟成立仪式主持人
 | Size            | 38046 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 爱丽丝伪娘团                               |
+| Region          | 中国，武汉                               |
+| Date            | 2009-10-01                                 |
+| Tags            | 伪娘, cosplay, 动漫团体, ACGN文化, 男性文化, 演艺活动, 伪娘文化, 中南民族大学, 武汉理工大学, 华中师范大学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

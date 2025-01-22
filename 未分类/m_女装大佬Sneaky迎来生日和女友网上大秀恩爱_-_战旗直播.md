@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文内容为对北美知名电子竞技选手Sneaky生日庆祝活动的报道，记录了他与女友Lynn在社交媒体上的互动。Sneaky因其出色的游戏表现和女装穿搭受到广泛关注，与女友的亲密照展示了其个人生活的一面。文章提到Sneaky于2019年3月19日迎来了25岁生日，并表明了他的女友为其庆祝的细节和感人言辞。Lynn在社交媒体上祝愿Sneaky生日快乐，并表示对他的爱，配以他们的亲密合影，这引发了网友们热烈的讨论和各种情感反响。评论中有赞美、调侃以及对Sneaky女装形象的争议，反映出社会对多元性别表达的不同观点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,10 +68,10 @@
 | Size            | 1697 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 伐木累                               |
+| Region          | 美国                               |
+| Date            | 2019-03-20                                 |
+| Tags            | 女装大佬, 电竞选手, Sneaky, 生日庆祝, 多元性别, 社会媒体, 公开恋情, 女友, 电子竞技, 跨性别文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

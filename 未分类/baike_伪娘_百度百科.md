@@ -163,7 +163,7 @@ PS：文章部分章节已被[晋江文学城](https://baike.baidu.com/item/%E6%
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《伪娘》是由作者冷风无奈创作的一部连载于晋江文学城的幻想奇缘类型网络小说。全文共23万字，已完结，讲述了一个在男性身体中却拥有少女心的男主角在情感世界中的成长与选择。故事的主角深受周围情感纠葛的困扰，他在面对复杂的性别认同和情感关系时，经历了欢笑与泪水。小说通过细腻的情节展现了伪娘的内心冲突，以及在爱与责任之间的挣扎。它不仅是一部吸引人的言情作品，也透视了多元性别的主题，探讨了在社会中寻求认同与爱的艰辛之路。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -176,10 +176,10 @@ PS：文章部分章节已被[晋江文学城](https://baike.baidu.com/item/%E6%
 | Size            | 6885 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 冷风无奈                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-06-08                                 |
+| Tags            | 伪娘, 性别认同, 多元性别, 幻想奇缘, 晋江文学城, 成长故事, 情感关系, 网络小说, 文学艺术, 冷风无奈                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

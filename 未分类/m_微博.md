@@ -24,7 +24,7 @@ _赞__78_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了国际非二元性别日的背景和意义，强调了非二元性别者在社会中面临的体验与挑战。文中提到国际非二元性别日（International Non-Binary Peoples Day）设定在每年的7月14日，旨在庆祝不符合传统性别二元分类的人群，提升社会对非二元性别个体的认可和尊重。文章结合了个人经历和对社会环境的探讨，提出许多非二元性别者在日常生活中遭遇的边缘化和歧视，以及对非二元身份的自我认同问题。同时，内容补充了与非二元性别相关的多样性与复杂性，呼吁社会对这一性别少数群体多一份理解和支持。以引导公众对性别认同的宽容和尊重，倡导以非二元方式自我表达的权利和自由。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,10 +37,10 @@ _赞__78_
 | Size            | 3723 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 非二元性别, 国际非二元性别日, 性别认同, 社会意识, 性别多元性, 自我肯定, 身份认同, 性别表达, 性别歧视, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -30,7 +30,7 @@ Podcast Episode
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一起跨性别相关的播客节目的记录，标题为《跨性别对谈：我想变成女生且践行了》。在这一集中，主持人和一位跨性别女性嘉宾三宝进行深入的对话，探讨她的性别认同与转变经历。嘉宾分享了她作为跨性别者的生活感受，以及她在社会中如何坚持自我，展现出了勇敢做自己的态度。节目中的讨论充满了对跨性别者生活的理解与尊重，同时也让其他嘉宾对跨性别话题有了新的视角。除了三宝的个人经历外，节目还邀请了她的好友及邻居张无梦博士一起参与讨论，通过不同的观点和经历，丰富了对话内容。该期节目的目的在于展现跨性别者的真实故事，而非窥探隐私或以猎奇的方式来讨论敏感话题，旨在促进公众对性别多样性的理解和接纳。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@ Podcast Episode
 | Size            | 1640 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 大内密谈                               |
+| Region          | 未知                               |
+| Date            | 2024-08-08                                 |
+| Tags            | 跨性别, 性别认同, 生命故事, 个人经历, 社会接纳, 播客, 性别多样性, 性别观点, 勇敢自我, 相关讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

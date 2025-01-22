@@ -103,7 +103,7 @@ V7MM+96Q, Pa Tong, Kathu District, Phuket 83150, Thailand
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为普吉岛99餐厅的点评及信息，介绍了一家由福建华裔经营的海鲜餐厅。这家餐厅以其符合中国人口味的菜品而闻名，且在餐厅中有进行服务的变装者，其中一些能够说中文。文件详细列出了99餐厅的地址、联系方式和人均消费情况，以及用户的评价与建议。评论内容丰富，涵盖了菜品的口味、环境等多方面的信息，例如自选海鲜、烧生蚝和椒盐皮皮虾等特色菜。用户评论包含时间戳，反映了客人对餐厅的真实体验和感受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,10 +116,10 @@ V7MM+96Q, Pa Tong, Kathu District, Phuket 83150, Thailand
 | Size            | 4892 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 马蜂窝攻略组                               |
+| Region          | 泰国普吉岛                               |
+| Date            | 2024-02-19                                 |
+| Tags            | 餐厅攻略, 海鲜, 福建华裔, 变装者服务员, 普吉岛景点, 用户点评, 餐厅介绍, 旅游, 波达酒吧街, 马蜂窝旅游网                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -74,7 +74,7 @@ Chin J Plast Surg, 2009, 25(4): 307-307. DOI: [10.3760/cma.j.issn.1009-4598.2009
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为《中华整形外科杂志》上发表的一篇病例报告，标题为《变性术后直肠阴道瘘一例》。报告由李庆伟、于潇华和唐胜建三位作者撰写，发表于2009年7月25日。文中描述了一例接受变性手术的患者在术后发生直肠阴道瘘的情况。变性术是为易性癖患者所提供的重要手术治疗之一，虽然在我国此类手术并不普及，但仍有数万人潜在需要接受相关手术。作者回顾了自2000年7月到2007年9月之间，我院进行的8例变性手术中发生并发症的情况，以期为同行提供借鉴及经验教训。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,10 +87,10 @@ Chin J Plast Surg, 2009, 25(4): 307-307. DOI: [10.3760/cma.j.issn.1009-4598.2009
 | Size            | 2171 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 李庆伟, 于潇华, 唐胜建                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-07-25                                 |
+| Tags            | 变性术, 直肠阴道瘘, 病例报告, 中华整形外科杂志, 易性癖, 整形外科, 手术并发症, 医疗资源, 性别重塑, 医学研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

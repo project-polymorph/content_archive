@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了台湾知名跨性别网红小A辣（黄唯恩）分享婚姻观的短影片，引发网友们的热烈讨论。小A辣在社交媒体上提到，自己曾经渴望婚姻，但随着时间推移和社会现实的考量，她开始对婚姻产生疑虑。婚后的生活会包含家庭矛盾、育儿开支等压力，导致她对婚姻的看法转变。她在贴文中表示，愛的人不一定非得进婚姻，引导网友们讨论各自的立场，绝大多数留言表达了支持“单身自由”的观点。此篇报道反映了当代年轻人对婚姻观念的转变和对于家庭生活的深思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 3179 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 何旻謙                               |
+| Region          | 台湾                               |
+| Date            | 2024-11-09                                 |
+| Tags            | 跨性别, 小A辣, 黄唯恩, 性别重置手术, 婚姻, 感情, 家庭, 育儿, 社会观念, 年轻人                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

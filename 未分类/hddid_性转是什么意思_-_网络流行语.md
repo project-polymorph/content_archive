@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件中详细介绍了“性转”这一网络流行语的含义，特别是在ACG（动画、漫画、游戏）文化中的应用。性转指的是性别的转换，例如男性角色变成女性角色或相反的情景。这种现象常见于同人作品中，比如《天降之物》中的男主通过量子转换器变为女性，或《我家有个狐仙大人》中狐仙的性别转换能力。本文件提供了一些例子来说明性转的概念，并鼓励读者参与编辑完善词条。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,10 +46,10 @@
 | Size            | 1031 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2022-10-31                                 |
+| Tags            | 性转, 网络流行语, ACG, 同人作品, 性别转换, 动漫, 词汇, 文化现象, 性别表达, 社会语言学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

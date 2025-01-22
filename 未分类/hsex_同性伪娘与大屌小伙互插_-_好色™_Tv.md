@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一个与同性伪娘与大屌小伙互插相关的内容，属于多元性别领域的情色视频。视频由作者康康2011创作，时长07:32，并在2020年6月18日发布。视频中展示了同性间的互动，通过一些相关的直播推荐和作者其他作品进行补充，与该主题相近的内容也在附件中有所列出。文件中包含了一些推荐视频，这些视频均涉及同性恋主题和相关内容，展示了多元性别群体的情感和生理互动。而在内容的呈现上，使用了直白的叙述来吸引观众。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,10 +62,10 @@
 | Size            | 2334 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 康康2011                               |
+| Region          | 未知                               |
+| Date            | 2020-06-18                                 |
+| Tags            | 多元性别, 同性恋, 视频内容, 情色, 伪娘, 互动, 情感, 社会性别, 直播推荐, 短视频                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

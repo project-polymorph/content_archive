@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别者在获得“性别不安诊断证明”（GD证明）后，在就业、经济与健康方面面临的诸多挑战。随着性别意识的多元化发展，跨性别者仍在职场和医疗领域遭遇不平等待遇，尤其是在获得GD证明的过程中，面临高门槛与财务压力。研究指出，只有少数跨性别者成功更改法定性别，而大部分人由于缺乏适当的支持与接受，仍维持在经济低迷状态。此外，文章分析了跨性别者自杀风险的原因，以及当前社会支持体系的缺失，并呼吁政策的改善以确保跨性别权益的保护。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@
 | Size            | 4559 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 陈语萱、刘育欣                               |
+| Region          | 台湾                               |
+| Date            | 2024-04-02                                 |
+| Tags            | 多元性别, 跨性别者, 性别不安, 就业, 经济, 健康, 法律政策, 社会环境, 心理健康, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

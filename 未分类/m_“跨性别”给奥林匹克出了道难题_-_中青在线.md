@@ -111,7 +111,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了近期发生在巴黎奥运会上的跨性别选手安杰拉·卡里尼在拳击比赛中弃赛的事件，深入剖析了这一事件引发的关于跨性别者参与体育比赛的广泛讨论。文章回顾了跨性别运动员在奥运会的历史，如新西兰的劳蕾尔·哈伯德和南非的塞门亚，探讨其面临的生物优势、性别歧视和公平性问题。同时，文章也提及了国际奥委会和国际拳击协会在性别政策上的分歧，强调全球范围内关于性别问题的争论从未停止。通过对这些争议的分析，文章指出，建立一套行之有效且公平的参赛规则至关重要。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -124,10 +124,10 @@
 | Size            | 10693 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 澎湃新闻                               |
+| Region          | 未知                               |
+| Date            | 2024-08-03                                 |
+| Tags            | 跨性别运动员, 巴黎奥运会, 安杰拉·卡里尼, 性别政策, 性别歧视, 奥林匹克运动, 体育争议, 劳蕾尔·哈伯德, 塞门亚, 国际拳击协会, 公平性, 生物学优势                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

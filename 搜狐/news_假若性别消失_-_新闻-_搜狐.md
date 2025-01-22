@@ -89,7 +89,7 @@ IOC医学委员会主席林奎斯特强调：“变性人问题已经到了非�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了国际奥委会允许变性人参与奥运会的历史性决定，反映了社会对性别界定的逐渐宽容与认可。文章详细解析了IOC此项决策的背景，以及变性人面临的社会与法律问题。作者吕娟通过专家的观点，探讨了性别认同的复杂性，强调了对这些边缘人群人权的尊重与社会认同。此外，文章也引发了对性别未来的讨论，考虑到现代科技的发展和社会文化的演变，性别的定义和存在是否还有必要的问题。整篇文章呈现出对多元性别话题的深入探讨，揭示了变性人在体育领域以及更广泛社会中所面对的挑战与期待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,10 +102,10 @@ IOC医学委员会主席林奎斯特强调：“变性人问题已经到了非�
 | Size            | 12021 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 吕娟                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-01-07                                 |
+| Tags            | 性别, 变性人, 国际奥委会, 社会进步, 人权, 体育, 法律问题, 文化变迁, 边缘人群, 心理认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

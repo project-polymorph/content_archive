@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文摘录了娱乐圈中几位进行变性手术的知名人士，包括他们的基本信息、经历和成就。文中提到的艺人有台湾的张婷婷，她曾与大陆女子生子；湖南的刘诗涵，原名刘帅，强调了其转变历程；台湾艺人利菁的变性经历，以及知名形象设计师吉米的手术宣布。此外，金星作为著名现代舞蹈家的转变故事也被详细叙述。通过这些故事，本文揭示了多元性别群体在社会和文化中的位置与挑战，并反映了对变性手术的普遍认知和接受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,10 +58,10 @@
 | Size            | 1393 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 张婷婷                               |
+| Region          | 台湾                               |
+| Date            | 2016-11-08                                 |
+| Tags            | 变性手术, 多元性别, 娱乐圈, 张婷婷, 刘诗涵, 利菁, 吉米, 金星, 跨性别, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

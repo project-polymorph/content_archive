@@ -60,7 +60,7 @@ Copyright © Since 2005 JINT All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《人妖性生活影视大全》欧美剧，主要收录了与多元性别相关的影视作品和资源，尤其集中在表现人妖文化和生活方式的欧美剧集。文件中包含多个链接，可能指向不同的影视作品和相关的记忆训练软件等。内容涉及如何通过观看这些剧集进行思考和学习，可能影响观众对多元性别群体的理解与认同。整体上，文件意图推广与多元性别相关的影视文化，并提供多样化的观看资源。此文件未提供明确的摘要信息，且附带了一些商业推广和技术内容，对回应的多元性别话题所起的作用相对有限。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@ Copyright © Since 2005 JINT All Rights Reserved
 | Size            | 2810 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 人妖文化, 欧美剧, 影视作品, 生活方式, 文化认同, 社会性别, 生活故事, 性别认同, 影视资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -592,7 +592,7 @@ Her early music was recorded under her birth name and assigned gender. 她早期
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是《剑桥词典》中关于性别相关词汇的简体中文与英语翻译，为广大用户提供性别概念的多种解释及应用示例。本词典包含了与性别相关的一系列词汇，解释了性别的定义及其在不同上下文中的使用。包括基础词汇如“性别”、“性别主义”、“误判性别”等，详细说明了其在语境中的意义和具体用法。例如，“性别”被定义为男性或女性的状态，而“性别歧视”则是基于某种性别的偏见。文件还提供了多个与性别表达、性别差距、性别二元论等相关的词汇，帮助用户更深入地理解性别问题及相关的社会文化现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -605,10 +605,10 @@ Her early music was recorded under her birth name and assigned gender. 她早期
 | Size            | 22907 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 剑桥词典                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别, 性别主义, 误判性别, 性别表达, 性别差距, 性别二元论, 性别焦虑, 性别揭晓, 性别平等, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

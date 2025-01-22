@@ -43,7 +43,7 @@ _变性手术后要吃激素吗_，不要慌，看完这个你就知道了！
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性手术后对激素补充的必要性，详细介绍了变性人术后需长期服用激素以维持身体激素水平和性别特征。内容包括变性手术后的激素补充方法、不同性别变性者所需的激素种类（如女性变男性需要服用雄激素，男性变女性则需长时间服用雌激素），以及不服用激素后可能出现的后果。此外，文章还涉及胸部缩小手术的费用、术后注意事项，以及对饮食和生活习惯的建议。强调术后需遵循医生指导，保持良好的生活习惯和定期体检以确保身体健康。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,10 +56,10 @@ _变性手术后要吃激素吗_，不要慌，看完这个你就知道了！
 | Size            | 3886 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 激素补充, 雌激素, 雄激素, 性别特征, 医疗建议, 生活习惯, 术后护理, 胸部缩小手术, 变性人                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档围绕变性手术展开讨论，包含多个方面的信息，旨在为关注变性手术的人士提供相关案例与医学知识。正文部分介绍了变性手术的相关讨论，配有多张重要图片，视觉上辅助理解手术过程。文件中列出了多位参与手术的医生，包括健康博主和医院的专业医师，指出他们的职务、医院以及社交媒体上的关注者数量。内容还涵盖了两个个案分享，分别记录了手术的具体时间、地点、手术团队和手术背景，同时附有相关链接供进一步阅读和讨论。此外，文件中包含了一些与变性手术相关的讨论和3D动画演示链接，丰富了对变性手术的理解。特别注意到，文件末尾提到，所有内容的版权归原作者所有，且不代表本平台观点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,10 +81,10 @@
 | Size            | 2969 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 微博用户                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-05-13                                 |
+| Tags            | 变性手术, 跨性别, 医学科普, 克氏综合征, 低促性腺激素性性腺功能减退症, 个案分享, 医疗资源, 讨论案例, 3D动画, 医学信息                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

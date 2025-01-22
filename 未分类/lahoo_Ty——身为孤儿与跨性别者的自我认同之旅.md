@@ -95,7 +95,7 @@ _*文中照片均由作者提供*_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了Ty的成长故事，他是一名来自中国、在加拿大被收养的跨性别者。文章通过Ty的个人经历，探讨了家庭、文化、身份认同和社会接受等主题。Ty从孤儿院被收养后，享受到了充满爱与支持的成长环境。然而，随着青春期的到来，Ty面临了来自学校、同龄人和内心深处的巨大的身份冲突。他曾试图以女性身份融入女子学校，但最终选择了真实的自我，并启动了性别转变的过程。在经历失去母亲的悲痛以及在学校内外对跨性别身份的挑战后，Ty勇敢地走出了自己的路。他不仅努力探索自己的性别身份，还通过创作短片《Breaking Silence》来讲述跨性别群体的故事，并引发对单性别学校中多样性与包容性的讨论。文章结尾，Ty希望通过自己的经历与创作，激励更多人做自己，并呼吁社会对多元性别的理解与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,10 +108,10 @@ _*文中照片均由作者提供*_
 | Size            | 10899 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 加拿大                               |
+| Date            | 2024-10-30                                 |
+| Tags            | 多元性别, 跨性别, 自我认同, 领养, 生命故事, 文化, 教育环境, 社会接受, 性别转变, 青少年心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

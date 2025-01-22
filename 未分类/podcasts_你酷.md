@@ -78,7 +78,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《你酷》是一档以中文呈现的泛酷儿类播客，致力于探索多元性别与社会文化的各类主题。节目覆盖的内容包括社会学、心理学、亚文化、书影音等，旨在通过闲谈的方式为听众提供一个开放的平台，讨论与多元性别相关的各种话题。播客以其独特的酷儿视角，发表了诸多引人深思的观点，并鼓励听众参与其中。节目的主要栏目包括推荐书单、对话访谈及文化观察，涉及家庭关系、性别友好环境和经典书籍等多个方面。节目通过轻松有趣的对话和深刻的社会观察，展现了多样化的酷儿文化与生活经验，致力于为广大听众传递正能量与启发。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,10 +91,10 @@
 | Size            | 3712 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 酒标、曲奇                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-12-20                                 |
+| Tags            | 多元性别, 播客, 酷儿文化, 社会学, 心理学, 非传统家庭, 性别友好, 书籍推荐, 文化观察, 性取向                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由寒涟漪撰写，探讨了跨性别女性如何面对性别焦虑的话题。文章首先强调了性别焦虑的普遍性以及个体在识别和确认自己性别身份过程中的重要性。作者建议，在面临性别焦虑时，个体应该给予自己充足的时间，通过慢慢体验、观察和反思来舒缓焦虑情绪。文中也提到关于饮食习惯（例如吃糖与否）以及可能考虑的手术选择，这些都是跨性别者在过渡过程中可能遇到的重要问题。此外，文章提供了一些建议，帮助读者识别自身的性别焦虑与身份认同，鼓励人们踏上探索自我身份的旅程。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@
 | Size            | 1257 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 寒涟漪                               |
+| Region          | 未知                               |
+| Date            | 2023-02-12                                 |
+| Tags            | 性别焦虑, 跨性别, 性别身份认同, 过渡经历, 性别认同, 心理健康, 生活指导, 个人经验, 社会支持, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

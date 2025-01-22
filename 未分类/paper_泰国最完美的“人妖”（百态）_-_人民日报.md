@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章讲述了泰国杰出变性人侬可的生平故事与经历。侬可出生时是个男孩，但她内心深处认同女性身份。文章详细描述了她从小在家中和学校的经历，包括在父亲的严格教育下，她始终感受到与男性世界的格格不入。为了追寻自己真正的性别认同，侬可在16岁时以奖学金和选美比赛的奖金筹集资金，成功进行了变性手术。文章还提到她成为了著名的偶像，努力在政界取得一席之地，并积极参与选美比赛，最终获得了泰国人妖选美第一名。侬可通过她的故事，表达了对改变社会对变性人看法的渴望，以及她追求自我的坚定信念。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@
 | Size            | 7412 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 刘歌                               |
+| Region          | 泰国                               |
+| Date            | 2006-09-01                                 |
+| Tags            | 多元性别, 变性人, 泰国, 侬可, 性别认同, 选美, 个人故事, 政治参与, 社会认知, 医疗经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文《跨性別者釋放靈魂的艱辛旅途──《變身妮可》》探讨了跨性别者在社会中面临的挑战与过渡经历。文章以克莉絲汀．約振森（Christine Jorgensen）为案例，回顾了历史上首位接受性别重建手术的美国人，讨论了她的经历如何反映出性别认同与生理性别之间的差距。内容通过瑞默尔的故事，揭示了当时对性别认知的局限性。文章还探讨了社会对于性别的接受度，尤其是在1950年代，性别被普遍视为天生且在出生时即已决定的观点是如何被打破的。附带的相关标签涵盖了性别平等、性别认同及跨性别等主题，为读者提供了多元视角与思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,10 +38,10 @@
 | Size            | 1573 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 时報出版                               |
+| Region          | 未知                               |
+| Date            | 2017-06-14                                 |
+| Tags            | 跨性别, 性别认同, 性别光谱, 心理性别, 性别判定, 间性人, 不平等, 生存现状, 变身妮可, 历史案例                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

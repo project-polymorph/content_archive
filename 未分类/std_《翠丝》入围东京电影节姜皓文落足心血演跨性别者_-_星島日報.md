@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了电影《翠丝》，该片由演员姜皓文和惠英红主演，聚焦跨性别者的生活与挑战。文章报导了该电影入围第31届东京国际电影节的消息，姜皓文在影片中饰演一个跨性别角色。他在角色准备过程中投入了大量心血，感受到极大的情感压力。姜皓文表达了对能够参与这样一部重要作品的激动心情，并分享了在拍摄期间得到妻子的支持，决定一同出席电影节。电影的先导海报和预告片中呈现了主角对跨性别身份的渴望，展现了其独特的故事背景，为观众呈现了一个可能受到误解和挣扎的群体。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,10 +47,10 @@
 | Size            | 2484 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 星岛日报                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 电影, 《翠丝》, 姜皓文, 东京电影节, 惠英红, 生存现状, 艺术表现, 情感经历, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

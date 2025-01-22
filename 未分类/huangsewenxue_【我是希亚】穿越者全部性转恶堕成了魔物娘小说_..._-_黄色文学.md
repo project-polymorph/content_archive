@@ -187,7 +187,7 @@ MWG在得知了面壁者计划立即制订了破壁者计划，给前三位穿�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说大纲名为《穿越者全部性转恶堕成了魔物娘》，作者为"我是希亚"，出自黄色文学。故事围绕主角李林展开，他是一名普通员工，因女友的病娇性格而遭受威胁，最终在绝望中丧生。然而，他在死后遇见了女神，并被许诺穿越到异世界，获得无敌的能力，然而这一能力却有限制。主角穿越至魔物和人类对抗的异世界，开始了一段艰难的冒险。在战斗中，主角结识了其他穿越者和伙伴，但随着时间推移，越来越多的真相被揭示，他发现魔物的内卷与人类的堕落息息相关。故事结合了勇气、友情、绝望和转变，以及对生存和人性的深刻思考。最终，故事揭示了力量的代价和人性中最阴暗的一面，以及主角对抗命运的无奈与绝望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -200,10 +200,10 @@ MWG在得知了面壁者计划立即制订了破壁者计划，给前三位穿�
 | Size            | 15884 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 我是希亚                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 小说, 穿越, 性转, 恶堕, 魔物娘, 百合, R-18, 调教, 反乌托邦, 幻想文学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

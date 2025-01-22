@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档来自微博，讨论了有关“男娘”这一多元性别视角的话题。男娘通常指的是一些男性在外表和行为上表现出女性化特征的人群，涉及到性别认同和性别表达的多元性。文件中包含了微博用户的动态和讨论，或许还包括相关的生活分享、经验交流等内容。尽管具体文本内容未完全展示，但可以推测，这一讨论环境为男娘群体或对其感兴趣的人士提供了一个交流平台。在当今社会，性别认同与表达的多样性受到越来越多的重视，因此理解男娘这一群体对于促进性别平等和社会包容具有重要意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,10 +59,10 @@
 | Size            | 980 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 性别认同, 性别表达, 多元性别, 微博讨论, 生活故事, 社会包容, 性别平等, 性别话题,  LGBTQ+社群                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

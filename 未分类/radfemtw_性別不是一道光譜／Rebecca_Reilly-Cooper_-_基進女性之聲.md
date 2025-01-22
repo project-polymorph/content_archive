@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是由Rebecca Reilly-Cooper撰写，刊登在《基进女性之声》上，探讨了性别的非线性特征，认为性别并不像传统上所認為的那样仅限于男女性别的二元划分。作者通过理论分析和个人经历，强调性别作为一个光谱的概念，提倡更加包容的性别认同，鼓励人们超越传统认知，理解和接纳多元性的存在。这篇文章引发了广泛的社会讨论，鼓励读者分享自己的观点和经历。同时，文中还提到了相关研究和参考资料，为读者提供了进一步阅读的资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,10 +43,10 @@
 | Size            | 789 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Rebecca Reilly-Cooper                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别, 多元性别, 女性主义, 性别光谱, 社会讨论, 个人经历, 性别认同, 包容性, 理论分析, 基进女性之声                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -67,7 +67,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一起发生在青岛的盗窃事件，事件的嫌疑人是一个43岁的男性，他在被捕时穿着女性服装内衣，暴露出其有异装癖的特征。他在美容店内偷取了价值超过19000元的财物。文章详细描述了事件经过，包括其作案过程、被警方的追踪抓捕，以及嫌疑人对其行为的供述。警方曾调查发现嫌疑人有多次盗窃前科，而这一行为引发了关于个人自由和法律界限的讨论。文件尤其强调了嫌疑人对自己性别表达的认同与其违法行为之间的矛盾，认为个人穿着自由不应以法律为代价。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,10 +80,10 @@
 | Size            | 2885 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 青岛新闻网                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-03-29                                 |
+| Tags            | 盗窃事件, 异装癖, 犯罪嫌疑人, 青岛新闻, 美容店, 性别表达, 法律与自由, 警方追踪, 社会问题, 犯罪心理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

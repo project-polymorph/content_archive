@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![云青](//lain.bgm.tv/pic/user/l/000/77/67/776764.jpg?r=1719505993&hd=1)
+![云青](https://lain.bgm.tv/pic/user/l/000/77/67/776764.jpg?r=1719505993&hd=1)
 
 **作者：** 云青  
 **时间：** 2024-9-28 09:30  
@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文作者云青针对性转设定和伪娘设定进行了深入思考，探讨了这两种设定在动漫和游戏中的表现与受众偏好之间的关系。作者分析了性转设定下角色身体的表现，强调角色如何通过外形和特征实现"可以变得色气和可爱"的观感。内容中探讨了性转设定（女体化）与伪娘设定（常规型和秀吉型）的区别，指出了它们在角色表现、观感、身体特征上的显著差异。文中也涉及科幻与奇幻设定，将这些设定与所要传达的性别身份切换进行了联系，进一步阐释了这些设定在创作与接受中的复杂性和多元性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,10 +66,10 @@
 | Size            | 7675 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 云青                               |
+| Region          | 未知                               |
+| Date            | 2024-09-28                                 |
+| Tags            | 性转设定, 伪娘设定, 动漫, 角色观感, 女体化, 性别认同, 科幻设定, 奇幻设定, 角色差异, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

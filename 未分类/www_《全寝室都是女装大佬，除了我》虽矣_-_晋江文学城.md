@@ -7,7 +7,7 @@
 
 **更新时间：** 北京时间 25年1月15日 0:02
 
-![晋江文学城logo](//static.jjwxc.net/images/channel_2010/logo.gif)
+![晋江文学城logo](https://static.jjwxc.net/images/channel_2010/logo.gif)
 
 **一句话简介：** 欢乐情景喜剧，男寝下饭日常  
 **立意：** 友谊是长期努力的回报。
@@ -27,7 +27,7 @@
 3. 风格近似于日系寝室生活番、欧美系单元喜剧。主角没有cp，配角有各种性向的cp线，戏份不算多但存在且重要。
 4. 有任何雷点请立即弃文逃生。
 
-**内容标签：** [现代架空](//www.jjwxc.net/bookbase.php?bq=126) [成长](//www.jjwxc.net/bookbase.php?bq=183) [校园](//www.jjwxc.net/bookbase.php?bq=185) [日常](//www.jjwxc.net/bookbase.php?bq=268) [群像](//www.jjwxc.net/bookbase.php?bq=356)
+**内容标签：** [现代架空](https://www.jjwxc.net/bookbase.php?bq=126) [成长](https://www.jjwxc.net/bookbase.php?bq=183) [校园](https://www.jjwxc.net/bookbase.php?bq=185) [日常](https://www.jjwxc.net/bookbase.php?bq=268) [群像](https://www.jjwxc.net/bookbase.php?bq=356)
 
 ## 文章基本信息 { data-search-exclude }
 
@@ -36,7 +36,7 @@
 - **所属系列：** 连载中之女装大佬
 - **文章进度：** 连载
 - **全文字数：** 732028字
-- **版权转化：** 尚未出版（[联系出版](//www.jjwxc.net/aboutus/#fragment-29)）
+- **版权转化：** 尚未出版（[联系出版](https://www.jjwxc.net/aboutus/#fragment-29)）
 - **签约状态：** 已签约
 - **作品荣誉：** 尚无任何作品简评
 - **勤奋指数：** ![](//static.jjwxc.net/images/flowerofauthor.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)

@@ -86,7 +86,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于跨性别相关资源的汇总和指导文档，旨在为需要多元性别信息的人提供便捷的访问渠道。文中包括了各种资源链接，涵盖百科、论坛、微信公众号、护肤、衣着与化妆、饮食、性体验、群组、图书、影视作品、游戏等多个方面。这些资源主要面向多元性别群体，特别是跨性别者。这个资源列表不仅提供了实用的信息，还有社区支持的链接，能够帮助人们找到相关的互助群组和讨论平台。此外，文件还提到了一些跨性别相关的图书与影视作品，展现了社会对跨性别话题的关注与探索。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,10 +99,10 @@
 | Size            | 3112 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 资源列表, 多元性别, 社会支持, 医疗资源, 法律政策, 文学艺术, 真实记录, 论坛, 社区                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

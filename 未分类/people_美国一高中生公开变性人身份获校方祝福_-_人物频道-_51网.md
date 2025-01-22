@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了美国一名高中生艾萨克·巴奈特公开变性人身份并获得校方祝福的故事。长期以来，美国学校对变性学生持有排挤态度，变性学生面临无法使用更衣室和厕所的困境。然而，情况正在发生改变，特别是在加利福尼亚州等地开始立法保护变性学生的权利。艾萨克在堪萨斯的一所高中向同学和老师们讲述了自己的变性经历，希望能以男孩的身份被大家接受。令人欣慰的是，这所学校接纳了他们的身份并给予了支持，这在十年前是不可想象的。文章还提到，随着社会的进步，变性人权运动愈发受到重视，家长和各种组织正在努力为变性孩子争取平等的教育环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,10 +41,10 @@
 | Size            | 2531 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 环球网                               |
+| Region          | 美国                               |
+| Date            | 2014-05-23                                 |
+| Tags            | 变性人, 美国高中生, 性别认同, 校方支持, 变性人权运动, 加利福尼亚州, 平等教育, 社会接纳, 性别多样性, 校园故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

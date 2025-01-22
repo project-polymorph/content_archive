@@ -14,7 +14,7 @@
 
 众所周知，根据性别的不同，世界上存在男性和女性两种大脑。目前，来自美国的一项研究发现，变性人的大脑，是除了男性和女性以外具有单独特征的一类大脑。
 
-![早报](//www.cn-healthcare.com//skin/jkj/images/touxiang.png) ![暂停](//www.cn-healthcare.com//skin/jkj/images/zxm/playing.png) ![播放](//www.cn-healthcare.com//skin/jkj/images/zxm/pause.png)
+![早报](https://www.cn-healthcare.com//skin/jkj/images/touxiang.png) ![暂停](https://www.cn-healthcare.com//skin/jkj/images/zxm/playing.png) ![播放](https://www.cn-healthcare.com//skin/jkj/images/zxm/pause.png)
 
 一般来说，男女两种性别在大脑的容量、灰质体积以及皮质厚度等方面上存在一定差异。据俄亥俄州克利夫兰诊所的Altinay博士介绍：变性人的大脑是区别于男女两种性别以外独立存在的，至少从体积的角度来看，变性人的大脑介于男女两性大脑体积范围的中间地带。
 

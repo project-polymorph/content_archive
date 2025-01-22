@@ -9,7 +9,7 @@
 **有效期**: 2024-06-30 至 2025-06-30  
 **预约要求**: 请在当天17:30前预定  
 
-![供应商说卖点](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_header.png)
+![供应商说卖点](https://s.qunarzz.com/vacation_react/detail/d_sellingPoint_header.png)
 
 - ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_1.png) 缤纷景点东南亚首个真正的人妖秀表演，选秀举办地
 - ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_2.png) 丰富玩乐去泰国必看的表演之一
@@ -110,7 +110,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为泰国芭堤雅Tiffany's Show（蒂芬妮人妖秀）的门票出售信息，详细介绍了该表演的基本情况与特色。Tiffany's Show是东南亚首次举办的人妖秀，吸引了无数游客前来观看，演出时间分为三场，每场70分钟，座位分为多个档次，价格从200元起。观众需在演出前15分钟检票，且需遵守不拍照的规定。文件中还包含了关于预约、退款政策、旅游须知及供应商信息等重要事项。这些信息对于计划前往观看表演的游客具有重要的指导意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,10 +123,10 @@
 | Size            | 4777 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 人妖秀, 芭堤雅, Tiffany's Show, 表演门票, 旅游资源, 文化活动, 性别多元, 东南亚, 娱乐演出, 旅游信息                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

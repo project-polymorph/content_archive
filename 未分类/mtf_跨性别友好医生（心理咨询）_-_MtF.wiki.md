@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《跨性别友好医生（心理咨询）》旨在搜集能为跨性别人士提供心理支持与咨询的医疗资源。这些医生虽然熟悉跨性别相关问题，并能够提供有益帮助，但无权开具诊断证明。文件列出了来自不同省市的医生信息，包括医院名称、科室以及医生姓名，帮助需要心理咨询的个体更容易找到合适的专业人士以获得支持。此文档对于跨性别人士在寻求心理援助时是一个重要的资源，尤其是在中国的社会背景下，提供了实际的医疗联系与建议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,10 +36,10 @@
 | Size            | 970 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 心理咨询, 医疗资源, 友好医生, 心理健康, 医疗支持, 患者推荐, 跨性别友好, 心里健康资源, 医疗咨询                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇报道讲述了一名18岁女孩Emmie Smith在马塞诸塞州进行变性手术的经历。报道详细描述了Emmie的家庭如何支持她在变性过程中的决定，尤其是她的母亲Kate。虽然一开始对变性的知识匮乏，Kate的爱最终让她克服了对这个决定的震惊。Emmie选择让国家地理的摄影师记录她的手术过程，旨在鼓励更多的人勇敢接受自己。她表示，保守秘密是人生中最糟糕的部分，出柜不仅是个体的改变，也是一种社会的变化。这篇文章通过描述Emmie的手术过程、她与家人的相处，以及她初次出柜的感受，反映了变性人群体所面临的挑战与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,10 +77,10 @@
 | Size            | 3151 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2017-01-07                                 |
+| Tags            | 变性手术, 女性跨性别者, 家庭支持, 出柜经历, 媒体记录, 生命故事, 社会变迁, 自我认同, 变性故事, 公共态度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

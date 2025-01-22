@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《鲁保罗变装皇后秀英国版》是由Tony Grech-Smith执导的真人秀/游戏秀，首播于2019年。这部剧集展示了多元性别文化，鲁保罗和Michelle Visage作为主持和评委，参与评判参赛选手的表演和变装，强调对变装艺术和多元身份的认可。剧中不仅有丰富的竞赛环节，还有对选手背景故事的深入探讨，凸显了变装者在社会上所面临的挑战与光辉，赋予了观众对性别表现和文化多样性的理解和尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,10 +73,10 @@
 | Size            | 2083 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | Rubiel Productions                               |
+| Region          | 英国                               |
+| Date            | 2019-01-01                                 |
+| Tags            | 鲁保罗, 变装皇后秀, 真人秀, 性别认同, 多元性别, 文化多样性, 变装艺术, 性别表现, 社会挑战, 娱乐节目的影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

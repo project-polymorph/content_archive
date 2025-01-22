@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![「前辈是伪娘」配音后对谈#08](//i0.hdslb.com/bfs/archive/04a272b5f075b94400e62cbca27b673cecae68b1.jpg@518w_290h_1c_!web-video-share-cover.webp)
+![「前辈是伪娘」配音后对谈#08](https://i0.hdslb.com/bfs/archive/04a272b5f075b94400e62cbca27b673cecae68b1.jpg@518w_290h_1c_!web-video-share-cover.webp)
 
 - 发布时间：2024-08-30 10:23:47
 
@@ -18,23 +18,23 @@
 - 当前视频无字幕
 
 ## 标签 { data-search-exclude }
-- [番剧](//www.bilibili.com/anime/)
-- [直播](//live.bilibili.com)
-- [游戏中心](//game.bilibili.com/platform)
-- [会员购](//show.bilibili.com/platform/home.html?msource=pc_web)
-- [漫画](//manga.bilibili.com?from=bill_top_mnav)
-- [赛事](//www.bilibili.com/match/home/)
-- [大会员](//account.bilibili.com/big)
+- [番剧](https://www.bilibili.com/anime/)
+- [直播](https://live.bilibili.com)
+- [游戏中心](https://game.bilibili.com/platform)
+- [会员购](https://show.bilibili.com/platform/home.html?msource=pc_web)
+- [漫画](https://manga.bilibili.com?from=bill_top_mnav)
+- [赛事](https://www.bilibili.com/match/home/)
+- [大会员](https://account.bilibili.com/big)
 
 ## 发布者 { data-search-exclude }
 - 用户名：轩
-- 用户链接：[轩的个人空间](//space.bilibili.com/391100)
+- 用户链接：[轩的个人空间](https://space.bilibili.com/391100)
 
 ## 相关链接 { data-search-exclude }
-- [关根明良](//search.bilibili.com/all?keyword=%E5%85%B3%E6%A0%B9%E6%98%8E%E8%89%AF&from_source=video_tag)
-- [前辈是伪娘](//search.bilibili.com/all?keyword=%E5%89%8D%E8%BE%88%E6%98%AF%E4%BC%AA%E5%A8%98&from_source=video_tag)
-- [梅田修一朗](//search.bilibili.com/all?keyword=%E6%A2%85%E7%94%B0%E4%BF%AE%E4%B8%80%E6%9C%97&from_source=video_tag)
-- [内田雄马](//search.bilibili.com/all?keyword=%E5%86%85%E7%94%B0%E9%9B%84%E9%A9%AC&from_source=video_tag)
+- [关根明良](https://search.bilibili.com/all?keyword=%E5%85%B3%E6%A0%B9%E6%98%8E%E8%89%AF&from_source=video_tag)
+- [前辈是伪娘](https://search.bilibili.com/all?keyword=%E5%89%8D%E8%BE%88%E6%98%AF%E4%BC%AA%E5%A8%98&from_source=video_tag)
+- [梅田修一朗](https://search.bilibili.com/all?keyword=%E6%A2%85%E7%94%B0%E4%BF%AE%E4%B8%80%E6%9C%97&from_source=video_tag)
+- [内田雄马](https://search.bilibili.com/all?keyword=%E5%86%85%E7%94%B0%E9%9B%84%E9%A9%AC&from_source=video_tag)
 
 ## 互动信息 { data-search-exclude }
 - 投币：5

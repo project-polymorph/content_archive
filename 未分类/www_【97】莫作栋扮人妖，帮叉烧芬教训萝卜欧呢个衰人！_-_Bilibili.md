@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![截图](//i0.hdslb.com/bfs/archive/f8ce6b602454753b6f5710a9ac06be2edf55973c.jpg@100w_100h_1c.webp)
+![截图](https://i0.hdslb.com/bfs/archive/f8ce6b602454753b6f5710a9ac06be2edf55973c.jpg@100w_100h_1c.webp)
 
 ## 信息 { data-search-exclude }
 
@@ -131,7 +131,7 @@
 112. 莫作栋有一个咁好嘅老婆，可惜条命随时都有可能冇咗！
 113. 莫作栋同vivi结婚当日，莫作栋去追个贼！
 
-![封面](//i0.hdslb.com/bfs/archive/f8ce6b602454753b6f5710a9ac06be2edf55973c.jpg@518w_290h_1c_!web-video-share-cover.webp)
+![封面](https://i0.hdslb.com/bfs/archive/f8ce6b602454753b6f5710a9ac06be2edf55973c.jpg@518w_290h_1c_!web-video-share-cover.webp)
 <!-- tcd_original_link https://www.bilibili.com/video/BV1HsYJePEtU/?spm_id_from=333.788.recommend_more_video.17 -->
 
 

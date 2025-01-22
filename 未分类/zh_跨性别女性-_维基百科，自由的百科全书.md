@@ -3,25 +3,25 @@
 ## 正文 { data-search-exclude }
 
 
-![本页使用了标题或全文手工转换](//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png)
+![本页使用了标题或全文手工转换](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png)
 
-![重要](//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png)
+![重要](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png)
 
 此条目存在以下问题，请协助[改善本条目](https://zh.wikipedia.org/w/index.php?title=%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7&action=edit)或在[讨论页](https://zh.wikipedia.org/wiki/Talk:%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7)针对议题发表看法。
 
-![更新](//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png)
+![更新](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png)
 
 此条目**需要更新**。 _(2020年2月26日)_ 请更新本文以反映近况和新增内容。完成修改后请移除本模板。
 
-![翻译](//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png)
+![翻译](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Translation_to_zh_arrow.svg/50px-Translation_to_zh_arrow.svg.png)
 
 此条目**可参照[英语维基百科](https://en.wikipedia.org/wiki/Trans_woman)相应条目来扩充**。若您熟悉来源语言和主题，请协助[参考外语维基百科扩充条目](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BF%BB%E8%AF%91%E5%AE%88%E5%88%B6)。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依[版权协议](https://zh.wikipedia.org/wiki/Wikipedia:%E5%9C%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%86%85%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9) ，译文需在编辑摘要注明来源，或于讨论页顶部标记`{{Translated page}}`标签。
 
-![重要](//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png)
+![重要](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png)
 
 此条目需要**精通或熟悉[性别](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5)**、[社会学](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%AD%A6)的编者**参与及协助编辑。 _(2022年12月21日)_ 请[邀请](https://zh.wikipedia.org/wiki/Wikipedia:%E5%B0%88%E5%AE%B6%E9%82%80%E8%AB%8B%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%B5%84)适合的人士[改善本条目](https://zh.wikipedia.org/w/index.php?title=%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7&action=edit)。更多的细节与详情请参见[讨论页](https://zh.wikipedia.org/wiki/Talk:%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7)。另见其他[需要性别专家关注的页面](https://zh.wikipedia.org/wiki/Category:%E9%9C%80%E8%A6%81%E6%80%A7%E5%88%A5%E5%B0%88%E5%AE%B6%E9%97%9C%E6%B3%A8%E7%9A%84%E9%A0%81%E9%9D%A2)。
 
-[![全球跨性别小姐](//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Trans_Global_2020_Official_Photoshhot.jpg/220px-Trans_Global_2020_Official_Photoshhot.jpg)](https://zh.wikipedia.org/wiki/File:Trans_Global_2020_Official_Photoshhot.jpg)
+[![全球跨性别小姐](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Trans_Global_2020_Official_Photoshhot.jpg/220px-Trans_Global_2020_Official_Photoshhot.jpg)](https://zh.wikipedia.org/wiki/File:Trans_Global_2020_Official_Photoshhot.jpg)
 
 Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E8%B7%A8%E6%80%A7%E5%88%A5%E5%B0%8F%E5%A7%90)冠军
 
@@ -102,59 +102,59 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 
 在21世纪以前，电视、电影、新闻以及其他形式的媒体中的跨性别代表人物很少。早期主流媒体对于跨性别女性的现实和虚构描述几乎总是依赖于常见的桥段和[刻板印象](https://zh.wikipedia.org/wiki/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1)。不过，随着[跨性别权益运动](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%AC%8A%E7%9B%8A%E9%81%8B%E5%8B%95)的发展，媒体中对于跨性别者的描绘也随之变得更普遍和正面。例如，[金星](https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F_%28%E8%88%9E%E8%80%85%29)（中国舞蹈家）、[沃卓斯基姐妹](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%8D%93%E6%96%AF%E5%9F%BA%E5%A7%90%E5%A6%B9)（导演《[黑客帝国](https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD)》三部曲）、[杭特·薛佛](https://zh.wikipedia.org/wiki/%E6%9D%AD%E7%89%B9%C2%B7%E8%96%9B%E4%BD%9B)（出演HBO影集[高校十八禁](https://zh.wikipedia.org/wiki/%E4%BA%A2%E5%A5%8B_%28%E7%94%B5%E8%A7%86%E5%89%A7%29)）、[金·彼特拉斯](https://zh.wikipedia.org/wiki/%E9%87%91%C2%B7%E5%BD%BC%E7%89%B9%E6%8B%89%E6%96%AF)（德国歌手）等人都是21世纪知名的跨性别女演员或明星。
 
-- ![金星](//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jin_Xing_at_WEForum_%28sq_cropped%29.jpg/180px-Jin_Xing_at_WEForum_%28sq_cropped%29.jpg)
+- ![金星](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jin_Xing_at_WEForum_%28sq_cropped%29.jpg/180px-Jin_Xing_at_WEForum_%28sq_cropped%29.jpg)
     
     [金星](https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F_%28%E8%88%9E%E8%80%85%29)
 
-- ![杭特·薛佛](//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hunter_Schafer_-_Suru_Suru_video%2C_July_2021.png/127px-Hunter_Schafer_-_Suru_Suru_video%2C_July_2021.png)
+- ![杭特·薛佛](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hunter_Schafer_-_Suru_Suru_video%2C_July_2021.png/127px-Hunter_Schafer_-_Suru_Suru_video%2C_July_2021.png)
 
     [杭特·薛佛](https://zh.wikipedia.org/wiki/%E6%9D%AD%E7%89%B9%C2%B7%E8%96%9B%E4%BD%9B)
 
-- ![金·彼特拉斯](//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kim_Petras_%2842743719761%29_%28a%29.jpg/135px-Kim_Petras_%2842743719761%29_%28a%29.jpg)
+- ![金·彼特拉斯](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kim_Petras_%2842743719761%29_%28a%29.jpg/135px-Kim_Petras_%2842743719761%29_%28a%29.jpg)
 
     [金·彼特拉斯](https://zh.wikipedia.org/wiki/%E9%87%91%C2%B7%E5%BD%BC%E7%89%B9%E6%8B%89%E6%96%AF)
 
-- ![拉娜·沃卓斯基](//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lana_Wachowski_-_TIFF_2012_%287960740126%29.jpg/120px-Lana_Wachowski_-_TIFF_2012_%287960740126%29.jpg)
+- ![拉娜·沃卓斯基](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lana_Wachowski_-_TIFF_2012_%287960740126%29.jpg/120px-Lana_Wachowski_-_TIFF_2012_%287960740126%29.jpg)
 
     [拉娜·沃卓斯基](https://zh.wikipedia.org/wiki/%E6%8B%89%E5%A8%9C%C2%B7%E6%B2%83%E5%8D%93%E6%96%AF%E5%9F%BA)
 
-- ![莉莉·艾尔伯](//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lili_Elbe_1930.jpg/93px-Lili_Elbe_1930.jpg)
+- ![莉莉·艾尔伯](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lili_Elbe_1930.jpg/93px-Lili_Elbe_1930.jpg)
 
     [莉莉·艾尔伯](https://zh.wikipedia.org/wiki/%E8%8E%89%E8%8E%89%C2%B7%E8%89%BE%E5%B0%94%E4%BC%AF)
 
-- ![拉薇安·考克斯](//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Laverne_Cox_by_Sachyn_Mital_cropped.jpg/96px-Laverne_Cox_by_Sachyn_Mital_cropped.jpg)
+- ![拉薇安·考克斯](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Laverne_Cox_by_Sachyn_Mital_cropped.jpg/96px-Laverne_Cox_by_Sachyn_Mital_cropped.jpg)
 
     [拉薇安·考克斯](https://zh.wikipedia.org/wiki/%E6%8B%89%E8%96%87%E5%AE%89%C2%B7%E8%80%83%E5%85%8B%E6%96%AF)
 
-- ![ContraPoints](//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Natalie_Wynn_%28ContraPoints%29_portrait_1_%28cropped%29.jpg/135px-Natalie_Wynn_%28ContraPoints%29_portrait_1_%28cropped%29.jpg)
+- ![ContraPoints](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Natalie_Wynn_%28ContraPoints%29_portrait_1_%28cropped%29.jpg/135px-Natalie_Wynn_%28ContraPoints%29_portrait_1_%28cropped%29.jpg)
 
     [ContraPoints](https://zh.wikipedia.org/wiki/ContraPoints)
 
-- ![克里斯汀·乔根森](//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christine_Jorgensen_1954.jpg/142px-Christine_Jorgensen_1954.jpg)
+- ![克里斯汀·乔根森](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christine_Jorgensen_1954.jpg/142px-Christine_Jorgensen_1954.jpg)
 
     [克里斯汀·乔根森](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E6%B1%80%C2%B7%E4%B9%94%E6%A0%B9%E6%A3%AE)
 
-- ![La Veneno](//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%C2%A1Digo%21_Ni_Puta_Ni_Santa._Las_memorias_de_La_Veneno%2C_la_entrevista.mp4_snapshot_00.05_%282020.03.29_23.08.57%29.png/180px-%C2%A1Digo%21_Ni_Puta_Ni_Santa._Las_memorias_de_La_Veneno%2C_la_entrevista.mp4_snapshot_00.05_%282020.03.29_23.08.57%29.png)
+- ![La Veneno](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%C2%A1Digo%21_Ni_Puta_Ni_Santa._Las_memorias_de_La_Veneno%2C_la_entrevista.mp4_snapshot_00.05_%282020.03.29_23.08.57%29.png/180px-%C2%A1Digo%21_Ni_Puta_Ni_Santa._Las_memorias_de_La_Veneno%2C_la_entrevista.mp4_snapshot_00.05_%282020.03.29_23.08.57%29.png)
 
     [La Veneno](https://zh.wikipedia.org/wiki/La_Veneno)
 
-- ![洁丝·詹宁斯](//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jazz_Jennings_2016_%28cropped%29.jpg/131px-Jazz_Jennings_2016_%28cropped%29.jpg)
+- ![洁丝·詹宁斯](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jazz_Jennings_2016_%28cropped%29.jpg/131px-Jazz_Jennings_2016_%28cropped%29.jpg)
 
     [洁丝·詹宁斯](https://zh.wikipedia.org/wiki/%E6%B4%81%E4%B8%9D%C2%B7%E8%A9%B9%E5%AE%81%E6%96%AF)
 
-- ![苏菲](//upload.wikimedia.org/wikipedia/commons/thumb/0/05/SOPHIE_at_LadyLand_Festival.png/161px-SOPHIE_at_LadyLand_Festival.png)
+- ![苏菲](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SOPHIE_at_LadyLand_Festival.png/161px-SOPHIE_at_LadyLand_Festival.png)
 
     [苏菲](https://zh.wikipedia.org/wiki/Sophie_%28musician%29)
 
-- ![劳拉·简·格雷斯](//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Against_Me%21_%40_Dour_2012_%287875340580%29.jpg/180px-Against_Me%21_%40_Dour_2012_%287875340580%29.jpg)
+- ![劳拉·简·格雷斯](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Against_Me%21_%40_Dour_2012_%287875340580%29.jpg/180px-Against_Me%21_%40_Dour_2012_%287875340580%29.jpg)
 
     [劳拉·简·格雷斯](https://zh.wikipedia.org/wiki/Laura_Jane_Grace)
 
-- ![西尔维亚·里维拉](//upload.wikimedia.org/wikipedia/commons/thumb/0/00/STAR_Rally.jpg/180px-STAR_Rally.jpg)
+- ![西尔维亚·里维拉](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/STAR_Rally.jpg/180px-STAR_Rally.jpg)
 
     [西尔维亚·里维拉](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%B0%94%E7%BB%B4%E4%BA%9A%C2%B7%E9%87%8C%E7%BB%B4%E6%8B%89)
 
-- ![阿比盖尔·索恩](//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Portrait_of_Abigail_Thorn.jpg/120px-Portrait_of_Abigail_Thorn.jpg)
+- ![阿比盖尔·索恩](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Portrait_of_Abigail_Thorn.jpg/120px-Portrait_of_Abigail_Thorn.jpg)
 
     [阿比盖尔·索恩](https://zh.wikipedia.org/wiki/Abigail_Thorn)
 
@@ -188,23 +188,23 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 
 1. [Serano, Julia](https://en.wikipedia.org/wiki/Julia_Serano). [Whipping girl: a transsexual woman on sexism and the scapegoating of femininity](https://archive.org/details/whippinggirltran0000sera). Emeryville, California: Seal Press. 2007: [29](https://archive.org/details/whippinggirltran0000sera/page/29)–30. [ISBN 1-58005-154-5](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1-58005-154-5).
 2. [Standards of Care for the Health of Transsexual, Transgender, and Gender Nonconforming People (version 7)](https://web.archive.org/web/20140924061804/http://admin.associationsonline.com/uploaded_files/140/files/Standards%20of%20Care%2C%20V7%20Full%20Book.pdf) (PDF). The World Professional Association for Transgender Health: 96. （[原始内容](http://admin.associationsonline.com/uploaded_files/140/files/Standards%20of%20Care,%20V7%20Full%20Book.pdf) (PDF)存档于2014-09-24）。
-3. [Beidel, Deborah C]; Frueh, B. Christopher; Hersen, Michel. [Adult Psychopathology and Diagnosis](https://books.google.com/books?id=rF3OAwAAQBAJ&pg=PA618) 7th. New York: Wiley. 30 June 2014: 618 [12 December 2017]. [ISBN 978-1-118-92791-5](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1-118-92791-5). [OCLC 956674391](//www.worldcat.org/oclc/956674391). （原始内容[存档](https://web.archive.org/web/20190330190955/https://books.google.com/books?id=rF3OAwAAQBAJ&pg=PA618)于30 March 2019）。
-4. Köllen, Thomas. [Sexual Orientation and Transgender Issues in Organizations: Global Perspectives on LGBT Workforce Diversity](https://books.google.com/books?id=60kWDAAAQBAJ&pg=PA138). Springer. 25 April 2016: 138 [12 December 2017]. [ISBN 978-3-319-29623-4](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-3-319-29623-4). [OCLC 933722553](//www.worldcat.org/oclc/933722553). （原始内容[存档](https://web.archive.org/web/20190330195550/https://books.google.com/books?id=60kWDAAAQBAJ&pg=PA138)于30 March 2019）。
+3. [Beidel, Deborah C]; Frueh, B. Christopher; Hersen, Michel. [Adult Psychopathology and Diagnosis](https://books.google.com/books?id=rF3OAwAAQBAJ&pg=PA618) 7th. New York: Wiley. 30 June 2014: 618 [12 December 2017]. [ISBN 978-1-118-92791-5](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1-118-92791-5). [OCLC 956674391](https://www.worldcat.org/oclc/956674391). （原始内容[存档](https://web.archive.org/web/20190330190955/https://books.google.com/books?id=rF3OAwAAQBAJ&pg=PA618)于30 March 2019）。
+4. Köllen, Thomas. [Sexual Orientation and Transgender Issues in Organizations: Global Perspectives on LGBT Workforce Diversity](https://books.google.com/books?id=60kWDAAAQBAJ&pg=PA138). Springer. 25 April 2016: 138 [12 December 2017]. [ISBN 978-3-319-29623-4](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-3-319-29623-4). [OCLC 933722553](https://www.worldcat.org/oclc/933722553). （原始内容[存档](https://web.archive.org/web/20190330195550/https://books.google.com/books?id=60kWDAAAQBAJ&pg=PA138)于30 March 2019）。
 5. Forsyth, Craig J.; Copes, Heith. [Encyclopedia of Social Deviance](https://books.google.com/books?id=NAjmBQAAQBAJ&pg=PA740). [Sage Publications](https://zh.wikipedia.org/wiki/Sage_Publications). 2014: 740 [April 12, 2016]. [ISBN 978-1483364698](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1483364698). （原始内容[存档](https://web.archive.org/web/20161201105833/https://books.google.com/books?id=NAjmBQAAQBAJ&pg=PA740)于December 1, 2016）。 Transgender is an umbrella term for people whose gender identities, gender expressions, and/or behaviors are different from those culturally associated with the sex to which they were assigned at birth.
-6. Hembree, Wylie C; Cohen-Kettenis, Peggy T; Gooren, Louis; Hannema, Sabine E; Meyer, Walter J; Murad, M Hassan; Rosenthal, Stephen M; Safer, Joshua D; Tangpricha, Vin; T’Sjoen, Guy G. [Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline](https://doi.org/10.1210/jc.2017-01658). [The Journal of Clinical Endocrinology and Metabolism](https://zh.wikipedia.org/wiki/The_Journal_of_Clinical_Endocrinology_and_Metabolism). 2017-09-13, **102** (11): 3869–3903 [2022-12-23]. [ISSN 0021-972X](//www.worldcat.org/issn/0021-972X). [PMID 28945902](//www.ncbi.nlm.nih.gov/pubmed/28945902). [S2CID 3726467](https://api.semanticscholar.org/CorpusID:3726467). [doi:10.1210/jc.2017-01658](https://doi.org/10.1210%2Fjc.2017-01658). （原始内容[存档](https://web.archive.org/web/20220303171028/https://academic.oup.com/jcem/article/102/11/3869/4157558)于2022-03-03）。
+6. Hembree, Wylie C; Cohen-Kettenis, Peggy T; Gooren, Louis; Hannema, Sabine E; Meyer, Walter J; Murad, M Hassan; Rosenthal, Stephen M; Safer, Joshua D; Tangpricha, Vin; T’Sjoen, Guy G. [Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline](https://doi.org/10.1210/jc.2017-01658). [The Journal of Clinical Endocrinology and Metabolism](https://zh.wikipedia.org/wiki/The_Journal_of_Clinical_Endocrinology_and_Metabolism). 2017-09-13, **102** (11): 3869–3903 [2022-12-23]. [ISSN 0021-972X](https://www.worldcat.org/issn/0021-972X). [PMID 28945902](https://www.ncbi.nlm.nih.gov/pubmed/28945902). [S2CID 3726467](https://api.semanticscholar.org/CorpusID:3726467). [doi:10.1210/jc.2017-01658](https://doi.org/10.1210%2Fjc.2017-01658). （原始内容[存档](https://web.archive.org/web/20220303171028/https://academic.oup.com/jcem/article/102/11/3869/4157558)于2022-03-03）。
 7. [Definition of transfeminine](http://www.dictionary.com/browse/transfeminine). Dictionary.com. [8 September 2016]. （原始内容[存档](https://web.archive.org/web/20230906103433/https://www.dictionary.com/browse/transfeminine)于2023-09-06）。
 8. Yan, Zi-Han; Lin, Jessica; Xiao, Wen-Jing; Lin, Keh-Ming; McFarland, Will; Yan, Hong-Jing; Wilson, Erin. [Identity, stigma, and HIV risk among transgender women: a qualitative study in Jiangsu Province, China](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0606-9). Infectious Diseases of Poverty. 2019-12-01, **8** (94) [2022-12-23]. [doi:10.1186/s40249-019-0606-9](https://doi.org/10.1186%2Fs40249-019-0606-9). （原始内容[存档](https://web.archive.org/web/20230711053624/https://idpjournal.biomedcentral.com/articles/10.1186/s40249-019-0606-9)于2023-07-11） （英语）。
 9. ^ [药娘群像：与身体斗争的这些年](https://item.btime.com/30qo482d7r68dup7vrqvr3q4rhf). 北京时间. 2017-09-07 [2017-11-26]. （原始内容[存档](https://web.archive.org/web/20171201031849/https://item.btime.com/30qo482d7r68dup7vrqvr3q4rhf)于2017-12-01） （中文）。
 10. ^ [跳转到： **10.0**](#cite_ref-injustice_10-0) [**10.1**](#cite_ref-injustice_10-1) [Injustice at Every Turn: A Report of the National Transgender Discrimination Survey](http://transequality.org/PDFs/NTDS_Report.pdf) (PDF). National Center for Transgender Equality & National Gay and Lesbian Task Force: 29. [2018-04-24]. （原始内容[存档](https://web.archive.org/web/20110803195534/http://www.transequality.org/PDFs/NTDS_Report.pdf) (PDF)于2011-08-03）。
 11. ^ Carlos Enrique. [Male Lesbians and the Postmodernist Body](https://archive.org/details/sim_hypatia_fall-1992_7_4/page/106). Hypatia. 1992, **7** (4): 106–127. [doi:10.1111/j.1527-2001.1992.tb00721.x](https://doi.org/10.1111%2Fj.1527-2001.1992.tb00721.x).
-12. ^ [跳转到： **12.0**](#cite_ref-elaut_13-0) [**12.1**](#cite_ref-elaut_13-1) Elaut E, De Cuypere G, De Sutter P, Gijs L, Van Trotsenburg M, Heylens G, Kaufman JM, Rubens R, T'Sjoen G. Hypoactive sexual desire in transsexual women: prevalence and association with testosterone levels. [European Journal of Endocrinology](https://zh.wikipedia.org/wiki/European_Journal_of_Endocrinology) ([Bioscientifica](https://zh.wikipedia.org/wiki/Bioscientifica)). Mar 2008, **158** (3): 393–9. [PMID 18299474](//www.ncbi.nlm.nih.gov/pubmed/18299474). [doi:10.1530/EJE-07-0511](https://doi.org/10.1530%2FEJE-07-0511).
-13. ^ Turna B, Apaydin E, Semerci B, Altay B, Cikili N, Nazli O. Women with low libido: correlation of decreased androgen levels with female sexual function index. International Journal of Impotence Research. 2005, **17** (2): 148–153. [PMID 15592425](//www.ncbi.nlm.nih.gov/pubmed/15592425). [doi:10.1038/sj.ijir.3901294](https://doi.org/10.1038%2Fsj.ijir.3901294).
-14. ^ Santoro N, Torrens J, Crawford S, Allsworth JE, Finkelstein JS, Gold EB, Korenman S, Lasley WL, Luborsky JL, McConnell D, Sowers MF, Weiss G. Correlates of circulating androgens in mid-life women: the Study of Women's Health Across the Nation. Journal of Clinical Endocrinology and Metabolism. 2005, **90** (8): 4836–4845. [PMID 15840738](//www.ncbi.nlm.nih.gov/pubmed/15840738). [doi:10.1210/jc.2004-2063](https://doi.org/10.1210%2Fjc.2004-2063).
-15. ^ Sherwin BB, Gelfand MM, Brender W. Androgen enhances sexual motivation in females: a prospective, crossover study of sex steroid administration in the surgical menopause. Psychosomatic Medicine. 1985, **47** (4): 339–351. [PMID 4023162](//www.ncbi.nlm.nih.gov/pubmed/4023162). [doi:10.1097/00006842-198507000-00004](https://doi.org/10.1097%2F00006842-198507000-00004).
-16. ^ Sherwin, B. [Changes in sexual behavior as a function of plasma sex steroid levels in post-menopausal women](https://archive.org/details/sim_maturitas_1985-09_7_3/page/225). Maturitas. 1985, **7** (3): 225–233. [PMID 4079822](//www.ncbi.nlm.nih.gov/pubmed/4079822). [doi:10.1016/0378-5122(85)90044-1](https://doi.org/10.1016%2F0378-5122%2885%2990044-1).
-17. ^ Davis SR, Davison SL, Donath S, Bell RJ. Circulating androgen levels and self-reported sexual function in women. [Journal of the American Medical Association](https://zh.wikipedia.org/wiki/Journal_of_the_American_Medical_Association) ([Journal of the American Medical Association](https://zh.wikipedia.org/wiki/Journal_of_the_American_Medical_Association)). 2005, **294** (1): 91–96. [PMID 15998895](//www.ncbi.nlm.nih.gov/pubmed/15998895). [doi:10.1001/jama.294.1.91](https://doi.org/10.1001%2Fjama.294.1.91).
-18. ^ DeCuypere G, T'Sjoen G, Beerten R, Selvaggi G, DeSutter P, Hoebeke P, Monstrey S, Vansteenwegen A, Rubens R. [Sexual and physical health after sex reassignment surgery](https://archive.org/details/sim_archives-of-sexual-behavior_2005-12_34_6/page/679). Archives of Sexual Behavior. 2005, **34** (6): 679–690. [PMID 16362252](//www.ncbi.nlm.nih.gov/pubmed/16362252). [doi:10.1007/s10508-005-7926-5](https://doi.org/10.1007%2Fs10508-005-7926-5).
-19. ^ Wierckx, Katrien; Elaut, Els; Van Hoorde, Birgit; Heylens, Gunter; De Cuypere, Griet; Monstrey, Stan; Weyers, Steven; Hoebeke, Piet; t'Sjoen, Guy. Sexual Desire in Trans Persons: Associations with Sex Reassignment Treatment. The Journal of Sexual Medicine. 2014, **11** (1): 107–118. [PMID 24165564](//www.ncbi.nlm.nih.gov/pubmed/24165564). [doi:10.1111/jsm.12365](https://doi.org/10.1111%2Fjsm.12365).
+12. ^ [跳转到： **12.0**](#cite_ref-elaut_13-0) [**12.1**](#cite_ref-elaut_13-1) Elaut E, De Cuypere G, De Sutter P, Gijs L, Van Trotsenburg M, Heylens G, Kaufman JM, Rubens R, T'Sjoen G. Hypoactive sexual desire in transsexual women: prevalence and association with testosterone levels. [European Journal of Endocrinology](https://zh.wikipedia.org/wiki/European_Journal_of_Endocrinology) ([Bioscientifica](https://zh.wikipedia.org/wiki/Bioscientifica)). Mar 2008, **158** (3): 393–9. [PMID 18299474](https://www.ncbi.nlm.nih.gov/pubmed/18299474). [doi:10.1530/EJE-07-0511](https://doi.org/10.1530%2FEJE-07-0511).
+13. ^ Turna B, Apaydin E, Semerci B, Altay B, Cikili N, Nazli O. Women with low libido: correlation of decreased androgen levels with female sexual function index. International Journal of Impotence Research. 2005, **17** (2): 148–153. [PMID 15592425](https://www.ncbi.nlm.nih.gov/pubmed/15592425). [doi:10.1038/sj.ijir.3901294](https://doi.org/10.1038%2Fsj.ijir.3901294).
+14. ^ Santoro N, Torrens J, Crawford S, Allsworth JE, Finkelstein JS, Gold EB, Korenman S, Lasley WL, Luborsky JL, McConnell D, Sowers MF, Weiss G. Correlates of circulating androgens in mid-life women: the Study of Women's Health Across the Nation. Journal of Clinical Endocrinology and Metabolism. 2005, **90** (8): 4836–4845. [PMID 15840738](https://www.ncbi.nlm.nih.gov/pubmed/15840738). [doi:10.1210/jc.2004-2063](https://doi.org/10.1210%2Fjc.2004-2063).
+15. ^ Sherwin BB, Gelfand MM, Brender W. Androgen enhances sexual motivation in females: a prospective, crossover study of sex steroid administration in the surgical menopause. Psychosomatic Medicine. 1985, **47** (4): 339–351. [PMID 4023162](https://www.ncbi.nlm.nih.gov/pubmed/4023162). [doi:10.1097/00006842-198507000-00004](https://doi.org/10.1097%2F00006842-198507000-00004).
+16. ^ Sherwin, B. [Changes in sexual behavior as a function of plasma sex steroid levels in post-menopausal women](https://archive.org/details/sim_maturitas_1985-09_7_3/page/225). Maturitas. 1985, **7** (3): 225–233. [PMID 4079822](https://www.ncbi.nlm.nih.gov/pubmed/4079822). [doi:10.1016/0378-5122(85)90044-1](https://doi.org/10.1016%2F0378-5122%2885%2990044-1).
+17. ^ Davis SR, Davison SL, Donath S, Bell RJ. Circulating androgen levels and self-reported sexual function in women. [Journal of the American Medical Association](https://zh.wikipedia.org/wiki/Journal_of_the_American_Medical_Association) ([Journal of the American Medical Association](https://zh.wikipedia.org/wiki/Journal_of_the_American_Medical_Association)). 2005, **294** (1): 91–96. [PMID 15998895](https://www.ncbi.nlm.nih.gov/pubmed/15998895). [doi:10.1001/jama.294.1.91](https://doi.org/10.1001%2Fjama.294.1.91).
+18. ^ DeCuypere G, T'Sjoen G, Beerten R, Selvaggi G, DeSutter P, Hoebeke P, Monstrey S, Vansteenwegen A, Rubens R. [Sexual and physical health after sex reassignment surgery](https://archive.org/details/sim_archives-of-sexual-behavior_2005-12_34_6/page/679). Archives of Sexual Behavior. 2005, **34** (6): 679–690. [PMID 16362252](https://www.ncbi.nlm.nih.gov/pubmed/16362252). [doi:10.1007/s10508-005-7926-5](https://doi.org/10.1007%2Fs10508-005-7926-5).
+19. ^ Wierckx, Katrien; Elaut, Els; Van Hoorde, Birgit; Heylens, Gunter; De Cuypere, Griet; Monstrey, Stan; Weyers, Steven; Hoebeke, Piet; t'Sjoen, Guy. Sexual Desire in Trans Persons: Associations with Sex Reassignment Treatment. The Journal of Sexual Medicine. 2014, **11** (1): 107–118. [PMID 24165564](https://www.ncbi.nlm.nih.gov/pubmed/24165564). [doi:10.1111/jsm.12365](https://doi.org/10.1111%2Fjsm.12365).
 20. ^ McKinnon, Rachel. "Gender, Identity, and Society." _Philosophy: Sex and Love_, edited by James Petrik and Arthur Zucker, Macmillan Reference USA, 2016, pp. 175-198. Macmillan Interdisciplinary Handbooks. _Gale Virtual Reference Library_. Web. 23 Apr. 2017.
 21. ^ Herman, Jody L.; Brown, Taylor N.T.; Haas, Ann P. [Suicide Thoughts and Attempts Among Transgender Adults](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Suicidality-Transgender-Sep-2019.pdf) (PDF). September 2019 [2020-01-23]. （原始内容[存档](https://web.archive.org/web/20200513172602/https://williamsinstitute.law.ucla.edu/wp-content/uploads/Suicidality-Transgender-Sep-2019.pdf)于2020-05-13）。
 22. ^ [National Transgender Discrimination Survey: Full Report](http://transequality.org/PDFs/NTDS_Report.pdf) (PDF). National Center for Transgender Equality. 2015-01-21 [2018-04-24]. （原始内容[存档](https://web.archive.org/web/20110803195534/http://www.transequality.org/PDFs/NTDS_Report.pdf) (PDF)于2011-08-03） （英语）。

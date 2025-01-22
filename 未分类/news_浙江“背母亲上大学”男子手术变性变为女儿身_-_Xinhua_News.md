@@ -73,7 +73,7 @@ Copyright © 2000 - 2015 XINHUANET.com 版权所有 新华网
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了来自浙江省的刘霆（现更名为刘婷）的变性手术经历。刘婷在13岁时背负照顾身患重病的母亲的责任，努力学习并最终考上大学，并成为一名全国道德模范。由于内心性别认同的冲突，在接受长达六个月的变性手术后，她成功转变为女性。文章详细描绘了手术前后刘婷的心路历程、家庭支持以及在身份变更过程中遇到的法律与行政手续，包括需提供多项证明以修改身份证性别。刘婷展现自信的生活状态，并梦想成为演员及出版书籍，她希望利用自身经历帮助更多人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,10 +86,10 @@ Copyright © 2000 - 2015 XINHUANET.com 版权所有 新华网
 | Size            | 6275 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 京华时报                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-08                                 |
+| Tags            | 刘霆, 刘婷, 变性手术, 性别认同, 浙江省, 道德模范, 女性故事, 法律政策, 社会支持, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -136,7 +136,7 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性别的多元性及其流动性，分享了三性人、极大性别者与多元性别者的故事和身份认同。作者以自己的经历为例，描述了他们如何在性别光谱中找到自我。文中有一位名叫艾克赛的双性人分享了他的身份经历，强调了性别不仅限于二元框架，而是一个多维度的光谱，他自认大部分时间为男性，正在进行荷尔蒙治疗与手术，以匹配内心真实的自我。此外，文章还讲述了关于不同性别标签（如非男非女、特异独行者等）的定义，探讨了这些标签可能存在的文化与社会问题，以及如何在自我认同与外部认同中找到平衡。整体文章致力于提高对多元性别身份的理解和接受，鼓励每个人都能勇敢做自己。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -149,10 +149,10 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 | Size            | 9497 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 麦田出版                               |
+| Region          | 未知                               |
+| Date            | 2020-10-26                                 |
+| Tags            | 三性人, 极大性别者, 多元性别者, 性别光谱, 跨性别, 性别认同, 双性人, 荷尔蒙治疗, 文化剽窃, 性别教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

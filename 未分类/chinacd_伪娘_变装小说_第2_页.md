@@ -92,7 +92,7 @@ cd,TS,变装,变身,第三性,人妖,伪娘
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于变装文化的小说，主要探索变装者的生活与身份认同。文件中包含了关于变装相关的各种标签及相关链接，展示了变装、变身和第三性等话题。文中所提到的关键词包括伪娘、人妖、变身等，表明该小说涉及性别流动和自我表达的主题。此外，文件还提到了社区的讨论与支持，例如通过欢迎原创和精华推荐来鼓励参与者共同建设这个文化空间。整个文本反映了一个充满想象力和创意的变装世界，并为读者提供了相关的链接以便深入了解各个主题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -105,10 +105,10 @@ cd,TS,变装,变身,第三性,人妖,伪娘
 | Size            | 10102 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 人妖, 变身, 第三性, 跨性别, 文化交流, 性别认同, 网络社区, 小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

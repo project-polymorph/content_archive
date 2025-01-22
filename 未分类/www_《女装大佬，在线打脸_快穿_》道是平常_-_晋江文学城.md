@@ -7,7 +7,7 @@
 
 ## 更新时间：北京时间 25年1月14日 15:35 { data-search-exclude }
 
-![晋江文学城logo](//static.jjwxc.net/images/channel_2010/logo.gif)
+![晋江文学城logo](https://static.jjwxc.net/images/channel_2010/logo.gif)
 
 ---
 
@@ -36,7 +36,7 @@
 - 所属系列：完结【无cp】之 无cp  
 - 文章进度：完结  
 - 全文字数：351250字  
-- 版权转化：尚未出版（[联系出版](//www.jjwxc.net/aboutus/#fragment-29)）  
+- 版权转化：尚未出版（[联系出版](https://www.jjwxc.net/aboutus/#fragment-29)）  
 - 签约状态：**已签约**  
 - 作品荣誉：尚无任何作品简评  
 
