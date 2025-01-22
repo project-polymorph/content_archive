@@ -1,0 +1,8 @@
+# 变性人与歧视：“在非洲，他们不承认我的性别身份”
+
+**你的器材不支持播放多媒体材料**
+
+Play video, ""在非洲，他们不承认我的性别身份"", 节目全长 6,0506:05
+
+![在非洲，他们不承认我的性别身份](https://ichef.bbci.co.uk/images/ic/512xn/p08w4f68.jpg.webp)
+<!-- tcd_original_link https://www.bbc.com/zhongwen/simp/world-54661363/embed -->
