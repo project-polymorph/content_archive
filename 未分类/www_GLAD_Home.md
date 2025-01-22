@@ -1,20 +1,23 @@
 # 多元性别权利与资源概览
 
+## 正文 { data-search-exclude }
+
+
 ![GLAD Law attorney Lisa Rodriguez-Ross speaking at the podium in front of the Supreme Court, surrounded by GLAD Law staff holding signs supporting health care for transgender adolescents.](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2024/12/20241204-SCOTUS-Skrmetti-Rally.jpg)
 
-## Know Your Rights and Protections
+## Know Your Rights and Protections { data-search-exclude }
 
 [Know Your Rights and Protections](https://www.glad.org/lgbtq-protections/?utm_source=web&utm_medium=homepage)
 
 ![Progress Pride flag blowing in the sky](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2024/07/Progress-pride-flag_homepage-feature.png)
 
-## Donate Today to Protect Our Future
+## Donate Today to Protect Our Future { data-search-exclude }
 
 [Donate Today to Protect Our Future](https://givebutter.com/donatetoglad?utm_source=website&utm_medium=homepage)
 
 ![Stethoscope on top of transgender flag colors](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/07/Transgender-healthcare-medical-feature.png)
 
-## FAQ: Transgender Health Care
+## FAQ: Transgender Health Care { data-search-exclude }
 
 [RFAQ: Transgender Health Care](https://www.glad.org/transgender-health-care-questions/?utm_source=web&utm_medium=homepage)
 
@@ -42,7 +45,7 @@
 
 ### [**Affirmation & Dignity**](/our-impact/#affirmation-dignity)
 
-## The Latest
+## The Latest { data-search-exclude }
 
 GLAD Law believes in a world where all of us have the peace of mind, well-being, and self-determination to live our lives as we are with dignity, recognition, and respect.
 
@@ -58,7 +61,7 @@ GLAD Law believes in a world where all of us have the peace of mind, well-being,
     
     ## [GLBTQ Legal Advocates & Defenders Responds to U.S. Supreme Court Arguments in U.S. v. Skrmetti](https://www.glad.org/glad-law-on-supreme-court-us-v-skrmetti-arguments/) 
 
-## Cases
+## Cases { data-search-exclude }
 
 Each time GLAD Law argues a case or tackles an issue, we tear down more outdated laws and stereotypes that have denied LGBTQ+ people and people living with HIV basic protections and opportunities in every area of daily life.
 
@@ -74,7 +77,7 @@ Each time GLAD Law argues a case or tackles an issue, we tear down more outdated
 
     Lillian is simply asking for fair coverage and to be treated the same as her coworkers.
 
-## Get updates
+## Get updates { data-search-exclude }
 
 **on important victories, upcoming events, and other opportunities to get involved in our work for equal justice under law for all.**
 
@@ -84,13 +87,13 @@ Email *
 
 [Ways to Give](https://www.glad.org/get-involved/ways-to-give/)
 
-## Upcoming Events
+## Upcoming Events { data-search-exclude }
 
 ![a group of gorgeous folks at a gala event](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/05/SOJ2023_ShaplaieMaryPollyFriends-1024x731.jpg)
 
 [Events](https://www.glad.org/get-involved/ways-to-give/events/)
 
-## ID Project
+## ID Project { data-search-exclude }
 
 A legal resource to update your name and gender marker on ID documents
 
@@ -104,3 +107,29 @@ A legal resource to update your name and gender marker on ID documents
 
 [Get Resources](https://www.glad.org/know-your-rights/#search-issues-states)
 <!-- tcd_original_link https://www.glad.org/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_GLAD_Home.md                             |
+| Size            | 5805 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

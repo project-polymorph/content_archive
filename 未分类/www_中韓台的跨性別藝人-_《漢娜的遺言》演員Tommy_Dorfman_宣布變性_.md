@@ -1,12 +1,15 @@
 # 《漢娜的遺言》演員Tommy Dorfman 宣布變性成功！細數荷里活、中韓台的跨性別藝人
 
+## 正文 { data-search-exclude }
+
+
 ![Fashion Team](/images/author-pic.png)
 
 LAST MODIFIED: 05 Nov 2022
 
 Netflix 的校園影集《漢娜的遺言》（13 Reasons Why）不但在議題上惹起熱話，還令一眾年輕演員備受關注，最近飾演其中一名背叛漢娜的同學Ryan Shaver的演員 Tommy Dorfman正式宣告成為跨性別女性，不說不知，原來圈中的跨性別藝人共有以下這些：
 
-## 跨性別藝人：Tommy Dorfman
+## 跨性別藝人：Tommy Dorfman { data-search-exclude }
 
 ![今年 29 歲的 Tommy Dorfman登上美國《時代雜誌》正式宣告出櫃為跨性別女性，她坦言](https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/celebrity/transgender-celebrity/node_1832788/35224076-1-chi-HK/02.jpeg)
 
@@ -16,7 +19,7 @@ Netflix 的校園影集《漢娜的遺言》（13 Reasons Why）不但在議題�
 
 Tommy Dorfman 在Instagram上發佈女性造型照，換上女裝和妝容：「今天就是我的一場聲明，我是一位跨性別女性，我的代名詞是 she/her，我的名字叫作 Tommy。」
 
-## 跨性別藝人：Elliot Page
+## 跨性別藝人：Elliot Page { data-search-exclude }
 
 ![另外，最近最為人熟悉的應該是《Juno少女孕記》中的Elliot Page，在IG上宣布正式變](https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/celebrity/transgender-celebrity/node_1832790/35224120-1-chi-HK/04.jpeg)
 
@@ -26,7 +29,7 @@ Tommy Dorfman 在Instagram上發佈女性造型照，換上女裝和妝容：「
 
 Elliot Page之後更在IG發佈自己首次穿著泳褲的照片，他已接受切除乳房手術，相片中胸口疤痕明顯可見，但他仍掛著燦爛笑容，散發勇敢和堅強的氣質！
 
-## 跨性別藝人：河莉秀
+## 跨性別藝人：河莉秀 { data-search-exclude }
 
 ![韓國變性藝人中最知名的應該是被譽為「韓國最美變性女星」、46歲的河莉](https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/celebrity/transgender-celebrity/node_1832792/35224164-1-chi-HK/06.jpeg)
 
@@ -36,7 +39,7 @@ Elliot Page之後更在IG發佈自己首次穿著泳褲的照片，他已接受�
 
 最近她在節目分享她的變性血淚史，指荷爾蒙變化令她非常痛苦，更提早經歷更年期，甚至一度情緒崩潰想輕生，同時和前夫分開其中一原因亦是因為自己無法生育。
 
-## 跨性別藝人：Caitlyn Jenner
+## 跨性別藝人：Caitlyn Jenner { data-search-exclude }
 
 ![無錯，美國的網紅家族裏同樣有變性人，她就是Kylie及Kendall Jenner兩姊妹的跨性別](https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/celebrity/transgender-celebrity/node_1832794/35224208-1-chi-HK/08.jpeg)
 
@@ -46,13 +49,13 @@ Elliot Page之後更在IG發佈自己首次穿著泳褲的照片，他已接受�
 
 最近，Caitlyn Jenner成為新聞焦點，原因是現年71歲的Caitlyn數天前在Twitter宣布競逐加州州長，據知屬於共和黨的Caitlyn已經遞交參選文件，並為選舉積極備戰，未知Jenner家族會否全體總動員為她站台呢？
 
-## 跨性別藝人：金星
+## 跨性別藝人：金星 { data-search-exclude }
 
 ![金星是內地有名的脫口秀主持人，在20幾年前就接受變性手術，在28歲事](https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/celebrity/transgender-celebrity/node_1832796/35224252-1-chi-HK/10.jpg)
 
 金星是內地有名的脫口秀主持人，在20幾年前就接受變性手術，在28歲事業有成之後，決定對自己的人生負責，去動變性手術。本身以為軍人爸爸會反對，最後卻受到家人支持，非常感動。但手術後她一度因為醫療疏忽而導致左腳神經受損，無法跳舞，最後靠著復健才好起來。
 
-## 跨性別藝人：Aura
+## 跨性別藝人：Aura { data-search-exclude }
 
 ![旅居米蘭的台灣跨性別變性模特兒Aura在台灣時尚界頗為有名，更曾經登](https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/celebrity/transgender-celebrity/node_1832797/35224274-1-chi-HK/11.jpeg)
 
@@ -60,3 +63,29 @@ Elliot Page之後更在IG發佈自己首次穿著泳褲的照片，他已接受�
 
 by Crystal Leung, [Ellie Stark](https://contributor/(name)/Ellie Stark)
 <!-- tcd_original_link https://www.elle.com.hk/celebrity/transgender-celebrity -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中韓台的跨性別藝人-_《漢娜的遺言》演員Tommy_Dorfman_宣布變性_.md                             |
+| Size            | 6292 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

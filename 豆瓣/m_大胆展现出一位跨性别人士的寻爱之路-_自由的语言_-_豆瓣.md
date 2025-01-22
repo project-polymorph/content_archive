@@ -1,5 +1,8 @@
 # 大胆展现出一位跨性别人士的寻爱之路
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 ![](https://img3.doubanio.com/view/thing_review/l/public/p5791927.webp)
@@ -45,3 +48,29 @@
 - **地区**: 美国 / 菲律宾
 - **上映**: 2019-08-28 (威尼斯电影节) / 2020-08-26 (美国)
 <!-- tcd_original_link https://m.douban.com/movie/review/13336673/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评深入探讨了一部名为《自由的语言》的独立电影，影片聚焦于菲律宾的跨性别非法劳工Olivia在纽约布鲁克林的生活与爱情追寻。尽管影片的背景涉及到非法移民与跨性别身份的社会议题，但导演伊莎贝尔·桑多瓦并未将重点放在社会批判上，而是打造了一个私人化、诗意的爱情故事。Olivia在照顾一位记忆衰退老妇的同时，与老妇的孙子展开了一段关系，故事着重于Olivia对爱情的渴望及她对男主角的感情，展示了跨性别人士的情感真实与欲望。影评中提到，导演运用了许多独特的摄影技巧与叙事手法，成功地展现出角色的内心世界与情感波动，并突破了传统电影中对跨性别角色的刻板印象。影片的结尾给人以深思，反映出Olivia追求平等与尊严的爱情观。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_大胆展现出一位跨性别人士的寻爱之路-_自由的语言_-_豆瓣.md                             |
+| Size            | 4897 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 罗宾汉                               |
+| Region          | 美国                               |
+| Date            | 2020-08-26                                 |
+| Tags            | 跨性别, 爱情故事, 独立电影, 社会边缘人, 性别身份, 电影分析, 文化表达, 纽约, 移民经历, 女性视角                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 作为性少数，为什么我看见这份文件如此气愤？
 
+## 正文 { data-search-exclude }
+
+
 **作者：**季华多元  
 **发表日期：**2022.12.9  
 **来源：**[微信公众号“季华多元”](https://mp.weixin.qq.com/s/rrpaJU44oJmHfLtM3TlJrA)  
@@ -53,3 +56,29 @@
 
 **标签：**[LGBT权利](https://chinadigitaltimes.net/chinese/tag/lgbt%e6%9d%83%e5%88%a9), [多元性别](https://chinadigitaltimes.net/chinese/tag/%e5%a4%9a%e5%85%83%e6%80%a7%e5%88%ab), [文化管制](https://chinadigitaltimes.net/chinese/tag/%e6%96%87%e5%8c%96%e7%ae%a1%e5%88%b6), [言论审查](https://chinadigitaltimes.net/chinese/tag/%e8%a8%80%e8%ae%ba%e5%ae%a1%e6%9f%a5), [出版审查](https://chinadigitaltimes.net/chinese/tag/%e5%87%ba%e7%89%88%e5%ae%a1%e6%9f%a5), [性少数群体](https://chinadigitaltimes.net/chinese/tag/%e6%80%a7%e5%b0%91%e6%95%b0%e7%be%a4%e4%bd%93), [LGBTQ](https://chinadigitaltimes.net/chinese/tag/lgbtq)
 <!-- tcd_original_link https://chinadigitaltimes.net/chinese/690735.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | chinadigitaltimes_【404文库】季华多元｜作为性少数，为什么我看见这份文件如此气愤？.md                             |
+| Size            | 7892 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 制作酷儿场景
 
+## 正文 { data-search-exclude }
+
+
 时间： 星期二，12月6，2016，6：30pm
 
 此活动已经结束。
@@ -10,7 +13,7 @@
 
 无论是在1980年代和90年代在开创​​性的女同性恋酒吧如Clit俱乐部，East Village的拖拉表演场地或今天的布鲁克林舞蹈派对上，庆祝同性恋和跨性别的有色人种，酒吧和俱乐部长期以来一直是LGBTQ人们来到的地方一起社交，庆祝社区，并反抗社会偏见。与一群作家，表演者和活动家一起，讨论纽约酷儿夜生活的历史和持续重要性。结合查看所有程序 _同性恋哥谭：艺术与地下文化_，单击“ [点击这里](http://zh-cn.mcny.org/gayny).  **埃里克·马库斯（Eric Marcus）**，作者， _创造同性恋历史：半个世纪争取女同性恋和同性恋平等权利的斗争_  **奥斯卡·恩**，DJ和Papi Juice联合创始人  **琳达·辛普森（Linda Simpson）**，表演者和摄影师  **朱莉·托伦蒂诺（Julie Tolentino）**，艺术家和活动家  **六月·托马斯**（主持人）， _板岩_ 编辑
 
-## 接待和参观展览
+## 接待和参观展览 { data-search-exclude }
 
 分享
 
@@ -22,7 +25,7 @@
 
 ### 相关展览 - 2016年6月26日 - 2017年X月X日
 
-## [盖特·哥谭](https://zh-cn.mcny.org/exhibition/gay-gotham)
+## [盖特·哥谭](https://zh-cn.mcny.org/exhibition/gay-gotham) { data-search-exclude }
 
 纽约的艺术与地下文化
 
@@ -38,13 +41,39 @@
 
 ![John Burton Foundation](https://www.mcny.org/sites/default/files/John-Burton-Foundation.jpg)
 
-## 本系列的更多内容
+## 本系列的更多内容 { data-search-exclude }
 
 ![Documenting LGBTQ Life](https://www.mcny.org/sites/default/files/styles/mcny_col_3_thumbnail/public/3.7-Documenting-LGBTQ-Life_0.jpg?itok=q_BtIzPl)
 
-## [记录LGBTQ Life](https://zh-cn.mcny.org/event/documenting-lgbtq-life)
+## [记录LGBTQ Life](https://zh-cn.mcny.org/event/documenting-lgbtq-life) { data-search-exclude }
 
 导演罗德尼·埃文斯（Rodney Evans），米歇尔·梅姆兰（Michelle Memran）和康拉德·文图尔（Conrad Ventur）讨论了电影如何表现和保存LGBTQ的历史。
 
 ![Hidden Bernstein](https://www.mcny.org/sites/default/files/styles/mcny_col_3_thumbnail/public/2.23-hidden-ber
 <!-- tcd_original_link https://zh-cn.mcny.org/event/making-queer-scene -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh-cn_制作酷儿场景.md                             |
+| Size            | 3613 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

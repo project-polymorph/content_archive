@@ -1,5 +1,8 @@
 # 公安部三局关于公民手术变性后变更户口登记性别项目有关问题的批复
 
+## 正文 { data-search-exclude }
+
+
 **文号：** 公治〔2008〕478号  
 **发布日期：** 2008年10月23日  
 **发布机关：** 公安部治安管理局
@@ -25,3 +28,29 @@
 
 检索自“[https://zh.wikisource.org/w/index.php?title=公安部三局关于公民手术变性后变更户口登记性别项目有关问题的批复&oldid=2447468](https://zh.wikisource.org/w/index.php?title=公安部三局关于公民手术变性后变更户口登记性别项目有关问题的批复&oldid=2447468)”
 <!-- tcd_original_link https://zh.wikisource.org/wiki/%E5%85%AC%E5%AE%89%E9%83%A8%E4%B8%89%E5%B1%80%E5%85%B3%E4%BA%8E%E5%85%AC%E6%B0%91%E6%89%8B%E6%9C%AF%E5%8F%98%E6%80%A7%E5%90%8E%E5%8F%98%E6%9B%B4%E6%88%B7%E5%8F%A3%E7%99%BB%E8%AE%B0%E6%80%A7%E5%88%AB%E9%A1%B9%E7%9B%AE%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%89%B9%E5%A4%8D -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_公安部三局关于公民手术变性后变更户口登记性别项目有关问题的批复.md                             |
+| Size            | 2378 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

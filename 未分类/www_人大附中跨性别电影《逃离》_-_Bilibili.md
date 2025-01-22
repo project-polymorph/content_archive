@@ -1,5 +1,8 @@
 # 人大附中跨性别电影《逃离》
 
+## 正文 { data-search-exclude }
+
+
 ![人大附中跨性别电影《逃离》](//i2.hdslb.com/bfs/archive/385abd44a420c54eef98d6a0f075bbcaecb19600.jpg@100w_100h_1c.webp)
 
 **发布日期：** 2017-08-24 04:10:32  
@@ -46,3 +49,29 @@
 **版权：** 人大附中  
 **来源：** 哔哩哔哩
 <!-- tcd_original_link https://www.bilibili.com/video/BV1Dx411b7wU/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_人大附中跨性别电影《逃离》_-_Bilibili.md                             |
+| Size            | 1936 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

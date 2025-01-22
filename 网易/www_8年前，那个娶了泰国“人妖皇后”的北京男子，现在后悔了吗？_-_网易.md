@@ -1,5 +1,8 @@
 # 8年前，那个娶了泰国“人妖皇后”的北京男子，现在后悔了吗？
 
+## 正文 { data-search-exclude }
+
+
 ![封面图片](https://nimg.ws.126.net/?url=http%3A%2F%2Fvideoimg.ws.126.net%2Fcover%2F20241017%2FSY7yuqXUr_cover.jpg&thumbnail=668y375&quality=95&type=jpg)
 
 **发布时间**: 2024-10-17 19:01:09  
@@ -23,3 +26,29 @@
 **版权信息**  
 © 1997-2025 网易公司版权所有 [关于网易](https://corp.163.com/) | [联系我们](https://corp.163.com/gb/contactus.html) | [版权投诉](https://corp.163.com/special/008397U0/reporting_infringements.html) 
 <!-- tcd_original_link https://www.163.com/v/video/VJDPSTOH9.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_8年前，那个娶了泰国“人妖皇后”的北京男子，现在后悔了吗？_-_网易.md                             |
+| Size            | 4135 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

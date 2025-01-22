@@ -1,5 +1,8 @@
 # 国内哪里可以做变性手术且做得好？西安这家医院医生男变女/女变男变性手术厉害
 
+## 正文 { data-search-exclude }
+
+
 更新时间：2022-10-26 13:40:00  
 编辑：小寒  
 标签：[#国内整形](/article/list-catid-246)
@@ -92,3 +95,29 @@
 
 本网站内容仅供读者参考，不能作为诊断及治疗的依据，本站将不承担由此引起的法律责任。本站日记/图片来源于网友分享，无法考证图片版权来历，如侵权请权利人[信息处理申请](https://www.236z.com/member/intro-type-contact)
 <!-- tcd_original_link https://www.236z.com/article/12449 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国内哪里可以做变性手术且做得好？西安这家医院医生男变女_..._-_美佳网.md                             |
+| Size            | 4952 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

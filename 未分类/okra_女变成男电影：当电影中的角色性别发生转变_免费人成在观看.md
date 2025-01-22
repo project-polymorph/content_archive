@@ -1,5 +1,8 @@
 # 女变成男电影：当电影中的角色性别发生转变
 
+## 正文 { data-search-exclude }
+
+
 **发布时间**：2024-10-22 23:47:12
 
 电影作为一种强大而受欢迎的艺术形式，经常用来探讨各种复杂的社会问题。其中，女变成男的题材成为近年来备受关注的话题。这类电影以女性角色突然变成男性为基础，通过剧情展示她们在新的身份下所面临的挑战和困惑，引发观众对性别认同和社会观念的深思。
@@ -23,3 +26,29 @@
 
 这些女变成男的电影不仅仅是娱乐作品，更是对于性别认同和社会观念的一次思考和探索。通过观赏这些电影，观众们可以更加深入地了解和体验到性别转变对于个体身份认同和社会观念的影响。
 <!-- tcd_original_link https://okra.hlmspain.com/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | okra_女变成男电影：当电影中的角色性别发生转变_免费人成在观看.md                             |
+| Size            | 3283 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

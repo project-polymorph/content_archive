@@ -1,5 +1,8 @@
 # 《翠丝》入围东京电影节 姜皓文落足心血演跨性别者
 
+## 正文 { data-search-exclude }
+
+
 来源：星岛日报
 
 ![姜皓文在《翠丝》演跨性别角色。](https://image.stheadline.com/f/680p0/0x0/100/none/69cbe8528937a326d32660242a119238/stheadline/inewsmedia/20180925/_2018092516020282666.jpg)
@@ -26,3 +29,29 @@
 
 版权 © 2025 Sing Tao Ltd. All rights reserved.
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/825910/%E5%8D%B3%E6%99%82-%E5%A8%9B%E6%A8%82-%E7%BF%A0%E7%B5%B2-%E5%85%A5%E5%9C%8D%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%A7%9C%E7%9A%93%E6%96%87%E8%90%BD%E8%B6%B3%E5%BF%83%E8%A1%80%E6%BC%94%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_《翠丝》入围东京电影节姜皓文落足心血演跨性别者_-_星島日報.md                             |
+| Size            | 2484 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

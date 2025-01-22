@@ -1,5 +1,8 @@
 # 求变身，性转小说合集询问与资源分享
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 贴吧社区  
 **作者**: hearxin  
 **时间**: 2019-11-20 18:39  
@@ -54,3 +57,29 @@ tgfuns上面的一个合集被曝了，求合集资源，多谢各位大佬。�
 
 [回到顶部](#求变身，性转小说合集询问与资源分享)
 <!-- tcd_original_link https://level-plus.net/simple/index.php?t668891.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | level-plus_求变身，性转小说合集_-_Lv+_Level_Plus.md                             |
+| Size            | 1844 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

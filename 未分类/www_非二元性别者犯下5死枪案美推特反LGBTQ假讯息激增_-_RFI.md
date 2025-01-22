@@ -1,5 +1,8 @@
 # 非二元性别者犯下5死枪案 美推特反LGBTQ假讯息激增
 
+## 正文 { data-search-exclude }
+
+
 （法新社华盛顿11日电） 美国发生的致命大规模枪击事件引发网路假讯息泛滥，攻击对象是让人想不到的跨性别者。
 
 发表时间： 12/04/2023 - 13:02  
@@ -31,3 +34,29 @@
 
 © 2023 AFP
 <!-- tcd_original_link https://www.rfi.fr/cn/%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/20230412-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E8%80%85%E7%8A%AF%E4%B8%8B5%E6%AD%BB%E6%9E%AA%E6%A1%88-%E7%BE%8E%E6%8E%A8%E7%89%B9%E5%8F%8Dlgbtq%E5%81%87%E8%AE%AF%E6%81%AF%E6%BF%80%E5%A2%9E -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_非二元性别者犯下5死枪案美推特反LGBTQ假讯息激增_-_RFI.md                             |
+| Size            | 2537 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

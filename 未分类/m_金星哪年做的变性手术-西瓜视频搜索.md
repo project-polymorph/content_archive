@@ -1,5 +1,8 @@
 # 金星的变性手术经历与相关视频
 
+## 正文 { data-search-exclude }
+
+
 ![1996年珍贵影像，金星刚做完变性手术，面对记者侃侃而谈！#历史](//p26-sign.bdxiguaimg.com/tos-cn-p-0004/2b3252c67387460dba9c8c3eabbb0717_1710221496~tplv-pk90l89vgd-crop-center:864:486.jpeg?appId=1768&biz_tag=video1609_custom%2Fnone&channelId=0&customType=custom%2Fnone&from=401_large_image_list&imageType=video1609&isImmersiveScene=0&is_stream=0&lk3s=9d3f5bff&logId=20250121174853929C2530F7B005ACF757&requestFrom=401&x-expires=1768988934&x-signature=V12xniO7WDRO8QMKKTX9W0p27Tk%3D)
 
 **时间:** 1996年  
@@ -102,3 +105,29 @@
 版权所有 ©2024 西瓜视频  
 ICP备案号: 京ICP备12025439号-172A
 <!-- tcd_original_link https://m.ixigua.com/s/%E9%87%91%E6%98%9F%E5%93%AA%E5%B9%B4%E5%81%9A%E7%9A%84%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_金星哪年做的变性手术-西瓜视频搜索.md                             |
+| Size            | 7100 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

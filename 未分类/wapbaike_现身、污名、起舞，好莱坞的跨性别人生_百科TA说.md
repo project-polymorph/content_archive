@@ -1,5 +1,8 @@
 # 纪录｜现身、污名、起舞，好莱坞的跨性别人生
 
+## 正文 { data-search-exclude }
+
+
 _“_“我们不能因为看到跨性别者的展现，就认为变革已经结束……改变呈现方式不是目标，只是达到目标的手段。” 拥有（对跨性别者）的正面呈现，应该是更广泛的社会变革的一部分，这样才能真正改变跨性别群体的生存条件。
 
 ![](https://bkimg.cdn.bcebos.com/pic/94cad1c8a786c9177f3e06e5887167cf3bc79e3df991)
@@ -273,3 +276,29 @@ GLAAD媒体主管尼克·亚当斯（Nick Adams）说，现实生活中确实有
 
 **原创**|2021-04-01 11:19:03  
 <!-- tcd_original_link https://wapbaike.baidu.com/tashuo/browse/content?id=82c735fad6e0692a5af719d3 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wapbaike_现身、污名、起舞，好莱坞的跨性别人生_百科TA说.md                             |
+| Size            | 15631 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

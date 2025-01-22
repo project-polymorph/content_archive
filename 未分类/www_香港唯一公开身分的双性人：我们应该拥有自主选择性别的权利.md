@@ -1,5 +1,8 @@
 # 香港唯一公开身分的双性人：我们应该拥有自主选择性别的权利
 
+## 正文 { data-search-exclude }
+
+
 初次遇见细细老师是在她日本的一场讲座中，宽松的衬衫、朴素的长裙，束起的长头发搭在肩上。她的声音厚而有中气，一字一句都引人入胜。任何时候都在眯起眼睛和蔼的微笑，偶有小朋友哭声打断她的话头，她也笑着，等等，喝口水，再缓缓开讲。
 
 行止仪态写过，也要写她的性别。她生而为一名双性人，曾经同时有两套性器官；在年轻时被迫接受手术“改造”为男生；在三十岁后选择以“她”的状态做回自己。“很多人知道我是双性人后，眼光就之在我的下半身，而不是我的脸上。”细细老师淡淡然讲出这一番话，他人异样的眼光根本是她生命中最普通不过的东西。
@@ -82,10 +85,36 @@
 
 她说虽然双性人的出现令这个世界感到被反转了，这种存在被视为冲击社会的性别、规范、家庭结构、伦理关系。但事实上双性人的出现和存在，令到整个世界在转变，令这个世界转变得更美丽、多元、完美、可爱。
 
-## 标签
+## 标签 { data-search-exclude }
 - #女性主义
 - #LGBTQ+
 - #硬核专访
 
 （受访者提供）
 <!-- tcd_original_link https://www.wainao.me/wainao-reads/HKs-only-openly-intersex-person-07122023 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_香港唯一公开身分的双性人：我们应该拥有自主选择性别的权利.md                             |
+| Size            | 15663 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

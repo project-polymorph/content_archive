@@ -1,12 +1,15 @@
 # 2022 U.S. Transgender Survey Reports
 
-## 2022 Civic Engagement Report
+## 正文 { data-search-exclude }
+
+
+## 2022 Civic Engagement Report { data-search-exclude }
 [CIVIC ENGAGEMENT IN THE 2022 SURVEY](https://transequality.org/sites/default/files/2024-08/USTS_2022CivicEngagementReport_Final.pdf)
 
-## 2022 Early Insights Report
+## 2022 Early Insights Report { data-search-exclude }
 [EARLY INSIGHTS: A REPORT OF THE 2022 U.S. TRANSGENDER SURVEY (English)](https://transequality.org/sites/default/files/2024-02/2022%20USTS%20Early%20Insights%20Report_FINAL.pdf)
 
-## 2015 U.S. Transgender Survey Reports
+## 2015 U.S. Transgender Survey Reports { data-search-exclude }
 [2015 U.S. TRANSGENDER SURVEY COMPLETE REPORT](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf)
 
 [2015 U.S. TRANSGENDER SURVEY EXECUTIVE SUMMARY](https://transequality.org/sites/default/files/docs/usts/USTS-Executive-Summary-Dec17.pdf)
@@ -76,3 +79,29 @@
 
 ###### *Note: State Reports are only available for states that had a sufficient number of respondents to conduct statistical tests. Not all U.S. states are included above.
 <!-- tcd_original_link https://ustranssurvey.org/download-reports/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ustranssurvey_Download_Reports_-_US_Trans_Survey.md                             |
+| Size            | 7205 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

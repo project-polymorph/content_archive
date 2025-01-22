@@ -1,5 +1,8 @@
 # 「变性人」不完全图鉴（女孩）影评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img9.doubanio.com/icon/u182164233-5.jpg)
 
 Lara的胸很平。
@@ -238,3 +241,29 @@ Lara的胸很平。
 
 © 本文版权归作者 [破词儿](https://www.douban.com/people/pocier/) 所有，任何形式转载请联系作者。
 <!-- tcd_original_link https://m.douban.com/movie/review/9996567/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评撰写了一部名为《女孩》的电影，讲述了男孩Lara想变成女孩的心路历程。文中详细描述了Lara对于自己身体的厌恶，她在芭蕾舞课上的经历，以及她为之付出的努力和遭受的痛苦。在文化史上，文章提到了变性人在历史上曾被视作神明的化身，引用了古希腊和罗马的例子。接着，文章深入探讨了变性手术在历史上的演变，提及了包括汉娜·斯内尔、夏尔·博蒙在内的几位历史变性者及其选择，以及20世纪以来的医疗进展。特别提到莉莉·艾尔伯的悲剧，以及最早的变性手术案例乔治·约根森和台湾的谢尖顺。整体上，这篇综述了变性人群体的生存历史和转化经历，呈现了他们的心理挣扎与社会认同。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_「变性人」不完全图鉴-_女孩-_豆瓣.md                             |
+| Size            | 14781 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 女孩, 性别认同, 医疗资源, 文化历史, 变性手术, 生命故事, 新闻报道, 心理健康, 社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

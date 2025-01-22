@@ -1,5 +1,8 @@
 # 性别认同障碍究竟是什么？
 
+## 正文 { data-search-exclude }
+
+
 性别认同障碍，这个词汇在现代社会中似乎充满了争议和误解。有些人以为性别认同只是生理上的问题，然而，心理学的研究告诉我们，性别认同其实更多的是关于心灵和自我认知的。
 
 对于许多人来说，性别是一个自然而然的存在，他们从未质疑过自己的性别角色或身份。但对于一些人而言，他们的内心和外在性别之间存在着深深的冲突。这种冲突会带来极大的心理压力，甚至可能导致抑郁、焦虑等严重的心理问题。
@@ -32,3 +35,29 @@
 
 点击[在线测评](https://psym.fenxapp.com?src=www)或者再微信搜索小程序「[橙星云](https://psym.fenxapp.com/?src=www)」即可免费测评。
 <!-- tcd_original_link https://psy.fenxapp.com/archives/26752 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | psy_性别认同障碍究竟是什么？_-_橙星云.md                             |
+| Size            | 2208 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

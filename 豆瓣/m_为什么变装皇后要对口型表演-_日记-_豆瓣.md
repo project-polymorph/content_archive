@@ -1,5 +1,8 @@
 # 为什么变装皇后要对口型表演
 
+## 正文 { data-search-exclude }
+
+
 ![鐘綠](https://img3.doubanio.com/icon/u3578609-13.jpg)   
 作者：[鐘綠](https://www.douban.com/people/Turkeyears/)   
 时间：2023-09-12 18:50:38   
@@ -28,3 +31,29 @@
 
 © 本文版权归 [鐘緑](https://www.douban.com/people/Turkeyears/) 所有，任何形式转载请联系作者。
 <!-- tcd_original_link https://m.douban.com/note/853861825/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章深入探讨了变装皇后对口型表演的历史与文化意义，揭示了这一表演形式是如何在同性恋社群中发展起来并演变成一种艺术形式。作者引用了多个变装文化研究者的观点，分析了20世纪变装文化的演变，以及对口型表演在聚会和酒吧环境中的普及。文章回顾了从20世纪中叶以来，变装皇后如何通过对口型演出表达自我，尤其是在社交领域的抵制和认可之间的斗争。作者指出，尽管对口型表演如今在舞台上备受赞誉，但在其发展历史中，它常常被低估，被视为一种简单的表现形式，而非真正的艺术。文章同时提到变装皇后在社交媒体上展示自我以及当今对口型表演的不同看法。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_为什么变装皇后要对口型表演-_日记-_豆瓣.md                             |
+| Size            | 9226 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 鐘綠                               |
+| Region          | 未知                               |
+| Date            | 2023-09-12                                 |
+| Tags            | 变装文化, 对口型表演, 变装皇后, 同性恋, 艺术表现, 文化历史, 社交媒体, 表演艺术, 身份认同, 社区生活                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,6 +1,9 @@
 # 跨性別者「性別不安診斷證明」對就業、經濟與健康之影響
 
-## 第185期 以全人照顧為基礎之社會福利與醫療整合服務社區發展(2024年03月)
+## 正文 { data-search-exclude }
+
+
+## 第185期 以全人照顧為基礎之社會福利與醫療整合服務社區發展(2024年03月) { data-search-exclude }
 
 隨著性別意識多元發展，性別概念不再限於二元觀點。臺灣在多元性別權益希望接軌先進國家，但跨性別者仍然在職場、校園及醫療場域面臨困境（鄧筑媛等人，2023）。跨性別族群於LGBTQI+中屬於較特殊的存在，他／她們有別於同性戀、雙性戀最明顯的區別在所謂的「性別認同」（gender identity），生理性別與性別認同不一致是跨性別者最具代表性的象徵，醫學上稱為「性別不安」（gender dysphoria）以下簡稱GD（Capetillo-Ventura et al., 2015）。成功改變法定性別的跨性別者，使用新的法定性別與社會互動。根據研究，每10萬成年人有560人自認有性別不安之困擾（Nolan et al., 2019）。根據內政部人口統計，本文推估後在臺灣約有超過10萬人有性別不安困擾（註1），而在這10萬跨性別者當中，內政部統計至2016年只有666人成功更改性別（行政院性別平等會，2017）。然而，因故未能執行性別重置手術的跨性別者未必能順利融入社會，就業與經濟是主要障礙（Yıldızhan et al., 2017）。由於生理性別與法定性別的不一致，跨性別者求職過程較順性別（cisgender）難度較高，在面試關卡遭受質疑，即使成功錄取，留任率也呈現低迷狀態，導致職場弱勢的跨性別擺脫不了貧窮的惡性循環。
 
@@ -37,3 +40,29 @@
 - Davis & Yeung（2022）
 - Miller & Grollman（2015）
 <!-- tcd_original_link https://cdj.sfaa.gov.tw/Journal/Content?gno=13113 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cdj_跨性別者「性別不安診斷證明」對就業、經濟與健康之影響.md                             |
+| Size            | 4559 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

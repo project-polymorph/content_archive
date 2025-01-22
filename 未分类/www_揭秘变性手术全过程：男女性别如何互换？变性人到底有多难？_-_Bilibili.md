@@ -1,5 +1,8 @@
 # 揭秘变性手术全过程：男女性别如何互换？变性人到底有多难？
 
+## 正文 { data-search-exclude }
+
+
 ![揭秘变性手术全过程：男女性别如何互换？变性人到底有多难？](//i1.hdslb.com/bfs/archive/c9c69245fce615377f489fa225a8b55e185d5282.jpg@518w_290h_1c_!web-video-share-cover.webp)
 
 **时间**: 2022-11-15 06:21:04  
@@ -25,3 +28,29 @@
 
 ![寻找宝藏科普UP主，投稿瓜分万元奖金！](//i0.hdslb.com/bfs/activity-plat/52738bf04260501be1b7939b5fe76ee1800e37d5.jpg@640w_200h_!web-video-activity-cover.webp)
 <!-- tcd_original_link https://www.bilibili.com/video/BV1Q24y12757/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_揭秘变性手术全过程：男女性别如何互换？变性人到底有多难？_-_Bilibili.md                             |
+| Size            | 1857 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 发现男朋友异装癖怎么办
 
+## 正文 { data-search-exclude }
+
+
 ![绿螺鱼](https://img9.doubanio.com/icon/up216397879-5.jpg)
 
 ### 来自: [绿螺鱼](https://www.douban.com/people/216397879/)
@@ -46,7 +49,7 @@
 
     建议多沟通，搞清楚他为什么喜欢，包容对方的前提是知道所有的因果
 
-## 标签
+## 标签 { data-search-exclude }
 - 性别认同
 - 异装癖
 - LGBT
@@ -57,3 +60,29 @@
 
 ![性别认同小组](https://img1.doubanio.com/view/group/sqxs/public/4c0fe1d29136470.webp)
 <!-- tcd_original_link https://m.douban.com/group/topic/243086592/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文记录了一位用户在豆瓣小组中发起的讨论，反映了他在发现其男朋友有异装癖后所面临的困惑与困扰。正文首先介绍了题主和男朋友的基本情况，以及题主对男朋友夏天做出的奇特行为的初步反应。题主试图理解和接受男朋友的这一爱好，在此过程中，他感觉压力与看法上的冲突。接着，讨论中有其他用户的回应，涵盖了对待伴侣偏好与个人底线之间的平衡、对彼此情感的理解和接受等理念。这篇帖文展示了多元性别群体在情感交流与理解方面的挑战，反映了社会对异装癖和性别认同的多样看法，并提供了一些个人对待此类情况的建议与支撑。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_发现男朋友异装癖怎么办-_小组讨论_-_豆瓣.md                             |
+| Size            | 3016 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 绿螺鱼                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-08-19                                 |
+| Tags            | 性别认同, 异装癖, LGBT, 情感交流, 个人经历, 社会认知, 性取向, 心理支持, 伴侣关系, 自我探索                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

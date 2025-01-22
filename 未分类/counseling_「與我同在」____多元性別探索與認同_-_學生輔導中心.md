@@ -1,5 +1,8 @@
 # 「與我同在」──多元性別探索與認同
 
+## 正文 { data-search-exclude }
+
+
 ### 撰文/洪梓修
 
 當你看見新聞畫面上，遍地揮舞的彩虹旗幟，或是好友的臉書頭貼紛紛印上彩虹剪影時，你有什麼感覺？你想到了什麼呢？
@@ -21,27 +24,27 @@
 - 認同驕傲(Identity Pride)：「同志是好的，異性戀是不好的」
 - 認同整合(Identity Synthesis)：「接納自己、也接納和我不一樣的人」
 
-## 認同混淆(Identity Confusion)：「我是誰?」、「我是同志嗎?」
+## 認同混淆(Identity Confusion)：「我是誰?」、「我是同志嗎?」 { data-search-exclude }
 
 在第一階段中，會隱約感覺到自己的不同，但由於與社會期待不一，因此充滿困惑。如果在這個階段，對於同志身份的經驗是負向的（未能被支持、沒有認同的對象），很可能就會停留在第一階段，壓抑身為同志的真實性向。
 
-## 認同比較(Identity Comparison)：「為什麼我和別人不一樣?」
+## 認同比較(Identity Comparison)：「為什麼我和別人不一樣?」 { data-search-exclude }
 
 透過蒐集資料，開始確認自己的性向，這時會有深刻的疏離感，有時候為了避免這樣的感受，會透過「嘗試與異性交往」來壓抑。若這個階段的嘗試與自我對話後，能坦然的接受，則會進入第三階段。
 
-## 認同容忍(Identity Tolerance)：「我可能是同志」、「我不和別人說」
+## 認同容忍(Identity Tolerance)：「我可能是同志」、「我不和別人說」 { data-search-exclude }
 
 默認同志身份，加入同志的社交文化中，會嘗試與同性交往、發生性關係，但對身邊的人不輕易表明，也會偽裝成異性戀者，免除衝突。
 
-## 認同接納(Identity Acceptance)：「我是同志」、「我和親近的人說」
+## 認同接納(Identity Acceptance)：「我是同志」、「我和親近的人說」 { data-search-exclude }
 
 真正接受自己的同志身份，能有和同性建立穩定親密關係的機會。對於可信任的異性戀者，也會適度的自我揭露（出櫃）而不感覺矛盾。
 
-## 認同驕傲(Identity Pride)：「同志是好的，異性戀是不好的」
+## 認同驕傲(Identity Pride)：「同志是好的，異性戀是不好的」 { data-search-exclude }
 
 接納自己的同志身份，卻對社會對同志族群的壓抑感到強烈挫折，透過沉浸於同志團體中，對異性戀主流社會產生排外，來減緩社會疏離感。這個時候會強化投入社會運動的動機，如果能與異性戀社會重新建構友善的連結，則可進入下一階段。
 
-## 認同整合(Identity Synthesis)：「接納自己、也接納和我不一樣的人」
+## 認同整合(Identity Synthesis)：「接納自己、也接納和我不一樣的人」 { data-search-exclude }
 
 接納自己的同志身份，卻能與異性戀者、異性戀主流社會發展好的關係，看見彼此相異的價值，且明白性向僅是自我認同的一部分，並非全部。
 
@@ -62,3 +65,29 @@
 
 [「與我同在」──多元性別探索與認同 PDF 下載](https://counseling.sa.ntnu.edu.tw/wp-content/uploads/2022/01/「與我同在」──多元性別探索與認同.pdf)
 <!-- tcd_original_link https://counseling.sa.ntnu.edu.tw/%E8%88%87%E6%88%91%E5%90%8C%E5%9C%A8%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E6%8E%A2%E7%B4%A2%E8%88%87%E8%AA%8D%E5%90%8C/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | counseling_「與我同在」____多元性別探索與認同_-_學生輔導中心.md                             |
+| Size            | 6157 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 男娘：漂亮男孩辍学！/Otoko Cross: Pretty Boys Dropout!
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2024-02-24  
 **标签**: 休闲益智  
 **来源**: [游戏玩国](https://www.yxwg.ru/pcyx/xxyz)  
@@ -44,7 +47,33 @@ Build.11008506 | 容量 1.12GB | 官方简体中文 | 支持键盘、鼠标、�
 5. **购买该资源后，可以退款吗？**  
    源码素材属于虚拟商品，具有可复制性，可传播性，一旦授予，不接受任何形式的退款、换货要求。请您在购买获取之前确认好是您所需要的资源。
 
-## 评论(0)
+## 评论(0) { data-search-exclude }
 
 ### 提示：请文明发言 [取消回复](https://www.yxwg.ru/16792.html#respond)
 <!-- tcd_original_link https://www.yxwg.ru/16792.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男娘：漂亮男孩辍学！Otoko_Cross_Pretty_Boys_Dropout!_-_游戏玩国.md                             |
+| Size            | 2851 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

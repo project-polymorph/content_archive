@@ -1,6 +1,9 @@
 # 多元性别相关动画标签：性转
 
-## 动画列表
+## 正文 { data-search-exclude }
+
+
+## 动画列表 { data-search-exclude }
 
 按 [标注数](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=collects) [排名](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=rank) [日期](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=date) [名称](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/?sort=title) 排序
 
@@ -192,14 +195,14 @@
     
     4.1 (182人评分)
 
-## 标签
+## 标签 { data-search-exclude }
 - [动画](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC)
 - [书籍](https://bangumi.tv/book/tag/%E6%80%A7%E8%BD%AC)
 - [音乐](https://bangumi.tv/music/tag/%E6%80%A7%E8%BD%AC)
 - [游戏](https://bangumi.tv/game/tag/%E6%80%A7%E8%BD%AC)
 - [三次元](https://bangumi.tv/real/tag/%E6%80%A7%E8%BD%AC)
 
-## 时间
+## 时间 { data-search-exclude }
 - [2025年](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/airtime/2025)
 - [2024年](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/airtime/2024)
 - [2023年](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/airtime/2023)
@@ -211,6 +214,32 @@
 - [2017年](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/airtime/2017)
 - [2016年](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC/airtime/2016)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 © 2008-2024 Bangumi (a.k.a.Chobits), some rights reserved | r510
 <!-- tcd_original_link https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | bangumi_动画标签_性转_-_Bangumi_番组计划.md                             |
+| Size            | 8435 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

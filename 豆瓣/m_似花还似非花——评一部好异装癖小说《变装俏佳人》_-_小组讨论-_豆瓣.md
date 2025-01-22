@@ -1,5 +1,8 @@
 # 似花还似非花——评一部好异装癖小说《变装俏佳人》
 
+## 正文 { data-search-exclude }
+
+
 ![左神神](https://img3.doubanio.com/icon/up1220254-7.jpg)
 
 ### 来自: [左神神](https://www.douban.com/people/zuoshenshen/)(世上人) 组长
@@ -50,3 +53,29 @@
 
 顺便说一句英文中调情或者表示倾慕的语句使用习惯与通常用语的文法用词习惯不同…… 最后还是说一句老实话的确是一部很有意趣的书。
 <!-- tcd_original_link https://m.douban.com/group/topic/1162650/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为对小说《变装俏佳人》的深度评析，探讨了其所涉及的异装癖主题及其文化含义。作者从个人阅读体验出发，分析了小说的情节布局、人物刻画以及情感描写，认为该书在处理复杂的性别议题方面展现了作者的独特视角和大胆尝试。文中提到异装癖的定义与心理学背景，讨论了异装癖如何影响男主角的性取向与情感关系，并指出作品对这个特殊题材的处理可能会引起观众的误解。此外，作者还对小说中的角色发展及其社会背景进行了剖析，提出了关于此题材的讨论和理解值得更广泛的关注。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_似花还似非花——评一部好异装癖小说《变装俏佳人》_-_小组讨论-_豆瓣.md                             |
+| Size            | 9732 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 左神神                               |
+| Region          | 未知                               |
+| Date            | 2006-07-29                                 |
+| Tags            | 异装癖, 性别, 小说评析, 文化探讨, 心理分析, 性取向, 文学, 情感关系, 社会认知, 男主角                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

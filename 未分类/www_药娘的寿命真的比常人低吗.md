@@ -1,5 +1,8 @@
 # 药娘的寿命真的比常人低吗，比常人低多少
 
+## 正文 { data-search-exclude }
+
+
 来源: 南+ South Plus  
 时间: 2024-07-05  
 
@@ -7,7 +10,7 @@
 
 ![表情](images/post/smile/smallface/face009.jpg)
 
-## 评论
+## 评论 { data-search-exclude }
 
 - **欧忒耳佩k** - 2024-07-05 19:12  
   对 之前看到过一个四五十岁的人问自己想当药娘，有没有同龄人来点建议。结果评论就是 小药娘都活不到四五十岁 ![](images/post/smile/smallface/face101.jpg)
@@ -99,3 +102,29 @@
 - **浮流生** - 2024-07-06 20:03  
   @泰国人妖
 <!-- tcd_original_link https://www.south-plus.net/simple/index.php?t2240723.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_药娘的寿命真的比常人低吗.md                             |
+| Size            | 5855 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

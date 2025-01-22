@@ -1,5 +1,8 @@
 # 变性，不只是做个手术！
 
+## 正文 { data-search-exclude }
+
+
 **作者**：佚名  
 **来源**：搜狐  
 **日期**：2017-02-28  
@@ -45,3 +48,29 @@
 
 变性手术的成功和不断发展，无疑给一批试图通过变性解脱痛苦的人带来了希望，但毋庸置疑，也带来了一系列家庭、社会、伦理、法律等方面的问题。无论外界如何看待，变性人自己一定要加强意志锻炼，增强心理抗压能力和适应能力。河利秀、金星等变性人术后能够幸福生活，主要原因就在于他们强大的内心和适应生存能力。
 <!-- tcd_original_link https://m.cmt.com.cn/detail/1288587.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性，不只是做个手术！.md                             |
+| Size            | 6386 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

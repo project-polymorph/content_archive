@@ -1,5 +1,8 @@
 # 继金星后，又有公众人物变性！妈妈含泪支持，没想到她美成这样，妈妈又担心了！【人物故事】
 
+## 正文 { data-search-exclude }
+
+
 ![Your Studio有耳工作室](https://i.ytimg.com/an/FhktojBok7f7CD4ykaRKTA/featured_channel.jpg?v=5da4bb0d)
 
 **来源**: YouTube  
@@ -25,3 +28,29 @@
 **Instagram**: [yourstudio888](https://www.instagram.com/lilyyoustudio/)  
 **Twitter**: [Your Studio](https://twitter.com/YourStudio2)
 <!-- tcd_original_link https://www.youtube.com/watch?v=wCVT2DSEnvw -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_继金星后，又有公众人物变性！妈妈含泪支持_-_YouTube.md                             |
+| Size            | 1541 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

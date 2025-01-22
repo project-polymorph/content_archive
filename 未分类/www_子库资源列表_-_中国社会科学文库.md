@@ -1,6 +1,9 @@
 # 多元性别相关内容存档
 
-## 孩子出柜后，父母的反应模式
+## 正文 { data-search-exclude }
+
+
+## 孩子出柜后，父母的反应模式 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -12,7 +15,7 @@
 
 ---
 
-## 向父母出柜的困难与风险
+## 向父母出柜的困难与风险 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -24,7 +27,7 @@
 
 ---
 
-## 出柜咨询的总体态度
+## 出柜咨询的总体态度 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -36,7 +39,7 @@
 
 ---
 
-## 出柜的利弊
+## 出柜的利弊 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -48,7 +51,7 @@
 
 ---
 
-## 出柜的类型
+## 出柜的类型 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -60,7 +63,7 @@
 
 ---
 
-## 出柜及其压力
+## 出柜及其压力 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -72,7 +75,7 @@
 
 ---
 
-## 身份认同有关的心理咨询要点
+## 身份认同有关的心理咨询要点 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -84,7 +87,7 @@
 
 ---
 
-## 污名化对身份认同的影响
+## 污名化对身份认同的影响 { data-search-exclude }
 
 - **来源图书**： [肯定性咨询法](https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=1963558&fromSubID=328)
 - **作者**：[方刚](javascript:void(0); "方刚") [杨志红](javascript:void(0); "杨志红")
@@ -94,3 +97,29 @@
 
 **关键词**： [性别](javascript:;) [个体](javascript:;) [同性恋](javascript:;) [内化](javascript:;) [社会](javascript:;)
 <!-- tcd_original_link https://www.sklib.cn/booklib/historyResources?SiteID=122&ID=328&ResType=literature&fromSubID=326&PageIndex=272 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_子库资源列表_-_中国社会科学文库.md                             |
+| Size            | 10780 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

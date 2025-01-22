@@ -1,5 +1,8 @@
 # 全世界每年有多少人去泰国做变性手术？
 
+## 正文 { data-search-exclude }
+
+
 ![豆友249908143](https://img3.doubanio.com/icon/u249908143-2.jpg)  
 豆友249908143 2022-01-11 11:12:50
 
@@ -69,3 +72,29 @@
 
 © 本文版权归 [豆友249908143](https://www.douban.com/people/249908143/) 所有，任何形式转载请联系作者。
 <!-- tcd_original_link https://m.douban.com/note/823737910/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了泰国作为变性手术的热门目的地，分析了每年吸引大量跨性别者前往的原因与影响。文章首先引述了泰国的医疗旅游如何成为当地经济的重要支柱，数据显示，每年有超过200万名游客前往泰国接受变性手术，为当地经济带来了可观的收入。作者通过多个案例介绍了跨性别手术的实际过程、费用以及患者的经历，例如18岁男孩Eimy在父母陪同下求医的案例，以及一些医疗机构如Pratunam Polyclinic和知名医生的背景与服务。文中提到，变性手术不仅仅是身体的改变，更是心理和社会身份的转变，许多人希望通过手术来实现真实的自我。虽然泰国提供相对低廉的变性手术费用，但作者也指出，变性并不是一件轻松的事，涉及医学的严格诊断与治疗，而社会的接受度也因地区而异。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_全世界每年有多少人去泰国做变性手术？_-_日记-_豆瓣.md                             |
+| Size            | 6144 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 豆友249908143                               |
+| Region          | 未知                               |
+| Date            | 2022-01-11                                 |
+| Tags            | 变性手术, 医疗旅游, 泰国, 跨性别, 性别认同, 经济影响, Preecha Tiewtranon, Pratunam Polyclinic, 患者经历, 社会接受度                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

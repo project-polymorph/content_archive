@@ -1,5 +1,8 @@
 # 跨性别者文章列表 - 仙女楼变装家园
 
+## 正文 { data-search-exclude }
+
+
 ![变装](https://www.xiannvlou.cn/wp-content/uploads/cdts/bianzhuang2.jpg)
 
 **本站公告:** 沐楹商贸-仙女楼变装倡导 - 男扮女装大佬只是一种爱好，请勿过度沉迷！拒绝娘炮，传递正能量。不良信息举报/投诉/投稿：2561250612@qq.com
@@ -161,3 +164,29 @@
 
 ---
 <!-- tcd_original_link https://www.xiannvlou.cn/cdts/kuaxingbiezhe -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别者文章列表_-_仙女楼变装.md                             |
+| Size            | 9923 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

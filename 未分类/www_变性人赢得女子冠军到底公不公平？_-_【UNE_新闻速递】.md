@@ -1,5 +1,8 @@
 # 变性人赢得女子冠军 到底公不公平？
 
+## 正文 { data-search-exclude }
+
+
 庞可阳 洛杉矶报道
 
 ![场地自行车世界锦标赛女子35岁至39岁组冠亚季军](https://i0.wp.com/www.unecne.com/wp-content/uploads/2018/10/DpeodPPU8AUEib6.jpg?resize=600%2C600&ssl=1)
@@ -41,3 +44,29 @@
 
 **本网站内容严禁未经授权转载、复制。本网站仅为一般信息平台，所发内容不代表本站立场，不构成任何投资、购买、要约等建议，不对资料之完整性、精确性等作任何保证。**
 <!-- tcd_original_link https://www.unecne.com/archives/63535 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人赢得女子冠军到底公不公平？_-_【UNE_新闻速递】.md                             |
+| Size            | 4298 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

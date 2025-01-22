@@ -1,5 +1,8 @@
 # 超级异装癖的幸福妻子的真情告白
 
+## 正文 { data-search-exclude }
+
+
 ![gas](https://img3.doubanio.com/icon/up3605562-3.jpg)
 
 ### 来自: [gas](https://www.douban.com/people/3605562/)
@@ -33,3 +36,29 @@
 - [gas](https://www.douban.com/people/3605562/)  2009-08-23 01:24:11  
   我们家婚纱、礼服好几套，漂亮裙子很多，情趣内衣一大堆，宫廷束身内衣、泳装全有，偶们夫妻开心得很。都在淘宝淘的，很多二手很漂亮很实惠！情趣内衣质量普遍非常差要注意！还是推荐买质量好的女装开心！
 <!-- tcd_original_link https://m.douban.com/group/topic/5334961/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章由一位妻子撰写，分享了她对丈夫异装癖的理解与接受之路。她从最初的不接受，到逐渐认同并享受丈夫穿着女性服装带来的快乐，表达了对于性别表现自由的支持。在文中，妻子提到丈夫初时对女性内衣的喜好让她感到困惑，但在了解和沟通后，她意识到两性之间的快乐和满足是正常的。同时，文章中丈夫的观点也提到社会对异装癖的偏见，呼吁人们放下成见，接受多样的性别表达。该讨论不仅涉及夫妻之间的情感交流，也涉及了更广泛的社会观念与性别认同。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_超级异装癖的幸福妻子的真情告白————_-_小组讨论-_豆瓣.md                             |
+| Size            | 4092 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | gas                               |
+| Region          | 未知                               |
+| Date            | 2009-02-08                                 |
+| Tags            | 异装癖, 性别表现, 性别认同, 夫妻关系, 社会观念, 性别多样性, 心理接受, 情感交流, 文化开放, 性别角色                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 请给变性人刘婷回归天性的权利
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2015年04月21日  
 **来源**: 中国网  
 **作者**: 张田勘
@@ -48,3 +51,29 @@
 3. 凡本网注明“来源：XXX（非中国经济网）”的作品，均转载自其它媒体，转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。  
 4. 如因作品内容、版权和其它问题需要同本网联系的，请在30日内进行。
 <!-- tcd_original_link http://views.ce.cn/view/ent/201504/21/t20150421_5167267.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | views_请给变性人刘婷回归天性的权利_-_评论理论频道.md                             |
+| Size            | 7480 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

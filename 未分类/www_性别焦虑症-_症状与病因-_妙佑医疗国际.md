@@ -1,6 +1,9 @@
 # 性别焦虑症 - 症状与病因
 
-## 概述
+## 正文 { data-search-exclude }
+
+
+## 概述 { data-search-exclude }
 
 性别焦虑是指因个人的性别认同与其出生时被赋予的性别或身体性别特征不同而感到不适或困扰。
 
@@ -13,7 +16,7 @@
 - [书籍：《妙佑医疗国际家庭健康手册》](https://order.store.mayoclinic.com/flex/mmv/fhblc01/?altkey=FHBORG&utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=FamilyHealth-Book&utm_content=FHB)
 - [简报：妙佑医疗国际卫生来信 — 数字版](https://order.store.mayoclinic.com/hl/hldiged?utm_source=MC-DotOrg-PS&utm_medium=Link&utm_campaign=HealthLetter-Digital&utm_content=HLDE)
 
-## 症状
+## 症状 { data-search-exclude }
 
 性别焦虑可能会导致青少年和成人经历内在性别认同与所属性别之间的显著差异，这种差异至少持续六个月。这种差异至少体现在以下两个方面：
 
@@ -27,7 +30,7 @@
 
 性别焦虑可能始于童年，并持续到青春期和成年期。或者，您可能在某些时期不再有性别焦虑。您也可能会在青春期左右或年龄大得多的时候出现性别焦虑。
 
-## 并发症
+## 并发症 { data-search-exclude }
 
 性别焦虑可能影响生活的许多方面，包括日常活动。有性别焦虑的人在上学时可能会遇到困难，因为与其出生时的性别有关的穿衣方式或者对骚扰或取笑的恐惧会给他们带来压力。
 
@@ -37,7 +40,7 @@
 
 患有性别焦虑的青少年和成人，如果不进行性别确认治疗，可能存在想要或试图自杀的风险。
 
-## 相关医疗程序
+## 相关医疗程序 { data-search-exclude }
 
 - [青春期阻滞剂](/zh-hans/diseases-conditions/gender-dysphoria/in-depth/pubertal-blockers/art-20459075)
 - [女性化手术](/zh-hans/tests-procedures/feminizing-surgery/about/pac-20385102)
@@ -46,7 +49,7 @@
 - [男性化手术](/zh-hans/tests-procedures/masculinizing-surgery/about/pac-20385105)
 - [男性化激素治疗](/zh-hans/tests-procedures/masculinizing-hormone-therapy/about/pac-20385099)
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 1. Ferrando CA. Comprehensive Care of the Transgender Patient. Elsevier; 2020. [访问链接](https://www.clinicalkey.com). Accessed Nov. 8, 2021.
 2. Hana T, et al. Transgender health in medical education. Bulletin of the World Health Organization. 2021; doi:10.2471/BLT.19.249086.
@@ -56,9 +59,35 @@
 6. Keuroghlian AS, et al., eds. Nonmedical, nonsurgical gender affirmation. In: Transgender and Gender Diverse Health Care: The Fenway Guide. McGraw Hill; 2022. [访问链接](https://accessmedicine.mhmedical.com). Accessed Nov. 8, 2021.
 7. Coleman E, et al. Surgery. In: Standards of Care for the Health of Transsexual, Transgender and Gender Nonconforming People. Version 7. World Professional Association for Transgender Health; 2012. [访问链接](https://www.wpath.org/publications/soc). Accessed Nov. 3, 2021.
 
-## 时间
+## 时间 { data-search-exclude }
 
 May 14, 2024
 
 ![一份馈赠，无穷力量——今天就来伸出援手！](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 <!-- tcd_original_link https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/symptoms-causes/syc-20475255 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性别焦虑症-_症状与病因-_妙佑医疗国际.md                             |
+| Size            | 5290 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

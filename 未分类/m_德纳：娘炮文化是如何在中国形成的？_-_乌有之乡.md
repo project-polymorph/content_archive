@@ -1,5 +1,8 @@
 # 德纳：娘炮文化是如何在中国形成的？
 
+## 正文 { data-search-exclude }
+
+
 **作者**：德纳  
 **时间**：2024-10-08  
 **来源**：_德纳洞见|微信公众号_
@@ -27,3 +30,29 @@
 扫描下方二维码，订阅乌有之乡网刊微信  
 ![官方微信订阅号](http://w.hs1921.com/skin/wywk/images/img_weixin.jpg)
 <!-- tcd_original_link http://m.wyzxwk.com/content.php?classid=14&id=498605 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_德纳：娘炮文化是如何在中国形成的？_-_乌有之乡.md                             |
+| Size            | 3922 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

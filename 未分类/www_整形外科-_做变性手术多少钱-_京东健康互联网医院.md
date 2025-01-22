@@ -1,5 +1,8 @@
 # 变性手术：了解流程和选择权威医院
 
+## 正文 { data-search-exclude }
+
+
 ![](https://storage.360buyimg.com/nhp/seo/img/logo.png)
 
 **来源**: 京东健康  
@@ -50,3 +53,29 @@
 **举报电话**: 违法和不良信息举报电话：4006561155 消费者维权热线：4006067733  
 **备案**: 桂公网安备 45050202000590号 桂ICP备202200128号-5
 <!-- tcd_original_link https://www.jd.com/qa/217571255117699 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_整形外科-_做变性手术多少钱-_京东健康互联网医院.md                             |
+| Size            | 2154 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

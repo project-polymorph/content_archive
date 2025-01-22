@@ -1,5 +1,8 @@
 # DLC发售后会掀起空前的男娘热潮吗
 
+## 正文 { data-search-exclude }
+
+
 **发表于 2024-5-22 07:31** 来自手机
 
 ---
@@ -12,7 +15,7 @@
 
 _用户评论_
 
-## 楼主
+## 楼主 { data-search-exclude }
 
 DLC出人气女角也是一种传统了，比如玛利亚，比如芙丽德，只不过这次从小姐姐换成了小男娘
 
@@ -30,7 +33,7 @@ DLC出人气女角也是一种传统了，比如玛利亚，比如芙丽德，�
 
 注册时间 2011-12-8
 
-## 评论
+## 评论 { data-search-exclude }
 
 1. **[hisousihou](space-uid-218548.html)**：玛莉卡和拉达冈算不算男娘
 2. **[syndrome2032](space-uid-450747.html)**：我看目前风向是圣女托丽娜出来吧。米凯拉其实人设也没个准dlc万一被waifu的是圣女托丽娜，和我神人米凯拉有什么关系。
@@ -50,7 +53,7 @@ DLC出人气女角也是一种传统了，比如玛利亚，比如芙丽德，�
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 6. **[节艾司](space-uid-531956.html)**: 葛温德林也没火呀。
 7. **[樽——見](space-uid-571820.html)**: 有点来戏了。
@@ -62,7 +65,7 @@ DLC出人气女角也是一种传统了，比如玛利亚，比如芙丽德，�
 
 注册时间 2021-10-18
 
-## 评论
+## 评论 { data-search-exclude }
 
 9. **[暗日生化体](space-uid-547793.html)**: 还是想战葛德文。
 10. **[tornadoDA](space-uid-537206.html)**: 圣父不息，男娘不止吧大概尤其是宫崎老贼的这种"圣男娘"角色，总感觉与《源氏物语》之类文学的基调脱不了干系。
@@ -73,7 +76,7 @@ DLC出人气女角也是一种传统了，比如玛利亚，比如芙丽德，�
 
 注册时间 2019-1-30
 
-## 评论
+## 评论 { data-search-exclude }
 
 11. **[ybfelix](space-uid-146054.html)**: 为什么男娘这个概念这两年又复苏了，有什么契机吗。总觉得是十几年前的流行...
 12. **[ギナ](space-uid-443279.html)**: 这次还是改了点的，以前还是中文生造词伪娘，现在回归变回了日式汉语男娘了! 
@@ -85,3 +88,29 @@ DLC出人气女角也是一种传统了，比如玛利亚，比如芙丽德，�
 本内容及评论来源于 [Stage1st](https://bbs.saraba1st.com) 论坛。  
 © 2001-2025 [Discuz!](https://www.discuz.vip/) Team
 <!-- tcd_original_link https://www.saraba1st.com/2b/thread-2184342-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_DLC发售后会掀起空前的男娘热潮吗_-_Stage1st.md                             |
+| Size            | 2828 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

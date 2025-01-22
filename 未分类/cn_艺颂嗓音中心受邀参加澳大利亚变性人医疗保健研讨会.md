@@ -1,5 +1,8 @@
 # 艺颂嗓音中心受邀参加澳大利亚变性人医疗保健研讨会
 
+## 正文 { data-search-exclude }
+
+
 | [艺颂爱心医疗](#submenu-500100) | [媒体中的艺颂](/bbs/board.php?bo_table=media) | [艺颂相册](#submenu-500300) |
 |----------------------------------|----------------------------------|-------------------------------|
 | [赞助绿色儿童财团](/bbs/board.php?bo_table=love&sca=%E8%B5%9E%E5%8A%A9%E7%BB%BF%E8%89%B2%E5%84%BF%E7%AB%A5%E8%B4%A2%E5%9B%A2) | [艺颂全体员工相册](/bbs/board.php?bo_table=gallery&sca=%E8%89%BA%E9%A2%82%E5%85%A8%E4%BD%93%E5%91%98%E5%B7%A5%E7%9B%B8%E5%86%8C) | [爱心医疗相册](/bbs/board.php?bo_table=gallery&sca=%E7%88%B1%E5%BF%83%E5%8C%BB%E7%96%97%E7%9B%B8%E5%86%8C) |
@@ -23,3 +26,29 @@
 
 于12月16日，艺颂嗓音中心受邀参加在澳大利亚举办的变性人医疗保健及女性化手术商谈研讨会。
 <!-- tcd_original_link https://cn.yesonvc.com/bbs/board.php?bo_table=gallery&wr_id=75&page=2&sca=%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8&page=2 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_艺颂嗓音中心受邀参加澳大利亚变性人医疗保健研讨会.md                             |
+| Size            | 2273 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

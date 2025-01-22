@@ -1,5 +1,8 @@
 # 从跨性别主题切入的再次自我认识之旅
 
+## 正文 { data-search-exclude }
+
+
 ![头像](https://img9.doubanio.com/icon/u2857973-5.jpg)
 
 《穿越美国》从跨性别主题切入的再次自我认识之旅
@@ -40,3 +43,29 @@
 
 来自豆瓣App
 <!-- tcd_original_link https://m.douban.com/movie/review/8755797/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是对电影《穿越美国》的深入分析和个人反思，从跨性别的角度探讨了主角的自我认知之旅。文章详细描述了主角如何从一位努力融入主流社会的跨性别者，逐渐接受自己的身份，通过与儿子的关系转变和与他人互动的过程中的成长。电影展现了边缘人群的艰辛和冲突，反映了对身份认同的反思，强调了尊重、包容以及爱的多重形态。作者也表达了对偏见的思考，呼吁人们以爱去对待彼此，彼此尊重和包容，不让偏见演变为歧视。总结认为，这部影片在轻松的氛围中融入了严肃的主题，体现了多元身份的承认与尊重。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_从跨性别主题切入的再次自我认识之旅-_穿越美国_-_豆瓣.md                             |
+| Size            | 4079 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 大隐于书的书书                               |
+| Region          | 美国                               |
+| Date            | 2005-12-23                                 |
+| Tags            | 跨性别, 电影分析, 自我认知, 社会包容, 爱的形式, 边缘人群, 身份认同, 偏见与歧视, 个人成长, 文化反思                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

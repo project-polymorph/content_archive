@@ -1,5 +1,8 @@
 # 与易装癖者的混淆变成了警察案件
 
+## 正文 { data-search-exclude }
+
+
 本月初，同一个异装癖者已经卷入另一场乱局
 
 ![用户头像](https://folhadolitoral.com.br/wp-content/uploads/2022/06/avatar_user_49_1656449423.jpg)
@@ -40,3 +43,29 @@
 - [YouTube](https://www.youtube.com/@FolhadoLitoralNews)
 - [LinkedIn](https://www.linkedin.com/company/folha-do-litoral-news/)
 <!-- tcd_original_link https://folhadolitoral.com.br/zh-CN/policia/confusao-com-travesti-vira-caso-de-policia -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | folhadolitoral_与易装癖者的混淆变成了警察案件_-_Folha_do_Litoral_News.md                             |
+| Size            | 2802 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

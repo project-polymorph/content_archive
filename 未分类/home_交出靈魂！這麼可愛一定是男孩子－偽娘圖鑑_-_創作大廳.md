@@ -1,12 +1,15 @@
 # 交出靈魂！這麼可愛一定是男孩子－偽娘圖鑑
 
+## 正文 { data-search-exclude }
+
+
 作者：[來梓](https://home.gamer.com.tw/b697l) | 日期：2017-06-25 16:16:58 | 巴幣：138 | 人氣：5140
 
 大家好～偽娘是在二次元之中蠻常見的屬性，因為本身蠻喜愛偽娘這個屬性，所以做了蠻多張圖。就讓我們來看看魅力不輸女性的偽娘們吧～**#備註：有補充了一些圖＆以及個人看法**
 
 **有些角色沒穿過女裝，只是長得很像女孩子而已。** **歡迎轉載，自作發言禁止圖片版權歸屬於官方** 
 
-## 其之一
+## 其之一 { data-search-exclude }
 
 ![桂木桂馬](https://2.bp.blogspot.com/-iYLkzf_C_vA/WUkZC7kAD1I/AAAAAAAAFsM/UZUUsmxKK7Ykrqk64vIgUWCiJib82hjuQCEwYBhgL/s640/%25252525E5%2525252581%25252525BD%25252525E5%25252525A8%2525252598.jpg)
 人物名&作品名：**桂木桂馬** ／ 只有神知道的世界  **CV.下野紘** 男主，攻略之神，不多說再放一張，可惡這哪來的美少女啊！！！
@@ -33,7 +36,7 @@
 ![藤咲凪彥](https://3.bp.blogspot.com/-zpAlRyGx1X8/WU8ySilaoTI/AAAAAAAAFsg/L_gdbrJVrsomwsskmARSwVCOq4M-M-3ZACEwYBhgL/s640/ouiklo.jpg)
 **藤咲凪彥** ／ 守護甜心 **CV.千葉紗子** 平常時，沒穿女裝也很美♥
 
-## 其之二
+## 其之二 { data-search-exclude }
 
 ![祇堂鞠也](https://2.bp.blogspot.com/-wy01JR1awIU/WUkZDmUdZtI/AAAAAAAAFsM/aWXqmSSSxx8Xa7EHlq2GfwaIATr7rmQ9ACEwYBhgL/s640/%25252525E5%2525252581%25252525BD%25252525E5%25252525A8%25252525982.jpg)
 **祇堂鞠也** ／ 瑪莉亞狂熱 **CV.小林優** 男主。
@@ -61,7 +64,7 @@
 ![綾崎颯](https://2.bp.blogspot.com/-6WaVYC9BdBM/WU9L0U2GkgI/AAAAAAAAFtg/qtNDd20gqyUyW-wqs7xx6QRV8YvCxz14QCLcBGAs/s640/snapshot20170625133150.jpg)
 **綾崎颯** ／ 旋風管家！ **CV.白石涼子** 是男主同時也是弟弟，再補一張。
 
-## 其之三
+## 其之三 { data-search-exclude }
 
 ![提耶利亞・厄德](https://2.bp.blogspot.com/-TtYc8ID_EfA/WUkZEKqtaOI/AAAAAAAAFsM/ccT4-6ZboCURBjt0l77SA4QJ2BJ9v5n7gCEwYBhgL/s640/%25252525E5%2525252581%25252525BD%25252525E5%25252525A8%25252525983.jpg)
 **提耶利亞・厄德** ／機動戰士鋼彈00 **CV.神谷浩史** 正確來說他是無性別，不過還是先把他算進去XD 
@@ -72,7 +75,7 @@
 ![霧野蘭丸](https://4.bp.blogspot.com/-jYnnGc0GKFI/WU9huJD_1jI/AAAAAAAAFvc/04ACSYQg0JADx43iUvE0TBf_jqU08e3pQCLcBGAs/s400/150617_51_01.jpg)
 **霧野蘭丸** ／ 閃電十一人GO **CV.小林優** 我男神不解釋，廢話不多說再放一張，他討厭被誤認為女孩子，可謂又帥又美♥
 
-## 其之四
+## 其之四 { data-search-exclude }
 
 ![荒木光太郎](https://4.bp.blogspot.com/-_0a2ajWz2JI/WUkZDaaQkzI/AAAAAAAAFsM/12h_p-8qyx4wKWTalVI5v3DlVNZ_555VwCEwYBhgL/s640/4.png)
 **荒木光太郎** ／ 電波教師 **CV.豐崎愛生**
@@ -89,7 +92,7 @@
 ![爾乃美家累](https://2.bp.blogspot.com/-IybwFu5ZwIA/WU9f6_qBV-I/AAAAAAAAFvI/yNfqCrk8USE264AP_Spf3a1cxE5oGCH4wCEwYBhgL/s640/snapshot20170527005234.jpg)
 **爾乃美家累** ／ 科學小飛俠Crowds **CV.村瀨步** 現在的科學小飛俠好多元啊～這麼可愛絕對是男的，來張對照圖。
 
-## 其之五
+## 其之五 { data-search-exclude }
 
 ![佐佐木優太](https://2.bp.blogspot.com/-v-Y8Zv2Qq3c/WUkZBYgHLQI/AAAAAAAAFsM/reY2vy9S-5o3Ib3FFU_K2DcDLU02c4pLACEwYBhgL/s640/5.jpg)
 **佐佐木優太** ／ Q弟偵探因幡 **CV. 下田麻美**
@@ -103,7 +106,7 @@
 ![瀨名泉水](https://2.bp.blogspot.com/-3iZLlOV8O3s/WU9ZCACukvI/AAAAAAAAFuw/tuR2wbfwzPo_d9oECM2iCV7SG_zrrFeiACLcBGAs/s400/91npVafrIhL._SY960_CR31%252525252C0%252525252C640%252525252C960_.jpg)
 **瀨名泉水** ／ LOVE STAGE!! **CV.代永翼** 男主＆弟弟，不穿女裝就很可愛了～
 
-## 其之六
+## 其之六 { data-search-exclude }
 
 ![緹特斯．阿勒奇烏斯](https://4.bp.blogspot.com/-uJB8v5HIlJk/WUkZCfZck3I/AAAAAAAAFsM/VUrZ1ACUsqww-jK__foA33n82UUJ6S8OwCEwYBhgL/s640/%252525253Bl%252525253Bp77.jpg)
 **緹特斯．阿勒奇烏斯** ／ MAGI魔奇少年 **CV.松岡禎丞**
@@ -111,7 +114,7 @@
 ![路克斯·阿卡迪亞](https://4.bp.blogspot.com/-jYnnGc0GKFI/WU9huJD_1jI/AAAAAAAAFvc/04ACSYQg0JADx43iUvE0TBf_jqU08e3pQCLcBGAs/s400/150617_51_01.jpg)
 **路克斯·阿卡迪亞** ／ 最弱無敗神裝機龍 **CV.田村睦心** 男主，又是個美少女。
 
-## 其之七
+## 其之七 { data-search-exclude }
 
 ![霧島涼](https://4.bp.blogspot.com/-GcyPdPGq9b0/WtHw56It5oI/AAAAAAAAIV4/L6rJ2UC1KT4jpZv_4OBq2bq1tWPgoeMVACEwYBhgL/s640/77777.jpg)
 **霧島涼** **CV.皐月栞** ／ 裙子裡面有怪獸。男主。
@@ -138,3 +141,29 @@
 
 本站所刊載之圖文內容等版權皆屬原廠商或原作者所有，非經同意請勿轉載。
 <!-- tcd_original_link https://home.gamer.com.tw/artwork.php?sn=3621200 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | home_交出靈魂！這麼可愛一定是男孩子－偽娘圖鑑_-_創作大廳.md                             |
+| Size            | 9952 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究
 
+## 正文 { data-search-exclude }
+
+
 **Non-Suicidal Self-Injury in the Chinese Transgender Population—A Cross-Sectional Study on Prevalence and Risk Factors**
 
 **黄心蕊**
@@ -10,7 +13,7 @@
 
 ![](//html.hanspub.org/file/38-1132645x1_hanspub.png?20220209164348605)
 
-## 摘要
+## 摘要 { data-search-exclude }
 
 背景：非自杀倾向自残行为(NSSI)是影响跨性别群体心理以及生理健康的主要问题，目前对于中国跨性别群体的研究十分有限，对该群体出现的心理健康问题的研究也很有限。目的：本研究调查中国跨性别人群中NSSI的流行率和风险因素。方法：被试包括703名18~51岁的中国跨性别人群(M = 27.2, SD = 6.57)，通过在线问卷完成调查。所有被试被要求对身体意象量表、罗森伯格自尊量表、跨性别社会歧视量表、内化恐跨量表、抑郁焦虑压力量表-21、跨性别社区归属感量表和NSSI相关问题进行了回答。结果：结果表明，63%的被试报告NSSI经历，且NSSI在跨性别女性中更为普遍，比起男性，她们的焦虑水平较高，身体满意度、社区归属感和自尊水平较低。有NSSI经历的被试报告的心理症状明显增多，他们还感知到更高水平的社会歧视和内在的恐跨症，以及更低水平的身体满意度、自尊和社群归属感。同时，较低的身体满意度和心理健康问题显著地预测了跨性别者的NSSI行为。结论：研究结果证实，NSSI在中国跨性别群体中普遍存在，并且研究表明降低NSSI可以通过改善其心理健康问题和提高身体接受度来实现。同时，社会应采取相应措施消除社会歧视，增强跨性别人群自尊，并缓解他们自身的内化恐跨感受。
 
@@ -18,7 +21,7 @@
 
 ![](//html.hanspub.org/file/38-1132645x2_hanspub.png?20220209164348605)
 
-## Abstract
+## Abstract { data-search-exclude }
 
 **Background**: Non-Suicidal Self-Injury (NSSI) is a major mental and physical health concern for the transgender population, and studies on transgender in China are limited. **Aim**: This study investigated the prevalence and risk factors of NSSI in the Chinese transgender population. **Methods**: The participants included 703 self-reported Chinese transgender individuals aged 18~51 (M = 27.2, SD = 6.57), who completed an online survey. All participants responded to the Body Image Scale, Rosenberg Self-Esteem Scale, Transgender Social Discrimination Scale, Internalized Transphobia Scale, Depression Anxiety Stress Scale-21, Transgender Community Belongingness Scale, and NSSI-related questions. **Results**: The results demonstrated that 63% of participants had a history of NSSI, and it was more prevalent among trans women, who also reported higher levels of anxiety and lower levels of body satisfaction, community belongingness, and self-esteem. Participants with a history of NSSI reported significantly more psychological symptoms. They also perceived higher levels of social discrimination and internalized transphobia and lower levels of body satisfaction, self-esteem, and community belongingness. Lower levels of body satisfaction and more psychological symptoms statistically predicted NSSI history. **Conclusion**: The findings confirm that NSSI is prevalent in the Chinese transgender population, indicating the need to eliminate social discrimination, enhance self-esteem, and alleviate internalized transphobia with interventions aimed at improving mental health and body acceptance.
 
@@ -26,7 +29,7 @@
 
 Copyright © 2022 by author(s) and Hans Publishers Inc. This work is licensed under the Creative Commons Attribution International License (CC BY 4.0). [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
 
-## 1. 引言
+## 1. 引言 { data-search-exclude }
 
 性别认同是指个体对自身性别的主观体验，指派性别则是个体根据自己外显的生理性别特征被指派的性别分为男或女。跨性别群体是指那些自我性别身份认同与被指派性别不同的人群(American Psychiatric Association, 2013)，与之相反，自我性别身份认同与被指派性别认同的人群被称为顺性别群体。这种对被指派性别和自我性别认同的不符合导致一些跨性别个体决定向相反性别过渡以达成性别认同与身体的符合，常见的是从男性向女性(个体称为跨性别女性)过渡，和从女性向男性的过渡(个体称为跨性别男性)，少数存在不以单纯的性别二元论定义自身性别的群体则称呼自己为性别酷儿。跨性别群体有多种性别转换方式，如采取医疗过渡，包括激素替代治疗，性别确认手术和一些整形外科手术，或社会过渡(改名，穿着符合其性别认同的服饰等)。他们通过这样的过渡以使其性别表达与其性别身份一致(Davidson, 2007)。根据Reisner 2016年的研究，跨性别群体约占全球人口的0.1%~0.5%。而根据性别重置手术的申请数量推测，中国至少有40万跨性别群体(Jiang et al., 2014; Reisner et al., 2016)。
 
@@ -40,7 +43,7 @@ Copyright © 2022 by author(s) and Hans Publishers Inc. This work is licensed un
 
 最近，也有了许多研究人员把重点放在了中国的跨性别群体上。然而，对中国跨性别群体的NSSI的研究还十分有限。本研究的主要目的是加强对NSSI风险因素的理解，为进一步的心理干预和对跨性别群体的保护提供建议，并防止严重后果。
 
-## 2. 方法与材料
+## 2. 方法与材料 { data-search-exclude }
 
 ### 2.1. 被试
 
@@ -74,11 +77,11 @@ Copyright © 2022 by author(s) and Hans Publishers Inc. This work is licensed un
 
 该量表用于测量跨性别者的内化恐跨程度。该量表由21个项目组成，采用利克特5点量表，从1 (强烈不同意)到5 (强烈同意)。得分越高代表被试经历的内化恐跨程度越高。此量表的克朗巴赫信度系数为0.785。
 
-## 3. 分析方法
+## 3. 分析方法 { data-search-exclude }
 
 所有数据均使用SPSS 26进行分析。采用描述性统计分析人口统计学特征。卡方检验用于确定人口统计学变量与NSSI之间的关系。以自尊、身体满意度、社区归属感、感知的社会歧视和心理症状(如压力、抑郁和焦虑)为因变量，进行了两因素多变量协方差分析。其中NSSI和性别认同作为自变量。最后，二元逻辑回归被应用于调查可能的风险因素，去确定有哪些变量可以预测跨性别被试的NSSI行为。显著程度设置为p < 0.05。
 
-## 4. 结果
+## 4. 结果 { data-search-exclude }
 
 ### 4.1. 人口学变量与NSSI
 
@@ -126,7 +129,7 @@ Table 3. Logistic regression with NSSI history as dependent variable, whereas BI
 
 通过采用二元逻辑回归分析了哪些变量(身体满意度、压力、抑郁、焦虑、感知社会歧视、内化恐惧症、自尊和跨性别社区归属感)是NSSI行为的危险因素。结果如[表3](#t3)所示。身体满意度(β = 0.018, p = 0.000)和心理健康，包括压力、抑郁和焦虑(β = −0.059, p = 0.000)是NSSI行为的显著预测因子。
 
-## 5. 讨论
+## 5. 讨论 { data-search-exclude }
 
 据我们所知，本研究是目前国内首次探讨了中国跨性别群体NSSI的研究。本研究旨在确定中国跨性别者群中NSSI的流行率，以及哪些因素能预测NSSI。本研究的被试来自中国不同省份，研究样本量也显示了本研究被试群体的多样性。总的来说，63%的被试报告他们有NSSI病史，三分之一的人在过去一年有过NSSI的经历，结果明显高于顺性别人群(非临床个体为4%，临床患者为20%) (Klonsky & Muehlenkamp, 2007)。与之前的研究相比，中国跨性别者报告NSSI的比率相对高于西方研究(Claes et al., 2015; Lore et al., 2015; Aboussouan et al., 2019; Davey et al., 2016)。原因可能是之前的大多数西方研究都从临床干预中招募被试，这些被试有更好的护理和临床监督，所以比起社区被试来说有较少的NSSI经历。尽管存在这一局限性，中国跨性别者中NSSI的高流行率表明了他们承受了巨大的精神痛苦。因此，跨性别者的NSSI迫切需要临床关注和进一步研究。
 
@@ -142,15 +145,15 @@ Table 3. Logistic regression with NSSI history as dependent variable, whereas BI
 
 最后，有NSSI经历的被试在内化跨恐惧症和跨性别社群归属感方面得分较高，而自尊水平较低。由于性别不合规而长期暴露在污名化的环境中，可能会导致对其性别认同表达的负面评价、羞耻感和内疚感内化(Longhofer, 2013; Hendricks & Testa, 2012)，这可能会增加自我仇恨，降低自尊。因此，NSSI作为一种自我惩罚来释放负面情绪(Walls et al., 2010)，显著影响总体生活满意度和心理健康，并增加孤独感(Cronin et al., 2019)。由于性别认同和被指派性别的不一致，跨性别者可能认为他们不属于性别二元论中的任何一个性别群体，并且往往被顺性别者视为局外人，从而很难获得主流性别的支持。同时人们发现，获得团体支持的困难与NSSI有关(Davey et al., 2014)。然而，报告NSSI经历的被试对跨性别社群归属感的感知水平较低，跨性别女性得分显著低于跨性别男性。这可以解释为什么跨性别女性有较高的NSSI史，因为社群归属感是NSSI的保护因素。与他人建立联系，被那些有相似经历和困惑的人接纳和理解，可以缓解消极情绪和孤独感，从而降低NSSI的发生率。此外，跨性别者可以从跨性别社群、友好团体和跨性别朋友那里获得更多的信息和资源，帮助他们应对歧视和污名化的负面情绪。
 
-## 6. 局限
+## 6. 局限 { data-search-exclude }
 
 在解释本研究结果时，应考虑到几个局限性。首先，横断研究不能提供直接结论。因此，需要对中国跨性别者群进行进一步的深入和纵向研究，以调查这些预测因素如何随着时间的推移影响跨性别者群的NSSI行为和住院情况。其次，本研究侧重于NSSI历史。未来的研究应该调查NSSI历史中的模式差异。第三，本研究招募了跨性别的男性和女性，结论可能不适用于其他性别群体(如性别酷儿)。因此，未来的研究应包括更多的群体，以增强研究结果。第四，在线招募被试可能排除了不能熟练使用互联网或无法访问互联网的跨性别者。因此，使用这种抽样方法可能将年龄较大或不熟练使用网络的跨性别者排除在外。
 
-## 文章引用
+## 文章引用 { data-search-exclude }
 
 黄心蕊. 中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究Non-Suicidal Self-Injury in the Chinese Transgender Population—A Cross-Sectional Study on Prevalence and Risk Factors[J]. 心理学进展, 2022, 12(01): 335-346. [https://doi.org/10.12677/AP.2022.121038](https://doi.org/10.12677/AP.2022.121038)
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 1. Aboussouan, A., Snow, A., Cerel, J., & Tucker, R. (2019). Non-Suicidal Self-Injury, Suicide Ideation, and Past Suicide Attempts: Comparison between Transgender and Gender Diverse Veterans and Non-Veterans. Journal of Affective Disorders, 259, 186-194. [https://doi.org/10.1016/j.jad.2019.08.046](https://doi.org/10.1016/j.jad.2019.08.046)
 2. Algars, M., Alanko, K., Santtila, P., & Sandnabba, N. K. (2012). Disordered Eating and Gender Identity Disorder: A Qualitative Study. Eating Disorders, 20, 300-311. [https://doi.org/10.1080/10640266.2012.668482](https://doi.org/10.1080/10640266.2012.668482)
@@ -205,3 +208,29 @@ Table 3. Logistic regression with NSSI history as dependent variable, whereas BI
 
 版权所有：[汉斯出版社 (Hans Publishers)](https://www.hanspub.org) Copyright © 2025 [Hans](http://www.baidu.com/s?ie=utf-8&bs=%E5%BC%80%E6%BA%90+%E6%9C%9F%E5%88%8A&f=3&rsv_bp=1&wd=%E6%B1%89%E6%96%AF%E5%87%BA%E7%89%88%E7%A4%BE&oq=%E6%B1%89%E6%96%AF%E5%87%BA%E7%89%88&rsp=0&rsv_sug2=0&inputT=4767) Publishers Inc. All rights reserved.
 <!-- tcd_original_link https://image.hanspub.org/Html/38-1132645_48438.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | image_中国跨性别者非自杀倾向自残行为研究——流行率和风险_..._-_汉斯出版社.md                             |
+| Size            | 42645 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 活动人士庆祝最高法院有关雇主不得歧视同性恋和跨性别员工的裁决
 
+## 正文 { data-search-exclude }
+
+
 ![2015年4月26日一名妇女手持LGBT彩虹旗。](https://gdb.voanews.com/ac6c9928-e9ed-4093-b166-e48bc05b9549_cx0_cy10_cw0_w1023_r1_s.jpg)
 
 2020年6月17日 02:03  
@@ -37,7 +40,7 @@
 
 特朗普说：“他们已经裁定，我已经读过决定，有些人感到讶异，但他们已裁定了，我们接受这项决定。这就是一切。我们接受最高法院的裁决，这是非常有力，非常有力的决定。他们是如此裁定的。”
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 -   [活动人士庆祝最高法院有关雇主不得歧视同性恋和跨性别员工的裁决](https://www.voachinese.com/a/react-to-lgbtq-workplace-protection-ruling/5465211.html)
     ![16x9 Image](https://gdb.voanews.com/48c62253-d57e-4be6-a9ad-854e5e4d3640_tv_b1_w100_r1.jpg)
@@ -54,3 +57,29 @@
 -   [美国一家杂志宣传包容 促进美国社会讨论禁忌话题](https://www.voachinese.com/a/teaching-tolerance-in-the-us-at-the-school-level-20200130/5267170.html)
     ![美国一家杂志宣传包容 促进美国社会讨论禁忌话题](https://gdb.voanews.com/e1f0eefc-de80-4791-990b-d05eaa9f475a_tv_b1_w100_r1.jpg)
 <!-- tcd_original_link https://www.voachinese.com/a/usa-lgbt-supreme-court-reaction-20200616/5465095.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_活动人士庆祝最高法院有关雇主不得歧视同性恋和跨性别员工的裁决.md                             |
+| Size            | 6613 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

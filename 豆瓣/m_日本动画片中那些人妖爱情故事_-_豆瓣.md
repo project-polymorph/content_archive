@@ -1,5 +1,8 @@
 # 日本动画片中那些人妖爱情故事
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img1.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/2783278-20130824104208)
 
 **来自:** [在减肥的许老师 (汕头)](https://www.douban.com/people/jzhsu/)  
@@ -8,7 +11,7 @@
 
 不管怎样，人与妖总归是不同的2类生物，如果真的可以在一起的话，那该多好啊。可惜事情永远是事与愿违。。。。
 
-## 相关作品
+## 相关作品 { data-search-exclude }
 
 ### [犬夜叉](https://movie.douban.com/subject/1464448/)
 ![犬夜叉](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1973870186.webp)  
@@ -120,10 +123,36 @@
 
 ---
 
-## 在减肥的许老师的其它豆列
+## 在减肥的许老师的其它豆列 { data-search-exclude }
 - [豆丁的电影](https://www.douban.com/doulist/443884/)
 - [减肥专用](https://www.douban.com/doulist/1894609/)
 - [那些台湾还没没落的电影](https://www.douban.com/doulist/1392680/)  (1人关注)
 - [my love](https://www.douban.com/doulist/31099868/)
 - [我不是狂日者](https://www.douban.com/doulist/1392686/)
 <!-- tcd_original_link https://m.douban.com/doulist/2783278/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了日本动画片中关于人妖与爱情的故事，探讨了人与妖之间的差异与可能的情感联系。文章引用了几部著名的日本动画作品，包括《犬夜叉》《元气少女缘结神》《我家有个狐仙大人》等，突出其情节中涉及的人妖角色及其感情纠葛，探讨了在这个二元世界下的复杂情感。这些故事常常描绘出对爱情的追求与社会规范之间的冲突，文字饱含感情，反映了人们对美好爱情的向往。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_日本动画片中那些人妖爱情故事_-_豆瓣.md                             |
+| Size            | 5225 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 在减肥的许老师                               |
+| Region          | 未知                               |
+| Date            | 2013-08-22                                 |
+| Tags            | 日本动画, 人妖爱情, 情感纠葛, 社会规范, 爱情故事, 生命故事, 动画作品, 妖与人, 文化观察, 多元性别                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

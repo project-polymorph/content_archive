@@ -1,5 +1,8 @@
 # 伪娘走自己的路让别人去说
 
+## 正文 { data-search-exclude }
+
+
 ![](../../../tplimg/jwb_red_r1_c1.jpg)
 
 ![](../../../tplimg/jwb_red_r1_c2.jpg)
@@ -17,7 +20,7 @@
 **作者**: 马鹿  
 **标签**: 伪娘, 另类文化  
 
-## 正文
+## 正文 { data-search-exclude }
 
 因为快男刘著，伪娘这个存在已久的群体闯进了大众的视野。
 
@@ -55,3 +58,29 @@
 copyright © 2008 VOC.COM.CN, Geo Info. All Rights Reserved  
 湘ICP证 湘B2-20080017  
 <!-- tcd_original_link https://epaper.voc.com.cn/kjxb/html/2010-06/02/content_215789.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | epaper_伪娘走自己的路让别人去说-----科教新报数字报刊平台.md                             |
+| Size            | 5875 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 中国酷儿影展在我校成功举办
 
+## 正文 { data-search-exclude }
+
+
 发布日期：2018-06-13    作者：     来源：    点击：13
 
 5月30日下午，中国酷儿影展（西安站）在培华学院格物楼举办了一场特别的影像展出。随影展到来的嘉宾有艺术工作者石头、明明、妖妖，演员超小米等人，女子学院常务副院长刘利侠教授也出席了本次影展，三部短片作品《男孩心事》《见怪不怪》《错位》在现场展映，作品以不同地角度探讨了由性别引发的社会问题，现场有许多从陕西师范大学赶来的同学，在与嘉宾和我校女子学院、传媒学院、艺术设计学院的学生们深度的交流互动中取得了理想的效果，尽观影现场气氛活跃，互动热烈。
@@ -42,3 +45,29 @@
 地址：西安市长安区常宁大街888号        邮政编码：710125
 电话：029-85680000
 <!-- tcd_original_link https://www.peihua.edu.cn/nzxyx/info/1098/1489.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国酷儿影展在我校成功举办-女子学院.md                             |
+| Size            | 7330 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

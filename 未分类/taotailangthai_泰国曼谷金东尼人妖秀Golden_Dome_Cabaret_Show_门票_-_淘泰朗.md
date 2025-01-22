@@ -1,11 +1,14 @@
 # 泰国曼谷 金东尼人妖秀 Golden Dome Cabaret Show 门票
 
+## 正文 { data-search-exclude }
+
+
 ![金东尼人妖秀](https://taotailangthai.com/wp-content/uploads/2024/09/DSC02137.jpg)
 ![金东尼人妖秀](https://taotailangthai.com/wp-content/uploads/2024/09/DSC01764.jpg)
 ![金东尼人妖秀](https://taotailangthai.com/wp-content/uploads/2024/09/DSC02925.jpg)
 ![金东尼人妖秀](https://taotailangthai.com/wp-content/uploads/2024/09/DSC02327.jpg)
 
-## 票价
+## 票价 { data-search-exclude }
 
 ฿300 – ฿800
 
@@ -25,7 +28,7 @@
 - 豪华席 Deluxe
 - 贵宾席 VIP
 
-## 行程介绍
+## 行程介绍 { data-search-exclude }
 
 泰国前三大人妖秀 Golden Dome Cabaret Show
 
@@ -35,7 +38,7 @@
 
 精彩的编舞、精致的场景和美丽演员们的舞台才华令人为之惊叹!
 
-## 行程说明
+## 行程说明 { data-search-exclude }
 
 - 演出时间 : 每天17:00 / 18:30/20:00 演出长度约60分钟
 - 接驳方式：须自行前往，或是[订购曼谷包车](https://taotailangthai.com/product/bangkoktour-taotailang-01/?lang=zh-hans)。
@@ -43,7 +46,7 @@
 - 建议提早15分钟入场
 - 座位信息： V.I.P Seat /VIP区座位 Deluxe Seat /豪华区座位
 
-## 注意事项
+## 注意事项 { data-search-exclude }
 
 - **需要先付款，可选择信用卡/汇款/支付宝**
 - **票务一但订购无法取消、退款**
@@ -54,7 +57,7 @@
 - 票种：电子票
 - 收到电子票请打印出来或是存在手机档案，当天请**携带凭证**在柜台换票入场
 
-## 专车前往方案参考：
+## 专车前往方案参考： { data-search-exclude }
 
 - [曼谷一日包车方案 （请点我）](https://taotailangthai.com/product/bangkoktour-taotailang-01/?lang=zh-hans)
 
@@ -68,3 +71,29 @@
 
 © Taotailang Thailand **淘泰朗**
 <!-- tcd_original_link https://taotailangthai.com/product/golden-dome-cabaret-show/?lang=zh-hans -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | taotailangthai_泰国曼谷金东尼人妖秀Golden_Dome_Cabaret_Show_门票_-_淘泰朗.md                             |
+| Size            | 2554 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 我是卡蜜兒：跨性別認同不是病，更不是弱點或問題！世上會有人理解你真實的樣子【聯合國兒童基金會獲獎作品】
 
+## 正文 { data-search-exclude }
+
+
 ![Book Cover](https://www.bookrepclub.com.tw/webroot/file/book/pic_1678687226_17613_8.jpg)
 
 ### Je suis Camille
@@ -13,7 +16,7 @@ ISBN：9786267200605
 
 滿**350元**超商取貨免運費
 
-## 內容簡介
+## 內容簡介 { data-search-exclude }
 
 **─「本書描述了現代跨性別者90%會遇到的困難與心理掙扎」─**
 
@@ -43,7 +46,7 @@ ISBN：9786267200605
 -   榮獲聯合國兒童基金會(UNICEF) 9-12歲兒童文學獎
 -   法國亞馬遜書店4.2顆星好評推薦  
 
-## 【各界好評】
+## 【各界好評】 { data-search-exclude }
 
 ★ **戴爾芬‧哈維瑟−吉亞｜法國跨性別協會主席：**  
 「關於年少的跨性別者，適切描寫的作品很少，《我是卡蜜兒》恰恰是這樣的作品，為讀者述說一個關於跨性別認同的故事。像卡蜜兒這樣，有著不同於社會習俗所規定的性別認同，這種跨性別認同，並非疾病，更不是弱點或問題，而是我們人類特有的一種多樣性的自我建構，應被尊重與接受。這是一本全家適讀的書，鼓勵所有人自由充實的活出自己的性別。」
@@ -57,30 +60,30 @@ ISBN：9786267200605
 ★ **海苔熊｜Podcaster：**  
 「劇情充滿轉折，每一頁都是驚奇，盼望中又帶著寫實。每個人的生命都是獨特而不容易的。」
 
-## 【法國亞馬遜書店佳評如潮】
+## 【法國亞馬遜書店佳評如潮】 { data-search-exclude }
 
 「我最初是為自己買的，這本書太棒了！太感人了！我強烈考慮把它送給我的姪女們！」
 
 「一本關於性別認同的精采書籍，既適合兒童和青少年，也適合成人閱讀。」
 
-## 專文導讀
+## 專文導讀 { data-search-exclude }
 
 **理解跨性別光譜的多元，你也能成為給予他人力量的人**  
 **文／時尚大嗎 曾渼津（性別教育工作者）**
 
 —— （此部分内容省略）
 
-## 作者簡介 
+## 作者簡介  { data-search-exclude }
 
 **尚-盧‧費利喬利Jean-Loup Felicioli**  
 一九六〇年出生於阿爾貝維爾。他在幾個不同的城市完成了藝術學程。自一九八七年以來，他長期為「瘋影動畫工作室」製作的動畫影片擔任繪圖藝術家。
 
-## 譯者簡介
+## 譯者簡介 { data-search-exclude }
 
 **尉遲秀**  
 一九六八年生於臺北，長期關注性別平權運動，專事翻譯及兼任助理教授。
 
-## 書摘 
+## 書摘  { data-search-exclude }
 
 專文導讀
 
@@ -89,7 +92,7 @@ ISBN：9786267200605
 
 —— （此部分内容省略）
 
-## 詳細資料
+## 詳細資料 { data-search-exclude }
 
 - 書籍代號：XBGN0005  
 - 商品條碼EAN：9786267200605  
@@ -101,3 +104,29 @@ ISBN：9786267200605
 「讀書共和國出版集團版權所有」Copyright©2017 Bookrep All Rights Reserved.  
 客戶服務專線：(02)2218-1417
 <!-- tcd_original_link https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=17091 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我是卡蜜兒：跨性別認同不是病_-_讀書共和國.md                             |
+| Size            | 4504 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

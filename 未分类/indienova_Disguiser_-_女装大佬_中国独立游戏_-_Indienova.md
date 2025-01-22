@@ -1,21 +1,24 @@
 # 女装大佬 Disguiser
 
+## 正文 { data-search-exclude }
+
+
 ![](https://hive.indienova.com/farm/gameimg/2019/05/l-7999448-x7xkRv.jpg_w1920)
 
 69% 完成度 [8](#comments) 评论 12 人喜欢
 
 [Presskit](/g/disguiser/presskit)
 
-## 游戏类别
+## 游戏类别 { data-search-exclude }
 
 -   [潜入冒险](/usergames/cate/16/p/1)
 -   [冒险解谜](/usergames/cate/21/p/1)
 
-## 开发团队
+## 开发团队 { data-search-exclude }
 
 [DJ](/u/djaaaa)
 
-## 当前版本
+## 当前版本 { data-search-exclude }
 
 1.0
 
@@ -144,3 +147,29 @@ _邮箱：_**qx18917917172@gmail.com**
 
 **注意：**群发信息需要谨慎，仅在必要的时候方可群发 **另外：**一周之内，仅可以群发一次
 <!-- tcd_original_link https://indienova.com/g/disguiser -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | indienova_Disguiser_-_女装大佬_中国独立游戏_-_Indienova.md                             |
+| Size            | 4314 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

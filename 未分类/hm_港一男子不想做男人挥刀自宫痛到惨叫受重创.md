@@ -1,5 +1,8 @@
 # 港一男子不想做男人 揮刀自宮痛到慘叫受重創
 
+## 正文 { data-search-exclude }
+
+
 ##### 2013年01月06日09:10    
 来源：[人民网-港澳频道](http://hm.people.com.cn/)
 
@@ -25,3 +28,29 @@
 
 **责任编辑：李星(实习)、邓志慧**
 <!-- tcd_original_link http://hm.people.com.cn/n/2013/0106/c42272-20104224.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hm_港一男子不想做男人挥刀自宫痛到惨叫受重创.md                             |
+| Size            | 3869 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

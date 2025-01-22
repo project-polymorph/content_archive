@@ -1,5 +1,8 @@
 # 发现交往了两年的男朋友是异装癖
 
+## 正文 { data-search-exclude }
+
+
 ![momo](https://img9.doubanio.com/icon/up165638081-5.jpg)
 
 ### 来自: [momo](https://www.douban.com/people/165638081/)
@@ -103,3 +106,29 @@
 - [momo](https://www.douban.com/people/162305753/) 2024-08-03 22:13:54 湖北
   - 很多直男喜欢男娘，gay都是喜欢肌肉男的，就因为直男是男性心理所以喜欢一切女性化外型的，gay就是因为偏女性心理所以大多喜欢肌肉男。
 <!-- tcd_original_link https://m.douban.com/group/topic/309470713/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文来自豆瓣的一篇小组讨论，楼主在交往了两年的男朋友是异装癖的情况下，分享了她的困惑和内心的挣扎。楼主在旅行回来后无意中发现男友的笔记本中充满了与异装癖相关的内容，这让她深感震惊与不安。她反思过去的两年关系，试图理解男友的性倾向，并且在帖子中提问其他用户对这种情况的看法。帖子引发了众多网友的讨论，很多人对男友的性取向表示疑惑，有人认为男友可能实际上是同性恋。互动中，大家分享了对异装癖及其与性取向关系的观点，同时也有人分享自己类似的经历，讨论了怎样处理这种情况下的感情关系。总的来说，本文反映了在多元性别背景下，个体在面对伴侣性倾向时的复杂情感和道德困境。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_发现交往了两年的男朋友是异装癖-_小组讨论_-_豆瓣.md                             |
+| Size            | 6200 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | momo                               |
+| Region          | 广西                               |
+| Date            | 2024-08-03                                 |
+| Tags            | 异装癖, 性取向, 男朋友, 豆瓣小组讨论, 人生故事, 多元性别, 情感困惑, 社会认知,  LGBT, 心理探讨                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

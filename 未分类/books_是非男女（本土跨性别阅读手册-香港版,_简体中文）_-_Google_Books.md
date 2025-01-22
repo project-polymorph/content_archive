@@ -1,5 +1,8 @@
 # 是非男女（本土跨性别阅读手册-香港版, 简体中文）
 
+## 正文 { data-search-exclude }
+
+
 ![Front Cover](https://books.google.com/books/publisher/content?id=tQsqAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73qTQDY0Hm9oW-kN_-4xJ68-CDe6CkEIdlzDoJgnX1yGuiWuyJEpll3ikGTecl7h3KsTCUQBEWt9EJFrrzumo0Tma8CMftw9qNJ83lku0yhoTKI1XgXrBljjg8iIbdQjJbXH-cv)
 
 **作者**: [梁詠恩 Joanne Leung](https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22%E6%A2%81%E8%A9%A0%E6%81%A9+Joanne+Leung%22)  
@@ -37,3 +40,29 @@ Joanne出生于香港，原生性别为男，经历了四十多年的身份挣�
 ### 版权信息
 - 本书版权属于跨性别资源中心，详细信息请参考出版者网站。
 <!-- tcd_original_link https://books.google.com/books/about/%E6%98%AF%E9%9D%9E%E7%94%B7%E5%A5%B3_%E6%9C%AC%E5%9C%9F%E8%B7%A8%E6%80%A7%E5%88%AB%E9%98%85%E8%AF%BB%E6%89%8B%E5%86%8C.html?id=tQsqAwAAQBAJ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | books_是非男女（本土跨性别阅读手册-香港版,_简体中文）_-_Google_Books.md                             |
+| Size            | 3386 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

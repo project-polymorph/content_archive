@@ -1,5 +1,8 @@
 # 上海夫婦婚後3年不育 檢查揭男方「少樣嘢又多樣嘢」
 
+## 正文 { data-search-exclude }
+
+
 ![不育「男」求醫後獲證實患性發育異常，患者其實是有子宮的女性。上海兒童醫院](https://image.stheadline.com/f/680p0/0x0/100/none/db2e4a46edbe90030fff3bfdfbed7080/stheadline/inewsmedia/20241020/_2024102021584358884.jpg)
 
 上海有夫婦結婚3年但一無所出，求醫之後，驚揭丈夫原來患性發育異常，沒有睪丸不特止，還要是身藏「子宮」。
@@ -26,3 +29,29 @@
 - [汕尾醫院過百醫護追薪 抗議院方發奬金「大細超」](https://std.stheadline.com/realtime/article/2030598/即時-中國-汕尾醫院過百醫護追薪-抗議院方發奬金-大細超 "汕尾醫院過百醫護追薪  抗議院方發奬金「大細超」")
 - [執行死刑︱貴州獸父為「碰瓷」呃錢 掟3歲女向大貨車致輾斃](https://std.stheadline.com/realtime/article/2030580/即時-中國-執行死刑︱貴州獸父為-碰瓷-呃錢-掟3歲女向大貨車致輾斃 "執行死刑︱貴州獸父為「碰瓷」呃錢  掟3歲女向大貨車致輾斃")
 <!-- tcd_original_link https://std.stheadline.com/realtime/article/2030591/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E4%B8%8A%E6%B5%B7%E5%A4%AB%E5%A9%A6%E5%A9%9A%E5%BE%8C3%E5%B9%B4%E4%B8%8D%E8%82%B2-%E6%AA%A2%E6%9F%A5%E6%8F%AD%E7%94%B7%E6%96%B9-%E5%B0%91%E6%A8%A3%E5%98%A2%E5%8F%88%E5%A4%9A%E6%A8%A3%E5%98%A2 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_上海夫婦婚後3年不育檢查揭男方「少樣嘢又多樣嘢」_-_星島日報.md                             |
+| Size            | 2425 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

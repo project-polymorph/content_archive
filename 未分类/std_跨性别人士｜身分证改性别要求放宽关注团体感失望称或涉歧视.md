@@ -1,5 +1,8 @@
 # 跨性别人士｜身分证改性别要求放宽 关注团体感失望 称或涉歧视
 
+## 正文 { data-search-exclude }
+
+
 ![图为近年全球各地都有LGBT团体的游行。](https://image.stheadline.com/f/680p0/0x0/100/none/281ae3ecc19ccdea47e146378fa77cf5/stheadline/inewsmedia/20240404/_2024040410173725913.jpg)
 
 跨性别人士昨日（3日）起接受指定手术改变性徵，并符合相关条件后，即使未完成「全套手术」亦可更改身份证上性别记项。「跨青时刻」创办人及总监曾令弦医生今早（4日）在电台节目表示，对于政策的新政策感到失望，其中要求跨性别人士接受改变性徵为目标的治疗，对跨性别女性存在歧视，「咩系一个女人，系咪无阴茎就系女人？当中带咗好多既定想法，希望无手术要求」。
@@ -34,3 +37,29 @@
 
 Copyright 2025 Sing Tao Ltd. All rights reserved.
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/1990924/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E8%BA%AB%E5%88%86%E8%AD%89%E6%94%B9%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%94%BE%E5%AF%AC-%E9%97%9C%E6%B3%A8%E5%9C%98%E9%AB%94%E6%84%9F%E5%A4%B1%E6%9C%9B-%E7%A8%B1%E6%88%96%E6%B6%89%E6%AD%A7%E8%A6%96 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_跨性别人士｜身分证改性别要求放宽关注团体感失望称或涉歧视.md                             |
+| Size            | 4370 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

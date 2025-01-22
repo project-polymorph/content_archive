@@ -1,5 +1,8 @@
 # 做变性手术须年满20岁
 
+## 正文 { data-search-exclude }
+
+
 ![](../../../tplimg/sxd03.gif)
 
 ![](../../../tplimg/jwb_red_r1_c1.jpg)
@@ -32,3 +35,29 @@
 **合作伙伴：** [方正爱读爱看网](http://www.idoican.com.cn)  
 **版权声明：** copyright © 2008 VOC.COM.CN, Geo Info. All Rights Reserved 湘ICP证 湘B2-20080017
 <!-- tcd_original_link http://epaper.voc.com.cn/sxdsb/html/2009-06/17/content_90640.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | epaper_做变性手术须年满20岁.md                             |
+| Size            | 1418 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

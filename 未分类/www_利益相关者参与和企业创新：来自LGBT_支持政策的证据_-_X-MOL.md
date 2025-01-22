@@ -1,5 +1,8 @@
 # 利益相关者参与和企业创新：来自 LGBT 支持政策的证据
 
+## 正文 { data-search-exclude }
+
+
 ![xmol-logo](https://scdn.x-mol.com/jcss/images/logo-new.jpg)
 
 **来源**: [_Corporate Social Responsibility and Environmental Management_](https://www.x-mol.com/ref/1661) ( IF 8.3)  
@@ -25,3 +28,29 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 [京ICP备11026495号-2](https://beian.miit.gov.cn/)  
 [京公网安备 11010802027423号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027423)  
 <!-- tcd_original_link https://www.x-mol.com/paper/1392929300439089152/t?recommendPaper=1358119497071374336 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_利益相关者参与和企业创新：来自LGBT_支持政策的证据_-_X-MOL.md                             |
+| Size            | 2283 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

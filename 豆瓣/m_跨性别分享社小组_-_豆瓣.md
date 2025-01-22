@@ -1,5 +1,8 @@
 # 跨性别分享社小组
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别分享社](https://img3.doubanio.com/view/group/sqxs/public/e3cf5b90c34e437.webp)
 
 创建于2018-08-06  组长：[dy.octa](https://www.douban.com/people/55839318/)  小组类型：信息
@@ -33,7 +36,7 @@
 - [文献资料](https://www.douban.com/group/642538/?tab=123890#tabs)
 - [体验分享](https://www.douban.com/group/642538/?tab=123892#tabs)
 
-## 最近讨论
+## 最近讨论 { data-search-exclude }
 
 | 讨论标题                                                                                                      | 作者                       | 回应 | 最后回应   |
 |-------------------------------------------------------------------------------------------------------------|----------------------------|------|------------|
@@ -48,7 +51,7 @@
 | [不知道我是ftm还是双](https://www.douban.com/group/topic/294944074/)                                     | [叫我阿北](https://www.douban.com/people/HUAXIAOBEI/) | 15   | 10-23 11:46 |
 | [这个月的恋爱绮谭线下联动，有人一起嘛](https://www.douban.com/group/topic/312103709/)                     | [香根鸢尾](https://www.douban.com/people/270869336/) | -    | 10-04 20:37 |
 
-## 友情小组
+## 友情小组 { data-search-exclude }
 
 [![性别认同&性取向探究自我研习所](https://img1.doubanio.com/view/group/sqxs/public/4c0fe1d29136470.webp)](https://www.douban.com/group/Gender_identity/)  
 [性别认同&性取向探究自我研习所](https://www.douban.com/group/Gender_identity/) (22055)
@@ -58,3 +61,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/group)
 <!-- tcd_original_link https://m.douban.com/group/642538/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件记录了跨性别分享社小组在豆瓣的创建背景与社群规则。小组自2018年8月6日成立以来，致力于为跨性别个体提供一个开放的平台，分享和交流与跨性别相关的经验、资料和文献。文中指出，小组内容仅限于跨性别相关的分享，禁止讨论性取向和生活偏好的内容，旨在维护社区的良好氛围与秩序。小组还提供了最近的讨论话题和相关链接，鼓励成员遵守发言规则，以便更有效的进行沟通和信息传递。此外，文中提到了一些关注跨性别相关问题的小组标签，如LGBT和跨性别，并列出了一些友情链接，以帮助用户找到更多相关社区和资源。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别分享社小组_-_豆瓣.md                             |
+| Size            | 5773 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | dy.octa                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-06                                 |
+| Tags            | 跨性别, LGBT, 经验分享, 社群规则, 文献资料, 社会环境, 生命故事, 法律政策, 医疗资源, 真实记录                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

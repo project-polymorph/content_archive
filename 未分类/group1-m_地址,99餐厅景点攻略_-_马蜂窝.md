@@ -1,6 +1,9 @@
 # 普吉岛99餐厅点评及信息
 
-## 99餐厅（99 Restaurant）
+## 正文 { data-search-exclude }
+
+
+## 99餐厅（99 Restaurant） { data-search-exclude }
 
 _3.9_分 _值得一去_
 
@@ -95,3 +98,29 @@ V7MM+96Q, Pa Tong, Kathu District, Phuket 83150, Thailand
 
 马蜂窝旅游网
 <!-- tcd_original_link https://group1-m.mafengwo.cn/poi/3233.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | group1-m_地址,99餐厅景点攻略_-_马蜂窝.md                             |
+| Size            | 4892 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

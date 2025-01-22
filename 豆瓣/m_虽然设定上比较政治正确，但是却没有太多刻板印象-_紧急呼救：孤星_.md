@@ -1,5 +1,8 @@
 # 紧急呼救：孤星 第二季剧评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u190503935-3.jpg)
 
 **作者**: [箫笙落叶](https://www.douban.com/people/190503935/)  
@@ -26,3 +29,29 @@ Marjan这个角色刻画的非常不错，她戴头巾不是被迫，而是“�
 
 ---
 <!-- tcd_original_link https://m.douban.com/movie/review/13968389/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇剧评对美剧《紧急呼救：孤星 第二季》进行了细致的评析，特别聚焦于剧中多样性角色的刻画。作者提到剧中的角色虽然在设定上追求多元性，但并未过于沉溺于刻板印象。例如，TK是同性恋，Paul是变性人，Marjan是一名穆斯林女性，且她的角色深刻反映了个人选择与社会偏见之间的关系。Marjan在戴头巾的选择上并非出于宗教强迫，而是她的自主决定，她的个性与背景在剧中得到了很好的表现，为观众呈现出多元性别与文化的真实一面。该剧通过角色的复杂性，挑战了传统的刻板印象，为多元性别和文化的接受提供了积极的平台。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_虽然设定上比较政治正确，但是却没有太多刻板印象-_紧急呼救：孤星_.md                             |
+| Size            | 1357 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 箫笙落叶                               |
+| Region          | 美国                               |
+| Date            | 2021-01-18                                 |
+| Tags            | 美剧, 紧急呼救, 多元性别, 剧评, 角色刻画, 社会偏见, 文化多样性, 穆斯林女性, 同性恋, 变性人                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

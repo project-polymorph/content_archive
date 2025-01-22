@@ -1,5 +1,8 @@
 # 变性人演变性电影，但别把他们当成「怪物」
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 提到“LGBT”这个词，可能不少宝宝们都以为，它是同性恋的代名词。
@@ -18,7 +21,7 @@
 
 《普通女人》
 
-## Una mujer fantástica(2017)
+## Una mujer fantástica(2017) { data-search-exclude }
 
 这是今年刚刚从柏林电影节，斩获最佳剧本奖的一部智利电影。
 
@@ -277,3 +280,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/9276360/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评深入探讨了智利电影《普通女人》的故事，该片围绕一位跨性别女性玛丽娜的生活与挣扎展开。影评从文化背景切入，首先解释了跨性别者的定义与社会认知，进而详细分析了影片中的主要情节、角色发展及其对跨性别者日常挑战的真实反映。玛丽娜在经历爱人与自己面对的社会偏见后，展现出强大的韧性，但也在社会歧视与个人身份认同中不断徘徊。影片借由其悲剧性的情节，揭示了跨性别者在当今社会中所遭受的误解、排斥与痛苦，强调了对这一群体的尊重与理解的重要性。影评还批评了传统社会对此类群体的偏见，并呼吁观众在欣赏影片的同时思考现实世界中跨性别者的处境与需求。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性人演变性电影，但别把他们当成「怪物」_-_普通女人-_豆瓣.md                             |
+| Size            | 10076 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 智利                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性人, LGBT, 电影评论, 社会偏见, 人权, 女性视角, 文化认同, 性别认同, 人生故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

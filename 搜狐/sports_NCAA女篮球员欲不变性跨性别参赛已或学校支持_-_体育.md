@@ -1,5 +1,8 @@
 # NCAA女篮球员欲不变性跨性别参赛 已或学校支持
 
+## 正文 { data-search-exclude }
+
+
 ![搜狐网站](https://images.sohu.com/uiue/sohu_logo/2005/sohu_logo2.gif)
 ![搜狐体育](https://sports.sohu.com/upload/simgs20110121/sports_gmlogo2.gif)
 
@@ -26,7 +29,7 @@
 
 ---
 
-## 新闻表情
+## 新闻表情 { data-search-exclude }
 - ![](http://comment.news.sohu.com/upload/mood20100518/images/i01.gif)高兴
 - ![](http://comment.news.sohu.com/upload/mood20100518/images/i02.gif)难过
 - ![](http://comment.news.sohu.com/upload/mood20100518/images/i03.gif)感动
@@ -36,7 +39,7 @@
 
 (责任编辑：柴森森)
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 - 10-11-04·[NCAA联盟惊现变性球员 挑战极限大学称坚决拥护](https://sports.sohu.com/20101104/n277082146.shtml)
 - 10-10-16·[前洛杉矶警官状告赛事组委会 不准变性人是歧视](https://sports.sohu.com/20101016/n275783883.shtml)
 - 10-10-15·[美变性女高球手遭拒赛 自称在各个方面都是女性](https://sports.sohu.com/20101015/n275769256.shtml)
@@ -48,9 +51,35 @@
 - 09-07-09·[高尔夫美女曾变性 性别检查奥运冠军竟被迫脱光](https://sports.sohu.com/20090709/n265095018.shtml)
 - 09-02-25·[年龄和性别都占优势 许利民望出任女篮助理教练](https://sports.sohu.com/20090225/n262464561.shtml) 
 
-## 标签
+## 标签 { data-search-exclude }
 变性, 女篮
 
-## 版权
+## 版权 { data-search-exclude }
 Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有](https://corp.sohu.com/s2007/copyright/)
 <!-- tcd_original_link https://sports.sohu.com/20101105/n277162906.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sports_NCAA女篮球员欲不变性跨性别参赛已或学校支持_-_体育.md                             |
+| Size            | 3775 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

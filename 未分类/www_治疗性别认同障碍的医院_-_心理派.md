@@ -1,5 +1,8 @@
 # 治疗性别认同障碍的医院
 
+## 正文 { data-search-exclude }
+
+
 ![](https://www.xinlipai.com/static/skin/default/ico-zoomin.png) ![](https://www.xinlipai.com/static/skin/default/ico-zoomout.png) 
 
 **发布时间：** 2024-05-13  
@@ -10,19 +13,19 @@
 
 ![](https://www.xinlipai.com/file/upload/202405/14/132212371.jpg)
 
-## 性别认同障碍的定义
+## 性别认同障碍的定义 { data-search-exclude }
 
 性别认同障碍（Gender Identity Disorder，简称GID）是指一个人的生理性别与自我认知的性别不符，即主观性别认同与生理性别之间的不一致。GID早期被称为“性别错置”，现今被称为“性别矛盾症状”。该病并非一种罕见症，而是影响着全球数百万人的健康和生活质量，因此寻找一家专业的治疗性别认同障碍的医院十分关键。
 
-## 性别认同障碍的症状
+## 性别认同障碍的症状 { data-search-exclude }
 
 性别认同障碍的症状涉及对生理性别的厌恶、抵抗或与其不匹配，从而导致对自己的身份感觉不安或不适。这种不适会导致患者经常产生身体异己之感、悲观和自卑等情绪。患者可能会表现出希望对性别角色、外貌、身体特征以及与伴侣的性关系等方面进行改变。
 
-## 治疗方法
+## 治疗方法 { data-search-exclude }
 
 如今，治疗性别认同障碍的主要方法包括药物、心理治疗、手术以及社交过度换装。药物治疗主要包括抗雄性激素的使用，而手术治疗则主要通过变性手术来满足患者对自己性别的认同。世界卫生组织建议应对性别认同障碍患者实施多学科治疗，包括心理学、内分泌学、精神科，外科以及护理等有助于改善和观察疾病进展的临床实践。
 
-## 专业的医院
+## 专业的医院 { data-search-exclude }
 
 专业的医院是患者治疗性别认同障碍之旅中最关键的一环。有一些机构专门为性别认同障碍患者提供临床和其他支持。其中最知名的是约翰霍普金斯大学的威尔玛·曼斯中心（Willy Wilkinson Center）。这是一家知名的医院，其背后有许多具有长期研究经验的医生和护士，是全球最具声誉的治疗性别认同障碍的医院之一。此外，美国洛杉矶的帕門拉·A·波特儿童诊所（Pamela A. Porter），以及澳大利亚维多利亚州墨尔本的墨尔本大学性别发展研究中心均是治疗性别认同障碍的首选医院。
 
@@ -44,3 +47,29 @@
 
 (c)2016-2024 www.xinlipai.com心理派 All Rights Reserved.心理派，心理行业一站式平台。
 <!-- tcd_original_link https://www.xinlipai.com/mobile/article/love/9359.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_治疗性别认同障碍的医院_-_心理派.md                             |
+| Size            | 3824 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

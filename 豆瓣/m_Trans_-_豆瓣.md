@@ -1,15 +1,18 @@
 # 揭开面纱：好莱坞的跨性别人生 片单
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/129203126-20200705120106)
 
-## 片单信息
+## 片单信息 { data-search-exclude }
 - 来自: [#鼓鼓# (北京)](https://www.douban.com/people/136566077/)
 - 创建时间: 2020-07-05 11:20:28
 - 更新时间: 2020-07-05 12:01:06
 - 关注人数: 3
 - 标签: 电影
 
-## 可播放的影视 (15)
+## 可播放的影视 (15) { data-search-exclude }
 
 ### [姿态 第一季 Pose Season 1](https://movie.douban.com/subject/26997983/)
 - ![](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2520463601.webp)
@@ -210,16 +213,42 @@
 
 --- 
 
-## 什么是片单
+## 什么是片单 { data-search-exclude }
 片单是收集影视的工具，创建片单后，在豆瓣看到符合片单主题的电影、电视时可以将它放入片单，方便以后找到。
 
-## 这个片单的标签
+## 这个片单的标签 { data-search-exclude }
 - [电影](https://www.douban.com/tag/电影/?focus=doulist)
 
-## #鼓鼓#的其它豆列
+## #鼓鼓#的其它豆列 { data-search-exclude }
 - [random movies we talked about](https://www.douban.com/doulist/142469104/)
 - [安乐死](https://www.douban.com/doulist/147343838/)
 - [w](https://www.douban.com/doulist/146691921/)
 - [性别](https://www.douban.com/doulist/113803321/)
 - [疯求大赏](https://www.douban.com/doulist/114303065/) (11人关注)
 <!-- tcd_original_link https://m.douban.com/doulist/129203126/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为《揭开面纱：好莱坞的跨性别人生片单》，由"鼓鼓"创建，主要记录了一系列关于跨性别主题的电影和电视作品，包括《姿态 第一季》、《I Am Cait》、《透明家庭 第三季》等等。每部作品都附有详细的信息，如导演、主演、类型、评分及发布日期等。这些影视作品展示了跨性别者在大众文化中的表现和经历，反映了他们的生活故事、挑战和成就。文件内容丰富，强调了多元性别在娱乐产业中的重要性，展示了跨性别者如何通过银幕讲述自己的故事和倡导社会变革。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_Trans_-_豆瓣.md                             |
+| Size            | 7899 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 鼓鼓                               |
+| Region          | 美国                               |
+| Date            | 2020-07-05                                 |
+| Tags            | 跨性别, 好莱坞, 电影片单, 生活故事, 文化表现, 社会变迁, 性别认同, 影视作品, 多元性别, 经历分享                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

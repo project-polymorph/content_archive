@@ -1,5 +1,8 @@
 # 唐凤：我的母题，是和每个人站在一起
 
+## 正文 { data-search-exclude }
+
+
 ![唐凤：我的母题，是和每个人站在一起](https://cloudfront-us-east-1.images.arcpublishing.com/radiofreeasia/CS5HUZWXJFOJTD3SPHYFX6KWQ4.png)
 
 10-09-2020 [深度报道](/wainao-reads/in-depth-reports/) [人物](/topics/people/)
@@ -8,7 +11,7 @@
 
 撰文 许佳琦 共 3885 字，6 分钟阅读
 
-## 她是台湾第一位跨性别官员，也是国际知名的公民黑客。许多媒体称唐凤“天才IT大臣”、“最年轻的跨性别部长”，但她却认为，自己更像一座桥，跨越二元，开放各种生命经验，提出问题，讨论答案。
+## 她是台湾第一位跨性别官员，也是国际知名的公民黑客。许多媒体称唐凤“天才IT大臣”、“最年轻的跨性别部长”，但她却认为，自己更像一座桥，跨越二元，开放各种生命经验，提出问题，讨论答案。 { data-search-exclude }
 
 一头长发，圆圆眼镜，说话极快，常常夹带冷笑话。她是唐凤，今年39岁了。打开她的维基百科页，洋洋洒洒，无数注脚。从小资优生，8岁写程式，14岁在家自学，16岁开公司，24岁宣告为跨性别，从“唐宗汉”改名“唐凤”（Audrey Tang）。后任BenQ、苹果等科技公司顾问，33岁退休。35岁那年，她进入台湾行政院，担任第一位“数位政委”（digital minister），让公务员部门学数据创新，开放政府资讯。
 
@@ -130,3 +133,29 @@
 
 以己身为桥，技术为墩，对现阶段的唐凤来说，就是不断跨越对立，尝试站在两端，造出一点新的火花。
 <!-- tcd_original_link https://www.wainao.me/wainao-reads/audrey-tang-takes-all-sides-10082020 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_台湾首位跨性别部长唐凤：我的母题，是和每个人站在一起_-_歪脑.md                             |
+| Size            | 13456 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 雇用cisgender演员扮演变性角色就像黑脸一样糟糕？
 
+## 正文 { data-search-exclude }
+
+
 好莱坞似乎仍然不理解一个男人扮演女仆（transface）并不比黑脸好。 （ _我想清楚这是出于不同的原因，但仍然同样糟糕。_ ）我知道有一个较小的跨性别女演员可供选择。 这并不是说如果他们尝试的话他们找不到一个，但至少他们可以扮演一个女人来扮演一个女人的角色，并且减轻一个女人角色的故事，作为一个折衷方案。 这也让他们用“starpower”来推动[电影](https://www.chunletang.com/note/%e7%94%b5%e5%bd%b1 "Topics of 电影")。 虽然如果跨性别女人从未获得角色，我们什么时候会有一个具有“明星力量”的跨性别女演员？
 
 恕我直言是这一切中最糟糕和最无效的部分。
@@ -46,3 +49,29 @@ _截止日期好莱坞首片与马特博默合作剪辑“Anything”_
 
 **编辑：** 我应该说清楚 – 这个答案只是我的意见。 我声称不代表任何社区。
 <!-- tcd_original_link https://www.chunletang.com/6492/%E9%9B%87%E7%94%A8cisgender%E6%BC%94%E5%91%98%E6%89%AE%E6%BC%94%E5%8F%98%E6%80%A7%E8%A7%92%E8%89%B2%E5%B0%B1%E5%83%8F%E9%BB%91%E8%84%B8%E4%B8%80%E6%A0%B7%E7%B3%9F%E7%B3%95%EF%BC%9F.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_雇用cisgender演员扮演变性角色就像黑脸一样糟糕？_-_春乐堂.md                             |
+| Size            | 6437 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

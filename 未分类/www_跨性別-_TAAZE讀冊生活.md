@@ -1,5 +1,8 @@
 # 跨性别相关书籍与内容
 
+## 正文 { data-search-exclude }
+
+
 跨性别的相关搜索： 
 - [性别多元宇宙：跨性别生命故事集](https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E6%80%A7%E5%88%A5%E5%A4%9A%E5%85%83%E5%AE%87%E5%AE%99%EF%BC%9A%E8%B7%A8%E6%80%A7%E5%88%A5%E7%94%9F%E5%91%BD%E6%95%85%E4%BA%8B%E9%9B%86) 
 - [台灣跨性别前史](https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E5%8F%B0%E7%81%A3%E8%B7%A8%E6%80%A7%E5%88%A5%E5%89%8D%E5%8F%B2) 
@@ -7,7 +10,7 @@
 - [男人在世：跨性别者历经暴力、宽恕与成为男人的真实故事](https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E7%94%B7%E4%BA%BA%E5%9C%A8%E4%B8%96%EF%BC%9A%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%AD%B7%E7%B6%93%E6%9A%B4%E5%8A%9B%E3%80%81%E5%AF%AC%E6%81%95%E8%88%87%E6%88%90%E7%82%BA%E7%94%B7%E4%BA%BA%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B) 
 - [性别岛读：台灣性别文学的跨世纪革命暗语](https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E6%80%A7%E5%88%A5%E5%B3%B6%E8%AE%80%EF%BC%9A%E8%87%BA%E7%81%A3%E6%80%A7%E5%88%A5%E6%96%87%E5%AD%B8%E7%9A%84%E8%B7%A8%E4%B8%96%E7%B4%80%E9%9D%A9%E5%91%BD%E6%9A%97%E8%AA%9E)
 
-## 書籍列表
+## 書籍列表 { data-search-exclude }
 
 ### 1. [磚刊 第3期：跨性别](https://www.taaze.tw/products/21100027973.html)
 - **出版日期**：2014-10-01
@@ -73,3 +76,29 @@
 
 请注意，所有链接和信息均为保留原样。
 <!-- tcd_original_link https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E8%B7%A8%E6%80%A7%E5%88%A5&srsltid=AfmBOoqlChPnp584r2eLWmwy0h-HiUVdCd6q191P3YxP27qMf4OKJNR8 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別-_TAAZE讀冊生活.md                             |
+| Size            | 6823 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 陳啓昱逃逸事件報導
 
+## 正文 { data-search-exclude }
+
+
 ![CTITV LOGO](/_nuxt/d0b63b60.png)
 
 **星期二 1月21日, 2025**
@@ -24,3 +27,29 @@
 
 蔡正元續指，前民眾黨不分區立委陳琬惠早在2年前就在講了，雖然金額沒有講對，但請問檢調會不知道嗎？為什麼不辦，「因為他是英文的人啊！也是新潮流的人啊！這個怎麼可以嚴辦呢？」從沒有羈押這件事就看懂了，像這麼大的案子，法官沒裁定羈押，檢方也沒提抗告，請問這個動作你還看不懂嗎？你要這麼認真的去查嗎？那如果違逆上意，升官之路就沒啦！
 <!-- tcd_original_link https://ctinews.com/news/items/zMW5Zl16aN -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ctinews_辣晚報陳啓昱落跑賴清德下令全力逮捕蔡正元酸爆：誰不想要升官啦？.md                             |
+| Size            | 2767 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

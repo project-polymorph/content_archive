@@ -1,5 +1,8 @@
 # 美国一高中生公开变性人身份获校方祝福
 
+## 正文 { data-search-exclude }
+
+
 **2014-05-23 08:37 来源：环球网** 
 
 ![美国一高中生公开变性人身份获校方祝福](http://img.cyol.com/img/news/attachement/jpg/site2/20140522/00219b05efd114e7827417.jpg)
@@ -20,3 +23,29 @@
 - [俄美总统齐晒收入：普京“很穷”奥巴马收入缩水](http://www.51grb.com/people/jdrw/rwjj/46000.shtml) 2014/04/14
 - [俄美总统齐晒收入：普京“很穷”奥巴马收入缩水](http://www.51grb.com/people/jdrw/dbxw/44172.shtml) 2014/04/14
 <!-- tcd_original_link http://people.51grb.com/people/gjk/61812.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | people_美国一高中生公开变性人身份获校方祝福_-_人物频道-_51网.md                             |
+| Size            | 2531 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

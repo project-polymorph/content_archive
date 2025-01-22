@@ -1,5 +1,8 @@
 # Cigna Global全球医疗保险 - 除外责任及不保事项
 
+## 正文 { data-search-exclude }
+
+
 以下是Cigna Medical Insurance信诺全球医疗保险常见的不保事项概要:
 
 1.  保险公司不会支付任何非法/犯法的索赔。比如OFAC(美国财政部海外资产控制办公室)指定的国家，或有贸易禁运的国家。
@@ -107,9 +110,35 @@
 
 [搜索医疗网络内的医生/医院](/cn/yiliao-wangluo/cigna-global.php)
 
-## Let's get started
+## Let's get started { data-search-exclude }
 
 [在线投保](/cn/cigna-global/buy.php)
 
 ![stock image](https://cdn.internationalstudentinsurance.com/images/stock-images/attractive-handsome-man-holding-plastic-credit-card-and-mobile-phone-small.png)
 <!-- tcd_original_link https://www.internationalstudentinsurance.com/cn/cigna-global/chuwai-zeren.php -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_除外责任及不保事项_Cigna_Global全球医疗保险.md                             |
+| Size            | 10385 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

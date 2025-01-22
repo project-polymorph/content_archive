@@ -1,5 +1,8 @@
 # 安省男子用Snapchat引诱未成年少女 提供大麻后车内性侵女子
 
+## 正文 { data-search-exclude }
+
+
 ![星岛加拿大都市网 - 多伦多新闻, 多伦多资讯, 多伦多工作, 多伦多旅游, 多伦多美食, 多伦多活动, 多伦多超市 - 移民的网络家园](https://dushi.singtao.ca/images/dushi_logo_140x48.png)
 
 【星岛都市网】尼亚加拉警方已拘捕一名15岁少女，指他透过社交媒体约见面后，在车内性侵少女。
@@ -75,3 +78,29 @@
 
 版权所有 © 2008-2024 星岛加拿大都市网
 <!-- tcd_original_link https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E6%96%B0%E9%97%BB/%E5%AE%89%E7%9C%81%E7%94%B7%E5%AD%90%E7%94%A8snapchat%E5%BC%95%E8%AF%B1%E6%9C%AA%E6%88%90%E5%B9%B4%E5%B0%91%E5%A5%B3-%E6%8F%90%E4%BE%9B%E5%A4%A7%E9%BA%BB%E5%90%8E%E8%BD%A6%E5%86%85%E6%80%A7%E4%BE%B5/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | dushi_安省男子用Snapchat引诱未成年少女提供大麻后车内性侵女子.md                             |
+| Size            | 6427 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

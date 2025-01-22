@@ -1,5 +1,8 @@
 # 英大学欲建三种厕所：男人、女人、变性人
 
+## 正文 { data-search-exclude }
+
+
 ![](//himg2.huanqiucdn.cn/attachment2010/2013/1019/20131019083013219.jpg?imageView2/2/w/750)
 
 本报讯 据外媒报道，英国萨塞克斯大学或许将成为英国第一所全面安装三种类型厕所的大学，即男厕所、女厕所和变性人厕所。
@@ -16,3 +19,29 @@
 作者：张阳  
 标签：#性别多元 #厕所政策 #萨塞克斯大学
 <!-- tcd_original_link https://m.huanqiu.com/article/9CaKrnJCJBO -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_英大学欲建三种厕所：男人、女人、变性人.md                             |
+| Size            | 1241 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

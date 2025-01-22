@@ -1,5 +1,8 @@
 # 高盛变性人
 
+## 正文 { data-search-exclude }
+
+
 ![职问](https://oss.cyzone.cn/2020/0227/79c08c0405eb5e5ae8a3bd31d7ddbe2b.png)
 
 2014年苹果CEO库克的出柜公开信其实就代表了这家科技公司的开放包容
@@ -160,3 +163,29 @@ J.P.Morgan有一个项目叫做“Proud to Be”，自我认同为女同性恋�
 
 标签：[科技](/label/%E7%A7%91%E6%8A%80) [互联网](/label/%E4%BA%92%E8%81%94%E7%BD%91) [高盛](/label/%E9%AB%98%E7%9B%9B)
 <!-- tcd_original_link https://m.cyzone.cn/article/538338 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_高盛变性人_-_创业邦.md                             |
+| Size            | 11660 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

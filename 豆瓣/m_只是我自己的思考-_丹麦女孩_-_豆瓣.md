@@ -1,5 +1,8 @@
 # 只是我自己的思考（丹麦女孩）影评
 
+## 正文 { data-search-exclude }
+
+
 [![](https://img3.doubanio.com/icon/u147515299-2.jpg)](https://www.douban.com/people/147515299/)
 
 这篇影评可能有剧透
@@ -16,7 +19,7 @@
 
 © 本文版权归作者 [请你坚持活下去](https://www.douban.com/people/147515299/) 所有，任何形式转载请联系作者。
 
-## 电影信息
+## 电影信息 { data-search-exclude }
 
 - **电影标题**: 丹麦女孩
 - **导演**: 汤姆·霍伯
@@ -29,3 +32,29 @@
 
 [丹麦女孩](https://movie.douban.com/subject/3071604/)
 <!-- tcd_original_link https://m.douban.com/movie/review/10292566/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评围绕电影《丹麦女孩》展开，重点讨论了影片中变性人Lili的故事以及性别认同与社会预设之间的冲突。作者通过自己的视角，对影片中的影像和表演给予了高度评价，认为开篇的几个镜头极具美感，令人震撼。文中引发了对性别与社会角色的探讨，质疑传统的性别界限及其在文化传承中的影响。作者表达了对主角勇气的赞赏，反映了对于性少数群体的认知局限，强调了理解和支持的重要性，同时也指出了当时医学条件的不足所带来的风险，折射出对变性人群体勇敢追求自我认同的敬佩。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_只是我自己的思考-_丹麦女孩_-_豆瓣.md                             |
+| Size            | 2280 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 请你坚持活下去                               |
+| Region          | 未知                               |
+| Date            | 2016-01-01                                 |
+| Tags            | 丹麦女孩, 变性人, 性别认同, 影评, 汤姆·霍伯, 社会预设, 性少数群体, 勇气与支持, 医学与变性, 个体故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

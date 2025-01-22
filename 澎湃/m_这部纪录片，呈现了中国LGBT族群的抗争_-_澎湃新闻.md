@@ -1,5 +1,8 @@
 # 这部纪录片，呈现了中国LGBT族群的抗争
 
+## 正文 { data-search-exclude }
+
+
 ![李二毛的双重人生](https://image.thepaper.cn/publish/interaction/image/5/57/823.jpg)
 
 **作者**：Louis Hothothot  
@@ -51,3 +54,29 @@ ID：pjw-documentary
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问[澎湃号申请页面](https://renzheng.thepaper.cn)。
 <!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_7931257 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了纪录片《李二毛的双重人生》，该片关注中国LGBT族群的抗争与生存困境。通过讲述变性人李二毛的个人经历，电影生动呈现了她在社会压力下所承受的痛苦和挑战。导演贾玉川用细腻的叙述手法刻画了李二毛的内心挣扎，她渴望转变身份、被接受却始终未能如愿。影片通过展示李二毛的家庭背景、社会歧视及她的情感关系，揭示了变性人在当今社会中面临的多重压迫，以及她最终孤独凋零的命运。除了个人故事，影片也反映出更广泛的文化和社会问题，展现了中国变性人群体在权利和尊重方面的艰难抗争。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_这部纪录片，呈现了中国LGBT族群的抗争_-_澎湃新闻.md                             |
+| Size            | 6230 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Louis Hothothot                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | LGBT, 变性人, 纪录片, 李二毛, 社会压迫, 认同与身份, 生存困境, 情感关系, 抗争, 中国电影                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

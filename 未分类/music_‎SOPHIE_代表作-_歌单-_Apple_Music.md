@@ -1,10 +1,13 @@
 # SOPHIE 代表作
 
+## 正文 { data-search-exclude }
+
+
 来源: [Apple Music 另类音乐](https://music.apple.com/cn/curator/apple-music-%E5%8F%A6%E7%B1%BB%E9%9F%B3%E4%B9%90/1019397973)
 
 作为实验流行音乐制作人和歌手，SOPHIE 善于使用合成器将金属元素与高音女声结合，打造出令人眼花缭乱的迷幻世界。这位苏格兰音乐人，从小听着父亲车里播放的电子音乐磁带长大，为此着迷的她在青春期就开始尝试原创音乐。后来与乐队 Motherland 合作，正式开启了音乐生涯。在音乐制作上，SOPHIE 往往将自己创新前卫的音乐理念融汇其中，2013 年首张单曲《Nothing More to Say》用电音节拍混合了适当的流行乐，配方极其简单，却恰好符合极简清晰的现代主义美学，在英国 House 音乐界掀起热潮。后续作品《Bipp》延续了实验性乐风，以金属碰撞摩擦的声音掀开帷幕，结合简约独特的旋律和高音女声，搭配奇异逗趣的唱腔，透漏出与拟声词歌名一样的诙谐。在打破流行音乐界限的同时，SOPHIE 也以独特的性别认知突破着社会固有观念。在专辑《Oil of Every Pearl's Un - Insides》发行之前，SOPHIE 一直都以“女性电子乐制作人”的身份发行音乐，从不公开露面，也不使用自己的 vocal 。而在开场曲《It's Okay to Cry》中，她首次以自己的形象和声音出现在大众视野，宣告了自己的跨性别身份。歌曲以讲故事般娓娓道来的唱腔，道出了 LGBTQ+ 群体内心的敏感面，又用轻柔的声音传达共情与安慰。而整张专辑则涵盖了激烈的电子合成与空灵的冥想氛围，歌词更是直接触及了身份、性别等现实敏感话题。无论是制作音乐还是面对人生，SOPHIE 都追求自我解放，并呼吁人们回归内心，接受真实的自己。2021 年 SOPHIE 意外离世后，一颗小行星以她的名字被命名。这颗音乐界的耀眼明星，仍将继续照亮电子音乐创新更迭的道路。
 
-## 歌曲列表
+## 歌曲列表 { data-search-exclude }
 
 | 歌曲                             | 艺人                                                | 专辑                                                      | 时长  |
 |----------------------------------|-----------------------------------------------------|-----------------------------------------------------------|-------|
@@ -32,7 +35,7 @@
 
 **总计:** 21 首歌曲，时长 1 小时 12 分钟
 
-## 精选艺人
+## 精选艺人 { data-search-exclude }
 
 - [SOPHIE](https://music.apple.com/cn/artist/sophie/904687727)
 - [Bibi Bourelly](https://music.apple.com/cn/artist/bibi-bourelly/982515365)
@@ -40,3 +43,29 @@
 - [BC Kingdom](https://music.apple.com/cn/artist/bc-kingdom/731826779)
 - [Basside](https://music.apple.com/cn/artist/basside/1361731740)
 <!-- tcd_original_link https://music.apple.com/cn/playlist/sophie-%E4%BB%A3%E8%A1%A8%E4%BD%9C/pl.9b7634fb46674fab987ca3f00836b30a -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | music_‎SOPHIE_代表作-_歌单-_Apple_Music.md                             |
+| Size            | 7974 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 英国金融巨头拟将免费变性手术加入员工“福利”
 
+## 正文 { data-search-exclude }
+
+
 新华网 2016-05-09 10:07:31
 
 英国劳埃德银行集团计划扩展员工医疗保险范围，将涵盖变性手术费用。在英国接受变性手术需要花费大约1万英镑（约合9.4万元人民币）。
@@ -22,3 +25,29 @@
 
 变性手术成员工福利 劳埃德
 <!-- tcd_original_link https://www.nbd.com.cn/articles/2016-05-09/1003542.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_英国金融巨头拟将免费变性手术加入员工“福利”_-_每日经济新闻.md                             |
+| Size            | 2227 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

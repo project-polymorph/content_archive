@@ -1,17 +1,20 @@
 # 【她】澳洲华人酷儿们的创伤与觉醒
 
+## 正文 { data-search-exclude }
+
+
 ![Image.jpeg](https://images.sbs.com.au/dims4/default/0871e12/2147483647/strip/true/crop/4096x2304+0+281/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fa8%2F29%2F18eb70c04ce888135cb20eeb91b1%2Fimage.jpeg&imwidth=1280)
 
 从左到右分别是Huowang Li、Cherry Zhen和Christine Hong。 Credit: supplied
 
-## 播客时长：25:21
+## 播客时长：25:21 { data-search-exclude }
 
 Published 31 May 2024 6:30pm  
 Updated 3 June 2024 10:27am  
 By Yudie Huang  
 Source: SBS
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 
 她已拥有六年同性恋爱，但至今未能获得父母的祝福。她的亲人坚持女性不能上桌吃饭。她们要如何拥抱自己的性别身份？（点击播客收听详情）
 
@@ -97,17 +100,43 @@ Cherry Zhen在进行钢管舞表演。 Credit: Credit: @Klit\_angel
 
 ![SHE 04 YUDIE image](https://images.sbs.com.au/dims4/default/0871e12/2147483647/strip/true/crop/4096x2304+0+281/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fa8%2F29%2F18eb70c04ce888135cb20eeb91b1%2Fimage.jpeg&imwidth=600)
 
-## **更多精彩请关注系列播客《她》：**
+## **更多精彩请关注系列播客《她》：** { data-search-exclude }
 
 ---
 
-## 标签
+## 标签 { data-search-exclude }
 - 多元性别
 - 酷儿
 - 性别认同
 - 性取向
 - 华人
 
-## 下方评论
+## 下方评论 { data-search-exclude }
 **分享**
 <!-- tcd_original_link https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/trauma-and-awakening-of-the-australian-chinese-queer/2zj0b9g0l -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【她】澳洲华人酷儿们的创伤与觉醒.md                             |
+| Size            | 8175 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

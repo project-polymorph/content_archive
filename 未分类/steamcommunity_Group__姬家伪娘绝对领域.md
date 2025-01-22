@@ -1,5 +1,8 @@
 # 姬家伪娘绝对领域
 
+## 正文 { data-search-exclude }
+
+
 ![姬家伪娘绝对领域](https://avatars.fastly.steamstatic.com/ba36d290d12aee32459c811f2a95e97fa2d73a09_full.jpg)
 
 **STEAM GROUP**
@@ -14,13 +17,13 @@
 **Language**: Simplified Chinese  
 **Location**: China ![](https://community.fastly.steamstatic.com/public/images/countryflags/cn.gif)
 
-## ABOUT 姬家伪娘绝对领域
+## ABOUT 姬家伪娘绝对领域 { data-search-exclude }
 
 # Otokonoko!男の娘!女裝子!CD!天下伪娘是一家!
 
 你知道谷歌吗？你知道Google+（姬家）吗？你知道有很多叫神楽坂的人吗？你知道拥有数百人的姬家最大伪娘中文圈「G+伪娘绝对领域」吗？更新：姬家凉了！花Q谷歌！
 
-## POPULAR DISCUSSIONS
+## POPULAR DISCUSSIONS { data-search-exclude }
 
 ### [Steam入侵开始！一起穿裙子玩游戏吧w](https://steamcommunity.com/groups/otokonokos/announcements/detail/955131913246743932)  
 **February 26, 2016 - 神楽坂雅詩 KagurazakaMiyabi** | 0 Comments
@@ -42,7 +45,7 @@
 ![:azuki:](https://community.fastly.steamstatic.com/economy/emoticon/azuki)隐私  
 Steam的圈子是公开的，你的帖子分享范围是进入本圈浏览的所有人，发帖时注意保护自己的隐私。严禁盗图，需要转载图片请先和照片所有者取得联系并获得允许。我们建议每位发自曝的同好都在照片中加入水印。最后，祝大家玩得愉快，并且向更多的同好推荐这里。![:catpaw:](https://community.fastly.steamstatic.com/economy/emoticon/catpaw)
 
-## COMMENTS
+## COMMENTS { data-search-exclude }
 
 - [![](https://avatars.fastly.steamstatic.com/70f90fd9744558b550fcde510b4fdb2485697ee7.jpg)](https://steamcommunity.com/id/HomuraKyouko) **Oct 24, 2023 @ 9:34am**  
 正在招募朋友。从主机来steam的新入者。主要是FPS和视觉小说等为中心。（关于最近的游戏倾向，作为简介栏经常做的游戏一览刊登）从志趣相投的人到想要充实活动的人，除了欺诈的人以外，谁都可以ok，请多关照。（申请基本批准）因为接受时没有通知，所以写了感谢的评论，但是无言申请也没关系。
@@ -62,7 +65,7 @@ Hi
 - [![](https://avatars.fastly.steamstatic.com/cddd089805764fb294e02da75af3ae76c17c2425.jpg)](https://steamcommunity.com/id/guankun) **Dec 26, 2016 @ 3:20am**  
 哇哈哈~~AD钙奶![:steamhappy:](https://community.fastly.steamstatic.com/economy/emoticon/steamhappy)
 
-## GROUP MEMBERS
+## GROUP MEMBERS { data-search-exclude }
 
 [351 MEMBERS](https://steamcommunity.com/groups/otokonokos/members)
 
@@ -82,3 +85,29 @@ Hi
 
 © Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. [Privacy Policy](http://store.steampowered.com/privacy_agreement/) | [Legal](https://store.steampowered.com/legal/) | [Steam Subscriber Agreement](http://store.steampowered.com/subscriber_agreement/)
 <!-- tcd_original_link https://steamcommunity.com/groups/otokonokos -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | steamcommunity_Group__姬家伪娘绝对领域.md                             |
+| Size            | 7026 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

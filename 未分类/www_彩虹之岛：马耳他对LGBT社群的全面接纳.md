@@ -1,5 +1,8 @@
 # 彩虹之岛：马耳他对LGBT社群的全面接纳
 
+## 正文 { data-search-exclude }
+
+
 ![马耳他LGBT](https://www.51malta.com/wp-content/uploads/2024/02/Group-313-1-min.jpg)
 
 [蜡笔小欣](https://www.51malta.com/article/author/acos) • 2023年5月15日 上午10:24 • [文化](https://www.51malta.com/article/category/culture), [本地](https://www.51malta.com/article/category/news)
@@ -22,3 +25,29 @@
 
 LGBT | 偏见 | 同性婚姻 | 尊严 | 性别认同 | 歧视
 <!-- tcd_original_link https://www.51malta.com/article/5153 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_彩虹之岛：马耳他对LGBT社群的全面接纳.md                             |
+| Size            | 4072 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 男子睇片自學做手術假冒醫生　幫18歲少年切睾丸變性囚3年半
 
+## 正文 { data-search-exclude }
+
+
 健康資訊
 
 發布時間： 2018/09/21 14:28
@@ -30,7 +33,7 @@
 
 **[【延伸閱讀】港女求愛網戀「哈里王子」不信是騙財　婚訊曝光追問為何新娘不是我](https://topick.hket.com/article/2136236/?lcc=at "【延伸閱讀】港女求愛網戀「哈里王子」不信是騙財　婚訊曝光追問為何新娘不是我")** 
 
-## 相關文章
+## 相關文章 { data-search-exclude }
 
 ![](https://static04.hket.com/res/v3/dist/common/images/hket-default-img-01.svg)
 
@@ -38,3 +41,29 @@
 
 [17歲少年P圖假冒署長偽造與各國政要合照　內地官媒信以為真轉載](/article/2161009/17歲少年P圖假冒署長偽造與各國政要合照　內地官媒信以為真轉載?mtc=10016 "17歲少年P圖假冒署長偽造與各國政要合照　內地官媒信以為真轉載")
 <!-- tcd_original_link https://topick.hket.com/article/2166068/%E7%94%B7%E5%AD%90%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8%E5%81%9A%E6%89%8B%E8%A1%93%E5%81%87%E5%86%92%E9%86%AB%E7%94%9F%E3%80%80%E5%B9%AB18%E6%AD%B2%E5%B0%91%E5%B9%B4%E5%88%87%E7%9D%BE%E4%B8%B8%E8%AE%8A%E6%80%A7%E5%9B%9A3%E5%B9%B4%E5%8D%8A -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | topick_男子睇片自學做手術假冒醫生幫18歲少年切睾丸變性囚3年半.md                             |
+| Size            | 3870 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

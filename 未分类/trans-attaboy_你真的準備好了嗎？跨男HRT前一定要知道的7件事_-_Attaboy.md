@@ -1,5 +1,8 @@
 # 你真的準備好了嗎？跨男HRT前一定要知道的7件事
 
+## 正文 { data-search-exclude }
+
+
 by [Attaboy Deven](https://trans-attaboy.com/author/abcde1237w/) 2021 年 1 月 3 日
 
 ![七件HRT前你應該要知道的事](https://trans-attaboy.com/wp-content/uploads/2021/01/7-Things-you-should-know-before-T-1170x780.jpg)
@@ -12,7 +15,7 @@ by [Attaboy Deven](https://trans-attaboy.com/author/abcde1237w/) 2021 年 1 月 
 
 文章目錄
 
-## HRT只是開始，不是一勞永逸的工具
+## HRT只是開始，不是一勞永逸的工具 { data-search-exclude }
 
 希望透過HRT達到生心理性別一致的FtM，基本上都是經歷了一定程度地性別不安（這是最最基本的＂必備條件＂吧）。然而所有人都必須清楚地知道，HRT並不能解決目前生活中的種種問題，不可能開始打賀爾蒙之後就一生平安，甚至可能因此衍生出更多課題要去面對。
 
@@ -32,7 +35,7 @@ by [Attaboy Deven](https://trans-attaboy.com/author/abcde1237w/) 2021 年 1 月 
 
 所以說開始HRT並不能一勞永逸，反而有更多問題要面對。如果只是因為不想要有月經、不想要胸部…各種生活中的小煩惱，而想要進行賀爾蒙治療的話，真的要三思而後行。
 
-## 睪固酮造成的變化不一定會照著你所希望的樣子前進
+## 睪固酮造成的變化不一定會照著你所希望的樣子前進 { data-search-exclude }
 
 使用賀爾蒙之後不一定就會完完全全變成男生的樣子，更多可能變成處在中間的人（包括外表、聲音、心態、想法）。有些人會說那是一種不男不女的狀態，因為外表會逐漸遠離女生的形象，但已無法改變的部分又會讓你不那麼地男性化。
 
@@ -50,7 +53,7 @@ by [Attaboy Deven](https://trans-attaboy.com/author/abcde1237w/) 2021 年 1 月 
 
 所有想要開始HRT的人，都應該先描繪出最糟的可能性，做好會徹底崩壞的心理準備。
 
-## HRT的變化過程沒有schedule，效果時間不一定
+## HRT的變化過程沒有schedule，效果時間不一定 { data-search-exclude }
 
 Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-attaboy.com/side-effect-of-hrt/)，包括停經、體毛變多、聲音變低、痘痘、水腫、禿頭…。蒐集資料的過程中就可以發現，每個資料來源對於各種變化的時間線都不盡相同。因此Deven也只是列出個大概，就連我自己親身經歷的變化，也都跟表列的不太一樣。像我月經就在用藥第一個月後便停止了。
 
@@ -62,7 +65,7 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 
 所以說不僅不要對HRT抱持美麗的幻想，更不要期待用藥多久後就要看到改變。賀爾蒙治療就是個關於等待的課題，等診斷證明、等醫生開藥、等待一切的變化，除了等待以外，就只能好好照顧自己了。（了解更多![👉](https://s.w.org/images/core/emoji/15.0.3/svg/1f449.svg) [跨男HRT的副作用與風險，千萬不可輕忽！](https://trans-attaboy.com/side-effect-of-hrt/)）
 
-## 不只外表會變，HRT也會影響情緒甚至身體健康
+## 不只外表會變，HRT也會影響情緒甚至身體健康 { data-search-exclude }
 
 除了外表的變化和影響，施打賀爾蒙也會增加某些疾病的風險，對身體造成一定程度地負面影響。這個部分產生的時間也不太一定，Deven我本人目前用藥約6個月，上次回診就發現膽固醇飆高，已經到達危險值的程度，醫生不得不開降膽固醇的藥給我，如果下次回診還是沒有改善，可能就要考慮停藥了。
 
@@ -74,7 +77,7 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 
 分享一下我個人經驗，從第一針到現在幾乎不太有情緒變化。蠻多人都會經歷針後易怒、針前低落（睪固酮濃度影響），但我倒是完全沒這個情況，每天都過得滿開心的。而且覺得比以前還更好，也許是更喜歡自己的身體，所以更有自信、更愛自己了。（了解更多![👉](https://s.w.org/images/core/emoji/15.0.3/svg/1f449.svg) [HRT後就像變了個人，時而暴躁時而憂鬱](https://trans-attaboy.com/emotional-state-changes/)）
 
-## HRT就是各種等待，記得傾聽身體的聲音
+## HRT就是各種等待，記得傾聽身體的聲音 { data-search-exclude }
 
 [HRT前需先給精神科醫師評估](https://trans-attaboy.com/what-is-hrt/)，拿到「性別不安」診斷證明，才能轉診請醫生開藥。光是第一關精神科醫師的評估就需要漫長的等待，不過這是必經的過程，為了確保所有想進行HRT的人不是一時衝動，也為了降低日後所有後悔的可能性，畢竟賀爾蒙打下去真的就開始改變一個人的身體了。
 
@@ -86,7 +89,7 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 
 過程中除了等待，也要記得聆聽身體給的反饋，有任何不適或是異常的表現，都要認真對待。也務必跟醫生反應討論，才能及時調整睪固酮劑量、頻率，或是開其他藥其他治療方法，以免情況惡化。
 
-## HRT不是你唯一的選擇，做自己就夠了
+## HRT不是你唯一的選擇，做自己就夠了 { data-search-exclude }
 
 所謂的HRT是為了改變生理性別，使其與自身性別認同一致。簡單來說就是讓你的身體變成男生，當然就包括所有面向無論好的壞的。所以一旦開始HRT，各種變化都會接踵而來，這個時候如果有些影響是你不想要的，那該怎麼辦？
 
@@ -96,7 +99,7 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 
 變性是一個非常艱難的選擇，衍伸出來的問題也多到數不清。所以真的不要因為想更男生一點，或是迫於旁人、交友圈的壓力而進行HRT。尤其有很多T（女同志中表現較陽剛的那一方），為了看起來更男性化就衝動跑去HRT，之後才發現完全不是這麼回事，這時候後悔已經來不及了。（延伸閱讀![👉](https://s.w.org/images/core/emoji/15.0.3/svg/1f449.svg) [部落格小男孩：[【轉】雄激素的效果和ftm/transman的真相](https://ftmtrans.pixnet.net/blog)）
 
-## 永遠記得先愛自己
+## 永遠記得先愛自己 { data-search-exclude }
 
 最後的最後，也是最重要的一點，一定要記得愛自己。即使現階段可能很難做到，也麻煩你慢慢練習。
 
@@ -106,3 +109,29 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 
 标签: [ftm](https://trans-attaboy.com/tag/ftm/), [hrt](https://trans-attaboy.com/tag/hrt/), [副作用](https://trans-attaboy.com/tag/%e5%89%af%e4%bd%9c%e7%94%a8/), [荷爾蒙治療](https://trans-attaboy.com/tag/%e8%8d%b7%e7%88%be%e8%92%99%e6%b2%bb%e7%99%82/)
 <!-- tcd_original_link https://trans-attaboy.com/7-things-you-should-know-before-t/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | trans-attaboy_你真的準備好了嗎？跨男HRT前一定要知道的7件事_-_Attaboy.md                             |
+| Size            | 12845 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

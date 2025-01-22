@@ -1,5 +1,8 @@
 # 川普祭出反跨性别广告　指控贺锦丽助囚犯变性
 
+## 正文 { data-search-exclude }
+
+
 据中央社报导，这些广告内容被视为极具煽动性。其中一则广告由女性旁白指出：「贺锦丽支持用纳税人的钱，为囚犯进行变性手术…她支持『他们』，而总统川普支持你。」该广告最后由川普亲自出声：「我认可这则讯息。」批评者认为，广告刻意妖魔化弱势族群以激化选民情绪。
 
 非营利组织TransLash Media执行长琼斯（Imara Jones）指出，这次的广告攻势「在共和党投入电视广告的资金中占比甚高」，而内容主要针对跨性别囚犯的医疗需求，旨在引发选民的深层恐惧。身为非裔跨性别女性的琼斯表示，这些宣传试图将跨性别议题视为危机，反而可能激起更多同情和反感。
@@ -14,3 +17,29 @@
 时间: 2025/01/21  
 标签: [川普](https://nextapple.sg/search/%E5%B7%9D%E6%99%AE?tag=1), [反跨性别广告](https://nextapple.sg/search/%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%AB%E5%B9%BF%E5%91%8A?tag=1)
 <!-- tcd_original_link https://nextapple.sg/international/20241030/71E459AAC872D6B8D421379ECD18658B -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | nextapple_川普祭出反跨性别广告指控贺锦丽助囚犯变性_-_新加坡.md                             |
+| Size            | 1997 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

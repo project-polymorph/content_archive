@@ -1,5 +1,8 @@
 # 漫談「娘炮現象」的由來
 
+## 正文 { data-search-exclude }
+
+
 **文：寒柏 | 堅料網**
 
 ![中國第一代選秀男團Ninepercent。（微博圖片）](https://n.kinliu.hk/wp-content/uploads/2021/08/中國第一代選秀男團Ninepercent-768x432.jpg)
@@ -30,3 +33,29 @@ _**從事金融業，自由撰稿，醉心武俠小說創作；近期發表《�
 
 **作者文章觀點，不代表堅料網立場**
 <!-- tcd_original_link https://n.kinliu.hk/kinliunviews/%E6%BC%AB%E8%AB%87%E3%80%8C%E5%A8%98%E7%82%AE%E7%8F%BE%E8%B1%A1%E3%80%8D%E7%9A%84%E7%94%B1%E4%BE%86%E3%80%80%E6%96%87%EF%BC%9A%E5%AF%92%E6%9F%8F/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | n_漫談「娘炮現象」的由來文：寒柏_堅料網.md                             |
+| Size            | 5418 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 西医治疗阳痿的药物选择
 
+## 正文 { data-search-exclude }
+
+
 在一般情况下很少采用药物治疗阳痿，因为有些药物影响性兴奋和阴茎勃起，如果阳痿由性激素不足而类似无睾症者，使用药物或许有效。 
 
 **A.激素类药物**：
@@ -32,3 +35,29 @@
 **短信服务**  
 发送短信：新桥医院 至 50120 资费标准：发送0.1元/条；接收免费
 <!-- tcd_original_link https://www.xqhospital.com.cn/drug/drug0601.asp?id=147 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_用药指南-_药品信息_-_新桥医院.md                             |
+| Size            | 1555 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

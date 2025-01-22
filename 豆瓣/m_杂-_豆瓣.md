@@ -1,5 +1,8 @@
 # 多元性别档案馆
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/view/elanor_image/raw/public/Q40Z9R7L.jpg)
 
 来自: [boilmhaeta (大连)](https://www.douban.com/people/228331317/)  
@@ -8,7 +11,7 @@
 
 ---
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 - 来自：豆瓣小组
 
@@ -41,7 +44,7 @@
 
 ---
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 多元性别
 - LGBTQ+
@@ -52,3 +55,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/doulist/148801938/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是多元性别中文数字档案馆的一部分，包含了与多元性别相关的讨论和内容的链接。根据文件内容，相关讨论主题包括对性别角色的探讨、性别认知的反思以及与性别相关的社会问题等。例如，有人提到在职场上潜意识中习惯将领导视为男性，反映了社会性别角色的刻板印象。另外，该文件还包含了一些讨论和音乐、艺术创作的内容，这些都为多元性别群体的表达和叙述提供了丰富的视角。文件的信息更新频繁，展示了作者对多元性别话题的持续关注和参与。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_杂-_豆瓣.md                             |
+| Size            | 2425 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | boilmhaeta                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-02-16                                 |
+| Tags            | 多元性别, LGBTQ+, 性别研究, 社会观察, 性别角色, 职场性别认知, 社会环境, 讨论主题, 艺术创作, 社会问题                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

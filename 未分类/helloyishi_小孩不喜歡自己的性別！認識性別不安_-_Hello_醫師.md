@@ -1,5 +1,8 @@
 # 小孩不喜歡自己的性別！認識性別不安
 
+## 正文 { data-search-exclude }
+
+
 ![小孩不喜歡自己的性別！認識性別不安](https://cdn.helloyishi.com.tw/wp-content/uploads/2020/02/小孩不喜歡自己的性別！認識性別不安.jpg?w=3840&q=100)
 
 性別不安(Gender Dysphoria)又稱性別焦慮，代表無法對天生的生理性別產生認同感。很多會性別不安的人也是跨性別者(Transgender)，然而儘管跨性別不是身體疾病，也不屬於精神疾病，患者仍不可避免地感到壓力或沮喪，因為他們可能為此經常受到霸凌、排斥或污名化。小孩通常要在學校或家裡，因為性別認同的問題經歷極度困擾或障礙，才有可能把性別不安的狀況診斷出來。
@@ -33,7 +36,7 @@
 
 Hello 醫師並不提供醫療建議、診斷或治療。
 
-## 參考資料
+## 參考資料 { data-search-exclude }
 
 Quick Facts on Gender Dysphoria. [https://childmind.org/article/quick-facts-on-gender-dysphoria/](https://childmind.org/article/quick-facts-on-gender-dysphoria/). Accessed June 9, 2017.
 
@@ -41,7 +44,7 @@ Gender Dysphoria Basics. [https://childmind.org/guide/guide-to-gender-dysphoria/
 
 ---
 
-## 紀錄
+## 紀錄 { data-search-exclude }
 
 現行版本：2024/10/25
 
@@ -58,3 +61,29 @@ Gender Dysphoria Basics. [https://childmind.org/guide/guide-to-gender-dysphoria/
 - [跨性別過渡期～父母陪伴孩子一起走過](/parenting/childrens-health/other-child-health-issues/when-your-child-needs-transitioning/)
 - [什麼是無性別？這個性取向您不能不知](/mental-health/asexual-and-agender-is-not-the-same/)
 <!-- tcd_original_link https://helloyishi.com.tw/parenting/childrens-health/other-child-health-issues/gender-dysphoria-what-is-it-myth-or-fact/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | helloyishi_小孩不喜歡自己的性別！認識性別不安_-_Hello_醫師.md                             |
+| Size            | 3232 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

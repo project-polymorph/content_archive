@@ -1,5 +1,8 @@
 # 变性与心理一致的过程
 
+## 正文 { data-search-exclude }
+
+
 ![变性，改变生理的错误。寄语，会更好的。](https://img2.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/43596256-20220213034301)
 
 来自: [灰蓝 (成都)](https://www.douban.com/people/64557509/)  
@@ -14,7 +17,7 @@
 #吃药唤醒身体里的她#  
 @澎湃温度计O网页链接： [微博链接](https://weibo.com/5044281310/GuIeOeMT3?type=comment)
 
-## 评论
+## 评论 { data-search-exclude }
 人关注: [12](https://www.douban.com/doulist/43596256/?type=followers#main)
 
 ### 推荐电影列表
@@ -50,3 +53,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/doulist/43596256/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件探讨了变性与心理一致性的过程，强调变性不仅是生理上的改变，更是对自我认同的追求。文件中提到了来自一位名为灰蓝的个人的观点，他在2016年分享了对变性的看法，并在2022年进行了更新。此外，文件中引用了一则关于变性过程中父母所经历心理变化的报道，揭示了父母在接受孩子变性决定过程中的复杂情感，包括初期的震惊与后来的包容与祝福。文章附带了一些推荐相关的电影，包括《会更好的 不用要求来爱》和《丹麦女孩》，这些电影展现了变性主题的重要故事和情感。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性，改变生理的错误。寄语，会更好的。_-_豆瓣.md                             |
+| Size            | 2605 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 灰蓝 (成都)                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-01-19                                 |
+| Tags            | 多元性别, 变性, 心理健康, 生活故事, 性别认同, 社会接纳, 父母支持, 影视推荐, 法律与政策, 反映生存现状                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

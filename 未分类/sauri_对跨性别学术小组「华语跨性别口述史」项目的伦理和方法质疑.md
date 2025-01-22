@@ -1,5 +1,8 @@
 # 对跨性别学术小组「华语跨性别口述史」项目的伦理和方法质疑
 
+## 正文 { data-search-exclude }
+
+
 根据 [跨性别学术小组的官网](https://lib.transinacademia.org/docs/oral_history/)，华语跨性别口述史项目由跨性别学术小组（Trans in Academia!，简称 TiA!）于2024年初发起，旨在记录、保存并分享来自中国跨性别者对自身经历、经验和历史的叙述。
 
 2024年8月1日 [决议分出生效](https://oneamongus.ca/zh-Hans/posts/board_resolution_2024_tsui_no_sora) 前，跨性别学术小组是我机构 One Among Us 的下属督导机构，运营自主，资源互助。因此，我也有幸在此之前参与了口述史的部分督导工作。在这之后，我也作为跨性别学术小组的成员，参加了许多讨论，尽管我没有实际参与口述史的访谈和资料收集工作。在这整个过程中，我发现该项目从管理、组织，到伦理、方法等，都存在一系列的混乱。我先是通过跨性别学术小组的负责人 amber，后是在学术小组讨论群里，都提出了意见。在2024年10月1日至7日之间，根据项目的现状，此时已经不是跨性别学术小组组员的我密集地在推特上对该项目公开发表了意见，并且引发了许多跨性别社群成员以及学术工作者之间的碰撞和讨论。
@@ -40,3 +43,29 @@
 
 如无特殊说明，本站文章采用 [CC BY 4.0 协议](http://creativecommons.org/licenses/by/4.0/)许可© 北雁书 2021-2024
 <!-- tcd_original_link https://sauri.ca/posts/thought-on-trans-oral-histories/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sauri_对跨性别学术小组「华语跨性别口述史」项目的伦理和方法质疑.md                             |
+| Size            | 6541 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

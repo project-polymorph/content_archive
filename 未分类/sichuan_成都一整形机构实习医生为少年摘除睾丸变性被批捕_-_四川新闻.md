@@ -1,5 +1,8 @@
 # 成都一整形机构实习医生为少年摘除睾丸变性被批捕
 
+## 正文 { data-search-exclude }
+
+
 _2015-09-24 08:27:09 来源：[新华网](http://news.xinhuanet.com/legal/2015-09/23/c_1116658174.htm) 编辑：金婵娟 许茹_
 
 原标题：成都一整形机构实习医生为未成年人“变性”被批捕
@@ -16,3 +19,29 @@ _2015-09-24 08:27:09 来源：[新华网](http://news.xinhuanet.com/legal/2015
 
 本网所有内容，凡注明“来源：四川日报或四川在线（频道）”的所有文字、图片和音视频资料，版权均属四川日报网络传媒发展有限公司所有或独家授权发表，任何媒体、网站或个人未经本网协议授权不得转载、链接、转贴或以其他方式复制发布/发表。已经本网协议授权的媒体、网站，在下载使用时必须注明“稿件来源：四川日报或四川在线”，违者本网将依法追究责任。
 <!-- tcd_original_link https://sichuan.scol.com.cn/sczh/201509/54016455.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sichuan_成都一整形机构实习医生为少年摘除睾丸变性被批捕_-_四川新闻.md                             |
+| Size            | 2649 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

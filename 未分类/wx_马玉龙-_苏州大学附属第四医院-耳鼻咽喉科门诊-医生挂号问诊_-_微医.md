@@ -1,15 +1,18 @@
 # 马玉龙医生简介
 
+## 正文 { data-search-exclude }
+
+
 ![马玉龙医生](https://kano.guahao.cn/4nX2689043_image140.jpg?timestamp=1482197706719&webp=80)
 
-## 基本信息
+## 基本信息 { data-search-exclude }
 
 **姓名：** 马玉龙  
 **职称：** 副主任医师 | 副教授  
 **科室：** 耳鼻咽喉科门诊  
 **医院：** [苏州大学附属第四医院](https://wx.wy.guahaoe.com/hospital/6d03a82b-325f-4afa-aec4-824f2080ac4d000)  
 
-## 擅长疾病
+## 擅长疾病 { data-search-exclude }
 
 - 歌手、主持人、声乐教师等职业用声人员声带息肉、声带小结的精细化显微外科手术
 - CO2激光声带良恶性肿瘤手术
@@ -20,7 +23,7 @@
 - 儿童扁桃体、腺样体低温等离子手术
 - 功能性鼻内镜手术如鼻息肉、鼻窦炎、鼻中隔偏曲等
 
-## 个人简介
+## 个人简介 { data-search-exclude }
 
 原第三军医大学新桥医院耳鼻咽喉头颈外科咽喉嗓音学组组长，开设第三军医大学特色嗓音门诊及嗓音训练班。首创儿童扁桃体低温等离子手术“三分钟、零出血”模式广受同行及患者的信赖和好评，相关手术器械获两项国家专利。先后在北京同仁医院、中央音乐学院、中科院整形外科医院鼻整形再造中心等耳鼻喉专业及相关专业进修学习。  
 
@@ -33,7 +36,7 @@
 - 江苏省康复医学会耳鼻咽喉头颈外科专委会委员  
 - 重庆市科协科学知识传播专家团首批耳鼻咽喉头颈外科专家  
 
-## 执业点
+## 执业点 { data-search-exclude }
 
 **第一执业点：** 耳鼻咽喉科门诊  
 **医院：** [苏州大学附属第四医院  耳鼻咽喉科门诊](https://wx.wy.guahaoe.com/hospital/6d03a82b-325f-4afa-aec4-824f2080ac4d000)  
@@ -42,3 +45,29 @@
 
 ![执业证书](https://kano.guahao.com/Bvk160239343?resize=16x16&webp=80)
 <!-- tcd_original_link https://wx.wy.guahao.com/expert/personal/8829271d-34ff-4e5a-aae2-8908ffe6b35e000 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wx_马玉龙-_苏州大学附属第四医院-耳鼻咽喉科门诊-医生挂号问诊_-_微医.md                             |
+| Size            | 2531 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

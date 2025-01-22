@@ -1,5 +1,8 @@
 # 性别认同障碍是什么, 性别认同障碍怎么产生的？
 
+## 正文 { data-search-exclude }
+
+
 ### 来源：网络 2020-07-27 16:42 1117人浏览
 
 ![性别认同障碍](https://img.ydlcdn.com/file/2022/10/21/rbarc1mk0642xjqn.png)
@@ -8,13 +11,13 @@
 
 性别认同障碍是什么, 性别认同障碍怎么产生的？性别认同障碍其实是一种异性装扮癖的相关情况，主要是心理学者以及医生们用来形容那些经受严重的性别烦躁的一种特殊人群。从严格的意义上来区分，这属于精神病学的分类。
 
-## 性别认同障碍是什么？
+## 性别认同障碍是什么？ { data-search-exclude }
 
 所谓的性别认同障碍，其实是一种异性装扮癖相关的情况，主要是心理学者以及医生们用来形容那些经受严重的性别烦躁的一种特殊人群，从严格意义上来区分，这属于精神病学的分类。
 
 性别认同障碍的患者经常会对自己原本的性别感受到极其的不舒服，并且大量的案例研究也发现，性别认同障碍多数在小时候就开始出现，并且会随着生理年龄的不断增长而变得愈发的强烈。
 
-## 性别认同障碍怎么产生的？
+## 性别认同障碍怎么产生的？ { data-search-exclude }
 
 ### 与个人经历有关系：
 
@@ -70,3 +73,29 @@
 
 Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841号-2
 <!-- tcd_original_link https://m.ydl.com/toutiao/2097 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别认同障碍是什么,性别认同障碍怎么产生的？.md                             |
+| Size            | 3603 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

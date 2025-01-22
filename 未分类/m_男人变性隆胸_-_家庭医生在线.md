@@ -1,8 +1,11 @@
 # 男人变性隆胸
 
+## 正文 { data-search-exclude }
+
+
 变性隆胸采取的是假体隆胸术，由于我=之前身体是男性的，所以胸部乳腺发育基本没有，采取变性隆胸，可以从胸大肌下植入假体，这样手术效果出来，形态和天生女性的胸部几乎一样。变性隆胸的切口也十分的隐蔽，在两边腋窝皮肤褶皱处，各开3~5cm的刀口，利用专门的手术道具，将事先准备好的乳房假体，推塞到胸大肌之下。变性隆胸胸部尺码可以达到东方女性胸部的标准。
 
-## 相关问答
+## 相关问答 { data-search-exclude }
 
 _问_**答**
 
@@ -34,3 +37,29 @@ _问_**答**
 
 男人隆胸大约需要1万元到10万元，如果男性有过度瘦弱的情况，可能会使人看起来弱不禁风，也容易使人缺乏安全感，通过做隆胸手术，可以使胸肌变得比较的强健，能....[\[详细\]](http://m.familydoctor.com.cn/ask/q/20239508.html)
 <!-- tcd_original_link https://m.familydoctor.com.cn/zhengxing/hot/34785/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_男人变性隆胸_-_家庭医生在线.md                             |
+| Size            | 2615 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

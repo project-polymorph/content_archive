@@ -1,5 +1,8 @@
 # 金星口述自己变性手术全过程，突然明白为何她受不了别人惨哭
 
+## 正文 { data-search-exclude }
+
+
 ![微信分享图](https://auction1-img.artimg.net/Img/image?src=https://image-artexpress.artron.net/app/toutiao/news/ckeditor/144774415841460.png&w=100&h=100&c=1)
 
 金星口述自己变性手术全过程，突然明白为何她受不了别人惨哭 _2015-06-29 [藝術聯盟](javascript:void(0);) 藝術聯盟 **藝術聯盟**
@@ -132,3 +135,29 @@
 
 特别声明：本文为艺术头条自媒体平台“艺术号”作者上传并发布，仅代表该作者观点。艺术头条仅提供信息发布平台。
 <!-- tcd_original_link https://m-news.artron.net/news/20240125/n767052.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m-news_金星口述自己变性手术全过程，突然明白为何她受不了别人惨哭.md                             |
+| Size            | 16871 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

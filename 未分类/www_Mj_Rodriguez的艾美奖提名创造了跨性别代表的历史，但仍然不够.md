@@ -1,5 +1,8 @@
 # MJ Rodriguez的Emmy提名使历史成为跨代表性，但仍然不够
 
+## 正文 { data-search-exclude }
+
+
 ![](https://s3.amazonaws.com/sfc-datebook-wordpress/wp-content/uploads/sites/2/2021/07/MERf887ac7b140cea94f3945986b82a5_bravo0719-1024x702.jpg)
 
 迈克尔·罗德里格斯(左)和比利·波特(右)在《姿势》中的一幕。罗德里格斯被提名艾美奖剧情类最佳女主角，波特凭借《姿态》获得最佳男主角提名。图片:Eric Liebowitz /美联社
@@ -53,3 +56,29 @@ Mj Rodriguez在《Pose》中扮演布兰卡。罗德里格斯获得艾美奖最�
 
 您的湾区艺术和娱乐每周指南。
 <!-- tcd_original_link https://www.t1mobile.com/movies-tv/mj-rodriguezs-emmy-nomination-makes-history-for-trans-representation-but-is-still-not-enough -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Mj_Rodriguez的艾美奖提名创造了跨性别代表的历史，但仍然不够.md                             |
+| Size            | 6862 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

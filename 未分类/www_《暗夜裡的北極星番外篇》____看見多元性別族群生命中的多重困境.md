@@ -1,5 +1,8 @@
 # 《暗夜裡的北極星番外篇》──看見多元性別族群生命中的多重困境
 
+## 正文 { data-search-exclude }
+
+
 ![北極星封面](https://www.goh.org.tw/wp-content/uploads/2024/07/北極星01.jpg)
 
 > 「我的身體從來都不是自己的，只是媽媽的洋娃娃，從頭到腳，髮型、上衣、褲子都是媽媽決定的。」
@@ -12,7 +15,7 @@
 
 2023年勵馨出版多元性別Ｘ性別暴力實務筆記，帶著讀者看見多元性別者遭遇職場性騷擾的處境，並提供專業工作者相關的資源與反思。
 
-## 做自己，好難：被出生的生理特徵決定一生
+## 做自己，好難：被出生的生理特徵決定一生 { data-search-exclude }
 
 「為什麼一定要分性別？不能單純做自己就好了？」小頤的疑問，可能也是多元性別族群成長歷程都有過的疑問。
 
@@ -22,7 +25,7 @@
 
 長久累積下來，當事人可能在內心掙扎著：**究竟要為了活出真實的自己，而承受言語及精神暴力甚至肢體暴力；還是要為了得到家人的愛與社會的接納，而隱藏否認自己的性別認同或性傾向？**無論選擇前者或後者，都是困難的抉擇。像小頤這樣由媽媽決定髮型與服裝，隱藏真實的自己，感覺自己像是沒有話語權的洋娃娃人偶，其實是很痛苦的。
 
-## 原生的家？枷？痂？：企圖將子女「變正常」形成子女的自我厭惡與歧視
+## 原生的家？枷？痂？：企圖將子女「變正常」形成子女的自我厭惡與歧視 { data-search-exclude }
 
 「你是我生的！你有什麼資格做決定？」小頤媽媽對於小頤透過平胸手術打造身體與展現性別認同的斥責，是多元性別族群或多或少經歷過的痛。
 
@@ -34,7 +37,7 @@
 
 甚至，因為**在原生家庭中已經習慣了家人的言語羞辱與貶抑，認為都是自己的錯才會讓家人失望或丟臉**，在遇到暴力時甚至不太容易辨識出來，反而怪罪自己，就像小頤在職場遭受性騷擾時在腦海中責備自己「都是你的錯！」、「你怎麼不去死一死？」
 
-## 「我是不是不該存在在這個世界上？」多重交織的歧視、暴力與創傷
+## 「我是不是不該存在在這個世界上？」多重交織的歧視、暴力與創傷 { data-search-exclude }
 
 「我是不是不應該存在在這個世界上呀？」小頤對自己深深的質疑，道出了多元性別族群中很多人的心聲。
 
@@ -50,7 +53,7 @@
 
 這樣的處境，當然不是因為多元性別族群「不應該存在」，而是像《暗夜裡的北極星番外篇》社工對小頤說的，「社會應該要涵容每一個不一樣的人，是這個社會不夠好。」少數族群壓力理論（minority stress theory）幫助我們看見性與性別少數族群的困境不是來自本身的身分，而是來自社會對這些身分的排斥、歧視與暴力對待，是這些社會不友善的壓力源壓垮了多元性別族群的心理健康。需要改變或消失的不是多元性別族群，而是這個社會基於性別的刻板印象、偏見、歧視與暴力！
 
-## 期許：肯認多元，讓每個人成為自己
+## 期許：肯認多元，讓每個人成為自己 { data-search-exclude }
 
 看見多元性別族群的多重困境，知道家庭與社會環境對多元性別身分的敵意與排除導致身心創傷，勵馨**[多重歧視性別暴力防治中心](https://www.goh.org.tw/services/multiple-discrimination-and-gender-violence-prevention-center/)** 透過多元性別肯認（LGBTQ+ affirmative）的服務，肯定與支持多元性別族群的性別表現、性別或性傾向認同，並且有意識地改善敵意環境來減少性與性別少數族群的壓力源。
 
@@ -77,3 +80,29 @@
 - [2019-12-05 【男人想想】一位女跨男的自敘：我的「pass」之路](https://www.goh.org.tw/perspectives/transgender-confessions/)
 - [2019-11-11 【想想論壇】當兩位男人在公共空間溫柔地牽著手](https://www.goh.org.tw/perspectives/when-two-men-holding-hands-tenderly-in-public/)
 <!-- tcd_original_link https://www.goh.org.tw/perspectives/the-dilemma-of-gender-diverse-groups/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《暗夜裡的北極星番外篇》____看見多元性別族群生命中的多重困境.md                             |
+| Size            | 9863 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

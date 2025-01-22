@@ -1,5 +1,8 @@
 # 【假】巴黎奥运会变性人打哭女拳击手
 
+## 正文 { data-search-exclude }
+
+
 -   **日期**: 2024-08-07
 
 “变性人拳手打哭生理女运动员，震惊世界！”？
@@ -128,3 +131,29 @@ Semenya身上，更多是我们自认为对性别、激素的了解，远超实�
 - [https://www.scientificamerican.com/article/hormone-levels-are-being-used-to-discriminate-against-female-athletes/](https://www.scientificamerican.com/article/hormone-levels-are-being-used-to-discriminate-against-female-athletes/)
 - [https://focustaiwan.tw/sports/202408020020](https://focustaiwan.tw/sports/202408020020)
 <!-- tcd_original_link https://www.piyaoba.org/olympics-sports-trans-boxer/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【假】巴黎奥运会变性人打哭女拳击手_-_辟谣吧.md                             |
+| Size            | 14973 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

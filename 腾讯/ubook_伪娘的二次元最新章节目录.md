@@ -1,19 +1,22 @@
 # 伪娘的二次元
 
+## 正文 { data-search-exclude }
+
+
 ![伪娘的二次元](https://wfqqreader-1252317822.image.myqcloud.com/cover/85/23796085/t5_23796085.webp)
 
-## 作者
+## 作者 { data-search-exclude }
 [星音的小梦 著](//book.qq.com/book-writer/12260609204505001)
 
-## 更新时间
+## 更新时间 { data-search-exclude }
 2019-06-19 11:31:03
 
-## 最新章节
+## 最新章节 { data-search-exclude }
 [第52章 突变](//book.qq.com/book-read/23796085/52 "伪娘的二次元 第52章 突变")
 
 节操什么的，根本不会有的，凭本事女装，怎么会不爽呢？亚丝娜：我当初就不应该管你。五河士织:说好的精灵都是妹子呢！？晓古城:把妹妹还给我啊！赛丽亚：冒险家大人身边怎么能有这么多女生呢……娑娜：不要以为奶妈就不能打断你这个花心大萝卜的狗腿了！其他妹子：星雨又来祸害人啦！
 
-## 目录（52章）
+## 目录（52章） { data-search-exclude }
 
 倒序
 
@@ -74,3 +77,29 @@
 
 版权 © 2025 book.qq.com All Rights Reserved 上海阅文信息技术有限公司 版权所有 [粤公网安备 44030002000001号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030002000001)      增值电信业务经营许可证：粤B2-20090059     互联网ICP备案号： [粤B2-20090059-5](https://beian.miit.gov.cn/#/Integrated/index)      举报电话：010-59357051 [营业执照](https://16dd-advertise-1252317822.image.myqcloud.com/common_file/efd7_2023-09-06/1693981300230_110693.png) 网络文化经营许可证：沪网文 (2023) 3296-228号 网络出版服务许可证：（署）网出证（沪）字第055号    互联网宗教信息服务许可证：沪（2023）0000015
 <!-- tcd_original_link https://ubook.reader.qq.com/book-chapter/23796085 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ubook_伪娘的二次元最新章节目录.md                             |
+| Size            | 8305 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

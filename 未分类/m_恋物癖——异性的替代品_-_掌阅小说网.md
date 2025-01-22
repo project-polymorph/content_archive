@@ -1,5 +1,8 @@
 # 重口味心理学经典套装（全3册）最新章节
 
+## 正文 { data-search-exclude }
+
+
 作者：张印  
 来源：掌阅小说网
 
@@ -7,7 +10,7 @@
 
 ---
 
-## 第二章
+## 第二章 { data-search-exclude }
 
 ### 恋物癖 ——异性的替代品
 
@@ -81,7 +84,7 @@
 
 ---
 
-## 第三章
+## 第三章 { data-search-exclude }
 
 ### 易性癖 ——错乱的性别
 
@@ -199,7 +202,7 @@
 
 ---
 
-## 第四章
+## 第四章 { data-search-exclude }
 
 ### 异食癖 ——匪夷所思的口味
 
@@ -241,3 +244,29 @@
 
 ---
 <!-- tcd_original_link https://m.zhangyue.com/readbook/11726694/4.html?p2=116696 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_恋物癖——异性的替代品_-_掌阅小说网.md                             |
+| Size            | 28214 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

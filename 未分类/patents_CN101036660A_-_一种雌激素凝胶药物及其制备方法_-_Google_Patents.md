@@ -1,10 +1,13 @@
 # 一种雌激素凝胶药物及其制备方法
 
-## Abstract
+## 正文 { data-search-exclude }
+
+
+## Abstract { data-search-exclude }
 
 本发明涉及一种雌激素凝胶药物及其制备方法。该雌激素凝胶药物是由雌二醇、乙醇、丙二醇、月桂氮酮、卡波姆、水、三乙醇胺等原材料经过一定的工艺加工而成；其制备工艺简单，投资少。本发明是针对雌激素水平低下患者提供的一种疗效好、生物利用度高、副反应小、安全性高、使用方便、价格低廉的专用药品。
 
-## Inventor
+## Inventor { data-search-exclude }
 
 - 梅杰
 - 任平远
@@ -12,11 +15,11 @@
 - 谢成盛
 - 邹志涛
 
-## Current Assignee
+## Current Assignee { data-search-exclude }
 
 Wuhan Jianmin Group Suizhou Pharmaceutical Co ltd
 
-## Worldwide applications
+## Worldwide applications { data-search-exclude }
 
 - **Application number**: CN 200610018577  
 - **Filing date**: 2006-03-17  
@@ -32,7 +35,7 @@ Wuhan Jianmin Group Suizhou Pharmaceutical Co ltd
 
 Pending
 
-## Description
+## Description { data-search-exclude }
 
 一种雌激素凝胶药物及其制备方法
 
@@ -98,7 +101,7 @@ Pending
 2. 将卡波姆放入水中溶胀48小时后，加入三乙醇胺调PH值6～7，然后补足失去的水，搅拌均匀，制成凝胶基质相待用。
 3. 将上述溶液相与凝胶基质相充分混合并用水补充至全量，灌封成40克/支，包装即得本发明的凝胶产品。
 
-## Claims
+## Claims { data-search-exclude }
 
 1. 一种雌激素凝胶药物，其特征是由：
    
@@ -128,14 +131,14 @@ Pending
    
    4) 将上述溶液A、凝胶基质B充分混合并用水补充至全量即得。
 
-## Cited By
+## Cited By { data-search-exclude }
 
 - CN103239696A - 浙江医药高等专科学校 川芎炮姜复方超临界萃取物及其促产后子宫复旧透皮给药制剂的制备
 - CN107362131A - 北京海霞润月更年期综合症医学研究院 一种雌激素凝胶及制备方法
 - CN110755370A - 刘晓霞 一种黄体酮透皮凝胶及其制备方法
 - CN110876713A - 健民药业集团股份有限公司 一种雌二醇凝胶剂
 
-## Legal Events
+## Legal Events { data-search-exclude }
 
 - 2007-09-19: C06 Publication
 - 2007-09-19: PB01 Publication
@@ -144,13 +147,39 @@ Pending
 - 2010-07-21: C02 Deemed withdrawal of patent application after publication (patent law 2001)
 - 2010-07-21: WD01 Invention patent application deemed withdrawn after publication
 
-## Priority Applications
+## Priority Applications { data-search-exclude }
 
 - CN 200610018577 - 2006-03-17 
 
-## External Links
+## External Links { data-search-exclude }
 
 - [Espacenet](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=101036660A&KC=A&FT=D)
 - [Global Dossier](https://globaldossier.uspto.gov/result/application/CN/200610018577/1)
 - [Discuss](https://patents.stackexchange.com/questions/tagged/CN101036660A)
 <!-- tcd_original_link https://patents.google.com/patent/CN101036660A/zh -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | patents_CN101036660A_-_一种雌激素凝胶药物及其制备方法_-_Google_Patents.md                             |
+| Size            | 9744 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

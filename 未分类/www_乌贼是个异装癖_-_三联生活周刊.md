@@ -1,5 +1,8 @@
 # 乌贼是个异装癖
 
+## 正文 { data-search-exclude }
+
+
 ##### 2005-02-01 14:40 [2005年第5期](http://www.lifeweek.com.cn/magazine/lifeweek/2005/197/)
 
 ![](http://upload.lifeweek.com.cn/old/2005-01-28/images/6923.jpg)
@@ -12,11 +15,11 @@
 
 版权声明：凡注明“三联生活周刊”、“爱乐”或“原创”来源之作品（文字、图片、音频、视频），未经三联生活周刊或爱乐杂志授权，任何媒体和个人不得转载 、链接、转贴或以其它方式使用；已经本刊、本网书面授权的，在使用时必须注明“来源：三联生活周刊”或“来源：爱乐”。违反上述声明的，本刊、本网将追究其相关法律责任。
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 [已有_0_人参与](http://app.lifeweek.com.cn/?app=comment&controller=comment&action=index&contentid=10940 "点击查看全部评论")
 
-## 网友评论
+## 网友评论 { data-search-exclude }
 
 [查看全部评论](http://app.lifeweek.com.cn/?app=comment&controller=comment&action=index&contentid=10940 "点击查看全部评论")
 
@@ -34,7 +37,7 @@
 
 [![](http://upload.lifeweek.com.cn/2021/0510/8C5d5JHrj2pkRBja35iFx4awhFR2RsmB.jpg)](https://j.youzan.com/kG1Ml2)
 
-## 最新发布
+## 最新发布 { data-search-exclude }
 
 -   [谷爱凌：正常生长](http://old.lifeweek.com.cn/2022/0429/56378.shtml)
     
@@ -76,3 +79,29 @@
     
     [【 封面故事 】](http://old.lifeweek.com.cn/故事/)
 <!-- tcd_original_link https://www.lifeweek.com.cn/2005/0201/10940.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_乌贼是个异装癖_-_三联生活周刊.md                             |
+| Size            | 4417 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

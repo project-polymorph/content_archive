@@ -1,5 +1,8 @@
 # 男子在女儿陪同下变性 妻子与其以姐妹相称
 
+## 正文 { data-search-exclude }
+
+
 **来源：** 沈阳晚报  
 **作者：**   
 **编辑：** 孙铭  
@@ -59,3 +62,29 @@
 [深圳变性人想嫁有钱人 坦言为钱可做任何事\[图\]](http://society.zjol.com.cn/05society/system/2006/10/31/007959046.shtml) 2006-10-31  
 [两名变性美女长沙见面 称最重要是认识自己](http://society.zjol.com.cn/05society/system/2006/10/29/007956063.shtml) 2006-10-29  
 <!-- tcd_original_link https://china.zjol.com.cn/05china/system/2006/11/09/007979269.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_男子在女儿陪同下变性妻子与其以姐妹相称_-_浙江在线.md                             |
+| Size            | 8056 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 双侧睾丸切除后性别认同与激素补充问题
 
+## 正文 { data-search-exclude }
+
+
 ![](https://storage.360buyimg.com/nhp/seo/img/logo.png)
 
 我因为睾丸扭转导致双侧睾丸坏死而切除，现在一直在吃雌激素，身体变化很大，想知道是否算是人妖？患者男性22岁
@@ -117,3 +120,29 @@
 Copyright © 2020 jdjiankang.com 版权所有  
 桂公网安备 45050202000590号 桂ICP备202200128号-5
 <!-- tcd_original_link https://www.jd.com/qa/21526274567684?seoRedirectFlag=true&isFromSeo=true -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_双侧睾丸切除后性别认同与激素补充问题_-_JD.com.md                             |
+| Size            | 11725 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

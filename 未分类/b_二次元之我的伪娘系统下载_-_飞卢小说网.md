@@ -1,10 +1,13 @@
 # 二次元之我的伪娘系统下载
 
+## 正文 { data-search-exclude }
+
+
 作者：[5708352](//b.faloo.com/l_0_1.html?t=2&k=5708352 "5708352") | 更新时间：连载中 | 已有 3552584 次阅读
 
 ![飞卢小说网](http://s.faloo.com/novel2/logo.png)
 
-## 分卷下载
+## 分卷下载 { data-search-exclude }
 
 每次下载 20 章 | 每次下载 50 章
 
@@ -37,7 +40,7 @@
 ### 注：
 本站所有上架作品的VIP部分无法下载!
 
-## 飞卢小说网声明
+## 飞卢小说网声明 { data-search-exclude }
 为营造健康的网络环境，飞卢坚决抵制淫秽色情，涉黑(暴力、血腥)等违反国家规定的小说在网站上传播，如发现违规作品，请向本站投诉。
 
 本网站为网友写作提供上传空间存储平台，请上传有合法版权的作品，如发现本站有侵犯权利人版权内容的，请向本站投诉。
@@ -54,3 +57,29 @@ ICP证京B2-20194099
 飞卢小说网(b.faloo.com)  
 中华人民共和国出版物经营许可证(京零通190302号)  
 <!-- tcd_original_link https://b.faloo.com/d_436088.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | b_二次元之我的伪娘系统下载_-_飞卢小说网.md                             |
+| Size            | 4226 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

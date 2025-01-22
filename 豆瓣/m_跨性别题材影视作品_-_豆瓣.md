@@ -1,5 +1,8 @@
 # 跨性别题材影视作品
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img2.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/138047360-20240804102651)
 
 来自: [Homura (上海)](https://www.douban.com/people/119903016/) 2021-04-04 19:56:56创建   2024-08-04 10:26:51更新
@@ -311,3 +314,29 @@
 年份: 2011  
 2021-04-13 20:58:33 [回复](javascript: void 0;)
 <!-- tcd_original_link https://m.douban.com/doulist/138047360/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件包含了一份关于跨性别题材影视作品的列表，主要由用户Homura于2021年在豆瓣创建，内容以Markdown格式呈现。文件中记录了包括动画、剧情、纪录片等多种类型的影视作品，涵盖了反映跨性别者生活、经历及社会问题的内容。作品包括日本的《放浪男孩 放浪息子》等，豆瓣评分普遍较高，说明这些作品在观众中有较好的口碑。每部电影都附有详细信息，诸如导演、主演及评分等，反映了影视创作在多元性别主题方面的表现和探索。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别题材影视作品_-_豆瓣.md                             |
+| Size            | 13302 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Homura (上海)                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-04-04                                 |
+| Tags            | 跨性别, 影视作品, 豆瓣, 电影, 动画, 纪录片, 社会问题, 多元性别, 日本电影, 生活故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

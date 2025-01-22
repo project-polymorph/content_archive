@@ -1,5 +1,8 @@
 # 长沙看守所收押首例变性嫌疑人 安排其住单人间
 
+## 正文 { data-search-exclude }
+
+
 ##### 2014年05月21日08:58    
 来源：[华声在线](http://news.163.com/14/0521/08/9SOOHVBV00011229.html)
 
@@ -54,3 +57,29 @@
 -   [青海一羁押嫌疑人就医时脱逃 目前仍去向不明](http://politics.people.com.cn/n/2014/1022/c70731-25887589.html)
 -   [北京：看守所民警收好处“照顾”嫌犯](http://politics.people.com.cn/n/2014/0819/c70731-25493673.html)
 <!-- tcd_original_link http://politics.people.com.cn/n/2014/0521/c1001-25044722.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | politics_长沙看守所收押首例变性嫌疑人安排其住单人间_-_时政-_人民网.md                             |
+| Size            | 4270 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,6 +1,9 @@
 # 跨性別相關新聞
 
-## 「跨性別」相關新聞
+## 正文 { data-search-exclude }
+
+
+## 「跨性別」相關新聞 { data-search-exclude }
 
 ![小S《不熙娣》爆爭議！網紅「被出櫃」 電視台急刪片段發聲了](assets/images/all/default.jpg)
 ### [小S《不熙娣》爆爭議！網紅「被出櫃」 電視台急刪片段發聲了](https://news.ltn.com.tw/news/entertainment/breakingnews/4816797)
@@ -53,3 +56,29 @@
 ![小S節目班底遭封殺？「幫人出櫃」遭炎上 電視台二度道歉](assets/images/all/default.jpg)
 ### [小S節目班底遭封殺？「幫人出櫃」遭炎上 電視台二度道歉](https://news.ltn.com.tw/news/entertainment/breakingnews/4817913)
 <!-- tcd_original_link https://news.ltn.com.tw/topic/%E8%B7%A8%E6%80%A7%E5%88%A5 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_跨性別-_相關新聞-_自由時報電子報.md                             |
+| Size            | 4405 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

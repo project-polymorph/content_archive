@@ -1,5 +1,8 @@
 # 娘炮现象严重，湖南卫视被推上风口浪尖，湖南卫视真的有错吗？
 
+## 正文 { data-search-exclude }
+
+
 ![Youtube Channel](https://yt3.ggpht.com/ytc/AIdro_n2-Y904TwYmfgaFEXII8HnC5PYR7-8B2lkTgqBMC1d6Q=s48-c-k-c0x00ffffff-no-rj)
 
 **观看次数**: 45 views  
@@ -11,3 +14,29 @@
 
 少年强则中国强，少年娘则中国娘!“娘炮误国”并不是一句空话一句假话，它是有着很深的道理和依据的。而作为主流媒体平台的卫视，在节目选择、艺人选择和培养上，还是以娱乐为主，没有去考虑娘炮对于社会的毒害其实是深远的，甚至一度的宣扬男人以娘炮为美。那么，你说这些卫视有没有错?答案不言而喻，肯定是有错的!近些年，娱乐圈出现了一个怪现象，男演员不以阳刚为美，却以偏女性化为美，也就是人们常说的娘炮。他们和女人一样，擦脂抹粉涂口红、做指甲，有的甚至穿着裙子。这样还是男人么?更为重要的不在于他们的打扮，而在于他们的性格。一个大男人娇滴滴的好像一个小姑娘，真的是不如一个爽快点的女人。对于这类的明星，无论是主流媒体还是大众都应该是抵制的，因为这是一个错误的观念，是一个误人误国的做法。而有些媒体为了自己的收视率，说白了就是为了利益，完全不顾自身的指责，导致这种错误观念越来传播越广泛，这本身就是一个大错误。我们知道，很多媒体有着自身的选择，选择艺人时，知道不用那些有劣迹的，可是对于价值观与世界观的培养上，我想一样需要这些媒体做出选择。但愿这种错误能够戛然而止!
 <!-- tcd_original_link https://www.youtube.com/watch?v=TGF9pkrkQ4M -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_娘炮现象严重，湖南卫视被推上风口浪尖_-_YouTube.md                             |
+| Size            | 1872 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

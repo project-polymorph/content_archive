@@ -1,5 +1,8 @@
 # 马斯克变性人女儿对美国未来的悲观态度
 
+## 正文 { data-search-exclude }
+
+
 在美国大选中被称为唐纳德•特朗普获胜的一等功臣的特斯拉首席执行官(CEO)埃隆•马斯克的变性人女儿表示:"在美国再也没有未来了。"据美国政治媒体《政客》7日（当地时间）报道，马斯克的女儿维维安·詹娜·威尔逊前一天在社会关系网服务（SNS）"线程"上表示，"虽然有一段时间有过这样的想法，但昨天给了我信心"，"我的未来似乎并不在美国"。
 
 从男性转变为女性的她补充说:"即使他（特朗普）在任4年，即使反变性限制不会像魔术一样发生，欣然投票（变性限制）的人也不会去任何地方。"
@@ -19,3 +22,29 @@
 日期: 未指明  
 
 <!-- tcd_original_link https://www.mk.co.kr/cn/world/11163152 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_在美国大选中被称为唐纳德•特朗普获胜的一等功臣的特斯拉首席执行_.md                             |
+| Size            | 1711 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

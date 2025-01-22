@@ -1,12 +1,15 @@
 # Transgender 跨性别主题电影
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img2.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/43984828-20160310131851)
 
 来自: [Ks (广州)](https://www.douban.com/people/asting/) 2016-03-10 12:58:36创建   2016-03-10 13:18:51更新
 
 [1](https://www.douban.com/doulist/43984828/?type=followers#main) 人关注
 
-## 电影列表
+## 电影列表 { data-search-exclude }
 
 来自：豆瓣电影
 
@@ -169,8 +172,34 @@
 
 ---
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/)  
 <!-- tcd_original_link https://m.douban.com/doulist/43984828/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文档为豆瓣网站上关于跨性别主题电影的列表，包含多部与跨性别者经历和主题相关的影片。列表中有 10 部电影，每部电影均附有海报、评分、导演、主演、类型及制片国家/地区等信息。其中涵盖了不同国家及类型的电影，如法国的《蒂蕾茜亚》、英国的《哭泣的游戏》、日本的《为己而生》等。在电影列表中，不仅有剧情类的电影，也涉及惊悚、喜剧等类型，展示了跨性别主题在影视作品中的多样性。这些影片通过不同的叙事角度与风格，深入探讨了跨性别者的身份认同、生命挑战与社会环境。文档还包含了来源于豆瓣电影的直接链接，便于读者进一步了解及观看相关影片。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_Transgender_跨性别主题电影_-_豆瓣.md                             |
+| Size            | 5242 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Ks (广州)                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-03-10                                 |
+| Tags            | 跨性别, 电影, 生命故事, 豆瓣电影, 艺术表达, 社会环境, 性别认同, 影视作品, 国际电影, 文化表现                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,15 +1,18 @@
 # 性别认同与心理健康咨询案例
 
+## 正文 { data-search-exclude }
+
+
 男  47岁 江苏省南通市
 
 2022.02.28
 
-## 问题描述
+## 问题描述 { data-search-exclude }
 女儿24岁，不认同自己的女孩身份，喜欢做男孩，不愿意叫她女儿，姐姐等女性称呼。但穿着没有男性特征，也不抵触打扮自己。不愿意出门不愿意社交，不愿意谈恋爱对男女性都没有兴趣，天天玩玩手机有点颓废。她自己认为是跨性别也很苦恼和有压力。她从小就有端倪，没引起重视。这种情况到底是个什么病，有没有什么治疗办法，能不能推荐有名的医院科室，谢谢了。
 
 ---
 
-## 医生回答
+## 医生回答 { data-search-exclude }
 
 张颜波 | 主任医师  
 三甲  
@@ -87,3 +90,29 @@
 
 ￥68起我要提问
 <!-- tcd_original_link https://wy.guahao.com/multask/question/251053665670955009 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wy_问题详情页.md                             |
+| Size            | 10373 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

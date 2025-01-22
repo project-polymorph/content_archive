@@ -1,5 +1,8 @@
 # １８岁女孩让摄影师记录下自己的变性手术
 
+## 正文 { data-search-exclude }
+
+
 2017-01-07 | 来源： [今日头条](https://www.toutiao.com/i6372773732682826241/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=7183829172&utm_medium=toutiao_android)
 
 ![18岁女孩让摄影师记录下自己的变性手术](http://ta.trs.cn/c/1.gif?mpId=747&jsoff=1)
@@ -56,3 +59,29 @@
 
 责任编辑： 李丹
 <!-- tcd_original_link https://news.cnjiwang.com/xwjk/201701/2300586.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_18岁女孩让摄影师记录下自己的变性手术-中国吉林网.md                             |
+| Size            | 3151 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,6 +1,9 @@
 # 多元性别相关内容存档
 
-## 性别
+## 正文 { data-search-exclude }
+
+
+## 性别 { data-search-exclude }
 
 ![性别](https://img9.doubanio.com/view/elanor_image/raw/public/MJV892V4.jpg)
 
@@ -58,3 +61,29 @@
 **北京豆网科技有限公司**  
 [关于豆瓣](https://www.douban.com/about) | [在豆瓣工作](https://www.douban.com/jobs) | [联系我们](https://www.douban.com/about?topic=contactus) | [法律声明](https://www.douban.com/about/legal) | [帮助中心](https://help.douban.com/?app=main) | [移动应用](https://www.douban.com/doubanapp/)
 <!-- tcd_original_link https://m.douban.com/doulist/121377359/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是多元性别中文数字档案馆中关于多元性别相关内容的存档，包含了多个与性别相关的文本和讨论。这篇文章由作者林黄夕耀明在豆瓣发布，通过多种相关链接和作品探讨了性别问题的多样性与复杂性。文件中有关于性别的图片（如性别符号），并提供了数篇文章的链接，其中包括关于J.K.罗琳、罗志祥的性心理以及具荷拉的性爱视频风波等社会热点话题。这些内容反映了当前社会对多元性别问题的关注和讨论，尤其是在反映生存现状和社会环境方面的重要性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别-_豆瓣.md                             |
+| Size            | 2739 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 林黄夕耀明                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-11-25                                 |
+| Tags            | 多元性别, 性别研究, 生存现状, 社会环境, 法律政策, 医疗资源, 生命故事, 新闻报道, 文化讨论, 性心理                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

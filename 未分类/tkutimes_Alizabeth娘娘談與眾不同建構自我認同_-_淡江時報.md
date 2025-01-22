@@ -1,5 +1,8 @@
 # Alizabeth娘娘談與眾不同建構自我認同
 
+## 正文 { data-search-exclude }
+
+
 ![Alizabeth娘娘談與眾不同](https://photo.tkutimes.tku.edu.tw/ashx/waterimg.ashx?im=EA3E68C168E0EB168FEEE616986DFB4253E3CA0FEAB97F7DA4EB5B01D12B6B285D8D7058CD1B52FDECAD8AE19071D2CEF567832CDF5872185462BE7ED7689864)  
 [Alizabeth娘娘鼓勵同學忠於自己，並展現每個人不同的價值。（攝影／李佩芸）](pic.aspx?no=211747)
 
@@ -34,3 +37,29 @@ Alizabeth娘娘是來自泰國的跨性別者，她用笑聲感染全場氣氛�
 - [次筆：治療師李秋燕實作伸展操HOLD住痠痛](dtl.aspx?no=53378)  
 ---
 <!-- tcd_original_link https://tkutimes.tku.edu.tw/dtl.aspx?no=53377 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tkutimes_Alizabeth娘娘談與眾不同建構自我認同_-_淡江時報.md                             |
+| Size            | 3509 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

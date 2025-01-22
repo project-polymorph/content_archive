@@ -1,5 +1,8 @@
 # 前卫8旬老翁做变性手术 60多年的妻子一夜成姐妹
 
+## 正文 { data-search-exclude }
+
+
 **来源：** 四川新闻网  
 **作者：**  
 **编辑：** 吴辉军  
@@ -23,3 +26,29 @@
 
 由于黄女士没有提供“丈夫”的联系方式，记者一直没有联系到这位变性的“丈夫”。没有办理离婚手续，医院怎么会给病人实施变性手术呢？任中建表示，也许是“丈夫”谎称自己没有结婚，而他俩是事实婚姻，没有证据可查，因此就蒙混过了关，也可能是“丈夫”谎称自己丧偶，医院一看这么大年纪了，也许就相信了。
 <!-- tcd_original_link http://china.zjol.com.cn/05china/system/2004/06/02/002867804.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_前卫8旬老翁做变性手术60多年的妻子一夜成姐妹_-_浙江在线.md                             |
+| Size            | 2581 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

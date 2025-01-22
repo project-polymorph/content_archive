@@ -1,5 +1,8 @@
 # 变性
 
+## 正文 { data-search-exclude }
+
+
 生物变性
 
 在致病因素的作用下，组织和细胞发生物质代谢障碍，在细胞内和间质中出现各种异常物质或原有的某些物质堆积过多的现象。细胞受到致病因子的作用后，细胞的功能和结构可在适应能力范围内改变。如果[致病因子](javascript:innerlink("致病因子" "词条“致病因子”不存在，点击可创建"))作用过强，上述改变超过该细胞的适应能力则出现变性。致病因子除去后，该细胞可能恢复正常，但严重的变性可能发展为坏死。变性一般分为 ：[蛋白质](https://wiki.bioguider.com/doc-view-5559.html "蛋白质")代谢障碍、[脂肪](https://wiki.bioguider.com/doc-view-8909.html "脂肪")代谢障碍、糖代谢障碍、[矿物质](javascript:innerlink("矿物质" "词条“矿物质”不存在，点击可创建"))代谢障碍和病理性色素沉着等。常见的变性有肿胀、水性变、脂肪变、玻璃样变、淀粉样变、病理性色素沉着、钙化、粘液变和纤维样变。
@@ -61,3 +64,29 @@
 - [亚急性联合变性](index.php?doc-innerlink-%E4%BA%9A%E6%80%A5%E6%80%A7%E8%81%94%E5%90%88%E5%8F%98%E6%80%A7 "亚急性联合变性")
 - [DNA变性](index.php?doc-innerlink-DNA%E5%8F%98%E6%80%A7 "DNA变性")
 <!-- tcd_original_link https://wiki.bioguider.com/doc-view-5326.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wiki_变性_-_生物百科.md                             |
+| Size            | 17619 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

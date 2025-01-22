@@ -1,5 +1,8 @@
 # 美大学生发起“牢不可破的计划” 鼓励受害者写下性侵者说的话
 
+## 正文 { data-search-exclude }
+
+
 ![美大学生发起“牢不可破的计划” 鼓励受害者写下性侵者说的话](http://i.guancha.cn/News/2013/9/24/6351560832725132112.jpg)
 
 **时间**: 2013-09-24 08:48:10  
@@ -152,3 +155,29 @@
 
 Copyright © 2014-2024 观察者 All rights reserved.
 <!-- tcd_original_link https://www.guancha.cn/society/2013_09_24_174347.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性侵者对受害者说的话（图集）-观察者网.md                             |
+| Size            | 9019 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

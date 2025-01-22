@@ -1,5 +1,8 @@
 # 橘芹那加盟TMA，伪娘新片「女装男娘COSPLAY 橘芹那」12月发售！
 
+## 正文 { data-search-exclude }
+
+
 ![巴巴变免费相册](https://i0.wp.com/photo2.bababian.com/usr1043940/upload6/20121020/s4wj_eP5vzh+Y51etjkDMIy7faNqvL1I9I5N1oFElC5cBEAHcpbTb7Q==.jpg)
 
 TMA最近在BL市场上面有点受冷，据说前段时间的BL片卖的不佳。而新片将是伪娘片，出演者可谓是“重量级”新人——橘芹那！这位“女优”出道时，就以石更时有19cm著称。而且也不是打了激素的变性人，只是一个性别错乱并且有变装癖好的美少年！
@@ -49,3 +52,29 @@ TMA最近在BL市场上面有点受冷，据说前段时间的BL片卖的不佳�
 ##### 来源
 - [JPbeta 文化娱乐资讯站](https://www.jpbeta.cc)
 <!-- tcd_original_link https://www.jpbeta.cc/2012/10/aikb-011-in-2012-12/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_橘芹那加盟TMA，伪娘新片「女装男娘COSPLAY_橘芹那」12月发售！.md                             |
+| Size            | 2667 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 丹麦女孩影评
 
+## 正文 { data-search-exclude }
+
+
 ![用户头像](https://img9.doubanio.com/icon/u202025893-6.jpg)  
 **作者**: [阿璃茉](https://www.douban.com/people/202025893/)  
 **来源**: 豆瓣App  
@@ -10,7 +13,7 @@
 
 ---
 
-## 影片信息
+## 影片信息 { data-search-exclude }
 
 - **标题**: 丹麦女孩
 - **导演**: 汤姆·霍伯
@@ -22,3 +25,29 @@
 ![丹麦女孩海报](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2264778990.webp)  
 [丹麦女孩 - 豆瓣链接](https://movie.douban.com/subject/3071604/)
 <!-- tcd_original_link https://m.douban.com/movie/review/15092128/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是一篇对电影《丹麦女孩》的影评，作者阿璃茉详细叙述了影片所讲述的变性人艾纳（莉莉）的故事。影评中提到，艾纳自小心中就有一个女孩的身份，而她的内心真正的自我是莉莉。随着艾纳的逐渐觉醒与勇敢面对自我，莉莉最终得以显现。影评深入探讨了莉莉的过渡经历和她与妻子格尔达之间深厚的情感纽带，格尔达对莉莉的支持与爱护是影片的重要亮点。作者赞扬了莉莉的勇气，强调她在接受手术和身份认同的过程中展现出的无畏精神。尽管莉莉的结局并不完美，但她所追求的自由与幸福得到了体现，作者由此引发对美丽童话般的丹麦的向往。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_丹麦女孩_-_豆瓣.md                             |
+| Size            | 3202 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 阿璃茉                               |
+| Region          | 未知                               |
+| Date            | 2015-09-05                                 |
+| Tags            | 丹麦女孩, 变性人, 艾纳, 莉莉, 格尔达, 身份认同, 勇气, 自由, 电影评论, 同性恋                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

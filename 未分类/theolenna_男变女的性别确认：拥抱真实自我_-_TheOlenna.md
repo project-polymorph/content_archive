@@ -1,5 +1,8 @@
 # 男变女的性别确认：拥抱真实自我
 
+## 正文 { data-search-exclude }
+
+
 ![image](https://theolenna.com/wp-content/uploads/2024/06/tetiana-kobzeva-fKcKqbLgDS4-unsplash.jpg)
 
 -   **日期**: 2024年6月26日
@@ -9,13 +12,13 @@
 
 对于寻求性别确认治疗的变性人，多种整形手术可以帮助塑造具象的身体美感。
 
-## 概述
+## 概述 { data-search-exclude }
 
 性别确认手术包括各种整形手术，帮助那些接受自己真实性别的人创造一个真实的身体形象来代表他们的身份。整形外科医生与变性人合作，结合由其医疗保健提供者管理的医疗或激素疗法，完善和定义他们想要的审美。
 
 为了提供全面的患者护理和跨性别健康，男变女 (MTF) 和女变男 (FTM) 性别确认手术是治疗性别焦虑症的关键组成部分，同时还要考虑心理健康问题。美容和整形外科的进步使经验丰富的、获得委员会认证的整形外科医生能够从头到脚解决跨性别患者的担忧。
 
-## 具体细节
+## 具体细节 { data-search-exclude }
 
 ### 什么是男变女（MTF）性别确认手术？
 
@@ -58,7 +61,7 @@ MTF 性别确认手术不必包含上述所有程序。个人可以咨询其提�
 
 为了改善整个身体的轮廓，可以使用抽脂术、Emsculpt®、CoolSculpting®、SculpSure® 和皮肤紧致等身体塑形程序进一步改善、定义和增大特定的身体部位，以创造更女性化的美感。
 
-## 总结
+## 总结 { data-search-exclude }
 
 性别确认手术或性别重新分配手术是一个综合术语，涵盖了变性人可以与医学激素疗法一起使用的各种整形外科手术，以进一步体现他们的性别认同。
 
@@ -66,3 +69,29 @@ MTF 性别确认手术不必包含上述所有程序。个人可以咨询其提�
 
 专门从事这些手术的经过认证的专业整形外科医生可以帮助候选人实现转变并创造真正真实的美感。
 <!-- tcd_original_link https://theolenna.com/zh/%E7%94%B7%E5%8F%98%E5%A5%B3%E6%80%A7%E5%88%AB%E7%A1%AE%E8%AE%A4-%E6%8B%A5%E6%8A%B1%E7%9C%9F%E5%AE%9E%E8%87%AA%E6%88%91/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | theolenna_男变女的性别确认：拥抱真实自我_-_TheOlenna.md                             |
+| Size            | 5746 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

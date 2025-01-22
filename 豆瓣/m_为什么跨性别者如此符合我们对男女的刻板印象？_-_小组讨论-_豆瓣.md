@@ -1,5 +1,8 @@
 # 跨性别者与性别刻板印象
 
+## 正文 { data-search-exclude }
+
+
 ![Farewell](https://img1.doubanio.com/icon/up231183201-10.jpg)
 
 ### 来自: [Farewell](https://www.douban.com/people/231183201/)
@@ -56,3 +59,29 @@ Spotify上有个podcast叫“等下”，主播是几个跨性别者，推荐给
 
 另外针对楼里评论说的“跨性别者是刻板印象的加深者”，我认为这不是讨伐跨性别者的理由。如果按这个说法，一身肌肉的男性和漂亮柔弱的女性何尝不是应当口诛笔伐的对象呢？请大家还是以一种平和的态度看待跨性别者们吧。
 <!-- tcd_original_link https://m.douban.com/group/topic/253345407/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+此文件是一篇来自豆瓣的小组讨论，标题为《为什么跨性别者如此符合我们对男女的刻板印象？》。作者通过听播客的方式，对跨性别者的自述进行了思考和反思，认为理解跨性别者需要关注生理性别与社会性别的区分。文章探讨了跨性别者的自我认同不仅仅是一个个人选择，而是一个深层次的必要过程。作者提到，跨性别者在追求自我认同的过程中，所面对的社会性别刻板印象有时会对其身份表现产生影响。文中引发讨论的焦点在于男跨女和顺性别女在外在表现上的相似性，以及如何看待跨性别者与社会性别刻板印象之间的关系。作者呼吁大家在讨论中展现更多的理解与尊重，同时鼓励对跨性别者的真实体验和认识的进一步探索。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_为什么跨性别者如此符合我们对男女的刻板印象？_-_小组讨论-_豆瓣.md                             |
+| Size            | 3994 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Farewell                               |
+| Region          | 内蒙古                               |
+| Date            | 2021-11-20                                 |
+| Tags            | 跨性别者, 性别刻板印象, 社会性别, 生理性别, 自我认同, 性别表达, 性别不安, 个人经验, 理解与尊重, 播客讨论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

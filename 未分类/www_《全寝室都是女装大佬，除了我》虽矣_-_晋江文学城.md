@@ -1,6 +1,9 @@
 # 全寝室都是女装大佬，除了我
 
-## 作者：[虽矣](http://www.jjwxc.net/oneauthor.php?authorid=1603563)
+## 正文 { data-search-exclude }
+
+
+## 作者：[虽矣](http://www.jjwxc.net/oneauthor.php?authorid=1603563) { data-search-exclude }
 
 **更新时间：** 北京时间 25年1月15日 0:02
 
@@ -9,7 +12,7 @@
 **一句话简介：** 欢乐情景喜剧，男寝下饭日常  
 **立意：** 友谊是长期努力的回报。
 
-## 文案
+## 文案 { data-search-exclude }
 
 朝有酒觉得自己被分配到了一个奇怪的寝室。身为成年男性，身高只有一米六不到，还长得很可爱的杜若，是女装大佬。高冷又神秘，总是神出鬼没的学霸齐骥，是女装大佬。作为唱见主播，身为男人却能唱出惊艳女声的张灵均，是女装大佬。家世、头脑、长相、性格——全方位无死角地套着人生赢家模板的赵青云，是女装大佬。好看到人人都觉得他该去做明星，自己也一门心思想着变红进入娱乐圈的照清和，也是……朝有酒：我的寝室果然有问题。  
 *杜若：“如果你开心，可、可以对我做奇怪的事情哦。”*  
@@ -26,7 +29,7 @@
 
 **内容标签：** [现代架空](//www.jjwxc.net/bookbase.php?bq=126) [成长](//www.jjwxc.net/bookbase.php?bq=183) [校园](//www.jjwxc.net/bookbase.php?bq=185) [日常](//www.jjwxc.net/bookbase.php?bq=268) [群像](//www.jjwxc.net/bookbase.php?bq=356)
 
-## 文章基本信息
+## 文章基本信息 { data-search-exclude }
 
 - **文章类型：** 原创-无CP-近代现代-轻小说
 - **作品视角：** 男主
@@ -38,7 +41,7 @@
 - **作品荣誉：** 尚无任何作品简评
 - **勤奋指数：** ![](//static.jjwxc.net/images/flowerofauthor.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)
 
-## 章节信息
+## 章节信息 { data-search-exclude }
 
 | 章节 | 标题 | 字数 | 更新时间 |
 | ---- | ---- | ---- | ---- |
@@ -54,3 +57,29 @@
 
 请所有用户发布内容时严格遵守国家相关法律法规。我们拒绝任何色情暴力及其他违规内容，一经发现，立即删除，严重者将同时封禁账号。
 <!-- tcd_original_link http://www.jjwxc.net/onebook.php?novelid=3943490 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《全寝室都是女装大佬，除了我》虽矣_-_晋江文学城.md                             |
+| Size            | 3907 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

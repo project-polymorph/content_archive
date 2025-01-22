@@ -1,12 +1,15 @@
 # 女性性别
 
+## 正文 { data-search-exclude }
+
+
 ![女性性别](https://img9.doubanio.com/view/elanor_image/raw/public/Q40Z9R7L.jpg)
 
 来自: [冬妮娅](https://www.douban.com/people/216560658/) 2020-11-19 12:10:04创建   2024-06-18 23:43:35更新
 
 [全部(36)](https://www.douban.com/doulist/133295769/)
 
-## 豆瓣广播
+## 豆瓣广播 { data-search-exclude }
 - [小波福娃的广播](https://www.douban.com/people/duanmuyi/status/4635756918/)
   
   ...（[展开](javascript:;;)）  
@@ -26,7 +29,7 @@
 
   2024-02-13 09:50:27 [回复](javascript: void 0;)
 
-## 豆瓣小组
+## 豆瓣小组 { data-search-exclude }
 - [光启书局](https://www.douban.com/people/guangqipress/)
 
   [1.17豆瓣对谈精华版｜西尔维亚·费代里奇×戴锦华×谢晶：女性主义，提供更多的可能](https://www.douban.com/group/topic/299786612/)
@@ -36,7 +39,7 @@
   为什么看似进步了的现代社会中，依然有这么多针对女性的暴力？  
   2024-02-02 01:46:33 [回复](javascript: void 0;)
 
-## 豆瓣日记
+## 豆瓣日记 { data-search-exclude }
 - [真实故事计划](https://www.douban.com/people/zhenshigushi1/)
   
   [当一个农村女人尝试书写情欲小说](https://www.douban.com/note/857713694/)
@@ -106,3 +109,29 @@
   1901年《多兰医学词典》将异性恋定义为「对异性的不正常或变态的欲望」。二十多年后的1923年，梅里亚姆-韦伯斯特的词典也将其定义为「对异性的病态性热情」。直到1934年，异性恋才被赋予了我们今天所熟悉的含义：「对异性的性热情的表现；正常的性行为」。每当我把这些告诉我的朋友们时，他们的反应都是难以置信。这怎么可能？因为我们很自然地认为，异性恋一直「就在那里」。  
   2021-04-26 22:13:47 [回复](javascript: void 0;)
 <!-- tcd_original_link https://m.douban.com/doulist/133295769/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件名为《女性性别》，由冬妮娅在2020年11月创建，并于2024年6月更新。文件内容围绕女性性别及其在社会中的表现和讨论，包含多个与女性相关的豆瓣广播、日记和小组讨论链接，其中涉及女性在现代社会中面临的暴力、性别身份、情欲表达以及文学艺术等多个方面。内容展现了女性在现实生活中的多重角色，特别是一些女性作家的生活经历与创作，如农村女性如何在55岁时勇敢地开始书写情欲小说，以及在经济繁荣背景下的女性生存现状和对其身份认同的探索。该文档不仅提供了丰富的社会现象分析，还包含有关女性主义和跨性别议题的讨论，展示了女性在面对社会期待时的各种挑战。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_女性性别_-_豆瓣.md                             |
+| Size            | 8371 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 冬妮娅                               |
+| Region          | 未知                               |
+| Date            | 2020-11-19                                 |
+| Tags            | 女性性别, 女性主义, 性别身份, 情欲故事, 社会暴力, 创作表达, 跨性别议题, 生活经历, 文学艺术, 社会现状                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

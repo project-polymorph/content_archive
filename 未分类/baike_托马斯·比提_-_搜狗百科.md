@@ -1,8 +1,11 @@
 # 托马斯·比提
 
+## 正文 { data-search-exclude }
+
+
 ![搜狗百科](https://search.sogoucdn.com/baike/common/logo.2e6e7ec0.svg)
 
-## 基本信息
+## 基本信息 { data-search-exclude }
 
 - **中文名**：托马斯·比提
 - **外文名**：Thomas Beatie
@@ -11,13 +14,13 @@
 - **结婚时间**：2003
 - **孩子个数**：三个
 
-## 正文
+## 正文 { data-search-exclude }
 
 托马斯·比提（原名特蕾西·拉贡蒂诺），男，美国俄勒冈州本德市人，20多岁时接受了变性手术。2008年6月，他通过“人工授精手术”怀孕，并顺利产下女儿苏珊·朱丽叶。
 
 2009年3月，在女儿出生几个月后，腹部再次隆起的比蒂向外界宣布自己已经怀有第二胎，并且仍然是通过人工授精的方法怀孕。
 
-## 人物经历
+## 人物经历 { data-search-exclude }
 
 ![托马斯·比蒂](https://pic.baike.soso.com/ugc/baikepic2/16230/20160806020027-629837494.jpg)
 
@@ -33,7 +36,7 @@
 
 托马斯与一位名叫安贝尔·尼古拉斯的保育员建立了新感情，并可能为她生育一个孩子。
 
-## 个人生活
+## 个人生活 { data-search-exclude }
 
 比提的前妻南希是一名健美运动者。她比比提大十岁，和前夫离婚后独自抚养两个孩子，她由于做过子宫切除手术无法怀孕，所以比提决定自己要怀孕。尽管和前妻的离婚过程很漫长，但是两个人一致同意共同拥有孩子的抚养权。
 
@@ -41,7 +44,7 @@
 
 2016年年初，她和第二任妻子在亚利桑那州凤凰城结婚，新娘是比提孩子们幼儿园的园长。
 
-## 词条图册
+## 词条图册 { data-search-exclude }
 
 ### 参考资料
 
@@ -71,3 +74,29 @@
 - **编辑次数**：22次
 - **创建者**：[加百利](usercenter/home.v?uid=u_753cca033a1d0cddbbea18b104be7ca3 "加百利")
 <!-- tcd_original_link https://baike.sogou.com/v157214889.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_托马斯·比提_-_搜狗百科.md                             |
+| Size            | 3188 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

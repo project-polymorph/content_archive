@@ -1,8 +1,11 @@
 # 《守望先锋》的新漫画证实了猎空的性取向
 
+## 正文 { data-search-exclude }
+
+
 ![《守望先锋》的新漫画证实了猎空的性取向](https://image.gcores.com/68204ec9-090d-473e-ae75-c7cf4ff61a96.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp)
 
-## 导语
+## 导语 { data-search-exclude }
 其实官方早就说过，但是我们并不知道是谁
 
 Nadya  
@@ -14,13 +17,13 @@ Nadya
 
 如果你想看到漫画的大图，可以[点这儿](https://www.gcores.com/link?target=http%3A%2F%2Fcomic.playoverwatch.com%2Fzh-tw%2Ftracer-reflections)去《守望先锋》的官网上瞧瞧。
 
-## 标签
+## 标签 { data-search-exclude }
 - [黑百合](/tags/615)
 - [猎空](/tags/1900)
 - [闪光](/tags/2623)
 - [游戏](/tags/14054)
 
-## 评论区
+## 评论区 { data-search-exclude }
 共 182 条评论热门最新
 
 ![](https://alioss.gcores.com/page_resources/misc/avatar-default.png?x-oss-process=image/bright,-20)发送
@@ -37,3 +40,29 @@ Nadya
 - ![](https://image.gcores.com/0344e4fc9ecd92c9eedc1395bfa87465-2202-1236.png?x-oss-process=image/resize,limit_1,m_fill,w_110,h_75/quality,q_90/format,webp)
   ### 《文明7》公开中国「清朝」介绍视频，特色能力也一并公布
 <!-- tcd_original_link https://www.gcores.com/articles/22168 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《守望先锋》的新漫画证实了猎空的性取向_-_机核GCORES.md                             |
+| Size            | 2944 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

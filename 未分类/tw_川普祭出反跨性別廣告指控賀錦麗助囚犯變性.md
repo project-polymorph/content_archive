@@ -1,5 +1,8 @@
 # 川普祭出反跨性别广告 指控賀錦麗助囚犯變性
 
+## 正文 { data-search-exclude }
+
+
 ![Breaking news](https://static.nextapple.tw/web/layout/img/breakingNews03.webp)
 
 據中央社報導，這些廣告內容被視為極具煽動性。其中一則廣告由女性旁白指出：「賀錦麗支持用納稅人的錢，為囚犯進行變性手術…她支持『他們』，而總統川普支持你。」該廣告最後由川普親自出聲：「我認可這則訊息。」批評者認為，廣告刻意妖魔化弱勢族群以激化選民情緒。
@@ -14,3 +17,29 @@
 
 [川普](https://tw.nextapple.com/search/%E5%B7%9D%E6%99%AE?tag=1) [反跨性別廣告](https://tw.nextapple.com/search/%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%A5%E5%BB%A3%E5%91%8A?tag=1)
 <!-- tcd_original_link https://tw.nextapple.com/international/20241030/71E459AAC872D6B8D421379ECD18658B -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tw_川普祭出反跨性別廣告指控賀錦麗助囚犯變性.md                             |
+| Size            | 2033 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

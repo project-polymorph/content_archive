@@ -1,5 +1,8 @@
 # 青少年心理咨询：我到底是男生还是女生？关于性别焦虑/性别烦躁
 
+## 正文 { data-search-exclude }
+
+
 ![听说吧心理咨询](//i0.hdslb.com/bfs/face/f9f13d4b6ba262089f5f4e70810893aafa62aa9b.jpg@96w_96h_1c_1s.webp)
 
 **编辑于** 2023年11月22日 00:05  
@@ -9,7 +12,7 @@
 
 在广州听说吧青少年心理咨询工作中，接触过不少有**性别焦虑**议题的孩子，今天听说吧心理咨询小编为大家科普这个群体的存在，并且给予他们更多的理解与支持。
 
-## 01、什么是性别焦虑症?
+## 01、什么是性别焦虑症? { data-search-exclude }
 
 我们先来了解一些概念，**大多数人的性别认同和生理性别高度一致，这些人被称为**“顺性别者”。**
 
@@ -37,7 +40,7 @@
 
 ![电影《男孩不哭》](//i0.hdslb.com/bfs/article/5cad69306fd68b6c322ce5febe7198e71783731873.png@1192w.webp)
 
-## 02、有性别焦虑是一种怎样的感受呢？
+## 02、有性别焦虑是一种怎样的感受呢？ { data-search-exclude }
 
 让我们来看看广大网友的分享：
 
@@ -78,7 +81,7 @@
 
 ![日剧《对不起，青春！》](//i0.hdslb.com/bfs/article/d63535d4634e9df36d4f65459179c3a71783731873.jpg@1192w.webp)
 
-## 03、性别焦虑如何应对？
+## 03、性别焦虑如何应对？ { data-search-exclude }
 
 对性别焦虑患者的治疗并不是强制他们认同自身生理性别，而是**减轻性别焦虑症患者的压力与焦虑**，从而提高患者的生活质量。目前有三种循序渐进的治疗方法。
 
@@ -112,3 +115,29 @@
 
 **▎本文为广州听说吧心理咨询中心原创文章，已做原创保护，转载时请标明出处，未经许可擅自使用者，本公司保留依法追究的权利。**
 <!-- tcd_original_link https://www.bilibili.com/read/cv27851652/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_青少年心理咨询：我到底是男生还是女生？关于性别焦虑性别烦躁.md                             |
+| Size            | 8635 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

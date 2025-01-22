@@ -1,5 +1,8 @@
 # 两“不男不女”患者同日做变性手术各得其“性”
 
+## 正文 { data-search-exclude }
+
+
 2007年08月25日 22:39:11 [浙江在线新闻网站](http://www.zjol.com.cn/)
 
 　　今年19岁的军军和今年21岁的芳芳本来并不相识，可是相同的不幸将两人带到了一起，昨日(24日)，在陕西生殖医学医院的手术台上，躺着两位特殊的病人，他们既貌似女性，又具备男性的特征，两人长期忍受着“不男不女”的痛楚，医生诊断他们都是“男性假两性畸形”患者。走下手术台后，两人按照自己和家人的意愿，军军变成一名女孩，芳芳则变身为男孩。
@@ -25,3 +28,29 @@
 - [变性女子歌厅表演遭女观众泼酒(图)](http://china.zjol.com.cn/05china/system/2007/03/26/008281514.shtml)
 - [重庆高中生拥有男女双重特征 做手术变男生](http://china.zjol.com.cn/05china/system/2007/03/15/008252309.shtml)
 <!-- tcd_original_link https://china.zjol.com.cn/05china/system/2007/08/25/008737563.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_两“不男不女”患者同日做变性手术各得其“性”-变性-浙江在线-国内新闻.md                             |
+| Size            | 3435 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

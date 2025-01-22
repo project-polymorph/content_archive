@@ -1,12 +1,15 @@
 # 双性人男性生殖器官被切除 医院错诊要担责
 
+## 正文 { data-search-exclude }
+
+
 **发布时间：2013-07-18 10:34:56**
 
 本网讯（张茂玉）出生后，“她”和双胞胎的姐姐一直被当作女孩对待。16岁时，“她”因体育成绩好被招入湖北省水上划船队，却在染色体检验时被认定是男儿身。面对人生的尴尬，他发现这一切源于自己两岁时的一次睾丸切除手术。2009年，双性人子郎将10多年前错诊自己病情的医院告上法院。
 
 近日，襄阳市襄城区法院一审判决：医院因错诊承担40%的赔偿责任，其父母因懈怠承担其余责任。
 
-## 两性幼童被切除睾丸
+## 两性幼童被切除睾丸 { data-search-exclude }
 
 1992年3月，李明家中添了一对双胞胎女儿，取名为小美、小丽。两岁时，小丽的右腹股沟长出一个蚕豆大小的包块。因包块越长越大，1994年8月，李明带着小丽到襄阳市区一家大型医院检查。
 
@@ -14,7 +17,7 @@
 
 医院没将这个检验结果告知李明。文化程度不高的李明也没对医生提出的“建议染色体检查”的医嘱放在心上。小丽手术康复回家后，以女性的身份生活。
 
-## 16岁时被鉴定为男生
+## 16岁时被鉴定为男生 { data-search-exclude }
 
 2008年4月，小丽被选中到武汉参加女子赛艇集训。当年9月体检时，医生发现小丽两性畸形（俗称双性人）。医院给小丽做了染色体检查，鉴定其为男性。小丽因此退队。
 
@@ -22,7 +25,7 @@
 
 为了给子郎治疗，李明四处借钱，母亲和姐姐也外出打工筹钱。为了恢复男儿身，子郎辍学了，先后3次进行手术。但即便这样，他仍被告知不确定能否生育。
 
-## 因医疗事故状告医院索赔
+## 因医疗事故状告医院索赔 { data-search-exclude }
 
 在获知这一切源于子郎两岁时的手术后，父亲李明申请了医疗事故鉴定。
 
@@ -32,7 +35,7 @@
 
 2009年11月，李明和儿子将手术医院告上了法庭，索赔伤残费、后期治疗费等共计34.5万余元。
 
-## 手术医院担责四成
+## 手术医院担责四成 { data-search-exclude }
 
 因涉及多次鉴定，官司审理历时3年多。
 
@@ -56,3 +59,29 @@
 
 版权所有©2013 法律资讯网 All rights reserved. 京ICP证080276号
 <!-- tcd_original_link http://www.dyzxw.org/html/article/201307/18/137704.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_双性人男性生殖器官被切除医院错诊要担责_-_法律资讯网.md                             |
+| Size            | 4458 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

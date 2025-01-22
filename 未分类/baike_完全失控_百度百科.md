@@ -1,5 +1,8 @@
 # 完全失控
 
+## 正文 { data-search-exclude }
+
+
 ![百度百科](https://baikebcs.bdimg.com/baike-react/common/logo-baike.svg)
 
 **中文名**: 完全失控  
@@ -18,11 +21,11 @@
 **imdb编码**: tt0185759  
 **级    别**: HongKong:IIB  
 
-## 剧情简介
+## 剧情简介 { data-search-exclude }
 
 死亡对其他人来说，可能是一件可怕的事，但对夏梦来说却变成一件赏心乐事。在小时候，当所有的小孩去玩煮饭仔，捉迷藏的时候，而梦就与众不同，她只喜欢去找寻一些死去的东西，如死去的小鸟、猫、狗，甚至一只蚁，她都兴高采烈去好好埋葬它，更甚的就是当她的妈妈家中突然死去，她都欢天喜地看着母亲被抬去。直至梦到达求职的年龄，她更希望去找寻一份更可接近死物的工作，就走去应征当死尸整形化妆师，当所有人都怀疑她可否胜任这份工作的时候，她却自得其乐。
 
-## 演职员表
+## 演职员表 { data-search-exclude }
 
 ### 职员表
 
@@ -40,7 +43,7 @@
 - 李燕萍  
 - 尹扬明  
 
-## 影片评论
+## 影片评论 { data-search-exclude }
 
 本片由两个故事构成，而这两个故事，说的是两种[变态心理](https://baike.baidu.com/item/%E5%8F%98%E6%80%81%E5%BF%83%E7%90%86/1228268?fromModule=lemma_inlink)。当易性癖与死尸整形化妆师的爱情失控后。
 
@@ -51,23 +54,49 @@
 两种变态，两个故事，两个悲惨的结局，让人看过之后，确实很不是滋味。电影通过两种不同寻常的人的故事，向观众展开了两段鲜为人知的故事。在现实生活中，这类特殊的人群是否能够得到人们的尊重，得到幸福？  
 （作者：未成年小林）
 
-## 主要演员
+## 主要演员 { data-search-exclude }
 
 ![周蕾](https://bkimg.cdn.bcebos.com/smart/f2deb48f8c5494eebbac06f120f5e0fe98257e4f-bkimg-process,v_1,rw_1,rh_1,maxl_216,pad_1,color_ffffff?x-bce-process=image/format,f_auto)  
 ![林保怡](https://bkimg.cdn.bcebos.com/smart/c2fdfc039245d688d43fde39f8956a1ed21b0ff48ead-bkimg-process,v_1,rw_1,rh_1,maxl_216,pad_1,color_ffffff?x-bce-process=image/format,f_auto)  
 ![宫雪花](https://bkimg.cdn.bcebos.com/smart/8b13632762d0f703918f031e79a2463d269758ee6fe2-bkimg-process,v_1,rw_1,rh_1,maxl_216,pad_1,color_ffffff?x-bce-process=image/format,f_auto)  
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [完全失控 (1997)](https://reference/5666999/533aYdO6cr3_z3kATPbaxPSiNSfFPomsv7fSU-RzzqIP0XOpRYHzU4187cM28_IpFwTG_8s3OYFM2fimVQ8G8K9ULLE)．时光网 [引用日期2017-11-11]  
 - [完全失控](https://reference/5666999/533aYdO6cr3_z3kATKGJz_v3Ni_FN9usv7eHB7RzzqIPmGapB4PqTIE3rtMw6_VmGkXIv5Utc8MXnO2pTlRE7fcSc-g9XQ)．豆瓣 [引用日期2024-04-04]  
 
 ![完全失控的概述图](https://bkimg.cdn.bcebos.com/pic/4b90f603738da97739123fa5d209ef198618377a45be?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536)  
 
-## 词条统计
+## 词条统计 { data-search-exclude }
 
 - 浏览次数：125710次  
 - 编辑次数：26次  
 - 最近更新：2024-09-14 [duweiw164](https://usercenter/userpage?uk=8leWx7y4UrAHRM_9RoKObw&from=lemma "查看此用户资料")  
 - 突出贡献榜： [未成年小林](https://usercenter/userpage?uk=5guSv9YUCBwTSC21PMGqpg&from=lemma "查看此用户资料")  
 <!-- tcd_original_link https://baike.baidu.com/item/%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7/5666999 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_完全失控_百度百科.md                             |
+| Size            | 6263 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

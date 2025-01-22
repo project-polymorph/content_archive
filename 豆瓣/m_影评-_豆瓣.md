@@ -1,5 +1,8 @@
 # 影评
 
+## 正文 { data-search-exclude }
+
+
 ![电影图片](https://img9.doubanio.com/view/elanor_image/raw/public/Q1FI1UO4.jpg)
 
 **作者**: [源千明](https://www.douban.com/people/minamotochiaki/)  
@@ -16,3 +19,29 @@
 
 **评论**: 2022-01-16 20:58:01 [回复](javascript: void 0;)
 <!-- tcd_original_link https://m.douban.com/doulist/148175901/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该影评文档评论了一部涉及多元性别主题的电影，重点探讨了影片中异装癖和变性人角色所面临的社会偏见和个人困境。作者在观看电影后，第一次感觉到女主角的表现让人难以接受，反映出社会中对与常态不符的个体的强烈歧视与不理解。影片通过这些敏感元素，如变性人、同性恋、歧视和谋杀，可以看出传达了对这些问题的深刻审视。作者提到，虽然电影中的角色可能看似怪异，但这并不构成对其生命故事的全面否定，呼吁观众应当以包容的态度看待那些生活在社会边缘的人。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_影评-_豆瓣.md                             |
+| Size            | 1090 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 源千明                               |
+| Region          | 未知                               |
+| Date            | 2022-01-16                                 |
+| Tags            | 电影评论, 多元性别, 变性人, 异装癖, 社会偏见, 包容性, 同性恋, 生命故事, 电影分析, 文化反思                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

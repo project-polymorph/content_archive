@@ -1,12 +1,15 @@
 # 医疗游的舒适与担忧
 
+## 正文 { data-search-exclude }
+
+
 本刊记者 马娅楠 《 民生周刊 》（）
 
 ![](../../../page/2011-07/11/08/page_b.jpg)
 
 台湾的美容美颜游，泰国的变性手术游，韩国的整形手术游，新加坡的老花眼矫正医疗观光……随着全球医疗旅游的兴起，到国外体检或看病的人越来越多。国外医疗旅游的内容正在日渐丰富，也将面向更广大的市场。
 
-## 一流的环境
+## 一流的环境 { data-search-exclude }
 
 “医疗旅游”是将旅游和治病、疗养结合起来的一种旅游形式。旅游者可以根据自己的病情、医生的建议，选择合适自己的游览区，在旅游的同时进行治疗。
 
@@ -16,13 +19,13 @@
 
 在新加坡莱佛士医院的一个私人病房中，木制暖色调的装修风格创造了一个较为宁静优雅的室内环境，值得一提的是，通常在普通病房里见到的氧气瓶和必备的医疗设备，在这里并没有出现，它们被藏在了壁柜中。据介绍，这是为了尽可能减少人们本能上对“医院”的恐惧。酒店式的摆设和室内装修，以及特别的护理也是吸引很多海外游客前来就医的原因。据莱佛士医院的相关负责人介绍，该医院每年接受的国际病人约占全医院病人总数的三成，“除了国际联合委员会(JCI)认证是病人选择医院的依据外，就医环境也是他们考虑的一大因素。”
 
-## 贴心的服务
+## 贴心的服务 { data-search-exclude }
 
 2010年末，日本新设“医疗签证”，吸引更多来自以中国为主的亚洲富裕阶层。有不少的体验者有感而发：“去日本体检，医生的问诊单，整整有九页。从头到尾，都有工作人员跟着，贴身服务，甚至提前准备好了中文字板，适时举起以告诉你是该“屏住呼吸”还是“可以呼吸”。
 
 同时，日本体检推出“防癌”品牌，得益于该国癌症早诊早治率高、治愈率高的特点。这“两高”，在癌症专家看来，与医疗技术水平关系不大，却与该国经济发展水平和癌症防治推广力度息息相关。
 
-## 出国看病四个前提
+## 出国看病四个前提 { data-search-exclude }
 
 每年，有120万人到泰国享受医疗服务；将近50万人到印度进行医疗旅游；2010年，全世界约有600万人到本国以外的地方寻求医疗服务。一个医疗旅游者约能带来1万美金的收益。医疗旅游已成长为全球增长最快的一个新产业。
 
@@ -37,3 +40,29 @@
 
 人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用 Copyright © 1997-2008 by www.people.com.cn. all rights reserved
 <!-- tcd_original_link http://paper.people.com.cn/mszk/html/2011-07/11/content_871452.htm?div=-1 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | paper_医疗游的舒适与担忧_-_民生周刊-_人民网.md                             |
+| Size            | 4161 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

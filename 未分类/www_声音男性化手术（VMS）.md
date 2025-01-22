@@ -1,6 +1,9 @@
 # 声音男性化手术（VMS）
 
-## Voice Masculinization / VMS / Female to Male Voice Surgery in Bangkok Thailand
+## 正文 { data-search-exclude }
+
+
+## Voice Masculinization / VMS / Female to Male Voice Surgery in Bangkok Thailand { data-search-exclude }
 
 在泰国曼谷的女性转男性声音手术或声音男性化手术（VMS）
 
@@ -46,13 +49,13 @@ _图片1展示了减小的喉部直径。_
 - 声音沙哑
 - 声音效果不如预期
 
-## 声音男性化语音治疗
+## 声音男性化语音治疗 { data-search-exclude }
 
 声音男性化语音治疗是一种改进您声音的治疗方法，使其听起来更具男性化。此治疗应在声音男性化手术前后进行，以实现轻松的语音控制。在声音男性化手术前，需要评估和调整您的声音，以便提供适当的语音表达。手术后，您需要学习如何男性化声音并轻松地说话。
 
 这一治疗由专业的、技术高超的语音治疗师提供，包括多次练习，直到您在我们的语音治疗师指导下完成所有声音男性化治疗的各个方面。若在没有专家建议的情况下自行练习，可能会导致声带水肿，从而影响我们的训练计划的效果。
 
-## 了解声音男性化手术（VMS）
+## 了解声音男性化手术（VMS） { data-search-exclude }
 
 [![blog](/uploads/blog/1101/thumb-65099076231a4-image_highlight.jpg)](https://www.kamolhospital.com/blog/1101/how-to-take-care-of-a-patient-after-voice-surgery)
 
@@ -72,9 +75,9 @@ _图片1展示了减小的喉部直径。_
 
 吸烟对嗓音手术有害，并可能对手术结果产生一些负面影响。
 
-## 影片: 男性化手术（VMS）
+## 影片: 男性化手术（VMS） { data-search-exclude }
 
-## 获得清晰声音的小技巧
+## 获得清晰声音的小技巧 { data-search-exclude }
 
 **以下是一些帮助提高声音清晰度的建议：**
 
@@ -107,3 +110,29 @@ _图片1展示了减小的喉部直径。_
 - [阴茎成形术](https://www.kamolhospital.com/service/32/phalloplasty)
 - [声音男性化手术（VMS）](https://www.kamolhospital.com/service/33/voice-masculinization-surgery-vms)
 <!-- tcd_original_link https://www.kamolhospital.com/zh/service/33/voice-masculinization-surgery-vms -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_声音男性化手术（VMS）.md                             |
+| Size            | 7053 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

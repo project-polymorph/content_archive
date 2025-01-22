@@ -1,5 +1,8 @@
 # “最美变性人”河莉秀49岁近照曝光 网：面目全非
 
+## 正文 { data-search-exclude }
+
+
 发布/2024年10月2日 06:16
 
 ![河莉秀昔日曾拍华语三级片《桃色》。 （互联网）](https://cassette.sphdigital.com.sg/image/zaobao/affe7f604b8a34d6e516022342896bed4ee8863399d3dda1cb779115ada31a91?o=zbimg&oloc=se)
@@ -14,13 +17,13 @@
 
 她曾坦承自己的家庭关系不好，爸爸更宠爱学业成绩更佳的姐姐，所以她从高中后便不再和爸爸说话。后来，爸爸是在她动了变性手术五年后才知道真相。自小爱漂亮的她，因为性向问题和爸爸决裂，她曾投诉父亲会在外人面前酸她：“当初就说不要生，就是生下来才变成这样。”让她大受伤害。但据说父女俩多年后还是和解。
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 明星
 - 变性人
 - 医美
 
-## 延伸阅读
+## 延伸阅读 { data-search-exclude }
 
 ![泰国“最美变性女星”单身派对 未婚夫甜蜜送吻](https://cassette.sphdigital.com.sg/image/zaobao/3b51e98d9b0d9234bc7bda01483d9ffda39830ebdc63d605948cf6496228a9e5)   
 [泰国“最美变性女星”单身派对 未婚夫甜蜜送吻](/entertainment/story20230219-1364635)
@@ -28,3 +31,29 @@
 ![男星嫖妓叫到阴阳人遭封杀 结婚十周年八岁儿首露面](https://cassette.sphdigital.com.sg/image/zaobao/3d85417e6ed54bd473146a1de3ae0a83ae7fe67cae7f3e75cf56992c84b696f9)   
 [男星嫖妓叫到阴阳人遭封杀 结婚十周年八岁儿首露面](/entertainment/story20240606-3837250)
 <!-- tcd_original_link https://www.zaobao.com.sg/entertainment/story20241002-4905086 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“最美变性人”河莉秀49岁近照曝光网：面目全非.md                             |
+| Size            | 2630 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 女變男跨性別人士　不滿須完成全套手術才得改「性」　求法庭覆核
 
+## 正文 { data-search-exclude }
+
+
 撰文：伍凱瑩
 
 出版：2018-01-09 14:34更新：2018-01-09 14:34
@@ -44,7 +47,7 @@ Tse和案中另外兩名跨性別人士，雖然生作女兒身，但皆認定�
 
 ![image](https://01web-strapi.hk01.com/upload/entrance_banner_a5093e637d.jpg)
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [跨性別](https://www.hk01.com/tag/4367)
 - [入境處](https://www.hk01.com/tag/196)
 - [司法覆核](https://www.hk01.com/tag/3927)
@@ -62,3 +65,29 @@ Tse和案中另外兩名跨性別人士，雖然生作女兒身，但皆認定�
 
 ![我嬲啊](https://social-reaction-api.hk01.com/static/images/social-reaction-angry.png) 0
 <!-- tcd_original_link https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/147970/%E5%A5%B3%E8%AE%8A%E7%94%B7%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E4%B8%8D%E6%BB%BF%E9%A0%88%E5%AE%8C%E6%88%90%E5%85%A8%E5%A5%97%E6%89%8B%E8%A1%93%E6%89%8D%E5%BE%97%E6%94%B9-%E6%80%A7-%E6%B1%82%E6%B3%95%E5%BA%AD%E8%A6%86%E6%A0%B8 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女變男跨性別人士不滿須完成全套手術才得改「性」_求法庭覆核.md                             |
+| Size            | 4890 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

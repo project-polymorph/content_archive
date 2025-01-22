@@ -1,10 +1,13 @@
 # 我是一名变性女人，无下限提问，现在开始
 
+## 正文 { data-search-exclude }
+
+
 **作者**：佚名  
 **来源**： [BBC](http://www.bbc.com/news/)  
 **日期**：2017-01-22  
 
-## 导读
+## 导读 { data-search-exclude }
 
 【我是一名变性女人想问什么，尽管来吧】一名变性女人在互联网论坛上给好奇宝宝们提供了无下限提问的机会，关于变性的话题已经快被众人的口水淹没了。 Gwen，24岁，来自宾夕法尼亚州，在一个在线社区网站红迪网(Reddit)主持了一场什么都可以问我(AMA)的节目。 她收到了将近2,000个问题和评论，大部分是来自支持和尊重的人。 她说：我知道，在你们的日常生活中，很少有人会知道周围是否有变性人存在， 
 
@@ -138,3 +141,29 @@ Gwen还讨论了她的私生活，尽管她说大多数变性人都不喜欢被�
 
 **版权声明**：copyright©医学论坛网 版权所有，未经许可不得复制、转载或镜像
 <!-- tcd_original_link https://m.cmt.com.cn/detail/1282485.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_我是一名变性女人，无下限提问，现在开始.md                             |
+| Size            | 7088 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

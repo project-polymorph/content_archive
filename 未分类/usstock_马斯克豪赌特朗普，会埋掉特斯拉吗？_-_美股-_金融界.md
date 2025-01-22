@@ -1,5 +1,8 @@
 # 马斯克豪赌特朗普，会埋掉特斯拉吗？
 
+## 正文 { data-search-exclude }
+
+
 2024-11-01 07:42:57  
 来源：格隆汇  
 
@@ -77,3 +80,29 @@
 
 责任编辑：栎树
 <!-- tcd_original_link https://usstock.jrj.com.cn/2024/11/01074244815545.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | usstock_马斯克豪赌特朗普，会埋掉特斯拉吗？_-_美股-_金融界.md                             |
+| Size            | 10173 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

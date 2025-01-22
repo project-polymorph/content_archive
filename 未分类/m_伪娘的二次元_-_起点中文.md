@@ -1,8 +1,11 @@
 # 伪娘的二次元
 
+## 正文 { data-search-exclude }
+
+
 ![伪娘的二次元在线阅读](//bookcover.yuewen.com/qdbimg/349573/1013796085/600.webp)
 
-## 作者信息
+## 作者信息 { data-search-exclude }
 
 **作者**: 星音的小梦  
 **作品状态**: 完本  
@@ -11,11 +14,11 @@
 **周推荐**: 0  
 **分类**: [轻小说](//www.qidian.com/2cy/ "轻小说小说") · [衍生同人](//www.qidian.com/all/chanId12-subCateId281/ "衍生同人小说")
 
-## 作品简介
+## 作品简介 { data-search-exclude }
 
 节操什么的，根本不会有的，凭本事女装，怎么会不爽呢？亚丝娜：我当初就不应该管你。五河士织:说好的精灵都是妹子呢！？晓古城:把妹妹还给我啊！赛丽亚：冒险家大人身边怎么能有这么多女生呢……娑娜：不要以为奶妈就不能打断你这个花心大萝卜的狗腿了！其他妹子：星雨又来祸害人啦！
 
-## 章节目录
+## 章节目录 { data-search-exclude }
 
 - [第二章 穿女装打生化？](//www.qidian.com/chapter/1013796085/439995892/ "伪娘的二次元 第二章 穿女装打生化？ 首发时间：2019-01-11 12:00:00 章节字数：2011")
 - [第四章 要我卖弄骚姿？](//www.qidian.com/chapter/1013796085/440216906/ "伪娘的二次元 第四章 要我卖弄骚姿？ 首发时间：2019-01-15 12:00:00 章节字数：2030")
@@ -35,21 +38,47 @@
 - [第三十八章 桐子的心意](//www.qidian.com/chapter/1013796085/459421884/ "伪娘的二次元 第三十八章 桐子的心意 首发时间：2019-05-24 17:55:37 章节字数：1422")
 - [第五十七章 突变](//www.qidian.com/chapter/1013796085/468283771/ "伪娘的二次元 第五十七章 突变 首发时间：2019-06-19 11:31:03 章节字数：2108")
 
-## 作品荣誉
+## 作品荣誉 { data-search-exclude }
 
 **2020-05-14 累积获得一千个收藏**
 
-## 评论与反馈
+## 评论与反馈 { data-search-exclude }
 
 ### 书友榜
 -   1. [暂无](javascript: "暂无") 0 书友值
 -   2. [暂无](javascript: "暂无") 0 书友值
 -   3. [暂无](javascript: "暂无") 0 书友值
 
-## 标签
+## 标签 { data-search-exclude }
 - 多元性别
 - 衍生同人
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄霆娱乐信息科技有限公司
 <!-- tcd_original_link https://m.qidian.com/book/1013796085/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_伪娘的二次元_-_起点中文.md                             |
+| Size            | 4757 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

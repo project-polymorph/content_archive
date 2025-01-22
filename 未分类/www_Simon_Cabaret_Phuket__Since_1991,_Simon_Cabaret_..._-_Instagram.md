@@ -1,5 +1,8 @@
 # Simon Cabaret Phuket: An Iconic Entertainment Experience
 
+## 正文 { data-search-exclude }
+
+
 ![Photo by Simon Cabaret Phuket on September 06, 2024.](https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/458737112_813289111014324_4299942966468269332_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=4qs1-asoWS8Q7kNvgGgUHbV&_nc_gid=c00cbc614cbc4e7dafd165ca45d9757d&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYAq5ircfRFRvdJYvc531gpORO9gXTtTbTIk-40u6SoPsg&oe=678C7D2E&_nc_sid=d885a2)
 
 Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast Asia's premier cabaret, we've set the standard for dazzling shows that blend artistry, glamour, and pure exhilaration. Ready to be amazed? Book your tickets today! 
@@ -11,10 +14,10 @@ Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast
 💺 Buy Ticket (in bio) or [https://bit.ly/3XUVapL](https://bit.ly/3XUVapL)  
 📲 +66 (0) 87 888 6888  
 
-## Social Media Links
+## Social Media Links { data-search-exclude }
 - [Instagram Profile](https://www.instagram.com/simoncabaretphuket)
 
-## Tags
+## Tags { data-search-exclude }
 - [#SimonCabaret](https://www.instagram.com/explore/tags/simoncabaret/)
 - [#ladyboy](https://www.instagram.com/explore/tags/ladyboy/)
 - [#cabaret](https://www.instagram.com/explore/tags/cabaret/)
@@ -45,7 +48,7 @@ Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast
 
 ![Photo by Simon Cabaret Phuket on January 06, 2025. May be an image of 5 people, people dancing, costume and text.](https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/472769426_619597760466645_6565376706399362403_n.jpg?stp=c180.0.1079.1079a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=tEAK3EgX1FYQ7kNvgF3FWXT&_nc_gid=6aff827d193441b2831a9025f0d1e63c&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCTb7abJ6o330dsPkx0b7wgj3hRRNZ0u1-ntZKXRj4xrA&oe=678C58EA&_nc_sid=bc0c2c)
 
-## Comments Section
+## Comments Section { data-search-exclude }
 - [simoncabaretphuket](https://www.instagram.com/simoncabaretphuket/):
   - Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast Asia's premier cabaret, we've set the standard for dazzling shows that blend artistry, glamour, and pure exhilaration. Ready to be amazed? Book your tickets today!
   - "我们将为您提供精彩的表演。从未体验过这样愉快的夜晚。"
@@ -55,3 +58,28 @@ Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast
 - **来源:** Simon Cabaret Phuket Instagram
 - **作者:** Simon Cabaret Phuket
 - **编辑:** Instagram
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Simon_Cabaret_Phuket__Since_1991,_Simon_Cabaret_..._-_Instagram.md                             |
+| Size            | 6861 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

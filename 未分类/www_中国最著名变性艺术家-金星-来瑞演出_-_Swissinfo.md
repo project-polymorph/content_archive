@@ -1,5 +1,8 @@
 # 中国最著名变性艺术家-金星-来瑞演出
 
+## 正文 { data-search-exclude }
+
+
 ![金星现代舞团](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2006/04/5c9f75af064c7b8f410c4ad68551647d-sriimg20060426_6659930_0-data.jpg?ver=7c5984ed)
 
 **作者：刘婷**  
@@ -40,7 +43,33 @@
 
 4月29日是世界舞蹈日。这一天苏黎世的舞蹈家们将为普通观众提供免费的舞蹈课。全苏黎世的舞蹈工作室和剧院都将象大众开放，对舞蹈感兴趣的人们可以向舞蹈家们请教。29号活动的亮点将会是Maag MusicHall的现代大厅，金星和她的现代舞团将在那里出演著名的“Shanghai Beauty”。那一天，无论年龄大小、专业还是非专业，所有人都有可能被邀请共舞，让每个人都体会舞蹈的快乐和美。世界舞蹈日，让我们一起来跳舞吧。swissinfo特约记者刘婷 (记者还将对金星进行专访，请继续关注。)
 
-## 相关信息
+## 相关信息 { data-search-exclude }
 
 瑞士国际舞蹈节Steps从1988年创办至今，已经举办第十届了。今年的瑞士国际舞蹈节巡演将遍及瑞士25个城市和乡村，以便推广现代舞，让更多的人了解和喜爱舞蹈。瑞士国际舞蹈节在多年的坚持和努力下，已经发展成一个成熟的城市活动。每年受邀参加的现代舞团都是在世界范围享有盛誉的优秀团体。今年，来自中国的金星现代舞团是本次活动的亮点。金星集编、导、领舞于一身，她的创作在世界各地的巡演中总是获得巨大的成功。
 <!-- tcd_original_link https://www.swissinfo.ch/chi/culture/%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%91%97%E5%90%8D%E5%8F%98%E6%80%A7%E8%89%BA%E6%9C%AF%E5%AE%B6-%E9%87%91%E6%98%9F-%E6%9D%A5%E7%91%9E%E6%BC%94%E5%87%BA/5145150 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国最著名变性艺术家-金星-来瑞演出_-_Swissinfo.md                             |
+| Size            | 5203 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

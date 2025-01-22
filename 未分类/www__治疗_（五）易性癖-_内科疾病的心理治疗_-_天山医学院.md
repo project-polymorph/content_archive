@@ -1,0 +1,48 @@
+# 易性癖 - 内科疾病的心理治疗
+
+## 正文 { data-search-exclude }
+
+
+也称异性认同癖，或称性别转换症。这是一种性别认同障碍，是性身份的严重颠倒，性科学和性医学界已公认易性癖是一种独立性偏离，其特征是向往异性生活方式，对自己性解剖特征厌恶或有不适感，希望采用变性手术或激素使自己尽可能与偏爱的性别一致。寻求医学帮助,使其身体变为自己体会的性别。希望周围人按其体验到的性别接受自己。但对严重心理抑郁的易性癖者，甚至有自杀倾向的可考虑进行易性手术治疗，这对缓和患者自觉性别与生物学性别的矛盾，促使其心理平衡有利，对社会稳定也有益处。经多次反复治疗，患者能认识到自己的性心理出了偏差，焦虑 ......
+
+——《内科疾病的心理治疗》
+
+## 书籍信息 { data-search-exclude }
+
+- **书名**：《内科疾病的心理治疗》
+- **栏目**：内科疾病的心理治疗 > 第三篇 各论 > 第十一章 精神障碍的心理治疗 > 第五节 性功能障碍与性心理障碍 > 二、性心理障碍
+- **作者**：李殊响
+- **参编**：
+- **页码**：389-391
+- **版本**：2
+- **出版社**：人民卫生出版社
+- **出版时间**：2011-05-01
+
+© 2015-2019 天山医学院
+<!-- tcd_original_link https://www.tsu.tw/xiyi/883959.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www__治疗_（五）易性癖-_内科疾病的心理治疗_-_天山医学院.md                             |
+| Size            | 1343 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

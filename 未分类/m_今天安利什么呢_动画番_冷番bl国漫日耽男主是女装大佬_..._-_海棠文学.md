@@ -1,8 +1,11 @@
 # 多元性别相关的动画推荐
 
+## 正文 { data-search-exclude }
+
+
 今天安利什么呢：动画番 : 冷番 bl国漫 日耽 男主是女装大佬 都市恋爱 男主愛而不得 性转 骨科 人外 妖怪 百合 女性友好番剧 gb
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 
 他的死大杀特杀,造就了一代悲剧。重生后,别人告诉他要让皇帝当好皇帝才能改变悲剧,他兢兢业业,但是皇帝仍然爱上了他,并且因为他过于专注让自己当皇帝而略黑化,下了狠心的承诺。
 
@@ -43,3 +46,29 @@
 
 此内容收集自网络资源，版权归原作者所有。
 <!-- tcd_original_link https://m.ad-expo.com/book/81386/68988_2.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_今天安利什么呢_动画番_冷番bl国漫日耽男主是女装大佬_..._-_海棠文学.md                             |
+| Size            | 1700 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

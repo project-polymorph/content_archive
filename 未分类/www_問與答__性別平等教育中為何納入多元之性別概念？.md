@@ -1,6 +1,9 @@
 # 教育部性別平等教育全球資訊網-新聞稿及資訊澄清
 
-## 問與答
+## 正文 { data-search-exclude }
+
+
+## 問與答 { data-search-exclude }
 
 ### 性別平等教育中為何納入多元之性別概念？
 
@@ -11,3 +14,29 @@
 
 二、另，依據《性別平等教育法》第18條規定，「教材內容應平衡反映不同性別之歷史貢獻及生活經驗，並呈現多元之性別觀點。」同法施行細則第14條亦規定「教材內容並應破除性別偏見及尊卑觀念，呈現性別平等及多元之價值。」因此，性別平等教育依法需納入性別平等之多元觀點，並呈現性別多元之價值，以教導學生尊重不同的性別差異。
 <!-- tcd_original_link https://www.gender.edu.tw/web/index.php/m1/m1_03_03_c?sid=20 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_問與答__性別平等教育中為何納入多元之性別概念？.md                             |
+| Size            | 1062 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

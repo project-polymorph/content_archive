@@ -1,5 +1,8 @@
 # 三位变性人讲述爱情故事：不愿成为猎奇对象
 
+## 正文 { data-search-exclude }
+
+
 2006-6-1 8:6 
 
 洁白的婚纱，娇羞的笑靥，满眼的泪花，歆儿依偎在丈夫的肩头呢喃，“我们一生一世永远都不分开……”这个幸福的时间定格在2006年5月20日那个阳光灿烂的日子。24岁的歆儿如愿嫁给了心上人——山东小伙黄昆仑。“新娘子真漂亮啊！”婚礼上的服务人员发出了这样的赞叹，但她们不知道，这个娇柔的新娘是个变性人，而这场婚礼，也是吉林省首例媒体公开报道的变性人婚礼。
@@ -80,3 +83,29 @@
 
 [变性](http://kuaisoo.chinaacc.com/search/soo.php?site2=0&site=2&q=%B1%E4%D0%D4)  [爱情](http://kuaisoo.chinaacc.com/search/soo.php?site2=0&site=2&q=%B0%AE%C7%E9)  [对象](http://kuaisoo.chinaacc.com/search/soo.php?site2=0&site=2&q=%B6%D4%CF%F3)
 <!-- tcd_original_link http://www.jianshe99.com/html/2006/6/fm040820531816600214650.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_三位变性人讲述爱情故事：不愿成为猎奇对象_-_建设工程教育网.md                             |
+| Size            | 9698 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 兔蕾斯直播档案 - 2024年10月17日晚上 - Part D
 
+## 正文 { data-search-exclude }
+
+
 ![兔蕾斯](https://yt3.ggpht.com/ytc/AIdro_mQgktN_2cpYh4FwkWwOfkVRbT4958Dd1lyqPm0Ss848Q=s48-c-k-c0x00ffffff-no-rj)
 
 **日期**: 2024年10月17日  
@@ -7,7 +10,7 @@
 **来源**: [兔蕾斯 YouTube 频道](https://www.youtube.com/channel/UCoansJiD1wPYzjxwWa6N6yA)  
 **标签**: #伪娘, #女装大佬, #二次元  
 
-## 描述
+## 描述 { data-search-exclude }
 
 【兔蕾斯】2024年10月17日晚上直播的Part D。请大家多多支持兔蕾斯，到直播间刷刷礼物。 有大家的支持，兔蕾斯就能作出更好的直播和视频。建议大家可以的话，到直播间去看兔蕾斯，气氛会好很多，而且还能和兔蕾斯互动。
 
@@ -15,7 +18,7 @@
 **QQ粉丝群**: 169891184  
 **固定开播时间段**: 每天下午13:30~16:30，和晚上21:30~00:30  
 
-## 音乐
+## 音乐 { data-search-exclude }
 
 1. [빨간 맛 (Red Flavor) - Red Velvet](https://www.youtube.com/watch?v=WyiIGEHQP8o)  
    * 专辑: The Red Summer  
@@ -35,3 +38,29 @@
 
 请到 [www.douyin.com](http://www.douyin.com) 下载客户端或直接在线看。
 <!-- tcd_original_link https://www.youtube.com/watch?v=Oal2HTSdrqk -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【兔蕾斯】2024年10月17日晚上直播-_Part_D_-_YouTube.md                             |
+| Size            | 1411 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

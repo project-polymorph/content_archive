@@ -1,12 +1,15 @@
 # 易建联传嫖妓变性人身份曝光？疯传「女角」撞样宋慧乔竟是易服男兼曾被刑拘
 
+## 正文 { data-search-exclude }
+
+
 ![易建联事件一度登上微博热搜。](https://image.stheadline.com/f/680p0/0x0/100/none/543a80d97dd38a6781bfa798b261e7fd/stheadline/inewsmedia/20241017/_2024101717445885774.jpg)
 
 现年36岁、去年宣布退役的中国篮球巨星易建联今日（17日）被指卷入丑闻风波，微博疯传一名变性女网民自称与易建联进行性交易，声称对方大方给了1500美金（约10,700人民币），甚至声称拍下裸照与及疑为易建联身份证，易建联至今仍未为事件表态，但网上疯传这名变性女网民的真身。
 
 相关阅读：[易建联传嫖妓变性人丨重温精彩情史！曾传恋刘亦菲豪花六位数冧女 娶女模育有两子](https://www.stheadline.com/realtime-entertainment/3392669/%E6%98%93%E5%BB%BA%E8%81%AF%E5%82%B3%E5%AB%96%E5%A6%93%E8%AE%8A%E6%80%A7%E4%BA%BA%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89-%E7%98%8B%E5%82%B3-%E5%A5%B3%E8%A7%92-%E6%92%9E%E6%A8%A3%E5%AE%8B%E6%85%A8%E5%96%AC%E7%AB%9F%E6%98%AF%E6%98%93%E6%9C%8D%E7%94%B7%E5%85%BC%E6%9B%BE%E8%A2%AB%E5%88%91%E6%8B%98)
 
-## 网上疯传变性女网民的真身：
+## 网上疯传变性女网民的真身： { data-search-exclude }
 
 ![现年36岁、去年宣布退役的中国篮球巨星易建联今日（17日）被指卷入丑闻风波。](https://image.hkhl.hk/f/1024p0/0x0/100/none/54eaf6541b4bd47035d9f7f0cd1ce29b/2024-10/WhatsApp_Im_4_.jpeg)
 
@@ -86,11 +89,11 @@
 
 ![易建联与刘亦菲曾因拍广告而传绯闻。](https://image.hkhl.hk/f/1024p0/0x0/100/none/054880ce38f5021afaf06cde98c64f34/2024-10/VS---0_26_.jpg)
 
-## 网红李金金卷入风波
+## 网红李金金卷入风波 { data-search-exclude }
 
 易建联今日被指卷入丑闻风波后，很快成为了微博热搜，不少人对事件感到好奇，虽然有不少网民质疑事件的真确性，甚至还指出所谓的易建联身份证疑似是P图，并非真的，但仍然制止不到网民的「花生指数」，其后更疯传变性人身份，有网民称从种种资料显示，这个变性人是一位有「京城乔姐」之称的网红李金金，据悉只有19岁的李金金是男儿身，喜爱易服，曾涉嫌用假身份证，又曾男扮女装进入女浴室而被刑拘。
 
-## 「京城乔姐」李金金澄清不是主角
+## 「京城乔姐」李金金澄清不是主角 { data-search-exclude }
 
 不过「京城乔姐」李金金在小红书发文澄清，声称易建联传闻的女主不是他，聊天记录上的头像是伪造他的头像，但随后注销了帐号。对于易建联竟与李金金扯上关系，有人说：「京城乔姐真的是太牛了，真的是迈出强大了。统治指南了。之前看他直播觉得人性格挺好的，衣品也在线，怪不得这麽多人喜欢他，很会给人提供情绪价值。」、「他好恶心，这种人怎么不封杀？」、「 易建联品味不会这么差吧？应该假的吧？」
 
@@ -102,3 +105,29 @@
 
 [姚明身形暴胀体重传突破400磅 老婆叶莉爆失控原因「非常自责」](https://www.stheadline.com/realtime-entertainment/3251324/%E5%A7%9A%E6%98%8E%E8%BA%AB%E5%BD%A2%E6%9A%B4%E8%B0%B9%E9%AB%94%E9%87%8D%E5%82%B3%E7%AA%81%E7%A0%B4400%E7%A3%85-%E8%80%81%E5%A9%86%E8%91%89%E8%8E%89%E7%88%86%E5%A4%B1%E6%8E%A7%E5%8E%9F%E5%9B%A0%E9%9D%9E%E5%B8%B8%E8%87%AA%E8%B2%AC)
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/2029973/%E5%8D%B3%E6%99%82-%E5%A8%9B%E6%A8%82-%E6%98%93%E5%BB%BA%E8%81%AF%E5%82%B3%E5%AB%96%E5%A6%93%E8%AE%8A%E6%80%A7%E4%BA%BA%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89-%E7%98%8B%E5%82%B3-%E5%A5%B3%E8%A7%92-%E6%92%9E%E6%A8%A3%E5%AE%8B%E6%85%A7%E5%96%AC%E7%AB%9F%E6%98%AF%E6%98%93%E6%9C%8D%E7%94%B7%E5%85%BC%E6%9B%BE%E8%A2%AB%E5%88%91%E6%8B%98 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_易建联传嫖妓变性人身份曝光？疯传「女角」撞样宋慧乔竟是易服男_.md                             |
+| Size            | 10829 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

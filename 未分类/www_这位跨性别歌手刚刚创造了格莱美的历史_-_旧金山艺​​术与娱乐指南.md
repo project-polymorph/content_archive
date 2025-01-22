@@ -1,5 +1,8 @@
 # 这位跨性别歌手刚刚创造了格莱美的历史
 
+## 正文 { data-search-exclude }
+
+
 ![金·佩特拉斯和山姆·史密斯](https://s3.amazonaws.com/sfc-datebook-wordpress/wp-content/uploads/sites/2/2023/02/MER857f49a1543cfb3100a170b418fd2_grammys0205-1024x682.jpg)
 
 金·佩特拉斯和山姆·史密斯获得了格莱美最佳流行二人组/组合合作奖。图片来源:Emma McIntyre / Getty Images
@@ -56,3 +59,29 @@ _美联社对这篇报道也有贡献。_
 来源: 《旧金山纪事报》  
 电子邮件: avaziri@sfchronicle.com  
 <!-- tcd_original_link https://www.t1mobile.com/music/this-trans-singer-just-made-grammy-history -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_这位跨性别歌手刚刚创造了格莱美的历史_-_旧金山艺​​术与娱乐指南.md                             |
+| Size            | 5622 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

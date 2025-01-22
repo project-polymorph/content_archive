@@ -1,5 +1,8 @@
 # 泰国“人妖”参加选美比赛 身材姣好
 
+## 正文 { data-search-exclude }
+
+
 ![参赛者准备走秀](http://www.dzwww.com/images200911/dzwww-news_02.jpg)
 
 **时间:** 2016-04-21 09:49  
@@ -23,3 +26,29 @@
 
 [![全球最苦工作：记录盐工生活](./t20160411_14128174.htm)](./t20160411_14128174.htm "全球最苦工作：记录“地狱之门”的盐工生活")
 <!-- tcd_original_link https://zaozhuang.dzwww.com/synr/tj/201604/t20160421_14177661.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zaozhuang_泰国“人妖”参加选美比赛身材姣好-读图时代_-_枣庄大众网.md                             |
+| Size            | 1276 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

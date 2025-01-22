@@ -1,5 +1,8 @@
 # 美最高法院通过特朗普禁令 跨性别者将禁止服役
 
+## 正文 { data-search-exclude }
+
+
 2019-01-23 08:15  
 来源: 海外网  
 编辑：王丹蕾  
@@ -12,3 +15,29 @@
 
 报道称，根据美国联邦政府在2016年所提供的数据显示，大约有8980名服役人员被认定为跨性别者。（海外网 张振）
 <!-- tcd_original_link http://m.cnr.cn/news/20190123/t20190123_524490818.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_美最高法院通过特朗普禁令跨性别者将禁止服役.md                             |
+| Size            | 1171 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

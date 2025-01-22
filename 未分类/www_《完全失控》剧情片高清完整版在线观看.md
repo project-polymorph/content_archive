@@ -1,6 +1,9 @@
 # 完全失控
 
-## 影片信息
+## 正文 { data-search-exclude }
+
+
+## 影片信息 { data-search-exclude }
 
 - **片名**：完全失控
 - **状态**：HD中字
@@ -14,7 +17,7 @@
 - **语言**：粤语
 - **更新**：2024-12-02 11:13
 
-## 剧情简介
+## 剧情简介 { data-search-exclude }
 
 本片由两个故事构成，而这两个故事，说的是两种变态心理。当易性癖与死尸整形化妆师的爱情失控后。  
 第一个故事讲述的是一个易性癖的男人装扮成女人，成功吸引了一个有老婆的男人。当那个男人的老婆知道情况后，向男人发火了。后来那个男扮女装的男人偷偷进到了那男人的家里，夫妻两回来后吓了一跳。而那个易性癖的男人此时很想知道那男人是否喜欢他，当男人当着妻子的面，对他说：“我喜欢你，但和从前不一样了。”易性癖默默走进了浴室，锁上门，很久没有出来。当警察赶到，浴室门被打开时，他已在浴室里自杀了。他为什么自杀？为何一切来得如此突然？对于一个他喜欢的男人，忽然感觉无法再拥有，他受不了，他一时无法接受这个事实，心情跌到低谷，于是完全失控，选择了死亡。后来他的妈妈说，他是一个好胜心很强的孩子，当发现他把自己装扮成女人时，她就知道，会有这么一天。  
@@ -48,3 +51,29 @@
 
 联系邮箱：muslim31214@gmail.com
 <!-- tcd_original_link https://www.6ha.net/index.php/vod/detail/id/13992.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《完全失控》剧情片高清完整版在线观看.md                             |
+| Size            | 7702 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 社会对跨性别者的看法
 
+## 正文 { data-search-exclude }
+
+
 有一个群体，他们的心理性别与其生理性别不符，因而产生了生理上的男性认为自己应该属于女性，或者生理上的女性认为自己应该属于男性的现象，这些人被称作跨性别者。
 
 1. 您的性别
@@ -51,3 +54,29 @@
 
 ![](//s1.wenjuan.com/assets/images/logo/circle-blue-dog.svg) 问卷网 提供支持
 <!-- tcd_original_link https://www.wenjuan.com/s/BzuiYvZ?test=1&share_device=baiying -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_社会对跨性别者的看法_-_问卷网.md                             |
+| Size            | 1666 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 格雷尔·萨特克利夫
 
+## 正文 { data-search-exclude }
+
+
 ![格雷尔·萨特克利夫](https://bkimg.cdn.bcebos.com/smart/4610b912c8fcc3ce9af89a619945d688d43f20a3-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/format,f_auto)
 
 日本漫画《黑执事》及其衍生作品中的角色。初登场时为个性懦弱、胆小、迷糊，为安洁莉娜·达雷斯（通称红夫人）的执事。由福山润、雷霆、何承骏、Daniel Fredrick配音。
@@ -8,7 +11,7 @@
 
 因开膛手杰克一事他暂时被停职一段时间，但是一个完全活跃的死神。
 
-## 角色背景
+## 角色背景 { data-search-exclude }
 
 在作者的设定内死神都有着青金色的瞳孔，并以[近视](https://baike.baidu.com/item/%E8%BF%91%E8%A7%86)作为看到人类看不到的东西的代价。因此几乎每个死神都有眼镜。毕竟只是[半神](https://baike.baidu.com/item/%E5%8D%8A%E7%A5%9E) ，所以亦需饮食以及睡眠。
 
@@ -16,7 +19,7 @@
 
 死神可以看到被[死神之廉](https://baike.baidu.com/item/%E6%AD%BB%E7%A5%9E%E4%B9%8B%E5%BB%89)收割而死之人的走马灯（即那个人的一生），从而判断那人是否该死，如果对世界会有改变的就留下，反之灵魂被收走，不过很少会碰到不用被收走的灵魂。
 
-## 角色形象
+## 角色形象 { data-search-exclude }
 
 性格开朗、大胆凶残，喜好[男色](https://baike.baidu.com/item/%E7%94%B7%E8%89%B2)。在“那个执事，演出”中有明显的表现，对[塞巴斯蒂安·米卡艾利斯](https://baike.baidu.com/item/%E5%A1%9E%E5%B7%B4%E6%96%AF%E8%92%82%E5%AE%89%C2%B7%E7%B1%B3%E5%8D%A1%E8%89%BE%E5%88%A9%E6%96%AF)非常感兴趣，并称其为“小塞巴斯酱”。时常因想起塞巴斯蒂安而发出和做出一些思春少女的声音和动作...有[虐待狂](https://baike.baidu.com/item/%E8%99%90%E5%BE%85%E7%8B%82)及被虐症倾向。
 
@@ -26,7 +29,7 @@
 
 注：黑执事第二季ova5中详细的讲述了格雷尔与威廉成为独当一面的死神前的故事。其中还穿插着对格雷尔的性情改变的交代。那时的格雷尔竟然还是一个红短发的以自我为中心的狂傲青年，虽然日后的暴虐性情已经有所展露，但[虐待狂](https://baike.baidu.com/item/%E8%99%90%E5%BE%85%E7%8B%82)及被虐症显然是由于在自认最强的情形下被威廉打败，大受刺激造成的。
 
-## 角色能力
+## 角色能力 { data-search-exclude }
 
 ![格雷尔的死神镰刀](https://bkimg.cdn.bcebos.com/pic/0b7b02087bf40ad1eb1e63775d2c11dfa8eccea8?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_230)
 
@@ -34,7 +37,7 @@
 
 因为“过失”与“未直接申请”判定，由死神镰刀被威廉没收期间使用“死神剪刀”（两把红色小剪刀）。死神镰刀是连死神甚至恶魔被砍到都会死亡的武器，另外在与虐杀天使作战的时候曾使用威廉的园艺剪。
 
-## 角色经历
+## 角色经历 { data-search-exclude }
 
 于1799年12月16日和同期生威廉回收托马斯的灵魂后成为死神（死神派遣协会回收科），红夫人家的执事，TV第5话中正式以死神身份登场。
 
@@ -58,7 +61,7 @@
 
 在还是死神新生时，和[威廉·T·史皮尔斯](https://baike.baidu.com/item/%E5%A8%81%E5%BB%89%C2%B7T%C2%B7%E5%8F%B2%E7%9A%AE%E5%B0%94%E6%96%AF)一起完成最终任务，因为一开始威廉控分所以全b，格雷尔实际操作A，其余两个分项分别为B，C。所以他不满一个成绩比他低的人合作，在收灵魂时发生争执，威廉打败格子对年少轻狂的格子的心理形成了很大的刺激，致使格子变成了抖M，对威廉产生感情，并在走马灯困住威廉时说过“休想跟我抢男人”、“你要珍惜你的眼镜”等暧昧话语，在《死神威廉的物语》的最后威廉也说了一句“你要珍惜你的眼镜”被认为是牢记格子所有话的标志。
 
-## 登场记录
+## 登场记录 { data-search-exclude }
 
 ### 漫画登场
 - 6
@@ -125,7 +128,7 @@
 - 8
 - 9
 
-## 角色歌曲
+## 角色歌曲 { data-search-exclude }
 
 歌曲信息：
 
@@ -141,7 +144,7 @@
 
 ![专辑封面](https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c614f500bf9716fdfaaf51677b?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_376)
 
-## 评论
+## 评论 { data-search-exclude }
 **《黑执事》：为什么格雷尔是男性，偏偏要假装自己是女性？**  
 黑执事中的搞笑担当必须是红发死神格雷尔萨特克利夫，明明是男性的他却总是觉得自己是女生。这种表现不仅仅是存在于他见到塞巴斯酱的时候，更在和克雷德一起出任务的时候把自己作为是柔弱的女性一方。有很多说法是说格雷尔对自己的性别认知错误，番中的角色也有吐槽他“变态”的。
 
@@ -151,10 +154,36 @@
 **《黑执事》：你喜欢格雷尔这个角色吗？**  
 格雷尔·萨特克利夫在《黑执事》里，是个喜欢男人的变态死神，他平时的作风上总是一副无节操、恶趣味、残暴嗜血的样子，形容他是有过之而无不及。伪装的时候是胆小懦弱戴眼镜的小管家，脱掉伪装就是伸着长舌头锯齿的恐怖死神，连道具都是电锯，二话不说冲上来一顿砍，伴随着害羞行为。
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - [人物介绍](https://baike.baidu.com/reference/7437445/533aYdO6cr3_z3kATP3anqrzMSrEZ96lu7aGAOBzzqIP0XOpX5nyFIMn8tgs9v5zBx7BudZ2dplEhfzlWRMUrKYPKLNhF_08xTKiDw)．官网 [引用日期2014-08-18] 
 
 词条统计
 - 浏览次数：845271次
 - 编辑次数：183次
 <!-- tcd_original_link https://baike.baidu.com/item/%E6%A0%BC%E9%9B%B7%E5%B0%94%C2%B7%E8%90%A8%E7%89%B9%E5%85%8B%E5%88%A9%E5%A4%AB/7437445 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_格雷尔·萨特克利夫_百度百科.md                             |
+| Size            | 11090 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

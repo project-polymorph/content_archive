@@ -1,5 +1,8 @@
 # 台灣跨性別者故事：你不知道的「我沒有說我想變成女生」
 
+## 正文 { data-search-exclude }
+
+
 **播客**: [知識好好玩](https://podcasts.apple.com/tw/podcast/%E7%9F%A5%E8%AD%98%E5%A5%BD%E5%A5%BD%E7%8E%A9/id1479361968)
 
 **日期**: 2024年10月01日  
@@ -38,7 +41,7 @@
 
 [單集網頁](https://www.mirrorvoice.com.tw/podcasts/232/4643)
 
-## 資訊
+## 資訊 { data-search-exclude }
 
 - **節目**: [知識好好玩](https://podcasts.apple.com/tw/podcast/%E7%9F%A5%E8%AD%98%E5%A5%BD%E5%A5%BD%E7%8E%A9/id1479361968)  
 - **頻道**: [鏡好聽 MirrorVoice](https://podcasts.apple.com/tw/channel/%E9%8F%A1%E5%A5%BD%E8%81%BD-mirrorvoice/id6442748035)  
@@ -48,3 +51,29 @@
 
 内容受限制: 在你所在的國家或地區，此單集無法在網路上播放。
 <!-- tcd_original_link https://podcasts.apple.com/tw/podcast/%E6%88%91%E6%B2%92%E6%9C%89%E8%AA%AA%E6%88%91%E6%83%B3%E8%AE%8A%E6%88%90%E5%A5%B3%E7%94%9F-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-%E5%8F%B0%E7%81%A3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%95%85%E4%BA%8B-ft-%E7%8E%8B%E5%AD%9D%E5%8B%87-%E6%9D%8E%E4%BD%A9%E9%9B%AF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9-s03ep10/id1479361968?i=1000671476239 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_「我沒有說我想變成女生」你不知道的，台灣跨性別者故事ft.王孝勇_.md                             |
+| Size            | 3425 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

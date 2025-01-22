@@ -1,6 +1,9 @@
 # 变装CD小说推荐
 
-## 免费变装小说推荐
+## 正文 { data-search-exclude }
+
+
+## 免费变装小说推荐 { data-search-exclude }
 
 以下是一些免费变装小说的推荐：
 1. 《变装：黑化男主快放手》：这本古代言情-穿越奇情类小说中，女主需要扮男装探寻男主的事情，男女主角之间的感情线也很鲜明。
@@ -30,7 +33,7 @@
 - [苟在妖武乱世修仙](//book.qq.com/book-detail/46305137)
 - [谁让他修仙的！](//book.qq.com/book-detail/46504904)
 
-## 道士僵尸变装小说推荐
+## 道士僵尸变装小说推荐 { data-search-exclude }
 
 以下是几本关于道士和僵尸的小说推荐：
 1. 《伪道》：讲述年轻伪道士的闯道之路。
@@ -61,7 +64,7 @@
 - [苟在妖武乱世修仙](//book.qq.com/book-detail/46305137)
 - [谁让他修仙的！](//book.qq.com/book-detail/46504904)
 
-## 少女穿越变装小说推荐
+## 少女穿越变装小说推荐 { data-search-exclude }
 
 以下是一些关于少女穿越变装的小说推荐：
 - 《神医丑女：腹黑傻王俏皮妃》
@@ -97,7 +100,7 @@
 - [苟在妖武乱世修仙](//book.qq.com/book-detail/46305137)
 - [谁让他修仙的！](//book.qq.com/book-detail/46504904)
 
-## 老头修仙变装小说推荐
+## 老头修仙变装小说推荐 { data-search-exclude }
 
 《老头要修仙》是一本关于老头修仙的小说，作者是飞声。这本小说是仙侠和古典仙侠类的作品，讲述了一个老头修仙的故事。故事中，老头追求长生不老，踏莲曳波涤剑骨，凭虚御风塑圣魂。这本小说已经完本，总字数达到了...
 
@@ -125,7 +128,7 @@
 - [苟在妖武乱世修仙](//book.qq.com/book-detail/46305137)
 - [谁让他修仙的！](//book.qq.com/book-detail/46504904)
 
-## 变装小说推荐古代文
+## 变装小说推荐古代文 { data-search-exclude }
 
 以下是一些推荐的古代变装小说：
 1. 《变装：黑化男主快放手》：这本古代言情-穿越奇情类小说中，女主需要扮男装探寻男主的事情，男女主角之间的感情线也很鲜明。
@@ -155,7 +158,7 @@
 - [苟在妖武乱世修仙](//book.qq.com/book-detail/46305137)
 - [谁让他修仙的！](//book.qq.com/book-detail/46504904)
 
-## 变装搞笑推荐小说
+## 变装搞笑推荐小说 { data-search-exclude }
 
 我推荐以下几本变装搞笑小说给您：
 - 《戚总，你家夫人撩爆全球！》
@@ -189,7 +192,7 @@
 - [苟在妖武乱世修仙](//book.qq.com/book-detail/46305137)
 - [谁让他修仙的！](//book.qq.com/book-detail/46504904)
 
-## 哪里可以找到另类变装类的CD小说？
+## 哪里可以找到另类变装类的CD小说？ { data-search-exclude }
 
 我推荐以下两本另类CD变装小说给您：
 - 《温水煮甜心》，讲述软萌少女和高冷少年的青春爱情故事；
@@ -203,7 +206,7 @@
 - [温水煮甜心](//book.qq.com/book-detail/26003442)
 - [快穿之我还活着](//book.qq.com/so/快穿之我还活着)
 
-## 有哪些关于变装人妖的书籍或CD能提供服务？
+## 有哪些关于变装人妖的书籍或CD能提供服务？ { data-search-exclude }
 
 不一定很满足您的需求哈，但我尽可能推荐与您需求描述最为相关的小说：
 《变身动漫姬》这本书是由作者才不是大小姐写的一本轻小说-衍生同人类小说，这本小说的大致情节介绍是：楪祈那无以伦比的歌唱天赋，以及...
@@ -225,7 +228,7 @@
 - [呆萌女异世重生](//book.qq.com/so/呆萌女异世重生)
 - [呜啼无尽变身狂想](//book.qq.com/so/呜啼无尽变身狂想)
 
-## 请推荐一些好看的中短篇变装（CD/TS）小说，你知道吗？帮个忙吧！
+## 请推荐一些好看的中短篇变装（CD/TS）小说，你知道吗？帮个忙吧！ { data-search-exclude }
 
 😋，我推荐以下两本小说给你：
 1. 《柯南之变装在酒厂》，一个主角混迹在黑红双方，日常与主线并存的故事，全文较为搞笑轻松，适合小众读者。
@@ -237,7 +240,7 @@
 - [柯南之变装在酒厂](//book.qq.com/so/柯南之变装在酒厂)
 - [斗罗变装秀，开局被千仞雪逼婚](//book.qq.com/so/斗罗变装秀，开局被千仞雪逼婚)
 
-## 有哪些cd主题的变装小说推荐？
+## 有哪些cd主题的变装小说推荐？ { data-search-exclude }
 
 推荐以下两本变装小说：
 1. 《温水煮甜心》，这本书是一本浪漫青春-青春纯爱类小说，而且主角也是变装的哦。
@@ -274,3 +277,29 @@ QQ阅读小说网
 ### 参考资料
 无
 <!-- tcd_original_link https://ubook.reader.qq.com/ask/keyword/clwzenycos -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ubook_变装cd小说_-_QQ阅读.md                             |
+| Size            | 23191 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

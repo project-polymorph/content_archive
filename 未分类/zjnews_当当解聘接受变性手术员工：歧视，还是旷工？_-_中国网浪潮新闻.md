@@ -1,5 +1,8 @@
 # 当当解聘接受变性手术员工：歧视，还是旷工？
 
+## 正文 { data-search-exclude }
+
+
 ![图片](http://zjnews.china.com.cn/images/2021news/img/add6eff1a975391bfd31f73d4807e656.png)
 
 **发布时间**: 2020-07-06 13:35:15  
@@ -42,3 +45,29 @@
 
 ![图片](https://www.91ruyu.com/show/2020121927671_12.html?ifr=show&share_relation=c3a3de2ee41ffadb_1470166099_2&wfr=wx_wxph5&sfr=app&source=null&pid=00728b7fcd5a76bb)
 <!-- tcd_original_link http://zjnews.china.com.cn/yuanchuan/2020-07-06/235427.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zjnews_当当解聘接受变性手术员工：歧视，还是旷工？_-_中国网浪潮新闻.md                             |
+| Size            | 5095 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

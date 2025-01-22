@@ -1,10 +1,13 @@
 # 访谈：在纽约找到自己的声音&选择新的家庭的性别酷儿 ft. Aqueer
 
+## 正文 { data-search-exclude }
+
+
 [酷儿流水席](https://podcasts.apple.com/us/podcast/%E9%85%B7%E5%84%BF%E6%B5%81%E6%B0%B4%E5%B8%AD/id1725512952?l=ar)
 
 ![酷儿流水席](/assets/artwork/1x1.gif)
 
-## 本期内容 Episode contents
+## 本期内容 Episode contents { data-search-exclude }
 
 我们邀请了Aqueer作为嘉宾，开启了为期两集的系列访谈。在第一期内容中，Aqueer分享了ta对酷儿身份的认知过程，以及在纽约医疗系统中的就医经历，尤其是进行嗓音治疗的经验。拥有多个chosen family成员的Aqueer也分享了自己与家人相处的经历，和对于chosen family这种关系形式的理解。也请关注在下一期与Aqueer的探讨！
 
@@ -12,7 +15,7 @@ This is the first half of our interview with guest Aqueer(any gender-neutral pro
 
 _本单集由夏洛特参与剪辑_
 
-## 时间轴 Timeline
+## 时间轴 Timeline { data-search-exclude }
 
 - 00:45 嘉宾Aqueer的自我介绍，酷儿身份的认知过程，及使用性别中立代词的原因
 - 03:43 Voice training（嗓音训练/治疗）是Aqueer transition（性别转换）过程的第一步；voice therapy的体验
@@ -30,7 +33,7 @@ _本单集由夏洛特参与剪辑_
 - 53:26 当chosen family家庭成员有代际差异，如何在政治立场上相互磨合与影响？
 - 55:15 chosen family成员之间如何平衡和其他成员之间的关系？
 
-## 引用链接 Referenced links
+## 引用链接 Referenced links { data-search-exclude }
 
 - Aqueer进行嗓音训练的医疗机构
 - Aqueer所在的Callen-Lorde HOTT program
@@ -42,7 +45,7 @@ _本单集由夏洛特参与剪辑_
 - 拓展阅读：关于同样的医疗手段  
   [网页链接](https://pod.50w.us/i/09-or-and-ft-aquee-EArQzauNxVt/)
 
-## 信息
+## 信息 { data-search-exclude }
 
 - 节目：[酷儿流水席](https://podcasts.apple.com/us/podcast/%E9%85%B7%E5%84%BF%E6%B5%81%E6%B0%B4%E5%B8%AD/id1725512952?l=ar)
 - 发布日期：٢١ صفر ١٤٤٦ هـ 在 ٢:١٩ م UTC
@@ -51,3 +54,29 @@ _本单集由夏洛特参与剪辑_
 
 ![Apple Podcasts](/assets/app-icons/podcasts-icon_512.png)
 <!-- tcd_original_link https://podcasts.apple.com/us/podcast/09-%E8%AE%BF%E8%B0%88-%E5%9C%A8%E7%BA%BD%E7%BA%A6%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A3%B0%E9%9F%B3-%E9%80%89%E6%8B%A9%E6%96%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%9A%84%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF-ft-aqueer/id1725512952?i=1000666542607&l=ar -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_09__访谈：在纽约找到自己的声音&选择新的家庭的性别酷儿ft._Aqueer.md                             |
+| Size            | 4007 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

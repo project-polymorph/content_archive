@@ -1,5 +1,8 @@
 # 男子穿女装躲女厕偷拍被抓 异装癖是由哪些因素引起的？
 
+## 正文 { data-search-exclude }
+
+
 发布时间：2021-11-17 09:59:00 30 次浏览
 
 **关键词：** [异装癖](https://www.hao1kao.com/article/search-keyword-%E5%BC%82%E8%A3%85%E7%99%96.html) [女厕所](https://www.hao1kao.com/article/search-keyword-%E5%A5%B3%E5%8E%95%E6%89%80.html) [女装](https://www.hao1kao.com/article/search-keyword-%E5%A5%B3%E8%A3%85.html)
@@ -18,7 +21,7 @@
 
 现在很多人都有异装癖，造成这样问题的主要原因是心理。有些患者对性关系有一种恐惧和忧患的心理。因此，许多患者在不穿异性服装的情况下出现明显的阳痿症状，而穿异性服装则没有这种性功能障碍。这大概是异性打扮缓解患者潜意识对性活动的担忧或罪恶感的结果。
 
-## 相关推荐
+## 相关推荐 { data-search-exclude }
 
 [![国家市场监督管理总局抽检发现，某公司女装致癌物超标20多倍！](https://img.hao1kao.com/202402/e30c714dc315659.jpeg)](https://www.hao1kao.com/article/1947.html)
 
@@ -36,9 +39,35 @@
 
 2021-11-17 09:59:00 29
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 
 内容仅供参考，不作为诊断及医疗依据 | 举报邮箱：admin@hao1kao.com 
 
 Copyright 2021-2023 www.hao1kao.com All rights reserved | 好医靠 版权所有
 <!-- tcd_original_link https://hao1kao.com/article/1110.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hao1kao_男子穿女装躲女厕偷拍被抓异装癖是由哪些因素引起的？.md                             |
+| Size            | 3974 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

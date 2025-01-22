@@ -1,5 +1,8 @@
 # 易性癖
 
+## 正文 { data-search-exclude }
+
+
 **来源:** 蜘蛛网:疾病百科  
 **英文名称:** transsexualism  
 **患病部位:** [全身性疾病](https://www.iweeeb.com/diseases/locus-%E5%85%A8%E8%BA%AB%E6%80%A7%E7%96%BE%E7%97%85/)  
@@ -27,3 +30,29 @@
 
 4. **变性手术。**通过变性手术可在一定程度上使患者心理得到平衡。但国外资料报道有些人术后后悔，认为是个错误。因此手术治疗未可乐观，必须慎重对待。我国已有几例成功的变性手术报道，但这确是慎而又慎的工作，变性手术不可轻易做，因此更多得依赖心理治疗。
 <!-- tcd_original_link http://www.iweeeb.com/w/%E6%98%93%E6%80%A7%E7%99%96 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_易性癖的症状治疗方法临床表现预防用药【蜘蛛网疾病百科】.md                             |
+| Size            | 4229 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

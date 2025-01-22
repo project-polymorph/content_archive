@@ -1,5 +1,8 @@
 # 河利秀变性与太监并论 录制现场受辱组图
 
+## 正文 { data-search-exclude }
+
+
 ![河利秀](http://news.cnnb.com.cn/packages/2015/images/1_2.jpg)
 
 **稿源：** 2005-01-21 10:03:23  
@@ -20,13 +23,13 @@
 
 ![图4](http://www.cnnb.com.cn//big5/node2/node48/node2379/images/00330994.jpg)
 
-## 录制现场受辱
+## 录制现场受辱 { data-search-exclude }
 
 当天一起上节目的艺人王彩桦问河利秀：“既然你现在用不到‘小弟弟’，人家太监会放在宝贝房，那你的放在哪里？”文英阿姨也连忙开口附和，全场顿时哄堂大笑，河利秀虽然有点不好意思，但还是淡淡地说：“就像指甲和头发，‘小弟弟’也是可以修剪的。”虽然录影当天气氛融洽，不过事后河利秀坦承，当时她真的吓了一跳。
 
 台湾观众看节目看得哈哈大笑，不过韩国影迷可就不客气了，他们认为台湾综艺节目水准低，没教养，因此强烈反弹。为此，张菲低调澄清：“该单元本来就有侦查与八卦意味，而且过去不少报章杂志都写过她变性的事情，中间的趣味，正代表观众好奇。”此外，他亦表示：“问话本来就可以严肃，可以嘻哈，不过以后会调整来宾问话尺度。”
 
-## 艺人反应各异
+## 艺人反应各异 { data-search-exclude }
 
 就在台湾这边为“宝贝事件”吵得沸沸扬扬时，河利秀再透过媒体宣布16日造访台湾，替“FOXLADY”翻唱专辑进行宣传，韩国方面更摆出阵仗，除了摄影师全程跟拍外，还派出曾是菲哥最爱的金元萱担任采访工作，相信又会掀起另一波话题。
 
@@ -79,3 +82,29 @@
 All Rights Reserved**  
 宁报集团职业道德监督投诉电话：87654321
 <!-- tcd_original_link http://news.cnnb.com.cn/system/2005/01/21/001025735.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_河利秀变性与太监并论录制现场受辱组图_-_中国宁波网.md                             |
+| Size            | 9042 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

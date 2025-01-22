@@ -1,5 +1,8 @@
 # 腹腔镜手术在女性易性癖患者性再赋手术中的应用价值
 
+## 正文 { data-search-exclude }
+
+
 **引用本文：**
 
 李文,刘彦,金志军,刘晓军,胡电. 腹腔镜手术在女性易性癖患者性再赋手术中的应用价值[J]. 第二军医大学学报, 2004, 25(12): 1374-1376
@@ -96,3 +99,29 @@ surgical procedures  laparoscopic  resection of internal reproduction organs of 
 
 版权©[北京勤云科技发展有限公司](http://www.e-tiller.com)  京ICP备09084417号
 <!-- tcd_original_link https://xuebao.smmu.edu.cn:80/ajsmmu/ch/reader/view_reference.aspx?jid=18AF8F1EB82D46F97A96332747E11D21&aid=FD376CC9E0FEDB7E&yid=D0E58B75BFD8E51C&iid=59906B3B2830C2C5 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | xuebao_外科手术,腹腔镜、女性内生殖器官全切除术_-_海军军医大学学报.md                             |
+| Size            | 7768 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

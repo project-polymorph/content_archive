@@ -1,5 +1,8 @@
 # 问世界性为何物 短评
 
+## 正文 { data-search-exclude }
+
+
 - 读过(2)
 - [在读](https://book.douban.com/subject/10484870/comments?status=N)
 - [想读](https://book.douban.com/subject/10484870/comments?status=F)
@@ -26,3 +29,29 @@ ISBN: 7536951191
 北京豆网科技有限公司   
 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book) · [图书馆合作](https://book.douban.com/library_invitation) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://book.douban.com/subject/10484870/comments?status=P -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是对关于性心理障碍的书籍《问世界性为何物》的短评汇总，书籍由王宝安编写，并由陕西科学技术出版社于2012年出版。书中探讨了多元性别的相关议题，特别是对同性恋和跨性别者的描述，然而一些书评对书中对‘易性癖’的看法提出了批评，认为其观点存在明显的错误和偏见。文件中包含了一些读者的评论，反映出对于书中内容的激烈讨论及不同观点。综上所述，该文件不仅汇集了对该书的读后感，也映射出社会对于性别与性行为理解的复杂性与争议性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | book_全部短评-_图书问世界性为何物-_豆瓣.md                             |
+| Size            | 1437 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 王宝安                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-01-01                                 |
+| Tags            | 多元性别, 性心理障碍, 跨性别, 同性恋, 书评, 社会讨论, 心理健康, 性别认同, 性别研究, 文化批评                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

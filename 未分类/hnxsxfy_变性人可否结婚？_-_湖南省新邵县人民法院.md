@@ -1,11 +1,14 @@
 # 变性人可否结婚？-湖南省新邵县人民法院
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://www.cnzz.com/stat/website.php?web_id=1281341503 "站长统计")
   
 **作者：** 罗君君  
 **发布时间：** 2015-10-28 15:08:13
 
-## 正文
+## 正文 { data-search-exclude }
 
 【案情】  
 女青年阿欢与阿香同居，为了达到二人长相厮守的目的，她们决定“结婚”。但当双方先后三次到当地婚姻登记机关申请“结婚”登记时，婚姻登记机关以同性为由不予登记。于是阿欢便到上海去做变性手术，1年后最终变成了男性。2014年10月，二人拿着医院开具的阿欢为男性的证明，再次来到婚姻登记机关，婚姻登记机关以变性人结婚没有法律依据以及阿欢的户口本和身份证上性别仍是女性为由，不予登记。于是，他们一方面要求当地公安机关根据医院开具的阿欢为男性的证明修改阿欢户口本及身份证上的性别，另一方面向有关部门反映，要求婚姻登记机关应紧跟形势，尽快办理婚姻登记。2015年初，当地婚姻登记机关依据规定给二人办理了结婚登记手续。
@@ -30,3 +33,29 @@
 
 **版权信息：** 湖南省新邵县人民法院版权所有，未经协议授权禁止下载使用或建立镜像 中国法院网负责网站设计制作 网络安全和技术维护 Copyright © 2024 by www.chinacourt.org All Rights Reserved.
 <!-- tcd_original_link http://hnxsxfy.hunancourt.gov.cn/article/detail/2015/10/id/1782876.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hnxsxfy_变性人可否结婚？_-_湖南省新邵县人民法院.md                             |
+| Size            | 4125 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

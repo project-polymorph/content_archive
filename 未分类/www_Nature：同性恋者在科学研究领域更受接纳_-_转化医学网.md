@@ -1,5 +1,8 @@
 # Nature：同性恋者在科学研究领域更受接纳
 
+## 正文 { data-search-exclude }
+
+
 **来源**：转化医学网  
 **时间**：2015-08-21  
 **作者**：生物谷  
@@ -37,3 +40,29 @@ Queer in STEM调查团队评估了在自然科学、科技和数学领域超过1
 [转化医学网](http://www.360zhyx.com) 版权所有  
 [工信部备案号：沪ICP备12048908号-1](https://beian.miit.gov.cn)  
 <!-- tcd_original_link https://www.360zhyx.com/home-research-index-rid-58269.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Nature：同性恋者在科学研究领域更受接纳_-_转化医学网.md                             |
+| Size            | 4220 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

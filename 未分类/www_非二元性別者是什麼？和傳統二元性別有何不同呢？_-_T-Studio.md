@@ -1,5 +1,8 @@
 # 非二元性別者是什麼？和傳統二元性別有何不同呢？
 
+## 正文 { data-search-exclude }
+
+
 来源: Supro! 藝文誌  
 时间: 2021-07-01  
 
@@ -9,19 +12,19 @@ _宇多田光坦承自己是「非二元性別者」。_
 
 _宇多田光是一名日裔美籍創作歌手兼音樂製作人，現居於英國倫敦。日前她在Instagram直播影片中，向粉絲們坦承自認不屬於男性，也不屬於女性，而是「非二元性別者」（non-binary）的一員。她也曾發文直言，厭倦總是要選擇「小姐」、「夫人」、「女士」等稱謂；認為要用婚姻狀態或性別來識別她，讓她感到很不舒服。究竟非二元性別者是什麼？和一般的二元性別有何不同呢？_
 
-## _**生理性別與社會性別是什麼？**_
+## _**生理性別與社會性別是什麼？**_ { data-search-exclude }
 
 生理性別（sex）又稱「指定性別」（assigned sex），是透過生物學的「基因性別」與「解剖性別」來判定。其中，基因性別是與染色體（XY、XX 或其他組合）及荷爾蒙系統（雌激素或睪固酮）相關的性別特徵；解剖性別則是指生理構造上的性別（如子宮、陰道、陰莖等）。除了光譜兩端的男、女兩性，有些人一出生就同時擁有男女生殖器官，即為雙性人（intersex）。
 
 社會性別（gender）與生理性別並不相等，是指陰柔或陽剛的特質，這是伴隨生理性別而出現的社會、文化特質。
 
-## _**性別認同又是什麼？**_
+## _**性別認同又是什麼？**_ { data-search-exclude }
 
 性別認同（gender identity）是指一個人內化且認同自身屬於何種性別。社會上認定多數人都是順性別者，性別認同與其生理性別（男性／女性）吻合，與其社會性別（男性氣質／女性氣質）匹配。
 
 然而，有些人的生理性別、社會性別及性別認同並不一致，也就出現了LGBTQ此縮寫。其中，L代表Lesbian，意指女同志；G代表Gay，意指男同志；B代表Bisexual，意指雙性戀；T代表Transgender，意指跨性別；Q代表Question或Queer，意指對自身性別感到疑惑者。
 
-## _**非二元性別者是什麼？**_
+## _**非二元性別者是什麼？**_ { data-search-exclude }
 
 除了上述的LGBTQ之外，還有一群人不認同非男即女，不接受非順性別即跨性別的二元畫分，因此以「非二元性別」來表達其性別認同。簡而言之，他們是一群不把自己限制在傳統性別框架的人。在非二元性別中，又可分為以下四大類：
 
@@ -32,7 +35,7 @@ _宇多田光是一名日裔美籍創作歌手兼音樂製作人，現居於英�
 
 而隨著時代不斷演進，追求性別平權者希望能用「Mx」，取代過去Ms、Mrs及Mr，以生理性別及婚姻狀態作為性別分際的依據。Mx的說法，最早出現在1977年美國雜誌《單親父母》；近年來大眾逐漸能理解性別流動的概念後，Mx逐漸普及。如同常見的X代表未知，Mx也是類似主張，是一種無法被傳統定義的「新東西」。
 
-## _**非二元性別還有哪些人？**_
+## _**非二元性別還有哪些人？**_ { data-search-exclude }
 
 除了宇多田光之外，迪士尼童星出身的美國女歌手黛咪．洛瓦特（Demi Lovato）、英國同志男歌手山姆．史密斯（Sam Smith）、美國女歌手兼演員的賈奈爾．夢內（Janelle Monáe），及出演《全面啟動》（Inception）的加拿大女星艾略特．佩吉（Elliot Pag）均以非二元性別者的身分自居。
 
@@ -53,3 +56,29 @@ _轉載自 YAHOO新聞_
 - 雙性別
 - 混合性別
 <!-- tcd_original_link https://www.t-studio.info/zh-TW/blogs/our-survival-guide/73632?srsltid=AfmBOoo0OdcZTXPRhnLLqm_SEbRN74xKOffbLCSQHnZbc4Q7fGybfck3 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_非二元性別者是什麼？和傳統二元性別有何不同呢？_-_T-Studio.md                             |
+| Size            | 4545 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

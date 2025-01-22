@@ -1,5 +1,8 @@
 # 山东冠军男孩同时拥有两性器官，想当女人被送戒网瘾学校
 
+## 正文 { data-search-exclude }
+
+
 **来源**：河北青年报  
 **时间**：2020-12-17 14:22
 
@@ -81,3 +84,29 @@
 
 现如今，警方无法立案，家长拒绝沟通，学校如临大敌。线上线下的途径穷尽之后，志愿者们的寻找走进了死胡同，而可橙或许还在焦急地等待着朋友们的救援……
 <!-- tcd_original_link https://baijiahao.baidu.com/s?id=1686305404535079485&wfr=spider&for=pc -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baijiahao_山东冠军男孩同时拥有两性器官，想当女人被送戒网瘾学校_-_百度.md                             |
+| Size            | 9277 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

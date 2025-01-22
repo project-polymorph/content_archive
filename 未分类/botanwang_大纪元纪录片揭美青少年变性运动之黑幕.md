@@ -1,10 +1,13 @@
 # 大纪元纪录片揭美青少年变性运动之黑幕
 
+## 正文 { data-search-exclude }
+
+
 2023-06-23 22:41
 
 来源: 大纪元
 
-## 作者
+## 作者 { data-search-exclude }
 
 作者: [Eva Fu](https://botanwang.com/taxonomy/eva%7Cfu.html)  
 编译: [原泉](https://botanwang.com/taxonomy/%E5%8E%9F%E6%B3%89.html)  
@@ -80,3 +83,29 @@
 
 版权 © 2025 博谈网
 <!-- tcd_original_link https://botanwang.com/articles/202306/%E5%A4%A7%E7%BA%AA%E5%85%83%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%AD%E7%BE%8E%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%98%E6%80%A7%E8%BF%90%E5%8A%A8%E4%B9%8B%E9%BB%91%E5%B9%95.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | botanwang_大纪元纪录片揭美青少年变性运动之黑幕.md                             |
+| Size            | 5813 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

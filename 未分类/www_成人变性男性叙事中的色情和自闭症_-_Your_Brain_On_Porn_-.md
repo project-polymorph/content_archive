@@ -1,5 +1,8 @@
 # 在成人变性男性的叙事中的色情和自动识字 - 你的大脑在色情
 
+## 正文 { data-search-exclude }
+
+
 ---
 
 我最近发表了一篇文章，探讨了青少年“跨性别孩子”叙事的共性，并认为比较一些没有从小过渡的变性人的叙述，并确定每个人之间的共通之处以及代表这些儿童的叙述之间的共通性会很有趣。
@@ -69,7 +72,7 @@ Sam Riedel撰写的关于The Establishment（Riedel 2017）的文章提供了对
 
 据我所知，没有正式的学术工作将色情与瞳孔变性欲联系起来，这一点得到了证实 [雷布兰查德博士](http://individual.utoronto.ca/ray_blanchard/) 去年与我私下交谈。 正如我相信，要对跨性别问题进行富有成效和有益的对话，我们需要诚实对待妇科病，我也相信，如果要就生殖器官相关的问题进行富有成效和有益的对话，我们就诚实对待色情对年轻男孩及其对年轻男性性身份的影响。 我们还需要质疑那些倡导和支持幼儿过渡的男性变性者的动机，实际上是可疑的。 这些人显然与他们主张过渡到女孩的年轻男孩没有共同的叙述，我甚至会建议在考虑将女孩过渡到男孩时，这些活动家的话绝对不可信。
 
-## 引用：
+## 引用： { data-search-exclude }
 
 - [Egan，N。2016。 “17标志着我是变性但却不知道。” _Trans Cafe。_ 27六月。 访问二月14，2017](http://www.trans.cafe/posts/2016/6/27/17-signs-i-was-transgender-but-didnt-know-it)
 - [劳伦斯，答：2007年。“成为我们所爱的：自恋型变性欲概念化为浪漫爱情的表达” _生物学和医学的视角_，体积50，数字4（秋季2007）：506-20](http://www.annelawrence.com/becoming_what_we_love.pdf)
@@ -80,3 +83,29 @@ Sam Riedel撰写的关于The Establishment（Riedel 2017）的文章提供了对
 
 **by [米兰达·亚德利](http://mirandayardley.com/en/pornography-and-autogynephilia-in-the-narratives-of-adult-transgender-males/)**
 <!-- tcd_original_link https://www.yourbrainonporn.com/zh-CN/miscellaneous-resources/interesting-articles/pornography-and-autogynephilia-in-the-narratives-of-adult-transgender-males/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_成人变性男性叙事中的色情和自闭症_-_Your_Brain_On_Porn_-.md                             |
+| Size            | 13635 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

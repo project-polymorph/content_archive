@@ -1,6 +1,9 @@
 # 多元性别相关研究文章汇总
 
-## 文章列表
+## 正文 { data-search-exclude }
+
+
+## 文章列表 { data-search-exclude }
 
 | 标题 | 作者 | 来源 | 下载 |
 |------|------|------|------|
@@ -13,7 +16,7 @@
 | [性心理障碍、性心理治疗与快乐模型](https://www.example.com/article/info?aid=333166113) | 田聚群 | 中国性科学  2014, (03) :100-107 | [全文](https://www.example.com/article/info?id=333166113) |
 | [运动依赖与性行为依赖](https://www.example.com/article/info?aid=310346159) | 田聚群 | 中国性科学  2012, (01) :54-58 | [全文](https://www.example.com/article/info?id=310346159) |
 
-## 文章详细信息
+## 文章详细信息 { data-search-exclude }
 
 ### 1. 心理依赖与性幻想依赖
 - **作者**: 田聚群
@@ -71,8 +74,34 @@
 - **关键词**: 性行为依赖;运动依赖;性行为成瘾;性行为频率;性本能
 - **下载**: [全文](https://www.example.com/article/info?id=310346159)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 ©2012-2023 北京大学 版权所有
 
 ---
 <!-- tcd_original_link https://ccj.pku.edu.cn/Search/search?fd0=AU&op0=AND&kw0=%E7%94%B0%E8%81%9A%E7%BE%A4 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ccj_田聚群.md                             |
+| Size            | 6924 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

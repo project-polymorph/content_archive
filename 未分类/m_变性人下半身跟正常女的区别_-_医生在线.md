@@ -1,5 +1,8 @@
 # 变性人下半身跟正常女的区别
 
+## 正文 { data-search-exclude }
+
+
 2023-02-24 18:38:04 _分享_ 
 
 变性人下半身跟正常女的还是有区别的，从外形到功能上都有区别。外形上，现在的变性手术可以做到比较像，但肯定还是有区别，没有正常女的那么美观自然，功能上变性人的阴道没有腺体，阴道分泌物会减少，在性体验上也没有那么好的感觉。
@@ -31,3 +34,29 @@
 
 [2022呆狐网](javascript:;) [联系我们](javascript:;) [服务协议](javascript:;) [隐私政策](javascript:;)
 <!-- tcd_original_link https://m.51daifu.com/mr/bxss/r832670.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性人下半身跟正常女的区别_-_医生在线.md                             |
+| Size            | 3470 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

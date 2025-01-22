@@ -1,5 +1,8 @@
 # 金星-迷魅的舞者-专访
 
+## 正文 { data-search-exclude }
+
+
 ![金星](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2006/05/30e78001d464f6e644b0a7b373965f85-sriimg20060508_6694931_0-data.jpg?ver=6201b86f)
 
 中国现代舞艺术家金星. Liu Ting
@@ -63,11 +66,37 @@
 ### swissinfo：本届STEPS还有一个主题，就是关于舞蹈者的身体技能和灵魂思想表现的话题，你怎么看？
 金星：身体技能是用以表达舞者心灵的，首先你要有要表达的东西，技能是一种手段，不是说它不重要，但是它永远不能超越心灵表现的能力。跳出思想和感受的艺术生命力才会无止境。如果仅凭技术，可能30岁就到尽头了，但如果是思想在跳就可以永远跳下去。swissinfo特约记者刘婷
 
-## 相关信息
+## 相关信息 { data-search-exclude }
 
 金星从6岁起就有做女人的幻想，16岁就做好了做女人的准备；等到28岁才做了变性手术。现在的金星39岁，有了自己的家庭，是3个孩子的母亲。金星现代舞团一共有14位演员，从20岁到34岁。有的演员是从30岁才开始学习舞蹈的。
 
-## 数据资料
+## 数据资料 { data-search-exclude }
 
 金星1984年毕业于解放军艺术学院。1985年获首届中国舞蹈大赛桃李杯少年组第一名，1986年获第二届全国舞蹈比赛特别优秀演员奖，1987年考入广东舞蹈学校现代舞实验班。1988年获全额奖学金赴美学习现代舞。曾先后赴韩国、美国、意大利、比利时、英国等国家，举办专场作品晚会或受聘于当地国家级艺术团体，获很高赞誉。1993年金星回国，之后创建北京现代舞团。1995年在北京医科大学整形外科医院做变性手术。1998年，作品《红与黑》获文化部”文华奖”，同年成立金星现代舞团。1999年，在伦敦举办个人专场。2000年，在上海大剧院推出《海上风》、《卡尔米娜・布拉娜》现代舞专场。2001年，与德国艺术家合作首演《永远的现在时》现代舞专场。2004年，创作大型现代舞《上海探戈》。2005年，创作大型现代舞《迷魅上海》。
 <!-- tcd_original_link https://www.swissinfo.ch/chi/culture/%E9%87%91%E6%98%9F-%E8%BF%B7%E9%AD%85%E7%9A%84%E8%88%9E%E8%80%85-%E4%B8%93%E8%AE%BF/5173988 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_金星-迷魅的舞者-专访.md                             |
+| Size            | 9015 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

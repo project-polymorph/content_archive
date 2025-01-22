@@ -1,5 +1,8 @@
 # 你到底是男是女？跨性別者在媒體鏡頭窺伺下的形象
 
+## 正文 { data-search-exclude }
+
+
 【辣台妹聊性別】 小A辣、鍾明軒、Alizabeth娘娘，都是這幾年相當知名的網紅，雖然有自己的youtube頻道，他們仍然不可躲避媒體閃光燈。從小A辣變性手術的媒體報導出發，大眾媒體又如何詮釋性別？
 
 近期百萬網紅小A辣赴泰國做變性手術，不少新聞媒體聳動式地下標：「小A辣除大鵰變性、擴張棒通下體 但改不了男兒身這習慣」\[1\]、「小A辣開箱炫「變性後形狀」：妹妹界的頂級和牛！ 男友驗貨嗨爆了」\[2\] 利用獵奇的眼光來報導此事件以博得大眾眼球。又有另一派的媒體下標如下：「小A辣變性手術2月傷口未癒 男友讚做得很美「跟其他女生一樣」」\[3\]、「手術成為正港女人！小A辣「每天80分鐘擴充」大爆血 忍痛苦曝心願」\[4\]
@@ -56,7 +59,7 @@
 
 我們必須思考著，在人道主義的王國外，必須朝向著「性別平等」的方向邁進，有「平等」的思維，才能免於大眾給予的「施捨的存在」；有「平等」的概念，才能消除各種（微）歧視的存在，每個人也才不會口口聲聲說尊重跨性別者，卻不斷窺探他人的私生活與生理器官。
 
-## 參考資料
+## 參考資料 { data-search-exclude }
 
 \[1\] 蘋果新聞網，【小A辣除大鵰變性、擴張棒通下體　但改不了男兒身這習慣】 [https://reurl.cc/x0d0lV](https://reurl.cc/x0d0lV)
 
@@ -76,3 +79,29 @@
 
 ![No photo description available.](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/133467962_803870667011359_7301060065736100399_n.png?stp=dst-png_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CvbrKQkD50MQ7kNvgGKd61R&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AsB7QPc-3fI5rYHTQv2MfDS&oh=00_AYB7ckZNrO0xSpJ7SNnAa0DwjHfZkhJhcqtA-CtwJ_nSCw&oe=67ADE1A4)
 <!-- tcd_original_link https://www.facebook.com/TaimeiGenderBar/posts/%E4%BD%A0%E5%88%B0%E5%BA%95%E6%98%AF%E7%94%B7%E6%98%AF%E5%A5%B3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%9C%A8%E5%AA%92%E9%AB%94%E9%8F%A1%E9%A0%AD%E7%AA%BA%E4%BC%BA%E4%B8%8B%E7%9A%84%E5%BD%A2%E8%B1%A1%E5%B0%8Fa%E8%BE%A3%E9%8D%BE%E6%98%8E%E8%BB%92alizabeth%E5%A8%98%E5%A8%98%E9%83%BD%E6%98%AF%E9%80%99%E5%B9%BE%E5%B9%B4%E7%9B%B8%E7%95%B6%E7%9F%A5%E5%90%8D%E7%9A%84%E7%B6%B2%E7%B4%85%E9%9B%96%E7%84%B6%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84youtube%E9%A0%BB%E9%81%93%E4%BB%96%E5%80%91%E4%BB%8D%E7%84%B6%E4%B8%8D%E5%8F%AF%E8%BA%B2%E9%81%BF%E5%AA%92%E9%AB%94%E9%96%83%E5%85%89%E7%87%88%E5%BE%9E/803870737011352/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_辣台妹聊性別-_【你到底是男是女？跨性別者在媒體鏡頭窺伺_.md                             |
+| Size            | 10156 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # MtF变性患者的嗓音女性化手术
 
+## 正文 { data-search-exclude }
+
+
 -   **时间**: 21 8 月, 2020
 -   **作者**: [Richard Troy](https://www.ricktroy.com/zh/author/ricktroy/)
 
@@ -17,7 +20,7 @@
 
 此外，舌头、上颚、牙齿、面颊、嘴唇等构成上述解剖结构所产生的字的发音和变音的部位。
 
-## 男性和女性声音的差异
+## 男性和女性声音的差异 { data-search-exclude }
 
 由于生理性别的解剖差异，声音具有相同性别所共有的不同特征。以下是一些男性和女性声音的区别:
 
@@ -51,7 +54,7 @@
 
 **非语言语言**: 与男性相比，女性更倾向于移动手臂和使用更多的手势。她们更倾向于触摸与她们交谈的人，紧贴着他们坐着，保持眼神交流，看着他们交谈的人的眼睛。
 
-## 男性和女性声道和发声器官的解剖学差异
+## 男性和女性声道和发声器官的解剖学差异 { data-search-exclude }
 
 ![vocal folds diagram](https://www.ricktroy.com/wp-content/uploads/2021/07/vocal-folds-surgery.jpg)
 
@@ -65,13 +68,13 @@
 
 声带的长度，也就是声带和嘴唇之间的距离，男性约为16-17厘米，女性约为14,5厘米，这能产生不同的共振和共振峰。
 
-## 激素替代疗法对嗓音的影响
+## 激素替代疗法对嗓音的影响 { data-search-exclude }
 
 与变性的男性和雄激素激素替代疗法可以修改他们的声音通过增加声带的体积,transwomen化激素替代疗法只有经验最少的声带和喉部结构的变化和没有改变的声道,青春期后已经发育完全。因此，激素替代疗法引起的变化并没有改变男性声音的独特特征，而变性女性虽然音调更高，但仍具有其他一些可以显示其生理性别的特征。
 
 从研究多年来,看来,即便是完成从男女的转变之后,transwoman仍可能被误认为是一个男人,尤其是通过电话,由于他们的声音的男性特征,与社会和心理后果,这种不协调导致的个体。
 
-## MtF变性患者嗓音女性化的方法
+## MtF变性患者嗓音女性化的方法 { data-search-exclude }
 
 由于上述原因以及声音与其他生理特征一样，对生物性别的信号传递产生了影响，随着专门针对跨性别人群的医疗和外科技术的发展，声音变化领域也有了研究。
 
@@ -109,7 +112,7 @@ _Wendler’s Glottoplasty_
 
 喉结缩小手术通常与甲状腺成形术同时进行在手术后的同一手术中进行。一旦甲状软骨暴露出来，外科医生就会对其进行整形，使其在颈部前部形成的曲线变直，切除环绕喉的前部凸起部分。手术操作简单，患者满意率高。这种手术会在颈部的前部留下一个小疤痕，但是专业的外科医生会确保在颈部的自然褶皱处做切口，这样它就会被隐藏起来。
 
-## 更多关于声音女性化手术的信息
+## 更多关于声音女性化手术的信息 { data-search-exclude }
 
 声音女性化手术的最终结果可以在手术几周后观察到。在手术后的几个月(最多8个月)，声音会有持续和渐进的变化，直到最后稳定下来。
 
@@ -117,7 +120,7 @@ _Wendler’s Glottoplasty_
 
 术后第一周，病人不能说话，甚至不能低语，注意不要咳嗽，以免伤到手术部位。在这第一阶段之后，会谈的数量会逐渐增加。
 
-## 变性患者的语言治疗
+## 变性患者的语言治疗 { data-search-exclude }
 
 改变声音不只是外科手术的选择，相反，通常建议从语言治疗开始，或者将手术与专门治疗跨性别患者的语言治疗师制定的经过充分研究的治疗方案相结合，以最大限度地提高效果。言语治疗可以，经常用来作为唯一治疗修改的声音,没有任何手术,但它是非常重要的采取专门的专业:修改的说话方式和使用发声器官,随着时间的推移,如果处理不当,可能导致长期的损伤与负面结果的声音和手术纠正损失的需要。
 
@@ -147,3 +150,29 @@ _Wendler’s Glottoplasty_
 -   _Principles of Transgender Medicine and Surgery – 2nd edition_ Ettner R, Monstrey S, Coleman E – Routledge 2016
 -   _Transgender Medicine – A multidisciplinary Approach_ Poretsky L, Hembree WC – Springer 2019
 <!-- tcd_original_link https://www.ricktroy.com/zh/mtf%E5%8F%98%E6%80%A7%E6%82%A3%E8%80%85%E7%9A%84%E5%97%93%E9%9F%B3%E5%A5%B3%E6%80%A7%E5%8C%96%E6%89%8B%E6%9C%AF/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_MtF变性患者的嗓音女性化手术_-_Richard_Troy.md                             |
+| Size            | 11526 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

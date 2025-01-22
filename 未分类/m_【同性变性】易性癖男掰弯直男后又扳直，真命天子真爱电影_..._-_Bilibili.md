@@ -1,5 +1,8 @@
 # 【同性/变性】易性癖男掰弯直男后又扳直，真命天子真爱电影（下）《忘记她是他》
 
+## 正文 { data-search-exclude }
+
+
 ![电影封面](//i2.hdslb.com/bfs/archive/95675047bf64ac2d7f3c6142467a2e9dbe68ebf9.png@100w_100h_1c.webp)
 
 **发布时间**: 2019-06-17 22:45:00  
@@ -41,3 +44,29 @@
 
 *注：此信息为多元性别相关内容的存档，所有文本和图片均保证一致性。*
 <!-- tcd_original_link https://m.bilibili.com/video/av55947742?bsource=sogou&fr=seo.bilibili.com -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_【同性变性】易性癖男掰弯直男后又扳直，真命天子真爱电影_..._-_Bilibili.md                             |
+| Size            | 1834 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

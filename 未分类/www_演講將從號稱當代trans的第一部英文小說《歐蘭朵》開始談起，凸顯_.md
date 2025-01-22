@@ -1,18 +1,21 @@
 # 演講：從《歐蘭朵》談起的跨性別與激進女性主義
 
+## 正文 { data-search-exclude }
+
+
 演講將從號稱當代trans的第一部英文小說《歐蘭朵》開始談起，凸顯小說主角「#免術換證」的傳奇與男跨女所帶來的性別困境。接著進入四部跨性別電影《美麗佳人歐蘭朵》、《阿莉芙》、《翠絲》與《我的老婆是老公》的討論，探究其中所牽涉的 #身體情慾、#親屬關係、#階級差異 與 #種族認同。最後將帶入美國怪胎女性主義者巴特勒的新書《誰怕性別？》對反跨激進女性主義者的回擊，以及該書對台灣反跨勢力的呈現。穿梭小說與影像文本間的性別交織議題，省思台灣跨性別運動現狀⇰⇰ 
 
 實體🌟[reurl.cc/Dja84R](https://reurl.cc/Dja84R) 線上🌟 [reurl.cc/WxjVO7](https://reurl.cc/WxjVO7) 
 
 ---
 
-## 活動信息
+## 活動信息 { data-search-exclude }
 
 - **主講人**：#張小虹 ／臺灣大學外國語文學系 特聘教授  
 - **時間**：𝟖/𝟐𝟓（日） 𝟏𝟒:𝟎𝟎-𝟏𝟕:𝟎𝟎  
 - **地點**：📝女書店門市實體 + 𝐺𝑜𝑜𝑔𝑙𝑒 𝑀𝑒𝑒𝑡 視訊  
 
-## 講座簡介
+## 講座簡介 { data-search-exclude }
 
 - 什麼是trans中文翻譯的「跨」與「橫」？  
 - 什麼是跨性別運動與激進女性主義之間的矛盾衝突？  
@@ -31,3 +34,29 @@
 **標籤**：#跨性別 #激進女性主義 #台灣 #性別交織  
 **評論**：23 赞，1 评论，3 转发，1 分享
 <!-- tcd_original_link https://www.threads.net/@holok3holok/post/C--pbsnPnYS -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_演講將從號稱當代trans的第一部英文小說《歐蘭朵》開始談起，凸顯_.md                             |
+| Size            | 2255 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 流动性别 - Genderfluid
 
+## 正文 { data-search-exclude }
+
+
 ![Genderfluid](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Genderfluid.png/250px-Genderfluid.png)
 
 **Meaning**: Pink: femininity; White: all genders; Purple: combination of masculinity and femininity; Black: lack of gender; Blue: masculinity
@@ -12,7 +15,7 @@ Frequency: 21%
 
 To be easy to read, this article uses the word "genderfluid" for all people who experience fluid gender. Some people who experience fluid gender don't use the word "genderfluid" for themselves. Some people with fluid genders use other labels such as [genderqueer](/wiki/Genderqueer "Genderqueer"), [bigender](/wiki/Bigender "Bigender"), [multigender](/wiki/Multigender "Multigender"), [genderfae](/wiki/Genderfae "Genderfae"), [polygender](/wiki/Polygender "Polygender"), etc. It's important to understand that each person has the right to decide what to call their gender identity.
 
-## History
+## History { data-search-exclude }
 
 Kate Bornstein mentioned gender fluidity in 1994, in the book _Gender Outlaw: On Men, Women and the Rest of Us_, "and then I found that gender can have fluidity, which is quite different from ambiguity. If ambiguity is a refusal to fall within a prescribed gender code, then fluidity is the refusal to remain one gender or another. Gender fluidity is the ability to freely and knowingly become one or many of a limitless number of genders, for any length of time, at any rate of change. Gender fluidity recognizes no borders or rules of gender."[\[2\]](#cite_note-2)
 
@@ -44,7 +47,7 @@ In 2018, Washington state began to allow "X" gender markers on official document
 
 »
 
-## 影响性别流动性的因素
+## 影响性别流动性的因素 { data-search-exclude }
 
 «
 
@@ -69,7 +72,7 @@ After enough data is collected, any patterns that exist should become visible. T
 
 In 2012, Case and Ramachandran gave a report on the results of a survey of genderfluid people who call themselves [bigender](/wiki/Bigender "Bigender") who experience involuntary alternation between [female](/wiki/Female "Female") and [male](/wiki/Male "Male") states. Case and Ramachandran gave this condition the name "Alternating gender incongruity (AGI)." Case and Ramachandran made the hypothesis that gender alternation may reflect an unusual degree (or depth) of hemispheric switching and the corresponding suppression of sex appropriate body maps in the parietal cortex. They "hypothesize\[d\] that tracking the nasal cycle, rate of binocular rivalry, and other markers of hemispheric switching will reveal a physiological basis for AGI individuals' subjective reports of gender switches... We base our hypotheses on ancient and modern associations between the left and right hemispheres and the male and female genders."[\[14\]](#cite_note-14)[\[15\]](#cite_note-15)[\[16\]](#cite_note-16) Case and Ramachandran believe that when bigender people feel a change between their gender identities, it may have to do with a change in how they use parts of their brains. The gender change might also have to do with a natural body cycle, specifically, a valve in the nose that changes sides every two days (the nasal cycle). However, this idea is still only a hypothesis, and more study is needed to confirm it.
 
-## Gender expression
+## Gender expression { data-search-exclude }
 
 Genderfluid people often feel a need to change their [gender expression](/wiki/Gender_expression "Gender expression") to match whatever their current gender has become. This may mean having groups of different kinds of [clothing](/wiki/Clothing "Clothing") in their closet, so they can dress as a woman, man, or otherwise, depending on how they feel that day. It can also mean temporarily changing their body shape by using [binding](/wiki/Binding "Binding"), packing, breast prostheses, or tucking. However, in some situations, changing gender expression isn't possible. This could be because the changes happen more than once a day, because they don't look [androgynous](/wiki/Androgyny "Androgyny"), or because they don't feel safe in society if they were to present a certain way.
 
@@ -79,13 +82,13 @@ Genderfluid people don't necessarily look androgynous. They don't necessarily ha
 
 Some genderfluid people ask to be called by a different [name](/wiki/Names "Names")[\[18\]](#cite_note-:2-18) and [pronouns](/wiki/Pronouns "Pronouns") depending on what gender they feel at a certain time. For people who switch between only two genders, this can mean switching between two names. These may be feminine and masculine versions of the same name[\[19\]](#cite_note-19)或 names that don't sound similar at all.[\[20\]](#cite_note-:3-20) They may also take a gender-neutral name that works for them at any time, either in addition to these names, or instead of them.
 
-## Gender fluidity and dissociative identity disorder
+## Gender fluidity and dissociative identity disorder { data-search-exclude }
 
 Genderfluid people usually don't think of themselves as having alters. Most genderfluid people feel like the same person all the time, with the same likes and dislikes but a different gender. However, some genderfluid people switch between specific personas as they change genders, and each persona has their own likes and dislikes. This is different from Dissociative Identity Disorder (DID), which is a disorder characterized by dissociation and the existence of alters. DID is frequently caused by traumatic abuse that happens early in childhood and almost always exists alongside PTSD or cPTSD. Gender fluidity is not caused by abuse and is not more common in people with PTSD or cPTSD.
 
 Multiple/plural systems where some alters have different genders from the others are not automatically genderfluid. However, an individual alter can be genderfluid.
 
-## 知名的流动性别人士
+## 知名的流动性别人士 { data-search-exclude }
 
 ![Dorian Electra](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dorian_Electra%2C_Subterranean_Chicago%2C_March_7%2C_2018_%2840794046452%29_%28cropped%29.jpg)
 
@@ -141,7 +144,7 @@ There are many more [notable people who have a gender identity outside of the bi
 
 - [Hida Viloria](/wiki/Hida_Viloria "Hida Viloria") (b. 1968) is a Latinx American writer and [intersex](/wiki/Intersex "Intersex") and nonbinary rights activist, of Colombian and Venezuelan descent. Viloria is Founding Director of the Intersex Campaign for Equality, and author of the memoir _Born Both: An Intersex Life_. Viloria identifies as intersex and genderfluid.[\[48\]](#cite_note-Viloria2017-48)
 
-## 虚构作品中的流动性别角色
+## 虚构作品中的流动性别角色 { data-search-exclude }
 
 ![Pronoun selection](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ROM_pronouns_1.png/300px-ROM_pronouns_1.png)
 
@@ -171,12 +174,12 @@ There are many more [nonbinary characters in fiction who have a gender identity 
 
 - Recurring character Puck/Owen Burnett in the 1994-1997 Disney show _Gargoyles_ was confirmed to be genderfluid and [polysexual](/wiki/Polysexual "Polysexual") by a 2014 interview with the creative team.[\[52\]](#cite_note-insider-database-52)
 
-## 另请参阅
+## 另请参阅 { data-search-exclude }
 
 - [性别酷儿](/wiki/Genderqueer "Genderqueer")
 - [非二元性别](/wiki/Nonbinary "Nonbinary")
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 1.  ↑ [Jump up to: 1.0](#cite_ref-story-quote_1-0) [1.1](#cite_ref-story-quote_1-1) This quote is a snippet from an answer to the survey conducted in the year 2018. Note for editors: the text of the quote, as well as the name, age and gender identity of its author shouldn't be changed.
 2.  [↑](#cite_ref-2 "Jump up") ["gender-fluid"](https://www.merriam-webster.com/dictionary/gender-fluid). _Merriam Webster_. Retrieved 18 June 2021.
@@ -226,9 +229,35 @@ There are many more [nonbinary characters in fiction who have a gender identity 
 46.  [↑](#cite_ref-47 "Jump up") ["Alok Vaid-Menon Will Not 'Tone it Down'"](https://www.advocate.com/exclusives/2019/8/28/alok-vaid-menon-will-not-tone-it-down). _www.advocate.com_. 2019-08-28. Retrieved 2020-03-20.
 47.  [↑](#cite_ref-Viloria2017_48-0 "Jump up") Viloria, Hida (7 April 2017). ["If You Claim To Be Sex Positive, Then You Need To Be Intersex Positive"](https://www.huffpost.com/entry/sex-positive-intersex-positive_b_58e6d8d7e4b0acd784ca56cd). _HuffPost_. Retrieved 25 April 2020. As I write about in my memoir Born Both: An Intersex Life, I’m intersex and gender-fluid (meaning my gender identity and expression changes).
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 Retrieved from "[https://nonbinary.wiki/index.php?title=Genderfluid/zh-cn&oldid=41083](https://nonbinary.wiki/index.php?title=Genderfluid/zh-cn&oldid=41083)"  
 
 [![Ko-fi Icon RGB rounded.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ko-fi_Icon_RGB_rounded.png/50px-Ko-fi_Icon_RGB_rounded.png)](https://ko-fi.com/nonbinarywiki) [Support us on Ko-fi!](https://ko-fi.com/nonbinarywiki) [![Discord.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discord.svg/27px-Discord.svg.png)](https://discord.gg/YfRtwkUYZS) [_Join our Discord server!_](https://discord.gg/YfRtwkUYZS)
 <!-- tcd_original_link https://nonbinary.wiki/wiki/Genderfluid/zh-cn -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | nonbinary_流动性别_-_Nonbinary_Wiki.md                             |
+| Size            | 36857 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

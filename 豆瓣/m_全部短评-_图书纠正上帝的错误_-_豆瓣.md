@@ -1,5 +1,8 @@
 # 纠正上帝的错误 短评
 
+## 正文 { data-search-exclude }
+
+
 ![纠正上帝的错误](https://img1.doubanio.com/view/subject/s/public/s5685889.jpg)
 
 **作者:** 吴兴人  
@@ -56,3 +59,29 @@
 北京豆网科技有限公司  
 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book) · [图书馆合作](https://book.douban.com/library_invitation) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/book/subject/1426716/comments -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件是对吴兴人所著图书《纠正上帝的错误》的短评汇总，书中详细记载了中国变性手术之父何清濂的个人经历与思考。从多个读者的评论中可以看出，这本书在变性话题上具有开创意义，尽管其中的许多观点现今看来可能显得过时。读者们对书中对变性手术的描述与评论引发了广泛讨论，例如有人提到这本书的史料价值、道德局限，及其在中国变性人群体中的影响。评论中也包含一些对性别与医学结合的深刻反思，强调变性决定是个体的选择，值得在操办手术之前进行充分的心理治疗与专业咨询。整本书在2005年出版，具有重要的历史与社会意义，反映了当时中国对跨性别群体认知的局限与潜在的发展空间。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_全部短评-_图书纠正上帝的错误_-_豆瓣.md                             |
+| Size            | 4104 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 吴兴人                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-08-01                                 |
+| Tags            | 变性, 性别, 人生故事, 医疗资源, 社会政策, 评论, 跨性别, 法规, 性别认同, 历史记录                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

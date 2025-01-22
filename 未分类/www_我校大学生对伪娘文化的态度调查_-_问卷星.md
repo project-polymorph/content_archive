@@ -1,10 +1,13 @@
 # 我校大学生对伪娘文化的态度调查
 
+## 正文 { data-search-exclude }
+
+
 手机扫描二维码答题
 
 “伪娘”出自ACG界的名词，通常指的是拥有女性美貌的男性角色，有的变装后可能更胜于一般女性。目前“伪娘”现象在国外甚至于国内都掀起了很大的热潮和社会的讨论。此次问卷调查是为了了解我校大学生对“伪娘”这种现象的态度和“伪娘”产生的影响。
 
-## 调查问题
+## 调查问题 { data-search-exclude }
 
 1. 您的性别
    - 男生
@@ -83,3 +86,29 @@
 
 [问卷星](https://www.wjx.cn/ "问卷星_不止问卷调查/在线考试") 提供技术支持
 <!-- tcd_original_link https://www.wjx.cn/vj/hG4c5Us.aspx -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我校大学生对伪娘文化的态度调查_-_问卷星.md                             |
+| Size            | 3048 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 人妖的忠诚（歌曲介绍）
 
+## 正文 { data-search-exclude }
+
+
 ![人妖的忠诚](https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfa70275fdab08f8c5494ee7bbf?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70)
 
 **歌曲信息**
@@ -15,7 +18,7 @@
 
 ---
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [简介](#简介)
 2. [角色介绍](#角色介绍)
@@ -24,13 +27,13 @@
 
 ---
 
-## 简介
+## 简介 { data-search-exclude }
 
 又称《人妖不曾欺瞒》或《人妖不曾欺骗》。《人妖的忠诚》是Vid Hiper R siam演唱的一首歌。一首感人至深的泰国歌曲，MV的拍摄和剪辑更是让人赏心悦目，截止2014年6月份网络点击率已超过1亿。故事主要讲述了Mai和Oak是邻居和好朋友，Mai一直暗恋着Oak，最后为了Oak去变性。多年后Mai遇见Oak，发生了一些曲折的事情，最后Oak还是接受了Mai。
 
 ---
 
-## 角色介绍
+## 角色介绍 { data-search-exclude }
 
 1. **Mai（少年）**：Pathwannasorn（饰演）
 2. **Oak（少年）**：speck.chichi（饰演）
@@ -39,7 +42,7 @@
 
 ---
 
-## LRC歌词
+## LRC歌词 { data-search-exclude }
 
 ```
 [ti:人妖的忠诚กะเทยไม่เคยนอกใจ]
@@ -80,13 +83,13 @@
 
 ---
 
-## 女主角介绍
+## 女主角介绍 { data-search-exclude }
 
 《人妖的忠诚》MV女主角：Nisamanee Lertworapong，2012年度泰国人妖选美大赛冠军。泰国人妖选美大赛在每年的春夏交接之际举行，每年都会吸引大量的人妖前往参加。而2012年也不例外，众多出色的选手为在场助威的观众们带去了精彩的表演。最终，由一名叫Nisamanee Lertworapong的选手摘取桂冠。当地时间2012年5月2日，泰国芭提雅，2012年度泰国人妖选美大赛盛大举行，本届比赛将于当地时间2012年5月4日迎来决赛，在4日举行的泳装大赛环节中，名叫Nisamanee Lertworapong的1号选手获得优胜。
 
 ---
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [人妖的忠诚](https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E7%9A%84%E5%BF%A0%E8%AF%9A/14593686)．搜狐文化．2016-09-24
 - [泰国人妖选美大赛让女人又羡慕又嫉妒(图)](https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E7%9A%84%E5%BF%A0%E8%AF%9A/14593686)．21CN.COM．2012-05-07
@@ -105,3 +108,29 @@
 
 如需了解更多有关内容，可访问 [百度百科：人妖的忠诚](https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E7%9A%84%E5%BF%A0%E8%AF%9A/14593686)。
 <!-- tcd_original_link https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E7%9A%84%E5%BF%A0%E8%AF%9A/14593686 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_人妖的忠诚_百度百科.md                             |
+| Size            | 7344 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

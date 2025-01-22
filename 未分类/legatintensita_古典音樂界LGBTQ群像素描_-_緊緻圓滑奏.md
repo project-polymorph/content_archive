@@ -1,5 +1,8 @@
 # 古典音樂界LGBTQ群像素描 | 緊緻圓滑奏
 
+## 正文 { data-search-exclude }
+
+
 ![](https://legatintensita.wordpress.com/wp-content/uploads/2020/06/image1.jpg?w=1024)
 
 6月是美國的同志驕傲月（Pride Month），美國著名的林肯中心也在其迄今六十載的歷史中，於2020年6月首次將廣場及噴水池打上彩虹色燈光。在這個月最後一天，我想介紹一些當代古典音樂界知名的LGBTQIA人物（；所以這篇就先不提我心愛的作曲家Francis Poulenc、聲音抒情優美而且花腔驚人靈活的法國男低音Pol Plançon、近年過世的**[Hugues Cuénod](https://www.facebook.com/legatintensita/posts/1695057037390366)**、有史以來最優秀的聲樂作曲家之一Pyotr Ilyich Tchaikovsky、彈跳力很好的Leonard Bernstein等人了）。**如果大家有想到遺漏的，尤其是臺灣的，也歡迎補充噢；不過沒公開的就請略過吧**。
@@ -40,3 +43,29 @@
 -   [Twitter](https://legatintensita.wordpress.com/2020/06/30/musician-lgbtq/?share=twitter&nb=1 "分享到 Twitter")
 -   [電子郵件](mailto:?subject=%5B%E5%88%86%E4%BA%AB%E9%80%99%E6%96%87%E7%AB%A0%5D%20%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%82%E7%95%8CLGBTQ%E7%BE%A4%E5%83%8F%E7%B4%A0%E6%8F%8F&body=https%3A%2F%2Flegatintensita.wordpress.com%2F2020%2F06%2F30%2Fmusician-lgbtq%2F&share=email&nb=1 "按一下即可以電子郵件傳送連結給朋友")
 <!-- tcd_original_link https://legatintensita.wordpress.com/2020/06/30/musician-lgbtq/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | legatintensita_古典音樂界LGBTQ群像素描_-_緊緻圓滑奏.md                             |
+| Size            | 14248 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

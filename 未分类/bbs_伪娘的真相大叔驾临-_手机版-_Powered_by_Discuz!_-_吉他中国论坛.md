@@ -1,5 +1,8 @@
 # 伪娘的真相大叔驾临
 
+## 正文 { data-search-exclude }
+
+
 **作者**: chawind  
 **时间**: 2009-9-7 21:30:55  
 **来源**: 吉他中国论坛  
@@ -87,3 +90,29 @@
 
 **版权**: © 2001-2024 [Discuz! Team](https://code.dismall.com/)
 <!-- tcd_original_link https://bbs.guitarschina.com/thread-881629-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | bbs_伪娘的真相大叔驾临-_手机版-_Powered_by_Discuz!_-_吉他中国论坛.md                             |
+| Size            | 2619 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

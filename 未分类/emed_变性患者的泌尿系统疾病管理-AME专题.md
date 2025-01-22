@@ -1,5 +1,8 @@
 # 变性患者的泌尿系统疾病管理
 
+## 正文 { data-search-exclude }
+
+
 ![AME医学，最前沿医学知识，最实用科研干货，最独到学术见解](//cdn.amegroups.cn/febook/latest/static/img/logo_blue.5522801.png)
 
 ### 本书概览
@@ -32,3 +35,29 @@
 
 Copyright © 2009-2025 AME Publishing Company. All rights reserved.
 <!-- tcd_original_link http://emed.amegroups.cn/topic/501 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | emed_变性患者的泌尿系统疾病管理-AME专题.md                             |
+| Size            | 7163 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

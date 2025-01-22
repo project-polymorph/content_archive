@@ -1,5 +1,8 @@
 # 电视片《祖国的拥抱——志愿军烈士遗骸归国纪实》今晚播出
 
+## 正文 { data-search-exclude }
+
+
 ##### 2014年04月04日04:32    来源：[解放军报](http://www.chinamil.com.cn/jfjbmap/content/2014-04/04/content_72045.htm)
 
 ![人民网](http://58.68.146.78/index/?cid=&catalogs=172467&keyword=烈士,播出,电视片,军事纪实,中国人民志愿军,片中,我方,归国,回归祖国,异国&refer=)
@@ -18,3 +21,29 @@
 
 (来源:[解放军报](http://www.chinamil.com.cn/jfjbmap/content/2014-04/04/content_72045.htm))
 <!-- tcd_original_link http://military.people.com.cn/n/2014/0404/c172467-24821196.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | military_电视片《祖国的拥抱——志愿军烈士遗骸归国纪实》今晚播出.md                             |
+| Size            | 1932 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

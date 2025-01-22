@@ -1,6 +1,9 @@
 # 認識多元性別LGBT – 黎明技術學院
 
-## 正文
+## 正文 { data-search-exclude }
+
+
+## 正文 { data-search-exclude }
 
 學輔中心.
 
@@ -8,7 +11,7 @@
 
 ![Image](https://www.lit.edu.tw/wp-content/uploads/2021/10/5.jpg)
 
-## 學務處
+## 學務處 { data-search-exclude }
 
 - #### 課外活動指導組
     - [課外組最新消息](https://www.lit.edu.tw/student_cat/stud-00-03/)
@@ -106,7 +109,7 @@
     - [學生輔導說明](https://www.lit.edu.tw/student/5332/)
     - [班會紀錄](https://www.lit.edu.tw/student/19280/)
 
-## 表單下載
+## 表單下載 { data-search-exclude }
 
 - [安定就學學費分期切結書](https://www.lit.edu.tw/wp-content/uploads/2024/01/分期付款切結書新版.pdf)
 - [安定就學申請表](https://www.lit.edu.tw/wp-content/uploads/2024/01/安定就學申請表新版.pdf)
@@ -118,7 +121,7 @@
 - [僑專班學生住宿費分期申請書](https://www.lit.edu.tw/wp-content/uploads/2024/11/僑專班住宿費分期申請表（新）.pdf)
 - [日間部放棄行政院減免切結書](https://www.lit.edu.tw/wp-content/uploads/2024/12/1132日間部放棄行政院減免切結書.pdf)
 
-## 友善連結
+## 友善連結 { data-search-exclude }
 
 [![友善連結1](https://www.lit.edu.tw/wp-content/uploads/2024/12/螢幕擷取畫面-2024-12-25-093941.png)](https://www.edu.tw/helpdreams/Default.aspx)
 
@@ -142,7 +145,7 @@
 
 [![友善連結11](https://www.lit.edu.tw/wp-content/uploads/2021/11/生命教育專區logo.jpg)](https://www.lit.edu.tw/student_cat/stud-04-02/)
 
-## 聯絡資訊
+## 聯絡資訊 { data-search-exclude }
 
 連絡電話：(02)2909-7811
 
@@ -222,3 +225,29 @@
 
 [Facebook](https://www.facebook.com/LITofficial.website/) [Youtube](https://www.youtube.com/channel/UCFXYAcjG_bJn1FCeRRanRtQ) [Instagram](https://www.instagram.com/leeming.newmediacenter/) [Line](https://line.me/R/ti/p/KFYFz9ar2q)
 <!-- tcd_original_link https://www.lit.edu.tw/student/4839/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_認識多元性別LGBT_-_黎明技術學院.md                             |
+| Size            | 11545 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

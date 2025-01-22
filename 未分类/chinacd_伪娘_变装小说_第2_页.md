@@ -1,5 +1,8 @@
 # 变装小说
 
+## 正文 { data-search-exclude }
+
+
 cd,TS,变装,变身,第三性,人妖,伪娘
 
 - [变身](https://chinacd.wordpress.com/category/%e5%8f%98%e8%ba%ab/)
@@ -12,7 +15,7 @@ cd,TS,变装,变身,第三性,人妖,伪娘
 - [性奴](https://chinacd.wordpress.com/tag/%e6%80%a7%e5%a5%b4/)
 - [大陆访问](https://chinacd.wordpress.com/kexueshangwang/)
 
-## 404 Not Found
+## 404 Not Found { data-search-exclude }
 
 抱歉，找不到您请求的页面。也许搜索会有所帮助。
 
@@ -84,3 +87,29 @@ cd,TS,变装,变身,第三性,人妖,伪娘
 
 - 为我注册
 <!-- tcd_original_link https://chinacd.wordpress.com/tag/%E4%BC%AA%E5%A8%98/page/2/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | chinacd_伪娘_变装小说_第2_页.md                             |
+| Size            | 10102 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

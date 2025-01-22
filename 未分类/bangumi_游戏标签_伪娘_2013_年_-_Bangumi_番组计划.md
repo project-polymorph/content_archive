@@ -1,19 +1,22 @@
 # 多元性别游戏标签: 伪娘 / 2013 年
 
-## 来源
+## 正文 { data-search-exclude }
+
+
+## 来源 { data-search-exclude }
 [Bangumi 番组计划](https://bangumi.tv)
 
-## 标签
+## 标签 { data-search-exclude }
 - [动画](/anime/tag/%E4%BC%AA%E5%A8%98)
 - [书籍](/book/tag/%E4%BC%AA%E5%A8%98)
 - [音乐](/music/tag/%E4%BC%AA%E5%A8%98)
 - [游戏](/game/tag/%E4%BC%AA%E5%A8%98)
 - [三次元](/real/tag/%E4%BC%AA%E5%A8%98)
 
-## 时间
+## 时间 { data-search-exclude }
 - 2013年
 
-## 游戏列表
+## 游戏列表 { data-search-exclude }
 
 - [![少女理论及其周边 -巴黎学院篇-](//lain.bgm.tv/pic/cover/c/17/75/66760_Zz9v3.jpg)](/subject/66760)  
     ### [少女理论及其周边 -巴黎学院篇-](/subject/66760) 乙女理論とその周辺 -École de Paris-  
@@ -106,6 +109,32 @@
     2013-05-31 / Windows XP, Vista, 7, 8 / 性と死の閉鎖空間ミステリーADV  
     (少于10人评分)
 
-## 版权
+## 版权 { data-search-exclude }
 © 2008-2024 Bangumi (a.k.a.Chobits), some rights reserved | r510
 <!-- tcd_original_link https://bangumi.tv/game/tag/%E4%BC%AA%E5%A8%98/airtime/2013 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | bangumi_游戏标签_伪娘_2013_年_-_Bangumi_番组计划.md                             |
+| Size            | 5039 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

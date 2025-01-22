@@ -1,5 +1,8 @@
 # LGBT 运动员档案
 
+## 正文 { data-search-exclude }
+
+
 ![fbpx](https://www.facebook.com/tr?id=2549881175234987&ev=PageView&noscript=1)
 
 标签
@@ -66,3 +69,29 @@ by [卡拉·洛佩兹](https://zh-cn.nclrights.org/author/clopez/ "卡拉·洛�
 
 [更多](https://zh-cn.nclrights.org/about-us/press-release/groundbreaking-report-urges-high-school-and-college-athletics-to-establish-standard-national-policies-for-transgender-student-athletes/)
 <!-- tcd_original_link https://zh-cn.nclrights.org/tag/lgbt-athletes/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh-cn_LGBT_运动员档案-_国家女同性恋权利中心.md                             |
+| Size            | 10744 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

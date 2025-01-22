@@ -1,5 +1,8 @@
 # 泰国人妖表演背后：揭秘泰国人妖如何一步步被塑造成的惊人过程【天马行空的王】
 
+## 正文 { data-search-exclude }
+
+
 ![频道封面](https://i.ytimg.com/an/TgZAms9_bMrbe4ktHVDOVA/featured_channel.jpg?v=65ad2027)
 
 视频观看链接：[泰国人妖表演背后](https://www.youtube.com/watch?v=lxXidJqT0js)  
@@ -33,3 +36,29 @@
 **使用说明**  
 如需获取更多内容，请访问：[YouTube频道 - 天马行空的王](https://www.youtube.com/channel/UCTgZAms9_bMrbe4ktHVDOVA/videos)
 <!-- tcd_original_link https://www.youtube.com/watch?v=pFDKTb5w5p8 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_揭秘泰国人妖如何一步步被塑造成的惊人过程【天马行空的王】.md                             |
+| Size            | 2774 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # Judith Butler 談文化戰爭、JK羅琳和「生活在反智時代」
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_950/https://transgender.tapcpr.org/wp-content/uploads/2022/12/截圖-2022-12-22-下午6.14.01-1024x950.png)
 
 _本文為英國週刊《新政治家》責任編輯 Alona Ferber 對 Judith Butler 所做的專訪，伴盟特別摘要整理內容，希望為台灣跨性別議題相關討論帶來啟發。原文網址：[https://bit.ly/3h3ui6I](https://bit.ly/3h3ui6I)。_
@@ -70,3 +73,29 @@ Judith Butler：如果辯論是可能的話，我想首先必須要重新省思�
 
 -   2024-12-10
 <!-- tcd_original_link https://transgender.tapcpr.org/archives/5016 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | transgender_Judith_Butler_談文化戰爭、JK羅琳和「生活在反智時代」.md                             |
+| Size            | 10122 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 九个没反思到或需注视的摘抄（揭开面纱：好莱坞的跨性别人生）影评
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 1. 荧幕上跨性别女性多、男性少的原因：
@@ -86,3 +89,35 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/12932553/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评分析了纪录片《揭开面纱：好莱坞的跨性别人生》的多个方面，探讨了跨性别者在电影和电视中的描绘及其对社会的影响。
+
+首先，文本强调了荧幕上跨性别女性数量的偏多和男性数量的偏少，指出这是因为跨性别女性被看作是更具商品化的性别身份。此外，它探讨了跨性别者遭遇的职业歧视，强调许多跨性别女性被迫从事性工作，这在社会和职场中是由于对她们的偏见和歧视造成的。
+
+影片中对于跨性别者形象的污名化也得到了深入剖析，影评指出这些形象与跨性别者自身的生活经历时常不符，造成了对她们自我认知的负面影响。与此同时，对跨性别者的刻板印象在许多节目中展现得尤为令人痛心，例如将她们物化或者当作猎奇的对象。
+
+最后，影评探讨了如何建立对跨性别者更为正面的认识，强调对这些群体故事的真实理解和尊重是头等大事。它呼吁在叙述跨性别者的故事时，要避免对其身份和经历的肤浅化理解。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_九个没反思到或需注视的摘抄-_揭开面纱：好莱坞的跨性别人生_-_豆瓣.md                             |
+| Size            | 9428 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别人士, 好莱坞, 性别认同, 影评, 社会偏见, 职场歧视, 性工作者, 媒体表现, 文化刻板印象, 纪录片                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

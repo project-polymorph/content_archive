@@ -1,5 +1,8 @@
 # 2019 年，全球跨性別運動已經走到哪一步？
 
+## 正文 { data-search-exclude }
+
+
 ![2019 年，全球跨性別運動已經走到哪一步？](https://womany.net/cdn-cgi/image/w=1119,f=auto,fit=scale-down/https://castle.womany.net/images/articles/22150/womany_sharon_mccutcheon_qFq9nDjw2YI_unsplash_1575257073-633-0011-3575.jpg)
 
 性別力 Gender Power
@@ -10,7 +13,7 @@
 
 **時間**: 2019/12/02
 
-## 正文
+## 正文 { data-search-exclude }
 
 台灣 LGBTQ權益 在同性婚姻合法後邁開了第一步，然而，跨性別者的權利也需要被保障。世界各國是如何進行性別登記？身為亞洲第一個同性婚姻合法的國家，台灣在跨性別運動上又有哪些部分可以和周遭國家學習？
 
@@ -22,7 +25,7 @@
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/103201/womany_sharon_mccutcheon_qFq9nDjw2YI_unsplash_1575257050-31028-0033-0023.jpg) 图片｜[來源](https://unsplash.com/photos/qFq9nDjw2YI)
 
-## 開放「第三性別」選項後，尼泊爾仍須對抗跨性別歧視
+## 開放「第三性別」選項後，尼泊爾仍須對抗跨性別歧視 { data-search-exclude }
 
 儘管尼泊爾從未將LGBT人士入罪化，但是社會的刻板印象與歧視，使跨性別長久以來是個被無視、被邊緣化的社群。講者Manisha分享其在求學階段幾乎不敢喝水，以免上廁所時同學總是會對他性騷擾，而整體學校環境的不友善，也使大多跨性別者選擇休學，陷入教育水平不高因而無法得到白領工作的惡性循環。
 
@@ -30,13 +33,13 @@
 
 [![](https://womany.net/cdn-cgi/image/w=600,h=500,fit=scale-down,f=auto/https://castle.womany.net/images/ad_items/21055/2bd1de51b8727f2f12ed4293a2f467d9.png)](/redirects/21055?ref=w-a-inarticle)
 
-## 台灣跨性別權利發展歷程
+## 台灣跨性別權利發展歷程 { data-search-exclude }
 
 相較其他東亞國家，台灣早在1988年即開放性別變更，並要求進行性腺摘除、性別器官重建手術，以及兩位精神科醫師的診斷證明，然而，對於跨性別難行而言，重建器官是非常昂貴且不必要的手術，因此，2008年內政部通過函釋，取消器官重建手術的規定。然而，切除性腺手術的規定無疑是迫使跨性別者在「生育權」及「人格權」中二擇一，而且，綜觀其發展史，相關規定一直僅止於內政部層級，違反法律保留原則，亦即當對人民有基本權利侵害行為時，應有相關立法明定之。
 
 此外，講者吳宇萱亦分享許多跨性別者遭受歧視的案例，例如兩名跨性別女性分別在飯店及警察局因其外觀、打扮受到免職處分，近期更有一名跨性別女同學在申請女宿時被教官以「上帝造男造女、沒有造第三類」等歧視性字眼拒絕、因而被迫休學。儘管執政黨曾於2017年底提出第三性別政策方向，但其內涵至今仍然不明，亦從未邀請民間團體加入討論，讓人堪憂未來該政策會如何發展。
 
-## 日本《性別轉換特例法》通過後的下一步
+## 日本《性別轉換特例法》通過後的下一步 { data-search-exclude }
 
 原本禁止人民更換性別的日本，終於在2003年通過性別轉換特例法，相關規定包括：多位醫師診斷、需年滿20歲、單身、沒有小孩（2008年更正為沒有未成年小孩）、沒有生殖能力、以及外觀具有另一性別器官。據統計，2013年至2019年到院診斷的人之中，只有兩成（約8676人）通過性別更換手續，由此可見，在如此嚴苛的條件之下，真正成功更換性別的人並不多。
 
@@ -44,7 +47,7 @@
 
 [![](https://womany.net/cdn-cgi/image/w=600,h=500,fit=scale-down,f=auto/https://castle.womany.net/images/ad_items/21052/d55c870caa1ea44f5a739d2284fa259d.png)](/redirects/21052?ref=w-a-inarticle)
 
-## 香港：司法、立法與社會參與之評析
+## 香港：司法、立法與社會參與之評析 { data-search-exclude }
 
 香港社群持續透過司法覆核爭取跨性別族群的權益，在2013年W案中法院裁定跨性別者有權以變更後的性別結婚，而非以出生登記時的性別；2019年MK案法院裁定香港政府不允許同性婚姻是為合憲，針對此案，講者梁詠恩表示同婚不通過也會剝奪跨性別者的權益，如一跨性別女性在更換性別前可以和一名女性結婚，但更換性別後，因為同性婚姻不合法而不能結婚，無疑迫使跨性別者在兩個基本人權中二擇一，這也是香港第一次以跨性別的角度介入婚姻平權的案件。
 
@@ -54,7 +57,7 @@
 
 至於社會態度，謝浩霖認為最大的阻礙來自香港政府，立法會中僅有一半席位為民選，缺乏民意代表性，但以香港大學的調查而言，六至七成的香港民眾接受跨性別。梁詠恩則是提及在香港推動免術換證的困境，目前香港跨性別社群大多是「cross-dresser」，較關心同志運動、對手術議題缺乏關注，而有部分跨性別者進行手術之後，認同自己為另一性別，反而不支持免術的倡議，由此可見，如何動員跨性別群體成為香港跨性別運動的重大議題之一。
 
-## 台、日、港、尼一同繼續為跨性別運動努力
+## 台、日、港、尼一同繼續為跨性別運動努力 { data-search-exclude }
 
 針對台灣跨性別換證需要切除性腺手術的規定，CEDAW結論性意見指出，政府不應該強迫人民在生育權和人格權之中二擇一，梁詠恩也表示，免術換證是給予跨性別者先行體驗「真實生活」的機會、繼而決定是否要進行手術。另外，由於台灣性別登記政策與公共空間，仍多依「單一生理性別」進行區分，導致他們無法依照自己的性別認同安心自在地生活，尼泊爾和香港的講者亦各自分享其在使用廁所和訴訟的經驗，顯現這是一個對跨性別族群立即且直接的困境。
 
@@ -62,7 +65,7 @@
 
 [![](https://womany.net/cdn-cgi/image/w=1200,fit=scale-down,f=auto/https://castle.womany.net/images/ad_items/21056/1dce1b49064db723c6d35ff336425143.png)](/redirects/21056?ref=wa-all)
 
-## 了解更多跨性別
+## 了解更多跨性別 { data-search-exclude }
 
 - [跨性別者故事：我去男洗手間犯法，去女洗手間，人們會尖叫](https://womany.net/read/article/21649?ref=s_a_relarticles)
 - [「當女同不好嗎？為什麼要當異男啊」：作為一個跨性別者的兩難](https://womany.net/read/article/21003?ref=s_a_relarticles)
@@ -75,3 +78,29 @@
 
 **版權信息**: 吾思傳媒股份有限公司（統一編號 53099678）致力提供公開平台，提供多元與共融視角，本文代表創作者觀點，幫助更多人成為自己。
 <!-- tcd_original_link https://womany.net/read/article/22150 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | womany_2019_年，全球跨性別運動已經走到哪一步？_-_女人迷.md                             |
+| Size            | 9545 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

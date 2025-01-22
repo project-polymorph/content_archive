@@ -1,5 +1,8 @@
 # 跨性别Transgender电影和记录片
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img3.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/110223504-20231214185117)
 
 来自: [Z&Z](https://www.douban.com/people/56897770/) 2018-09-30 09:22:17创建   2023-12-14 18:51:17更新
@@ -391,19 +394,45 @@
 年份: 2012  
 2018-09-30 09:22:41 [回复](javascript: void 0;)
 
-## 什么是片单
+## 什么是片单 { data-search-exclude }
 
 片单是收集影视的工具，创建片单后，在豆瓣看到符合片单主题的电影、电视时可以将它放入片单，方便以后找到。
 
 你还可以看看其他人的收集，关注你感兴趣的片单。
 
-## 这个片单的标签
+## 这个片单的标签 { data-search-exclude }
 
 [电影](https://www.douban.com/tag/电影/?focus=doulist)
 
-## Z&Z的其它豆列
+## Z&Z的其它豆列 { data-search-exclude }
 
 -   [跨性别Transgender电影和记录片](https://www.douban.com/doulist/110223504/)  (35人关注)
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/doulist/110223504/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为关于跨性别主题的电影和纪录片的汇总，旨在为观众提供有关跨性别者题材的影视作品推荐。内容中提到，豆瓣电影将跨性别电影归类在同性恋类别下，但作者指出，跨性别与同性恋存在本质上的不同。此文件包括了多个跨性别题材的电影和纪录片，如《艳倒群雌》、《阿莉芙》、《跨性别名单》等，详细列出了导演、主演、类型、制片国家和年份等信息。此外，文件还包括了作者希望其他豆友能推荐更多此类作品的信息。该汇总不仅丰富了观众对跨性别文化和经历的理解，也为同路人提供了观影建议。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别Transgender电影和记录片_-_豆瓣.md                             |
+| Size            | 15101 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Z&Z                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-30                                 |
+| Tags            | 跨性别, 电影, 纪录片, 豆瓣, 性别多元, 文化, 影视推荐, 生命故事, 社会环境, 性别研究                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

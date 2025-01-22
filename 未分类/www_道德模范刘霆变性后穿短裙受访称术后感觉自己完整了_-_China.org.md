@@ -1,5 +1,8 @@
 # 道德模范刘霆变性后穿短裙受访 称术后感觉自己完整了
 
+## 正文 { data-search-exclude }
+
+
 ![刘霆 [本人供图]](http://images.china.cn/site1007/2015-04/08/001ec949ff5c168f110c62.jpg)
 
 **来源：京华时报**  
@@ -9,7 +12,7 @@
 
 近日，曾被评为“全国道德模范”的刘霆，在经过为期6个月的变性手术后，由一名男子汉变为女儿身，并更名为刘婷。2014年8月14日，那时的刘霆宣布将听从心愿，希望变成一名女性。昨天，记者在广州见到了术后的刘婷。为了实现心愿，她经历了什么？将如何规划未来？如何选择自己的另一半？如何去修改身份证和户口本上的性别？带着这些问题，京华时报记者专访了刘婷及其母亲，以及为其做变性手术的医生。
 
-## 探访病房
+## 探访病房 { data-search-exclude }
 
 **床下摆着两双高跟鞋**
 
@@ -33,7 +36,7 @@
 
 听说记者想拍照片，刘婷赶紧说：“我再化化妆，换个衣服。”刘婷换上一件白色长裙，又让化妆师给自己化了一遍妆，这才开始接受采访。
 
-## 专访刘婷
+## 专访刘婷 { data-search-exclude }
 
 **术后感觉真的完整了**
 
@@ -55,3 +58,29 @@
 
 刘婷说，目前国内外已有多名导演和她接触，表示要为其量身打造电影，而刘婷以自己为原型创作的《我们会好的》也正和出版社接洽，不久便会出版。刘婷说，她希望自己的书能畅销一些，而能做演员也是自己的梦想，“我知道这很天真，但还是要天真下去”。她笑着说，她和妈妈一起研制的防雾霾口罩，可以戴着说话，如果能找到生产厂家，所赚到的钱她会用来做公益，“社会救助了我和妈妈，今后，我也会把出书、演电影和专利口罩的收入捐给需要帮助的人。”
 <!-- tcd_original_link http://www.china.org.cn/chinese/2015-04/08/content_35268312.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_道德模范刘霆变性后穿短裙受访称术后感觉自己完整了_-_China.org.md                             |
+| Size            | 5958 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

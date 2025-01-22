@@ -1,5 +1,8 @@
 # “针”穿又一个波多黎各跨性别团体的故事
 
+## 正文 { data-search-exclude }
+
+
 ![作者](https://secure.gravatar.com/avatar/3504c00b94668f2bcfb27dd030401ba7?s=128&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2F8e260ee2e3f5cc5dc3afb6050463ead3%3Fs%3D128&r=G)  
 作者 [Luis Trelles](https://globalvoicesonline.org/author/luis-trelles/ "Luis Trelles")  
 译者 [leaf](https://zhs.globalvoices.org/author/leaf/ "leaf")  
@@ -51,3 +54,29 @@ Quiñones不只是个手拿针管的男人。他的诊所是客户们上街前�
 
 [![Creative Commons License](https://globalvoices.org/wp-content/gv-static/img/tmpl/cc-by-icons-300.png)](https://creativecommons.org/licenses/by/3.0/deed.zh_TW "創作共用釋出條款 3.0 ")
 <!-- tcd_original_link https://zhs.globalvoices.org/2012/12/13/11912/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zhs_“针”穿又一个波多黎各跨性别团体的故事_-_Global_Voices_简体中文.md                             |
+| Size            | 5252 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

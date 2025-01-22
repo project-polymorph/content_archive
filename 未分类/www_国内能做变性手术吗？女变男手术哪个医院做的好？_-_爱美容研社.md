@@ -1,5 +1,8 @@
 # 国内能做变性手术吗？女变男手术哪个医院做的好？
 
+## 正文 { data-search-exclude }
+
+
 编辑: 鳗鱼宝 2024-05-21
 
 说到国内可以做变性手术的医院还是比较少的，所以对于很多想做男变女或者女变男手术的人，很多都会考虑泰国或者韩国的医院，今天小编想隆重宣布的是，国内的医院也是可以开展变性手术的，就是西安国医中心，是由郭树忠教授主要操刀的，我们一起来了解一下国内的变性手术。
@@ -28,7 +31,7 @@
 
 有关变性手术价格方面，女变男和男变女的价格差异还是比较大的，而且每个人选择的方法不同价格也不同，所以还是以到院面诊为准，建议想了解变性手术的小伙伴可以直接@容研社社长 官微VX：**amryssz**，私聊社长大大获取详情哟！
 
-## 网友评论
+## 网友评论 { data-search-exclude }
 
 -   梦中男神:
     
@@ -48,19 +51,45 @@
     
     2022-03-25 11:54:01
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 
 **预约热线** : _17791224393_(微信同步)  
 **24小时服务热线** : 北京市朝阳区百子湾路29、31号25幢3层3077室  
 [京ICP备2023002373号-3 版权归容研社所有](http://beian.miit.gov.cn/)  
 
-## 社长介绍
+## 社长介绍 { data-search-exclude }
 
 爱美容研社致力于发现美好，帮助爱美人士读懂医美，理智求美。不管您是找医院、找医生、查口碑、查价格，了解术式风格，欢迎来这里看看，帮你避坑防雷，少走弯路。 美是一种态度，与年龄无关。关注爱美容研社，科学提高美商，让你美力UP。 衷心希望，你的美貌，你的气质，能够成为别人发现你美好灵魂的大门！
 
-## 关注社长
+## 关注社长 { data-search-exclude }
 
 ![微信公众号](https://rongyanshe.oss-cn-shanghai.aliyuncs.com/uploadfile/4/20230512/iMv41683858639.jpg) 微信公众号
 
 ![社群邀请号](https://rongyanshe.oss-cn-shanghai.aliyuncs.com/uploadfile/4/20230512/fiY41683859381.jpg) 社群邀请号
 <!-- tcd_original_link https://www.rongyanshe.com/article/4625.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国内能做变性手术吗？女变男手术哪个医院做的好？_-_爱美容研社.md                             |
+| Size            | 4722 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

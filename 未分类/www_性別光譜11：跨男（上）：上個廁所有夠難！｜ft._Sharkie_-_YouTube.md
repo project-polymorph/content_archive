@@ -1,15 +1,18 @@
 # 性別光譜 11：跨男（上）：上個廁所有夠難！｜ft. Sharkie
 
+## 正文 { data-search-exclude }
+
+
 ![](https://i.ytimg.com/an/CemefHN8pcR72BKCwSPPzw/featured_channel.jpg?v=5f23d636)
 
 **時間**: Sep 6, 2023  
 **來源**: [鬼島之音 Ghost Island Media](https://www.youtube.com/channel/UCCemefHN8pcR72BKCwSPPzw)  
 **觀看次數**: 214  
 
-## 來賓介紹
+## 來賓介紹 { data-search-exclude }
 來賓 Sharkie 曾經是 Zoe 的學妹，現在是 Zoe 的學弟！沉穩又幽默的 Sharkie 分享他如何發覺自己的性別認同、基於身體健康考量沒有做手術、曾經要好的同事對於 [#跨性別](https://www.youtube.com/hashtag/%E8%B7%A8%E6%80%A7%E5%88%A5) 身份的不友善，以及他都選擇去上無障礙廁所的原因。Sharkie 認為自己的心理狀態比較偏向中性或男性，被稱為跨男也 OK。不過他更喜歡用「[#有機體](https://www.youtube.com/hashtag/%E6%9C%89%E6%A9%9F%E9%AB%94)」（Organism）來定義自己：可以成長，可以改變，不需用性別去框架。
 
-## 小檔案
+## 小檔案 { data-search-exclude }
 - 指定性別女 x 性別認同男 x 異性戀
 - 曾以為自己是 T，高中才發現是跨男
 - 對性的第一印象：哥哥看彩虹頻道
@@ -17,7 +20,7 @@
 - 比起A片更喜歡情慾文字
 - 喜歡現在自己的狀態
 
-## 描述
+## 描述 { data-search-exclude }
 在「光譜系列」裡，我們邀請不同性別認同的捧油們來參加色彩繽紛的「光譜趴」，從「自我認同」、「性愛」到「親密關係」這人生三大課題深入探索，聽見他們脫掉標籤輕鬆 hang out 的真實模樣。
 
 ### 重要活動
@@ -38,12 +41,12 @@
 - Instagram: [@ghostislandme](https://instagram.com/ghostislandme)
 - 官網: [ghostisland.media](https://ghostisland.media/)
 
-## 標籤
+## 標籤 { data-search-exclude }
 - #性別光譜
 - #跨性別
 - #有機體
 
-## 評論
+## 評論 { data-search-exclude }
 **觀看評分**: 6 Likes  
 **留言數**: 2 Comments
 
@@ -51,3 +54,29 @@
 
 可以於 Apple Podcasts + Spotify 進行五星評分、留言與分享，以提升節目排名。
 <!-- tcd_original_link https://www.youtube.com/watch?v=IEzrZcPLGuY -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性別光譜11：跨男（上）：上個廁所有夠難！｜ft._Sharkie_-_YouTube.md                             |
+| Size            | 2566 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

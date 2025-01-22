@@ -1,6 +1,9 @@
 # 焦虑的翻译与相关信息
 
-## 焦虑
+## 正文 { data-search-exclude }
+
+
+## 焦虑 { data-search-exclude }
 
 ![焦虑](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)
 
@@ -18,7 +21,7 @@ an uncomfortable feeling of nervousness or worry about something that is happeni
 
 Children normally feel a lot of anxiety about their first day at school. 第一天上学，孩子们通常都会感到非常不安。
 
-## 相关词汇
+## 相关词汇 { data-search-exclude }
 
 - **tension**  
   [tension](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tension) uk  
@@ -58,7 +61,7 @@ Children normally feel a lot of anxiety about their first day at school. 第一�
 
 ... (省略部分内容以便于阅读)
 
-## 焦虑身体状况的健康人
+## 焦虑身体状况的健康人 { data-search-exclude }
 
 [worried well](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/worried-well) uk
 
@@ -74,11 +77,37 @@ people who are healthy but see a doctor because they think that they may have a 
 
 Too much money is spent treating the worried well rather than people who are actually sick. 太多的钱花在治疗焦虑自己身体状况的健康人身上，而不是真正的病人。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 **焦虑**在[**Cambridge Chinese (Simplified)-English Dictionary**](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/焦虑)的翻译 © Cambridge University Press.
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [剑桥词典](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8)
 <!-- tcd_original_link https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/%E7%84%A6%E8%99%91 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | dictionary_焦虑_简体中文-英语翻译——剑桥词典_-_Cambridge_Dictionary.md                             |
+| Size            | 4026 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

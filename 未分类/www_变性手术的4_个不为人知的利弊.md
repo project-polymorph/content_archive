@@ -1,5 +1,8 @@
 # 变性手术的 4 个不为人知的利弊
 
+## 正文 { data-search-exclude }
+
+
 ![4 Untold Pros and Cons of Sex Reassignment Surgery](https://www.kamolhospital.com/uploads/blog/651/data/649980c8bac1b.jpg)
 
 成年人患有性别焦虑症时，通常会选择在澳大利亚进行性别重分配手术。这是获得社会中所偏好的性别认同的主要方式之一。这个过程是完全安全的。因此，像卡莫尔整形医院这样的许多医疗中心和医院提供安全的性别重分配手术，涵盖多种保障措施。男性向女性或女性向男性的性别重分配手术包括多种医疗程序，如胸部重建、子宫切除术、乳房增大等。
@@ -8,20 +11,20 @@
 
 如果您即将在澳大利亚接受变性手术，那么这里有一些需要注意的利弊。
 
-## 变性手术的优点
+## 变性手术的优点 { data-search-exclude }
 
 1. 接受性别重分配手术的人在手术后能够享受性生活。这一医疗过程将身体变为符合自己期望的身体，从而减轻心理压力。
 2. 这会带来心理上的幸福感，对接受治疗的人有益。
 3. 它降低了抑郁、焦虑和恐慌发作的水平。
 4. 帮助个人获得理想的身体外观。
 
-## 变性手术的缺点
+## 变性手术的缺点 { data-search-exclude }
 
 1. 接受男性向女性或女性向男性性别重分配手术的人将无法生育。
 2. 手术后可能会出现血肿。
 3. 治疗过程需要至少4到6周的饮食和生活方式上的一系列预防措施。
 
-## 谁能提供最安全的变性手术？
+## 谁能提供最安全的变性手术？ { data-search-exclude }
 
 当涉及进行男性向女性或女性向男性的性别重分配手术时，人们通常寻找一个值得信赖和经验丰富的医师进行合作。在这一点上，您可以选择卡莫尔整形医院作为终点。它是领先的医院之一，拥有知识渊博、专业经验丰富的医师团队。
 
@@ -44,3 +47,29 @@
 - [Understanding Belly Types](https://www.kamolhospital.com/blog/1950/understanding-belly-types)
 - [P shot 是永久解决方案吗？](https://www.kamolhospital.com/blog/1480/is-p-shot-a-permanent-solution)
 <!-- tcd_original_link https://www.kamolhospital.com/zh/blog/651/4-untold-pros-and-cons-of-sex-reassignment-surgery -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性手术的4_个不为人知的利弊.md                             |
+| Size            | 3279 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

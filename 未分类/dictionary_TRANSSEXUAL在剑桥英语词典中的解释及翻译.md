@@ -1,8 +1,11 @@
 # Transsexual 在英语中的意思
 
+## 正文 { data-search-exclude }
+
+
 ![TRANSSEXUAL](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)
 
-## transsexual
+## transsexual { data-search-exclude }
 ### adjective
 
 /ˈtrænzˈsɛkʃuəl/
@@ -39,9 +42,35 @@ a transsexual [person](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%
 
 (**transsexual**在[**剑桥高级学习词典和同义词词典**](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/ "剑桥高级学习词典和同义词词典")中的解释 © Cambridge University Press)
 
-## transsexual的翻译
+## transsexual的翻译 { data-search-exclude }
 - 中文（繁体）: （尤指男性）易性癖者, 變性人…
 - 中文（简体）: （尤指男性）易性癖者, 变性人…
 - 西班牙语: transexual…
 - 葡萄牙语: transexual…
 <!-- tcd_original_link https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/transsexual -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | dictionary_TRANSSEXUAL在剑桥英语词典中的解释及翻译.md                             |
+| Size            | 6157 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

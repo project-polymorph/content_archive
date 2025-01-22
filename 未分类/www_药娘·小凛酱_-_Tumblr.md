@@ -1,12 +1,15 @@
 # 多元性别与自我表达指南
 
+## 正文 { data-search-exclude }
+
+
 **作者**: nikkifatale-deactivated20161220  
 **标签**: #药娘 #女装大佬 #女装子 #可爱的男孩子 #Mtf #跨性别  
 **来源**: [cuteandlovelylin on Tumblr](https://www.tumblr.com/cuteandlovelylin)
 
 ---
 
-## 推特ID
+## 推特ID { data-search-exclude }
 
 @Linnnn_QWQ
 
@@ -18,7 +21,7 @@
 
 ---
 
-## My Sissy Tips~
+## My Sissy Tips~ { data-search-exclude }
 
 So I have had a lot of request, “How can I become more of a sissy?” etc. I decided to put together a post of some of the things I do, and things that will help you, in your sissification. This post is “bloggy” more than anything, so you’ll just have to wait for more of my own sissy pics~ ;) Anyone can become more feminine, old, big, small, whatever…. trust me, I am older than most might think…. nothing is impossible, just a matter of how much you are willing to do! Let’s get started~
 
@@ -63,7 +66,7 @@ Nothing screams sissy more than having to prance around on a pair of slutty heel
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 ### elspethelspeth
 Great advice. Another tip to to buy separates (blouses and skirts) because dresses will look very short on you - if you have great legs than this is not an issue. Also please please read Note 1 - taking pics when the room behind you looks like a tip is not sexy. Also - download some software to manipulate your photographs. Portrait Professional can make you look 18 or 80 depending on what you want. It’s not free but many free ones are also good. Picasa has been discontinued unfortunately. For more photography tips just send me a note.
@@ -80,3 +83,29 @@ Posts like this must live on forever! Sissy development x
 **版权**: 内容来自 Tumblr，遵循社区规范。  
 **时间**: 最近更新 2023年。
 <!-- tcd_original_link https://www.tumblr.com/cuteandlovelylin -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_药娘·小凛酱_-_Tumblr.md                             |
+| Size            | 7171 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

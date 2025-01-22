@@ -1,5 +1,8 @@
 # 非法的性别（性别是条毛毛虫）书评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img1.doubanio.com/icon/u56055807-18.jpg)
 
 湛眉/文 
@@ -32,3 +35,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 
 <!-- tcd_original_link https://m.douban.com/book/review/6503838/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为凯特·伯恩斯坦（Kate Bornstein）所著《性别是条毛毛虫》的书评，探讨了跨性别者的身份流动性和性别规范的破除。作者以凯特的经历为核心，介绍了她从男性身份转变为女性，并反思了性别认知的多样性。本书认为性别的存在是一种文化建构，带有一定的历史与社会规定。在文中，凯特提到性别像水一般流动，并强调跨性别者应该争取文化认同和身体认同。讨论了文化如何通过定义角色限制人们的认同，指出跨性别者不仅在挑战性别的二元划分，亦在寻求自己的个体空间。作者还谈及文化的影响，性别的邪教性质，以及个人如何在性别标准之外建立自我认同。最后，书评鼓励读者质疑自身的性别认知，强调自我认同的重要性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_非法的性别-_性别是条毛毛虫_-_豆瓣.md                             |
+| Size            | 8858 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 凯特·伯恩斯坦                               |
+| Region          | 美国                               |
+| Date            | 2013-11                                 |
+| Tags            | 跨性别, 性别认同, 流动性, 文化建构, 性别角色, 凯特·伯恩斯坦, 性别理论, 自我认同, 性别规范, 艺术与文学                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 透過 VR 體驗「性轉」！研究：性別認同比想像中容易被左右
 
+## 正文 { data-search-exclude }
+
+
 ![](https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/X4NxmIiIGl2qEXbKv5b6qpqE63N0cZLAPgjCBlFt.jpg)
 
 Shutterstock/達志影像
@@ -55,3 +58,29 @@ Shutterstock/達志影像
 
 禁止酒駕 ![](https://www.inside.com.tw/assets/images/legal/alcohol-warning.webp) 未滿十八歲禁止飲酒
 <!-- tcd_original_link https://www.inside.com.tw/article/22071-experiencing-the-illusion-of-having-an-opposite-sex-body-in-virtual-reality-can-shift-aspects-of-gender-identity -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_透過VR_體驗「性轉」！研究：性別認同比想像中容易被左右_-_INSIDE.md                             |
+| Size            | 5338 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

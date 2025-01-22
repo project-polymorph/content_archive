@@ -1,5 +1,8 @@
 # 广州萱语变装摄影工作室
 
+## 正文 { data-search-exclude }
+
+
 广州萱语变装摄影工作室（主理人@萱娘SAMA）提供日常变装，摄影艺术、恋物体验等多元深度体验。预约请私信滴滴！❤️
 
 ![广州萱语变装摄影](//i2.hdslb.com/bfs/face/74f86b5b42da560d4eb0e3d0730579d8e601731d.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif)
@@ -88,3 +91,29 @@
 
 太长
 <!-- tcd_original_link https://space.bilibili.com/3493291005839360/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | space_广州玲距离-变装摄影_-_BiliBili.md                             |
+| Size            | 3280 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 变性亦凡人 Just a Normal Person (2015)
 
+## 正文 { data-search-exclude }
+
+
 ![Just a Normal Person](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2593825342.webp)
 
 导演: [Malin Björkman-Widell](https://subject_search?search_text=Malin%20Björkman-Widell)  
@@ -19,20 +22,20 @@ IMDb: tt6977248
 
 ---
 
-## 变性亦凡人的剧情简介
+## 变性亦凡人的剧情简介 { data-search-exclude }
 
 22年前，同卵双胞胎姐妹伊莎贝尔和丹妮丝诞生于世。但是，从童年开始，伊莎贝尔就明白她和其他女孩不一样。伊莎贝尔从心底清楚自己是个被生在女孩身体里的男孩。六岁的伊莎贝尔在一段家庭录像中说道：“长大了我要当爸爸。”几年后，伊莎贝尔改名为萨姆。从那之后，萨姆不得不一次又一次地向人解释自己的身份。起初，他的母亲很惊讶，但以为这只是一个早晚会过去的成长阶段。但当她意识到萨姆有多么认真时，她便全力支持他，以及他遵从自己真实内心身份的权利。在他身边支持他的还有他的孪生姐妹丹妮丝，她是萨姆的守护天使与知心好友。丹妮丝看到了所有萨姆遭遇的困难，并在影片中讲述了萨姆生活中所受的暴凌欺压。这部影片记录了萨姆从童年到高中毕业的历程，萨姆在此期间接受了乳房切除手术与睾酮注射。
 
 22 years ago the identical twins Isabelle and Denise were born. But already as a kid Isabelle knew she was different from the other girls. Deep down inside Isabelle knew she was a boy, born in a girl’s body. “I am going to be a dad when I grow up”, says 6-year-old Isabelle in a family video clip. A few years later Isabelle changes name to Sam. From then on Sam has been forced to explain who he really is, over and over again. His mother was bewildered at first, and thought it was merely a passing phase. But from the moment she realised that he was absolutely serious, she has fully backed Sam and his right to be true to his inner self. Standing by his side is also his twin sister Denise, Sam’s guardian angel and confidant. Denise has seen his suffering firsthand, and in the film she tells about the bullying Sam has had to put up with throughout his life. The film follows Sam from childhood to high school graduation. During this time, he has gone through breast removal surgery and received testosterone injections.
 
-## 变性亦凡人的图片
+## 变性亦凡人的图片 { data-search-exclude }
 
 - ![图片](https://img9.doubanio.com/view/photo/sqxs/public/p2378137996.webp)
 - ![图片](https://img3.doubanio.com/view/photo/sqxs/public/p2593825342.webp)
 - ![图片](https://img1.doubanio.com/view/photo/sqxs/public/p2593824829.webp)
 - ![图片](https://img3.doubanio.com/view/photo/sqxs/public/p2535384577.webp)
 
-## 变性亦凡人的短评
+## 变性亦凡人的短评 { data-search-exclude }
 
 [热门](comments) / 
 
@@ -40,11 +43,11 @@ IMDb: tt6977248
 
 19交
 
-## 讨论区
+## 讨论区 { data-search-exclude }
 
 [> 去这部影片的讨论区（全部0条）](https://subject/26868373/discussion/)
 
-## 谁在看这部电影
+## 谁在看这部电影 { data-search-exclude }
 
 - [![CautionZZZ](https://img3.doubanio.com/icon/u210293484-2.jpg)](https://www.douban.com/people/210293484/)  
   [CautionZZZ](https://www.douban.com/people/210293484/)  
@@ -60,3 +63,29 @@ IMDb: tt6977248
 
 © 2005－2025 douban.com, all rights reserved 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/movie/subject/26868373/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件记录了2015年瑞典纪录片《变性亦凡人》的详细信息与剧情简介。影片围绕伊莎贝尔（后改名为萨姆）的成长历程展开，讲述了她从一个女孩转变为一个真正的男孩的真实经历。影片通过萨姆和她的双胞胎姐妹丹妮丝的视角，探讨了萨姆在性别认同过程中所经历的挑战与支持。萨姆在成长的过程中经历了多次解释自己性别认同的困扰，以及来自家庭和社会的反对与支持。此外，影片详细记录了萨姆接受乳房切除手术与睾酮注射的经历，展现了跨性别者的生活与内心斗争。该纪录片不仅是对萨姆个人经历的记录，也是对跨性别者在社会中所遭受的困难与所需的理解和支持的呼吁。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性亦凡人-_电影-_豆瓣.md                             |
+| Size            | 3980 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 瑞典                               |
+| Date            | 2015-01-01                                 |
+| Tags            | 跨性别, 性别认同, 纪录片, 成长故事, 家庭支持, 社会接受, 医疗经历, 性别转变, 心理挣扎, 真实经历                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

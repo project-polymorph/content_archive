@@ -1,5 +1,8 @@
 # 雄性激素疗法能“重新编程”跨性别男性乳房
 
+## 正文 { data-search-exclude }
+
+
 ![细胞出版社](https://cdn.linkresearcher.com/www.cell.com.jpeg)
 
 **论文：** The molecular consequences of androgen activity in the human breast  
@@ -38,3 +41,29 @@ Estrogen and progesterone have been extensively studied in the mammary gland, bu
 - [基因表达](https://www.linkresearcher.com/searchall?tab=theses&query=%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE)  
 - [乳房组织](https://www.linkresearcher.com/searchall?tab=theses&query=%E4%B9%B3%E6%88%BF%E7%BB%84%E7%BB%87)  
 <!-- tcd_original_link https://www.linkresearcher.com/theses/c2cffb8f-f1a7-421c-8a81-253c43a5b5e3 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_雄性激素疗法能“重新编程”跨性别男性乳房_-_领研网.md                             |
+| Size            | 5380 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 意大利通过同性权益法案，但LGBT团体还是不开心
 
+## 正文 { data-search-exclude }
+
+
 ![环境卫士小飞熊](https://img2.doubanio.com/icon/u4701186-451.jpg)  
 **作者**: 环境卫士小飞熊  
 **时间**: 2016年02月26日 21:17:16  
@@ -36,3 +39,29 @@
 
 **标签**: [同性婚姻](https://www.douban.com/note/tags/%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB?people=redoriole&all=1) [意大利](https://www.douban.com/channel/30307268) [参议院](https://www.douban.com/note/tags/%E5%8F%82%E8%AE%AE%E9%99%A2?people=redoriole&all=1)
 <!-- tcd_original_link https://m.douban.com/note/541749260/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了意大利参议院于2016年2月25日通过一项同性结合法案的消息。该法案使得意大利成为西欧最后一个为同性恋权益立法的国家，然而，尽管该法案赋予了同性伴侣诸多权利，例如合法的继承权、医院探视权等，但LGBT群体对此表示不满，认为法案未能包含对同性婚姻和收养权的认可，实际上是对他们的背叛。报道中提到，意大利政府受到批评，尤其是删去了有关“忠诚义务”和收养权条款的部分，使得该法案的有效性受到质疑。此外，还强调了该法案历史性的一面，尽管其实施受到传统天主教教义的强烈影响。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_意大利通过同性权益法案，但LGBT团体还是不开心-_日记-_豆瓣.md                             |
+| Size            | 5110 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 环境卫士小飞熊                               |
+| Region          | 意大利                               |
+| Date            | 2016-02-26                                 |
+| Tags            | 同性权益, 同性婚姻, LGBT, 意大利, 参议院, 法律政策, 平权运动, 民事结合, 儿童权益, 天主教影响                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

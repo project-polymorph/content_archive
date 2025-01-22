@@ -1,5 +1,8 @@
 # brainwasher进来看伪娘
 
+## 正文 { data-search-exclude }
+
+
 作者：[peipeilotto](https://www.backchina.com/u/270743)  于 2009-8-21 03:53 发表于 最热闹的华人社交网络--贝壳村
 
 通用分类:[其它日志](https://www.backchina.com/home.php?mod=space&do=blog&view=all&catid=99)|已有22评论
@@ -92,3 +95,29 @@ PS：伪娘只是在 完全伪娘化 时才扮女装。伪娘绝大多数对异�
 **Lawler**: 认了？上一次当，恶心一辈子！呵呵  
 这哪一年的事又被你拎出来了。我那时年轻。
 <!-- tcd_original_link https://www.backchina.com/blog/270743/article-38571.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_brainwasher进来看伪娘-_peipeilotto的日志BackChina_Network.md                             |
+| Size            | 8510 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

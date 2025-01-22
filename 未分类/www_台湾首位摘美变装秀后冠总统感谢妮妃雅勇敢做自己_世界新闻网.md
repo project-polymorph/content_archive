@@ -1,5 +1,8 @@
 # 台湾首位摘美变装秀后冠 总统感谢妮妃雅勇敢做自己
 
+## 正文 { data-search-exclude }
+
+
 中央社台北20日电 2024-04-21 12:53 ET
 
 ![来自台湾的变装皇后妮妃雅(中)。(路透数据照)](https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/04/22/29503345.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&q=75)
@@ -18,3 +21,29 @@
 
 鲁保罗变装秀自开播以来，10多年间仅有7名亚洲变装皇后闯进4强。妮妃雅在第16季夺下冠军头衔，不仅打破节目中的「亚洲魔咒」，更创下首次台湾人夺冠的历史纪录。
 <!-- tcd_original_link https://www.worldjournal.com/wj/story/121478/7914275?from=wj_maintab_cate&zh-cn -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_台湾首位摘美变装秀后冠总统感谢妮妃雅勇敢做自己_世界新闻网.md                             |
+| Size            | 2049 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

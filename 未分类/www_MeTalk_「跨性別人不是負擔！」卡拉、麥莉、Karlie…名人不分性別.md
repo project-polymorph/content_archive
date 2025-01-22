@@ -1,5 +1,8 @@
 # 跨性别者的支持与倡导
 
+## 正文 { data-search-exclude }
+
+
 不知道大家是否發現，各大社群平台Twitter、Instagram再度湧入繽紛的彩虹色，不論是彩虹旗、舊金山著名的同志街，或是彩虹遊行照片。
 
 LGBT是英文女同性戀者（Lesbians）、男同性戀者（Gays）、雙性戀者（Bisexuals）與跨性別者（Transgender）結合的簡稱，廣泛來說，就是代表所有非異性戀者。最近，美國總統在推特Twitter發表關於跨性別者的言論和政策，引起全球關注，也再度掀起LGBT話題，這回，不分種族、國籍，大家紛紛表達對「T」Transgender跨性別者的支持。
@@ -31,3 +34,29 @@ This content can also be viewed on the site it [originates](https://www.instagra
 - [VOGUEme](https://www.vogue.com.tw/tag/vogueme)
 - [MeTalk](https://www.vogue.com.tw/tag/metalk)
 <!-- tcd_original_link https://www.vogue.com.tw/vogueme/content-35008 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_MeTalk_「跨性別人不是負擔！」卡拉、麥莉、Karlie…名人不分性別.md                             |
+| Size            | 2218 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

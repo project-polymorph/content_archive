@@ -1,5 +1,8 @@
 # 普吉岛西蒙人妖歌舞表演
 
+## 正文 { data-search-exclude }
+
+
 ![普吉岛西蒙人妖歌舞表演](https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2017/01/31061448/Simon-Cabaret-724x357.jpg)
 
 **普吉岛西蒙人妖秀**
@@ -38,3 +41,29 @@ Share on baidu
 - [普吉岛潜水](https://www.pullmanphuketarcadia.com/zh-hans/phuket-destination/activities-phuket/diving-phuket/)  
 ![普吉岛潜水](https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/65/2017/01/10123421/Depositphotos_25358239_original1-385x300.jpg)
 <!-- tcd_original_link https://www.pullmanphuketarcadia.com/zh-hans/phuket-destination/activities-phuket/phuket-simon-cabaret-shows/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_普吉岛西蒙人妖歌舞表演__普吉岛阿卡狄亚奈通海滩铂尔曼度假酒店.md                             |
+| Size            | 1936 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

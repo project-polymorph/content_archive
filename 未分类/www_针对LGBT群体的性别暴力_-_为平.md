@@ -1,5 +1,8 @@
 # 针对LGBT群体的性别暴力
 
+## 正文 { data-search-exclude }
+
+
 ![二维码](images/ewm.png)
 
 ![logo](images/logo.jpg)
@@ -14,11 +17,11 @@
 
 无论对受害者还是服务机构而言，LGBT伴侣关系中的家庭暴力都更难以识别，因为“主流”的家暴服务通常并不在同性关系中识别家暴，也很少会有处理此类事件的经验。但是，数据显示，暴力在异性恋、男同性恋与女同性恋关系中发生的比率大概相同（四分之一）。
 
-## **同性与异性家庭暴力的异同总结如下：**
+## **同性与异性家庭暴力的异同总结如下：** { data-search-exclude }
 
 相同点包括虐待的形式、施暴者对于被害者的控制、被虐待者可能会感受到的孤立感，以及“暴力循环”（cycle of violence）的机制。
 
-## **不同点包括：**
+## **不同点包括：** { data-search-exclude }
 
 **孤立感**：伴随家暴而生的孤立感会与LGBT在恐同社会中所受的孤立相结合。LGBT社区中对于家暴的沉默可能会进一步孤立受害者，且给予施暴者更大的权力。LGBT社会网络中有限的社区空间更使之雪上加霜：（受害者）很难保护隐私，离开也将变得更难。
 
@@ -38,7 +41,7 @@
 
 一位家暴幸存者分享了她在大学校园里偶然看到一张海报的经历：“我第一次看到这张关于男女同志伴侣关系中的暴力海报时，我只是单纯的路过，心想这与我的生活毫无关系。那天中午在我吃去午饭的路上，海报上的一些关于虐待的例子吸引了我的注意。在接下来的一周里，我花越来越多的时间来研究这张海报。我意识到，在我与Edie的关系中，我正是这种暴力行为的目标。这就是为什么我最后会成为支持组织的一员。”
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [中国发展简报](http://www.chinadevelopmentbrief.org.cn/)
 - [北京市朝阳区妇联](http://www.cyw.com.cn/)
@@ -58,3 +61,29 @@ Copyright © 2003-2016 北京为平文化有限公司 All Rights Reserved
 
 京公网安备110115000735 京ICP备10036258
 <!-- tcd_original_link http://www.equality-beijing.org/violence.aspx?id=3 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_针对LGBT群体的性别暴力_-_为平.md                             |
+| Size            | 6164 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

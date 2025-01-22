@@ -1,5 +1,8 @@
 # 异装癖的生理性别和心理性别
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 心灵花园网  
 **发布日期**: 2014年05月14日  
 **作者**: 心灵花园网  
@@ -10,7 +13,7 @@
 
 研究人员观察了易性现象（transs-exuality，又称性别转换欲，指生理性别与心理性别相反）的诸多形式，探讨了他们的生物、心理和文化基础。在这个过程中，他们常常对研究中呈现的个体差异感到震惊。许多科学家相信，这种惊人的多样性提供了一个重要线索，有助于他们揭示生理性别（sex）、心理性别（gender）和性取向（sex orientation）之间的微妙关系。事实上，正是因为这三个特质在某些人身上并不像预期的那样相互匹配，科学家才充分意识到三者的相对独立性。
 
-## 心理性别 vs 生理性别
+## 心理性别 vs 生理性别 { data-search-exclude }
 
 心理性别、生理性别和性取向三者之间是相互关联又相互独立的三种变量。这三个变量在易性现象的研究中处于核心位置，而生理性别或许是三者中最为简单直接的一个。我们体内都有一套性染色体，它决定我们是基因雄性（XY）还是基因雌性（XX）。当然，染色体性别并不总是显而易见的。比如最近有传闻说，奥运长跑选手卡斯特尔・赛门亚（Caster Semenya）基因异常，虽然是女儿身，却有着堪比男性的力量。许多遗传性障碍能让性染色体出现“缺失”或者“冗余”的现象（比如，XYY的染色体），从而导致婴儿先天缺陷，出现外阴性别不明。但大体来说，科学家在研究性别认同障碍（gender identity disorder，也就是临床术语中“易性”）时，会排除染色体异常或身体异常的个体，像赛门亚这样的情况是不予考虑的。他们所谓的“易性人”，指的是染色体正常、在生理上具有明确性别、但在心理上觉得自己属于异性的个体。
 
@@ -20,7 +23,7 @@
 
 一旦区分了这三个相互关联却又相互独立的概念，科学家就能更好地理解易性现象了。美国[心理学](http://www.xinlinghuayuan.com/Learning/Index.html)会将“易性”定义为“强烈”而持续的性别认同倒错，以及对自身生理性别的持续不适感”。研究显示，即便是在易性人群体内部，也存在着很大的差异。就拿男性易性人来说：一个生理上的男性感到性别焦虑，“觉得自己是个女人”，但在性取向上，他既可能是同性恋，也可能是异性恋。不仅如此，除了这三个变量的混合匹配之外，易性现象似乎还受到大量心理和文化因素的影响。对这些看似无穷多的因素，科学家的探索才刚刚开始。
 
-## 心理和性别
+## 心理和性别 { data-search-exclude }
 
 由于社会压力，大多数“女变男”易性人最后都成为了女同性恋者。
 
@@ -88,3 +91,29 @@
 - 认知  
 - 异常心理  
 <!-- tcd_original_link https://m.xinlinghuayuan.com/archives/1943 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_异装癖的生理性别和心理性别_-_心灵花园.md                             |
+| Size            | 9564 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

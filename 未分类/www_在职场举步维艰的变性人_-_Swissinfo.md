@@ -1,5 +1,8 @@
 # 在职场举步维艰的变性人
 
+## 正文 { data-search-exclude }
+
+
 ![视频](https://il.srgssr.ch/images/?imageUrl=https://cdn.prod.swi-services.ch/video-delivery/images/7311009f-4cfd-4bb3-ae90-f4b9878c496a/WDtPPjcqF4lBqMPWDmwKhAMV9.KjqaPK/16x9&format=jpg&width=960)
 
 此内容发布于 **2017年01月18日 - 11:00**
@@ -16,11 +19,11 @@
 
 ---
 
-## 阅读最长
+## 阅读最长 { data-search-exclude }
 
-## 讨论最多
+## 讨论最多 { data-search-exclude }
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 讨论
 
@@ -82,7 +85,7 @@
 
 ![瑞士资讯SWI swissinfo.ch隶属于瑞士广播电视集团](https://www.swissinfo.ch/chi/wp-content/themes/swissinfo-theme/assets/srg-ssr-small-logo.png)
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 ### 瑞士版“金星”：彪悍的人生，真正的自己
 
@@ -92,7 +95,7 @@
 
 ![变性人：乌力变成了妮娜](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2013/01/cfd678e0e4f405285499dc814f63bd18-che_1212_nina_stieger_11-34730034-data.jpg?ver=1c5bf19f)
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 ### 变性人：乌力变成了妮娜
 
@@ -102,7 +105,7 @@
 
 ![“第三性”人群对社会地位的诉求](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2013/01/6fd20debbfa0951f196a55fa851f26ca-daniela_truffer-34730788-data.jpg?ver=d725556b)
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 ### “第三性”人群对社会地位的诉求
 
@@ -110,3 +113,29 @@
 
 [更多阅览 “第三性”人群对社会地位的诉求](https://www.swissinfo.ch/chi/culture/%e7%ac%ac%e4%b8%89%e6%80%a7-%e4%ba%ba%e7%be%a4%e5%af%b9%e7%a4%be%e4%bc%9a%e5%9c%b0%e4%bd%8d%e7%9a%84%e8%af%89%e6%b1%82/34781602)
 <!-- tcd_original_link https://www.swissinfo.ch/chi/%E7%94%9F%E6%B4%BB%E5%85%BB%E8%80%81/%E5%8F%98%E6%80%A7%E4%BA%BA_%E5%9C%A8%E8%81%8C%E5%9C%BA%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0%E7%9A%84%E5%8F%98%E6%80%A7%E4%BA%BA/42411996 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_在职场举步维艰的变性人_-_Swissinfo.md                             |
+| Size            | 6825 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

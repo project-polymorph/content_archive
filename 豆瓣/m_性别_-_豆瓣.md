@@ -1,6 +1,9 @@
 # 多元性别相关内容存档
 
-## 性别
+## 正文 { data-search-exclude }
+
+
+## 性别 { data-search-exclude }
 
 ![](https://img9.doubanio.com/view/elanor_image/raw/public/Q40Z9R7L.jpg)
 
@@ -61,3 +64,29 @@
 - 跨性别
 - 性平等
 <!-- tcd_original_link https://m.douban.com/doulist/153961873/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件汇集了与多元性别相关的多篇文章与观点，主要围绕跨性别女性的平等待遇、个人跨性别经验、以及社会对性别认同的刻板印象等主题展开。作者们在文中讨论了目前跨性别人士在社会中面临的歧视以及这种歧视如何形成，强调了跨性别人士与顺性别女性同样面临的不平等待遇。同时，文章也分享了一位跨性别女孩的父亲发言的经历，指出反跨性别立法对青少年的影响。总体而言，内容深入探讨了性别平等的复杂性，并呼吁更多的社会理解与支持。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别_-_豆瓣.md                             |
+| Size            | 5235 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-02-08                                 |
+| Tags            | 性别, 多元性别, 跨性别, 性平等, 社会歧视, 跨性别女性, 性别认同, 家庭支持, 社会环境, 法律政策                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

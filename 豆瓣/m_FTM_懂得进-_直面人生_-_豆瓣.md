@@ -1,5 +1,8 @@
 # FTM 懂得进（直面人生）影评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u142495699-2.jpg)
 
 这篇影评可能有剧透
@@ -18,7 +21,7 @@
 
 ---
 
-## 信息
+## 信息 { data-search-exclude }
 
 - **导演**: Alicia Eyo / Sophy Holland
 - **主演**: Mike Aherne / Adam Gary / Jake Graf
@@ -29,3 +32,29 @@
 ![直面人生](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2204111776.webp)  
 [直面人生](https://movie.douban.com/subject/26085733/)
 <!-- tcd_original_link https://m.douban.com/movie/review/12687685/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为电影《直面人生》（2014）的影评，作者通过生动的语言，分享了观影后的感受与思考。影评中提到该影片涉及较为少见的跨性别者的爱情故事，其中的角色展现了女变男（MTF）和男变女（FTM）的身份与挑战。影评详细介绍了两个主角的性别认同与性取向，探讨了他们在社会中所面临的困境与情感的复杂性。作者还提及与跨性别议题相关的知识点，例如“药娘”这一特殊术语，呼吁读者更加了解和关注这个群体。影评不仅让人对影片有更深的理解，也引发了对跨性别者生活现状和表达的思考。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_FTM_懂得进-_直面人生_-_豆瓣.md                             |
+| Size            | 1203 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Man                               |
+| Region          | 英国                               |
+| Date            | 2014-10-06                                 |
+| Tags            | 跨性别, 影评, 同性恋, MTF, FTM, 药娘, 生存现状, 社会认同, 情感复杂性, 爱情故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

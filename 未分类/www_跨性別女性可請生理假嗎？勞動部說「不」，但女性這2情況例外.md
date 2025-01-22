@@ -1,5 +1,8 @@
 # 跨性別女性可請生理假嗎？勞動部說「不」，但女性這2情況例外
 
+## 正文 { data-search-exclude }
+
+
 by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 
 分享 7人氣 46,577
@@ -8,7 +11,7 @@ by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 
 我們都知道女性勞工有請生理假的權利，然而今天若換作是「跨性別女性」或是「已停經的婦女」是否也同樣享有請假資格？帶你一探究竟！
 
-## 生理假規定已明訂在《性別工作平等法》
+## 生理假規定已明訂在《性別工作平等法》 { data-search-exclude }
 
 有關生理假的規定並非訂定在[《勞基法》](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030001)中，而是在[《性別工作平等法》第14條](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030014&flno=14)所規定「**女性受僱者因生理日致工作有困難者，每月得請生理假一日，全年請假日數未逾三日，不併入病假計算，其餘日數併入病假計算**」。
 
@@ -18,7 +21,7 @@ by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 
 圖／Shutterstock
 
-## 跨性別者(男跨女)已變更登記為女性，可請生理假嗎？
+## 跨性別者(男跨女)已變更登記為女性，可請生理假嗎？ { data-search-exclude }
 
 近日因為有「男跨女」的跨性別者（transegender）(註1)想向公司請生理假，但公司不確定其是否符合請生理假規定，特地向當地主管機關詢問，而臺北市政府勞動局後續也發函向勞動部詢問，最後回覆答案竟然為「不可！」，究竟為什麼呢？
 
@@ -30,7 +33,7 @@ by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 
 圖／Shutterstock
 
-## 停經婦女、切除子宮女性是否能請生理假？
+## 停經婦女、切除子宮女性是否能請生理假？ { data-search-exclude }
 
 男跨女工作者無月經而沒有生理期，因此無法請生理假；然而，女生到了更年期不再有月經，停經的狀況下能否請生理假呢？找到過去勞委會曾做過解釋「**女性受僱者在停經前因生理日致工作有困難者，每月得請生理假一日**，並無年齡之限制」(註3)，依此解釋來說，女性在「停經前」才符合申請生理假的資格，然而每位女性進入更年期的時間皆不同，加上請生理假並無年齡限制、雇主又不能要求員工提出證明，因此是否依規定申請也只能看員工本身的誠信了。
 
@@ -65,3 +68,29 @@ by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 
 用心琢磨老闆和員工不同的思維，從中找到平衡點，讓勞資間的關係不再緊張 : )希望幫助勞工、企業都能認識自己的權利義務，讓勞動法令不再只是教條，而能實際落實在生活中。
 <!-- tcd_original_link https://www.518.com.tw/article/1539 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別女性可請生理假嗎？勞動部說「不」，但女性這2情況例外.md                             |
+| Size            | 5628 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

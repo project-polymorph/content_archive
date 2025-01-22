@@ -1,5 +1,8 @@
 # 报告：医疗保健系统让跨性别年轻人失望
 
+## 正文 { data-search-exclude }
+
+
 - 来源：[Egalia 反歧视中心](https://egalia.org/zh-CN/category/rapport/)
 - 标签：[报告](https://egalia.org/zh-CN/category/rapport/), [儿童](https://egalia.org/zh-CN/category/barn/), [横贯](https://egalia.org/zh-CN/category/trans/)
 - 日期：25/10/2024
@@ -72,3 +75,29 @@ Hamnvik 和 Løvdal 还回顾了各种治疗知识库，并展示了如何实施
 
 **莱内·洛夫达尔** 是一位在平等和歧视法以及人权方面拥有丰富经验的律师，包括来自平等和歧视监察员、奥斯陆大学这些科目的考官和督导员以及民间社会组织的经验。如今，勒夫达尔是 Egalia 反歧视中心的董事会主席兼部门负责人。她还向 [欧洲委员会](https://commission.europa.eu/index_en) 关于在挪威实施欧盟平等指令 [欧洲平等法网络](https://www.equalitylaw.eu/)，包括关于性别认同和性别表达。她是该报告的编辑和主要作者。
 <!-- tcd_original_link https://egalia.org/zh-CN/barn-og-kjonnsinkongruens/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | egalia_报告：跨性别青年的医疗保健系统失败了Egalia_反歧视中心AS.md                             |
+| Size            | 8641 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

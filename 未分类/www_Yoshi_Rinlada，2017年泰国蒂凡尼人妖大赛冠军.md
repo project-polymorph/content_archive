@@ -1,5 +1,8 @@
 # Yoshi Rinlada，2017年泰国蒂凡尼人妖大赛冠军
 
+## 正文 { data-search-exclude }
+
+
 ![Fuller_bust](https://www.kamolhospital.com/uploads/blog/269/data/649980b5ecef1.jpg)
 
 Yoshi Rinlada是2017年蒂凡尼人妖大赛的冠军。Yoshi以其甜美女性的外貌而广受喜爱，但这并不足以让她有足够的信心参加选美比赛。她一直梦想拥有完美的身材和完美的事业，在18岁时，她接受了乳房增大手术，让她的梦想成真。她选择了325cc的植入物，这对于她的身材来说是完美的大小。
@@ -23,3 +26,29 @@ Yoshi Rinlada是2017年蒂凡尼人妖大赛的冠军。Yoshi以其甜美女性�
 - [女性腹部蚀刻](https://www.kamolhospital.com/blog/451/abdominal-etching-female)
 - [为什么结肠阴道成形术需要回春术？](https://www.kamolhospital.com/blog/319/why-colon-vaginoplasty-needs-rejuvination)
 <!-- tcd_original_link https://www.kamolhospital.com/zh/blog/269/yoshi-rinlada-miss-tiffany-universe-2017 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Yoshi_Rinlada，2017年泰国蒂凡尼人妖大赛冠军.md                             |
+| Size            | 2218 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

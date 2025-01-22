@@ -1,5 +1,8 @@
 # 银幕上的活动家：电影中的酷儿凝视
 
+## 正文 { data-search-exclude }
+
+
 时间： 30 年 2024 月 3 日，星期六，下午 00:XNUMX
 
 此活动已经结束。
@@ -20,7 +23,7 @@
 
 ### 相关展览 -进行中
 
-## [Activist New York](https://zh-cn.mcny.org/exhibition/activist-new-york)
+## [Activist New York](https://zh-cn.mcny.org/exhibition/activist-new-york) { data-search-exclude }
 
 深入研究纽约市过去和现在的社会活动主义戏剧，涉及移民，公民权利和性取向等问题。
 
@@ -28,23 +31,49 @@
 
 **_Activist New York_** 及其相关程序由 The Puffin Foundation，Ltd. 赞助。
 
-## 本系列的更多内容
+## 本系列的更多内容 { data-search-exclude }
 
 ![一群成年人沿着下东区街道行进的黑白照片。前面的人们举着横幅，上面写着：“下东区。这片土地是我们的。”](https://www.mcny.org/sites/default/files/styles/mcny_col_3_thumbnail/public/Rabble%20Rousers%20Lower%20East%20Side.jpeg?h=efedcee8&itok=vn1hkOYc)
 
-## [屏幕上的活动人士：经济适用房](https://zh-cn.mcny.org/event/activists-screen-affordable-housing)
+## [屏幕上的活动人士：经济适用房](https://zh-cn.mcny.org/event/activists-screen-affordable-housing) { data-search-exclude }
 
 与我们一起观看黑人电影制片人精选的纪录片短片。
 
 ![一群人站在街上的黑白鸟瞰图。 警察设置了路障，划定了该空间。](https://www.mcny.org/sites/default/files/styles/mcny_col_3_thumbnail/public/Webpage%20Down%20the%20Barrel%20%281100%20x%201100%20px%29.jpg?h=59c1421b&itok=8PSW_hSf)
 
-## [银幕上的活动人士：黑色纪录片短片](https://zh-cn.mcny.org/event/activists-screen-black-documentary-shorts)
+## [银幕上的活动人士：黑色纪录片短片](https://zh-cn.mcny.org/event/activists-screen-black-documentary-shorts) { data-search-exclude }
 
 与我们一起观看黑人电影制片人精选的纪录片短片。
 
 ![标题“太阳从东方升起”和黑色背景上的 70 年代黑人儿童图像。](https://www.mcny.org/sites/default/files/styles/mcny_col_3_thumbnail/public/Untitled%20design%20%288%29.jpg?h=59c1421b&itok=dmYNOT-M)
 
-## [银幕上的活动人士：太阳从东方升起](https://zh-cn.mcny.org/event/activists-screen-sun-rises-east)
+## [银幕上的活动人士：太阳从东方升起](https://zh-cn.mcny.org/event/activists-screen-sun-rises-east) { data-search-exclude }
 
 与我们一起观看记录 1960 世纪 XNUMX 年代末布鲁克林 Bed-Stuy 黑人激进主义的《太阳在东方升起》；接下来将与 Kamau Ware 和电影制片人进行对谈。
 <!-- tcd_original_link https://zh-cn.mcny.org/event/activists-screen-trans-activism -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh-cn_银幕上的活动家：电影中的酷儿凝视.md                             |
+| Size            | 7103 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

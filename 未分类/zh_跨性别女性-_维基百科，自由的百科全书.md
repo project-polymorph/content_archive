@@ -1,5 +1,8 @@
 # 跨性别女性
 
+## 正文 { data-search-exclude }
+
+
 ![本页使用了标题或全文手工转换](//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png)
 
 ![重要](//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png)
@@ -28,13 +31,13 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 
 跨性别女性在生活中各个方面面临严重歧视，其中包括就业、住房、就学等，并且面临身体暴力、性暴力以及仇恨犯罪。这包括来自伴侣的暴力。在美国，身为[少数族裔](https://zh.wikipedia.org/wiki/%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F)的跨性别女性由于身处[跨性别恐惧](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%81%90%E6%87%BC)和[种族歧视](https://zh.wikipedia.org/wiki/%E7%A8%AE%E6%97%8F%E6%AD%A7%E8%A6%96)的[交叉处](https://zh.wikipedia.org/wiki/%E4%BA%A4%E5%8F%89%E6%80%A7)，她们所遭受的歧视尤其严重。
 
-## 概述
+## 概述 { data-search-exclude }
 
 跨性别女性可能经历过[性别不安](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E4%B8%8D%E5%AE%89)，这是由于她们的性别认同与出生时被赋予的性别（以及相关的性别角色或主要和次要性别特征）之间的差异而带来的痛苦[源](https://zh.wikipedia.org/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90)。
 
 跨性别女性可能会进行性别转换。其中医疗性别转换通常包括[女性化激素疗法](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95)；该过程会促使女性[第二性征](https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%80%A7%E5%BE%B5)（[乳房](https://zh.wikipedia.org/wiki/%E4%B9%B3%E6%88%BF)、体脂重新分布、[腰臀比](https://zh.wikipedia.org/wiki/%E8%85%B0%E8%87%80%E6%AF%94)降低等）的发育。激素疗法与[性别肯定手术](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_%28%E7%94%B7%E8%B7%A8%E5%A5%B3%29)两者结合可以减轻性别不安的痛苦[源](https://zh.wikipedia.org/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90)。
 
-## 术语
+## 术语 { data-search-exclude }
 
 参见：[跨性别 § 术语及定义的演变](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5#術語及定義的演變)
 
@@ -44,7 +47,7 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 
 **药娘**是[中国大陆网络用语](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8)，指通过激素疗法来维持女性特征的跨性别女性。相比**跨性别者**或**MtF**而言，一些接受了激素疗法或性别肯定手术的年轻跨性别女性更喜欢被称作药娘。对于最终目的一般是通过性别重置手术获得符合心理预期的身份并使取得合法身份的跨性别女性，该词可指进行[性别重置手术](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E9%87%8D%E7%BD%AE%E6%89%8B%E8%A1%93)前的过渡阶段，即进行[女性化激素疗法](https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95)的阶段。
 
-## 性取向
+## 性取向 { data-search-exclude }
 
 主条目：[性取向](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%8F%96%E5%90%91)
 
@@ -58,7 +61,7 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 
 在2008年的一项研究发现，跨性别女性和顺性别女性的性欲并没有[统计学上显著的差异](https://zh.wikipedia.org/wiki/%E6%98%BE%E8%91%97%E6%80%A7%E5%B7%AE%E5%BC%82)。就跟男性一样，女性性欲被认为与血清睾酮水平相关，但有争议，但2008年的研究发现在跨性别女性中没有这样的相关性。2014年发表的另一项研究发现62.4%的跨性别女性在接受了[性别重置疗法](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E9%87%8D%E7%BD%AE%E7%99%82%E6%B3%95)后性欲降低。
 
-## 处境
+## 处境 { data-search-exclude }
 
 参见：[跨性别权益](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%AC%8A%E7%9B%8A)
 
@@ -95,7 +98,7 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 
 北京同志组织2017年的调查发现，51%的跨性别者有[性别肯定手术](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E8%A1%93)的需求，其中跨性别女性有手术需求的达77.8%，高于有手术需求的跨性别男性和性别酷儿的比例。但有此需求的跨性别者当中总体仅有14.8%的人接受过性别肯定手术；这是由于在中国获取手术的阻碍十分巨大。
 
-## 媒体中的跨性别女性
+## 媒体中的跨性别女性 { data-search-exclude }
 
 在21世纪以前，电视、电影、新闻以及其他形式的媒体中的跨性别代表人物很少。早期主流媒体对于跨性别女性的现实和虚构描述几乎总是依赖于常见的桥段和[刻板印象](https://zh.wikipedia.org/wiki/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1)。不过，随着[跨性别权益运动](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E6%AC%8A%E7%9B%8A%E9%81%8B%E5%8B%95)的发展，媒体中对于跨性别者的描绘也随之变得更普遍和正面。例如，[金星](https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F_%28%E8%88%9E%E8%80%85%29)（中国舞蹈家）、[沃卓斯基姐妹](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%8D%93%E6%96%AF%E5%9F%BA%E5%A7%90%E5%A6%B9)（导演《[黑客帝国](https://zh.wikipedia.org/wiki/%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD)》三部曲）、[杭特·薛佛](https://zh.wikipedia.org/wiki/%E6%9D%AD%E7%89%B9%C2%B7%E8%96%9B%E4%BD%9B)（出演HBO影集[高校十八禁](https://zh.wikipedia.org/wiki/%E4%BA%A2%E5%A5%8B_%28%E7%94%B5%E8%A7%86%E5%89%A7%29)）、[金·彼特拉斯](https://zh.wikipedia.org/wiki/%E9%87%91%C2%B7%E5%BD%BC%E7%89%B9%E6%8B%89%E6%96%AF)（德国歌手）等人都是21世纪知名的跨性别女演员或明星。
 
@@ -156,11 +159,11 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
     [阿比盖尔·索恩](https://zh.wikipedia.org/wiki/Abigail_Thorn)
 
 
-## 注释
+## 注释 { data-search-exclude }
 
 1.  ^ 早期亦有称Male Lesbian[源](https://zh.wikipedia.org/wiki/Wikipedia:%E5%88%97%E6%98%8E%E6%9D%A5%E6%BA%90)。
 
-## 参见
+## 参见 { data-search-exclude }
 
 - [跨性别主题](https://zh.wikipedia.org/wiki/Portal:%E8%B7%A8%E6%80%A7%E5%88%A5)
 - [女权主义主题](https://zh.wikipedia.org/wiki/Portal:%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89)
@@ -169,7 +172,7 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 - [跨性别人物列表](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8)
 - [跨性别性行为](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%80%A7%E8%A1%8C%E7%88%B2)
 
-## 外部链接
+## 外部链接 { data-search-exclude }
 
 - [MtF.wiki](https://mtf.wiki) （[页面存档备份](https://web.archive.org/web/20220326200013/https://mtf.wiki/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）
 - [跨性别者的美丽与哀愁](https://web.archive.org/web/20150126091917/http://tedxtaipei.com/2014/05/geena_rocero_why_i_must_come_out/)
@@ -181,7 +184,7 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 - [跨性别女性主义](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9)
 - [厌跨女症](https://zh.wikipedia.org/wiki/%E5%8E%AD%E8%B7%A8%E5%A5%B3%E7%97%87)
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 1. [Serano, Julia](https://en.wikipedia.org/wiki/Julia_Serano). [Whipping girl: a transsexual woman on sexism and the scapegoating of femininity](https://archive.org/details/whippinggirltran0000sera). Emeryville, California: Seal Press. 2007: [29](https://archive.org/details/whippinggirltran0000sera/page/29)–30. [ISBN 1-58005-154-5](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1-58005-154-5).
 2. [Standards of Care for the Health of Transsexual, Transgender, and Gender Nonconforming People (version 7)](https://web.archive.org/web/20140924061804/http://admin.associationsonline.com/uploaded_files/140/files/Standards%20of%20Care%2C%20V7%20Full%20Book.pdf) (PDF). The World Professional Association for Transgender Health: 96. （[原始内容](http://admin.associationsonline.com/uploaded_files/140/files/Standards%20of%20Care,%20V7%20Full%20Book.pdf) (PDF)存档于2014-09-24）。
@@ -214,3 +217,29 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 29. ^ [Transgender people face NHS waiting list 'hell'](https://www.bbc.com/news/uk-england-51006264). [BBC News](https://zh.wikipedia.org/wiki/BBC_News) ([BBC](https://zh.wikipedia.org/wiki/BBC)). 2020-01-09 [2022-12-23]. （原始内容[存档](https://web.archive.org/web/20230808011347/https://www.bbc.com/news/uk-england-51006264)于2023-08-08） （英语）。
 30. ^ [Outing the Archives: From the Celluloid Closet to the Isle of Klezbos](https://dx.doi.org/10.4324/9781315811277-18), Queer Jews (Routledge), 2013-12-02: 199–214 [2022-10-04], [ISBN 978-1-315-81127-7](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-1-315-81127-7), [doi:10.4324/9781315811277-18](https://doi.org/10.4324%2F9781315811277-18)
 <!-- tcd_original_link https://zh.wikipedia.org/zh-hans/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_跨性别女性-_维基百科，自由的百科全书.md                             |
+| Size            | 37263 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

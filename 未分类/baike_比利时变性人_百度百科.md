@@ -1,16 +1,19 @@
 # 比利时变性人
 
+## 正文 { data-search-exclude }
+
+
 比利时社会事件
 
 一男子结婚19年发现老婆为变性人，1993年，44岁的比利时男子扬在其家乡安特卫普省碰到27岁的印尼女子莫妮卡，然而扬没有想到的是结婚19年后，他竟然发现莫妮卡是个变性人。
 
 信息时报综合报道据英国媒体26日报道，1993年，44岁的比利时男子扬在其家乡安特卫普省碰到27岁的印尼女子莫妮卡，称莫妮卡“非常漂亮，很有女人味”，很快两人结婚。然而扬没有想到的是结婚19年后，他竟然发现莫妮卡是个变性人。
 
-## 简介
+## 简介 { data-search-exclude }
 
 比利时变性人\[1\]，比利时一男子结婚19年发现老婆为变性人，1993年，44岁的比利时男子扬在其家乡安特卫普省碰到27岁的印尼女子莫妮卡，然而扬没有想到的是结婚19年后，他竟然发现莫妮卡是个变性人。
 
-## 概况
+## 概况 { data-search-exclude }
 
 比利时变性人：“看不出一点男性特征”
 
@@ -22,7 +25,7 @@
 
 ![比利时变性人](https://bkimg.cdn.bcebos.com/pic/0ff41bd5ad6eddc40314041c39dbb6fd53663361?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536)
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [比利时变性人19年隐瞒身份 丈夫发现真相欲“休妻”](https://www.chinadaily.com.cn/dfpd/2012-11/29/content_15965358.htm)．中国日报网 \[引用日期2012-11-29\]
 
@@ -34,3 +37,29 @@
 
 - 编辑者：[百科用户mYe1gI](https://usercenter/userpage?uk=h-7FqwWKMvDvRlbu2vNffQ&from=lemma)（2022-07-05）
 <!-- tcd_original_link https://baike.baidu.com/item/%E6%AF%94%E5%88%A9%E6%97%B6%E5%8F%98%E6%80%A7%E4%BA%BA/8202591 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_比利时变性人_百度百科.md                             |
+| Size            | 2403 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,10 +1,13 @@
 # Gender Dysphoria - Overview 
 
+## 正文 { data-search-exclude }
+
+
 **Gender dysphoria is a term that describes a sense of unease that a person may have because of a mismatch between their biological sex and their gender identity.**
 
 This sense of unease or dissatisfaction may be so intense it can lead to depression and anxiety and have a harmful impact on daily life.
 
-## What is gender identity?
+## What is gender identity? { data-search-exclude }
 
 Gender identity refers to our sense of who we are and how we see and describe ourselves.
 
@@ -28,7 +31,7 @@ Some people with gender dysphoria, but not all, may want to use hormones and som
 
 Gender dysphoria is not a mental illness, but some people may develop mental health problems because of gender dysphoria.
 
-## Signs of gender dysphoria
+## Signs of gender dysphoria { data-search-exclude }
 
 People with gender dysphoria may have changed their appearance, their behaviour or their interests.
 
@@ -54,7 +57,7 @@ This feeling can continue into adulthood with some people having a strong desire
 
 Find out more information [if you think your child might be trans or non-binary](/live-well/think-your-child-might-be-trans-or-non-binary/).
 
-## How to get help
+## How to get help { data-search-exclude }
 
 See a GP if you think you or your child may have gender dysphoria.
 
@@ -76,7 +79,7 @@ As there has been a huge increase in the number of people seeking a referral to 
 
 Find out how your GP and other organisations can [support you while you wait to see a GDC](/conditions/gender-dysphoria/how-get-help-and-support/).
 
-## Treatment for gender dysphoria
+## Treatment for gender dysphoria { data-search-exclude }
 
 After a detailed assessment to confirm the diagnosis of gender dysphoria and what it means for you, the GDC team will work with you on an agreed treatment plan.
 
@@ -88,7 +91,7 @@ For some people, treatment may just involve acceptance and affirmation or confir
 
 Read more about [treatments for gender dysphoria](/conditions/gender-dysphoria/treatment/).
 
-## What causes gender dysphoria?
+## What causes gender dysphoria? { data-search-exclude }
 
 The exact cause of gender dysphoria is unclear.
 
@@ -96,13 +99,13 @@ Gender development is complex and there are still things that are not known or f
 
 Gender dysphoria is not related to sexual orientation. People with gender dysphoria may identify as straight, gay, lesbian or bisexual.
 
-## How common is gender dysphoria?
+## How common is gender dysphoria? { data-search-exclude }
 
 No one really knows because not all people who have a sense of unease about their identity, or already identify as gender diverse, need or ask for support from the NHS.
 
 The number of people being referred and diagnosed with the condition has increased a lot over the last decade. In 2018/19 around 8,000 people were referred to adult gender dysphoria services in England.
 
-## Video: being a trans man - Jay's story
+## Video: being a trans man - Jay's story { data-search-exclude }
 
 In this video, Jay describes his transition, the expert help he received, his relationship and how he feels now.
 
@@ -114,3 +117,29 @@ Media review due: 10 October 2027
 Page last reviewed: 28 May 2020  
 Next review due: 28 May 2023  
 <!-- tcd_original_link https://www.nhs.uk/conditions/gender-dysphoria/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Gender_dysphoria_-_NHS.md                             |
+| Size            | 6495 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

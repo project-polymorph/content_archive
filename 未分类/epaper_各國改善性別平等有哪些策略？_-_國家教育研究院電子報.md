@@ -1,5 +1,8 @@
 # 各國改善性別平等有哪些策略？
 
+## 正文 { data-search-exclude }
+
+
 ![圖片製作：策略溝通辦公室](img/edm_208_3636_img_0.jpg)
 
 教育制度及政策研究中心 | 林信志 副研究員
@@ -117,3 +120,29 @@
 
 蕭智分（2014）。**越南小學一二年級越語教科書中性別意識型態之研究**（未出版之碩士論文）。國立暨南國際大學比較教育學系，南投縣。
 <!-- tcd_original_link https://epaper.naer.edu.tw/edm.php?eg_name=%E5%9C%8B%E9%9A%9B%E8%84%88%E5%8B%95&edm_no=208&content_no=3636 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | epaper_各國改善性別平等有哪些策略？_-_國家教育研究院電子報.md                             |
+| Size            | 14206 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

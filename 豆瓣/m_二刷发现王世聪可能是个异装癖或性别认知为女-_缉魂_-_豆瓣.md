@@ -1,5 +1,8 @@
 # 二刷发现王世聪可能是个异装癖或性别认知为女（缉魂）影评
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/icon/u59600570-5.jpg)
 
 这篇影评可能有剧透
@@ -116,3 +119,29 @@
 
 **标签**: 性别认知, 异装癖, 电影分析, 科幻, 犯罪, 悬疑, 惊悚
 <!-- tcd_original_link https://m.douban.com/movie/review/13148172/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为对电影《缉魂》的影评，探讨了角色王世聪的性别认知和异装癖的可能性。作者在二刷影片过程中发现多个线索，认为王世聪可能在自我认同上存在混乱，推测他可能是异装癖者或性别认知为女性。文中提到的具体证据包括影片中的视觉暗示，例如房间内的艺术品和王对自己新身体的欣赏。影评深入解析了王世聪在关系中的复杂性与影片关于自我意识消失的哲学思考，提出了许多引人深思的问题，如技术的伦理和人类对自我的恐惧。整体上，影评不仅评析了影片的情节，还有对社会与心理问题的探讨。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_二刷发现王世聪可能是个异装癖或性别认知为女-_缉魂_-_豆瓣.md                             |
+| Size            | 6228 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | delia                               |
+| Region          | 未知                               |
+| Date            | 2021-02-07                                 |
+| Tags            | 性别认知, 异装癖, 电影分析, 科幻, 犯罪, 悬疑, 惊悚, 文化反思, 自我认同, 心理分析                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

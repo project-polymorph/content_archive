@@ -1,5 +1,8 @@
 # 人妖
 
+## 正文 { data-search-exclude }
+
+
 ![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=2821912;js=na)
 
 我们无论何时也不会向你祈祷， 令人不可思议的，在人间的上帝。 我们清楚，你在这里，你准备好了显现， 我们相信，我们相信你的庆典。
@@ -28,7 +31,7 @@
 
 Перевод стихотворения Николая Гумилёва «[Андрогин](/verses/416)» на китайский язык.
 
-## Андрогин
+## Андрогин { data-search-exclude }
 
 Тебе никогда не устанем молиться, Немыслимо-дивное Бог-Существо. Мы знаем, Ты здесь, Ты готов проявиться, Мы верим, мы верим в Твое торжество.
 
@@ -40,3 +43,29 @@
 
 И воздух — как роза, и мы — как виденья, То近 close со своей пилигрим… И верь! Не коснется до нас наслажденье Бичом оскорбительно-жгучим своим.
 <!-- tcd_original_link https://gumilev.ru/languages/1153 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gumilev_尼古拉·古米廖夫._人妖._政硕张._中文_-_Николай_Гумилёв.md                             |
+| Size            | 2579 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

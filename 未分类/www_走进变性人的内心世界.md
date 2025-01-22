@@ -1,5 +1,8 @@
 # 走进变性人的内心世界
 
+## 正文 { data-search-exclude }
+
+
 2021-11-22 11:55
 
 ![作者头像](https://ucenter.cn-healthcare.com/upload/image/headImages/20200430/b99ef682-e90d-45d6-b0de-144456f0f72f.png) 
@@ -131,3 +134,29 @@
 
 版权声明: 本文由陈郑礼撰写，来源于健康界。
 <!-- tcd_original_link https://www.cn-healthcare.com/articlewm/20211122/wap-content-1287334.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_走进变性人的内心世界.md                             |
+| Size            | 8391 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

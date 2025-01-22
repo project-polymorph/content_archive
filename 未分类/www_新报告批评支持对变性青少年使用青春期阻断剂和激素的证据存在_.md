@@ -1,5 +1,8 @@
 # 新报告批评支持对变性青少年使用青春期阻断剂和激素的证据存在重大缺陷
 
+## 正文 { data-search-exclude }
+
+
 ![Cass-review-logo.svg.png](https://static.cnbetacdn.com/article/2024/0524/0598dc4cc17f60c.png)
 
 新近发布的《卡斯审查报告》（The Cass Review，儿童和青少年性别认同服务独立审查）中关于变性青少年护理的内容在英国起到了举足轻重的作用，英国现已停止在研究方案之外开具青春期"阻断"药物的处方。记者詹妮弗-布洛克（Jennifer Block）在今天（5 月 23 日）出版的《英国医学杂志》（The BMJ）上发现，在美国，治疗密集型的"性别平权"护理模式已成为常态，而卡斯的四年调查和最终报告所产生的影响却在很大程度上被忽视了。
@@ -46,3 +49,29 @@
 
 编译来源：[ScitechDaily](https://scitechdaily.com/startling-gaps-in-transgender-treatment-evidence-largely-ignored-in-the-us/)
 <!-- tcd_original_link https://www.cnbeta.com.tw/articles/science/1432150.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新报告批评支持对变性青少年使用青春期阻断剂和激素的证据存在_.md                             |
+| Size            | 5038 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

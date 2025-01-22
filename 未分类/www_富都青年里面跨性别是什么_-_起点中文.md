@@ -1,24 +1,27 @@
 # 富都青年里面跨性别是什么
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2024年09月26日 18:52
 
 **来源**: 起点中文网
 
 ---
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 
 电影 [《富都青年》](/so/富都青年.html) 中涉及的跨性别，是指影片中的某个角色具有与传统性别认知不一致的性别认同。例如可能存在生理性别与心理性别不一致，或者在社会角色和行为表现上超越了常规的性别界定。 观看 [《富都青年》](/so/富都青年.html) 不过瘾，欢迎大家点击前往阅读小说！
 
 ---
 
-## 重要图片
+## 重要图片 { data-search-exclude }
 
 ![封面](https://facepic.qidian.com/qd_face/349573/257/100)
 
 ---
 
-## 提到的作品
+## 提到的作品 { data-search-exclude }
 
 - [<img src="//bookcover.yuewen.com/qdbimg/349573/1016287525/180" alt="大明优秀青年"> 大明优秀青年](/book/1016287525/)
   
@@ -34,7 +37,7 @@
 
 ---
 
-## 相关问答
+## 相关问答 { data-search-exclude }
 
 1. **富都青年评分**
    
@@ -52,6 +55,32 @@
 
 ---
 
-## 评论和版权信息
+## 评论和版权信息 { data-search-exclude }
 版权 © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄霆娱乐信息科技有限公司
 <!-- tcd_original_link https://www.qidian.com/ask/qlwtubpqbtu -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_富都青年里面跨性别是什么_-_起点中文.md                             |
+| Size            | 2213 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 跨越和转换性别的非BG
 
+## 正文 { data-search-exclude }
+
+
 ![跨越和转换性别的非BG](https://img9.doubanio.com/view/elanor_image/raw/public/MJV892V4.jpg)
 
 **来自:** [冰雪豆 (汕头)](https://www.douban.com/people/66984298/)   
@@ -11,7 +14,7 @@
 [9人关注](https://www.douban.com/doulist/122490734/?type=followers#main)  
 [全部(103)](https://www.douban.com/doulist/122490734/)
 
-## 可播放的影视 (24)
+## 可播放的影视 (24) { data-search-exclude }
 
 来自：豆瓣电影
 
@@ -183,3 +186,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/doulist/122490734/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件标题为《跨越和转换性别的非BG》，内容聚焦于跨性别及相关主题，涵盖了跨性别者的故事、经历，与性别转换的相关影视作品。文本中包含了多个电影的推荐，涉及不同国家和地区的电影，展示了跨性别群体的生活与文化，体现了多元性别的丰富性与复杂性。具体包括电影《他是她》、《黑玫瑰公寓》、《迷失安狄》等，这些作品均涉及跨性别或性别互换的主题，强调了性别认同与表现的多样性。文件内还附有丰富的影视资源链接和相关评分，吸引了许多关注与讨论。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨越和转换性别的非BG_-_豆瓣.md                             |
+| Size            | 5756 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 冰雪豆 (汕头)                               |
+| Region          | 未知                               |
+| Date            | 2020-01-13                                 |
+| Tags            | 跨性别, 性别转换, 电影推荐, 生命故事, 文化表达, 性别认同, 影视资源, 社会环境, 生存现状, 多元性别                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

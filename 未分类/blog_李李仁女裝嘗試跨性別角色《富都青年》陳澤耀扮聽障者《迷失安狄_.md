@@ -1,5 +1,8 @@
 # 李李仁女裝嘗試跨性別角色 《富都青年》陳澤耀扮聽障者 《迷失安狄》電影短評：從希望走向毀滅
 
+## 正文 { data-search-exclude }
+
+
 文 : [MyVideo 影音編輯室](https://blog.myvideo.net.tw/author/author_99/) 2021-10-14
 
 由導演陳立謙執導的電影《[迷失安狄](https://www.myvideo.net.tw/details/0/338081?utm_source=blog&utm_medium=post&utm_campaign=blog_post_arstinchen-miss-andy_%E8%BF%B7%E5%A4%B1%E5%AE%89%E7%8B%84)》，內容圍繞著一名跨性別者 Andy（[李李仁](https://www.myvideo.net.tw/person/%E6%9D%8E%E6%9D%8E%E4%BB%81_S0001526?utm_source=blog&utm_medium=post&utm_campaign=blog_post_arstinchen-miss-andy_%E6%9D%8E%E6%9D%8E%E4%BB%81) 飾）、外籍移工蘇荷（[林心如](https://www.myvideo.net.tw/person/%E6%9E%97%E5%BF%83%E5%A6%82_S0001618?utm_source=blog&utm_medium=post&utm_campaign=blog_post_arstinchen-miss-andy_%E6%9E%97%E5%BF%83%E5%A6%82) 飾）與聽障少年阿德（[陳澤耀](https://www.myvideo.net.tw/person/%E9%99%B3%E6%BE%A4%E8%80%80_S0002715?utm_source=blog&utm_medium=post&utm_campaign=blog_post_arstinchen-miss-andy_%E9%99%B3%E6%BE%A4%E8%80%80) 飾），三人的生命經歷而展開。​
@@ -37,3 +40,29 @@ Andy 在勇敢以女裝扮相生活後改名為 Evon。蘇荷曾經告訴 Evon�
 -   [林心如](https://blog.myvideo.net.tw/tag/%e6%9e%97%e5%bf%83%e5%A6%82/)
 -   [迷失安狄](https://blog.myvideo.net.tw/tag/%e8%bf%b7%e5%A4%b1%e5%AE%89%e7%8b%84/)
 <!-- tcd_original_link https://blog.myvideo.net.tw/arstinchen-miss-andy/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_李李仁女裝嘗試跨性別角色《富都青年》陳澤耀扮聽障者《迷失安狄_.md                             |
+| Size            | 5250 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

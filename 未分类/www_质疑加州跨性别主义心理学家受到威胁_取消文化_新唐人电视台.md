@@ -1,5 +1,8 @@
 # 质疑加州跨性别主义 心理学家受到威胁
 
+## 正文 { data-search-exclude }
+
+
 ![NTD LOGO](/assets/themes/ntd/images/logo/logo_ntd_amp.png)
 
 ![质疑加州跨性别主义 心理学家受到威胁](https://i.ntdtv.com/assets/uploads/2023/01/IMG_1058-1200x805-2-800x450.jpg)
@@ -32,7 +35,7 @@
 
 安德森说：“我很伤心，我1999年就获得了心理医生执照。作为一名临床心理学家，我的记录无可挑剔。我接受过世界上最好的临床医生的培训。现在，我还监督和培训其他人，我曾经是一名教授。受到这样的攻击，令我非常沮丧。”
 
-## 跨性别辩论
+## 跨性别辩论 { data-search-exclude }
 
 安德森拥有博士学位，是南加州大学心理学博士。
 
@@ -48,7 +51,7 @@
 
 “他们试图打扰我们”，她说，“我真的不确定，我要做什么。这几乎让我退却。我的心理医生执照，也是我赖以维持生计的依凭，可能处于危险之中。这几乎让我沉默了。”
 
-## “这不正常”
+## “这不正常” { data-search-exclude }
 
 在临床心理学方面，安德森专攻创伤、人格障碍、饮食失调和成瘾问题。她见过许多经历身体形象问题的少女，这些少女正在与“新兴的身份认同感”作斗争。
 
@@ -70,7 +73,7 @@
 
 “这让他们感觉很酷，而不认为是患上了精神疾病。”她说。
 
-## 离开加州
+## 离开加州 { data-search-exclude }
 
 安德森斯说，之前，她和她的丈夫就曾考虑离开加州。
 
@@ -92,3 +95,29 @@ _原文[Psychologist Leaves California as License Threatened After Questioning T
 
 本文网址: https://www.ntdtv.com/gb/2023/01/14/a103625045.html
 <!-- tcd_original_link https://www.ntdtv.com/gb/2023/01/14/a103625045.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_质疑加州跨性别主义心理学家受到威胁_取消文化_新唐人电视台.md                             |
+| Size            | 7492 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

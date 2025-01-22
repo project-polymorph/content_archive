@@ -1,5 +1,8 @@
 # 日式ADV/中文 伪娘后宫 steam官中版
 
+## 正文 { data-search-exclude }
+
+
 10个月前更新 [三次郎](https://www.acggw.me/author/1 "三次郎") 18,435 [10](#comments)
 
 为大家带来这款不是一般人冲不下去的日式ADV游戏
@@ -64,3 +67,29 @@ UC网盘： [UC链接](https://drive.uc.cn/s/45b9926f41704)
 
 由 [**OneNav**](https://www.iotheme.cn/?aff= "一为主题-精品wordpress主题") 强力驱动
 <!-- tcd_original_link https://www.acggw.me/23567.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【日式ADV中文】伪娘后宫steam官中版【新作630M】_-_ACG港湾.md                             |
+| Size            | 2681 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

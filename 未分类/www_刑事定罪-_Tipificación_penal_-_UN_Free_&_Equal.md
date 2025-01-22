@@ -1,6 +1,9 @@
 # 对同性关系的刑事定罪
 
-## 行动起来
+## 正文 { data-search-exclude }
+
+
+## 行动起来 { data-search-exclude }
 
 ### **对同性关系的刑事定罪**
 
@@ -14,7 +17,7 @@
 
 联合国经常对同性关系刑罪化表示关切。刑事定罪不仅侵犯基本权利，还使整个社会的偏见合法化，使得人们可能遭受仇恨犯罪、警察虐待、酷刑和家庭暴力。世界卫生组织（世卫组织）和联合国艾滋病毒/艾滋病联合规划署（艾滋病署）指出，刑事定罪还对公共健康，特别是对防止艾滋病毒传播的工作造成严重影响。例如，刑事定罪会让一些感染风险最高的人因担心被视为罪犯而不敢前去接受检测和治疗。对于那些致力于维护男女同性恋、双性恋和跨性别者的人权的人而言，刑事定罪还会使他们面临遭受袭击和恐吓的危险。刑事定罪还助长对着装或行为方式挑战传统性别规范的人的歧视。已发生多起个人因服装、行为举止和说话方式而遭到逮捕或袭击的事件。仇视同性恋和仇视跨性别者的现象普遍存在，各国政府必须更加紧迫地履行其保护男女同性恋、双性恋和跨性别者免遭暴力和歧视的法律职责。废除将同性行为定为刑事犯罪的法律及其他用于惩罚男女同性恋、双性恋和跨性别者的法律，是朝着反对偏见和保护人类生命迈出的重要一步。
 
-## 行动要点
+## 行动要点 { data-search-exclude }
 
 各国：
 
@@ -33,3 +36,29 @@
 
 订阅
 <!-- tcd_original_link https://www.unfe.org/zh/es/know-the-facts/challenges-solutions/criminalization -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_刑事定罪-_Tipificación_penal_-_UN_Free_&_Equal.md                             |
+| Size            | 5257 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 《女孩》影评：一部关于变性舞者的聪明、勇敢的戏剧
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img1.doubanio.com/icon/u123645787-9.jpg)
 
 > 这部屡获殊荣的比利时电影对其主角采取了既怀疑又钦佩的目光。
@@ -41,7 +44,7 @@
 
 ---
 
-## 影片信息
+## 影片信息 { data-search-exclude }
 
 - **导演:** 卢卡斯·德霍特
 - **主演:** 维克托·波尔斯特 / 阿里耶·沃索尔特 / 奥利弗·博达特
@@ -53,3 +56,29 @@
 
 [点击查看更多信息](https://movie.douban.com/subject/30194769/)
 <!-- tcd_original_link https://m.douban.com/movie/review/15368330/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为一篇关于比利时电影《女孩》的影评，电影讲述了一名青少年从男性转变为女性的故事，虽获得多项荣誉，但也面临着性别认同问题的激烈争议。影评者深入探讨了电影对跨性别者经历的描绘，以及其背后引发的社会讨论。电影通过主角劳拉的生活，展现了她在追求成为真正自我的过程中面临的内心挣扎与外部压力。影评还探讨了导演与主演之间的身份认同关系，以及影片在艺术表达上可能的局限与突破。影评中的一道道引用，例如对于电影境界的形容，“在这个丰富、迷离、充满矛盾观点的詹姆斯式世界里”，反映了影片所传递的复杂情感与社会主题。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_《女孩》影评：一部关于变性舞者的聪明、勇敢的戏剧_-_豆瓣.md                             |
+| Size            | 3696 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 几何乡                               |
+| Region          | 比利时                               |
+| Date            | 2018-05-12                                 |
+| Tags            | 变性, 电影影评, 跨性别, 性别认同, 劳拉, 卢卡斯·德霍特, 比利时电影, 电影剧情, 社会讨论, 性别问题                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

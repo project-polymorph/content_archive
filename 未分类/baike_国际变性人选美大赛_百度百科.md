@@ -1,17 +1,20 @@
 # 国际变性人选美大赛
 
+## 正文 { data-search-exclude }
+
+
 ![国际变性人选美大赛](https://bkssl.bdimg.com/resource/lemma/images/5fd55c22db8790899b5d.png)
 
 国际皇后小姐(Miss International Queen)，由芭提雅蒂芬妮表演公司主办。  
 
-## 基本信息
+## 基本信息 { data-search-exclude }
 - **中文名**: 国际变性人选美大赛
 - **外文名**: Miss International Queen
 - **别名**: “国际皇后小姐”变性人选美大赛、世界变性人选美比赛
 - **开始时间**: 2004年
 - **主办单位**: 芭堤雅蒂芬妮表演公司
 
-## 历届回顾
+## 历届回顾 { data-search-exclude }
 - 2007年11月11日，来自泰国的[谭雅娜](https://baike.baidu.com/item/%E8%B0%AD%E9%9B%85%E5%A8%9C) 、巴西的阿丽伊加和菲律宾的贝妮分别获得2007年国际变性人选美大赛的冠军、亚军和季军。
 - 2009年10月31日，来自日本、泰国和巴西的选手分别获得2009年国际变性人选美大赛的冠军、亚军和季军。
 - 2012年11月2日，来自菲律宾的凯文·巴洛特获得2012年国际变性人选美大赛的冠军。
@@ -46,7 +49,7 @@
 ![国际变性人选美大赛](https://bkimg.cdn.bcebos.com/pic/203fb80e7bec54e736d17d06ac618c504fc2d5623c28?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_336)
 ![国际变性人选美大赛](https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2eb938cf785a9bc2628535e5ddc228?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_336)
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 -   [1] [2007世界变性人选美比赛在泰国举行／组图](https://reference/5374558/533aYdO6cr3_z3kATKXeza72MyyQNt6uueCAVOdzzqIPmGapB4DgTZt849Qr6LlkGwaEp5dwbNJaxLj6DUpE7_UPcO0wS7IigzWnF26e)．CCTV.com．2007-11-12
 -   [2] [组图：2012年“国际皇后小姐”变性人选美大赛](https://reference/5374558/533aYdO6cr3_z3kATKXeyqrzZC6VMdmsvOXWVeRzzqIP0XOpX4H3Vox88NIw7vtiWgjEvdZhbpkb2br6C0la7_YRc_JmQ7Uin2v-WjbHyr_h_sdp3owY)．人民网．2012-11-12
 -   [3] [2013国际变性人选美决赛在泰国落幕 三甲出炉热情拥吻](https://reference/5374558/533aYdO6cr3_z3kATKKNmq6lNieVP9z-ur3UB7tzzqIP0XOpX4H3Vox88NIw7vtiWgjEvdZhbpkb2br6C0ha7_YQc_JmQ7Uin2v9UDfDybbj_8dp3owY)．人民网．2013-11-02
@@ -61,3 +64,29 @@
 **编辑次数**: 21次  
 **最近更新**: 2024-09-24
 <!-- tcd_original_link https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E5%8F%98%E6%80%A7%E4%BA%BA%E9%80%89%E7%BE%8E%E5%A4%A7%E8%B5%9B/5374558 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_国际变性人选美大赛_百度百科.md                             |
+| Size            | 8217 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

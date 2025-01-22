@@ -1,5 +1,8 @@
 # 特朗普上任后的十项主要政策
 
+## 正文 { data-search-exclude }
+
+
 ![图源：美联社（胜选时刻）](https://static3.doxue.com/uploads/2025/01/14/d3d202754f0368c209d1259ccddbe5ef.jpg)
 
 **来源：MBAChina**  
@@ -101,3 +104,29 @@
 
 * 文章为作者独立观点，不代表MBAChina立场。采编部邮箱：news@mbachina.com，欢迎交流与合作。
 <!-- tcd_original_link https://www.mbachina.com/html/xw/202411/602562.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_特朗普「上任十件事」：废除出生公民权！全力驱逐非法移民......涉及_.md                             |
+| Size            | 6295 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

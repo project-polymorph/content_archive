@@ -1,10 +1,13 @@
 # 酷儿行动在中国 | Queer Act in China
 
+## 正文 { data-search-exclude }
+
+
 回首过去的数年，LGBT+群体在中国权利的实现历经风雨，尚未见彩虹。不过我们试图以另外一种的眼光来看待这样的进程。正如农作有耕种和收获的季节。希望在过去数年间的奋力耕作，能够在不久的未来，为中国LGBT+群体带来真正的收获。这是一个了解中国LGBT+群体近年来**“行动”**的地图或者索引，不过由于我学习法律，如果较多集中在法律和案例方面，请原谅。
 
 In the last few years, LGBT+ people in China witnessed highs and lows, or we have developed a new perspective on how to views. There are times when you sow, plough and harvest. Hope the seeds they sowed and ploughed in the past few years, will give them a plentiful harvest in the future. Here is a map or list of queer’s act in China. I study law, so please excuse me this map might mostly focus on law and regulations.
 
-## 最近动态 Latest News
+## 最近动态 Latest News { data-search-exclude }
 
 -   On 21 September, CCTV-NEWS reported on gender discrimination in workplaces ([watch the video](http://tv.cctv.com/2019/09/21/VIDExitfWmQoDKo0x0X8Vldz190921.shtml))
     -   **KEY POINTS**
@@ -16,7 +19,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 -   同性伴侣办理意定监护 LGBT Couples File for Voluntary Guardianship ([Coverage](https://news.cgtn.com/news/2019-08-09/LGBT-couples-in-China-file-for-voluntary-guardianship-J15eC8QcrC/index.html))
 -   人大法工委回应同性婚姻合法化 NPC Replied on Legalizing Same-sex Marriage ([coverage](http://www.lawnewscn.com/news/1566362563143298576))
 
-## 领域 Fields
+## 领域 Fields { data-search-exclude }
 
 ### 法律 LAW
 
@@ -41,7 +44,7 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 -   [多元性别教材 Gender Inclusive Textbook](https://book.douban.com/subject/26824319/)
 
-## People and Societies
+## People and Societies { data-search-exclude }
 
 ### People
 
@@ -66,8 +69,34 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 
 [更多 Read more](https://www.chinalgbt.org/organization)
 
-## 一些你点了不会后悔的链接 Useful Link
+## 一些你点了不会后悔的链接 Useful Link { data-search-exclude }
 
 1.  [cnlgbtdata](https://cnlgbtdata.com/): Regulations, Reports, Academic Works
 2.  [HongInternational(虹国际)](http://rainbowun.org): China on SOGIE(Sexual Orientation, Gender Identity and Expression)
 <!-- tcd_original_link https://joancliu.github.io/queerc/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | joancliu_酷儿行动在中国_queerc.md                             |
+| Size            | 4786 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

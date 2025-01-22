@@ -1,5 +1,8 @@
 # UNM 医院被全国调查评为“LGBT 医疗平等领导者”
 
+## 正文 { data-search-exclude }
+
+
 ![横幅-img-mobile](https://hsc.unm.edu/news/_files/unm-logo-print.svg)
 
 ![${替代}](https://hsc.unm.edu/news/news/images/hei-leader-master-print-m1-061419-thmb.jpg)
@@ -56,3 +59,29 @@ Cameron Crandall 博士共同领导了一个为期四年的全卫生系统项目
 
 [新墨西哥州医院获得 Healthgrades 的高排名](../2024/06/hsc-newsroom-post-healthgardes.html)
 <!-- tcd_original_link https://zh-cn.hsc.unm.edu/news/news/unm-hospitals-named-as-leader-in-lgbt-healthcare-equality-by-national-survey.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh-cn_UNM_医院被全国调查评为“LGBT_医疗平等领导者”.md                             |
+| Size            | 5123 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

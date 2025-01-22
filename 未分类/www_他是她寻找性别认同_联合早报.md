@@ -1,5 +1,8 @@
 # 他是她 寻找性别认同
 
+## 正文 { data-search-exclude }
+
+
 #### 蔡玮谦
 
 来源：联合早报  
@@ -112,3 +115,29 @@
 
 Transgender（跨性别）是形容词，不应作为名词（a transgender），因为跨性别只是跨性别者的部分身份，不能代表整个人。Transgender也不应作为过去式（transgendered）使用，因为过去式强调寻找性别认同有个终点，但事实上它是个不间断的旅程。
 <!-- tcd_original_link https://www.zaobao.com.sg/lifestyle/gen/story20210728-1174635 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_他是她寻找性别认同_联合早报.md                             |
+| Size            | 12338 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

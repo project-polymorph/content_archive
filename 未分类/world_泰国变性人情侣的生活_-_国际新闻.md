@@ -1,5 +1,8 @@
 # 泰国变性人情侣的生活
 
+## 正文 { data-search-exclude }
+
+
 ![](https://rs2.huanqiucdn.cn/huanqiucdn.com/huanqiu/image/www/common/200.jpg)
 
 作者：程红恩  
@@ -22,3 +25,29 @@
 版权信息：  
 © 程红恩，版权所有。
 <!-- tcd_original_link https://world.huanqiu.com/article/9CaKrnJI5vg -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_泰国变性人情侣的生活_-_国际新闻.md                             |
+| Size            | 1095 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

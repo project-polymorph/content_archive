@@ -1,6 +1,9 @@
 # 名詞解釋：CD、TS、TG、偽娘… 
 
-## 自由
+## 正文 { data-search-exclude }
+
+
+## 自由 { data-search-exclude }
 
 **發表時間**: Nov 24 Wed 2010 07:55  
 **來源**: [沒有人知道的地方](https://featherseason.pixnet.net/blog/post/13386817)  
@@ -77,3 +80,29 @@
 
 **人氣**: 88502
 <!-- tcd_original_link https://featherseason.pixnet.net/blog/post/13386817 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | featherseason_名詞解釋：CD_-_TS、TG、偽娘…－沒有人知道的地方_-_痞客邦.md                             |
+| Size            | 5450 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

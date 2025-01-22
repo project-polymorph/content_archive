@@ -1,10 +1,13 @@
 # 合法 HRT 已确认列表 - FtM.wiki
 
+## 正文 { data-search-exclude }
+
+
 未更新的医生可能是 **未探索** 或对 跨性别男性 (FtM) 来说无相较 跨性别女性 (MtF) 的特殊之处，具体可查阅参考[MtF的全国HRT资源](https://mtf.wiki/zh-cn/docs/hrt)
 
 MtFwiki列举出的医院不一定有可供FtM/FtX使用的药物，因睾酮类药物货源相对较少、管制相对严格。
 
-## 医院信息
+## 医院信息 { data-search-exclude }
 
 | 省市           | 医院名称                     | 医生姓名         | 备注                                     |
 |----------------|------------------------------|------------------|------------------------------------------|
@@ -19,7 +22,7 @@ MtFwiki列举出的医院不一定有可供FtM/FtX使用的药物，因睾酮类
 
 并在医生帮助下进行 [激素检查](https://ftm.wiki/zh-cn/hrt/monitoring/hormone-check/) 和随访等。
 
-## GnRH 类似物治疗
+## GnRH 类似物治疗 { data-search-exclude }
 
 关于 GnRH 更多可参见 [GnRH 类似物](https://ftm.wiki/zh-cn/hrt/gnrh/ "GnRH 类似物")
 
@@ -88,7 +91,7 @@ _多数情况下，GnRH类似物自费，一月一针，医院常见的“贝依
 
 首次面诊建档后，可线上开具处方邮寄药物（不可邮寄纸质处方）。[详情事宜](https://mp.weixin.qq.com/s/7nkoV6fUlSQtXLBAJa4Klw)
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 - [HRT 概论](https://ftm.wiki/zh-cn/hrt/overview/ "HRT 概论")
 - [注射指南](https://ftm.wiki/zh-cn/hrt/injection-guide/ "注射指南")
@@ -96,3 +99,29 @@ _多数情况下，GnRH类似物自费，一月一针，医院常见的“贝依
 
 编辑时间：2024 年 9 月 28 日
 <!-- tcd_original_link https://ftm.wiki/zh-cn/hrt/confirmed/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ftm_合法HRT_已确认列表_-_FtM.wiki.md                             |
+| Size            | 6221 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性别认同
 
+## 正文 { data-search-exclude }
+
+
 ![保加利亚总统鲁门·拉德夫颁布了一项教育法](https://wx3.sinaimg.cn/orj360/006bQTxmgy1hsp3mybqw9j30m80cijsr.jpg)
 
 🇧🇬🏳️🌈 保加利亚总统鲁门·拉德夫颁布了一项教育法，禁止宣传“与非传统性取向和/或除生物学以外的性别认同有关的思想和观点”。 🫠 欧盟此前曾警告拉德夫不要颁布这项法律，理由是这可能引发针对 LGBT 异常者的“歧视案件”，但似乎没有起到一点作用。 ...[全文](/status/5067815252133192)
@@ -84,3 +87,29 @@
 
 ![图片](https://wx1.sinaimg.cn/orj360/67310886ly1hiacfshe3ej20tt0jkwuf.jpg)
 <!-- tcd_original_link https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%23&isnewpage=1&luicode=20000174&featurecode=10000085 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别认同_-_微博.md                             |
+| Size            | 10339 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

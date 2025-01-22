@@ -1,11 +1,14 @@
 # 温迪·卡洛斯：电子音乐的先驱与跨性别女性艺术家
 
+## 正文 { data-search-exclude }
+
+
 ![](//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wendy_Carlos_HS_Project.jpeg/300px-Wendy_Carlos_HS_Project.jpeg)
 Wendy Carlos 1958.
 
 **温迪·卡洛斯**（英语：Wendy Carlos，1939年11月14日—），旧名**沃尔特·卡洛斯**（英语：Walter Carlos），是一名美国音乐家、作曲家，以其电子音乐作品著名于世。她是一名跨性别女性，出生于[美国](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD "美国")[罗德岛州](https://zh.wikipedia.org/wiki/%E7%BD%97%E5%BE%B7%E5%B2%9B%E5%B7%9E "罗德岛州")[波塔基特市](https://w.index.php?title=%E6%B3%A2%E5%A1%94%E5%9F%BA%E7%89%B9%E5%B8%82&action=edit&redlink=1 "波塔基特市（页面不存在）")。就读于[布朗大学](https://zh.wikipedia.org/wiki/%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6 "布朗大学")，她的研究方向在[音乐](https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90 "音乐")与[物理](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86 "物理")交叉学科。她获[哥伦比亚大学](https://zh.wikipedia.org/wiki/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%A7%E5%AD%A6 "哥伦比亚大学")音乐作曲方向硕士学位。是世界著名的作曲家、电子音乐先驱及大师级人物，也是电子合成器的主要革新者和推广者之一。主要工作及成就集中于电子音乐创作和电影配乐创作等方面，并在电声技术创新和理论研究方面做出突出贡献。代表作品包括《Switched-on Bach》、《Beauty in the Beast》以及《A Clockwork Orange》、《The Shining》等电影的配乐。同时她在[日食](https://zh.wikipedia.org/wiki/%E6%97%A5%E9%A3%9F "日食")[摄影](https://zh.wikipedia.org/wiki/%E6%91%84%E5%BD%B1 "摄影")、[天文学](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%96%87%E5%AD%A6 "天文学")、视觉艺术、[地图](https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9B%BE "地图")制作等方面也有所涉猎。
 
-## 生平
+## 生平 { data-search-exclude }
 
 温蒂·卡洛斯出生于1939年11月14日，6岁开始学习[钢琴](https://zh.wikipedia.org/wiki/%E9%92%A2%E7%90%B4 "钢琴")，曾在10岁时创作《竖笛、手风琴、钢琴三重奏》，并展现出在绘画和科学方面的天赋，她14岁获得Westinghouse Science Fair奖学金。温蒂1962年在[布朗大学](https://zh.wikipedia.org/wiki/%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6 "布朗大学")获得音乐物理学士学位，4年后在[哥伦比亚大学](https://zh.wikipedia.org/wiki/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%A7%E5%AD%A6 "哥伦比亚大学")获得作曲硕士学位。正是在哥大，温蒂在电子乐先锋弗拉基米尔·乌萨切夫斯基（Vladimir Ussachevsky）的引导下走上了电子音乐创作的道路，进入美国第一所电子音乐研究中心——著名的哥伦比亚-普林斯顿电声中心工作。
 
@@ -19,7 +22,7 @@ Wendy Carlos 1958.
 
 接受变性手术也是温蒂精彩人生中不可或缺的一部分。只是这一话题涉及到她的私隐，温蒂从来不愿过多谈起，只有一篇发表在79年《[花花公子](https://zh.wikipedia.org/wiki/%E8%8A%B1%E8%8A%B1%E5%85%AC%E5%AD%90 "花花公子")》杂志上的专访可以做参考。温蒂自己说她在5、6岁时就有了想要成为女孩的念头。大学期间她开始了解相关信息并接受[荷尔蒙](https://zh.wikipedia.org/wiki/%E8%8D%B7%E5%B0%94%E8%92%99 "荷尔蒙")治疗，然后在1972年，成功的接受了变性手术，从此沃尔特变成了温蒂。
 
-## 主要工作及作品简介
+## 主要工作及作品简介 { data-search-exclude }
 
 温蒂·卡洛斯的第一部商业作品是《Moog 900 Series – Electronic Music Systems》，具体来说它并不是一部唱片，而是关于穆格电子琴功能的介绍[^1]。卡洛斯的作品可以大致分为两类：经典曲目的重新演绎和自己创作的音乐作品。
 
@@ -35,7 +38,7 @@ Wendy Carlos 1958.
 
 此外，卡洛斯的爱好十分广泛，除了音乐以外，比较有建树的要算对日蚀的拍摄[^10]。她的这个爱好为专辑《Digital Moonscapes (1984)》提供了创作的灵感[^11]。在这部作品中，卡洛斯尝试了一些先进的电子音乐合成技术，并用电子合成器模拟了一整个交响乐团。她对这些新技术的尝试，在她后续的作品中，如《Beauty in the Beast (1986)》和《Tales of Heaven and Hell (1998)》起到了很大的帮助。
 
-## 作品列表
+## 作品列表 { data-search-exclude }
 
 | 年代  | 作品名称                                      |
 | ----- | ----------------------------------------- |
@@ -60,11 +63,11 @@ Wendy Carlos 1958.
 | 2004  | *Switched-On Bach 2000*                  |
 | 2006  | *Rediscovering Lost Scores, Vol. 1*     |
 
-## 获奖情况
+## 获奖情况 { data-search-exclude }
 
 温蒂·卡洛斯因1968年发行的《Switch-On Bach》而一举成名，也正是因为这张专辑，温蒂荣获1969年格莱美三项大奖：最佳演奏奖、最佳古典专辑奖、最佳古典录制技术奖。
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 1. [存档副本](http://www.discogs.com/Walter-Carlos-Moog-900-Series-Electronic-Music-Systems/release/1820482). \[2012-11-13\]. （原始内容[存档](https://web.archive.org/web/20110111084833/http://www.discogs.com/Walter-Carlos-Moog-900-Series-Electronic-Music-Systems/release/1820482)于2011-01-11）.
 2. [Book Review: Keyboard Presents Synth Gods, Edited by Ernie Rideout](http://www.seattlepi.com/lifestyle/blogcritics/article/Book-Review-Keyboard-Presents-Synth-Gods-Edited-1306589.php). seattlepi.com. 2011-03-23 \[2012-11-13\]. （原始内容[存档](https://web.archive.org/web/20140308220438/http://www.seattlepi.com/lifestyle/blogcritics/article/Book-Review-Keyboard-Presents-Synth-Gods-Edited-1306589.php)于2014-03-08）.
@@ -78,3 +81,29 @@ Wendy Carlos 1958.
 10. [Wendy Carlos Eclipse Page](http://www.wendycarlos.com/eclipse.html). \[2012-11-13\]. （原始内容[存档](https://web.archive.org/web/20070509143924/http://www.wendycarlos.com/eclipse.html)于2007-05-09）.
 11. [Wendy Carlos, WC's DM Notes](http://www.wendycarlos.com/+dmci.html). \[2012-11-13\]. （原始内容[存档](https://web.archive.org/web/20210205044506/http://www.wendycarlos.com/+dmci.html)于2021-02-05）。
 <!-- tcd_original_link https://zh.wikipedia.org/zh-cn/%E6%B8%A9%E8%92%82%C2%B7%E5%8D%A1%E6%B4%9B%E6%96%AF -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_温蒂·卡洛斯-_维基百科，自由的百科全书.md                             |
+| Size            | 15535 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

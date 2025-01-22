@@ -1,5 +1,8 @@
 # 实施变性手术者须年满20岁
 
+## 正文 { data-search-exclude }
+
+
 **来源**：内蒙古新闻网  
 **时间**：09-11-21 13:34  
 
@@ -35,3 +38,29 @@
 
 联系方式：0471--4811341、4811342、4811343。
 <!-- tcd_original_link https://inews.nmgnews.com.cn/system/2009/11/21/010327243_04.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | inews_实施变性手术者须年满20岁_-_内蒙古新闻.md                             |
+| Size            | 2541 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

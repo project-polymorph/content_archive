@@ -1,5 +1,8 @@
 # 男跨女 | 明光社
 
+## 正文 { data-search-exclude }
+
+
 關注生命倫理 正視社會歪風
 
 ---
@@ -53,3 +56,29 @@
 
 政府在2017年6月發表了有關性別承認的諮詢文件，徵詢各界對法律上性別承認等多個議題的意見，諮詢期於同年的12月31日正式結束。社會各界對此意見不一，爭議相當激烈。本文將整理各界提出的觀點與論據，讓讀者可更全面地掌握是次爭議。
 <!-- tcd_original_link https://www.truth-light.org.hk/%E9%97%9C%E9%8D%B5%E5%AD%97/%E7%94%B7%E8%B7%A8%E5%A5%B3 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男跨女_-_明光社.md                             |
+| Size            | 4615 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

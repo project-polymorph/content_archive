@@ -1,6 +1,9 @@
 # 性别认同障碍相关视频汇总
 
-## 视频列表
+## 正文 { data-search-exclude }
+
+
+## 视频列表 { data-search-exclude }
 
 ### 错位人生——不匹配的躯壳
 - **作者**: 凌曦baby
@@ -76,3 +79,29 @@
 
 **（内容省略，继续以此格式列出下面的视频...）**
 <!-- tcd_original_link https://m.bilibili.com/search?keyword=%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8D&from_source=article -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别认同障碍-哔哩哔哩.md                             |
+| Size            | 3593 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

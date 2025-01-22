@@ -1,5 +1,8 @@
 # 日本「男大姐」艺人为何超受欢迎？日本演艺圈伪娘文化解密
 
+## 正文 { data-search-exclude }
+
+
 原创 2022-05-02 04:36 · [乐吃购日本](https://www.letsgojp.cn/archives/503461/)
 
 **在拥有多元价值观的社会中，性别流动议题逐渐被重视。日本演艺圈盛行已久伪娘文化、以及多位活跃的男大姐（オネエ系）艺人都十分受欢迎，尽管经常被贴上谐星标签，但他们幽默的谈吐、展现的风度都让人喜爱，勇敢展现不受性别匡限的美丽。这篇就来介绍日本的伪娘、男大姐艺人文化！**
@@ -78,3 +81,29 @@ GENKING本名田中元辉，原本是经营Instagram的网红，经常在社群�
 
 [日本「男大姐」艺人为何超受欢迎？日本演艺圈伪娘文化解密 | 乐吃购！日本](https://www.letsgojp.cn/archives/503461/)
 <!-- tcd_original_link https://www.toutiao.com/article/7086113863485162017/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_日本「男大姐」艺人为何超受欢迎？日本演艺圈伪娘文化解密_-_今日头条.md                             |
+| Size            | 10488 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,19 +1,22 @@
 # LGBT权利
 
+## 正文 { data-search-exclude }
+
+
 世界各地都有许多人因为他们的恋人、外貌或身分认同而面临暴力与不平等——有些地方还包括酷刑甚至处决。性取向和性别认同是人们自我认同的一部分，绝不该导致歧视或虐待。人权观察致力于维护女同性恋、男同性恋、双性恋和跨性别人士的权利，与代表多元认同与议题的社运人士并肩奋斗。我们记录并揭发全球各地基于性取向和性别认同的人权侵害，包括：酷刑、杀害和处决，基于不公正法律的逮捕，不平等待遇，言论审查，医疗虐待，就医、就业和住房方面的歧视，家庭暴力，虐待儿童，以及剥夺家庭权利与承认。我们倡导保障每个人尊严的法律和政策。我们致力于打造一个人人都能充分享有其所有权利的世界。
 
 © 2013 路透社
 
 ![LGBT Rights Image](/sites/default/files/styles/topic/public/topic_image/lgbt.jpg?itok=SegrXiGp)
 
-## 欧洲和中亚
+## 欧洲和中亚 { data-search-exclude }
 
 ![Illustration of a hand pinning labels onto people](/sites/default/files/styles/16x9_large/public/media_2024/07/202407eca_russia_foreignagent_illustration.jpg?h=c3985272&itok=D62OWqWo)
 
 **时间**: 2024年 08月 7日  
 **来源**: [俄罗斯：利用压迫性法律镇压公民自由](/zh-hans/news/2024/08/07/russia-repressive-laws-used-crush-civic-freedoms)
 
-## 亚洲
+## 亚洲 { data-search-exclude }
 
 ![So Seong-wook, left, and Kim Yong Min leave the Supreme Court building in Seoul, South Korea, July 18, 2024.](/sites/default/files/styles/16x9_large/public/media_2024/07/202407lgbt_south%20korea_same_sex_partnership.jpg?h=7fae167d&itok=yH9nJBqP)
 
@@ -37,7 +40,7 @@
 **姓名**: 明奇・沃登  
 **职务**: 全球倡议主任  
 
-## 影片
+## 影片 { data-search-exclude }
 
 [观看更多 影片](/zh-hans/video-photos)
 
@@ -45,7 +48,7 @@
 
 **视频标题**: 日本：跨性别人士遭强制绝育
 
-## 报告
+## 报告 { data-search-exclude }
 
 [更多报告](/zh-hans/publications?topic%5B0%5D=9691)
 
@@ -54,7 +57,7 @@
   **报告**: 中国对LGBT人士的扭转治疗  
   ![Main Image for China Report](/sites/default/files/styles/square/public/multimedia_images_2017/201711asia_china_main.jpeg?itok=scLCe6Z2)
 
-## 新闻
+## 新闻 { data-search-exclude }
 
 - **时间**: 2024年 06月 18日  
   **标题**: [泰国同性婚姻的胜利](/zh-hans/news/2024/06/18/victory-same-sex-marriage-thailand)  
@@ -110,3 +113,29 @@
 
 Human Right Watch defends the rights of people in 90 countries worldwide, spotlighting abuses and bringing perpetrators to justice.
 <!-- tcd_original_link https://www.hrw.org/zh-hans/topic/lgbtquanli -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBT权利.md                             |
+| Size            | 8006 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

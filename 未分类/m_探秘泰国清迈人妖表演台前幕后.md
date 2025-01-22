@@ -1,5 +1,8 @@
 # 探秘泰国清迈人妖表演台前幕后
 
+## 正文 { data-search-exclude }
+
+
 ![人妖表演](//rs2.huanqiucdn.cn/huanqiucdn/m/share.jpg)
 
 ![人妖舞蹈演员Lily向日本游客献吻](//himg2.huanqiucdn.cn/attachment2010/2012/0917/20120917045608136.jpg?imageView2/2/w/750)
@@ -38,3 +41,29 @@
 **标签**: 人妖, 清迈, 表演, 第三性别  
 **版权**: CFP
 <!-- tcd_original_link https://m.huanqiu.com/gallery/9CaKrnQgLZl -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_探秘泰国清迈人妖表演台前幕后.md                             |
+| Size            | 4426 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

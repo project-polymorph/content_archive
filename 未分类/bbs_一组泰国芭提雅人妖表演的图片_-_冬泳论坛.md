@@ -1,5 +1,8 @@
 # 一组泰国芭提雅人妖表演的图片
 
+## 正文 { data-search-exclude }
+
+
 ![](static/image/common/hot_3.gif)
 
 **[中国冰人](http://home.china-ws.org/space-uid-5361.html)** _当前离线_
@@ -32,3 +35,29 @@ _本帖最后由 中国冰人 于 2012-3-24 10:14 编辑_
 -   • [绝美的蝴蝶图片](http://bbs.china-ws.org/thread-730289-1-1.html "绝美的蝴蝶图片")
 -   • [再次敲响警钟！3名中国小伙泰国无视警示下海 1人丧生2人获救](http://bbs.china-ws.org/thread-730385-1-1.html "再次敲响警钟！3名中国小伙泰国无视警示下海 1人丧生2人获救")
 <!-- tcd_original_link http://bbs.china-ws.org/thread-452179-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | bbs_一组泰国芭提雅人妖表演的图片_-_冬泳论坛.md                             |
+| Size            | 2676 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

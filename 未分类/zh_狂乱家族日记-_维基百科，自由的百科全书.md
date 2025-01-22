@@ -1,5 +1,8 @@
 # 狂乱家族日记
 
+## 正文 { data-search-exclude }
+
+
 **假名**  
 きょうらんかぞくにっき
 
@@ -93,15 +96,15 @@ x6suke
 
 《**狂乱家族日记**》是[日日日](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%97%A5%E6%97%A5)在[Fami通文库](https://zh.wikipedia.org/wiki/Fami%E9%80%9A%E6%96%87%E5%BA%AB)出版的[轻小说](https://zh.wikipedia.org/wiki/%E8%BC%95%E5%B0%8F%E8%AA%AA)。插画家为[x6suke](https://zh.wikipedia.org/wiki/X6suke)。第六届[Enterbrain](https://zh.wikipedia.org/wiki/Enterbrain)“Entame大奖”佳作。
 
-## 概要
+## 概要 { data-search-exclude }
 
 每个章节一开始都是从家族间的交换日记“狂乱家族日记”选出的文章，借此说明家族心情并展开剧情。帝架不能写字，口述并由凰火代笔。轮到月香时则为月香观察日记。
 
-## 故事
+## 故事 { data-search-exclude }
 
 一千年前出现的破坏化身“阎祸”在灭亡前丢下一句“一千年后我的孩子将会将绝望带给世界”。千年过后，靠着DNA鉴定选出数名可能是“阎祸子孙”的人类或生物。为了确定谁是“阎祸之子”，拟定了“和乐家族计划”──将所有可能是“阎祸之子”的人结合成一个家庭共同生活。对策局对策一课行动部队队长乱崎凰火以“父亲”的身份被强制参加。
 
-## 登场人物
+## 登场人物 { data-search-exclude }
 
 ### 乱崎一家
 
@@ -226,7 +229,7 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 
 ---
 
-## 用语
+## 用语 { data-search-exclude }
 
 **大日本帝国**  
 架空的国家，世界最大国，影响力强大。首都在以前被称做东京的地方。
@@ -251,7 +254,7 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 
 ---
 
-## 出版书籍
+## 出版书籍 { data-search-exclude }
 
 **集数**  
 [![日本](//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png)](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC) [ENTERBRAIN](https://zh.wikipedia.org/wiki/ENTERBRAIN)  
@@ -322,7 +325,7 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 
 - 狂乱家族日記アニメコンプリートブック　[ISBN 978-4-7577-4587-2](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9784757745872)
 
-## 电视动画
+## 电视动画 { data-search-exclude }
 
 ### 制作团队
 
@@ -416,11 +419,11 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 | [日本全域](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9C%8B%E6%94%BE%E9%80%81) | [AT-X](https://zh.wikipedia.org/wiki/AT-X) | 2008年4月21日 - 10月13日 | 星期一 9:30 - 10:00 | [CS放送](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8D%AB%E6%98%9F%E7%94%B5%E8%A6%96%E5%B9%BF%E6%92%AD) |
 |  | [万代频道](https://zh.wikipedia.org/wiki/%E8%90%AC%E4%BB%A3%E9%A0%BB%E9%81%93) | 2008年4月25日 - 10月17日 | 星期五 12:00 更新 | [网络广播](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E5%BB%A3%E6%92%AD) |
 
-## 广播剧
+## 广播剧 { data-search-exclude }
 
 - **凶华様　大地に立つ！！**　以CD形式发售。
 
-## 外部链接
+## 外部链接 { data-search-exclude }
 
 - [ManiaX55](http://maniax55.blogspot.com/) （[页面存档备份](//web.archive.org/web/20191204050122/http://maniax55.blogspot.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）插画家个人网站
 - [FB Online](http://www.enterbrain.co.jp/fb/index.html) （[页面存档备份](//web.archive.org/web/20160305005126/http://www.enterbrain.co.jp/fb/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86)）Fami通文库网站
@@ -430,3 +433,29 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 
 检索自“[
 <!-- tcd_original_link https://zh.wikipedia.org/zh-cn/%E7%8B%82%E4%BA%82%E5%AE%B6%E6%97%8F%E6%97%A5%E8%A8%98 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_狂乱家族日记-_维基百科，自由的百科全书.md                             |
+| Size            | 44774 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 刘著伪娘易性癖的心理分析
 
+## 正文 { data-search-exclude }
+
+
 快乐男声正如火如荼地唱响，最红的选手人称“著姐”——他原名刘著，四川音乐学院的学生，他是个男孩子，却因化烟熏妆、穿蓝色丝袜和高跟鞋而引起人们的关注。不论在舞台上还是在生活中，刘著的声音、打扮都是一个活脱脱的女生。连评委都当面怀疑：“是我看错了，还是你参加错了节目。”“你到底是男生还是女生?” 网友称刘著为“伪娘”，“伪娘”一词来自日本，指的是本是男儿身，但容貌、穿着、动作、声音等各方面都像极了女孩。伪娘是一种心理疾病吗?伪娘是不是同性恋?
 
 “著姐”是易性癖
@@ -14,10 +17,36 @@
 
 易性癖产生的原因还不十分清楚，传统认为与其幼年时期的生活经历有关。如有的父母生了个男孩，却偏偏想要女孩，于是违背客观事实，按照自己的意愿去打扮、教育孩子，使孩子的性别认知心理被扭曲而导致易性癖。目前学术界推测易性癖和小时候的生长环境有关，比如父母把男孩当女孩养等。 但是，也有易性癖者幼年期受过父母正确的性别教育，女孩穿女性化的服饰且被父母教育表现文雅温柔的一面，男孩穿男性化的服饰也被父母教育表现勇敢大胆的一面，但是易性癖者本人拒绝接受父母的性别认知教育，坚决要求内外都表现出异性化喜好的特点，因此，传统认为易性癖者与父母幼年性别教育不当的说法其实是不全面的。目前国外有个别科学实验已发现部分易性癖者的易性癖倾向与大脑组织结构有关。还有另一个说法，认为胎儿在母体妊娠期内激素分泌不当，导致先天易性癖。
 
-## 标签
+## 标签 { data-search-exclude }
 - 易性癖
 - 心理常识
 - 性心理
 
 © 2004-2025 [广州市慧苑心理咨询有限公司](https://www.huiyn.com) [粤ICP备15115266号-1](https://beian.miit.gov.cn)
 <!-- tcd_original_link https://www.huiyn.com/%E5%88%98%E8%91%97%E4%BC%AA%E5%A8%98%E6%98%93%E6%80%A7%E7%99%96%E7%9A%84%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_刘著伪娘易性癖的心理分析.md                             |
+| Size            | 6111 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

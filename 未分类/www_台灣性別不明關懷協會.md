@@ -1,6 +1,9 @@
 # 性别不明关怀协会活动记录
 
-## 最新资讯 Lastest News
+## 正文 { data-search-exclude }
+
+
+## 最新资讯 Lastest News { data-search-exclude }
 
 ### 2025/01/12 活动预告/从误解到理解：跨性别女同志与顺性别女同志的真心话大冒险
 性别不明关怀协会与淑女俱乐部首次合作，我们来聊聊女同志这件事！你知道「跨性别女同志」吗？有人说「跨性别女同志」不是女同志，到底谁可以定义谁是或不是女同志，让我们在跨性别女同志与顺性别女同志的对谈中，一...
@@ -81,3 +84,29 @@ https://www.cna.com.tw/news/aipl/202310120162.aspx （中央社记者林敬殷�
 
 ![停留在房间](https://pixel.wp.com/g.gif?v=ext&blog=73773366&post=0&tz=8&srv=www.istscare.org&j=1%3A14.1&host=www.istscare.org&ref=&fcp=0&rand=0.7748021324538772)
 <!-- tcd_original_link https://www.istscare.org/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_台灣性別不明關懷協會.md                             |
+| Size            | 5911 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

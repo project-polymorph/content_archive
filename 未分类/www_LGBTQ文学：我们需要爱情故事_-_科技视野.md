@@ -1,5 +1,8 @@
 # LGBTQ文学：我们需要爱情故事
 
+## 正文 { data-search-exclude }
+
+
 2024年09月30日 07:39
 
 ![LGBTQ文学](https://agroecon.com/wp-content/uploads/2024/09/ScreenShot2024-09-28at10.12.09AM.png)
@@ -70,3 +73,29 @@ LGBTQ文学是Readers and Book Lovers系列，专门讨论对女同性恋、男�
 - [喝茶和喝咖啡的人争相以13英镑的价格购买Ninja的新旅行杯，售价30英镑](https://agroecon.com/archives/145660 "Permalink to: 喝茶和喝咖啡的人争相以13英镑的价格购买Ninja的新旅行杯，售价30英镑")
 - [城市希望扩大预算，现场音乐基金的接受者](https://agroecon.com/archives/145671 "Permalink to: 城市希望扩大预算，现场音乐基金的接受者")
 <!-- tcd_original_link https://www.agroecon.com/archives/41204 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBTQ文学：我们需要爱情故事_-_科技视野.md                             |
+| Size            | 15512 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

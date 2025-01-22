@@ -1,5 +1,8 @@
 # 年少成名，无性别服饰品牌bosie的喜与忧
 
+## 正文 { data-search-exclude }
+
+
 原创 赞 22 收藏 18 评论 11  
 发布于 2023-02-16
 
@@ -221,3 +224,29 @@ Bosie创始人刘光耀曾这样宣明：
 
 本文系数英原创，未经允许不得转载。授权事宜请至数英微信公众号(ID: digitaling) 后台授权，侵权必究。
 <!-- tcd_original_link https://www.digitaling.com/articles/892912.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_年少成名，无性别服饰品牌bosie的喜与忧_-_数英网.md                             |
+| Size            | 23921 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性別觀察｜宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界
 
+## 正文 { data-search-exclude }
+
+
 ![性別觀察｜宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界](https://womany.net/cdn-cgi/image/w=1119,f=auto,fit=scale-down/https://castle.womany.net/images/articles/27468/cf5b55e143d1a1597d048b8e6a0baa7a.png)
 
 **來源**: 性別力 Gender Power   
@@ -29,7 +32,7 @@
 
 ---
 
-## 性別只能分男女？科學研究結果不這麼認為——
+## 性別只能分男女？科學研究結果不這麼認為—— { data-search-exclude }
 
 可能很多人會覺得，將性別分成男女是最最基礎的生理常識。比如，女性的性染色體是 XX，而男性的性染色體是 XY。
 
@@ -64,7 +67,7 @@
 
 ---
 
-## 非二元性別聽起來陌生，但已呈現出一種趨勢
+## 非二元性別聽起來陌生，但已呈現出一種趨勢 { data-search-exclude }
 
 世界各地正呈現出這樣一種趨勢，性別變得越來越自由，非二元性別正在獲得越來越多的支持。
 
@@ -115,7 +118,7 @@ Facebook 於 2014 年給用戶設置了 56 個性別選項，其中就包括非�
 
 ---
 
-## 如何在性別議題上，做到尊重差異，包容多元？
+## 如何在性別議題上，做到尊重差異，包容多元？ { data-search-exclude }
 
 對於別人，我們如何做到不歧視任何一種性別？
 
@@ -129,7 +132,7 @@ Facebook 於 2014 年給用戶設置了 56 個性別選項，其中就包括非�
 
 ---
 
-## 對於自己，我們如何從既定性別帶來的束縛中解放出來？
+## 對於自己，我們如何從既定性別帶來的束縛中解放出來？ { data-search-exclude }
 
 每個人都是自己的性別專家（everyone is the expert of their own gender）。只要活在世界上，性別就是一種體驗，而每一個人的體驗是不同的，每個人都有他自己的故事。
 
@@ -166,3 +169,29 @@ Facebook 於 2014 年給用戶設置了 56 個性別選項，其中就包括非�
 - Wild, HA, Barrett, SE, Spence, MJ, O'Toole, AJ, Cheng, YD, & Brooke, J. (2000). Recognition and sex categorization of adults' and children's faces: Examining performance in the absence of sex-stereotyped cues. Journal of Experimental Child Psychology, 77, 269– 291. 
 - Winter, S. (2012) Lost in transition: Transgender people, rights and vulnerability in the Asia-Pacific Region. Thailand: UNDP Asia-Pacific Regional Centre.
 <!-- tcd_original_link https://womany.net/read/article/27468 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | womany_宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界_-_女人迷.md                             |
+| Size            | 14150 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

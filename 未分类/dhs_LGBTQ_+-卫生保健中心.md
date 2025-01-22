@@ -1,12 +1,15 @@
 # LGBTQ + 卫生保健中心
 
+## 正文 { data-search-exclude }
+
+
 ![保健](https://dhs.lacounty.gov/harbor-ucla-medical-center/wp-content/uploads/sites/31/2020/07/dhs-logo-negative.png)
 
-## 患者信息
+## 患者信息 { data-search-exclude }
 
 感谢您信任我们的关心。 放心：您的健康和幸福是我们的重中之重。 我们的员工和医疗团队致力于确保您和您的家人安全，参与，受到尊重和照顾。
 
-## 标头标题装饰LGBTQ +
+## 标头标题装饰LGBTQ + { data-search-exclude }
 
 **卫生服务部尊重并支持LGBTQ +患者。**
 
@@ -45,7 +48,7 @@
 
 [为您的访问做准备](/zh-CN/%E4%BF%9D%E5%81%A5%E4%B8%AD%E5%BF%83/%E6%82%A3%E8%80%85%E4%BF%A1%E6%81%AF/%E4%B8%BA%E6%82%A8%E7%9A%84%E8%AE%BF%E9%97%AE%E5%81%9A%E5%87%86%E5%A4%87/)
 
-## 联系我们
+## 联系我们 { data-search-exclude }
 
 星期一到星期五  
 7：30 AM到5：30 PM  
@@ -61,3 +64,29 @@
 [洛杉矶综合医疗中心 »](https://dhs.lacounty.gov/zh-CN/%E5%B0%86%E5%86%9B/)  
 [Olive View-UCLA医疗中心»](https://dhs.lacounty.gov/zh-CN/%E5%A5%A5%E5%88%A9%E7%BB%B4%E5%B0%A4/)
 <!-- tcd_original_link https://dhs.lacounty.gov/zh-CN/%E4%BF%9D%E5%81%A5%E4%B8%AD%E5%BF%83/%E6%82%A3%E8%80%85%E4%BF%A1%E6%81%AF/%E4%B8%BA%E6%82%A8%E7%9A%84%E8%AE%BF%E9%97%AE%E5%81%9A%E5%87%86%E5%A4%87/LGBTQ/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | dhs_LGBTQ_+-卫生保健中心.md                             |
+| Size            | 4343 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

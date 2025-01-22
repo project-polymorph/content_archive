@@ -1,5 +1,8 @@
 # 跨性别者如何将嗓音女性化？效果自然吗，有什么后遗症？
 
+## 正文 { data-search-exclude }
+
+
 ![avatar](/statics/images/avatar/20151202094159664.jpg)
 
 **作者：汪月明**  
@@ -87,3 +90,29 @@ Copyright © 2008-2023 非常爱美®
 **官方微信**  
 ![非常爱美微信公众号](/statics/cxt/img/wechat.jpg)
 <!-- tcd_original_link http://www.verym.com/gonglve/9882.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别者如何将嗓音女性化？效果自然吗，有什么后遗症？_-_非常爱美网.md                             |
+| Size            | 4257 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 不要信（多余的人）影评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u2528189-27.jpg)
 
 异装癖的故事，真实再现生活隐蔽的一面，导演的本意即在此吧。
@@ -14,7 +17,7 @@
 
 ---
 
-## 影片信息
+## 影片信息 { data-search-exclude }
 
 - **影片名称**: 多余的人
 - **导演**: 莎里·斯宾厄·伯曼 / 罗伯特·帕西尼
@@ -27,3 +30,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/10214324?from=subject -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为对电影《多余的人》的影评，探讨了影片中异装癖的主题和角色。影评分析了异装癖者的特点以及与性兴奋的关系，指出不少异装癖者在家庭中扮演传统角色，与社会关系复杂。影评人通过影片中的角色反思人性和生活选择，强调小人物的真实愿望与对艺术的热爱。最后影评人思考了自己年龄增长后的情感与人生选择，并在评论中引述了影片中较具启发性的话语，如“提高你的灵魂”。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_不要信-_多余的人_-_豆瓣.md                             |
+| Size            | 2325 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 美国 / 法国                               |
+| Date            | 2010-07-30                                 |
+| Tags            | 多元性别, 异装癖, 电影影评, 性别认同, 人性反思, 多余的人, 生活选择, 艺术热爱, 小人物, 性别多样性                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

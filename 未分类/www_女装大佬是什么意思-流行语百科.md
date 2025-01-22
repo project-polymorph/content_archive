@@ -1,5 +1,8 @@
 # 女装大佬
 
+## 正文 { data-search-exclude }
+
+
 女装大佬，网络流行词，也就是穿女装的男人。这个词出现在二次元中，是指扮女装技术很高的男人。词语来源该词最早出自2016年的时候，出自二次元中，尤其是cosplay中常常会有男生反串cos女性动漫人物的现象，“大佬”一词本就是二次元对一些大神和大大的称呼，新人我们称之为“萌新”。 
 
 发展经过除了“女装大佬”一词，其实说到扮女装的大佬们，网络上还有很多形容他们的相关流行语，比如“大屌萌妹”，也被用作是“大雕萌妹”，还有大家常见的“这么可爱一定是男孩子”一词。受到二次元文化的影响， 不少网友都开始对身穿女装的男性感兴趣，女装大佬、伪娘等词汇逐渐成为了大家关注的焦点。引用示例美国人以有雀斑为可爱，日本以虎牙为可爱，法国以长腿为可爱，唯独你们整日向女装大佬势力低头。女装大佬本词条是多义词，共2个义项展开？
@@ -9,22 +12,22 @@
 
 下载次数：0  
 
-## 词条信息
+## 词条信息 { data-search-exclude }
 
 ![用户头像](style/default/user_l.jpg)  
 **创建者：** [1782001039](index.php?user-space-2350.html)  
 **浏览次数：** 21411 次  
 **更新时间：** 2019-06-08  
 
-## 标签
+## 标签 { data-search-exclude }
 
 暂无标签
 
-## 同义词
+## 同义词 { data-search-exclude }
 
 暂无同义词
 
-## 相关词条
+## 相关词条 { data-search-exclude }
 
 - [6666](index.php?doc-innerlink-6666 "6666")
 - [退休预备员](index.php?doc-innerlink-%E9%80%80%E4%BC%91%E9%A2%84%E5%A4%87%E5%91%98 "退休预备员")
@@ -33,3 +36,29 @@
 - [古月廴聿的终结](index.php?doc-innerlink-%E5%8F%A4%E6%9C%88%E5%BB%B6%E8%81%BF%E7%9A%84%E7%BB%88%E7%BB%93 "古月廴聿的终结")
 - [丧尸信心](index.php?doc-innerlink-%E4%B8%A7%E5%B0%B8%E4%BF%A1%E5%BF%83 "丧尸信心")
 <!-- tcd_original_link http://www.lxybaike.com/index.php?doc-view-5126.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女装大佬是什么意思-流行语百科.md                             |
+| Size            | 2025 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

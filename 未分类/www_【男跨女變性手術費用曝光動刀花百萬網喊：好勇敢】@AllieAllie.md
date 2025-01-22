@@ -1,5 +1,8 @@
 # 男跨女变性手术费用曝光 动刀花百万网喊：好勇敢
 
+## 正文 { data-search-exclude }
+
+
 【男跨女变性手术费用曝光 动刀花百万网喊：好勇敢】[@AllieAllie](https://www.youtube.com/@AllieAllie)
 
 ![Allie](https://yt3.ggpht.com/-D-qrz_ABRaSEsqOo43UCb5uaHbn-ic4u2ItkGoPSc-_moCVzjDMOJll00k_x2A683WrAeECIEo=s48-c-k-c0x00ffffff-no-rj)
@@ -8,7 +11,7 @@
 - **发布时间**: Jul 8, 2024
 - **标签**: [#变性](https://www.youtube.com/hashtag/%E8%AE%8A%E6%80%A7) [#整容](https://www.youtube.com/hashtag/%E6%95%B4%E5%AE%B9) [#创作授权](https://www.youtube.com/hashtag/%E5%89%B5%E4%BD%9C%E6%8E%88%E6%AC%8A)
 
-## 描述
+## 描述 { data-search-exclude }
 
 **真的是天使在人间!! (橘子编)** [#创作授权](https://www.youtube.com/hashtag/%E5%89%B5%E4%BD%9C%E6%8E%88%E6%AC%8A) 【爱里 ALLIE】  
 👉 【爱里】从60万开始，变正妹的全攻略（变性教学）[观看视频](https://www.youtube.com/watch?v=VApMSbuyuCY&t=0s)   
@@ -27,13 +30,13 @@
 👉 超人气新媒体 Supermedia&Crespark ℹ️ 官方网站 [https://www.supermedia.cool/](https://www.supermedia.cool/)  
 ℹ️ 客服信箱 service@supermedia.cool 
 
-## 评论
+## 评论 { data-search-exclude }
 - **36 Likes**
 - **Comments**: 5
 - **Top comments**: 
   - 真的是天使在人间!! (橘子编)
 
-## 相关视频
+## 相关视频 { data-search-exclude }
 - [精华]女神降临！她比女生更吸睛！揭开神秘变性手术过程 - 1.5M views 3 years ago
 - 变装皇后妮妃雅：我的闺蜜老妈｜公视 誰來晚餐12-16 - 877K views Streamed 4 years ago
 - Podcast EP22｜变装不变性 - Ellery @elleryprescott - 44K views 7 months ago
@@ -42,3 +45,29 @@
 
 **备注**: 本内容聚焦于变性手术及相关话题，来源于YouTube视频及其评论。
 <!-- tcd_original_link https://www.youtube.com/watch?v=yzb-UycU1eo -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【男跨女變性手術費用曝光動刀花百萬網喊：好勇敢】@AllieAllie.md                             |
+| Size            | 2742 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

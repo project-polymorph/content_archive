@@ -1,5 +1,8 @@
 # 跨性別職場歧視妞妞案 - 伴盟跨性別資訊平台
 
+## 正文 { data-search-exclude }
+
+
 ![](https://assets.tapcpr.org/transgender/2021/12/截圖-2021-12-20-上午3.04.44-1024x801.png)
 
 跨性別者妞妞於2019年求職時，要求使用公司女廁卻遭拒絕，最後甚至不予錄用。該案在台灣伴侶權益推動聯盟（簡稱：伴盟）義務律師許秀雯、謝孟釗、潘天慶的協助下，向台北市勞動局提起性別歧視申訴，最後裁定性別歧視成立，公司遭罰30萬元，公司不服提起訴願遭駁回，再提行政訴訟，2021年5月27日台北高等行政法院宣判公司敗訴，該公司未再上訴，目前判決已確定。
@@ -36,3 +39,29 @@
 
 - 2024-08-24
 <!-- tcd_original_link https://transgender.tapcpr.org/archives/1588 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | transgender_跨性別職場歧視妞妞案_-_台灣伴侶權益推動聯盟.md                             |
+| Size            | 4231 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

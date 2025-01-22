@@ -1,5 +1,8 @@
 # MTF
 
+## 正文 { data-search-exclude }
+
+
 ![MTF](https://img9.doubanio.com/view/elanor_image/raw/public/MJV892V4.jpg)
 
 来自: [西34街の九灵 (青岛)](https://www.douban.com/people/227354844/)  
@@ -7,7 +10,7 @@
 更新时间: 2023-09-14 20:31:30  
 关注人数: 1  
 
-## 来源
+## 来源 { data-search-exclude }
 
 来自：豆瓣广播  
 [philokimia的广播：](https://www.douban.com/people/46979882/status/3793219716/)
@@ -83,14 +86,40 @@
 
 ---
 
-## 标签
+## 标签 { data-search-exclude }
 
 - MTF  
 
-## 作者  
+## 作者   { data-search-exclude }
 西34街の九灵  
 
-## 版权  
+## 版权   { data-search-exclude }
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/doulist/149125375/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件记录了一位跨性别女性（MTF）在豆瓣平台上的个人生活与社交情况，包含了她的个人资料、关注人数，以及一些与她相关的评论和讨论。文章展示了她在跨性别身份上的思考和感受，同时还涉及了与她相关的电影评论和小组讨论，体现了社会对跨性别者的不同看法与理解。例如，评论中提到了一部名为《人生密密缝》的电影，并对其进行了场景分析，探讨了电影中跨性别角色的内心世界和社会环境。文章中还包含了与MTF相关的个人问题和群体讨论，反映了跨性别者面对的社会现实和心理挑战。整个文件为跨性别群体提供了一个分享和交流的空间，促进了对多元性别话题的讨论与理解。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_MTF_-_豆瓣.md                             |
+| Size            | 4379 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 西34街の九灵                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-03-04                                 |
+| Tags            | MTF, 跨性别, 生命故事, 个人经历, 电影评论, 社会环境, 法律政策, 医疗资源, 性别认同, 多元性别话题                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

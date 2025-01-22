@@ -1,17 +1,20 @@
 # 泰国女性事务官：变性人应纳入性别平等议题
 
+## 正文 { data-search-exclude }
+
+
 时间：2013年5月30日 15:30  
 嘉宾：泰国社会发展和人类安全部妇女事务与家庭发展司社会发展事务官 珀桑·帕波玛  
 来源：中国网  
 
 简介：自1995年第四次世界妇女大会以来，东亚地区性别平等事业取得了长足发展，然而，不平等仍以各种形式存在于社会生活的各个领域，阻碍着妇女的进一步发展和社会的全面进步。第五届东亚性别平等部长级会议近日在京举行，来自东亚13个国家负责性别平等事务的120名代表出席会议，分享各国经验，共同迎接挑战。
 
-## 活动信息
+## 活动信息 { data-search-exclude }
 
 - **活动标题**: 泰国女性事务官：变性人也应纳入性别平等议题  
 - **活动时间**: 2013年5月30日 16:00  
 
-## 正文内容
+## 正文内容 { data-search-exclude }
 
 ### 文字内容：
 
@@ -35,7 +38,7 @@
 （责编、主持人：李虹霖 摄像、后期：王一辰）  
 2013-06-20 14:17:42  
 
-## 图片内容
+## 图片内容 { data-search-exclude }
 
 ![泰国社会发展和人类安全部妇女事务与家庭发展司社会发展事务官 珀桑·帕波玛](http://images.china.cn/attachement/jpg/site1000/20130620/8c89a590fb39132ce7ba0c.jpg)  
 **来源**: 中国网 王一辰  
@@ -49,11 +52,11 @@
 ![珀桑·帕波玛：不应歧视变性人。](http://images.china.cn/attachment/jpg/site1000/20130620/8c89a590fb39132ce7ba0f.jpg)  
 **来源**: 中国网 王一辰  
 
-## 视频地址
+## 视频地址 { data-search-exclude }
 
 [点击观看视频](http://mp4.china.com.cn/flv/olderDataft/zhongwaishijie/taiguo_1369892933.mp4)  
 
-## 评论
+## 评论 { data-search-exclude }
 
 - 留言：尚无评论  
 - 昵称：查看评论  
@@ -65,3 +68,29 @@
 京ICP证 040089号  
 网络传播视听节目许可证号:0105123  
 <!-- tcd_original_link http://www.china.com.cn/fangtan/2013-05/30/content_28978702.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国女性事务官：变性人应纳入性别平等议题_-_中国网.md                             |
+| Size            | 4294 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

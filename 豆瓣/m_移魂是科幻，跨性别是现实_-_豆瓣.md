@@ -1,5 +1,8 @@
 # 移魂是科幻，跨性别是现实（缉魂）影评
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 借学校社团放映之机看了130分钟完整版，才发现大陆院线版的删减严重到扭曲整个故事的程度。
@@ -16,7 +19,7 @@
 
 来自豆瓣App
 
-## 影片信息
+## 影片信息 { data-search-exclude }
 
 - **标题**: 缉魂
 - **导演**: 程伟豪
@@ -30,3 +33,29 @@
 
 ![缉魂](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629413230.webp)
 <!-- tcd_original_link https://m.douban.com/movie/review/15397061/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评围绕电影《缉魂》展开，深入探讨了影片在跨性别主题上的表现及其对观众理解的影响。作者指出，院线版对影片进行了严重删减，尤其是王世聪这一跨性别角色的设定被隐晦化，导致观众对其身份的误解和对故事情节的混淆。影评指出，跨性别是指指派性别与心理性别不一致，但电影中的跨性别元素被视为情节高潮的工具，而并未真正深入刻画这一群体的痛苦和所面临的社会障碍。作者批评导演以猎奇的视角来看待跨性别群体，影片中的王世聪几乎没有形象刻画，令人失望。总的来看，影评透过影片揭示了跨性别群体在文化表现中的缺失，以及社会对于这一群体理解的不足。该影评不仅为观众提供了更深的思考角度，也呼唤社会对跨性别人士更多的理解与支持。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_移魂是科幻，跨性别是现实_-_豆瓣.md                             |
+| Size            | 3482 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 勾陈                               |
+| Region          | 中国大陆 / 中国台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 电影分析, 文化讨论, 社会认知, 猎奇视角, 角色设定, 影视评论, 社会支持, 性别认同, 中国台湾电影                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

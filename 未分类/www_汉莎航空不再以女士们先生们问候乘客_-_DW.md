@@ -1,5 +1,8 @@
 # 汉莎航空不再以"女士们 先生们"问候乘客
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2021年7月14日  
 **来源**: 德国之声中文网  
 **作者**: 不详  
@@ -17,7 +20,7 @@
 
 比勒菲尔德大学社会经济学专家席勒（Alexandra Scheele）对德国之声表示：“这是一个象征性的举措，可以被看作是对质疑性别二元论观点的重视。对于那些自我性别认同不在男女范畴之内，或者对性别二元区分并不认同的人来说，不使用女士先生这样的词汇，可能更容易被他们所接受。”
 
-## 什么是性别中立用语？
+## 什么是性别中立用语？ { data-search-exclude }
 
 越来越多的公司和机构开始采取推动性别包容的举措，汉莎公司的“中性问候”规定就是在这一大背景下出台的。
 
@@ -34,7 +37,7 @@
 
 支持者认为，性别化名词将那些不认为自己是男性或女性的人排除在外，并使涉及性别的固有观念得以延续。而反对者则拒绝修正德语语法，认为这是破坏语言的行为。
 
-## 象征性举措远远不够
+## 象征性举措远远不够 { data-search-exclude }
 
 上周，美国汽车制造商福特推出了性别中立语言的新规定，其中包括以chair取代chairman（主席）一词。
 
@@ -44,7 +47,7 @@
 
 _© 2021年德国之声版权声明：本文所有内容受到著作权法保护，如无德国之声特别授权，不得擅自使用。任何不当行为都将导致追偿，并受到刑事追究。_
 
-## 打破藩篱：孟加拉首位跨性别主播
+## 打破藩篱：孟加拉首位跨性别主播 { data-search-exclude }
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
@@ -66,9 +69,35 @@ Seek to live, currently behind liveLIVE
 
 Remaining Time -0:00
 
-## 相关话题
+## 相关话题 { data-search-exclude }
 
 - [歌词太Man！德国国歌要“性别中立”？](/zh/歌词太man德国国歌要性别中立/a-42831855)
 - [一定不确定：我们能确定自己的性别吗？](/zh/一定不确定我们能确定自己的性别吗/a-49615663)
 - [德国军队第一位跨性别指挥官的故事上映](/zh/德国军队第一位跨性别指挥官的故事上映/a-51437556)
 <!-- tcd_original_link https://www.dw.com/zh/%E6%B1%89%E8%8E%8E%E8%88%AA%E7%A9%BA%E4%B8%8D%E5%86%8D%E4%BB%A5%E5%A5%B3%E5%A3%AB%E4%BB%AC-%E5%85%88%E7%94%9F%E4%BB%AC%E9%97%AE%E5%80%99%E4%B9%98%E5%AE%A2/a-58263884 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_汉莎航空不再以女士们先生们问候乘客_-_DW.md                             |
+| Size            | 4699 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

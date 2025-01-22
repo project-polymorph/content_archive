@@ -1,5 +1,8 @@
 # 青少年变性人：一个有争议的话题
 
+## 正文 { data-search-exclude }
+
+
 ![Image](https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=AiTej1aEsk00Uh)
 
 **发布时间**: 2014-12-11 11:31  
@@ -56,3 +59,29 @@ De Vries 等细心地发现，关于青春期抑制（12 岁）和跨性别激�
 
 本网站所有注明“来源：丁香园”的文字、图片和音视频资料，版权均属于丁香园所有，非经授权，任何媒体、网站或个人不得转载，授权转载时须注明“来源：丁香园”。本网所有转载文章系出于传递更多信息之目的，且明确注明来源和作者，不希望被转载的媒体或个人可与我们联系，我们将立即进行删除处理。同时转载内容不代表本站立场。
 <!-- tcd_original_link http://pediatr.dxy.cn/article/93964 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | pediatr_青少年变性人：一个有争议的话题-_丁香园_-_儿科.md                             |
+| Size            | 7323 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

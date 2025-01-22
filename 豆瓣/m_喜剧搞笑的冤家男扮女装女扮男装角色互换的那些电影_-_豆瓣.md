@@ -1,5 +1,8 @@
 # 喜剧搞笑的冤家 男扮女装 女扮男装 角色互换的那些电影
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/601646-20100611220956)
 
 来自: [土豆 (北京)](https://www.douban.com/people/zhangmoker/) 2010-06-01 01:06:39创建   2010-06-11 22:09:56更新
@@ -10,7 +13,7 @@
 
 [全部(9)](https://www.douban.com/doulist/601646/)
 
-## 电影列表
+## 电影列表 { data-search-exclude }
 
 来自：豆瓣电影
 
@@ -146,15 +149,15 @@
 
 ---
 
-## 什么是片单
+## 什么是片单 { data-search-exclude }
 
 片单是收集影视的工具，创建片单后，在豆瓣看到符合片单主题的电影、电视时可以将它放入片单，方便以后找到。
 
 你还可以看看其他人的收集，关注你感兴趣的片单。
 
-## 这个片单的标签
+## 这个片单的标签 { data-search-exclude }
 
-## 土豆的其它豆列
+## 土豆的其它豆列 { data-search-exclude }
 
 -   [我的收藏](https://www.douban.com/doulist/49965862/)
 -   [英文原版书](https://www.douban.com/doulist/46053404/)  (3人关注)
@@ -162,3 +165,29 @@
 -   [Baby](https://www.douban.com/doulist/42729765/)
 -   [个人管理](https://www.douban.com/doulist/37182471/)
 <!-- tcd_original_link https://m.douban.com/doulist/601646/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件名为《喜剧搞笑的冤家男扮女装女扮男装角色互换的那些电影》，内容主要介绍了一系列涉及角色互换主题的喜剧电影。文件通过豆瓣平台的电影列表，详细列出了多部男扮女装、女扮男装的影视作品，包括《相思成灾》、《男校女生》、《雌雄莫辨》以及《辣妈辣妹》等。这些电影通常围绕性别角色的探索与幽默，展示了主人公在不同性别身份下的生活与情感历程。文章讨论了这种角色互换如何在喜剧中引发误会以及带来的欢乐与思考。还提到了一些电影的基本信息，如导演、主演及类型等，致力于为观众提供一个多元性别主题的电影观赏清单。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_喜剧搞笑的冤家男扮女装女扮男装角色互换的那些电影_-_豆瓣.md                             |
+| Size            | 4737 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 土豆 (北京)                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-06-01                                 |
+| Tags            | 多元性别, 男扮女装, 女扮男装, 角色互换, 喜剧, 影视作品, 文化表现, 电影推荐, 性别探索, 生活经历                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

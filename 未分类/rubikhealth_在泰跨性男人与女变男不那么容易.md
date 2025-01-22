@@ -1,5 +1,8 @@
 # 在泰跨性男人与女变男不那么容易
 
+## 正文 { data-search-exclude }
+
+
 在泰国与世界 "跨性别团体的变性手术” 真不是新事件，无论是 “从男人变性成女人” (MTF)” 或 “从女人变性成男人” (FTM, F2M) 都热受现代化社会欢迎。
 
 目前，可说 “男变女的性别重新分配手术” 很先进，导致良好的手术结果以及使女性生殖器接近预期目的。
@@ -99,3 +102,29 @@
 
 来源: [泰国医疗旅游](https://rubikhealth.com/zh/articles) | [条件与条款](https://rubikhealth.com/zh/terms-and-conditions) | [联系我们](https://rubikhealth.com/zh/contact) | [常见问题与解答](https://rubikhealth.com/zh/faq) | [关于泰爱医疗](https://rubikhealth.com/zh/about) | [讨论医疗保健](https://talk.rubikhealth.com)
 <!-- tcd_original_link https://rubikhealth.com/zh/articles/a-transman-the-transition-from-female-to-male-never-easy-in-thailand -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | rubikhealth_在泰跨性男人与女变男不那么容易.md                             |
+| Size            | 5514 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 司法部长詹姆斯为保护跨性别学生的权利而战
 
+## 正文 { data-search-exclude }
+
+
 ### 2022年11月11日
 
 _AG James共同领导一个由17位总检察长组成的联盟，提交了Amicus书以保护印第安纳州变性学生免受性别歧视_
@@ -18,3 +21,29 @@ _AG James共同领导一个由17位总检察长组成的联盟，提交了Amicus
 
 法庭之友书状由助理副检察长马克·格鲁布、副检察长朱迪思·维尔和副检察长芭芭拉·安德伍德编写，他们都是上诉和意见司的成员。
 <!-- tcd_original_link https://zh.ag.ny.gov/press-release/2022/attorney-general-james-fights-protect-transgender-students-rights-0 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_司法部长詹姆斯为保护跨性别学生的权利而战.md                             |
+| Size            | 4566 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

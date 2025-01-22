@@ -1,5 +1,8 @@
 # 昔日发小整容变性，摇身一变成了女朋友，这部韩国悬疑片绝了 
 
+## 正文 { data-search-exclude }
+
+
 ![Logo](https://open-image.ws.126.net/open-h5uploadfile/head-logo-190916.png)
 
 4315 播放
@@ -54,3 +57,29 @@
 
 [工业和信息化部备案管理系统网站](https://beian.miit.gov.cn/#/Integrated/index) 粤B2-20090191-18
 <!-- tcd_original_link https://open.163.com/movie/2021/11/C/0/CGNUA67BC_TGNUA67C0.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | open_昔日发小整容变性，摇身一变成了女朋友，这部韩国悬疑片绝了.md                             |
+| Size            | 1644 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

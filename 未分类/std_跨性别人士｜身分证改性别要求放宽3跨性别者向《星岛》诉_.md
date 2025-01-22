@@ -1,16 +1,19 @@
 # 跨性别人士｜身分证改性别要求放宽 3跨性别者向《星岛》诉心声 冀用非手术方式定义
 
+## 正文 { data-search-exclude }
+
+
 ![3跨性别者向《星岛》诉心声 冀用非手术方式定义。](https://image.stheadline.com/f/680p0/0x0/100/none/044555f8f91a446788c809f43dc1266b/stheadline/inewsmedia/20240403/_2024040322222549107.jpg)
 
 政府放宽更改身份证性别政策。跨性别人士即日起接受指定手术改变性徵，并符合相关条件后，即使未完成「全套手术」亦可更改身份证上性别记项。但跨性别人士指，并非人人能受惠。
 
-## Anna : 手术风险好大 有机会留下残疾
+## Anna : 手术风险好大 有机会留下残疾 { data-search-exclude }
 
 「跨青时刻」社群及资源经理、跨性别女生Anna接受《星岛》访问指，自身已服用荷尔蒙药物数年，且已隆胸及进行面部柔化，但不会考虑做切除性器官手术，「手术风险好大，因涉及泌尿系统，切除后有机会留下残疾，连去厕所都要辅助才做到。」另因公院等候期长，若到外国动手术，亦涉及庞大开支。Anna指，因无法更改身分证性别，日常生活中常承受很大心理压力，如申请电话号码、租用单位时，均要披露自己是跨性别人士，「而你永远不知道对方有何反应，会否因而歧视我？话我黐线？甚至施袭？这种未知令人心理负担好大。」
 
 ![跨性别女生Anna指，若持续监察跨性别者的荷尔蒙水平，政府的行政成本亦不低，冀政策能便利双方。受访者提供](https://image.hkhl.hk/f/1024p0/0x0/100/none/444fd11b96bdfeebdf26f8ef97780ed2/2024-04/72226e74-a875-4ec2-9ba9-b845e42b22e2.jpg)
 
-## Ming : 新政策对跨仔、跨女要求不对等
+## Ming : 新政策对跨仔、跨女要求不对等 { data-search-exclude }
 
 「跨青时刻」创办人及总监Ming指，已服用荷尔蒙药物5、6年，作为跨女亦无计划做下半身手术，「新政策对跨仔、跨女的要求并不对等，前者切除乳房是性徵，但后者切除阴茎、睾丸却是性器官；且我外表已是女性，无必要为改变行政上身分，承受手术风险。」Ming指，虽然日常出入厕所不会受质疑，但在办理银行手续指，对方仍会以身分证性别称呼，「叫我先生，令我很不适。」期望政府能再修订政策，通过申请人的「自我声明」更改身分证性别，「亦希望公众明白，身体结构与性别认同是两回事。」
 
@@ -31,3 +34,29 @@ Anna期望，政府日后可撤销「做手术」指标，跨性别人士只要�
 
 Copyright 2025 Sing Tao Ltd. All rights reserved.
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/1990882/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E8%BA%AB%E5%88%86%E8%AD%89%E6%94%B9%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%94%BE%E5%AF%AC-3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%90%91-%E6%98%9F%E5%B3%B6-%E8%A8%B4%E5%BF%83%E8%81%B2-%E5%86%80%E7%94%A8%E9%9D%9E%E6%89%8B%E8%A1%93%E6%96%B9%E5%BC%8F%E5%AE%9A%E7%BE%A9 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_跨性别人士｜身分证改性别要求放宽3跨性别者向《星岛》诉_.md                             |
+| Size            | 4802 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

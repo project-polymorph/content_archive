@@ -1,5 +1,8 @@
 # 迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛
 
+## 正文 { data-search-exclude }
+
+
 2024-11-16 15:14:15  
 来源：游民星空  
 作者：不凹就沁丶优格  
@@ -27,3 +30,29 @@
 
 评论（0人参与，0条评论）  
 <!-- tcd_original_link https://www.gamersky.com/news/202411/1846191.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛.md                             |
+| Size            | 2615 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

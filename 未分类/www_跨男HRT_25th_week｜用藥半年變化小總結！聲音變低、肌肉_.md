@@ -1,5 +1,8 @@
 # 跨男 HRT 25th week｜用藥半年變化小總結！聲音變低、肌肉增加、鼻毛炸裂
 
+## 正文 { data-search-exclude }
+
+
 ![阿塔男孩的跨旅程](https://yt3.ggpht.com/PBlIjhYUyTFLzzrFN50PliWZT108GQKThEOwtIx1FZTfNuqLHQ3t0hV-zn7gEnWJznmjVV2Xdw=s48-c-k-c0x00ffffff-no-rj)
 
 **观看次数:** 4,136 views  
@@ -8,7 +11,7 @@
 
 本片拍攝於 2020/11/18，是我賀爾蒙治療第二十五週 HRT後不定期更新近況 …...
 
-## 正文
+## 正文 { data-search-exclude }
 
 跨男 HRT 25th week｜用藥半年變化小總結！聲音變低、肌肉增加、鼻毛炸裂
 
@@ -28,7 +31,7 @@
 阿塔男孩個人網站：[https://trans-attaboy.com/](https://trans-attaboy.com/)  
 Instagram聯絡我： attaboy_deven
 
-## 评论
+## 评论 { data-search-exclude }
 
 **共 10 条评论**
 
@@ -42,3 +45,29 @@ Instagram聯絡我： attaboy_deven
 **Instagram:** [attaboy_deven](https://www.instagram.com/attaboy_deven/?hl=zh-tw)  
 **Facebook粉丝专页:** [阿塔男孩的跨旅程](https://www.facebook.com/Attaboy-Deven的跨旅程-101204425331081)
 <!-- tcd_original_link https://www.youtube.com/watch?v=Pjr9NAqBM7o -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨男HRT_25th_week｜用藥半年變化小總結！聲音變低、肌肉_.md                             |
+| Size            | 1974 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

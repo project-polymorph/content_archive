@@ -1,12 +1,15 @@
 # 华中科技大学同济医学院附属协和医院整形外科简介
 
+## 正文 { data-search-exclude }
+
+
 ![公众版](../../../images/logo.png)
 
 ![华中科技大学同济医学院附属协和医院](../../../images/logom1.png)
 
 ![科室banner](../../../ksbanner/zhengxingbanner.jpg)
 
-## 科室简介
+## 科室简介 { data-search-exclude }
 
 **品牌学科**
 
@@ -38,7 +41,33 @@
 协和医院车谷院区地址：湖北省武汉市经济技术开发区神龙大道58号 邮编：430056 电话：027-84397521  
 协和医院金银湖院区地址：湖北省武汉市东西湖区环湖路53号 邮编：430048 电话：027-83261400  
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 Copyrights © 2002-2021 All Rights Reserved. [鄂ICP备 05004666](https://beian.miit.gov.cn/)  
 ![公安网安备 42010302002222号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010302002222)
 <!-- tcd_original_link https://www.whuh.com/ppxk/tszk/zxwk/ksjj.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_科室简介-华中科技大学同济医学院附属协和医院.md                             |
+| Size            | 5349 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

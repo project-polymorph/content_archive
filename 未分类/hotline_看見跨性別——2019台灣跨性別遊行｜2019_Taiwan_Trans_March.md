@@ -1,5 +1,8 @@
 # 看見跨性別——2019台灣跨性別遊行｜2019 Taiwan Trans March
 
+## 正文 { data-search-exclude }
+
+
 **時間：** 2019-10-25（五）19:00  
 **地點：** 西門町，長沙街與漢中街口（西本願寺旁）  
 ⚧ **一起跟熱線跨性別小組走上街** ⚧ **讓社會看見跨性別！**
@@ -49,3 +52,29 @@
 **活動地區**  
 北部
 <!-- tcd_original_link https://hotline.org.tw/civicrm/event/info?reset=1&id=73 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hotline_看見跨性別——2019台灣跨性別遊行｜2019_Taiwan_Trans_March.md                             |
+| Size            | 5049 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

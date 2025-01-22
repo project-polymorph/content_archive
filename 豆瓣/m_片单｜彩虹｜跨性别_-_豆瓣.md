@@ -1,5 +1,8 @@
 # 片单｜彩虹｜跨性别
 
+## 正文 { data-search-exclude }
+
+
 ![封面](https://img1.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/154224741-20231024042008)
 
 来自: [慧敏 (合肥)](https://www.douban.com/people/blueleaf_lee/) 2023-03-01 17:31:34创建   2023-10-24 04:20:08更新
@@ -147,13 +150,13 @@
     - 制片国家/地区: 加拿大 
     - 年份: 2007
 
-## 什么是片单
+## 什么是片单 { data-search-exclude }
 片单是收集影视的工具，创建片单后，在豆瓣看到符合片单主题的电影、电视时可以将它放入片单，方便以后找到。
 
 你还可以看看其他人的收集，关注你感兴趣的片单。 
 
-## 这个片单的标签 
-## 慧敏的其它豆列 
+## 这个片单的标签  { data-search-exclude }
+## 慧敏的其它豆列  { data-search-exclude }
 - [爱情·同性·女性](https://www.douban.com/doulist/153544755/)  (23人关注)
 - [片单｜性别暴力 看见真相](https://www.douban.com/doulist/154146678/)  (1人关注)
 - [书单｜母爱与死亡·母女](https://www.douban.com/doulist/153547598/)  (1人关注)
@@ -162,3 +165,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/doulist/154224741/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是一个关于跨性别电影的片单，由用户慧敏在豆瓣上创建，涵盖了多部与多元性别相关的影视作品。文件内容详细列出了16部电影的标题、导演、主演、评分、制片国家/地区以及上映年份，尤其强调了电影的类型和多元性别的主题。通过这些影片，观众可以更深入地了解跨性别群体的生活和经历，涵盖了从纪录片到剧情片的多个类型，表现了不同文化背景下的同性恋和跨性别问题。作者还附上了该片单的创建和最后更新的时间，展示了其在多元性别影视资源整合中的重要性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_片单｜彩虹｜跨性别_-_豆瓣.md                             |
+| Size            | 7278 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 慧敏                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-01                                 |
+| Tags            | 多元性别, 跨性别, 影视片单, 电影推荐, 性别研究, 社会文化, 人权, 女性主义, 同性恋, 纪录片                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

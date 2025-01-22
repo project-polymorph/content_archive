@@ -1,5 +1,8 @@
 # 美国大学开始认可“他”与“她”之外的性别
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 纽约时报中文网  
 **作者**: JULIE SCELFO  
 **日期**: 2015年3月19日  
@@ -126,3 +129,29 @@
   **日期**: 2013年8月26日  
   ![后同性恋时代的“跨性别主义者”](https://static01.nyt.com/images/2013/01/10/fashion/10LGBT_SPAN/10LGBT_SPAN-thumbLarge-v2.jpg)  
 <!-- tcd_original_link https://cn.nytimes.com/education/20150319/t19gender/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_美国大学开始认可“他”与“她”之外的性别_-_纽约时报.md                             |
+| Size            | 20907 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 泰国最美人妖私房照曝光 17岁变性成男人宠儿
 
+## 正文 { data-search-exclude }
+
+
 2010-12-24 10:55:52
 
 ！[](http://www.slrbs.com/d/file/shishang/sszx/2010-12-24/a3b09b7366963990599465c852fb00af.jpg)
@@ -20,3 +23,29 @@ poy是泰国著名变性女艺人，17岁成功变性成美女，让众多男人
 
 免责声明：本网对文中陈述、观点判断保持中立，不对所包含内容的准确性、可靠性或完整性提供任何明示或暗示的保证。请读者仅作参考，并请自行承担全部责任。本网站转载图片、文字之类版权申明，本网站无法鉴别所上传图片或文字的知识版权，如果侵犯，请及时通知我们，本网站将在第一时间及时删除。
 <!-- tcd_original_link http://www.slrbs.com/shishang/sszx/2010-12-24/23611.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_组图：泰国最美人妖私房照曝光17岁变性成男人宠儿_-_商洛之窗.md                             |
+| Size            | 1256 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

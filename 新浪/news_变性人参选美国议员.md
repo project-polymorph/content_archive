@@ -1,5 +1,8 @@
 # 变性人参选美国议员
 
+## 正文 { data-search-exclude }
+
+
 ![变性人参选美国议员](//n.sinaimg.cn/sinakd10200/360/w180h180/20230526/9235-5b764839635f7db7af4282f685456ea8.jpg)
 
 **来源：广州日报**  
@@ -21,7 +24,7 @@
 
 ![相关视频](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
-## 相关视频
+## 相关视频 { data-search-exclude }
 
 ![特朗普上任首日行政令“井喷”刷新纪录 签完把笔扔向人群遭哄抢](//z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/007ZwuKJly1hxsiz11ghnj30zk0k0q4a.jpg&size=370_207&bgf=1&bgc=%23000000)  
 **特朗普上任首日行政令“井喷”刷新纪录 签完把笔扔向人群遭哄抢** 811836次播放  
@@ -35,21 +38,47 @@
 **韩正应邀出席美国总统就职典礼** 206456次播放  
 > 00:08  
 
-## 热门评论
+## 热门评论 { data-search-exclude }
 
 **2624208810** 0  
 **最终敲定总统人选的，将是国会山上忠于党派的议员，而非选举团票或美国民众。这是美国民主？**  
 **2016-07-02**  
 浙江杭州  
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - **四大星座即将迎来幸运时刻，财气上升，事业蒸蒸日上，幸福常伴！**  
 ![四大星座即将迎来幸运时刻，财气上升，事业蒸蒸日上，幸福常伴！](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACAQMAAACnuvRZAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 新浪新闻官方  
 
 ![](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
 <!-- tcd_original_link https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性人参选美国议员.md                             |
+| Size            | 3252 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

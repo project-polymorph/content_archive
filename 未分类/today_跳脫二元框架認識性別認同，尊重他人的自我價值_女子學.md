@@ -1,5 +1,8 @@
 # 接納性別的多重樣貌：跳脫二元框架認識性別認同，尊重他人的自我價值
 
+## 正文 { data-search-exclude }
+
+
 #### [女子學](https://today-obs.line-scdn.net/0hVezVCheFCUpHLx1RH1t2HX95BTt0SRNDZRtGezYnU3lsA0YVch1aKWonUmY6TEoaZ0lOeWB8B3pjHBtPcw/w644)
 
 更新於 **2022年05月11日03:03** • 發布於 **2022年05月10日09:05**
@@ -79,3 +82,29 @@
 [#多元性別](https://today.line.me/tw/v2/tag/yQBgnE?tag=%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5) 
 [#男性](https://today.line.me/tw/v2/tag/XvJlN8?tag=%E7%94%B7%E6%80%A7)
 <!-- tcd_original_link https://today.line.me/tw/v2/article/LXGrq9z -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | today_跳脫二元框架認識性別認同，尊重他人的自我價值_女子學.md                             |
+| Size            | 7264 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

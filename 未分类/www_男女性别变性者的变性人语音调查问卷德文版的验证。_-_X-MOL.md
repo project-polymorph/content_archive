@@ -1,5 +1,8 @@
 # 男女性别变性者的变性人语音调查问卷德文版的验证
 
+## 正文 { data-search-exclude }
+
+
 **来源**: Journal of Voice  
 **发布时间**: 2018-08-29  
 **DOI**: [10.1016/j.jvoice.2018.06.010](https://www.x-mol.com/ref/1661)  
@@ -15,7 +18,7 @@
 2. Department of Special Education and Rehabilitation, Faculty of Human Sciences, University of Cologne, Cologne, Germany.
 3. Department of Health Services Research, School of Medicine and Health Sciences, Carl von Ossietzky University of Oldenburg, Oldenburg, Germany.
 
-## 正文
+## 正文 { data-search-exclude }
 
 目的这项研究的目的是研究男性对女性变性者的变性语音问卷（TVQMtF）的德语翻译的心理计量学特性，该问卷评估了变性女性与语音相关的生活质量（VrQoL）。研究设计这是一项横断面研究。方法进行的在线调查包括TVQMtF以及对VrQoL（语音障碍指数）和过渡项目的常规测量。分析了127名跨性别女性的数据，计算了信度和收敛效度的系数。此外，进行了验证性因素分析和模型修改。结果分析显示出极好的内部一致性（α= 0.97），对半可靠性（rSB = 0.95）和良好的收敛效度。发现德国TVQMtF的总分与语音障碍指数（r = 0.88; P <0.001）和声音自我感知（r = -0.57; P <0.001）之间存在显着关联。找到了一个具有两因素结构的可接受模型，其中包括30个项目中的22个。结论TVQMtF是德国首个可靠，有效的跨性别女性VrQoL测量方法。因此，可以推荐将其用于语音治疗和外科手术的临床和研究目的。
 
@@ -29,3 +32,29 @@
 [京ICP备11026495号-2](https://beian.miit.gov.cn/)  
 [京公网安备 11010802027423号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027423)
 <!-- tcd_original_link https://www.x-mol.com/paper/1212921808267583495/t?recommendPaper=1350497694282182656 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男女性别变性者的变性人语音调查问卷德文版的验证。_-_X-MOL.md                             |
+| Size            | 3705 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

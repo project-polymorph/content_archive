@@ -1,5 +1,8 @@
 # 变性后能活多久？2010年：变性人活不过40岁？2022年:变性人活不过50岁？跨性别真的减寿吗？
 
+## 正文 { data-search-exclude }
+
+
 ![Shepherd Captain](https://i.ytimg.com/an/tsa2GslxP2nhU1n5yRUapg/featured_channel.jpg?v=64352e1f)
 
 **频道名:** Shepherd Captain  
@@ -7,11 +10,11 @@
 **观看次数:** 118 views  
 **订阅者:** 655  
 
-## 正文
+## 正文 { data-search-exclude }
 
 变性后能活多久？2010年：变性人活不过40岁？2022年:变性人活不过50岁？跨性别真的减寿吗？ 有请各位说变性会减寿的同志们，说出你认为变性会减寿的原因。 纪录片医疗知识科普,男扮女装,跨性别,变性,女装大佬,打卡挑战。
 
-## 评论
+## 评论 { data-search-exclude }
 
 ### 顶部评论
 
@@ -20,7 +23,7 @@
 
 **点赞数:** 1
 
-## 标记
+## 标记 { data-search-exclude }
 - 变性
 - 跨性别
 - 医疗知识
@@ -29,3 +32,29 @@
 
 版权所有 © 2023 Shepherd Captain
 <!-- tcd_original_link https://www.youtube.com/watch?v=GmVEmKMyBN8 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人活不过50岁？跨性别真的减寿吗？_-_YouTube.md                             |
+| Size            | 1105 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

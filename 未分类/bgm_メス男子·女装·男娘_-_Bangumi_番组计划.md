@@ -1,5 +1,8 @@
 # メス男子·女装·男娘
 
+## 正文 { data-search-exclude }
+
+
 [![](//lain.bgm.tv/pic/user/l/000/80/95/809555.jpg?r=1700526866&hd=1)](/user/majinxx297)
 
 口味偏女性向的男美女目录
@@ -47,7 +50,7 @@
     
     角色: 魔都上海の娼年
 
-## 角色列表
+## 角色列表 { data-search-exclude }
 
 [![](//lain.bgm.tv/pic/crt/g/19/38/12164_crt_O2YlP.jpg)](/character/12164)
 
@@ -237,7 +240,7 @@
 
 性别: 男
 
-## 最新留言
+## 最新留言 { data-search-exclude }
 
 -   [![芋魔人X](//lain.bgm.tv/pic/user/l/000/80/95/809555.jpg?r=1700526866&hd=1)](/user/majinxx297)  
     **芋魔人X:** 好的，等你建好会加进去！虽然没玩但因为実弥島一直有关注这个。  
@@ -247,7 +250,7 @@
     **水薰叶:** [https://bgm.tv/subject/342664](https://bgm.tv/subject/342664) 女性向游戏的男美女，没角色条目，待会我看看能不能建  
     **时间:** 2024-7-30 16:57
 
-## 芋魔人X编纂的其他目录
+## 芋魔人X编纂的其他目录 { data-search-exclude }
 
 -   [假面人](/index/51276)
 -   [燃！](/index/51275)
@@ -262,3 +265,29 @@
 
 © 2008-2024 Bangumi (a.k.a.Chobits), some rights reserved | r510
 <!-- tcd_original_link https://bgm.tv/index/50037 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | bgm_メス男子·女装·男娘_-_Bangumi_番组计划.md                             |
+| Size            | 7222 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

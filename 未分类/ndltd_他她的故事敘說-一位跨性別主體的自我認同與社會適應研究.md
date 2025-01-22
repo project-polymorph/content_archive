@@ -1,6 +1,9 @@
 # 他/她的故事敘說 - 一位跨性別主體的自我認同與社會適應研究
 
-## 基本資料
+## 正文 { data-search-exclude }
+
+
+## 基本資料 { data-search-exclude }
 
 - **研究生**: [林家慧](#)
 - **指導教授**: [吳宗立](#)
@@ -14,7 +17,7 @@
 - **語文別**: 中文
 - **論文頁數**: 149
 
-## 關鍵詞
+## 關鍵詞 { data-search-exclude }
 
 - 中文關鍵詞: 
   - [父權體制](#)
@@ -30,15 +33,15 @@
   - [transgender](#)
   - [social adaptation](#)
 
-## 摘要
+## 摘要 { data-search-exclude }
 
 本研究以故事敘說的方法探索一位跨性別主體在父權體制下的自我認同以及社會適應的狀況。文中先定義跨性別主體，以及在性/別迷思當中性別角色的適應情形 ; 再者，從父權體制分析異性戀霸權、霸權式陽剛、恐娘症、恐同症所帶來的污名化效果以及如何規訓個體生活 ; 最後以自我認同與社會適應相關的社會心理學以及社會學理論作為訪談後資料分析之依據。研究發現，跨性別主體自幼的性別認同是以快樂感為主，主要受到他人的影響，並援以報章媒體「性別認同障礙」的相關醫學報導，來呼應其心理喜愛的女性角色，以及區分自我與娘娘腔和同性戀者為不同族群之依據。研究發現性別刻板印象以及性別二分觀念，使得異性戀霸權與霸權式陽剛得以複製，並鞏固社會父權體制。而此觀念亦延伸其在女性身體的積極打造以追求親密關係的穩定與發展。本跨性別主體具有相當良好的認知能力與社經地位，整體自我認同與社會適應可說是個人特質與他人互動交錯而成，其中個人特質方面：認定自我生命價值、情緒化、積極轉念，以及外在支持系統：重要他人、財富、醫學、國家法律宗教對其自我認同與社會適應都發揮相當的作用。
 
-## Abstract
+## Abstract { data-search-exclude }
 
 This research is to explore the self-identification and social adaptation of the transgender under the patriarchy regime. In the article, first define the transgender and describe how the gender role adapts under the sex/gender myth. Then, from the viewpoint of the patriarchy regime, analyze the stigmatization effect which is caused by the heterosexuality hegemony, hegemonic masculinity, sissy-feared disease as well as homosexuality-feared disease and how to discipline the individual life. Last, use the social psychology and sociology which are related to self-identity and social adaptation as the basis for the information analysis after the interview. In the research we find that the transgender’s self-identity is mainly in the sense of happiness and is chiefly affected by other people and he cites the medical reports in the newspaper, which is about gender identity disorder, to echo his favorite feminine role and use them as the basis to distinguish himself from sissy and homosexuals and to assure that they are different ethnicities. In the research, I also find that the sexual stereotypes and the idea of sexual dichotomy makes it able to copy heterosexuality hegemony and hegemonic masculinity and strengthen the patriarchy regime in the society. Besides, the idea also molds the feminine bodies proactively to pursue the steadiness and development of the intimate relationships. The transgender owns very good cognitive abilities and social economic status. The overall self-identification and social adaptation can be made up of the interaction of individual quality and others’. In the interaction process, the individual qualities like identifying self-value of life, moodiness, proactive second thoughts and the outer supportive system like significant others, wealth, medicine, the law, religion bring about considerable effects on self-identification and social adaptation.
 
-## 目 錄
+## 目 錄 { data-search-exclude }
 
 1. 第一章 楔子 
    - 研究動機與目的
@@ -72,7 +75,7 @@ This research is to explore the self-identification and social adaptation of the
    - 回首與省思
 7. 參考文獻
 
-## 參考文獻
+## 參考文獻 { data-search-exclude }
 
 - 中文部分:  
     - 文榮光、徐淑婷、柯乃熒 (1996)。性別認同障礙與變性慾症之診療現況。取自[連結](http://www.geocities.com/westhollywood/village/4618/news101.htm)
@@ -90,3 +93,29 @@ This research is to explore the self-identification and social adaptation of the
 ![電子全文](# "電子全文")
 ![QRCODE](# "QR Code")
 <!-- tcd_original_link https://ndltd.ncl.edu.tw/r/86033192908782357322 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ndltd_他她的故事敘說-一位跨性別主體的自我認同與社會適應研究.md                             |
+| Size            | 6297 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 汉堡王向LGBT活动团体捐赠高达25万美元
 
+## 正文 { data-search-exclude }
+
+
 时间：2021-06-10  
 来源：北京大学人权与人道法研究中心  
 作者：  
@@ -41,3 +44,29 @@ Newsmax主持人、特朗普竞选团队前雇员史蒂夫·科特斯(Steve Cort
 京ICP备13019420号-1  
 [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/cn/)
 <!-- tcd_original_link http://www.hrhl.pku.edu.cn/rqxw/gjxw/1343781.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_暗讽福莱鸡汉堡王向LGBT活动团体捐赠高达25万美元.md                             |
+| Size            | 4360 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,6 +1,9 @@
 # 上海市长宁区精神卫生中心发育迟缓专家推荐
 
-## 推荐专家
+## 正文 { data-search-exclude }
+
+
+## 推荐专家 { data-search-exclude }
 
 ### 陈臻
 ![陈臻](https://n3.hdfimg.com/g13/M04/8B/CD/24YBAGWd5u6AAf1vAAOaFZAHUKo069_200_200_1.jpg?a925)
@@ -29,22 +32,48 @@
 - **疾病病友推荐度**: 3.2暂无
 - [查看详情](https://www.haodf.com/doctor/6070455513.html)
 
-## 发育迟缓患者评价
+## 发育迟缓患者评价 { data-search-exclude }
 - 患者主观疗效：很满意，态度：很满意
 - 病情描述：宝宝2周岁半不会讲话，只会叫“爸爸”“妈妈”
 
-## 发育迟缓其他推荐医院
+## 发育迟缓其他推荐医院 { data-search-exclude }
 - [复旦大学附属儿科医院](https://www.haodf.com/hospital/421.html)
 - [南京医科大学附属儿童医院](https://www.haodf.com/hospital/640.html)
 - [上海交通大学医学院附属新华医院](https://www.haodf.com/hospital/426.html)
 
-## 发育迟缓科普知识
+## 发育迟缓科普知识 { data-search-exclude }
 - [发育迟滞病例分享](https://www.haodf.com/neirong/wenzhang/9393954405.html)
   - 内容：儿童发育迟滞，家长“病急乱投医”，幸好遇到陈主任。此类发育落后、脑电图异常患者在治疗方面是综合性的，不是一味地进行康复干顶，可以根据病因进行针对性治疗，建议到上海德济医院找陈育才主任进行就诊！
 - [如何判断宝宝有没有发育落后?3月龄，6月龄](https://m.haodf.com/neirong/shipin/9393605075.html)
 - [神经发育性障碍对孩子的影响](https://www.haodf.com/neirong/wenzhang/9393589154.html)
   - 内容：如果孩子诊断各种神经发育性障碍，对他（她）的人生很大概率上会起到决定性影响，包括学习能力，情绪控制，社会交往，家庭关系等多个方面都会受到干扰。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 所有内容均来源于 [好大夫在线](https://www.haodf.com/hospital/2500.html)
 <!-- tcd_original_link https://m.haodf.com/hospital/2500/tuijian-fayuchihuan.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_上海市长宁区精神卫生中心发育迟缓专家_推荐专家_权威专家-好大夫_.md                             |
+| Size            | 2606 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 跨性別者：錯位的靈魂，性別認同的美麗與哀愁
 
+## 正文 { data-search-exclude }
+
+
 ### 文章重點
 
 - 跨性別者：生理性別vs.性別認同
@@ -12,7 +15,7 @@
 
 但你是否想過，性別會是由自我認同的，有可能和生理性別有所差異的。
 
-## 跨性別者：生理性別vs.性別認同
+## 跨性別者：生理性別vs.性別認同 { data-search-exclude }
 
 ![跨性別者 性別認同](https://beauty-upgrade.tw/wp-content/uploads/2019/05/薑餅人.jpg)
 
@@ -20,7 +23,7 @@
 
 生理性別：出生時以**生理器官**分辨男女性別的分類方法。性別認同：在出生到成長的階段中，在**心理**上認識、接受自己的性別。性別認同若與自己的生理性別相同，就稱為**順性別**，但當心理上不認同自己的生理性別時，稱為**多元性別/跨性別**。
 
-## 跨性別者：你認識跨性別（TransGender）嗎？
+## 跨性別者：你認識跨性別（TransGender）嗎？ { data-search-exclude }
 
 [圖片來源](https://www.pinterest.com/pin/46936021102211977/)
 
@@ -34,7 +37,7 @@
 
 繼1990年，WHO將同性性行為從《國際疾病分類》中刪除後，再度更改分類名單。直到今天，世界各國對於性別平權的意識逐漸抬頭，跨性別已成為一張廣納各種異同的保護傘，**只要個人的性別表現與社會規範有所差異或衝突時，均可被稱之為跨性別者。**
 
-## 跨性別者：喜歡男生？喜歡女生？
+## 跨性別者：喜歡男生？喜歡女生？ { data-search-exclude }
 
 [圖片來源](https://www.pinterest.com/pin/676736281486067629/)
 
@@ -42,7 +45,7 @@
 
 在性別議題逐漸受到大眾注意的今日，不論是異性戀、同性戀、雙性戀或者是跨性別者，都已與你我並無差異，身在群眾之中，也許我們身邊的朋友、親人、同事們，也正在為了消除歧視而奮鬥著。
 
-## 跨性別者：影劇作品
+## 跨性別者：影劇作品 { data-search-exclude }
 
 在近幾年，亞洲社會也漸漸敞開性別議題的大門，許多團體、企業也紛紛挺身為相關議題和族群聲援，倡導生而為人並無異同。我們還能透過哪些方法更加了解這些朋友呢？以下就為各位推薦幾部值得賞析的影劇作品。
 
@@ -106,7 +109,7 @@ NHK改變自原名小說的《女子的生活》，由至尊淳飾演美紀－�
 
 **海地像是所有在現實生活中的跨性別者的縮影，他們害怕、不安，總是獨自面對著嘲諷、歧視和不被認同。但在這個世界上，所有人都有著獨特的思考、獨特的心思，每個人都是最特別的存在。**
 
-## 人生而平等，並無差異
+## 人生而平等，並無差異 { data-search-exclude }
 
 Photo by [Aziz Acharki](https://unsplash.com/photos/M2iEigqVbFM) on [Unsplash](https://unsplash.com/)
 
@@ -114,7 +117,7 @@ Photo by [Aziz Acharki](https://unsplash.com/photos/M2iEigqVbFM) on [Unsplash](h
 
 生活於現今的我們，該如何將「人生而平等，並無差異」的理念貫徹，會是無止盡的考驗。戲劇中的主角們所面臨的難處和不安，如同現實生活中的跨性別者一樣，他們需要極大的勇氣才能夠為自己的性別認同做出抉擇，勇敢生活著的他們，與其他人並無差別，該用何種形式度過生活，是由自己決定的。**跨性別者皆是美麗且堅毅的存在，透過理解和認同，社會大眾才能夠學習到愛與自由何其珍貴。**
 
-## 延伸閱讀
+## 延伸閱讀 { data-search-exclude }
 
 ### 參考資料
 
@@ -126,3 +129,29 @@ Photo by [Aziz Acharki](https://unsplash.com/photos/M2iEigqVbFM) on [Unsplash](h
 
 台灣人。日劇、貓、閱讀、吃就是日常，在生活中學習扮演好每個角色。自認為是社會裡的少數派。喜歡在生活裡與各式各樣的人相遇，在每一段人際關係認識自己。喜歡在太陽灑進屋內的午後和貓一起睡午覺，喜歡追隨貓的腳步學習如何慵懶度日。
 <!-- tcd_original_link https://beauty-upgrade.tw/57714 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | beauty-upgrade_跨性別者：錯位的靈魂，性別認同的美麗與哀愁_-_Beauty_Upgrade.md                             |
+| Size            | 12258 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

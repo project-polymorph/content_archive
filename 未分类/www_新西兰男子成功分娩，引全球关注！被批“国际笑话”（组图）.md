@@ -1,5 +1,8 @@
 # 新西兰男子成功分娩，引全球关注！被批“国际笑话”（组图）
 
+## 正文 { data-search-exclude }
+
+
 2024-11-11 来源： [发现新西兰 原文链接](https://mp.weixin.qq.com/s/qF61d_2pfIooNSwBgNicBw) 评论11条
 
 这张孕照任谁看了都疑惑：
@@ -172,3 +175,29 @@ Frankie的分娩经历和纪录片，媒体报道都是正面积极的，然而�
 
 转载声明：本文为转载发布，仅代表原作者或原平台态度，不代表我方观点。今日澳洲仅提供信息发布平台，文章或有适当删改。对转载有异议和删稿要求的原著方，可联络content@sydneytoday.com。
 <!-- tcd_original_link https://www.sydneytoday.com/content-1024536460062001 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新西兰男子成功分娩，引全球关注！被批“国际笑话”（组图）.md                             |
+| Size            | 11021 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

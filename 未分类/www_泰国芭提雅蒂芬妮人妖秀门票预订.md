@@ -1,6 +1,9 @@
 # 泰国芭提雅蒂芬妮人妖秀
 
-## 98%满意度
+## 正文 { data-search-exclude }
+
+
+## 98%满意度 { data-search-exclude }
 
 ##### 157条评论
 
@@ -16,11 +19,11 @@
 **门票预订**  
 ¥72起  
 
-## 景点介绍
+## 景点介绍 { data-search-exclude }
 
 • 演出内容健康风趣，人妖表演者歌舞俱佳，是全家大小一同体验“泰”特色的好去处。
 
-## 游客点评
+## 游客点评 { data-search-exclude }
 
 游客点评满意度 **98%**  
 来自157名游客的点评  
@@ -118,7 +121,7 @@
 总体比较满意，就是感觉有些不是人妖！  
 2018-04-13 07:28:02
 
-## 交通指南
+## 交通指南 { data-search-exclude }
 
 **景点地址**  
 464 Moo 9, Pattaya 2nd Road, Nongprue, Banglamung, Chonburi 20260, Thailand
@@ -132,3 +135,29 @@
 ![](https://m1.tuniucdn.com/fb2/t1/G7/M00/18/48/Cii8Kma6w6qIf7PhAAGX0lKyJWwAANtVgO8PjQAAZfq658.png)  
 *扫描进入门票小程序*
 <!-- tcd_original_link https://www.tuniu.com/menpiao/1742612 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国芭提雅蒂芬妮人妖秀门票预订.md                             |
+| Size            | 4076 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

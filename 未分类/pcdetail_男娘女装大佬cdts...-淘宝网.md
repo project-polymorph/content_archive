@@ -1,5 +1,8 @@
 # 男娘女装大佬cdts灌肠器后庭肛门阴道清洗器情趣用品同志用品gay
 
+## 正文 { data-search-exclude }
+
+
 ![产品图片](//gw.alicdn.com/imgextra/i2/O1CN013tIBin22GeFWjiaZb_!!6000000007093-2-tps-1297-1200.png)
 
 已售 少于100  
@@ -11,7 +14,7 @@
 **参数：**  
 颜色分类:导管（10条装）
 
-## 用户评价
+## 用户评价 { data-search-exclude }
 
 ### 参数信息
 
@@ -54,3 +57,29 @@ t**9
 **商品码**  
 扫一扫，去手机购买
 <!-- tcd_original_link https://pcdetail.taobao.com/cbabbdc5609a2d9ae65f8a7fbbfc989c.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | pcdetail_男娘女装大佬cdts...-淘宝网.md                             |
+| Size            | 2841 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

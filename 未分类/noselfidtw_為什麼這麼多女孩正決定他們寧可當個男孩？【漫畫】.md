@@ -1,5 +1,8 @@
 # 為什麼這麼多女孩正決定他們寧可當個男孩？【漫畫】
 
+## 正文 { data-search-exclude }
+
+
 - 日期: 2022 年 09 月 12 日
 - 作者: Reality Girl
 - 譯者: 推特迷因
@@ -51,3 +54,29 @@ Youtube 上找得到的紀錄片：
 - [同性戀](/tags/%e5%90%8c%e6%80%a7%e6%88%80/)
 - [教育](/tags/%e6%95%99%e8%82%b2/)
 <!-- tcd_original_link https://noselfidtw.cc/post/reality-girl/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | noselfidtw_為什麼這麼多女孩正決定他們寧可當個男孩？【漫畫】.md                             |
+| Size            | 2148 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

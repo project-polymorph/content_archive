@@ -1,5 +1,8 @@
 # 多元性别相关讨论与分享
 
+## 正文 { data-search-exclude }
+
+
 ---
 
 **作者：奶绿**  
@@ -127,3 +130,29 @@
 
 版权所有 © 2010-2019 **SP Project**
 <!-- tcd_original_link https://www.snow-plus.net/simple/index.php?t2369023.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【男+伪娘男娘女装】警告⚠️_请小心的点进来哦！第……九篇？.md                             |
+| Size            | 4371 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

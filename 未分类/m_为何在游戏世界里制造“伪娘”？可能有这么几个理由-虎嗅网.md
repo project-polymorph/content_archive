@@ -1,5 +1,8 @@
 # 为何在游戏世界里制造“伪娘”？可能有这么几个理由
 
+## 正文 { data-search-exclude }
+
+
 ![文章封面](https://img.huxiucdn.com/article/cover/201710/23/190120537743.jpg?imageView2/1/w/600/h/337/|imageMogr2/strip/interlace/1/quality/85/format/webp)
 
 虎嗅注：[本文](http://www.chuapp.com/article/284374.html)转自“触乐网”（chuappgame），作者：DLS_MWZZ。虎嗅获得授权转载。
@@ -92,7 +95,7 @@
 
 《刀剑神域》的主角桐谷和人在第二部《幽灵子弹篇》中以极似女性的形象出场，因此得以接触到有“异性恐惧症”的女主角朝田诗乃。因为《刀剑神域》是以虚拟的网游世界为舞台，桐人这段“女装”情节展示了网游里假扮异性以及性别歧视的日常情节，彰显主角“男女通吃”的魅力也显得顺理成章。
 
-## 结语
+## 结语 { data-search-exclude }
 
 在游戏作品中淡化性别差异，是社会开放、宽容度增大的一种直接体现。如今的现实社会，虽然可能还与理想中的虚拟世界有一定差距，不是所有人都能平静地接受“伪娘”的登场，但“伪娘”的出现及存续满足了一部分人群的喜好与诉求，自有它存在的理由。通过以上的“伪娘”形象，也可以让男性受众能够换位思考，理解差异巨大的女性世界。
 
@@ -100,7 +103,7 @@
 
 本内容为作者独立观点，不代表虎嗅立场。未经允许不得转载，授权事宜请联系 hezuo@huxiu.com如对本稿件有异议或投诉，请联系tougao@huxiu.com
 
-## 最新评论
+## 最新评论 { data-search-exclude }
 
 -   叨客特：为了钱。这是制作方的初衷，也是三次元伪娘频出的根本。 2017-10-24
 -   雪染流年：为什么没有治愈大作，《重生萝莉岛》？ 2017-10-24
@@ -111,3 +114,29 @@
 
 ![](https://img.huxiucdn.com/article/cover/201801/23/195907691348.png)
 <!-- tcd_original_link https://m.huxiu.com/article/219055.html?f=member_article -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_为何在游戏世界里制造“伪娘”？可能有这么几个理由-虎嗅网.md                             |
+| Size            | 12104 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

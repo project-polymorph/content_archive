@@ -1,5 +1,8 @@
 # 泰國人妖秀大推薦！遊曼谷、芭達雅、普吉島成人表演必看大盤點
 
+## 正文 { data-search-exclude }
+
+
 ![Voyager_](https://ak-d.tripcdn.com/images/1i50a12000h1rfyo065AE_C_50_50_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
 2024年11月12日__3,072__0
@@ -16,7 +19,7 @@
 
 泰國自由行除了曼谷金碧輝煌的佛塔寺廟、芭堤雅的陽光海灘以及聞名世界的泰式按摩之外，泰國人妖秀也是遠近馳名！來泰國玩，不妨來觀賞一場泰國著名的人妖秀，炫彩的舞臺、華麗的裝飾、精彩的歌舞表演和婀娜多姿的表演者，一定不會讓你失望滴！
 
-## 泰国成人表演推薦 | 1.金東尼人妖秀
+## 泰国成人表演推薦 | 1.金東尼人妖秀 { data-search-exclude }
 
 ![金東尼人妖秀](https://ak-d.tripcdn.com/images/100610000000q01t29731_R_300_300_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
@@ -39,7 +42,7 @@
 演出時長：60分鐘  
 門票價格：豪華區門票約HKD 140、VIP區約HKD 187  
 
-## 泰国成人表演推薦 | 2.克里普索人妖秀
+## 泰国成人表演推薦 | 2.克里普索人妖秀 { data-search-exclude }
 
 ![克里普索人妖秀](https://ak-d.tripcdn.com/images/1lo4m12000ciwm4gt8D13_R_300_300_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
@@ -61,7 +64,7 @@ HK$273.57
 演出時長：50分鐘  
 門票價格：每人約HKD 210  
 
-## 泰国成人表演推薦 | 3.蒂芬妮人妖秀
+## 泰国成人表演推薦 | 3.蒂芬妮人妖秀 { data-search-exclude }
 
 ![蒂芬妮人妖秀](https://ak-d.tripcdn.com/images/1lo3g12000chjmcgl0C7B_R_300_300_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
@@ -84,7 +87,7 @@ HK$273.57
 場次時間：18：00/19：30/21：00  
 門票價格：VIP銀票約HKD 327、VIP黃金票約HKD 400、VIP鑽石票約HKD 467、中層票約HKD 234。  
 
-## 泰国成人表演推薦 | 4.阿卡薩人妖秀
+## 泰国成人表演推薦 | 4.阿卡薩人妖秀 { data-search-exclude }
 
 ![阿卡薩人妖秀](https://ak-d.tripcdn.com/images/0102712000aa3mtl0C28B_R_300_300_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
@@ -108,7 +111,7 @@ HK$273.57
 演出時長：60分鐘  
 門票價格：貴賓席約HKD 210、VVIP座位約HKD 415  
 
-## 泰国成人表演推薦 | 5.芭提雅6996秀
+## 泰国成人表演推薦 | 5.芭提雅6996秀 { data-search-exclude }
 
 ![芭提雅6996秀](https://ak-d.tripcdn.com/images/1mj5o12000gmenfx2C560_Z_640_10000_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
@@ -119,7 +122,7 @@ HK$273.57
 演出時長：50分鐘  
 門票價格：約HKD 260  
 
-## 泰国成人表演推薦 | 6.西蒙人妖秀
+## 泰国成人表演推薦 | 6.西蒙人妖秀 { data-search-exclude }
 
 ![布吉西蒙人妖秀](https://ak-d.tripcdn.com/images/0105p12000f6t5d3s7F4E_R_300_300_R5.jpg_.webp?proc=autoorient&proc=source%2ftrip)
 
@@ -142,7 +145,7 @@ HK$273.57
 場次時間：18：00/19：30/21：00  
 門票價格：VIP座位票約HKD 235、普通座票約HKD 190  
 
-## 泰国成人表演推薦 | 實用攻略
+## 泰国成人表演推薦 | 實用攻略 { data-search-exclude }
 
 在泰國觀看成人秀和人妖秀時，以下是一些實用的旅遊攻略：
 
@@ -168,3 +171,29 @@ HK$273.57
 
 免責聲明：文章來自國際網誌平台，所有版權歸原作者所有，受Trip.com [條款及細則](https://pages.trip.com/m/service-clause-zh-hk.html?locale=zh-HK&curr=HKD) 和 [社群守則](https://hk.trip.com/sale/3089/communityrule.html?locale=zh-hk) 的約束。如您認為您的版權受到侵犯，請告知我們，我們將盡快刪除相關內容。
 <!-- tcd_original_link https://hk.trip.com/blog/thai-adult-show/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hk_芭達雅、普吉島成人表演必看大盤點.md                             |
+| Size            | 11182 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

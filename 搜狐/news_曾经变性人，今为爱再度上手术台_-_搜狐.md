@@ -1,5 +1,8 @@
 # 曾经变性人，今为爱再度上手术台
 
+## 正文 { data-search-exclude }
+
+
 ![红颜与雪儿](nfdsb060627/03.jpg) 两变性人红颜（右）和雪儿（左）在相处中产生感情，红颜将“恢复”男儿身和雪儿结婚。
 
 ![红颜与雪儿](nfdsb060627/04.jpg) 两变性人红颜（右）和雪儿（左）在相处中产生感情，红颜将“恢复”男儿身和雪儿结婚。
@@ -42,3 +45,29 @@
 
 版权信息：copyright © 2005 sohu.com inc. all rights reserved. 搜狐公司 版权所有
 <!-- tcd_original_link http://news.sohu.com/upload/union-photo/media/nfdsb/060627-3.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_曾经变性人，今为爱再度上手术台_-_搜狐.md                             |
+| Size            | 10647 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

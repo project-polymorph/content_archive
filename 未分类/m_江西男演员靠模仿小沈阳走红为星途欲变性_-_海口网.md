@@ -1,5 +1,8 @@
 # 江西男演员靠模仿小沈阳走红 为星途欲变性
 
+## 正文 { data-search-exclude }
+
+
 ![翟艺阳](http://img.hkwb.net/14810.files/pic300.jpg)
 
 **时间**: 2011-06-20 15:35  
@@ -11,7 +14,7 @@
 
 翟艺阳的职业是演员,靠模仿小沈阳而走红。一个完整且健康的男人，其变性的动机是什么？翟艺阳含着泪说，就是为了获得观众的认可。在演艺圈，演员不出名就是“蚂蚱”，为了“前程”，他不惜挨刀。
 
-## 一个普通的演员
+## 一个普通的演员 { data-search-exclude }
 
 翟艺阳的老家在吉林省公主岭市，毕业于沈阳艺术学院。在2009年中央电视台的春节晚会上，随着“小沈阳”一炮走红，翟艺阳加入了模仿“小沈阳”的行列，走路扭扭捏捏，说话也拉腔拉调。
 
@@ -19,13 +22,13 @@
 
 这两年，翟艺阳在全国参加各类演出，基本都是模仿“小沈阳”，并和南昌新中原大剧院签约，给江西观众带来了很多精彩演出。
 
-## 为了出名变性
+## 为了出名变性 { data-search-exclude }
 
 翟艺阳的内心很不平衡，恨自己的京剧才艺被埋没。他说，“小沈阳”上个春晚就出了名，李玉刚反串角色，唱女声也大红大紫。相对于这两个人，自己的唱腔功底也很高，无论是唱男声还是女声，通俗歌曲、美声或京剧，都不会比这两个人逊色，为什么就不能一夜成名？
 
 为了寻求艺术的“巅峰”，他思前想后，决定变性。其理由是要让自己变成“一个真正的女人”，而不是观众眼中的“娘娘腔”。在平时的演出中，他非常讨厌别人称他是“娘娘腔”，可在舞台上，只有“娘娘腔”才能获得满堂喝彩。
 
-## 不清楚的未来
+## 不清楚的未来 { data-search-exclude }
 
 一个体魄健康的男演员，在接受变性手术后，演艺事业就会如日中天？翟艺阳的心里没有底，却选择了铤而走险。
 
@@ -35,7 +38,7 @@
 
 在周教授看来，患者提出变性要求，接诊的医院应该科学诊断并合理引导，不能为了经济效益或制造噱头，通过手术来彻底改变一个人的性别。事实上，男人不可能彻底变成女人，比如说，喉结就不能整，还比如说，即便他变成了“她”，也不具备生育功能。
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [英汉模仿美国刑侦电视剧杀妻 自捅腹部扮受害者](http://www.hkwb.net/news/content/2011-06/19/content_349095.htm)
 - [陈翔武艺魏晨李宇春 高难度爆笑鬼脸请勿模仿](http://www.hkwb.net/news/content/2011-06/18/content_348475.htm)
@@ -49,3 +52,29 @@
 
 版权所有 © 2010-2020 www.hkwb.net，未作书面许可，不得复制或转载。
 <!-- tcd_original_link http://m.hkwb.net/content/2011-06/20/content_350552.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_江西男演员靠模仿小沈阳走红为星途欲变性_-_海口网.md                             |
+| Size            | 4513 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 跨性别拉拉小组
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别拉拉](https://img1.doubanio.com/view/group/sqxs/public/37459552ea94960.webp)
 
 创建于2015-04-10  组长：[爱就一个字](https://www.douban.com/people/hawkingsha/)    
@@ -73,7 +76,7 @@
 | [找朋友，聊天，谈朋友都可以](https://www.douban.com/group/topic/298387950/ "找朋友，聊天，谈朋友都可以") | [寻找答案](https://www.douban.com/people/Zcz22009519/) |  | 2023-11-28 |
 | [一整天最轻松，放松的时候](https://www.douban.com/group/topic/298281172/ "一整天最轻松，放松的时候") | [你若懂我](https://www.douban.com/people/271066049/) | 1 | 2023-11-26 |
 
-## 最近加入
+## 最近加入 { data-search-exclude }
 
 - [![mii](https://img3.doubanio.com/icon/up270703891-32.jpg)](https://www.douban.com/people/mirapyu/)
   [mii](https://www.douban.com/people/mirapyu/)
@@ -96,3 +99,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/group) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/group/558799/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件介绍了“跨性别拉拉小组”的基本情况和组员发言规则。小组创建于2015年，主要面向生理性别为男性、心理性别为女性的跨性别群体，特指变性拉拉和男拉拉。变性拉拉通常会通过手术来改变身体，而男拉拉则更多的是幻想变成女性，接受自己的身体而不进行变性手术。文件详细列出了小组的发言规则，强调了社区的良好氛围和禁忌内容，包括对不同身份的歧视言论和侵犯他人隐私等行为。此外，文件还列出了小组的标签，便于用户在豆瓣平台上进行分组搜索，以及一些最近的讨论话题，反映了小组成员之间的互动和关注点。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别拉拉小组_-_豆瓣.md                             |
+| Size            | 12572 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 爱就一个字                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-10                                 |
+| Tags            | 跨性别, 同性恋, 拉拉, 变性拉拉, 男拉拉, 社会规范, 社群, 网络讨论, 性别身份, 心理性别                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

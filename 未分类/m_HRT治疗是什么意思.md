@@ -1,5 +1,8 @@
 # HRT治疗是什么意思
 
+## 正文 { data-search-exclude }
+
+
 ![头像](https://cambrian-images.cdn.bcebos.com/50387b85ed48a45ec7965b39ce57abfb_1513775655589.jpeg?x-bce-process=image/auto-orient,o_1/resize,w_1242,limit_1/quality,Q_86/format,f_auto)
 
 HRT治疗是一种激素替代治疗，适用于雌激素缺乏的妇女，可缓解更年期症状、预防骨质疏松、降低心血管疾病发生概率、预防老年性痴呆。但需要注意以下几点：1.该药属于激素类，长期大量服用会影响身体健康。
@@ -28,3 +31,29 @@ HRT治疗更年期综合征：HRT是一种治疗更年期综合征的方法：�
 
 产品建议及投诉请联系：ext_bdjk-kf@baidu.com
 <!-- tcd_original_link https://m.baidu.com/bh/m/detail/sv_11707906605806256159 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_HRT治疗是什么意思.md                             |
+| Size            | 5755 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

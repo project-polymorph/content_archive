@@ -1,5 +1,8 @@
 # 男同性恋者在法语中的翻译与相关信息
 
+## 正文 { data-search-exclude }
+
+
 ### 正文内容
 
 男同性恋者  
@@ -106,3 +109,29 @@ nán tóng xìng liàn zhě
 ### 评论
 无评论信息。
 <!-- tcd_original_link https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E6%B3%95%E8%AF%AD/%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E8%80%85 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | context_男同性恋者-翻译为法语-例句中文_-_Reverso_Context.md                             |
+| Size            | 8457 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

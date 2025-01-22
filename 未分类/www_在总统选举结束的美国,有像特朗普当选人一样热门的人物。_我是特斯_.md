@@ -1,5 +1,8 @@
 # 特朗普政府中的马斯克：从支持民主党到成为实权人物
 
+## 正文 { data-search-exclude }
+
+
 在总统选举结束的美国,有像特朗普当选人一样热门的人物。 我是特斯拉首席执行官埃隆·马斯克。 马斯克以"100万美元特朗普彩票"等破格活动带头赢得了选举。 特朗普12日表示，将提拔马斯克为新成立的"政府效率部"首长。 政府效率部将主要负责削减不必要的政府预算,减少公务员人数的工作。 事实上,这算是掌握了政府结构调整的刀把。 这就是为什么有人评价已经跻身世界首富行列的马斯克甚至掌握了权力的原因。
 
 马斯克并不是从一开始就站在特朗普和共和党一边。 在上次美国总统选举中,他支持了民主党候选人乔·拜登总统。 有人主张,马斯克180度改变心意的契机是因为与大女儿的关系。 马斯克的女儿薇薇安·詹娜·威尔逊做了从男性变成女性的变性手术。 对此,马斯克曾说:"沃克杀害了我的儿子。" 据分析,对追求Walk的民主党文化感到反感,转而支持共和党。 工作是指在人种、性别、认同感等领域抵抗歧视的美国社会内的动向。 "清醒(wake)"的过去分词(woken)被黑人称为"woke",由此而来。
@@ -10,7 +13,7 @@
 
 ---
 
-## 向所属公司发出最后通牒的NEW JINS
+## 向所属公司发出最后通牒的NEW JINS { data-search-exclude }
 
 女生组合newjins向经纪公司发出了"最后通牒"。 本月13日,Newjins向Odoor发送了"如果不接受纠正要求,将解除专属合约"的内容证明。 成员们引用了最近在国政监查中引起争议的Hive报告书中的"抛弃New Jin's,重新构图就可以了"的句子,主张"作为New Jin's的经纪公司,希望采取所有必要的措施" 据悉,他们还强烈要求前代表闵熙珍回归。
 
@@ -22,7 +25,7 @@
 
 ---
 
-## 称霸职业台球的"2007年生"金荣元
+## 称霸职业台球的"2007年生"金荣元 { data-search-exclude }
 
 "17岁的台球天才"终于做到了。 11日，金英媛在京畿道高阳市KINTEX PBA体育场举行的"PBA-LPBA锦标赛"PBA决赛中击败吴泰俊(皇冠海泰队)获得了冠军。 金英媛在17岁23日捧起奖杯，实现了男女选手中历史上最年轻的冠军和第一个10多岁冠军的大记录。 之前最年轻的记录是女子部LPBA金艺恩(欢迎储蓄银行)在2020-2021赛季创下的20岁11个月13天。
 
@@ -32,3 +35,29 @@
 
 ![在11日举行的NH农协卡PBA-LPBA锦标赛PBA决赛中,金英媛正用犀利的眼神看着球。 [照片提供=PBA]](https://wimg.mk.co.kr/news/cms/202411/16/news-p.v1.20241114.9e7c30b1cb8f409a9024e51b0018e73e_P1.png) 
 <!-- tcd_original_link https://www.mk.co.kr/cn/society/11169883 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_在总统选举结束的美国,有像特朗普当选人一样热门的人物。_我是特斯_.md                             |
+| Size            | 4702 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

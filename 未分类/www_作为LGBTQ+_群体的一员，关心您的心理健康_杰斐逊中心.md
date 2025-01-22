@@ -1,5 +1,8 @@
 # 作为 LGBTQ+ 社区的一员，关心您的心理健康
 
+## 正文 { data-search-exclude }
+
+
 ![作为 LGBTQ+ 社区的一员，关心您的心理健康](https://www.jcmh.org/wp-content/themes/yootheme/cache/2d/hero_mental_health_lgbtq-2d89d49a.jpeg)
 
 根据全国精神疾病联盟（[NAMI](https://www.nami.org/Your-Journey/Identity-and-Cultural-Dimensions/LGBTQI)），女同性恋、男同性恋和双性恋者经历心理健康状况的可能性是异性恋成年人的两倍，在比较跨性别和顺性别成年人时，这一比例增加到近四倍。由于心理健康问题，LGBTQ+ 成员更有可能出现物质使用障碍、无家可归和自杀念头或企图。这就是为什么必须保持积极主动并采取行动为您的心理健康带来积极变化的原因。
@@ -18,7 +21,7 @@
 
 保持对可用资源的了解。杰斐逊中心编制了一份名单 **[LGBTQ +资源](https://jeffcent.wpenginepowered.com/wp-content/uploads/2022/04/LGBTQ-Resources-updated-2022.pdf)**. 这包括有关医疗保健、治疗服务、支持组织、针对青少年的计划、在线资源等的有用信息。请记住，您将永远是您最大的拥护者！
 
-## 资源类别
+## 资源类别 { data-search-exclude }
 
 - [Kiara 的笔记 – 博客](https://www.jcmh.org/zh-CN/resources/kiaras-note/)
 - [心理健康很重要——博客](https://www.jcmh.org/zh-CN/resources/mental-health-matters/)
@@ -46,7 +49,7 @@
 - [治疗选择](https://www.jcmh.org/zh-CN/resources/treatment-options/)
 - [女性心理健康](https://www.jcmh.org/zh-CN/resources/womans-mental-health/)
 
-## 联系我们
+## 联系我们 { data-search-exclude }
 
 立即联系杰斐逊中心。 
 
@@ -74,3 +77,29 @@
 
 [了解更多](https://www.jcmh.org/zh-CN/emergency-crisis-services/)
 <!-- tcd_original_link https://www.jcmh.org/zh-CN/caring-for-your-mental-health-as-a-member-of-the-lgbtq-community/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_作为LGBTQ+_群体的一员，关心您的心理健康_杰斐逊中心.md                             |
+| Size            | 6690 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

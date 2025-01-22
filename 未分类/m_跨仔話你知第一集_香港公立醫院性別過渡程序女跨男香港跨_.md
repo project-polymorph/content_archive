@@ -1,5 +1,8 @@
 # 跨仔話你知 第一集| 香港公立醫院性別過渡程序|女跨男
 
+## 正文 { data-search-exclude }
+
+
 ![Kermit Not The Frog](https://yt3.ggpht.com/RTYL8urjwWgz7XUhkIfJblUmNQg1Rx40WN0NAonvFsWuvNK9UvlbwFydkV8tUo1xWpUncnkX6Q=s48-c-k-c0x00ffffff-no-rj)
 
 **作者**: Kermit Not The Frog  
@@ -15,7 +18,7 @@
 
 第一次跟大家見面! 我是女跨男的Kermit 我想跟大家分享一下性別過渡(舊稱: 變性)的過程 原來性別過渡程序要經過重重難關! 看了影片有不明白/不清楚的地方也歡迎提問喔!!
 
-## 章节
+## 章节 { data-search-exclude }
 
 - [0:00] 初次見面 我是Kermit
 - [0:21] 如何取轉介信
@@ -32,7 +35,7 @@
 - [5:15] 手術排期時間
 - [6:04] 完成上下身手術 換身分證
 
-## 社交媒体链接
+## 社交媒体链接 { data-search-exclude }
 
 - **Instagram**: [notthefrogk](https://www.instagram.com/notthefrogk/)
 - **Facebook**: [Kermit Not The Frog](https://www.facebook.com/Kermit-Not-The-Frog-109010294855570)
@@ -49,3 +52,29 @@
 ### 条件与免责声明
 如上述内容涉及不必要的信息，以上已被移除，保留了所有有关跨性别相关的核心信息与链接。
 <!-- tcd_original_link https://m.youtube.com/watch?v=21lie5FJnIM -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨仔話你知第一集_香港公立醫院性別過渡程序女跨男香港跨_.md                             |
+| Size            | 1871 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

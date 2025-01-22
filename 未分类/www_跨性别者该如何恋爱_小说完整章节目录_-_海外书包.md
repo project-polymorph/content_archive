@@ -1,6 +1,9 @@
 # 跨性别者该如何恋爱
 
-## 正文卷
+## 正文 { data-search-exclude }
+
+
+## 正文卷 { data-search-exclude }
 
 1.  [久别重逢](/book/25146/1466190.html)
 2.  [童年 卫季](/book/25146/1466191.html)
@@ -24,3 +27,29 @@
 20.  [拜访](/book/25146/1466209.html)
 21.  [手术](/book/25146/1466210.html)
 <!-- tcd_original_link https://www.haiwaishubao.com/index/25146/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别者该如何恋爱_小说完整章节目录_-_海外书包.md                             |
+| Size            | 1142 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

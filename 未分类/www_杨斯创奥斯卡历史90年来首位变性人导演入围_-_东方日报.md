@@ -1,5 +1,8 @@
 # 杨斯创奥斯卡历史　90年来首位变性人导演入围
 
+## 正文 { data-search-exclude }
+
+
 发布于 2018年01月30日 18时45分 • 最后更新 6年前
 
 ![](https://www.orientaldaily.com.my/images/uploads/news/2018/JAN_2018/20180130/yance-ford-750x.jpg)
@@ -24,3 +27,29 @@
 
 ![](https://www.orientaldaily.com.my/assets/images/logo-article.png)
 <!-- tcd_original_link https://www.orientaldaily.com.my/news/entertainment/2018/01/30/229934 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_杨斯创奥斯卡历史90年来首位变性人导演入围_-_东方日报.md                             |
+| Size            | 3035 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,11 +1,14 @@
 # 麻辣话题：为何梦幻“人妖”泛滥！
 
+## 正文 { data-search-exclude }
+
+
 时间：2009-07-31 17:17  
 作者：xxw911111
 
 ![梦幻西游](//i.17173cdn.com/0561y4/YWxqaGBf/gamebase/game-cover-horizontal/QKlNMobmEvAsAoE.jpg)
 
-## [梦幻西游](https://newgame.17173.com/game-info-118.html)[氪金玩的爽第4名](https://newgame.17173.com/rank/info.html#氪金玩的爽)
+## [梦幻西游](https://newgame.17173.com/game-info-118.html)[氪金玩的爽第4名](https://newgame.17173.com/rank/info.html#氪金玩的爽) { data-search-exclude }
 
 在下不才，也是玩女性角色的大老爷们一个。
 
@@ -71,11 +74,11 @@ FC，双封没有；WZ，三封的命中率从理论来说又低了一点；TG�
 
 ---
 
-## 与_[xxw911111](http://xyq.17173.com/tag/xxw911111)_相关的文章有：
+## 与_[xxw911111](http://xyq.17173.com/tag/xxw911111)_相关的文章有： { data-search-exclude }
 
 - [股票入门，T+0及涨跌30%与换手率的关系](http://xyq.17173.com/content/2009-08-05/1249444429.shtml)(2009-08-05)
 
-## 评论
+## 评论 { data-search-exclude }
 
 -   **热门评论**
     - 2010年12月20日 8:08 [17173网友](javascript:void\(0\))  
@@ -97,3 +100,29 @@ FC，双封没有；WZ，三封的命中率从理论来说又低了一点；TG�
 
 **版权声明：** Copyright © 2001-2025 17173. All rights reserved.
 <!-- tcd_original_link http://xyq.17173.com/content/2009-07-31/1249031849.shtml?_platform=PC -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | xyq_麻辣话题：为何梦幻“人妖”泛滥！.md                             |
+| Size            | 3861 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,10 +1,13 @@
 # 品味跨性别者和非二元性别者的感人故事，欢庆骄傲月
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://play-lh.googleusercontent.com/gJ--FbDetlmCbgZclzakWi12n9zxadWDKMyMUV1QCmGdP0-mriAmH_1n6ZFceqw4lBWxMM5LQ4eU=w1296-h2160-rw)
 
 为庆祝骄傲月，我们将重点推荐一些优质游戏，这些游戏中有的讲述跨性别者的故事，有的主打跨性别和非二元性别角色，还有的以有趣、包容的方式庆祝跨性别者的喜悦。这些以角色为导向的游戏丰富多样，从可爱风主题到超自然主题，应有尽有，总有一款适合你。
 
-## 游戏推荐
+## 游戏推荐 { data-search-exclude }
 
 ### 花映繁星
 
@@ -76,3 +79,29 @@
 
 探索包容性游戏，庆祝同志骄傲月！
 <!-- tcd_original_link https://play.google.com/store/apps/editorial?id=mc_games_editorialmd_pride_2024_fcp&hl=zh_CN -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | play_品味跨性别者和非二元性别者的感人故事，欢庆骄傲月_-_Google_Play.md                             |
+| Size            | 3761 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

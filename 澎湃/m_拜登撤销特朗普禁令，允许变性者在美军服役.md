@@ -1,5 +1,8 @@
 # 拜登撤销特朗普禁令，允许变性者在美军服役
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 澎湃新闻  
 **时间**: 01-26 13:57  
 **作者**: 未知  
@@ -15,3 +18,29 @@
 
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)
 <!-- tcd_original_link https://m.thepaper.cn/kuaibao_detail.jsp?contid=10946931&from=kuaibao -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章报道了美国新任总统拜登于2021年1月25日签署行政命令，撤销特朗普政府下颁布的禁止变性者在美军服役的命令。文章指出，拜登在签署命令时强调，所有合法的美国公民都应有权为国家服务，无论其性别认同如何。这项新政策意味着变性军人的身份不会再成为他们服役的障碍，白宫新闻秘书普萨基也表态将重新审查因性别认同被迫退伍的案件。反观特朗普政府的政策曾由于医疗成本等理由禁止变性者服役，并且在其任期内对包括变性人服役及转变性别的军人提出了一系列限制。拜登的命令和言论旨在增强美国军队的多样性及包容性，符合对跨性别者的支持与保护。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_拜登撤销特朗普禁令，允许变性者在美军服役.md                             |
+| Size            | 1763 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2021-01-25                                 |
+| Tags            | 变性者, 美军服役, 拜登, 美国总统, 特朗普, 性别认同, 多元性别, 政治, 社会包容性, 变性政策                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

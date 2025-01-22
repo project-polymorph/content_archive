@@ -1,5 +1,8 @@
 # 特朗普讽林郁婷变性人，黄扬明问赖敢抗议吗？留言一面倒
 
+## 正文 { data-search-exclude }
+
+
 ![特朗普](https://upload.resources/image/2024/08/19/2289975_800x99999.jpg)
 **▲共和党籍美国总统候选人特朗普（图）近日再度口出狂言，称在甫落幕的巴黎奥运中“有两名变性人”，暗讽台湾拳击好手林郁婷和阿尔及利亚拳手凯利夫。（图/ 美联社）**
 
@@ -15,3 +18,29 @@
 
 **来源：中时新闻网**
 <!-- tcd_original_link https://m.stnn.cc/c/2024-08-19/3914355.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_特朗普讽林郁婷变性人，黄扬明问赖敢抗议吗？留言一面倒_-_星岛环球网.md                             |
+| Size            | 2040 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

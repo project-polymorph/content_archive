@@ -1,5 +1,8 @@
 # “女装大佬”背后那些无用但是有趣的知识
 
+## 正文 { data-search-exclude }
+
+
 ![封面图](https://image.gcores.com/258baf26-b6a3-4277-b836-e7be8576e7e4.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_2000,h_2000/quality,q_90/format,webp)
 
 抛开这些无聊的话，还是能发现不少好玩的事情的。
@@ -19,7 +22,7 @@
 
 倒谈不上讨厌这件事情，只是我对这个行为的由来以及持续时间产生了巨大的好奇——特别是我在2020年仍然能看到有人乐此不疲的在各种类型的视频评论区里、QQ群里让别人女装，在我的印象里，“UP主女装”、“女装大佬”这类词汇最流行的时间大概是2016年，到如今怎么也有三年多的时间，这让我很好奇这些现象的起源，以及他们产生的原因。于是花费了一些时间去搜集资料，发现这背后的故事远比我想象的还要无聊，但却非常有趣（似乎是自相矛盾）。
 
-## 一切的起源：伪娘文化
+## 一切的起源：伪娘文化 { data-search-exclude }
 
 说明：本章节中的“伪娘”指广义上的女性化打扮的男性角色或有女性特征的男性角色，并不特指ACG文化当中的伪娘。
 
@@ -64,7 +67,7 @@
 
 值得一提的是，随着时间的变化，ACG文化中伪娘这一概念渐渐也发生了变化，无论是社会对于这个词语的认知和联想，还是这个词汇所包含的领域都发生了改变。最为明显的是ACG文化中伪娘从早期的只指代虚拟角色开始逐渐演变为也可以指代现实中具有同样特征的角色。
 
-## 大家是啥时候开始的？
+## 大家是啥时候开始的？ { data-search-exclude }
 
 这里的大家特指国内完全不了解ACG文化，或者只是简单接触的群体。
 
@@ -168,7 +171,7 @@ Ladybeard在国内当时也是引起过轩然大波，不少媒体或者营销�
 
 由于这首歌曲的爆火，无数人开始对舞蹈进行翻跳，其中不乏很多男性。有的是在粉丝的怂恿下，也有的也许是为了更好地还原，总之那段时间，女装跳极乐净土成为了回馈粉丝的最好方式，这也在客观上提高了大家对女装的接受度。
 
-## 流行文化之外
+## 流行文化之外 { data-search-exclude }
 
 在ACG文化这个语境之外，其实中国一直存在“反串”这个概念，是中国传统戏曲中的一种表演形式，主要是指演出与自身本工的行当不同的戏的情形，但后来也可以用于男扮女或女扮男的异装情形。
 
@@ -178,7 +181,7 @@ Ladybeard在国内当时也是引起过轩然大波，不少媒体或者营销�
 
 ### 京剧名家：梅兰芳
 
-## 伪娘、性别、性向
+## 伪娘、性别、性向 { data-search-exclude }
 
 本章节只讨论ACG文化下的伪娘概念，本章节不对性取向和性别认同做任何评价，只是单纯的叙述概念与概念直接的差异。
 
@@ -205,7 +208,7 @@ Ladybeard在国内当时也是引起过轩然大波，不少媒体或者营销�
   
 - 你爸妈都知道的女装大佬 李玉刚
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - 中文维基百科“伪娘”词条
 - 中文维基百科“ladybeard”词条
@@ -215,3 +218,29 @@ Ladybeard在国内当时也是引起过轩然大波，不少媒体或者营销�
 
 **标签：** [二次元](/tags/291), [生活](/tags/442), [女装](/tags/3633)
 <!-- tcd_original_link https://www.gcores.com/articles/120763 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“女装大佬”背后那些无用但是有趣的知识_-_机核GCORES.md                             |
+| Size            | 17909 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

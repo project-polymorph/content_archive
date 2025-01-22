@@ -1,5 +1,8 @@
 # 美国防部允许变性人公开服役
 
+## 正文 { data-search-exclude }
+
+
 ![美国防部允许变性人公开服役](https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg)
 
 **作者：陆佳飞**  
@@ -18,3 +21,29 @@
 
 [链接至原文](http://news.xinhuanet.com/world/2016-07/01/c_1119148490.htm)
 <!-- tcd_original_link https://world.huanqiu.com/article/9CaKrnJWeiV -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_美国防部允许变性人公开服役_-_国际新闻.md                             |
+| Size            | 1618 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 豆瓣女权，夹缝中形成的“中国特色女权”
 
+## 正文 { data-search-exclude }
+
+
 - **作者：** 啡卡
 - **刊登于：** 2021-03-08
 - **来源：** [端传媒 Initium Media](https://theinitium.com/opinion/20210308-opinion-china-douban-feminism-awakens-or-failure)
@@ -15,7 +18,7 @@
 
 在中国大陆当下的特殊环境里，这些新生女权主义者很多举起了“社会主义女权”、“共产主义女权”，甚至粉红色彩浓重的“中国特色女权主义”旗号，也有一部分新生朴素女权并没有明确的政治光谱。在这些旗号背后，有的出于真心的信仰，有的出于实用性的策略考虑，既有她们自身的稚嫩与局限，也有环绕八方的困境。
 
-## 豆瓣鹅组：混杂多元的网络女权阵地
+## 豆瓣鹅组：混杂多元的网络女权阵地 { data-search-exclude }
 
 > 鹅组曾经是主聊娱乐八卦的地方，以女性用户为主，后来一度涌入不少粉红和饭圈女孩。如今它摇身一变，成为大陆网络上最重要的女权基地之一。
 
@@ -43,7 +46,7 @@
 
 鹅组因为用户准入困难，其成员短时间内流动性很小，某种声量在不同时段的大小并不意味著成员的大幅变动。整个2020年，随著组内关于女权的讨论越来越多，也时不时开始出现个别相对成熟的女权主义者做普及功课的帖子，同时也伴随著一些政治倾向不明显的新生朴素女权在陆续觉醒。但总体而言，即便组内最不粉红的言论，也只是对政府在性别问题上的不信任，除此之外不会有太尖锐的言论；即便有，也会很快消失。
 
-## 召唤“社会主义女权”
+## 召唤“社会主义女权” { data-search-exclude }
 
 > 如今，《毛选》成为组内女权最喜欢的引用，这不仅是一部分人发自内心的认同，同时也是空间狭窄造成的策略性倾斜。
 
@@ -87,7 +90,7 @@
 
 与此同时，一些相对成熟的左翼女权主义（马克思女权主义、社会主义女权主义等）言论也时不时出现，这里面有多少是本来就比较成熟的前代女权主义者，又有多少是新生代“泛粉红”在女权觉醒的过程中认真学习思考转化而来，不得而知。
 
-## 因制度难碰而只见“性别对立”
+## 因制度难碰而只见“性别对立” { data-search-exclude }
 
 > 数量庞大的网络女权主义者，目前只能在去中心化的散沙中，稚嫩地争取相对容易的文化层面变革。
 
@@ -111,7 +114,7 @@
 
 而以上这些脱离具体现实困境、无视房间大象的批判和不解，甚至污名化，更加激化了女性的愤怒，本身就对社会结构缺乏成熟认知、又难以撬动制度天花板的朴素新生女权，进一步把矛头指向男性群体，而非结构和制度层面。就这样，男女对立在网络上愈演愈烈，在互联网这一放大极端言论的环境下，如反就业歧视、同工同酬等制度性批判和建设的焦点进一步被遮蔽。
 
-## 去中心网络的团结难题
+## 去中心网络的团结难题 { data-search-exclude }
 
 > 这背后，实际却是很多网络女权主义者对女性内部阶级差异的忽视，以及专业女性救助机构的缺失。
 
@@ -141,3 +144,29 @@
 
 **版权声明：** 本刊载内容版权为端传媒或相关单位所有，未经[端传媒编辑部](mailto:editor@theinitium.com)授权，请勿转载或拷贝，否则即为侵权。
 <!-- tcd_original_link https://theinitium.com/zh-hans/opinion/20210308-opinion-china-douban-feminism-awakens-or-failure -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | theinitium_豆瓣女权，夹缝中形成的“中国特色女权”__端传媒Initium_Media.md                             |
+| Size            | 26132 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

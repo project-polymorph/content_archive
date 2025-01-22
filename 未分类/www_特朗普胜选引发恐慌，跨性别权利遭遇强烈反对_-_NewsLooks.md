@@ -1,5 +1,8 @@
 # 特朗普胜选引发恐慌，跨性别权利遭遇强烈反对
 
+## 正文 { data-search-exclude }
+
+
 **日期**: 15 November 2024  
 **作者**: [玛丽·西迪奇](https://www.newslooks.com/zh-CN/author/mary-sidiqi/)  
 **来源**: NewsLooks  
@@ -88,3 +91,29 @@ LGBTQ 权益运动以前也面临过类似的挑战。2004 年至 2008 年，反
 
 正如跨性别者马克斯韦尔·库兹玛 (Maxwell Kuzma) 所说，“作为一名跨性别者的生活迫使我学会了一种韧性，我将依靠这种韧性继续大声反对偏见和歧视。”
 <!-- tcd_original_link https://www.newslooks.com/zh-CN/trans-rights-face-backlash-as-trumps-election-victory-fuels-fear/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_特朗普胜选引发恐慌，跨性别权利遭遇强烈反对_-_NewsLooks.md                             |
+| Size            | 10576 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

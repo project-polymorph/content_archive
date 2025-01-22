@@ -1,5 +1,8 @@
 # 聊聊泰国人妖秀，涨姿势
 
+## 正文 { data-search-exclude }
+
+
 _发表于 2014-7-28 22:24:02_ | 作者: [马玛丽](home.php?mod=space&uid=3521)
 
 在曼谷的最后一晚，吃过晚饭去曼波国际人妖秀。因为之前看过蒂芬妮人妖表演，所以，有所对比的去看了。总的来说，质量完全没有蒂芬妮的高，再者说布景啊、编舞的都不及。好处是，客人可以带各类摄影摄像器材，不干涉，不禁止。
@@ -62,3 +65,29 @@ _发表于 2014-7-28 22:24:02_ | 作者: [马玛丽](home.php?mod=space&uid=3521
 
 感谢分享！
 <!-- tcd_original_link http://www.perfectravel.net/thread-1381-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_聊聊泰国人妖秀，涨姿势-_风情亚洲_Asia_-_Perfectravel_完美旅行网.md                             |
+| Size            | 2757 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

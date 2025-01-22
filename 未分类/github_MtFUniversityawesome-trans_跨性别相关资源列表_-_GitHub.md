@@ -1,8 +1,11 @@
 # 跨性别相关资源列表
 
+## 正文 { data-search-exclude }
+
+
 欢迎在 [twitter](https://twitter.com/awesome_trans)，[telegram](https://t.me/awesome_trans) 上关注我们。如果想要联系我们，请发送邮件到 [awesome-trans@outlook.com](mailto:awesome-trans@outlook.com)。
 
-## 信息
+## 信息 { data-search-exclude }
 
 ### 百科
 
@@ -24,7 +27,7 @@
 -   ![跨儿心理](https://github.com/MtFUniversity/awesome-trans/blob/main/asset/wechat-official/%E8%B7%A8%E5%84%BF%E5%BF%83%E7%90%86.bmp)
 -   ![BIE别的女孩](https://github.com/MtFUniversity/awesome-trans/blob/main/asset/wechat-official/BIE%E5%88%AB%E7%9A%84%E5%A5%B3%E5%AD%A9.bmp)
 
-## 需求
+## 需求 { data-search-exclude }
 
 ### 护肤
 
@@ -43,7 +46,7 @@
 -   [生如夏花](https://wiki.viva-la-vita.org)：乳首开发
 -   [给男孩子的慰菊指导丛书 - あぶひゃく](https://book.douban.com/subject/4170326/)：前列腺开发
 
-## 群组
+## 群组 { data-search-exclude }
 
 ### 综合
 
@@ -58,7 +61,7 @@
 -   [Voice Lab!](https://t.me/joinchat/P8X8LEo6Uzx3GTALFY67Aw)
     -   [新手包](https://github.com/awesome-trans/archive/blob/main/%E5%A3%B0%E9%9F%B3/Voice%20Lab!%20%E6%96%B0%E6%89%8B%E5%8C%85)
 
-## 其他
+## 其他 { data-search-exclude }
 
 ### 图书
 
@@ -74,7 +77,33 @@
 
 -   [A YEAR OF SPRINGS](https://itch.io/c/656634/a-year-of-springs-spring-trilogy)
 
-## 版权说明
+## 版权说明 { data-search-exclude }
 
 - 本文档及相关资源均可供个人使用，引用时请注明出处。
 <!-- tcd_original_link https://github.com/MtFUniversity/awesome-trans -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | github_MtFUniversityawesome-trans_跨性别相关资源列表_-_GitHub.md                             |
+| Size            | 3112 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

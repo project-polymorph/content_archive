@@ -1,5 +1,8 @@
 # 刘霆变性手术后选美获奖 隆胸变性全过程曝光
 
+## 正文 { data-search-exclude }
+
+
 ##### 2015年09月26日13:43    
 来源：[爱秀美](http://www.ixiumei.com/a/20150923/186927.shtml) 
 
@@ -15,11 +18,11 @@
 
 _(责编：刘博雪、李昉)_ 
 
-## 评论 
+## 评论  { data-search-exclude }
 ### 最新评论 
 ### 热门评论 
 
-## 资料信息 
+## 资料信息  { data-search-exclude }
 - **时间**: 2015年09月26日
 - **来源**: 人民网
 - **作者**: 刘博雪
@@ -28,3 +31,29 @@ _(责编：刘博雪、李昉)_
 
 ![分享](http://58.68.146.44:8000/c.gif?id=27637653)
 <!-- tcd_original_link http://lady.people.com.cn/n/2015/0926/c1014-27637653-8.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | lady_刘霆变性手术后选美获奖隆胸变性全过程曝光--时尚.md                             |
+| Size            | 1434 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性转后的你会喜欢上原性别的自己吗
 
+## 正文 { data-search-exclude }
+
+
 ![素泽](https://img1.doubanio.com/icon/up59138907-18.jpg)
 
 ### 来自: [素泽](https://www.douban.com/people/59138907/)(セルフケア中)
@@ -28,7 +31,7 @@
 
 ![讨论](https://img1.doubanio.com/view/group_topic/l/public/p542543989.webp)
 
-## 评论
+## 评论 { data-search-exclude }
 
 ### 最赞回应
 
@@ -52,7 +55,7 @@
 
 （评论内容省略，具体评论同上）
 
-## 相关内容推荐
+## 相关内容推荐 { data-search-exclude }
 
 - [组规活动｜给你一个方法帮你找到你的性别认同，性向和喜欢的类型](https://www.douban.com/group/topic/260609586/)
   
@@ -62,7 +65,7 @@
 
 - [其她｜非主流、边缘化、小众异类女性形象](https://www.douban.com/group/topic/294560543/)
 
-## 版权说明
+## 版权说明 { data-search-exclude }
 
 © 2005－2024 douban.com, all rights reserved
 
@@ -74,3 +77,29 @@
 
 太长
 <!-- tcd_original_link https://m.douban.com/group/topic/264977391/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇讨论帖来自豆瓣，话题围绕性别转变后的个体对原性别自我的感受进行探讨。主题为‘性转后的你会喜欢上原性别的自己吗’，通过假设性转的情境，引导参与者反思和分享他们的真实经历与心理感受。帖子中有丰富的用户评论，反映了不同观点和体验，包括对自我认知、缺点和个性的理解，以及对自己和他人期望的双标现象。帖子的发起者通过问题设定，鼓励大家认真思考与性别认同相关的复杂情感，并提供了类似内容的相关链接，增加了讨论的深度和广度。这种自我反思与社区互动的形式，有助于提升对多元性别话题的认识和讨论，也反映了在变革中的社会对性别认同的不同看法。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性转后的你会喜欢上原性别的自己吗-_小组讨论_-_豆瓣.md                             |
+| Size            | 3518 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 素泽                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-04-18                                 |
+| Tags            | 性别转变, 多元性别, 自我认同, 社群讨论, 心理感受, 性别观念, 用户评论, 豆瓣小组, 个体验分享, 性向问题                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

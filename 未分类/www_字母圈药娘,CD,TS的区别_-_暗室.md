@@ -1,5 +1,8 @@
 # 字母圈药娘,CD,TS的区别
 
+## 正文 { data-search-exclude }
+
+
 ![字母圈药娘,CD,TS的区别](http://www.anshism.com/wp-content/uploads/2021/02/1614155932-683x1024.jpg)
 
 - 标签: [cd](https://www.anshism.com/tag/cd), [ts](https://www.anshism.com/tag/ts), [字母圈](https://www.anshism.com/tag/%e5%ad%97%e6%af%8d%e5%9c%88), [药娘](https://www.anshism.com/tag/%e8%8d%af%e5%a8%98)
@@ -52,3 +55,29 @@ cd：是指纯男生，只通过化妆，学习伪音，女装来达到让自己
 
 - 标签: [字母圈](https://www.anshism.com/tag/%e5%ad%97%e6%af%8d%e5%9c%88), [dom](https://www.anshism.com/tag/dom), [sub](https://www.anshism.com/tag/sub), [圈内趣事](https://www.anshism.com/tag/%e5%9c%88%e5%86%85%e8%b6%a3%e4%ba%8b), [5m](https://www.anshism.com/tag/5m), [BD5M](https://www.anshism.com/tag/bd5m), [sp](https://www.anshism.com/tag/sp)
 <!-- tcd_original_link https://www.anshism.com/487.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_字母圈药娘,CD,TS的区别_-_暗室.md                             |
+| Size            | 9739 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

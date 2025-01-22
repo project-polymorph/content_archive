@@ -1,6 +1,9 @@
 # 「我的聲音，我們的平等未來」：《胡利安是隻美人魚》－跨性別女孩的生命經驗
 
-## 活動資訊
+## 正文 { data-search-exclude }
+
+
+## 活動資訊 { data-search-exclude }
 
 - **主辦單位**: 台灣同志家庭權益促進會
 - **活動日期**: 2020-10-24 14:00 至 16:00
@@ -10,7 +13,7 @@
   - 電話: 0223650790
   - Email: [secretariat@lgbtfamily.org.tw](mailto:secretariat@lgbtfamily.org.tw)
 
-## 活動內容
+## 活動內容 { data-search-exclude }
 
 免費活動 #跨性別生命故事 —— 台灣同志家庭權益促進會運用「真人圖書館」的方式，透過講者生命經驗與繪本故事的分享，讓參與者看見台灣女孩的多元樣貌。
 
@@ -39,18 +42,44 @@
 
 現場因應新冠狀病毒疫情，我們會準備酒精供大家消毒，也煩請大家配合，如體溫超過37.8度，先跟您說抱歉無法參加活動喔！
 
-## 來源
+## 來源 { data-search-exclude }
 
 - 台灣同志家庭權益促進會
 
-## 標籤
+## 標籤 { data-search-exclude }
 
 - #免費活動
 - #跨性別生命故事
 
-## 版權及註釋
+## 版權及註釋 { data-search-exclude }
 
 本系統已提升網路傳輸加密等級，IE8及以下版本將無法支援。為維護網路交易安全性，請升級或更換至右列其他瀏覽器。
 
 netiCRM 是一套採用 [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.html) 授權的自由軟體 [netiCRM.tw](https://neticrm.tw) 是由網絡行動科技提供的非營利組織CRM服務，系統94%再生能源使用率，2024年底將達成100% [了解我們的能源承諾](https://neticrm.tw/news/21379) Forked from [CiviCRM](http://civicrm.tw) & Powered by [NETivism](https://netivism.com.tw)
 <!-- tcd_original_link https://lgbtfamily.neticrm.tw/civicrm/event/info?reset=1&id=109 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | lgbtfamily_我們的平等未來」：《胡利安是隻美人魚》－跨性別女孩的生命經驗.md                             |
+| Size            | 2761 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

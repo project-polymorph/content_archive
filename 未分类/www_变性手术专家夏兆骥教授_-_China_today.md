@@ -1,5 +1,8 @@
 # 变性手术专家夏兆骥教授
 
+## 正文 { data-search-exclude }
+
+
 ![](images/20024/bianxing3.jpg)
 
 _我们不能回避这样一个事实：性别转换症的发病率男性为四万分之一，女性为十万分之一。专门为那些固执要求改变自己性别的易性癖患者实施整形美容外科手术的医务人员，肩上的担子不轻。_
@@ -65,3 +68,29 @@ _中国变性手术已经走在世界前例，比如女性性器官、乳房再�
 网址: www.chinatoday.com.cn  
 E-mail: chinatoday@263.net  
 <!-- tcd_original_link http://www.chinatoday.com.cn/china/20024/bianxing.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性手术专家夏兆骥教授_-_China_today.md                             |
+| Size            | 10942 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

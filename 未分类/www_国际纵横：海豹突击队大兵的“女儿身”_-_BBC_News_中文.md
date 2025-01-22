@@ -1,5 +1,8 @@
 # 国际纵横：海豹突击队大兵的“女儿身”
 
+## 正文 { data-search-exclude }
+
+
 ![克里斯·贝克](https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2013/08/02/130802133307_kristin_512x288_kristinbeck_nocredit.jpg.webp)
 
 **Article information**
@@ -41,7 +44,7 @@
 
 “我现在没有那么愤怒了，我睡得更好了，因为我更开心了。很多人说，克里斯，这么多年我是头一次见你笑。”
 
-## 不问不说
+## 不问不说 { data-search-exclude }
 
 2011年奥巴马政府废除对待军队同性恋问题的“不问不说”的政策，同性恋者也可公开服役，但此规定对“变性者”并不适用，一旦发现，他们将被逐出军队。
 
@@ -57,3 +60,29 @@
 
 （编译：高毅 责编：陈书敏）
 <!-- tcd_original_link https://www.bbc.com/zhongwen/simp/world_outlook/2013/08/130803_world_outlook_seal_transgender -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国际纵横：海豹突击队大兵的“女儿身”_-_BBC_News_中文.md                             |
+| Size            | 4373 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

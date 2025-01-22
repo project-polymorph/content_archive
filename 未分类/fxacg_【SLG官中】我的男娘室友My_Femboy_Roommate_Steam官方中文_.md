@@ -1,5 +1,8 @@
 # 我的男娘室友 /My Femboy Roommate Steam官方中文版
 
+## 正文 { data-search-exclude }
+
+
 _发于 2024-10-31 11:58:42 | 查看: 5220 | 回复: 303_
 
 ![飞雪论坛](template/acgi_b1/images/logo.png)
@@ -65,3 +68,29 @@ _发于 2024-10-31 12:23:11_
 Powered by [飞雪论坛](https://fxacg.cc/forum.html)  
 © 2022 飞雪娱乐网 Inc.
 <!-- tcd_original_link https://fxacg.cc/thread-55450-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fxacg_【SLG官中】我的男娘室友My_Femboy_Roommate_Steam官方中文_.md                             |
+| Size            | 1740 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

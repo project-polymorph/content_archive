@@ -1,5 +1,8 @@
 # 跨性别资源中心黄埔会址开幕
 
+## 正文 { data-search-exclude }
+
+
 ![开幕图片](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/465065254_27199939446321040_2154161243637133345_n.jpg?stp=dst-jpg_fb50_s320x320_tt6&_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZCPQumqIRjsQ7kNvgFPgfTd&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Awob8RFrUb5RNbhGj-IOFjx&oh=00_AYA2ZUuxdxxsXRU7tNobAoWEn7-DfgmxwROXVls94kWekA&oe=678C1F5E)
 
 **时间：** 2017年12月31日，下午2:00 – 4:00（HKT）
@@ -16,12 +19,38 @@
 
 **回应人数：** 59人
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 - [活动链接](https://www.facebook.com/events/134125363938903/)
 - [讨论区](https://www.facebook.com/events/134125363938903/?active_tab=discussion)
 
-## 标签
+## 标签 { data-search-exclude }
 跨性别、资源中心、社会支持、法律问题
 
 ![开幕相关图片](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/465065254_27199939446321040_2154161243637133345_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=75d36f&_nc_ohc=ZCPQumqIRjsQ7kNvgFPgfTd&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Awob8RFrUb5RNbhGj-IOFjx&oh=00_AYB6zlD-spnaxoorg-YzGB54j-qTCDpMfPteM7l3Q1nX8A&oe=678C1F5E)
 <!-- tcd_original_link https://www.facebook.com/events/transgender-resource-center-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%B3%87%E6%BA%90%E4%B8%AD%E5%BF%83-transgender-resource-center-new-location-ope/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%B3%87%E6%BA%90%E4%B8%AD%E5%BF%83%E9%BB%83%E5%9F%94%E6%9C%83%E5%9D%80%E9%96%8B%E5%B9%95/134125363938903/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別資源中心黃埔會址開幕_-_Facebook.md                             |
+| Size            | 2033 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

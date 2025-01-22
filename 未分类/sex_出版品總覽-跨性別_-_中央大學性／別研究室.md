@@ -1,5 +1,8 @@
 # 跨性别出版品总览
 
+## 正文 { data-search-exclude }
+
+
 ![书籍封面](bookcoverimages/0027.jpg)
 
 - **出版时间**：2003年11月
@@ -9,7 +12,7 @@
 - **执行编辑**：朱玉立
 - **ISBN**：957-01-5379-2
 
-## 简介
+## 简介 { data-search-exclude }
 
 以异性恋女人为主体的性别解放，其实只是争取「两性」平等的妇女解放。
 
@@ -19,13 +22,13 @@
 
 一个充分操弄性别符码但是无法以性别来归类或想象的人种正在萌芽中。
 
-## 开卷周报 2005.11主题书展选书
+## 开卷周报 2005.11主题书展选书 { data-search-exclude }
 
 在各方纷纷讨论着「性别认同」之时，「跨性别」的研究打破的不仅是「异性恋霸权」，更要打破「认同霸权」。正如编者何春蕤在序文中所言：研究「跨性别」的学者都苦于定義的問題。这不但是因跨性别主体的差异总是持续不断地浮动，更因为那个被性别二分论所渗透的语言，总是固执地黏着跨性别的主体，不管他们已经跨到了哪里。它也还会纠葛连动另外一些二分法的僵持：生理／心灵的、认同／身体的、真实／捏造的、身份／表现的，使得已经跨出去的生命总是被无数固着的藤蔓拉扯着不得脱身。
 
 本书是论文的结集，也是台湾第一本如此详尽而涵盖广泛的专业书籍，从跨性别主体到跨性别运动，从对台湾综艺节目反串秀的解析，到跨性别人士的田野记录与经验口述，以及串联世界各地的跨性别运动。只有当跨性别得到自由平等，才能有真正的「性别」解放。书中所收录美国跨性别运动人士费雷思的著作〈我们都是正在成形的作品〉，此标题正贴切而生动地描绘了各种跨性别人士的真实处境，而那也是我们的处境。
 
-## 全书目录（以下链接皆为PDF档案）
+## 全书目录（以下链接皆为PDF档案） { data-search-exclude }
 
 - [性／别研究丛书：书系序／何春蕤](2003/transgender/pdf/00.pdf)
 - [当认同意识已然成为牢笼：代序／何春蕤](2003/transgender/pdf/01.pdf)
@@ -52,7 +55,7 @@
 7. [Ｔ婆的跨性别蓝调诗／何春蕤](2003/transgender/pdf/16.pdf)
 8. [跨性别运动对女性主义的挑战／卡维波](2003/transgender/pdf/17.pdf)
 
-## 作者简介
+## 作者简介 { data-search-exclude }
 
 - **何春蕤**：中央大学英美文学系教授
 - **徐淑婷**：波士顿大学复健精神医学博士候选人
@@ -72,3 +75,29 @@
 **电话**：886-3-4262926  
 **电子邮件**：[sexenter.ncu@gmail.com](mailto:sexenter.ncu@gmail.com)
 <!-- tcd_original_link https://sex.ncu.edu.tw/publication/book_common_27.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sex_出版品總覽-跨性別_-_中央大學性／別研究室.md                             |
+| Size            | 5098 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

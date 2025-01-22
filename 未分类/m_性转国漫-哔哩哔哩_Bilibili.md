@@ -1,5 +1,8 @@
 # 性转国漫相关视频列表
 
+## 正文 { data-search-exclude }
+
+
 以下是关于性转国漫的漫画推荐及视频列表，包含时间、作者、来源和相关图片。
 
 ### 视频列表
@@ -68,3 +71,29 @@
 
 以上内容来自哔哩哔哩网站，所有版权归原作者所有。
 <!-- tcd_original_link https://m.bilibili.com/search?keyword=%E6%80%A7%E8%BD%AC%E5%9B%BD%E6%BC%AB -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性转国漫-哔哩哔哩_Bilibili.md                             |
+| Size            | 5239 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # “变性人”金星的双性人生：娶过女人也嫁过男人，28岁成为女人
 
+## 正文 { data-search-exclude }
+
+
 原创2022-04-18 17:37 · [北极熊小小](https://www.toutiao.com/c/user/token/MS4wLjABAAAAFOnnT56qZJGYYcbMjfbt8OdvnRrYNKcJ9NYvwgjzNIU/?source=tuwen_detail)
 
 ![](https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/ea89077c091e45a3b78e875e745d3ca3~tplv-tt-origin-web:gif.jpeg?_iz=58558&from=article.pc_detail&lk3s=953192f4&x-expires=1737428279&x-signature=RrpqdK%2F9rYHhQsKrTSHtOS%2FaP18%3D)
@@ -28,7 +31,7 @@
 
 ![](https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/68eb44bd190f4a34bffb5b76ba21f191~tplv-tt-origin-web:gif.jpeg?_iz=58558&from=article.pc_detail&lk3s=953192f4&x-expires=1737428279&x-signature=wWBWpt6740MIP7xqTDrCoNJiuoo%3D)
 
-## 01、发现生错了性别，爱上男班长
+## 01、发现生错了性别，爱上男班长 { data-search-exclude }
 
 1967年8月13日，金星在辽宁省沈阳市一户军人家庭出生。
 
@@ -100,7 +103,7 @@
 
 ![](https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c13a7e2931ff4593930dadf5a4dc566d~tplv-tt-origin-web:gif.jpeg?_iz=58558&from=article.pc_detail&lk3s=953192f4&x-expires=1737428279&x-signature=61daFr%2BXEGkd8TvQFpxmMTki1kE%3D)
 
-## 02、对美国牛仔可雷一见钟情
+## 02、对美国牛仔可雷一见钟情 { data-search-exclude }
 
 因为表现出色，毕业后金星被分配到了军方歌舞团，常年随着舞团去各国学习和演出。
 
@@ -148,3 +151,29 @@
 
 ![](https://p3-sign.tout
 <!-- tcd_original_link https://www.toutiao.com/article/7087873258648977923/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“变性人”金星的双性人生：娶过女人也嫁过男人，28岁成为女人.md                             |
+| Size            | 10209 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

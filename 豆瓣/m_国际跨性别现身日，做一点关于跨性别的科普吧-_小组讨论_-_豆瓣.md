@@ -1,5 +1,8 @@
 # 国际跨性别现身日，做一点关于跨性别的科普吧
 
+## 正文 { data-search-exclude }
+
+
 ![philokimia](https://img2.doubanio.com/icon/up46979882-11.jpg)
 
 ### 来自: [philokimia](https://www.douban.com/people/46979882/)(Bella ciao)
@@ -62,3 +65,31 @@
 
 名额有限，打不开回复后台即可获取新二维码。
 <!-- tcd_original_link https://m.douban.com/group/topic/169706428/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文件主要讨论了国际跨性别现身日，并对跨性别的相关概念进行了详细的科普介绍。首先，文章定义了跨性别（Transgender）这一现象，即自我性别认同与出生时被指配的性别不符的个体。文章进一步介绍了跨性别的不同类型，如MtF（Male to Female, 跨性别女性）、FtM（Female to Male, 跨性别男性）等，并强调跨性别与性取向的独立性。此外，文本探讨了性别不安（Gender Dysphoria）的概念，指出并非所有跨性别者都经历性别不安，同时介绍了性别不安的成因以及与精神疾病的关系。
+
+文件中还列举了一些对跨性别的常见误解，并以清晰的逻辑纠正了这些观点，包括跨性别与异装癖的区别，以及跨性别者面对的社会家庭问题。同时，文件还描绘了国内跨性别社群的现状，提到跨性别者面临的主要问题，如家庭接纳、医疗支持不足及就业困境等。最后，文中提及兄弟盟推出的“现身日头像生成器”以鼓励跨性别者展现自我。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_国际跨性别现身日，做一点关于跨性别的科普吧-_小组讨论_-_豆瓣.md                             |
+| Size            | 11263 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | philokimia                               |
+| Region          | 未知                               |
+| Date            | 2020-03-31                                 |
+| Tags            | 跨性别, 性别认同, 性别不安, 性别焦虑, 社会问题, 心理健康, 家庭接纳, 医疗资源, 法律政策, 国际跨性别现身日                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

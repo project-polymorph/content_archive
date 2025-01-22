@@ -1,5 +1,8 @@
 # 马斯克的变性女儿因特朗普胜选宣布离开美国
 
+## 正文 { data-search-exclude }
+
+
 ![QR Code](https://chart.googleapis.com/chart?chs=280x280&cht=qr&choe=UTF-8&chl=http%3A%2F%2Fwww.vancouverren.com%2Fpda%2Fnews%2Fop%3Dview%2Fsid%3D1049106%2Fapp%3Dweixin%2Fruid%3D1%2Flang%3Dschinese.html) 请用微信 **扫一扫** 扫描上面的二维码，然后点击页面右上角的 ... 图标，然后点击 **发送给朋友** 或 **分享到朋友圈**，谢谢！
 
 **时间:** 2024-11-14  
@@ -10,3 +13,29 @@
 
 “他很冷漠。他很容易生气。他冷漠而自恋。“薇薇安进一步表示，[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)只会把兄弟姐妹扔给母亲或者保姆。 但[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)的反应却好像与薇薇安描述的不同。在接受心理学家采访时，[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)表示他失去了他的儿子。 他提到薇薇安出生时的性别和她的旧名，他说他的儿子 “死了，被觉醒的心灵病毒杀死了”。[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)进一步声称，他被骗了批准对薇薇安的性别肯定治疗。 “我是被骗来做这件事的。没有人向我解释青春期阻断剂实际上只是绝育药物。我基本上失去了我的儿子。他们称之为 “死名” 是有原因的。他们之所以称之为'死名'，是因为你的儿子已经死了，所以我的儿子泽维尔也死了，被觉醒的心灵病毒杀死了。” 据悉，性别确认测试在[美国](News/tags/tag=%C3%C0%B9%FA/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)是合法的，但18岁以下的孩子需要父母同意。 对此薇薇安很快回击，驳斥了她父亲被“欺骗”的说法。她说，[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)至少研究了两次同意书。“他绝没有被骗。他知道所有的副作用！” 薇薇安回忆说，她花了几个月的时间给[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)发短信，才争取到一场面对面的讨论。但那时他们的关系已经变得紧张，讲话都是夹枪带棒的，两人对彼此都非常蔑视。 但身为父亲的[马斯克](News/tags/tag=%C2%ED%CB%B9%BF%CB/lang=schinese.html?utm_source=westca&utm_medium=tag&utm_campaign=news_extend)说，这段经历使他成为跨性别的强烈反对者，并推动了他“摧毁觉醒心灵病毒”的追求。
 <!-- tcd_original_link https://www.westca.com/News/article/sid=1049106/lang=schinese.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_马斯克的变性女儿因特朗普胜选宣布离开美国..._-_加西网.md                             |
+| Size            | 6688 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

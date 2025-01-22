@@ -1,5 +1,8 @@
 # 跨性別機場通關遭刁難 籲自由換證、增男女以外選項
 
+## 正文 { data-search-exclude }
+
+
 **日期**：2014/02/19  
 **來源**：苦勞網  
 **作者**：[陳逸婷](https://www.coolloud.org.tw/author/%E9%99%B3%E9%80%B8%E5%A9%B7)  
@@ -15,13 +18,13 @@
 
 婦女新知基金會董事長陳宜倩表示，海關人員查驗的應是「人別」而非「性別」，對性別的質疑與其職務無關，她呼籲政府單位跟上「性別多元化」的腳步，建立更完整的性別意識。性別不明關懷協會執行顧問吳芷儀則直接向甫上任的內政部戶政司長張琬宜喊話，指「性別是自由選擇，不是強迫分類」，要求內政部儘快開放自由變更性別，讓跨性別者可以選擇自己認同的性別，強調「在性別欄位加上第3種選項如『X』有助於打破二元性別的刻板印象，改善跨性別者的處境」。
 
-## 建議標籤：
+## 建議標籤： { data-search-exclude }
 - [性別](https://www.coolloud.org.tw/tag/%E6%80%A7%E5%88%A5)
 - [歧視](https://www.coolloud.org.tw/tag/%E6%AD%A7%E8%A6%96)
 - [變性](https://www.coolloud.org.tw/tag/%E8%AE%8A%E6%80%A7)
 - [跨性別](https://www.coolloud.org.tw/tag/%E8%B7%A8%E6%80%A7%E5%88%A5)
 
-## 相關文章
+## 相關文章 { data-search-exclude }
 - [台灣跨性別族群生活處境調查： 多有職場受歧視經驗 32%寧憋尿不上公廁](https://www.coolloud.org.tw/node/98118)
 - [南方一週：南韓聊天機器人歧視同志 問世20天遭下架](https://www.coolloud.org.tw/node/95207)
 - [南方一週：新冠疫情爆歧視 韓國恐同 哥倫比亞跨性別社群遭攻擊](https://www.coolloud.org.tw/node/94318)
@@ -33,7 +36,33 @@
 - [莉莉不是變性人，是性變態！？ 丹麥女孩：一個性科學史的系譜學解讀](https://www.coolloud.org.tw/node/84584)
 - [胖黑婆就是沒人愛的醜八怪？！](https://www.coolloud.org.tw/node/84196)
 
-## 作者简介
+## 作者简介 { data-search-exclude }
 ![陳逸婷](https://www.coolloud.org.tw/sites/default/files/styles/author_img/public/images/field_author_photo/author_term/10682198_10202385051382462_3346027818870619608_o.jpg?itok=kb7hPrZN)  
 陳逸婷，香港嶺南大學文化研究系兼任講師。
 <!-- tcd_original_link https://www.coolloud.org.tw/node/77462 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別機場通關遭刁難籲自由換證、增男女以外選項.md                             |
+| Size            | 4595 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

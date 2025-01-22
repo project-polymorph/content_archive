@@ -1,5 +1,8 @@
 # 泰囧电梯美女是真人妖 网友曝其美丽蜕变历程
 
+## 正文 { data-search-exclude }
+
+
 来源: [缤丽网](https://www.przwt.com/)  
 时间: 2012-12-27 16:33  
 标签: [新闻稿发布](https://www.przwt.com/releases/search/新闻稿发布.html "新闻稿发布"), [海外发稿](https://www.przwt.com/releases/search/海外发稿.html "海外发稿"), [新闻发布会](https://www.przwt.com/releases/search/新闻发布会.html "新闻发布会"), [媒体发稿](https://www.przwt.com/releases/search/媒体发稿.html "媒体发稿")  
@@ -29,3 +32,29 @@
 ![朝闻通公众号](/static/default/web/img/ewm-przwt.jpg)  
 ![朝闻通传媒](/static/default/web/img/przwt-story-logo.jpg)
 <!-- tcd_original_link https://m.przwt.com/releases/story/3300.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_泰囧电梯美女是真人妖网友曝其美丽蜕变历程.md                             |
+| Size            | 3116 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

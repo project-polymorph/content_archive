@@ -1,6 +1,9 @@
 # 多元性别及两性畸形解释
 
-## 两性畸形是什么意思
+## 正文 { data-search-exclude }
+
+
+## 两性畸形是什么意思 { data-search-exclude }
 
 ### 先天两性畸形
 先天两性畸形主要是因为在怀孕期间，身体受到各种原因的影响，造成生殖器有男女两性特征。先天性两性畸形对于女性可能会有男性的特征，比如阴体肥大或者是尿道下裂，甚至阴唇部位还会出现相似于男性的阴囊，男性假两性畸形主要是患者有睾丸，但是生殖器部位会逐渐女性化，很难分别性别。
@@ -36,3 +39,29 @@
 ![二维码](https://med-fe.cdn.bcebos.com/selfhome/pc/triage_qrcode.png?x-bce-process=image/auto-orient,o_1/resize,w_1242,limit_1/quality,Q_86/format,f_auto)  
 关注微信公众号，立即问医生。 
 <!-- tcd_original_link https://m.baidu.com/bh/m/detail/sv_4858662513464860154 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_两性畸形是什么意思.md                             |
+| Size            | 3919 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 记者来鸿：澳大利亚同性婚姻公投博弈
 
+## 正文 { data-search-exclude }
+
+
 ![民意调查显示，多数澳大利亚人认为同性婚姻应该合法化](https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2016/10/20/161020084935_same-sex_marrige_624x351_bbc_nocredit.jpg.webp)
 
 2016年10月20日
@@ -44,3 +47,29 @@ Bernadette 告诉另外一位异装妖姬，“我不懂，郊区就像一堵丑
 
 不过，对一些同性婚姻的支持者来说，反对党阻止搞公投，是值得庆祝的。他们虽然希望修改现有法律，但同时也担心，搞一场没有约束力的公投不仅价格昂贵，还可能煽动起“仇同”气焰。
 <!-- tcd_original_link https://www.bbc.com/zhongwen/simp/fooc/2016/10/161020_fooc_australia_sam-sex_marrige -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_记者来鸿：澳大利亚同性婚姻公投博弈_-_BBC.md                             |
+| Size            | 4780 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

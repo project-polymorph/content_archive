@@ -1,5 +1,8 @@
 # 伪娘
 
+## 正文 { data-search-exclude }
+
+
 冷风无奈创作的幻想奇缘类网络小说
 
 ![伪娘](https://bkimg.cdn.bcebos.com/smart/6609c93d70cf3bc75522141fdb00baa1cd112a27-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/format,f_auto)
@@ -12,7 +15,7 @@
 
 《伪娘》讲述了拥有少女心却是男生身体的主角，在复杂情感关系中的选择和成长的故事。
 
-## 相关星图
+## 相关星图 { data-search-exclude }
 
 冷风无奈的著作
 
@@ -66,12 +69,12 @@ Pseudo-mother
 
 223749字
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [章节目录](#1)
 2. [内容简介](#2)
 
-## 章节目录
+## 章节目录 { data-search-exclude }
 
 外篇 守候
 
@@ -129,7 +132,7 @@ Pseudo-mother
 
 PS：文章部分章节已被[晋江文学城](https://baike.baidu.com/item/%E6%99%8B%E6%B1%9F%E6%96%87%E5%AD%A6%E5%9F%8E/9922851?fromModule=lemma_inlink)锁住，无法阅读。
 
-## 内容简介
+## 内容简介 { data-search-exclude }
 
 ![伪娘](https://bkimg.cdn.bcebos.com/pic/f7246b600c338744ebf86b7a9157cef9d72a60590a26?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_550)
 
@@ -139,7 +142,7 @@ PS：文章部分章节已被[晋江文学城](https://baike.baidu.com/item/%E6%
 
 本书比变身书还要邪恶，非免疫力超强者慎入，观看此书后造成的[精神错乱](https://baike.baidu.com/item/%E7%B2%BE%E7%A5%9E%E9%94%99%E4%B9%B1/3827603?fromModule=lemma_inlink)、性别混乱、人生缭乱等，本人概不负责……
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [《伪娘》](https://reference/3732220/533aYdO6cr3_z3kATKfZzar1MC7BNd75u-eAWuBzzqIP0XOpX5nyFII49888sPliAETEvp1gb9ke2PiiSkQbsbFFLbRhT7EglX_3Uw). 晋江文学城. 2009-06-08 
 
@@ -155,3 +158,29 @@ PS：文章部分章节已被[晋江文学城](https://baike.baidu.com/item/%E6%
 
 [一个羽同学](https://usercenter/userpage?uk=ko9wpfbg0M2tOs308RWEwg&from=lemma) (2024-08-08)
 <!-- tcd_original_link https://baike.baidu.com/item/%E4%BC%AA%E5%A8%98/3732220 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_伪娘_百度百科.md                             |
+| Size            | 6885 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

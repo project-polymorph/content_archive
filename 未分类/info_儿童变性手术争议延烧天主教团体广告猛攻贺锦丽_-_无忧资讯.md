@@ -1,5 +1,8 @@
 # 儿童变性手术争议延烧 天主教团体广告猛攻贺锦丽
 
+## 正文 { data-search-exclude }
+
+
 发布：2024年09月16日 12:54 来源：自由时报
 
 ![震撼广告直击人心，天主教团体勐攻贺锦丽。](https://p0.51img.ca/i/66e862bc69d78.jpeg)
@@ -48,3 +51,29 @@
   1  
   这才是重击！
 <!-- tcd_original_link https://info.51.ca/articles/1346619 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | info_儿童变性手术争议延烧天主教团体广告猛攻贺锦丽_-_无忧资讯.md                             |
+| Size            | 3980 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

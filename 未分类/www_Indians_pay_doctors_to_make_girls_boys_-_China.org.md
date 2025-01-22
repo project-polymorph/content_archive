@@ -1,5 +1,8 @@
 # 印度性别歧视致女童变性
 
+## 正文 { data-search-exclude }
+
+
 ![](http://images.china.cn/images1/en/learn-e/3.jpg)
 
 There are now seven million more boys than girls aged under six in the country.
@@ -16,17 +19,17 @@ There are now 7 million more boys than girls under 6 in the country.
 
 （点击[《每日电讯报》](http://www.telegraph.co.uk/news/worldnews/asia/india/8601488/Indians-pay-surgeons-to-turn-girls-into-boys.html)查看原文）
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 来源：China.org.cn  
 时间：June 29, 2011  
 
 ![](http://images.china.cn/images1/en/2009home/t_16.gif)  
 ![](http://images.china.cn/images1/en/2009home/t_17.gif)  
 
-## 评论
+## 评论 { data-search-exclude }
 No comments.  
 
-## 热点词库
+## 热点词库 { data-search-exclude }
 ![](http://images.china.cn/images1/en/learn-e/27.gif)  
 
 - Whining worst sound in the world
@@ -41,3 +44,29 @@ No comments.
 
 [![](http://images.china.cn/images1/en/2009home/e_35.jpg)](mailto:learningenglish@china.org.cn)
 <!-- tcd_original_link http://www.china.org.cn/learning_english/2011-06/29/content_22885889.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Indians_pay_doctors_to_make_girls_boys_-_China.org.md                             |
+| Size            | 1821 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

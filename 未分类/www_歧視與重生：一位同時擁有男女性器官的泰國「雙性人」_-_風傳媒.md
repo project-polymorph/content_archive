@@ -1,5 +1,8 @@
 # 歧視與重生：一位同時擁有男女性器官的泰國「雙性人」，勇敢追求自己性別認同的故事
 
+## 正文 { data-search-exclude }
+
+
 ![EK出生時具有女性生殖器和（在生理上隱蔽的）男性生殖器，並且自出生以來就被視為女孩。（BBC中文網）](https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2020/07/17/20200717-054013_U1085_M625487_8821.jpg?itok=NWipggcJ)
 
 EK出生時具有女性生殖器和（在生理上隱蔽的）男性生殖器，並且自出生以來就被視為女孩。（BBC中文網）
@@ -14,7 +17,7 @@ EK出生時具有女性生殖器和（在生理上隱蔽的）男性生殖器，
 
 EK之後開啟了漫長的征途，並希望社會尊重他的心願。
 
-## 「被取消參賽資格」
+## 「被取消參賽資格」 { data-search-exclude }
 
 讀高中時，EK的身體開始越來越壯，有了肌肉發達的體格。這種身體變化使他面對生活經驗的改變。
 
@@ -26,7 +29,7 @@ EK之後開啟了漫長的征途，並希望社會尊重他的心願。
 
 測試顯示EK有男性染色體，他因而被取消參賽資格。準備代表國家參賽的喜悅，瞬間變成了恐懼。
 
-## 「混亂」
+## 「混亂」 { data-search-exclude }
 
 EK表示：「聽到結果後，我感到有人把我的台拆了。我一生都是個女孩，而且我的女性生殖器也像其他女孩一樣。」 「但現在我是誰？我變成了什麼？我感到困惑和尷尬。我把自己關了起來。」
 
@@ -38,7 +41,7 @@ EK被朋友和周圍的人嘲弄，稱他為「一個有斷掉陰莖的人」。
 
 「我當時感到自己的生命毀了。我既不是女人也不是男人。我不再明白我在這世上的位置。我把自己封閉起來，不去上學以免受到朋友嘲諷。我的家人知道我的痛苦，但什麼也沒做。我徹底崩潰了。」
 
-## 新生活
+## 新生活 { data-search-exclude }
 
 EK決定搬到曼谷尋找新生活，並找到了一份工作。他以女性的身份申請了這份工作。在泰國，姓名通常以特定性別的詞語開頭，類似於先生，小姐或太太。這是官方認定的作法，因此若要在法律上更改，將會十分複雜。
 
@@ -48,7 +51,7 @@ EK決定搬到曼谷尋找新生活，並找到了一份工作。他以女性的
 
 他經受了三個月的孤立跟嚴格檢視，直到他找到一份新工作，但EK又發現自己再次陷入困境。（相關報導：[波蘭大選出爐》只贏對手2個百分點　反同右派總統杜達驚險連任](/article/2848530)｜[更多文章](javascript:void\(0\);)）
 
-## 「虛假身份」
+## 「虛假身份」 { data-search-exclude }
 
 「起初，一切都很好，但是幾周後他們又發現我的「女性身份」。這次真是太恐怖了。為了滿足他們的好奇心，一群男人壓住我，往我的股溝看去。我為此沮喪萬分。」
 
@@ -59,3 +62,29 @@ EK決定搬到曼谷尋找新生活，並找到了一份工作。他以女性的
 **關鍵字**：泰國, 性別, LGBT, 性別歧視, 雙性人  
 **作者**：BBC News 中文
 <!-- tcd_original_link https://www.storm.mg/article/2861423 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_歧視與重生：一位同時擁有男女性器官的泰國「雙性人」_-_風傳媒.md                             |
+| Size            | 3999 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

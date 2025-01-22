@@ -1,5 +1,8 @@
 # 你对同性关系有什么看法？
 
+## 正文 { data-search-exclude }
+
+
 新加坡刚刚创造历史，废除了鸡姐性行为的刑事罪。根据总理的说法，新加坡最终将废除男同性恋。
 
 ![来源：lpsos。2022](https://ussnsimg.moomoo.com/151846312/editor_image/04b6ae021a5430ffa1fb8fb9e46f1450.jpg/thumb?imageMogr2/ignore-error/1/format/webp)
@@ -68,3 +71,29 @@ IBM，一家国际**科技公司**根据福布斯的数据，该公司在2019年
     
 -   [rabid rabit](https://www.moomoo.com/hans/community/profile/rabid-rabit-70972428) : 偏离“正常”的就是不正常的行为
 <!-- tcd_original_link https://www.moomoo.com/hans/community/feed/108871600766981 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_你对同性关系持什么态度？_-_moomoo_社区.md                             |
+| Size            | 5022 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

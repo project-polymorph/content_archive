@@ -1,5 +1,8 @@
 # 跨性别权利的新里程：性别变更登记再突破 - 小那案胜诉
 
+## 正文 { data-search-exclude }
+
+
 ![胜诉](https://www.example.com/uploads/article/image/2759/_%E5%8B%9D%E8%A8%B4.png)
 
 高雄高等行政法院（下称高高行）审理的「高雄小那免术换证案」，于今日（7月17日）下午4点宣判。**法院判决原告小那胜诉，户政机关依应小那的请求，重新作成处分。**
@@ -25,3 +28,29 @@
 - 副执行长 李明洳 mj@jrf.org.tw   
 - 倡议专员 谢佳臻 jane@jrf.org.tw  
 <!-- tcd_original_link https://www.jrf.org.tw/articles/2759 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_聲明｜跨性別權利的新里程性別變更登記再突破：小那案勝訴.md                             |
+| Size            | 3748 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

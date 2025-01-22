@@ -1,8 +1,11 @@
 # 两性畸形
 
+## 正文 { data-search-exclude }
+
+
 两性畸形是指一个个体的[性器官](javascript:innerlink("性器官") "词条“性器官”不存在，点击可创建")有着男女两性的表现其发生原因在于性[染色体](https://wiki.bioguider.com/doc-view-4102.html "染色体")畸变，[雄激素](https://wiki.bioguider.com/doc-view-4563.html "雄激素")分泌异常导致[胚胎](https://wiki.bioguider.com/doc-view-4144.html "胚胎")期性器官发育异常。若同一个体内既有睾丸又有[卵巢](https://wiki.bioguider.com/doc-view-4214.html "卵巢")其外生殖器与第二性征介于两性之间，称为[真两性畸形](javascript:innerlink("真两性畸形") "词条“真两性畸形”不存在，点击可创建")。若[性腺](https://wiki.bioguider.com/doc-view-8441.html "性腺")与外生殖器不相一致称假两性畸形如外生殖器类似女性而内生殖器为[睾丸](https://wiki.bioguider.com/doc-view-2079.html "睾丸")者称男性假两性畸形。相反外生殖器类似男性内生殖器为卵巢者称为女性假两性畸形。
 
-## 分类
+## 分类 { data-search-exclude }
 
 两性畸形可分为真两性畸形和假两性畸形。真两性畸形是在机体内同时存在卵巢和睾丸组织染色体核型可以为正常男性型、女性型或嵌合型健康搜索生殖导管和外生殖器往往为两性畸形。真两性畸形生殖腺必须是完整的即睾丸必须有正常的结构，有[曲细精管](javascript:innerlink("曲细精管") "词条“曲细精管”不存在，点击可创建")、[间质细胞](javascript:innerlink("间质细胞") "词条“间质细胞”不存在，点击可创建")及[生殖细胞](https://wiki.bioguider.com/doc-view-917.html "生殖细胞")的迹象；卵巢必须有各种卵泡并有卵细胞生长的现象。至于仅有卵巢或睾丸的残遗组织，不属于真两性畸形。
 
@@ -12,7 +15,7 @@
 2. 两侧均为卵睾（即在一个性腺内既有卵巢组织又有睾丸组织），卵巢组织与睾丸组织之间有纤维组织相隔称为双侧性真两性畸形，这种类型占20%。
 3. 一侧为卵睾另一侧为卵巢或睾丸，这种类型40%。
 
-## 流行病学
+## 流行病学 { data-search-exclude }
 
 ### 病因
 
@@ -56,7 +59,7 @@
 3. 男性尿道修补外生殖器成型较为困难，且效果不理想而女性成形术的成活率较男性为高；
 4. 核型为45，X/46，XY的患者的隐睾约30%可发生恶变，睾丸需予以切除。
 
-## 相关词条
+## 相关词条 { data-search-exclude }
 
 - [食物变态反应](javascript:innerlink("食物变态反应") "词条“食物变态反应”不存在，点击可创建")
 - [药物变态反应](javascript:innerlink("药物变态反应") "词条“药物变态反应”不存在，点击可创建")
@@ -68,19 +71,45 @@
 - [溶血尿毒综合征](javascript:innerlink("溶血尿毒综合征") "词条“溶血尿毒综合征”不存在，点击可创建")
 - [产褥期乳腺炎](javascript:innerlink("产褥期乳腺炎") "词条“产褥期乳腺炎”不存在，点击可创建")
 
-## 标签
+## 标签 { data-search-exclude }
 
 - [两性畸形](index.php?search-tag-两性畸形)
 
-## 词条信息
+## 词条信息 { data-search-exclude }
 
 - 创建者: [thinker](user-space-2.html)
 - 浏览次数：2607 次
 - 更新时间：2009-12-24
 
-## 同义词
+## 同义词 { data-search-exclude }
 
 暂无同义词
 
 版权声明：词条内容仅供参考，如果您需要解决具体问题（尤其在法律、医学等领域），建议您咨询相关领域专业人士。
 <!-- tcd_original_link https://wiki.bioguider.com/doc-view-139.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wiki_两性畸形_-_生物百科.md                             |
+| Size            | 9388 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

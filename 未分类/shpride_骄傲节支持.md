@@ -1,5 +1,8 @@
 # 上海骄傲节支持
 
+## 正文 { data-search-exclude }
+
+
 每年，上海骄傲节都会将奖券所得捐赠给各个组织。
 
 [![LGBTsport](https://shpride.com/wp-content/uploads/2018/05/LGBTsport-150x150.jpg)](https://shpride.com/wp-content/uploads/2018/05/LGBTsport.jpg) [![巴黎2018中国代表队](https://shpride.com/wp-content/uploads/2019/02/Paris-Gay-Games.png)](https://shpride.com/wp-content/uploads/2018/05/LGBTsport.jpg)
@@ -42,3 +45,29 @@
 **[2016骄傲节支持](https://shpride.com/beneficiaries2016/)**  
 **[2015骄傲节支持](https://shpride.com/beneficiaries2015/)**  
 <!-- tcd_original_link https://shpride.com/beneficiaries2018/?lang=zh -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | shpride_骄傲节支持.md                             |
+| Size            | 4977 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,10 +1,13 @@
 # 多元性别相关故事
 
+## 正文 { data-search-exclude }
+
+
 **来源:** [黄色情文学](http://huangsewenxue.com/)  
 
 ---
 
-## 第一章
+## 第一章 { data-search-exclude }
 
 但有一次，有一女生找了我當她的僕人，漸漸愛上了這種感覺，也開始了幻想自己變成一位閹人，把自己的小ＪＪ被割去的慾望也越來越大。就在一次機會裡，我失去了自己的小ＪＪ，也不知為甚麼回到了古代。
 
@@ -80,3 +83,29 @@
 
 「有。」
 <!-- tcd_original_link https://huangsewenxue.com/txt/%E5%94%AF%E7%88%B1%E8%B6%B3%E8%AE%BA%E5%9D%9B%E6%81%8B%E8%B6%B3%E5%B0%8F%E8%AF%B4%E5%85%A8%E9%9B%86/2015/2015-10/%E6%9D%8E%E8%8E%B9%E7%9A%84%E9%98%89%E5%89%B2.txt -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | huangsewenxue_李莹的阉割.txt.md                             |
+| Size            | 6362 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

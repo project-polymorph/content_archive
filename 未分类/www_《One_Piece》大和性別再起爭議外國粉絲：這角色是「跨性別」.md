@@ -1,5 +1,8 @@
 # 《One Piece》大和性別再起爭議　外國粉絲：這角色是「跨性別」
 
+## 正文 { data-search-exclude }
+
+
 撰文：COOL潮流生活網  
 出版：2023-06-01 17:30  
 更新：2023-06-01 17:43  
@@ -48,3 +51,29 @@
 ![笑死我](https://social-reaction-api.hk01.com/static/images/social-reaction-laugh.png) 1  
 ![我嬲啊](https://social-reaction-api.hk01.com/static/images/social-reaction-angry.png) 3  
 <!-- tcd_original_link https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/904188/one-piece-%E5%A4%A7%E5%92%8C%E6%80%A7%E5%88%A5%E5%86%8D%E8%B5%B7%E7%88%AD%E8%AD%B0-%E5%A4%96%E5%9C%8B%E7%B2%89%E7%B5%B2-%E9%80%99%E8%A7%92%E8%89%B2%E6%98%AF-%E8%B7%A8%E6%80%A7%E5%88%A5 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《One_Piece》大和性別再起爭議外國粉絲：這角色是「跨性別」.md                             |
+| Size            | 3784 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

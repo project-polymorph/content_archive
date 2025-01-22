@@ -1,6 +1,9 @@
 # 双性人传说
 
-## 作者：[泠泠碎玉](http://www.jjwxc.net/oneauthor.php?authorid=911504)
+## 正文 { data-search-exclude }
+
+
+## 作者：[泠泠碎玉](http://www.jjwxc.net/oneauthor.php?authorid=911504) { data-search-exclude }
 
 ### 发布时间
 北京时间 25年1月21日 23:42
@@ -69,3 +72,29 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved
 
 请所有用户发布内容时严格遵守国家相关法律法规。我们拒绝任何色情暴力及其他违规内容，一经发现，立即删除，严重者将同时封禁账号。
 <!-- tcd_original_link http://www.jjwxc.net/onebook.php?novelid=1644285 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_言情小说-_《双性人传说》泠泠碎玉_-_晋江文学城.md                             |
+| Size            | 4159 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

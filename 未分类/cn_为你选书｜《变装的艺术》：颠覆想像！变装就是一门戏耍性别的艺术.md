@@ -1,12 +1,15 @@
 # 为你选书｜《变装的艺术》：颠覆想像！变装就是一门戏耍性别的艺术
 
+## 正文 { data-search-exclude }
+
+
 by [大块文化](https://womany.net/authors/locus?ref=s_a_author) 2021/11/09
 
 变装，是一门戏耍性别的艺术，颠覆主流对于美、对于性别的想像。想了解更多变装的历史与趋势，《变装的艺术》是一本了解变装简史必备的图文书。
 
 文｜杰克．霍尔
 
-## 属于大家的变装 DRAG FOR ALL
+## 属于大家的变装 DRAG FOR ALL { data-search-exclude }
 
 虽然变装的再现变得多样，但变装是专属男性的艺术形式仍是普遍的迷思。这并非事实，人人都可以变装！
 
@@ -22,7 +25,7 @@ by [大块文化](https://womany.net/authors/locus?ref=s_a_author) 2021/11/09
 
 同场加映：[挑战并改变主流！《变装的艺术》：让审美观更加多元](https://womany.net/read/article/27965?ref=readout_text)
 
-## 占领全球 A GLOBAL TAKEOVER
+## 占领全球 A GLOBAL TAKEOVER { data-search-exclude }
 
 从前从前，变装被视为专门技艺。今时今日，变装艺人不但是时代精神（zeitgeist）的一部分，也扮演着积极形塑这精神的角色。
 
@@ -44,7 +47,7 @@ YouTube 和 IG（Instagram）等社群媒体平台都是视觉导向的，这使
 
 延伸阅读：[像我这样一个变装皇后：不只是艺术，更是一种态度](https://womany.net/read/article/21406?ref=readout_text)
 
-## 变装字典 DRAG DICTIONARY
+## 变装字典 DRAG DICTIONARY { data-search-exclude }
 
 如同世上各种文化，变装也孕育了自己的一套语言。这些变装术语源于传说中的哈林区舞厅，以及更广泛的非裔美国人白话英语（African-American Vernacular English，简称 AAVE），且在潜移默化中渗入主流意识。
 
@@ -68,7 +71,7 @@ YouTube 和 IG（Instagram）等社群媒体平台都是视觉导向的，这使
 
 - 努力惊艳（Werk!）：“你最好努力惊艳！”（You betta werk!）是广为人知的变装术语，有赞赏之意──当你够努力地惊到观众，才会听到这句话。
 
-## 争取权利 FIGHT FOR THE RIGHT
+## 争取权利 FIGHT FOR THE RIGHT { data-search-exclude }
 
 石墙暴动后发生了很多改变，变装也促使人们以更进步的态度看待同性恋和易服，这两者在世界各地都承受着巨大的歧视。然而，后续仍有许多工作需要跟进。
 
@@ -88,3 +91,29 @@ YouTube 和 IG（Instagram）等社群媒体平台都是视觉导向的，这使
 
 本文摘自杰克．霍尔的[《变装的艺术》](https://www.taaze.tw/apredir.html?125447436/https://www.taaze.tw/products/11100963599.html?)。由大块文化授权转载，欲阅读完整作品，欢迎参考原书。
 <!-- tcd_original_link https://cn.womany.net/read/article/27964 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_为你选书｜《变装的艺术》：颠覆想像！变装就是一门戏耍性别的艺术.md                             |
+| Size            | 8888 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,10 +1,13 @@
 # Tser: CDTS, 变性人，TS 伪娘，女装大佬交友社区
 
+## 正文 { data-search-exclude }
+
+
 ![](/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif)
 
-## 螢幕截圖
+## 螢幕截圖 { data-search-exclude }
 
-## 描述
+## 描述 { data-search-exclude }
 
 Tser is a transgender dating and chat app designed specifically for the transgender community, including trans women, trans men, and genderqueer individuals. Our app is a safe haven for TS (transsexual) singles, sissy crossdressers, and ladyboys. Join us and discover a non-judgmental, inclusive space where you can freely express your identity. Tser is free to download and easy to use.
 
@@ -31,7 +34,7 @@ If you have any questions or suggestions, please contact us at [support@tser.app
 
 ---
 
-## 最新功能
+## 最新功能 { data-search-exclude }
 
 版本紀錄
 
@@ -41,13 +44,13 @@ If you have any questions or suggestions, please contact us at [support@tser.app
 
 Add push notification.
 
-## 評分與評論
+## 評分與評論 { data-search-exclude }
 
 4.5 滿分 5 粒星
 
 19 個評分
 
-## App 私隱
+## App 私隱 { data-search-exclude }
 
 查看詳細資料
 
@@ -74,7 +77,7 @@ Add push notification.
 
 私隱慣例或因使用的功能或年齡等因素而異。[進一步了解](https://apps.apple.com/story/id1538632801)
 
-## 資料
+## 資料 { data-search-exclude }
 
 供應商
 
@@ -122,3 +125,29 @@ App 內購買項目
 - [App 支援](https://www.tser.app/contact.html)
 - [私隱政策](https://tser.app/privacy.html)
 <!-- tcd_original_link https://apps.apple.com/hk/app/tser-cdts-%E5%8F%98%E6%80%A7%E4%BA%BA-ts-%E4%BC%AA%E5%A8%98-%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC%E4%BA%A4%E5%8F%8B%E7%A4%BE%E5%8C%BA/id1436679914 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | apps_Tser_CDTS,_变性人，TS_伪娘，女装大佬交友社区_-_App_Store.md                             |
+| Size            | 5106 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

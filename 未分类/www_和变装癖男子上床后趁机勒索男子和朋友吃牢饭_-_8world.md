@@ -1,5 +1,8 @@
 # 和变装癖男子上床后趁机勒索 男子和朋友吃牢饭 - 8world
 
+## 正文 { data-search-exclude }
+
+
 - **来源**: 8world
 - **时间**: 发布: 08/09/2022 19:18 | 更新: 08/09/2022 19:18
 
@@ -39,3 +42,29 @@ Moses之后还偷走David家中的一些物品，包括笔记本电脑、金首�
 - [cross-dressing](https://www.8world.com/topic/cross-dressing-0)
 - [判坐牢](https://www.8world.com/topic/panzuolao)
 <!-- tcd_original_link https://www.8world.com/singapore/two-men-jailed-blackmailing-another-man-cross-dressing-1912596 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_和变装癖男子上床后趁机勒索男子和朋友吃牢饭_-_8world.md                             |
+| Size            | 2928 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

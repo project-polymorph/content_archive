@@ -1,5 +1,8 @@
 # 變性前‧變性後
 
+## 正文 { data-search-exclude }
+
+
 #### [燭光網絡 91期](/flipbook/candle/91) (p.9)
 
 **[張勇傑](/article/author?field_author_value=張勇傑)** | 明光社項目主任 (性教育)
@@ -48,3 +51,29 @@
 
 [\[7\]](#_ftnref7) ＜強烈要求入境處重新修訂變性人更改身份證性別條款＞，《跨性別資源中心》。
 <!-- tcd_original_link https://ethics.truth-light.org.hk/nt/article/%E8%AE%8A%E6%80%A7%E5%89%8D%E8%AE%8A%E6%80%A7%E5%BE%8C -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ethics_變性前‧變性後_-_生命及倫理研究中心-_明光社.md                             |
+| Size            | 6617 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,8 +1,11 @@
 # 布莱克浦的沙滩
 
+## 正文 { data-search-exclude }
+
+
 《布莱克浦的沙滩》是Karlton Parris执导的电影。
 
-## 相关星图
+## 相关星图 { data-search-exclude }
 
 电影《布莱克浦的沙滩》主要演员
 
@@ -34,16 +37,16 @@ Steven Arnold参演的影视作品
 **片 长**: 105分钟  
 **imdb编码**: tt10039338  
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [剧情简介](#1)
 2. [演职员表](#2)
 
-## 剧情简介
+## 剧情简介 { data-search-exclude }
 
 一部坚韧不拔的北方LGBTQ喜剧。布莱克浦1953年。两位年轻的同性恋约克郡矿工Eddy和Tommy在那里度假时，遇到了异装癖者James Elbridge，他鼓起勇气从一个码头走到另一个码头。
 
-## 演职员表
+## 演职员表 { data-search-exclude }
 
 导演: Karlton Parris
 
@@ -67,3 +70,29 @@ Steven Arnold参演的影视作品
 
 ![版权信息](https://baikebcs.bdimg.com/cms/wiki-lemma/ageFlagV2/age-hollow10.svg)
 <!-- tcd_original_link https://baike.baidu.com/item/%E5%B8%83%E8%8E%B1%E5%85%8B%E6%B5%A6%E7%9A%84%E6%B2%99%E6%BB%A9/63016647 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_布莱克浦的沙滩_百度百科.md                             |
+| Size            | 3568 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 跨性别女性采访-Shape Shifter
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别女性采访-Shape Shifter](//i1.hdslb.com/bfs/archive/95bdd85c98156c4c94631042f654e98b602f25e8.jpg@100w_100h_1c.webp)
 
 **发布时间**: 2023-03-24 15:33:55  
@@ -9,7 +12,7 @@
 
 ![访谈人](//i0.hdslb.com/bfs/face/c5eade70f5b995386cd58d540553774c8c17d41b.jpg@96w.webp)
 
-## 跨性别女性采访-Shape Shifter
+## 跨性别女性采访-Shape Shifter { data-search-exclude }
 
 Soft White Underbelly interview and portrait of Shape Shifter, a detransitioning transgender Woman in Boston, Massachusetts. 马萨诸塞州波士顿，一位变性女性Shape Shifter的腹部柔软的白人采访和肖像。
 
@@ -51,3 +54,29 @@ Soft White Underbelly interview and portrait of Shape Shifter, a detransitioning
 
 *请注意: 本文档已移除与主题无关的内容，仅保留与跨性别相关的关键文本与信息。*
 <!-- tcd_original_link https://www.bilibili.com/video/BV1J24y177gj/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别女性采访-Shape_Shifter_哔哩哔哩_-_Bilibili.md                             |
+| Size            | 1379 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

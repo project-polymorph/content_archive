@@ -1,5 +1,8 @@
 # 光怪陆离邪魅狂狷的重口味（隐形怪物）书评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img9.doubanio.com/icon/u37194063-5.jpg)
 
 这篇书评可能有关键情节透露
@@ -31,3 +34,29 @@
 ![隐形怪物](https://img9.doubanio.com/view/subject/l/public/s10156866.jpg)
 
 <!-- tcd_original_link https://m.douban.com/book/review/6453620/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇书评详细分析了恰克·帕拉尼克的小说《隐形怪物》。作者通过小说中的角色，不仅展示了多元性别的生存状况，还深入探讨了自虐、易性癖等颇具争议的话题。书评提到，各种重口味的元素在这部小说中层出不穷，例如，故事围绕一群性别认同复杂的人物展开，其中有一名模特试图通过极端手段逃离自己的美貌，还有因性取向和身份问题而遭受社会边缘化的角色。书中不仅讲述了他们的痛苦与挣扎，也表现了对彼此的拯救与认同。通过极具冲击力的情节和荒诞的场景，书评展现了这部作品对性别和身份问题的深刻反思与探讨。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_光怪陆离邪魅狂狷的重口味-_隐形怪物_-_豆瓣.md                             |
+| Size            | 3684 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 恰克·帕拉尼克 (Chuck Palahniuk)                               |
+| Region          | 美国                               |
+| Date            | 2012-04                                 |
+| Tags            | 多元性别, 隐形怪物, 书评, 恰克·帕拉尼克, 自虐, 易性癖, 社会边缘化, 性别认同, 文学作品, 心理探讨                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

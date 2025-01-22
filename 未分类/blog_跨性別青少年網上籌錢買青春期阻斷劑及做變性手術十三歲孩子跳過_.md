@@ -1,5 +1,8 @@
 # 跨性別青少年網上籌錢買青春期阻斷劑及做變性手術
 
+## 正文 { data-search-exclude }
+
+
 **來源：香港性文化學會 | 性文化資料庫**  
 **作者：梁海欣（項目幹事）**
 
@@ -69,3 +72,29 @@ Photo by Taylor Deas-Melesh on Unsplash
 - 「每日郵報」(Dailymail.com) [How children as young as 13 are asking strangers online to crowdfund their sex change drugs…](https://www.dailymail.co.uk/news/article-10453837/How-children-young-13-asking-strangers-online-crowdfund-sex-change-drugs.html)
 - 「生命新聞網」(Lifesitenews.com) [Kids as young as 13 are crowdfunding ‘sex change’ surgeries to chop off their body parts](https://www.lifesitenews.com/blogs/kids-as-young-as-13-are-crowdfunding-sex-change-surgeries-to-chop-off-their-body-parts/)
 <!-- tcd_original_link https://blog.scs.org.hk/2022/02/21/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E7%B6%B2%E4%B8%8A%E7%B1%8C%E9%8C%A2%E8%B2%B7%E9%9D%92%E6%98%A5%E6%9C%9F%E9%98%BB%E6%96%B7%E5%8A%91%E5%8F%8A%E5%81%9A%E8%AE%8A%E6%80%A7%E6%89%8B/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_跨性別青少年網上籌錢買青春期阻斷劑及做變性手術十三歲孩子跳過_.md                             |
+| Size            | 9697 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

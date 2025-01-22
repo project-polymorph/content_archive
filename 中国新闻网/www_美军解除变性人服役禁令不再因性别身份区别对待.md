@@ -1,5 +1,8 @@
 # 美军解除变性人服役禁令 不再因性别身份区别对待
 
+## 正文 { data-search-exclude }
+
+
 2016年07月01日 08:30　来源：[中国新闻网](http://www.chinanews.com/) 
 
 ![美军变性人服役解除禁令](http://www.chinanews.com/fileftp/2020/03/2020-03-11/U194P4T47D46410F978DT20200311093349.jpg)
@@ -20,3 +23,29 @@
 
 卡特30日的决定被视为美军内部提升LGBT（同性恋、双性恋和跨性别者）权利的最新努力。2011年，时任美防长帕内塔签署文件，结束了对同性恋士兵的种种限制。（完）
 <!-- tcd_original_link https://www.chinanews.com.cn/gj/2016/07-01/7923733.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了美国国防部长卡特于2016年6月30日在五角大楼宣布，解除对变性人军人服役的禁令，标志着美军对待变性人士兵的政策重大转变。根据该政策，变性人士兵将不再因性别身份受到歧视，并能够正常服役。卡特强调，美军的首要任务是保障国家安全，招募标准不应包括性别身份。为了适应这一新政策，美国防部启动了一系列研究和评估，负责改进对变性士兵的管理和医疗服务。统计数据显示，现役美军中约有2500名变性人士兵，这一决定被视为提升LGBT权利的重要努力。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美军解除变性人服役禁令不再因性别身份区别对待.md                             |
+| Size            | 2211 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 中国新闻网                               |
+| Region          | 美国                               |
+| Date            | 2016-07-01                                 |
+| Tags            | 变性人, 服役禁令, 美军, LGBT权利, 性别身份, 军事政策, 美国防部, 医疗服务, 人权, 社会平等                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

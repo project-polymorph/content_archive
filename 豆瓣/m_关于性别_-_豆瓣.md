@@ -1,10 +1,13 @@
 # 关于性别
 
+## 正文 { data-search-exclude }
+
+
 ![关于性别](https://img9.doubanio.com/view/elanor_image/raw/public/Q40Z9R7L.jpg)
 
 来自: [已注销 (北京)](https://www.douban.com/people/75326572/) 2022-06-11 00:35:08创建   2024-02-02 07:48:17更新
 
-## 相关讨论
+## 相关讨论 { data-search-exclude }
 
 ### [刷到一个让我感到后劲很大的视频](https://www.douban.com/group/topic/301295610/)
 
@@ -92,7 +95,7 @@ rt仅为楼主个人感悟 譬如很多奶奶辈妈妈辈的女性究其一生�
 
 2022-06-11 00:45:43
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 性别
 - 女性主义
@@ -101,3 +104,29 @@ rt仅为楼主个人感悟 譬如很多奶奶辈妈妈辈的女性究其一生�
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main)
 <!-- tcd_original_link https://m.douban.com/doulist/150744067/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是关于性别的讨论帖，涵盖了多元性别和女性主义话题，主要来源于豆瓣平台。文件中包括了一些与性别、女性意识及跨性别等相关的讨论内容及视频链接，反映了用户在性别认知、性别归属方面的不同观点与体验。文中提到的多个话题，如跨性别者的生活状态以及社会对于性别的刻板印象，引发了读者的共鸣。此外，文件中也涉及了一些社会现象，如女性在家庭及社会中的角色，和对传统婚恋观念的批判。可见，文件不仅是个人表达，也汇聚了许多社会现实和文化思考的内容。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_关于性别_-_豆瓣.md                             |
+| Size            | 3463 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 已注销 (北京)                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-06-11                                 |
+| Tags            | 性别, 女性主义, 跨性别, 性别意识, 社会环境, 法律政策, 生命故事, 医疗资源, 数据统计, 文学艺术                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

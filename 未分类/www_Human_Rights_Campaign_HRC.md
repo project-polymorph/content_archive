@@ -1,12 +1,15 @@
 # 多元性别暨平等权利的行动与倡议
 
+## 正文 { data-search-exclude }
+
+
 ![](https://ib.adnxs.com/pixie?pi=b749a2c7-31d7-4e34-b69d-6315b60cd0d1&e=PageView&script=0)
 
-## Cookies in use
+## Cookies in use { data-search-exclude }
 
 The Human Rights Campaign uses cookies to improve your site experience. By using this site, you agree to our use of cookies. To learn more, please read our Privacy Policy.
 
-## Breaking down barriers that divide us
+## Breaking down barriers that divide us { data-search-exclude }
 
 We are more powerful together than apart, and we’ve never been more energized or more focused. Our work centers on three pillars of action to end discrimination and fight for change at every level — and for every single one of us.
 
@@ -14,7 +17,7 @@ We are more powerful together than apart, and we’ve never been more energized 
 -   [Educating the public & the community about LGBTQ+ issues](https://www.hrc.org/resources)
 -   [Advancing pro-equality policy & litigation](https://www.hrc.org/our-work)
 
-## Making history is what we do!
+## Making history is what we do! { data-search-exclude }
 
 Since 1980, we’ve led the way in fighting for LGBTQ+ equality and inclusion.
 
@@ -22,7 +25,7 @@ Since 1980, we’ve led the way in fighting for LGBTQ+ equality and inclusion.
 -   [Empowering Our Future](https://www.hrc.org/our-work/stories/empowering-our-future)
 -   [Building Power in Our Communities](https://www.hrc.org/our-work/stories/building-power)
 
-## Fronts for Equality
+## Fronts for Equality { data-search-exclude }
 
 A newly energized and passionate force of LGBTQ+ people and allies is calling attention to the most urgent opportunities for change — and making that change a reality.
 
@@ -33,7 +36,7 @@ A newly energized and passionate force of LGBTQ+ people and allies is calling at
 -   [HRC’s Women LEAD](https://www.hrc.org/resources/women-lead)
 -   [Parents for Transgender Equality National Council](https://www.hrc.org/resources/parents-for-transgender-equality-national-council)
 
-## Your voice has never been more important
+## Your voice has never been more important { data-search-exclude }
 
 Join us on the right side of history. We represent a force of over 3 million members and supporters, brought together by our passion to realize a truly equal society. Our strength reflects each individual’s personal commitment to helping the LGBTQ+ community in the ways they can, from marching to donating to voting.
 
@@ -55,13 +58,13 @@ Learn what HRC is doing to fight for equality in your community and how you can 
 
 [Phone Bank with HRC](https://mobilize.us/hrc)
 
-## Donate to HRC
+## Donate to HRC { data-search-exclude }
 
 Make your contribution today and join a grassroots force of 3 million members and supporters committed to LGBTQ+ equality.
 
 [Donate Now](https://give.hrc.org/page/47157/donate/)
 
-## Recent News
+## Recent News { data-search-exclude }
 
 ![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27320%27%20height%3D%27192%27%20style%3D%27background%3Atransparent%27%2F%3E)
 
@@ -93,13 +96,39 @@ The 2024 election featured some devastating setbacks for people who believe in p
 
 Read the Fall 2024 issue
 
-## HATE WON'T MAKE US GREAT!
+## HATE WON'T MAKE US GREAT! { data-search-exclude }
 
 ![](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27800%27%20style%3D%27background%3Atransparent%27%2F%3E)
 
-## Our Sponsors
+## Our Sponsors { data-search-exclude }
 
 These companies have demonstrated a high level of commitment to equality. Please consider supporting those that support us.
 
 [See the full list](/about/corporate-partners)
 <!-- tcd_original_link https://www.hrc.org/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Human_Rights_Campaign_HRC.md                             |
+| Size            | 6123 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

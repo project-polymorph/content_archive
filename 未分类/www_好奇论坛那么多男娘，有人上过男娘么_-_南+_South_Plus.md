@@ -1,5 +1,8 @@
 # 男娘的体验与讨论
 
+## 正文 { data-search-exclude }
+
+
 **来源：好奇论坛 南+ South Plus**  
 **日期：2023-12-01**  
 **作者：111221121**
@@ -65,3 +68,29 @@
 
 **时间戳：** 2023-12-01至2024-01-10 之间的用户评论记录。
 <!-- tcd_original_link https://www.summer-plus.net/simple/index.php?t2022432.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_好奇论坛那么多男娘，有人上过男娘么_-_南+_South_Plus.md                             |
+| Size            | 4347 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

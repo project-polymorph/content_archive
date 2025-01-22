@@ -1,5 +1,8 @@
 # 跨性别者：对自己的性别不满意该怎么办？
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/view/elanor_image/raw/public/MJV892V4.jpg)
 
 来自: [Calm.](https://www.douban.com/people/171883961/)  
@@ -30,3 +33,29 @@
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司   
 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main)
 <!-- tcd_original_link https://m.douban.com/doulist/60026293/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了跨性别者对于性别认同的困惑和不满，提供了对跨性别这一概念的阐释。跨性别者是指那些对自己出生时所指定的性别感到不满意，认为其与真实身份不符的人。文章指出，跨性别的成因尚无一致的解释，目前的理论普遍认为与产前的荷尔蒙影响和遗传因素有关，并且个体的生活经历也可能在其中起到一定作用。同时，文中提到跨性别者可能通过荷尔蒙治疗和手术等方式进行身体上的性别重建，但无论是否采取这些措施，只要个人的自我认同与出生性别不一致，就可以被认为是跨性别者。该文旨在帮助跨性别者理解自己的身份，并提供一些实用的建议和心理支持。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_我的收藏_-_豆瓣.md                             |
+| Size            | 1853 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Calm                               |
+| Region          | 未知                               |
+| Date            | 2018-01-11                                 |
+| Tags            | 跨性别, 性别认同, 心理健康, 性别重建, 荷尔蒙疗法, 社会支持, 多元性别, 性别不满, 个人经历, 跨性别者                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

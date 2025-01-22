@@ -1,5 +1,8 @@
 # 2014性／別新聞回顧（下）
 
+## 正文 { data-search-exclude }
+
+
 ![Image](https://i0.wp.com/www.oneequalworld.com/wp-content/uploads/2013/06/shutterstock_97808318.jpg?resize=496%2C404)
 
 **6. 跨性別變更性別要件**
@@ -55,3 +58,29 @@ Tags: [護家盟](https://queerology.net/tag/%e8%ad%b7%e5%ae%b6%e7%9b%9f/), [婚
 #### 版權聲明
 - 本文原載於 [Queerology](https://queerology.net)
 <!-- tcd_original_link https://queerology.net/2015/02/21/2014gendernews2/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | queerology_2014性／別新聞回顧（下）_-_Queerology.md                             |
+| Size            | 11272 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

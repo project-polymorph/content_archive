@@ -1,5 +1,8 @@
 # 特朗普签署备忘录限制变性人入伍
 
+## 正文 { data-search-exclude }
+
+
 ![图片](http://img.hkwb.net/14810.files/pic300.jpg)
 
 2018-03-24 17:23
@@ -27,3 +30,29 @@
 
 版权声明：海口网版权所有 未经书面许可不得复制或转载。
 <!-- tcd_original_link http://m.hkwb.net/content/2018-03/24/content_3494391.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_特朗普签署备忘录限制变性人入伍_国际新闻_-_海口网.md                             |
+| Size            | 1905 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

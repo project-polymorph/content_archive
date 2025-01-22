@@ -1,5 +1,8 @@
 # 前变性人员工指控Valve歧视 索赔两千万
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2016-05-25
 
 一位已离职的翻译人员起诉游戏开发公司Valve，索赔300多万美元（约合人民币近2000万）。她宣称，自己的上司在自己接受变性手术后称自己为“它”并制造了一个充满敌意的工作环境。这位匿名起诉的员工表示：在向Valve的人力资源部投诉“公司招募志愿者，诱使其提供免费翻译服务”之后，她就被开除了。
@@ -18,3 +21,29 @@
 
 [参与评论](https://bbs.gameres.com/thread_660745_1_1.html)
 <!-- tcd_original_link https://www.gameres.com/660745.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_前变性人员工指控Valve歧视索赔两千万_-_游资网.md                             |
+| Size            | 2096 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

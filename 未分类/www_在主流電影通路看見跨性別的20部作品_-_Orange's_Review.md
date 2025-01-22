@@ -1,8 +1,11 @@
 # 在主流電影通路看見跨性別的20部作品
 
+## 正文 { data-search-exclude }
+
+
 ![Orange's Review](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-16uqKseQu5jBLIrgSfkxTVxLgv3tzCZSXLidRR1YTMYnXHkvmp2IUNQRS6YcxnSRg0siLCsz-p90WJMPOOWJ2ptZrTnawEVFtKn581bRGlRxloqngQJtM-x010h0jDTDB9BgqKjzos/s1600/orange-review.png)
 
-## 2017/05/15
+## 2017/05/15 { data-search-exclude }
 
 ### [在主流電影通路看見跨性別的20部作品](https://www.orange-review.com/2017/05/20.html)
 
@@ -110,3 +113,29 @@ Copyright © 2025 [Orange's Review](https://www.orange-review.com/) | Powered by
 
 本著作係採用[創用 CC 姓名標示-非商業性-禁止改作 2.5 台灣 授權條款](http://creativecommons.org/licenses/by-nc-nd/2.5/tw/)授權.
 <!-- tcd_original_link https://www.orange-review.com/2017/05/20.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_在主流電影通路看見跨性別的20部作品_-_Orange's_Review.md                             |
+| Size            | 10236 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

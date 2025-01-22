@@ -1,5 +1,8 @@
 # 推荐发现女同性恋、男同性恋、双性恋与跨性别研究的书单
 
+## 正文 { data-search-exclude }
+
+
 - 1490人关注
 
 [![性/别/爱研究（2）](https://img1.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/1923433-20240613130300)](https://www.douban.com/doulist/1923433/)
@@ -168,3 +171,29 @@
 
 [![](https://img2.doubanio.com/icon/u165462320-31.jpg)](https://www.douban.com/people/165462320/) [左小毛🌈](https://www.douban.com/people/165462320/) 2023-11-06 更新 · 共 175 本
 <!-- tcd_original_link https://book.douban.com/subject/19975970/doulists -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件为一份关于女同性恋、男同性恋、双性恋与跨性别研究的书单推荐，旨在帮助读者发现和获取相关的性别研究书籍。文中列出了多达257本书籍，分别由不同的作者和用户更新，并附带相应的链接和书籍封面。书单不仅涵盖性别研究的跨学科视野，还包括同性关系研究、性别研究文献，以及与性与性别相关的多种主题。文件中的书籍涉及同性性欲、同性性爱等诸多方面，传达了关于性别和性取向的多元性认知，强调了对同性关系、性别身份和性别认同的学术研究。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | book_推荐發現女同性戀、男同性戀、雙性戀與跨性別研究的书单.md                             |
+| Size            | 9219 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 书单推荐, 性别研究, 女同性恋, 男同性恋, 双性恋, 跨性别研究, 性与性别, 同志文学, 社会科学, 性别认同                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

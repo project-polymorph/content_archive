@@ -1,5 +1,8 @@
 # 《双性人巴尔班》读后感
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img9.doubanio.com/icon/u218856419-4.jpg)
 
 这篇书评可能有关键情节透露
@@ -32,3 +35,29 @@
 
 ![双性人巴尔班](https://img2.doubanio.com/view/subject/l/public/s31316371.jpg)
 <!-- tcd_original_link https://m.douban.com/book/review/14632890/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是对书籍《双性人巴尔班》的读后感，探讨了双性人巴尔班的遗书及其相关的讨论。读书者在书评中提到，福柯的第一章提出了社会性别和真实性别的关系，引发对性别本质的思考。书中包含了阿莱克西纳·巴尔班的自传和她的情感经历，进一步探讨了性别认同与性行为的复杂关系。读者同样提及了书中对语言性别的反思及其对内心变化的影响。最后，读者对小说《女修道院丑闻》的评价较低，认为其过于感性和主观。整体而言，读后感中展现了对双性人群体的深刻理解及相关社会文化问题的思考。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_《双性人巴尔班》读后感_-_豆瓣.md                             |
+| Size            | 3669 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 奶茶鱼                               |
+| Region          | 未知                               |
+| Date            | 2019-04-01                                 |
+| Tags            | 双性人, 阿莱克西纳·巴尔班, 福柯, 性别研究, 性别认同, 社会性别, 遗书, 情感经历, 文学评论, 人文思想                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

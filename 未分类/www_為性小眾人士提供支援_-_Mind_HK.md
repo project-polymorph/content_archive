@@ -1,10 +1,13 @@
 # LGBTQ+ 的精神健康
 
+## 正文 { data-search-exclude }
+
+
 ![LGBTQ+ 的精神健康](https://www.mind.org.hk/wp-content/uploads/2018/06/5-3.jpg)
 
 ---
 
-## 為 LGBT + 人士提供支援
+## 為 LGBT + 人士提供支援 { data-search-exclude }
 
 本頁面適用於任何希望為有精神健康問題的 LGBT +人士提供支援的人。
 
@@ -72,3 +75,29 @@
 
 香港心聆是一所本地精神健康慈善機構。我們希望透過善款以及您的支持擴大我們的工作。如有興趣成為義工，請聯繫： volunteer@mind.org.hk
 <!-- tcd_original_link https://www.mind.org.hk/zh-hant/mental-health-a-to-z/lgbt%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7/%E7%82%BA-lgbt-%E4%BA%BA%E5%A3%AB%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8F%B4/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_為性小眾人士提供支援_-_Mind_HK.md                             |
+| Size            | 5538 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

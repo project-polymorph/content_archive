@@ -1,8 +1,11 @@
 # 家庭法庭中 LGBTQ 权利
 
+## 正文 { data-search-exclude }
+
+
 **本指南讨论 LGBTQ 人士在纽约州家庭法院的权利。**
 
-## LGBTQ 是什么意思?
+## LGBTQ 是什么意思? { data-search-exclude }
 
 LGBTQ 代表女同性恋、男同性恋、双性恋、跨性别者、酷儿或质疑者。
 
@@ -18,7 +21,7 @@ LGBTQ 代表女同性恋、男同性恋、双性恋、跨性别者、酷儿或�
 -   **性** 指的是一个人的浪漫、身体、 **方向** 和/或对其他人的性吸引力。
 -   **性别** 一个人深深感受到的存在感 **身份** 女性、男性或其他性别（非二元性别）。
 
-## 我是一名 LGBTQ 人士。我在家庭法庭上有哪些权利？
+## 我是一名 LGBTQ 人士。我在家庭法庭上有哪些权利？ { data-search-exclude }
 
 您有权……
 
@@ -36,7 +39,7 @@ LGBTQ 代表女同性恋、男同性恋、双性恋、跨性别者、酷儿或�
 -   强迫你隐藏你的性取向或性别认同
 -   强迫您分享有关您的性取向或性别认同的信息，除非法院确定其与案件相关。
 
-## 我在家庭法庭受到歧视。谁能帮我？
+## 我在家庭法庭受到歧视。谁能帮我？ { data-search-exclude }
 
 **歧视** 是指由于某些个人特征（例如（但不限于）种族、年龄残疾、宗教、性别认同或性取向）而对一个人或一群人不公平或不平等的待遇。
 
@@ -48,13 +51,13 @@ LGBTQ 代表女同性恋、男同性恋、双性恋、跨性别者、酷儿或�
 
 如需更多信息，您可以拨打 Family Legal Care 的家庭法律帮助热线 212-343-1122，或者您可以安全地联系 Lambda Legal 的在线服务台： [www.lambdalegal.org/help/form](https://www.lambdalegal.org/helpdesk) 或致电 212-809-8585。
 
-## 我可以在家庭法庭获得针对我的伴侣或配偶的保护令吗？
+## 我可以在家庭法庭获得针对我的伴侣或配偶的保护令吗？ { data-search-exclude }
 
 是的。一个 **保护令** 是法官发出的书面命令，规定了人与人之间的接触规则。保护令适用于同性和异性关系中的人。在家庭法院，如果您已婚、分居、离婚、有血缘或婚姻关系、与某人有共同的孩子、或与他们有亲密关系（包括同性关系），您可以请求针对某人的保护令。关系。 为了在家庭法院获得保护令，想要获得保护令的人可以通过提交保护令开始案件 **家庭犯罪请愿书** 在请愿室里。
 
 A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家庭犯罪请愿书要求法官授予保护令。案件所针对的人称为 **受访者**。请愿书告诉法官和被告，原告声称被告做了什么，以及原告想要什么。欲了解更多信息，请参阅家庭法律关怀指南： [**保护令**](https://familylegalcare.org/zh/guide/orders-of-protection/).
 
-## 我是艾滋病毒阳性。我在家庭法庭上有哪些权利？
+## 我是艾滋病毒阳性。我在家庭法庭上有哪些权利？ { data-search-exclude }
 
 您有权对您的艾滋病毒状况或其他私人医疗问题保密。但是，如果法官确定您的艾滋病毒状况与您的案件相关，那么他们可能会在法庭上询问您相关情况。
 
@@ -64,7 +67,7 @@ A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家�
 
 请注意，虽然案件材料被视为机密，但家庭法院向公众开放。
 
-## 我可以获得孩子的监护权或探视权吗？
+## 我可以获得孩子的监护权或探视权吗？ { data-search-exclude }
 
 在纽约，同性父母拥有与异性父母相同的法律权利和责任。
 
@@ -74,15 +77,15 @@ A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家�
 
 欲了解更多信息，请参阅家庭法律关怀指南： [**监护和探视**](https://familylegalcare.org/zh/guide/introduction-to-custody-and-visitation/).
 
-## 我可以收养我的同性伴侣或配偶的孩子吗？
+## 我可以收养我的同性伴侣或配偶的孩子吗？ { data-search-exclude }
 
 是的。如果您的伴侣或配偶是孩子唯一的合法父母，如果您的伴侣或配偶同意，您可以收养孩子。如果孩子有另一位合法父母，该父母也必须同意收养。如果孩子年满 14 岁，也必须同意。要开始收养，请前往家庭法院或代理人法院提交收养申请。
 
-## 我需要更多信息。谁能帮我？
+## 我需要更多信息。谁能帮我？ { data-search-exclude }
 
 如需更多信息，您可以拨打 Family Legal Care 的家庭法律帮助热线 212-343-1122，或者您可以安全地联系 Lambda Legal 的在线服务台： [www.lambdalegal.org/help/form](https://www.lambdalegal.org/helpdesk) 或致电 212-809-8585。
 
-## 我给自己起的名字与我的法定姓名不同。我该怎么办？
+## 我给自己起的名字与我的法定姓名不同。我该怎么办？ { data-search-exclude }
 
 您必须在所有法庭文件（如请愿书）上注明您的法定姓名，但您也可以提供您选择的姓名。例如：
 
@@ -108,3 +111,29 @@ A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家�
 
 电子邮件地址 \*
 <!-- tcd_original_link https://familylegalcare.org/zh/guide/lgbtq-rights-in-family-court/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | familylegalcare_家庭法庭中LGBTQ_权利_-_Family_Legal_Care.md                             |
+| Size            | 8567 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

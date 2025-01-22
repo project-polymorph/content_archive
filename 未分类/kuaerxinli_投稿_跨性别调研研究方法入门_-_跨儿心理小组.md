@@ -1,5 +1,8 @@
 # 投稿 | 跨性别调研研究方法入门
 
+## 正文 { data-search-exclude }
+
+
 -   2022年8月1日 - 2022年8月18日
 
 ![](https://kuaerxinli.org/wp-content/uploads/2022/08/frc-710bb014fd3bd1374ded571e56c8c483.jpeg)
@@ -12,7 +15,7 @@
 
 转载遵从知识共享许可协议CC4.0（BY-SA-NC）
 
-## 跨性别调研
+## 跨性别调研 { data-search-exclude }
 
 ### 研究方法入门
 
@@ -174,11 +177,11 @@
 
 考虑到这些因素的影响，应当在调研过程注意如何排除影响，比如多多提供“我未检查”“我不了解”“我不愿意谈论”这样的其他选项，或者在意识到问卷结果问题后进行抽样随访。
 
-## 撰稿者介绍
+## 撰稿者介绍 { data-search-exclude }
 
 跨性别相关bot，一个由社群伙伴自发建立的民间信息交流平台，主营科普、辟谣、投稿和消息推送等板块，无盈利性内容。主机[https://user.qzone.qq.com/2776456754](https://user.qzone.qq.com/2776456754)（2776456754）经常被封，添加备用机@970611264 （QQ：970611264）防止迷路。
 
-## 板块介绍
+## 板块介绍 { data-search-exclude }
 
 1. **科普**  
 文章长度、更新频率和形式不定，内容尽可能覆盖到跨性别相关的方方面面。目前的科普环节由固定撰稿人撰写由bot审阅修改，伙伴们亦可携稿件申请成为固定撰稿人。
@@ -213,3 +216,29 @@
 
 **美工：阿贼**
 <!-- tcd_original_link https://kuaerxinli.org/%E8%B7%A8%E5%84%BF%E5%BF%83%E7%90%86/1395 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | kuaerxinli_投稿_跨性别调研研究方法入门_-_跨儿心理小组.md                             |
+| Size            | 20596 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

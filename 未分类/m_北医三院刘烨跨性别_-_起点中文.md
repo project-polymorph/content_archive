@@ -1,8 +1,11 @@
 # 北医三院刘烨跨性别
 
+## 正文 { data-search-exclude }
+
+
 2024年08月26日 17:04
 
-## 1个回答
+## 1个回答 { data-search-exclude }
 
 ![](https://facepic.qidian.com/qd_face/349573/284/100)
 
@@ -20,7 +23,7 @@
 
 1. 跨性别作者在出版领域面临一些挑战和问题。例如，欧文·雷蒂格变性后在学术出版方面遭遇诸多困境，包括姓名更改所涉及的大学、科研协会和出版商的官僚程序，这可能损害其声誉，影响获得资助、合作等机会。IOP 出...
 
-## 评论
+## 评论 { data-search-exclude }
 
 **时间:** 2024年08月26日 17:04  
 **作者:** 偶然动情
@@ -29,3 +32,29 @@
 
 版权 © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄霆娱乐信息科技有限公司
 <!-- tcd_original_link https://m.qidian.com/ask/qurxaamiqgt -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_北医三院刘烨跨性别_-_起点中文.md                             |
+| Size            | 1882 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

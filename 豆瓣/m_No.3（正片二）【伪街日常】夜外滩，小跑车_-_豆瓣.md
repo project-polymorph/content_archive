@@ -1,5 +1,8 @@
 # No.3（正片二）【伪街日常】夜外滩，小跑车，还有一只小兔纸。
 
+## 正文 { data-search-exclude }
+
+
 ![莫丽斯molis](https://img9.doubanio.com/icon/u52517098-6.jpg)  
 **作者**: [莫丽斯molis](https://www.douban.com/people/manaminanase/)  
 **时间**: 2018-04-16 15:08:25  
@@ -116,3 +119,29 @@ H CUP的后绑绳，很牢固呀~（莫丽斯搜索 “假胸”）
 
 © 本文版权归 [莫丽斯molis](https://www.douban.com/people/manaminanase/) 所有，任何形式转载请联系作者。
 <!-- tcd_original_link https://m.douban.com/note/665863803/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文由作者莫丽斯撰写，记录了夜晚在上海外滩的活动和相关的个人穿搭分享。文章中，作者用幽默且亲切的语言介绍了自己的外出准备过程，包括如何拍摄自拍照片的小技巧，特别是关于服装搭配、保暖措施以及如何表现得自然等，还分享了个人过渡经历与多元性别认同的体验，反映了伪街文化与女装大佬现象。在内容中，作者显示了对束缚爱好的认识与理解，以及在街头与他人互动时的自信与勇气。文章中也引用了自己喜欢的音乐，增加了个人生活的气息。整体氛围轻松幽默，展示了多元性别的社会生活与文化表达。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_No.3（正片二）【伪街日常】夜外滩，小跑车_-_豆瓣.md                             |
+| Size            | 5099 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 莫丽斯molis                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-04-16                                 |
+| Tags            | 女装大佬, 伪娘摄影, 伪娘伪街, 伪娘变装, 伪娘, 生活分享, 多元性别, 外滩夜生活, 文化表达, 社交互动                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

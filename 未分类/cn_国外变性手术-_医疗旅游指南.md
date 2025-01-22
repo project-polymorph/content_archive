@@ -1,10 +1,13 @@
 # 国外变性手术 - 医疗旅游指南
 
+## 正文 { data-search-exclude }
+
+
 提供变性手术(SRS)的医院、诊所和医疗中心。
 
 ![然禧医院](/_resources/business/15/BusinessPage.jpg)
 
-## 然禧医院
+## 然禧医院 { data-search-exclude }
 
 - **所在国家**: 泰国
 - **医院类型**: [然禧国际医院](https://www.health-tourism.com/)是一座现代化10层大楼，共有400张病床，配备现代化医疗设施，为住院患者以及每天至少2000名门诊患者提供医疗和美容服务。
@@ -15,7 +18,7 @@
 - [查看简介](/medical-centers/yanhee-hospital/ "查看简介 - 然禧医院")  
 - [要求信息](/contact-hospital/yanhee-hospital/ "要求信息 - 然禧医院")
 
-## 关于变性手术
+## 关于变性手术 { data-search-exclude }
 
 该信息属于一般信息，并且不应该被认为是Health-Tourism.com医疗建议的一部分。任何治疗的决定、术后护理或康复应该单独建立在恰当的咨询建议和具备资格医师的建议上。
 
@@ -51,7 +54,7 @@
 - [手术百科全书上的变性手术](http://www.surgeryencyclopedia.com/Pa-St/Sex-Reassignment-Surgery.html "手术百科全书上的变性手术")
 - [维基百科上的变性手术](https://en.wikipedia.org/wiki/Sex_reassignment_surgery_%28male-to-female%29 "维基百科上的变性手术")
 
-## 变性手术海外
+## 变性手术海外 { data-search-exclude }
 
 - ![国外整形中心](/images/blank.gif) 国外整形中心
 - ![关于变性手术](/images/blank.gif) 关于变性手术
@@ -67,9 +70,35 @@
 - ![Icon](/images/blank.gif) [泰国](/sex-reassignment-surgery/thailand/ "泰国中的变性手术")
 - ![Icon](/images/blank.gif) [法国](/sex-reassignment-surgery/france/ "法国中的变性手术")
 
-## 版权
+## 版权 { data-search-exclude }
 
 版权© 2008 - 2025 Health-Tourism.com，版权所有
 
 超过50,000患者询问过关于整形科信息。
 <!-- tcd_original_link https://cn.health-tourism.com/sex-reassignment-surgery/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_国外变性手术-_医疗旅游指南.md                             |
+| Size            | 4942 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

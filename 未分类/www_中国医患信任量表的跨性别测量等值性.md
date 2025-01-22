@@ -1,5 +1,8 @@
 # 中国医患信任量表的跨性别测量等值性
 
+## 正文 { data-search-exclude }
+
+
 张子睿, 吕小康  
 
 1.  (1 南开大学周恩来政府管理学院， 天津 300350) (2 南开大学计算社会科学实验室， 天津 300350)
@@ -47,3 +50,29 @@ ZHANG Zirui, LV Xiaokang. Measurement Invariance of the Chinese Physician-Patien
 3. 佘 爱, 韦光彬, 曾练平. [工作家庭平衡问卷在不同性别中的测量等值性](http://www.xljsyyy.com/CN/10.16842/j.cnki.issn2095-5588.2020.01.008)[J]. 心理技术与应用, 2020, 8(1): 60-64.
 4. 颜志强, 刘 月, 裴 萌, 苏彦捷. [儿童共情问卷的修订及信效度检验](http://www.xljsyyy.com/CN/10.16842/j.cnki.issn2095-5588.2019.09.001)[J]. 心理技术与应用, 2019, 7(9): 514-522.
 <!-- tcd_original_link http://www.xljsyyy.com/CN/10.16842/j.cnki.issn2095-5588.2020.07.002 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国医患信任量表的跨性别测量等值性.md                             |
+| Size            | 4065 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

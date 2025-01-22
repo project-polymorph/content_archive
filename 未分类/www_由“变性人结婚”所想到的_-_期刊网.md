@@ -1,5 +1,8 @@
 # 由“变性人结婚”所想到的
 
+## 正文 { data-search-exclude }
+
+
 ![期刊网](/logo.svg?r=20210826)
 
 摘要: 对于变性人的性别如何识别，变性人要改变身份证上的性别还必须通过变性手术，并以新的性别结婚。
@@ -26,3 +29,29 @@ DOI: 2d3lzegmd9/2452691
 
 版权声明: 版权所有 ©2002-2025 期刊网 (www.qikanchina.com) [琼ICP备2021005105号](https://beian.miit.gov.cn/)
 <!-- tcd_original_link https://www.qikanchina.com/thesis/detail/2452691 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_由“变性人结婚”所想到的_-_期刊网.md                             |
+| Size            | 1827 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

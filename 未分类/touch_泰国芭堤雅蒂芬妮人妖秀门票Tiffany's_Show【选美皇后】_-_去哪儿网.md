@@ -1,5 +1,8 @@
 # 泰国芭堤雅蒂芬妮人妖秀门票Tiffany's Show【选美皇后】
 
+## 正文 { data-search-exclude }
+
+
 **产品编号**: 1133660815  
 **价格**: ¥200起/人  
 **供应商**: 蝌蚪旅游  
@@ -12,7 +15,7 @@
 - ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_2.png) 丰富玩乐去泰国必看的表演之一
 - ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_3.png) 贴心赠送场场爆棚，个个美艳，享受视听盛宴
 
-## 套餐选择
+## 套餐选择 { data-search-exclude }
 
 ### A套餐
 
@@ -36,7 +39,7 @@
 
 ---
 
-## 线路特色
+## 线路特色 { data-search-exclude }
 
 🌹🌹【尊敬的客户，感谢您选择我们的服务。按标准流程，请您在预订前先与客服确认当天是否还有空位，一旦确认后再进行支付，以免造成不必要的误会。如果您选择直接付款，如果当时没有空位，默认全额退款，我们会第一时间与您联系，通常我们会在30分钟内完成确认，请保持通信畅通。】🌹🌹
 
@@ -58,7 +61,7 @@
 
 ---
 
-## 费用说明
+## 费用说明 { data-search-exclude }
 
 - **使用方法**: 请提前抵达景区，出示【电子签确认单】，在售票窗口兑换纸质票入场。
 - **景点住宿**: 仅供参考，具体信息可咨询商家。
@@ -77,7 +80,7 @@
 
 - **签证须知**: 泰国免签，持有有效期在半年以上的护照丝滑入境。
 
-## 退款说明
+## 退款说明 { data-search-exclude }
 
 - 预约类商品，预约出行日期前，支持无理由退款；预约出行日期后，商家会开始为您安排行程，此时退款产生的损失，可按照规则与商家协商解决。
 
@@ -91,7 +94,7 @@
 
 ---
 
-## 温馨提醒
+## 温馨提醒 { data-search-exclude }
 
 为普及旅游安全知识及旅游文明公约，使您的旅程顺利圆满完成，特制订《[去哪儿网旅游安全手册](https://yun.qunar.com/uploads2/notice/20180711/travelnotes.pdf)》，请您认真阅读并切实遵守。
 
@@ -102,3 +105,29 @@
 游客相册  
 暂无内容，期待你留下宝贵的评论
 <!-- tcd_original_link https://touch.dujia.qunar.com/p/detail?id=1133660815&tid=3973557385&et=gonglue_ddy_country&bd_source=travel_touch -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | touch_泰国芭堤雅蒂芬妮人妖秀门票Tiffany's_Show【选美皇后】_-_去哪儿网.md                             |
+| Size            | 4777 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

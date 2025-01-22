@@ -1,5 +1,8 @@
 # 易建聯被爆嫖變性人　疑似本尊社交網突發文：Fake News！
 
+## 正文 { data-search-exclude }
+
+
 ![易建聯被爆嫖變性人](https://ad7.on.cc/mobile/www/delivery/lg.php?bannerid=53567&campaignid=29196&zoneid=1084&loc=1&referer=https%3A%2F%2Fhk.on.cc%2Fhk%2Fbkn%2Fcnt%2Fentertainment%2F20241022%2Fmobile%2Fbkn-20241022200138954-1022_00862_001.html&cb=b9e85cd23a)
 
 香港時間
@@ -24,3 +27,29 @@
 
 感謝您瀏覽東網。請按入詳細閱讀本網站所載之[使用條款及細則](https://hk.on.cc/disclaimer/index.html)和[私隱政策聲明](https://on.cc/mem/respons.html)，並須確定您同意接受有關條款及聲明的約束才可繼續瀏覽。
 <!-- tcd_original_link https://hk.on.cc/hk/bkn/cnt/entertainment/20241022/bkn-20241022200138954-1022_00862_001.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hk_易建聯被爆嫖變性人疑似本尊社交網突發文：Fake_News！.md                             |
+| Size            | 2560 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

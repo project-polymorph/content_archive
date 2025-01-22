@@ -1,5 +1,8 @@
 # 跨性别群体的伤痛需要社会合力抚平
 
+## 正文 { data-search-exclude }
+
+
 ![二维码](https://j.rednet.cn/site/static/images/qr-shike1.png) 扫码下载时刻APP
 
 2021-11-06 17:21:01 红网时刻
@@ -32,3 +35,29 @@
 
 ![二维码](https://j.rednet.cn/site/static/images/qr-shike1.png)
 <!-- tcd_original_link https://moment.rednet.cn/content/2021/11/06/10370904.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | moment_跨性别群体的伤痛需要社会合力抚平_-_时刻新闻.md                             |
+| Size            | 4357 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

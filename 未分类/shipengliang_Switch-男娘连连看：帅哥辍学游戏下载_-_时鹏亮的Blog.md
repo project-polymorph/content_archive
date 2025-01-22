@@ -1,5 +1,8 @@
 # Switch-男娘连连看：帅哥辍学 游戏下载
 
+## 正文 { data-search-exclude }
+
+
 《Otoko Cross: Pretty Boys Dropout! 男娘街机：滑砖》是一款2023年发布的益智解谜游戏。
 
 男孩们为他们迄今最大胆和最勇敢的作品《Otoko Cross: Pretty Boys Dropout》回归！游戏中包含45个阶段的方块拼图动作，汇聚了9个跨性别“男装娘”角色，每个角色都有自己的背景故事待探索，并解锁越来越性感的服装。将方块向左和向右滑动，以匹配一组相同颜色并清除它们，使角色图标朝屏幕底部的出口落下。有些出口需要解锁后才能使用，并且新的方块机制会逐渐引入难度增加！还有一个挑战模式，让你不断回来与可爱的角色共度更多欢乐时光！使用所赚取的积分按任意顺序解锁服装和背景图片，然后在增强版换装室模式中将它们组合成自己独特的戏剧场景。 
@@ -38,13 +41,13 @@ ID信息：
 | --------- | -------- | ------ | ----- | ---- | -------- |
 | 2023-09-04 | 本体     | 1.0.0  | [16.0.3](javascript:alert('最低可运行系统版本:16.0.3'); "最低可运行系统版本:16.0.3") | nsz-285M | [城通](https://shipengliang.com/go/lnqr9qdl2ufq "2023-09-04 更新") [百度](https://shipengliang.com/go/yue5qd3hg8uo) [看广告下载](https://www.shipengliang.com/ct/930293289.html) |
 
-## 特别鸣谢
+## 特别鸣谢 { data-search-exclude }
 
 感谢无私的Dump并分享资源的**HBG**、**SUXXORS**、**VENOM**、**高达合购群**等民间组织的付出。
 
 感谢热心网友：**超绝可爱陆陆酱**、**mssjmssj**以及**sdragon74**等人的帮助和支持。
 
-## 资源说明
+## 资源说明 { data-search-exclude }
 
 本站Switch游戏资源，未在顶部特殊加粗标注的均为**中文版**游戏，请放心下载。
 
@@ -52,7 +55,7 @@ ID信息：
 
 安装游戏推荐使用插件：[DBI(强烈推荐)](https://shipengliang.com/games/switch-dbi-%e5%9b%be%e6%96%87%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b.html)、[Tinfoil(一般推荐)](https://shipengliang.com/games/switch-tinfoil-%e5%9b%be%e6%96%87%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b.html)。
 
-## 游戏截图
+## 游戏截图 { data-search-exclude }
 
 ![](//pic.shipengliang.com/NS/010035501BC98000-1.jpg)
 ![](//pic.shipengliang.com/NS/010035501BC98000-2.jpg)
@@ -78,3 +81,29 @@ All resources come from the network, this site does not participate in any dump 
 
 尊重他人劳动成果。转载请务必附上原文链接，我将感激不尽。
 <!-- tcd_original_link https://shipengliang.com/download/switch/switch-%E7%94%B7%E5%A8%98%E8%BF%9E%E8%BF%9E%E7%9C%8B%EF%BC%9A%E5%B8%85%E5%93%A5%E8%BE%8D%E5%AD%A6-%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | shipengliang_Switch-男娘连连看：帅哥辍学游戏下载_-_时鹏亮的Blog.md                             |
+| Size            | 5371 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 伪娘 如何经得起专家剖析？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 04月17日
 
 **来源**: 心理网
@@ -40,3 +43,29 @@
 
 　　但是，也有易性癖者幼年期受过父母正确的性别教育，女孩穿女性化的服饰且被父母教育表现文雅温柔的一面，男孩穿男性化的服饰也被父母教育表现勇敢大胆的一面，但是易性癖者本人拒绝接受父母的性别认知教育，坚决要求内外都表现出异性化喜好的特点，因此，传统认为易性癖者与父母幼年性别教育不当的说法其实是不全面的。目前国外有个别科学实验已发现部分易性癖者的易性癖倾向与大脑组织结构有关。还有另一个说法，认为胎儿在母体妊娠期内激素分泌不当，导致先天易性癖。
 <!-- tcd_original_link https://xinli69.com/article/81269 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | xinli69_伪娘如何经得起专家剖析？_-_心理咨询.md                             |
+| Size            | 6404 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

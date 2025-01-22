@@ -1,5 +1,8 @@
 # 宝莱坞跨性别题材电影《吉祥天女》的争议
 
+## 正文 { data-search-exclude }
+
+
 > 在宝莱坞电影中，跨性别角色常常以一种极其暴力或嘲弄的方式被描述出来。
 
 最近，一部名为《吉祥天女》（Laxmii）的宝莱坞即将上映。这是一部由拉格哈瓦·劳伦斯（Raghava Lawrence）执导的喜剧恐怖片，讲述了一个男人被跨性别女性的鬼魂附身的故事。在上月发布的预告片中，字幕提示着人们：“Aa rahi hai Laxmii, kisi ko hasayegi, kisi ko darayegi（吉祥天女来了。 她会让一些人笑，也会吓到其他人）。”
@@ -8,7 +11,7 @@
 
 在上映前，这部电影一方面因其跨性别角色受到关注，另一方面，它又遭受了一些质疑和批评。有评论家指出，这部电影像以前的LGBT题材宝莱坞作品一样，重复和消费着关于跨性别者的刻板印象。
 
-## 暴力和嘲弄
+## 暴力和嘲弄 { data-search-exclude }
 
 去年，29岁的娜芙莎·辛格（Naavya Singh）参加了电影的试镜，但她最终没有通过。后来，电影主角由一位广受欢迎的顺性别男演员阿克谢·库马尔（Akshay Kumar）扮演。
 
@@ -28,7 +31,7 @@
 
 ![网友呼吁抵制《吉祥天女》](//img.allhistory.com/now/2020-11-08/5fa7dc535ed47a0001cee133.png?imageView2/2/w/3840/|imageMogr2/strip/interlace/1/quality/75/format/jpg)
 
-## “新的污名”
+## “新的污名” { data-search-exclude }
 
 今年年初，该片导演劳伦斯宣布，他的男主角库马尔将捐出15亿印度卢比（约合202,190美元，1,336,758人民币），用于建造一个跨性别之家，这在印度可以说是首创。
 
@@ -50,7 +53,7 @@
 
 去年，印度政府通过了《2019年跨性别者（权利保护）法案》，该法案因存在问题而受到批评，包括规定跨性别者在合法改变性别之前必须进行手术，以及将针对跨性别者的“强奸”定为轻罪。
 
-## 难找工作的跨性别演员
+## 难找工作的跨性别演员 { data-search-exclude }
 
 宝莱坞去年也受到了质疑。当时Netflix的系列剧《神圣游戏》（Sacred Games）的跨性别人士，由一名顺性别的女演员扮演。一些业内人士曾质疑，影视行业不给真正的跨性别演员们参与演出的机会。
 
@@ -88,3 +91,29 @@ _2，https://www.vice.com/en/article/k7a8wy/a-new-bollywood-movie-plays-into-tra
 
 全知识版权所有，转载请联系授权并注明出处
 <!-- tcd_original_link https://m.allhistory.com/ah/article/5fa7db637bf619410c47fb8c -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_宝莱坞拍了一部跨性别题材电影，却激怒了一批真正的跨性别者_-_全知识.md                             |
+| Size            | 9046 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

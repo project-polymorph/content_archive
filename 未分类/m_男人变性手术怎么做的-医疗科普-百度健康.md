@@ -1,5 +1,8 @@
 # 男人变性手术相关信息
 
+## 正文 { data-search-exclude }
+
+
 **男人变性手术**
 
 男人变性手术成女人是件很不容易的事情，一是手术痛苦，二是变性手术后要长期服用激素，抑制雄性激素的增多，所以说副作用还是有点大，这个要想好的，毕竟是手术，这是一件非常严肃的事情，一定要经过慎重考虑，而且我国在变性手术这件事上是有严格的规定和审批流程的，一定要符合条件才可以做。
@@ -44,3 +47,29 @@
 
 微信扫描关注百度健康公众号
 <!-- tcd_original_link https://m.baidu.com/bh/m/detail/qr_5944995712993844662 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_男人变性手术怎么做的-医疗科普-百度健康.md                             |
+| Size            | 3721 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

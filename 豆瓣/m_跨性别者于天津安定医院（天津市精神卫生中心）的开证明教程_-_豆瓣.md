@@ -1,5 +1,8 @@
 # 跨性别者于天津安定医院（天津市精神卫生中心）的开证明教程
 
+## 正文 { data-search-exclude }
+
+
 ![凌子卿](https://img3.doubanio.com/icon/up34109442-2.jpg)
 
 ### 来自: [凌子卿](https://www.douban.com/people/34109442/) 组长
@@ -24,7 +27,7 @@
 
 如果有人能够补充相关信息，也请在评论区中留言。
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. 诊断及开诊断证明流程概览
 2. 推荐医师、预约方式及门诊流程
@@ -263,7 +266,7 @@
 - [凌子卿：关于向天津公安咨询跨性别有关生活与法律的问题及其回复](https://www.douban.com/link2/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F64124472&link2key=7634ff0da3)
 - [凌子卿：关于跨性别者使用厕所的讨论](https://www.douban.com/link2/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F63000099&link2key=7634ff0da3)
 
-## 参考
+## 参考 { data-search-exclude }
 
 1. [^](https://www.douban.com/link2/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F69880272%23ref_125747_1_0&link2key=7634ff0da3)国家《GB/T 14396-2016疾病分类与代码》标准正式发布 [http://www.nhc.gov.cn/mohwsbwstjxxzx/s8553/201610/59a02d2af7fa43bdb1dee1444418fe1f.shtml](https://www.douban.com/link2/?url=http%3A%2F%2Fwww.nhc.gov.cn%2Fmohwsbwstjxxzx%2Fs8553%2F201610%2F59a02d2af7fa43bdb1dee1444418fe1f.shtml&link2key=7634ff0da3)
 2. [^](https://www.douban.com/link2/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F69880272%23ref_125747_2_0&link2key=7634ff0da3)关于印发国际疾病分类第十一次修订本（ICD-11）中文版的通知 [http://www.nhc.gov.cn/yzygj/s7659/201812/14caf755107c43d2881905a8d4f44ed2.shtml](https://www.douban.com/link2/?url=http%3A%2F%2Fwww.nhc.gov.cn%2Fyzygj%2Fs7659%2F201812%2F14caf755107c43d2881905a8d4f44ed2.shtml&link2key=7634ff0da3)
@@ -271,3 +274,29 @@
 4. [^](https://www.douban.com/link2/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F69880272%23ref_125747_4_0&link2key=7634ff0da3)金医宝 [http://www.tj.gov.cn/xw/bdyw/201709/t20170911_3613082.html](https://www.douban.com/link2/?url=http%3A%2F%2Fwww.tj.gov.cn%2Fxw%2Fbdyw%2F201709%2Ft20170911_3613082.html&link2key=7634ff0da3)
 5. [^](https://www.douban.com/link2/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F69880272%23ref_125747_5_0&link2key=7634ff0da3)天津安定医院官网 [http://www.tjmhc.com/](https://www.douban.com/link2/?url=http%3A%2F%2Fwww.tjmhc.com%2F&link2key=7634ff0da3)
 <!-- tcd_original_link https://m.douban.com/group/topic/145433785/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件为跨性别者在天津安定医院（天津市精神卫生中心）开具“性身份障碍-易性症”证明的详细步骤与指南。文件从多个方面解释了开证明所需的过程、步骤、费用以及医师的预约方式。在前言中提到，天津安定医院可以根据现行的医学诊断标准开具此证明，虽其效力仍需验证。文件目录简介了整个流程，包括诊断及开证明的概览、推荐医师及其预约方式、建大病历、预约多专家会诊的细节、费用和交通信息等。文中还详细描述了每项体检与心理测试的要求和流程，强调医疗政策与经过标准化心理测试的重要性。在具体的医生推荐部分，李洁主任医师被提到，文件特别提及了她对于患者性别认同的理解与支持。总体而言，此文件提供了跨性别者在特定医院获得医疗证明的重要信息与实用建议，反映了中国跨性别者在医疗过程中的实际挑战及对医疗资源的渴求。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别者于天津安定医院（天津市精神卫生中心）的开证明教程_-_豆瓣.md                             |
+| Size            | 20763 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 凌子卿                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-07-11                                 |
+| Tags            | 跨性别, 证明开具, 天津安定医院, 医疗资源, 性别认同, 性身份障碍, 易性症, 心理测试, 医疗政策, 医师推荐, 生理体检, 多专家会诊, 患者经验                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 变性不是"装演猜", 心理砖家请滚开
 
+## 正文 { data-search-exclude }
+
+
 **时间**: Jan 01, 2016
 
 **来源**: 跟着鸟鸟再发育
@@ -52,3 +55,29 @@ _（特约专栏，未经允许，不得转载。本文不代表本网观点。�
 
 **版权**: Except where otherwise noted, content on this page is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** license.
 <!-- tcd_original_link https://biaojiangfm.typlog.io/2016/20160101 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | biaojiangfm_变性不是装演猜,_心理砖家请滚开_-_跟着鸟鸟再发育.md                             |
+| Size            | 5698 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

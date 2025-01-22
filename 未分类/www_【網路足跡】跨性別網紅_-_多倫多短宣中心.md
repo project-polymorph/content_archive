@@ -1,5 +1,8 @@
 # 跨性別網紅 – 多倫多短宣中心
 
+## 正文 { data-search-exclude }
+
+
 ![](https://www.torontostm.com/wp-content/uploads/2023/07/trans-sexuality-g092f83399_640.jpg)
 
 **作者：羅顯亮**
@@ -52,3 +55,29 @@
 **Twitter**: [twitter.com/stm\_toronto](https://twitter.com/stm_toronto)  
 **Instagram (Ins / IG)** : [torontostm](https://www.instagram.com/torontostm/)
 <!-- tcd_original_link https://www.torontostm.com/2023/07/29/%E3%80%90%E7%B6%B2%E8%B7%AF%E8%B6%B3%E8%B7%A1%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%A5%E7%B6%B2%E7%B4%85/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【網路足跡】跨性別網紅_-_多倫多短宣中心.md                             |
+| Size            | 7968 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

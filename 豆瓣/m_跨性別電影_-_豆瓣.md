@@ -1,5 +1,8 @@
 # 跨性别电影
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/1479129-20121201171744)
 
 来自: [抱持 (北京)](https://www.douban.com/people/booow/)  
@@ -131,3 +134,29 @@
 
 版权信息: © 2005－2024 douban.com, all rights reserved.
 <!-- tcd_original_link https://m.douban.com/doulist/1479129/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是关于跨性别电影的整理和介绍，主要列出了多部与跨性别相关的影视作品。这些电影涵盖了不同的类型，包括剧情、纪录片、喜剧等，主要展示了跨性别个体的生活故事和社会现象。同时，文件还提供了每部影片的基本信息，包括导演、主演、制片国家/地区、上映年份及其评分。这些电影在豆瓣平台上有详细的评价和介绍，反映了跨性别群体的多样性，并为观众提供了对跨性别议题的深入了解。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性別電影_-_豆瓣.md                             |
+| Size            | 5644 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 抱持                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-03-06                                 |
+| Tags            | 跨性别, 电影, 纪录片, 性别角色, 影视作品, 社会现象, 性别认同, 文化表达, 跨性别故事, 豆瓣电影                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

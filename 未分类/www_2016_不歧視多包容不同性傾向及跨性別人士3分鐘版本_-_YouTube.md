@@ -1,5 +1,8 @@
 # 2016 不歧視 多包容 不同性傾向及跨性別人士 3分鐘版本
 
+## 正文 { data-search-exclude }
+
+
 ![Video Thumbnail](https://i.ytimg.com/vi/jT484uY59sQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCwPWSdeBBaoQPoIgDiPFVPKUSbgQ)
 
 - **上传者**: Wong Alex
@@ -7,7 +10,7 @@
 - **上传日期**: 2017年3月7日
 - **视频时长**: 3:00
 
-## 视频信息
+## 视频信息 { data-search-exclude }
 
 2016 不歧視 多包容 不同性傾向及跨性別人士 3分鐘版本
 
@@ -16,20 +19,46 @@
 - **作曲者**: Martin Abbott, PRS
 - **专辑**: MML172 - Sunshine Life
 
-## 评论
+## 评论 { data-search-exclude }
 - **顶级评论**: 
    - 暂无评论
 
-## 说明
+## 说明 { data-search-exclude }
 2016 不歧視 多包容 不同性傾向及跨性別人士 3分鐘版本
 
 1 Likes  
 51 Views  
 2017 Mar 7  
 
-## 频道链接
+## 频道链接 { data-search-exclude }
 - [Wong Alex](https://youtube.com/@yeahlo2009)
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - [YouTube 视频链接](https://youtu.be/jT484uY59sQ)
 <!-- tcd_original_link https://www.youtube.com/watch?v=JJiEzNos6YI -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_2016_不歧視多包容不同性傾向及跨性別人士3分鐘版本_-_YouTube.md                             |
+| Size            | 949 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

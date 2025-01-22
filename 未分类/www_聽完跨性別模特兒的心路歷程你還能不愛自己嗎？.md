@@ -1,12 +1,15 @@
 # 作自己最美麗！勇敢擁抱真實的自己，聽完跨性別模特兒的心路歷程你還能不愛自己嗎？
 
+## 正文 { data-search-exclude }
+
+
 還是覺得自己不夠完美嗎？聽完這兩位名模的故事，你就會知道作自己就是最美麗的事！
 
 by [Titi Chen](https://www.marieclaire.com.tw/author/55/Titi Chen) - 2019/08/10更新
 
 ![作自己最美麗！勇敢擁抱真實的自己，聽完跨性別模特兒的心路歷程你還能不愛自己嗎？](https://im.marieclaire.com.tw/s1200c675h100b0webp100/assets/mc/201908/5D4D4365EB4C81565344613.jpeg)
 
-## 精品愛模 Nathan Westling
+## 精品愛模 Nathan Westling { data-search-exclude }
 
 征戰無數時裝週，到現在已經走過Louis Vuitton、Prada 、Alexander McQueen、Saint Laurent、Versace、Chanel、Celine和Dior等各大精品伸展台的Natalie Westling當時為了圓母親的夢，而踏上了模特兒這條路，
 
@@ -22,7 +25,7 @@ by [Titi Chen](https://www.marieclaire.com.tw/author/55/Titi Chen) - 2019/08/10�
 
 成為跨性別者的Nathan Westling說，在變性的過程是痛苦並快樂著(服用大量賀爾蒙初期會讓身體感到不適)，開始服用睾酮素至今已經 6個多月了，不只體重增加、聲音變低沉、臉型改變，但現在的他持續著他熱愛的滑板，就像脫掉了10幾年的假面具，終於過著他這些年從未享受過的快樂生活。
 
-## 首位變性維秘模特 Valentina Sampaio
+## 首位變性維秘模特 Valentina Sampaio { data-search-exclude }
 
 而另外一為跨性別模特Valentina Sampaio，約在他8歲時，就被心理學家認定為跨性別者，到了12歲之後，她便稱自己為Valentina，在父母的支持下，她做了變性手術，從小都沒有因為這樣而被排擠，Valentina表示同學們都已經把她視為一位女孩。
 
@@ -51,3 +54,29 @@ by [Titi Chen](https://www.marieclaire.com.tw/author/55/Titi Chen) - 2019/08/10�
 
 美麗佳人為提供您更多優質的內容，採用網站分析技術。若您未點選「我同意」而繼續瀏覽本網站，則視為您已同意本站之[隱私權政策](https://www.marieclaire.com.tw/privacy)。
 <!-- tcd_original_link https://www.marieclaire.com.tw/fashion/feature/44236 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_聽完跨性別模特兒的心路歷程你還能不愛自己嗎？.md                             |
+| Size            | 3985 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

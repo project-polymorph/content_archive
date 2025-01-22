@@ -1,20 +1,23 @@
 # 悬吊式腹腔镜行乙状结肠代阴道成形术31例
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 中国微创外科杂志  
 **时间**: 2011年(09):43-45  
 **DOI**: [10.3969/j.issn.1672-1867.2011.09.019](http://doi.org/10.3969/j.issn.1672-1867.2011.09.019)
 
-## 作者
+## 作者 { data-search-exclude }
 - 王焕英
 - 王君
 - 伍冀湘
 - 李斌
 
-## 所属单位
+## 所属单位 { data-search-exclude }
 - 1. 首都医科大学附属北京安贞医院妇产科, 北京, 100029
 - 2. 首都医科大学附属北京安贞医院普外科, 北京, 100029
 
-## 分类号
+## 分类号 { data-search-exclude }
 R713.31
 
 ### 引用此文章
@@ -44,3 +47,29 @@ R713.31
 
 ©2012-2023 北京大学 版权所有
 <!-- tcd_original_link https://ccj.pku.edu.cn/article/info?id=309787760 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ccj_悬吊式腹腔镜行乙状结肠代阴道成形术31例_-_北京大学期刊网.md                             |
+| Size            | 3000 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

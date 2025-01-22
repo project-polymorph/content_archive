@@ -1,5 +1,8 @@
 # 西班牙国王巡视灾区遇示威 民众怒掷泥浆泄愤
 
+## 正文 { data-search-exclude }
+
+
 ![西班牙水灾已造成217人死亡。路透社](https://image.hkhl.hk/f/1024p0/0x0/100/none/fc5f42b1df7ee2692681cb28b5ce6a33/2024-11/https___cloudfront-us-east-2_images_arcpublishing_com_reuters_LYWBDC4DUZLMFMKZMNDFB6JGRI.jpeg)
 
 西班牙东部巴伦西亚（Valencia）遭受半世纪以来最大洪水，死亡人数已上升至217人。国王费利佩六世（King Felipe） 与王后莱蒂齐亚（Queen Letizia）到当地巡视时，有愤怒的民众上街示威，并向国王掷泥巴泄愤。救援人员在灾区继续拯救工作，仍然有数十人下落不明。
@@ -48,3 +51,29 @@
 
 版权所有 © 2008-2024 星岛加拿大都市网
 <!-- tcd_original_link https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E7%8E%8B%E5%B7%A1%E8%A7%86%E7%81%BE%E5%8C%BA%E9%81%87%E7%A4%BA%E5%A8%81-%E6%B0%91%E4%BC%97%E6%80%92%E6%8E%B7%E6%B3%A5%E6%B5%86%E6%B3%84%E6%84%A4/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | dushi_西班牙国王巡视灾区遇示威民众怒掷泥浆泄愤_-_DUSHI.CA.md                             |
+| Size            | 5892 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

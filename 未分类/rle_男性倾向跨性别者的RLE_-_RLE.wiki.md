@@ -1,5 +1,8 @@
 # 男性倾向跨性别者的 RLE
 
+## 正文 { data-search-exclude }
+
+
 作者: 航  
 最后更新: 4/18/24, 3:56 PM  
 字数: 397  
@@ -35,7 +38,7 @@ RLE 与其他性别肯定步骤是一定程度上相辅相成的 -- HRT 会让�
 
 对于正在挑选对跨性别相对环境友好、便于 RLE 的大陆高校的兄弟，请见 [校园指南](https://rle.wiki/campus/)。
 
-## 文章目录
+## 文章目录 { data-search-exclude }
 
 - [我是跨性别男性吗？](/fashion/ftm/am-i)
 - [男性倾向跨性别者通常衣着指南](/fashion/ftm/clothing/)
@@ -48,13 +51,13 @@ RLE 与其他性别肯定步骤是一定程度上相辅相成的 -- HRT 会让�
 - [旅行时人证不符怎么办？如何携带束胸假体和激素？](/fashion/ftm/travel)
 - [嗓音男性化训练](/fashion/ftm/vocal-training)
 
-## 意见反馈
+## 意见反馈 { data-search-exclude }
 
 附加图片
 
 发送
 
-## 页面历史
+## 页面历史 { data-search-exclude }
 
 最后编辑于 9 个月前查看完整历史
 
@@ -64,3 +67,29 @@ RLE 与其他性别肯定步骤是一定程度上相辅相成的 -- HRT 会让�
 
 [`bda0c5b`](https://github.com/project-trans/RLE-wiki/commit/bda0c5b8a3082568802c85e1bb5b4829e033e22b) - fashion: transfer ftm's rle ([#302](https://github.com/project-trans/RLE-wiki/issues/302)) 于 4/11/2024
 <!-- tcd_original_link https://rle.wiki/fashion/ftm/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | rle_男性倾向跨性别者的RLE_-_RLE.wiki.md                             |
+| Size            | 2877 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

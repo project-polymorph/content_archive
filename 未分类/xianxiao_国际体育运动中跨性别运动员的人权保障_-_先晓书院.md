@@ -1,5 +1,8 @@
 # 国际体育运动中跨性别运动员的人权保障
 
+## 正文 { data-search-exclude }
+
+
 - **作者：** [刘雪芹](/author/info/id/187272)  
 - **出处：** 人权研究（第20卷）  
 - **出版日期：** 2018年12月  
@@ -8,15 +11,15 @@
 - **字数：** 22085  
 - **价格：** ￥9.68 / ￥12.9  
 
-## 摘要
+## 摘要 { data-search-exclude }
 国际体育界最近出现的保护和尊重人权的热潮不仅包括体育赛事组织者遵守赛事主办地的人权规定，而且包括对运动员人权的尊重，其中因为跨性别运动员的特殊性而在人权保护方面也有一些具体的特点。跨性别运动员人权的保护既涉及对跨性别人士的一般国际人权保护，也涉及国际体育界运动员权益保护的发展和政策的制定，以及维护跨性别运动员权益的体育争端解决机制的完善，同时在更广的范围内推动了各国制定保护性取向异常人士的法律政策。
 
-## 关键词
+## 关键词 { data-search-exclude }
 [国际体育运动](/catalog/spage.html?keywords=%25E5%259B%25BD%25E9%2599%2585%25E4%25BD%2593%25E8%2582%25B2%25E8%25BF%2590%25E5%258A%25A8)  
 [跨性别运动员](/catalog/spage.html?keywords=%25E8%25B7%25A8%25E6%2580%25A7%25E5%2588%25AB%25E8%25BF%2590%25E5%258A%25A8%25E5%2591%2598)  
 [人权保障](/catalog/spage.html?keywords=%25E4%25BA%25BA%25E6%259D%2583%25E4%25BF%259D%25E9%259A%259C)
 
-## 正文
+## 正文 { data-search-exclude }
 
 晚近国际体育运动中兴起了一股加强人权保护的热潮，不但国际体育组织和赛事主办方要尊重人权，而且国际体育组织还要求意欲申办大型赛事的国家要在申办之时就承诺承担保护人权的责任。譬如2017年2月底，国际奥委会宣布修改奥运会主办城市合同，要求主办城市和奥组委保护和尊重人权，遵守国际公认的人权标准，包括《联合国工商业和人权指导原则》。由此可见，国际体育赛事的主办和筹办越来越多地考虑到了人权问题，但这只是从赛事组织和筹办的角度对东道国和国际体育组织的要求。从运动员的角度来讲，一个近些年探讨的热点是跨性别（transgender）运动员的人权保障问题。跨性别运动员所遇到的问题既有与同性恋、双性恋和变性者相同的一面，也有自己独特的与睾丸酮有关的科学问题。从法律、体育组织政策规则以及科学知识的角度来讲，跨性别运动员涉及的人权保障问题可能是最典型的，其既涉及与一般运动员相同的人权问题，譬如平等、公平和正当程序等，另外还有独特的参赛权益和性别鉴定中的人权问题。因此，本文把其作为主要的研究对象。
 
@@ -54,6 +57,32 @@
 
 ![参考图片](/resourcePic/7823/120181201X20184895020_12_0322_1_z_300x300.png)
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 国际体育运动中跨性别运动员的人权保障
 <!-- tcd_original_link https://xianxiao.ssap.com.cn/catalog/2341547.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | xianxiao_国际体育运动中跨性别运动员的人权保障_-_先晓书院.md                             |
+| Size            | 19507 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

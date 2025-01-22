@@ -1,5 +1,8 @@
 # 片类【禁恋异色】
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/674554-20200411121134)
 
 来自: [黑暗之光 (福州)](https://www.douban.com/people/penguinman/) 2010-07-31 17:38:20创建   2020-04-11 12:11:34更新
@@ -9,7 +12,7 @@
 **关注人数：** 27人  
 **关注者名单：** [1954人关注](https://www.douban.com/doulist/674554/?type=followers#main)
 
-## 可播放的影视 (16)
+## 可播放的影视 (16) { data-search-exclude }
 
 来自：豆瓣电影
 
@@ -254,17 +257,43 @@
     > 评语：虚拟爱情/恋物癖  
     2016-10-11 21:19:56 [回复](javascript: void 0;)  
 
-## 黑暗之光的其它豆列  
+## 黑暗之光的其它豆列   { data-search-exclude }
 - [2022年观影精选](https://www.douban.com/doulist/148491511/)  
 - [片类【公路旅程】](https://www.douban.com/doulist/674921/) (1430人关注)  
 - [【电影里引人沉思的台词】](https://www.douban.com/doulist/1282432/) (1937人关注)  
 - [科幻课题【生命再造】](https://www.douban.com/doulist/143309759/) (16人关注)  
 - [专辑【那些孤独的灵魂们】](https://www.douban.com/doulist/45607724/) (12人关注)  
 
-## 最新留言 
+## 最新留言  { data-search-exclude }
 - [![黑暗之光](https://img9.doubanio.com/icon/u1972010-34.jpg)](https://www.douban.com/people/penguinman/) [黑暗之光](https://www.douban.com/people/penguinman/) 2011-09-18 11:20  
     [收藏码，方便记录整理~](https://www.douban.com/doulist/674554/comments/#245152)  
 
 - [![[已注销]](https://img3.doubanio.com/icon/user_large_f.jpg)](https://www.douban.com/people/37567932/) [\[已注销\]](https://www.douban.com/people/37567932/) 2011-06-19 13:08  
     [E0741 前面的代码是什么意思？](https://www.douban.com/doulist/674554/comments/#237800)  
 <!-- tcd_original_link https://m.douban.com/doulist/674554/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件名为《片类【禁恋异色】》，是一个以影类为主题的豆瓣页面，主要探讨了与多元性别相关的情欲与心理电影。在正文部分，作者提到这份豆列的主要内容涉及异色、乱伦、性虐、禁恋等边缘情欲类别，以及对这些情感与行为的探讨。文中提到对待变性人及异装癖者的社会偏见，反对简单地将这些行为视为“变态”，并鼓励以平常心看待多元性，这表达了一种对多元情欲的开放态度。作者提到应有一个较为半开放的态度去理解和反思这些情欲心理，而非以武断的方式进行批判。此外，文件中还列出了相关电影的推荐及其导演信息，强调了这些影片对异端情欲的讨论与表现。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_片类【禁恋异色】_-_豆瓣.md                             |
+| Size            | 13680 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 黑暗之光                               |
+| Region          | 未知                               |
+| Date            | 2020-04-11                                 |
+| Tags            | 多元性别, 边缘情欲, 异装癖, 性虐待, 禁恋, 情欲心理, 心理学研究, 电影推荐, 社会偏见, 性倾向                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

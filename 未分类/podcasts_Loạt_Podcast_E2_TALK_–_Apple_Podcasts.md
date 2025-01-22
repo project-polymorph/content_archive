@@ -1,10 +1,13 @@
 # E2 TALK - 跨性别女性生活与权益探讨播客
 
+## 正文 { data-search-exclude }
+
+
 ![E2 TALK](/assets/artwork/1x1.gif)
 
 “E2TALK”旨在成为一个揭示、探讨跨性别女性生活经历、权益诉求以及挑战困境的频道。我们将邀请跨性别女性小伙伴们加入到节目中参与对话和探讨，通过她们的故事去触摸真实的生活脉络，剖析社会环境与政策规定对跨性别女性的影响，分享个人成长与身份认同的心路历程。在这里，我们倡导平等、包容与接纳，力求消除误解，增进公众对性少数群体的理解和尊重。每一集播客都将是一次勇敢自我表达的见证。我们希望通过“E2TALK”的问世，让每一个跨性别女性的声音被更多人听见，看见她们在逆境中绽放的力量。
 
-## 最新一集
+## 最新一集 { data-search-exclude }
 
 ### Ep0 先导及Q&A
 - **日期**: 12/01/2024
@@ -17,7 +20,7 @@ Ep0 制作人员名单：
 - 文案/橙柚橙（ORENJI49）
 - 配音及主持/青青（Whitechan）
 
-## 项目概况
+## 项目概况 { data-search-exclude }
 
 - **创作者**: E2 Project/橙柚橙
 - **年限**: 2 年
@@ -28,3 +31,29 @@ Ep0 制作人员名单：
 
 ![Apple Podcasts](/assets/app-icons/podcasts-icon_512.png)
 <!-- tcd_original_link https://podcasts.apple.com/us/podcast/e2-talk/id1724764042?l=vi -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_Loạt_Podcast_E2_TALK_–_Apple_Podcasts.md                             |
+| Size            | 2663 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

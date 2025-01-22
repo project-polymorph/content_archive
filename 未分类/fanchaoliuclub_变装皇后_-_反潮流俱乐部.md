@@ -1,5 +1,8 @@
 # 反潮流俱乐部: 变装皇后
 
+## 正文 { data-search-exclude }
+
+
 「变装皇后」这个词来自英文“Drag Queen”，特指那些通过穿女性服装来扮演女性的男性。虽然这是一个小众的圈子， 但是它的文化却有着[悠久的历史](https://en.wikipedia.org/wiki/Drag_queen#History_of_drag)
 
 本期我们请来的两位嘉宾 Ray 和 Sky，来和我们一起讲述 Drag Queen 的精神、文化以及他们的故事。
@@ -68,3 +71,29 @@ Sky，（微博:三号技师sky， ins:skycc）上海 MEDUSA 派对组织者，D
 [文化](/tags/%E6%96%87%E5%8C%96)  
 [小众](/tags/%E5%B0%8F%E4%BC%97)  
 <!-- tcd_original_link https://fanchaoliuclub.fireside.fm/dragqueen -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fanchaoliuclub_变装皇后_-_反潮流俱乐部.md                             |
+| Size            | 3359 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

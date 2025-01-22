@@ -1,5 +1,8 @@
 # 我将如何呼唤你
 
+## 正文 { data-search-exclude }
+
+
 ![我将如何呼唤你](https://img3.doubanio.com/view/subject/s/public/s33803662.jpg)
 
 **作者:** [意]西尔维娅·费雷里  
@@ -25,7 +28,7 @@
 2星 0.8%  
 1星 0.7%  
 
-## 内容简介 
+## 内容简介  { data-search-exclude }
 
 “你惩罚我，因为让你生为女人，这都是我的错。”  
 VS  
@@ -61,14 +64,14 @@ VS
 
 难道让她生为女人，从一开始就错了？
 
-## 我将如何呼唤你的创作者 
+## 我将如何呼唤你的创作者  { data-search-exclude }
 
 - [![西尔维娅·费雷里](https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png)](https://book.douban.com/author/4612710/ "西尔维娅·费雷里")  
   [西尔维娅·费雷里](https://book.douban.com/author/4612710/ "西尔维娅·费雷里") 作者
 - [![陈英](https://img9.doubanio.com/view/personage/m/public/2c3bc19773064e824366d667fa1a05a5.jpg)](https://book.douban.com/author/4610505/ "陈英")  
   [陈英](https://book.douban.com/author/4610505/ "陈英") 译者
 
-## 作者简介 
+## 作者简介  { data-search-exclude }
 
 作者 ：西尔维娅•费雷里/Silvia Ferreri
 
@@ -82,7 +85,7 @@ VS
 
 许文畅 ：四川外国语大学意大利语专业在读硕士研究生
 
-## "我将如何呼唤你"试读 
+## "我将如何呼唤你"试读  { data-search-exclude }
 
 伊娃，我在这里，在你身边。我坐在手术室旁冰冷的走廊里，你光着身子躺在里边，这是你作为女孩、女人和女性的最后时刻。 你听不到我，也看不到我，但我在这里，我没有丢下你。我发誓我会待在这里，直到手术结束。我把你带到这遥远的地方，如同完成一场献祭，而你是那只献祭的羔羊，我会一直陪在你身边，直到献祭完成，直到你不再是你，直到你成为一个全新的人。 
 
@@ -94,14 +97,14 @@ VS
 
 · · · · · · ([查看全部试读](https://book.douban.com/subject/35325443/reading/))
 
-## 论坛 
+## 论坛  { data-search-exclude }
 
-## 当前版本有售 
+## 当前版本有售  { data-search-exclude }
 
 - [京东商城](https://book.douban.com/link2/?lowest=1800&pre=0&vendor=jingdong&srcpage=subject&price=1839&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZ0JK1olXwIAVF5cD00RA18IGVsXXAUDV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAgA4SjUSVzQISBtCOk13UTwjfzlABwpwdVldGU9cIhwNQUt3YzlWbF0SNRFCWCokdClgSghKbzJtBWJhNBgrehFyYSZwXSxwLWNlDS4UfxMWZA0JZxt2FVxmNhcpTih-ez98QSxCKX9QMikECBVgahNtYD1pI1FdMz40VR5VYzdeQyx2Oll1CzY5fzhCRBhsb08XKDYCJC4hYCNfUwxueVJiNAACVw0uVUNBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTXwYAU19dC0sSCmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEAUVwzVElCWGoKRx97XQMCVF5dDksfM20JGlkXbTYyAgA4SjUSVzQISBtCOk13UTwjfzlABwpwdVldGU9cIhwNQUt3YzlWbF0SNTYHZA&cntvendor=2&srcsubj=35325443&type=bkbuy&subject=35325443)
 - [中图网](https://book.douban.com/link2/?lowest=1800&pre=0&vendor=bookschina&srcpage=subject&price=1800&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8512699.htm&cntvendor=2&srcsubj=35325443&type=bkbuy&subject=35325443)
 
-## 喜欢读"我将如何呼唤你"的人也喜欢的电子书 
+## 喜欢读"我将如何呼唤你"的人也喜欢的电子书  { data-search-exclude }
 
 支持 Web、iPhone、iPad、Android 阅读器
 
@@ -111,3 +114,29 @@ VS
 - [鞋带](https://read.douban.com/ebook/144750906/)
 - [成年人的谎言生活](https://read.douban.com/ebook/328211015/)
 <!-- tcd_original_link https://m.douban.com/book/subject/35325443/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《我将如何呼唤你》是意大利作家西尔维娅·费雷里的小说，讲述了18岁少女伊娃在与自身性别认同冲突中经历的手术与过渡。书中通过伊娃的手术与母亲在手术室外的等待，深刻探讨了身份认同、性别角色以及亲子关系的复杂性。小说包含对生命的困扰、对母爱的描绘与对女性身份的质疑。作者在书中表达了对不同性别身份的理解与尊重，同时也对传统性别观进行了大胆的挑战。此书不仅在意大利引起轰动，并且被多家媒体推荐为年度好书。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_我将如何呼唤你-_图书-_豆瓣.md                             |
+| Size            | 6147 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 西尔维娅·费雷里                               |
+| Region          | 意大利                               |
+| Date            | 2021-03-01                                 |
+| Tags            | 多元性别, 性别认同, 性别过渡, 亲子关系, 身份探索, 女性主义, 意大利文学, 小说, 斯特雷加奖, 文学作品                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

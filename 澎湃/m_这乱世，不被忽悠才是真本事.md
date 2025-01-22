@@ -1,5 +1,8 @@
 # 这乱世，不被忽悠才是真本事
 
+## 正文 { data-search-exclude }
+
+
 ![杰克逊·勃洛克的作品](https://imagepphcloud.thepaper.cn/pph/image/228/344/746.jpg)
 ▲ 美国画家杰克逊·勃洛克的作品《1948年第5号》。该作品在2006年时以1.4亿美金售出，成为当时世界上最昂贵的画作之一。
 
@@ -86,3 +89,29 @@
 **特别声明**  
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。申请澎湃号请用电脑访问 https://renzheng.thepaper.cn。
 <!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_21029751 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文探讨了当今社会中多个层面的问题，特别是关于文化、政治和艺术的看法。文章通过提及跨性别和其它LGBTQ+相关内容，引出关于所谓“政治正确”的讨论，尤其是在美国文化中如何运用艺术作政治工具。文中举了数个例子，包括一名跨性别女孩参加选美比赛，以及几个艺术作品的背景和出售价格，分析了如何在当代社会中，关于艺术与自由、政治与文化产生了复杂的互动。文章最后呼吁读者保持独立的判断力，不被潮流所左右，强调在这变幻不定的世界中，保持清醒的头脑和文化自信至关重要。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_这乱世，不被忽悠才是真本事.md                             |
+| Size            | 9558 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 跨性别者, 艺术与政治, 政治正确, 文化自信, 社会意识, 反映生存现状, 选美争议, 美国文化, 意识形态                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

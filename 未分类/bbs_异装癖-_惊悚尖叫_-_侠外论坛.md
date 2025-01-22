@@ -1,5 +1,8 @@
 # 异装癖
 
+## 正文 { data-search-exclude }
+
+
 **发表于 2015-12-21 00:03:13**
 
 异装癖又称异性装扮癖，是指通过穿着异性服装而得到性兴奋一种性变态形式，患者均为异性恋，以男性居多。异装癖患者通常从青春期开始穿着异装，逐渐发展为在公共场所亦浓妆艳抹地招摇过市，有愉快的性满足感和性冲动出现。异装癖患者并不厌恶或怀疑自己的性别，甚至还会得到性满足，而易性癖在改装后并不感到色的刺激，而确信自己是一个真正的异性。
@@ -34,3 +37,29 @@
 
 **标签**: [公共场所](misc.php?mod=tag&id=402 "公共场所"), [性兴奋](misc.php?mod=tag&id=12752 "性兴奋"), [满足感](misc.php?mod=tag&id=8781 "满足感"), [异装癖](misc.php?mod=tag&id=12753 "异装癖"), [小伙子](misc.php?mod=tag&id=187 "小伙子")
 <!-- tcd_original_link https://bbs.xiawai.com/thread204952p1v1 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | bbs_异装癖-_惊悚尖叫_-_侠外论坛.md                             |
+| Size            | 6390 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 制造混乱的性别意识形态
 
+## 正文 { data-search-exclude }
+
+
 ![Image](https://secure.gravatar.com/avatar/43391c0d51bf257a2419bbef690ade71?s=150&d=mm&r=g)
 
 #### 由[义工](https://nacr.info/WordPress/index.php/author/qianjs/)
@@ -162,3 +165,29 @@ _**最后建议参考我们过去已经发布的字幕视频系列《[何为女�
 -   [唐纳德·川普宣誓就任美国第47任总统（含视频）](https://nacr.info/WordPress/index.php/2025/01/20/donald-trump-inauguration-2025/)
 -   [川普在万王之王的祝福之中回归白宫](https://nacr.info/WordPress/index.php/2025/01/19/trump-returns-amidst-the-blessings-of-the-king-of-kings/)
 <!-- tcd_original_link https://nacr.info/WordPress/index.php/2023/01/26/gender-ideology-run-amok/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | nacr_制造混乱的性别意识形态–_北美保守评论.md                             |
+| Size            | 27051 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

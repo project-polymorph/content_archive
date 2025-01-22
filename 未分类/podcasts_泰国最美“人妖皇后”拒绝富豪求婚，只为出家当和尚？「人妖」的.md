@@ -1,10 +1,13 @@
 # 泰国最美“人妖皇后”拒绝富豪求婚，只为出家当和尚？
 
+## 正文 { data-search-exclude }
+
+
 [早安英文-每日外刊精读](https://podcasts.apple.com/gb/podcast/%E6%97%A9%E5%AE%89%E8%8B%B1%E6%96%87-%E6%AF%8F%E6%97%A5%E5%A4%96%E5%88%8A%E7%B2%BE%E8%AF%8D/id1073522912)
 
 ![早安英文-每日外刊精读](/assets/artwork/1x1.gif)
 
-## 笔记：
+## 笔记： { data-search-exclude }
 
 - ladyboy /ˈleɪdibɔɪ/ n. 具有女性性征的男子，人妖
 
@@ -16,7 +19,7 @@
 
 [Episode Webpage](https://www.ximalaya.com/sound/605670627)
 
-## Information
+## Information { data-search-exclude }
 
 - **Show**: [早安英文-每日外刊精读](https://podcasts.apple.com/gb/podcast/%E6%97%A9%E5%AE%89%E8%8B%B1%E6%96%87-%E6%AF%8F%E6%97%A5%E5%A4%96%E5%88%8A%E7%B2%BE%E8%AF%8D/id1073522912)
 - **Channel**: [喜马拉雅](https://podcasts.apple.com/gb/channel/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85/id6442746608)
@@ -26,18 +29,44 @@
 - **Episode**: 712
 - **Rating**: Clean
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 内容来源于早安英文，版权所有。
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 泰国
 - 人妖
 - 社会文化
 - 喜马拉雅
 
-## 评论
+## 评论 { data-search-exclude }
 
 - 暂无评论。
 <!-- tcd_original_link https://podcasts.apple.com/gb/podcast/%E6%B3%B0%E5%9B%BD%E6%9C%80%E7%BE%8E-%E4%BA%BA%E5%A6%96%E7%9A%87%E5%90%8E-%E6%8B%92%E7%BB%9D%E5%AF%8C%E8%B1%AA%E6%B1%82%E5%A9%9A-%E5%8F%AA%E4%B8%BA%E5%87%BA%E5%AE%B6%E5%BD%93%E5%92%8C%E5%B0%9A-%E4%BA%BA%E5%A6%96-%E7%9A%84%E8%8B%B1%E6%96%87%E6%98%AF/id1073522912?i=1000596384661 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_泰国最美“人妖皇后”拒绝富豪求婚，只为出家当和尚？「人妖」的.md                             |
+| Size            | 1639 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

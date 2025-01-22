@@ -1,9 +1,12 @@
 # 跨性别和多元性别人群健康照护指南（第8版） | SOC-8
 
+## 正文 { data-search-exclude }
+
+
 **字数**: 1032  
 **预计阅读时间**: 3 分钟  
 
-## 翻译 disclaimer - WPATH
+## 翻译 disclaimer - WPATH { data-search-exclude }
 
 WPATH 的跨性别和多元性别人群健康照护指南第八版（SOC-8）由第三方翻译成多种语言，以便更多读者能够阅读和理解。但请注意，这些非英文版本的翻译均由第三方完成，WPATH 并未对其准确性进行审核或认可。想了解更多关于 SOC8 翻译流程的信息，请[访问这里](https://www.wpath.org/media/cms/Documents/SOC%20v8/Translations/21.08.23%20Process%20of%20SOC8%20translation.pdf)。
 
@@ -13,15 +16,15 @@ WPATH 的跨性别和多元性别人群健康照护指南第八版（SOC-8）由
 
 若有关于翻译的反馈、意见或问题，请[点击此处](https://forms.gle/ifUnqxEi6S71cTgPA)填写反馈表。
 
-## 编写者
+## 编写者 { data-search-exclude }
 
 E. Coleman, A. E. Radix, W. P. Bouman, G. R. Brown, A. L. C. de Vries, M. B. Deutsch, R. Ettner, L. Fraser, M. Goodman, J. Green, A. B. Hancock, T. W. Johnson, D. H. Karasic, G. A. Knudson, S. F. Leibowitz, H. F. L. Meyer-Bahlburg, S. J. Monastery, J. Motmans, L. Nahata, T. O. Nieder, S. L. Reisner, C. Richards, L. S. Schechter, V. Tangpricha, A. C. Tishelman, M. A. A. Van Trotsenburg, S. Winter, K. Ducheny, N. J. Adams, T. M. Adrián, L. R. Allen, D. Azul, H. Bagga, K. Başar, D. S. Bathory, J. J. Belinky, D. R. Berg, J. U. Berli, R. O. Bluebond- Langner, M.-B. Bouman, M. L. Bowers, P. J. Brassard, J. Byrne, L. Capitán, C.J. Cargill, J. M. Carswell, S. C. Chang, G. Chelvakumar, T. Corneil, K. B. Dalke, G. De Cuypere, E. de Vries, M. Den Heijer, A. H. Devor, C. Dhejne, A. D’Marco, E. K. Edmiston, L. Edwards-Leeper, R. Ehrbar, D. Ehrensaft, J. Eisfeld, E. Elaut, L. Erickson-Schroth, J. L. Feldman, A. D. Fisher, M. M. Garcia, L. Gijs, S. E. Green, B. P. Hall, T. L. D. Hardy, M. S. Irwig, L. A. Jacobs, A. C. Janssen, K. Johnson, D. T. Klink, B. P. C. Kreukels, L. E. Kuper, E. J. Kvach, M. A. Malouf, R. Massey, T. Mazur, C. McLachlan, S. D. Morrison, S. W. Mosser, P. M. Neira, U. Nygren, J. M. Oates, J. Obedin-Maliver, G. Pagkalos, J. Patton, N. Phanuphak, K. Rachlin, T. Reed, G. N. Rider, J. Ristori, S. Robbins-Cherry, S. A. Roberts, K.A. Rodriguez-Wallberg, S. M. Rosenthal, K. Sabir, J. D. Safer, A. I. Scheim, L. J. Seal, T. J. Sehoole, K. Spencer, C. St. Amand, T. D. Steensma, J. F. Strang, G. B. Taylor, K. Tilleman, G. G. T’Sjoen, L. N. Vala, N. M. Van Mello, J. F. Veale, J. A. Vencill, B. Vincent, L. M. Wesp, M. A. West & J. Arcelus
 
-## 通讯作者
+## 通讯作者 { data-search-exclude }
 
 Dr Eli Coleman，美国明尼苏达州明尼阿波利斯明尼苏达大学医学院家庭医学和社区健康系性与性别健康研究所博士
 
-## 翻译参与者（按拼音顺序排列）
+## 翻译参与者（按拼音顺序排列） { data-search-exclude }
 
 ### 内容专家
 
@@ -47,3 +50,29 @@ Dr Eli Coleman，美国明尼苏达州明尼阿波利斯明尼苏达大学医学
 
 **以及感谢在翻译以及校对过程中，以各种形式参与协助的社群伙伴。**
 <!-- tcd_original_link https://project-trans.org/SOC-8/soc8cn/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | project-trans_跨性别和多元性别人群健康照护指南（第8版）__SOC-8_-_Project_Trans.md                             |
+| Size            | 4269 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

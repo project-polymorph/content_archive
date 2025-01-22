@@ -1,8 +1,11 @@
 # 性別島讀：臺灣性別文學的跨世紀革命暗語
 
+## 正文 { data-search-exclude }
+
+
 ![性別島讀：臺灣性別文學的跨世紀革命暗語](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/090/45/0010904587.jpg&v=61519d42k&w=348&h=348)
 
-## 內容簡介
+## 內容簡介 { data-search-exclude }
 
 **★ 第一本集體書寫的臺灣性別文學史 ★ 性是權力的根源，文學是社會革新的力量 寫給每一顆騷動心靈的臺灣．性啟蒙讀本！**
 
@@ -13,7 +16,7 @@
 - ★性別文學秘境的全方位指南
 - ★文青必備的性別社會透視鏡
 
-## 作者介紹
+## 作者介紹 { data-search-exclude }
 
 **編者簡介 王鈺婷**
 - 成功大學臺灣文學系博士，現任清華大學臺灣文學研究所教授。
@@ -29,7 +32,7 @@
 - **吳佩珍**：教授，專於日治時期及性別研究。
 - **蔡蕙頻**、**張志樺**、**黃儀冠**、**李淑君**、**曾秀萍**、**李癸雲**、**紀大偉**、**李欣倫**、**謝欣芩**、**楊佳嫻**、**翁智琦**、**鄭芳婷**、**葉佳怡**等均為本書的貢獻作者。
 
-## 詳細資料
+## 詳細資料 { data-search-exclude }
 
 - **ISBN**：9789570860085
 - **出版日期**：2021/10/14
@@ -39,7 +42,7 @@
 - **定價**：350元
 - **優惠價**：276元（79折）
 
-## 目錄
+## 目錄 { data-search-exclude }
 
 **推薦序**
 - 作家的性別私史 （李昂）
@@ -82,3 +85,29 @@
 
 Copyright © since 1995 books.com.tw All Rights Reserved.
 <!-- tcd_original_link https://www.books.com.tw/products/0010904587?srsltid=AfmBOoqIqj-p9V5Rybs98lM73p5zTDb9Tx8Ls8ZP4penHIgWQ4ArWMMg -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性別島讀：臺灣性別文學的跨世紀革命暗語_-_博客來.md                             |
+| Size            | 4038 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

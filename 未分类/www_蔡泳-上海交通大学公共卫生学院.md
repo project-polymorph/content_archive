@@ -1,8 +1,11 @@
 # 蔡泳 - 上海交通大学公共卫生学院专家档案
 
+## 正文 { data-search-exclude }
+
+
 ![关键词](../../images/inset_bar.jpg)
 
-## 社区健康与行为医学系
+## 社区健康与行为医学系 { data-search-exclude }
 
 - ### [在职教师](../../szdw/zzjs.htm)
     
@@ -42,3 +45,29 @@ Email: caiyong@shsmu.edu.cn
 5. Cai Y, and Lau JTF: Multi-dimensional factors associated with unprotected anal intercourse with regular partners among Chinese men who have sex with men in Hong Kong: a respondent-driven sampling survey. BMC Infectious Diseases 2014 14:205. (IF=2.561)
 6. Wang, Y.; Yao, W.; Shang, M.; Cai, Y.(通讯作者); Shi, R.; Ma, J.; Wang, J.; Song, H. Sexual and Reproductive Health among Unmarried Rural-Urban Female Migrants in Shanghai China: A Comparative Analysis. Int. J. Environ. Res. Public Health 2013, 10(8): 3578-3589. （IF=1.998
 <!-- tcd_original_link https://www.shsmu.edu.cn/sph/info/1048/1219.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_蔡泳-上海交通大学公共卫生学院.md                             |
+| Size            | 4376 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

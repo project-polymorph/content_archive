@@ -1,5 +1,8 @@
 # 免術換證不是亂換性別 | 台灣性別不明關懷協會新聞稿
 
+## 正文 { data-search-exclude }
+
+
 ![新聞稿圖片](https://www.civilmedia.tw/wp-content/uploads/2023/09/0922.png)
 
 文／台灣性別不明關懷協會
@@ -40,3 +43,29 @@
 
 **標籤:** [免術換證](https://www.civilmedia.tw/archives/tag/%e5%85%8d%e8%a1%93%e6%8f%9b%e8%ad%89), [台灣性別不明關懷協會](https://www.civilmedia.tw/archives/tag/%e5%8f%b0%e7%81%a3%e6%80%a7%e5%88%a5%e4%b8%8d%e6%98%8e%e9%97%9c%e6%87%b7%e5%8d%94%e6%9c%83)
 <!-- tcd_original_link https://www.civilmedia.tw/archives/121253 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【新聞稿】台聯請你跟上時代！免術換證不是亂換性別.md                             |
+| Size            | 5038 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

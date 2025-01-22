@@ -1,6 +1,9 @@
 # 英国男警官接受变性手术变身“性感警花”
 
-## 来源：中国网 china.com.cn  
+## 正文 { data-search-exclude }
+
+
+## 来源：中国网 china.com.cn   { data-search-exclude }
 ### 时间：2010-08-04
 
 ![男警官亚当•史密斯](http://images.china.cn/attachement/jpg/site1000/20100804/001143f1e22d0dc30c6503.jpg)
@@ -20,3 +23,29 @@
 京ICP证 040089号  
 网络传播视听节目许可证号:0105123
 <!-- tcd_original_link http://www.china.com.cn/v/news/2010-08/04/content_20636555.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_英国男警官接受变性手术变身“性感警花”_-_中国网.md                             |
+| Size            | 1534 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

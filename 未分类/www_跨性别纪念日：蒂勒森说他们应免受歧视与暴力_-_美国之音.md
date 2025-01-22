@@ -1,5 +1,8 @@
 # 跨性别纪念日：蒂勒森说他们应免受歧视与暴力
 
+## 正文 { data-search-exclude }
+
+
 ![美国国务卿蒂勒森（资料照）](https://gdb.voanews.com/671a7fa9-7555-43b9-8a35-4721f4ae6bd4_cx0_cy5_cw0_w1023_r1_s.jpg)
 
 2017年11月22日 08:29  
@@ -30,8 +33,34 @@
 
 美国全国跨性别平权中心2015年汇集了两万八千多份问卷，调查美国跨性别人口在生活以及工作等场域的经历。这项调查发现，由于对跨性别的污名与歧视，接受民调的跨性别者中有39%在填写问卷前一个月承受严重的心理压力，有40%的民调回应者在有生之年曾经试图自杀，比例上是一般美国人口的九倍。
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 -   ![跨性别纪念日：蒂勒森说他们应免受歧视与暴力](https://gdb.voanews.com/38CEF907-F6F1-40A7-AC67-CDE6A3271344_w100_r1.png)
 -   ![跨性别纪念日：蒂勒森说他们应免受歧视与暴力](https://gdb.voanews.com/38CEF907-F6F1-40A7-AC67-CDE6A3271344_w144_r1.png)
 <!-- tcd_original_link https://www.voachinese.com/a/transgender-day-20171121/4129499.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别纪念日：蒂勒森说他们应免受歧视与暴力_-_美国之音.md                             |
+| Size            | 4155 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

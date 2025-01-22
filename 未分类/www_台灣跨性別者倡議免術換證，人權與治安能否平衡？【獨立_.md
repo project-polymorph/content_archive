@@ -1,12 +1,15 @@
 # 台灣跨性別者倡議免術換證，人權與治安能否平衡？
 
+## 正文 { data-search-exclude }
+
+
 **發佈日期：** 2022-03-29  
 **文章分類：** 文章分享  
 **來源：** 公視新聞網 / 獨立特派員  
 
 現行法令規定，跨性別者必須經過性別重置手術，才符合更換身分證性別的資格。有幾個歐美國家，已經通過跨性別者免術換證。但台灣政府和民眾卻會擔心，若跨性別女性沒有摘除性器官，自由進出女性專屬空間，可能造成性犯罪。這樣的擔憂是否合理？性別重置手術是唯一解方嗎？
 
-## 性別重置手術風險大，免術換證可行嗎？
+## 性別重置手術風險大，免術換證可行嗎？ { data-search-exclude }
 
 吳伊婷出生時，被醫生指定為男性，也就是生理男性，但從小被當男生教養的他，卻總覺得自己的靈魂與男性身體格格不入。強烈的內心矛盾驅使著吳伊婷，不斷地自我探索，直到他終於確定，住在自己男生身體裡的，根本是個女生。此後，吳伊婷選擇忠於自我，不但改穿女裝，還改了名字，以女生的姿態過日子。2015年，他更依照規範，決定做性別重置手術，以更換身分證上的性別。
 
@@ -22,7 +25,7 @@
 
 ![WHO國際疾病分類第11次修訂本指出，跨性別是人類多元性別的現象。](https://news-data.pts.org.tw/media/56676/photo.jpg)
 
-## 人權與治安如何平衡？社會溝通與配套需雙管齊下
+## 人權與治安如何平衡？社會溝通與配套需雙管齊下 { data-search-exclude }
 
 政府和部分民眾擔憂，若生理男性的跨性別者，沒有動手術切除陰莖就更改身分證性別、自由出入女性使用空間，則可能發生性侵等犯罪事件。
 
@@ -36,7 +39,7 @@
 
 ![從性別友善的角度去思考公共空間的規劃。](https://news-data.pts.org.tw/media/56677/photo.jpg)
 
-## 跨性別不是病，認同與手術仍然只能二選一？
+## 跨性別不是病，認同與手術仍然只能二選一？ { data-search-exclude }
 
 根據世界衛生組織，國際疾病分類第11次修訂本指出(ICD11)，出生指定的性別，跟自我認同的性別不一致，是人類多元性別的現象。
 
@@ -47,3 +50,29 @@
 **全文請見：公視新聞網/獨立特派員**  
 **相關連結：** [台灣跨性別者倡議免術換證，人權與治安能否平衡？【獨立特派員】](https://news.pts.org.tw/article/573676 "台灣跨性別者倡議免術換證，人權與治安能否平衡？【獨立特派員】")
 <!-- tcd_original_link https://www.womengroups.org.tw/OnePage.aspx?tid=1&id=589 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_台灣跨性別者倡議免術換證，人權與治安能否平衡？【獨立_.md                             |
+| Size            | 4928 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

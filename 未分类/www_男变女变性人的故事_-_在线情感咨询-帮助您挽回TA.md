@@ -1,5 +1,8 @@
 # 男变女变性人的故事
 
+## 正文 { data-search-exclude }
+
+
 ![男变女变性人的故事](https://cdn.520qg.com/img/58589.jpg?x-oss-process=style/img)
 
 我叫李凯丽(化名)，我想我这辈子遇见过的最奇葩的人，就是我自己。
@@ -161,3 +164,29 @@
 **编辑**: MurieL0304  
 **版权**: 只供个人学习交流使用，转载请注明出处。
 <!-- tcd_original_link https://www.520qg.com/info-7-51682-0.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男变女变性人的故事_-_在线情感咨询-帮助您挽回TA.md                             |
+| Size            | 6213 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

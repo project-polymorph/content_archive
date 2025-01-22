@@ -1,5 +1,8 @@
 # 揭开面纱：好莱坞的跨性别人生 短评
 
+## 正文 { data-search-exclude }
+
+
 ![揭开面纱：好莱坞的跨性别人生 Disclosure: Trans Lives on Screen](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2592980482.webp)
 
 - 观看人数: 398
@@ -23,7 +26,7 @@
 
 [预告片](https://movie.douban.com/trailer/263112/#content)
 
-## 评论
+## 评论 { data-search-exclude }
 
 ### 松下野果🌈
 > 一句过于“政治正确”的长枪，就可以堵住我们的嘴吗？我们需要的恰恰是站出来挡子弹的勇气。今天我们也许全军覆没，但在十年后，一百年后，总有一天就可以光明正大站在阳光下，自！由！呼！吸！#LGBTQ  
@@ -120,3 +123,29 @@
 > 时间: 2020-06-22 22:20:28  
 > 看过: 1
 <!-- tcd_original_link https://m.douban.com/movie/subject/34907415/comments -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这是一篇关于纪录片《揭开面纱：好莱坞的跨性别人生》的短评汇总。该纪录片通过多名跨性别人士的亲身经历，深入探讨了好莱坞电影和电视剧中对跨性别者的表现以及这种表现如何影响公众对跨性别群体的认知。评论中提到了多种观众的感受与反思，许多观众认为纪录片展现了跨性别者真实的生活故事，反映了他们在社会中面临的压力与挑战。此外，评论也指出了好莱坞在准确描绘跨性别角色方面的不足，以及社会对跨性别人士广泛存在的误解和偏见。短评中，多名评论者分享了自己的观点，强调了增进对跨性别群体理解的重要性，并指出了跨性别者在争取权益过程中所扮演的重要角色。整体来说，这一系列短评展现了观众对纪录片内容的共鸣与反思，反映了对跨性别话题的高度关注与讨论。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_全部短评-_短评揭开面纱：好莱坞的跨性别人生_-_豆瓣.md                             |
+| Size            | 9421 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 豆瓣网友                               |
+| Region          | 美国                               |
+| Date            | 2020-01-27                                 |
+| Tags            | 跨性别, 纪录片, 好莱坞, 性别多元, 社会认知, 电影评论, 生存现状, 文化反思, LGBTQ, 社会权益                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

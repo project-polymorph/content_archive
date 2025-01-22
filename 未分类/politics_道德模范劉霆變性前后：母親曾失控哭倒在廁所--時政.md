@@ -1,5 +1,8 @@
 # 道德模范劉霆變性前后：母親曾失控哭倒在廁所
 
+## 正文 { data-search-exclude }
+
+
 2015年04月13日09:07 来源：[新京報](http://gb.cri.cn/42071/2015/04/13/7591s4930074.htm)
 
 原標題：道德模范劉霆變性前后：母親曾失控哭倒在廁所
@@ -120,3 +123,29 @@
 
 人 民 網 版 權 所 有 ，未 經 書 面 授 權 禁 止 使 用 Copyright © 1997-2021 by www.people.com.cn. all rights reserved
 <!-- tcd_original_link http://politics.people.com.cn/BIG5/n/2015/0413/c70731-26834934.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | politics_道德模范劉霆變性前后：母親曾失控哭倒在廁所--時政.md                             |
+| Size            | 6105 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

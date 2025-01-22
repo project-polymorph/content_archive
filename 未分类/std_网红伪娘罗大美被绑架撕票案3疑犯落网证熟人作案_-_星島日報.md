@@ -1,12 +1,15 @@
 # 网红伪娘罗大美被绑架撕票案 3疑犯落网证熟人作案
 
+## 正文 { data-search-exclude }
+
+
 ![百万网红伪娘罗大美被绑架撕票案，3名疑犯落网。](https://image.stheadline.com/f/680p0/0x0/100/none/72cbfe82f11b8a5d8f1c9f33d6553a47/stheadline/inewsmedia/20231021/_2023102116090485779.jpg)
 
 河南百万网红伪娘罗大美被绑架勒索200万（人民币，下同），事后被人撕票藏尸地窖，轰动内地。目前，该案3名疑犯已落网。
 
 罗大美家属表示：「遗体还没有接回来，希望警方能尽快结案，严惩三个凶手，让死者入土为安。」
 
-## 扮古装美女直播卖化妆品 拥近300万粉丝
+## 扮古装美女直播卖化妆品 拥近300万粉丝 { data-search-exclude }
 
 30多岁的罗大美单身，真名尚某某。他在短片平台上与网友互动时，自称老家在许昌禹州，是南阳一所戏剧学校2010届学生。
 
@@ -30,7 +33,7 @@
 
 该人士介绍，罗大美直播卖货赚了不少钱，2020年时花了140多万元购买了一辆帕拉梅拉豪车，开美妆工作室，资助家人、帮助朋友、热衷公益。
 
-## 为人大方借出不少钱
+## 为人大方借出不少钱 { data-search-exclude }
 
 罗大美为人大方，借出不少钱。但来借钱的人多了，罗大美也不堪其扰，将微信名改为「罗大美私人号（借钱直接拉黑）」。
 
@@ -38,7 +41,7 @@
 
 知情人士称，7月9日，罗大美发了最后一条朋友圈。他还在微信上告诉家人，有事要外出「躲躲」，没事别发信息。8月底，罗大美家人愈发感觉不对劲，遂报警。随后，警方发现罗大美的车出现在南阳市南召县境内，罗大美银行卡转出约200万元。9月初，罗大美的尸体在南召一地窖内发现。「可能微信上和家人说要出去『躲躲』时就已经遇害了，凶手拿著他的手机发的。」
 
-## 3名嫌犯与罗大美熟识
+## 3名嫌犯与罗大美熟识 { data-search-exclude }
 
 南阳官方人士介绍，罗大美遇害案有3名嫌疑人，均已落网。3名嫌犯与罗大美熟识，将其骗至南召县实施绑架勒索，随后杀害并藏尸地窖，网传被害人遭分尸是不实信息。
 
@@ -54,3 +57,29 @@
 
 Copyright 2025 Sing Tao Ltd. All rights reserved.
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/1959006/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E7%B6%B2%E7%B4%85%E5%81%BD%E5%A8%98%E7%BE%85%E5%A4%A7%E7%BE%8E%E8%A2%AB%E7%B6%81%E6%9E%B6%E6%92%95%E7%A5%A8%E6%A1%88-3%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2%E8%AD%89%E7%86%9F%E4%BA%BA%E4%BD%9C%E6%A1%88 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_网红伪娘罗大美被绑架撕票案3疑犯落网证熟人作案_-_星島日報.md                             |
+| Size            | 5567 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

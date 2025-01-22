@@ -1,5 +1,8 @@
 # 盼同婚合法化 新加坡「粉红点」活动吸引数千人共襄盛举
 
+## 正文 { data-search-exclude }
+
+
 （法新社新加坡25日电） 声援同性恋、双性恋和跨性别恋爱自由的新加坡「粉红点」活动在芳林公园登场，许多人穿着粉色上衣，也有人披上彩虹旗，三五成群坐在草地上野餐，欣赏台上歌唱、舞蹈表演。
 
 发表时间： 25/06/2023 - 06:02  
@@ -17,3 +20,29 @@
 
 © 2023 AFP
 <!-- tcd_original_link https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20230625-%E7%9B%BC%E5%90%8C%E5%A9%9A%E5%90%88%E6%B3%95%E5%8C%96-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%B2%89%E7%BA%A2%E7%82%B9-%E6%B4%BB%E5%8A%A8%E5%90%B8%E5%BC%95%E6%95%B0%E5%8D%83%E4%BA%BA%E5%85%B1%E8%A5%84%E7%9B%9B%E4%B8%BE -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_盼同婚合法化新加坡「粉红点」活动吸引数千人共襄盛举_-_RFI.md                             |
+| Size            | 1774 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

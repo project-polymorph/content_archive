@@ -1,5 +1,8 @@
 # 妻子亲自送丈夫去做变性手术，这是爱吗？
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u59926004-2.jpg)
 
 **推荐电影**
@@ -154,3 +157,29 @@
 
 ![丹麦女孩](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2264778990.webp)
 <!-- tcd_original_link https://m.douban.com/movie/review/10058893/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了电影《丹麦女孩》，叙述男主角艾纳的变性经历以及妻子格尔达对他无条件的支持与爱的表现。影片讲述了一个关于身份认同与爱情的复杂故事，展现了艾纳为追求真实自我而经历的心理挣扎与转变。艾纳在妻子的陪伴下做出了变性手术的艰难决定，尽管意识到这可能会带来生命危险。文中深入探讨了艾纳与格尔达的深厚情感，他们在社会压力与误解中的坚持与承受，以及在爱与身份认同中所面临的挑战。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_妻子亲自送丈夫去做变性手术，这是爱吗？_-_丹麦女孩-_豆瓣.md                             |
+| Size            | 9320 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 变性人, 身份认同, 爱情故事, 电影分析, 社会压力, 心理挣扎, 艾纳与格尔达, 丹麦女孩, 性别认知                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

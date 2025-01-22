@@ -1,5 +1,8 @@
 # 易性癖，上帝的笔误
 
+## 正文 { data-search-exclude }
+
+
 ![首页](/style/disease/image/home.png)
 
 **时间：** 2007-12-27 14:11:55  
@@ -7,7 +10,7 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 他是一个男人，却有一个女人的名字：阿婷。他一生最大的梦想，就是做一个女人，一个真正的女人。于是，不得不流浪于夜总会做“歌女”，在其中尝一尝做女人的滋味。
 
@@ -62,3 +65,29 @@
 
 本网站敬告网民：网站资讯仅供参考，身体若有不适，请及时到院就医。
 <!-- tcd_original_link https://m.51daifu.com/disease/wzxq-50973.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_易性癖，上帝的笔误-疾病大全_-_医生在线.md                             |
+| Size            | 4890 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

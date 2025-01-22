@@ -1,5 +1,8 @@
 # 德國「性別自決」法案生效　可每年更改性別一次
 
+## 正文 { data-search-exclude }
+
+
 發布於 2024年11月03日09:54 • 機
 
 ![德國「性別自決」法案生效，可每年更改性別一次。](https://today-obs.line-scdn.net/0hN_H-buCOEXB1VAAwMHVuJ00CHQFGMgt5VzdcRlZcGhRceFUnGzJCE1hWSlxQZFAgVTZcQVRURhdZYwUmTg/w644)
@@ -20,10 +23,10 @@
 
 ![根據調查，47% 德國人支持新法案，37%表示反對。](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-## 標籤
+## 標籤 { data-search-exclude }
 [#性別](https://today.line.me/hk/v2/tag/98RWjr?tag=%E6%80%A7%E5%88%A5) [#德國](https://today.line.me/hk/v2/tag/b9g7J4?tag=%E5%BE%B7%E5%9C%8B) [#德國人](https://today.line.me/hk/v2/tag/5yrX4Z?tag=%E5%BE%B7%E5%9C%8B%E4%BA%BA) [#新法案](https://today.line.me/hk/v2/tag/aOvdX8?tag=%E6%96%B0%E6%B3%95%E6%A1%88) [#生效](https://today.line.me/hk/v2/tag/A2GnqP?tag=%E7%94%9F%E6%95%88) [#新聞](https://today.line.me/hk/v2/tag/JwJzdW?tag=%E6%96%B0%E8%81%9E)
 
-## 留言
+## 留言 { data-search-exclude }
 - Lam Chan 
     
     BEST
@@ -60,3 +63,29 @@
     
     2024年11月03日10:48 
 <!-- tcd_original_link https://today.line.me/hk/v2/article/nX2QqjJ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | today_德國「性別自決」法案生效可每年更改性別一次國際on_LINE.md                             |
+| Size            | 4061 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

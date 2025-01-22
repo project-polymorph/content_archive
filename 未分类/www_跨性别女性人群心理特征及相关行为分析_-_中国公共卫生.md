@@ -1,5 +1,8 @@
 # 跨性别女性人群心理特征及相关行为分析
 
+## 正文 { data-search-exclude }
+
+
 **作者**: 吕翠霞, 张晓菲, 傅继华  
 **来源**: 中国公共卫生  
 **时间**: 2018年11月30日  
@@ -9,7 +12,7 @@
 
 ![Logo](/style/images/custom/logo.png)
 
-## 摘要
+## 摘要 { data-search-exclude }
 
 **目的** 了解跨性别女性人群的心理特征及相关行为。
 
@@ -23,7 +26,7 @@
 
 ![图示](/style/images/public/shu.png)
 
-## 1. 对象与方法
+## 1. 对象与方法 { data-search-exclude }
 
 ### 1.1 对象
 
@@ -37,7 +40,7 @@
 
 采用Excel2007录入，用SPSS19.0软件对资料进行统计学描述、_χ_2检验，_P_ < 0.05表示差异有统计学意义。
 
-## 2. 结果
+## 2. 结果 { data-search-exclude }
 
 ### 2.1 人口学特征
 
@@ -105,7 +108,7 @@
 | 是否进行过HIV检测 | 是 | 61 | 74.4 | 49 | 62.8 | 2.491 | 0.115 |
 | | 否 | 21 | 25.6 | 29 | 37.2 |  |
 
-## 3. 讨论
+## 3. 讨论 { data-search-exclude }
 
 跨性别女性人群的定义是生理性别为男性，而心理性别认为不是男性的人群。本次调查中发现跨性别女性人群80.0 %以上未婚，高中以上文化程度居多，70.0 %以上有兄弟姐妹即非独生子女较多，但成年以前的生活环境中男性较少，女性较多，父母关系一般或较差。这与前期预调查结果基本一致。调查对象中性取向选择男性较多，有16.3 %的人做过变性手术，有64.3 %的人有过无保护性接受性肛交性行为，有38.1 %的人从事商业性行为。而多项研究认为多性伴、无保护肛交性行为、商业性行为等都是感染艾滋病的危险因素，说明跨性别女性人群中存在感染艾滋病的风险。  
 
@@ -115,7 +118,7 @@
 
 综上所述，跨性别女性人群在性别认同、性别表现及相关行为方面有其特异性，该人群存在感染艾滋病的风险。完全女性心理性别者与性别模糊者，两者性别表现及相关行为等方面存在诸多不同，完全女性心理性别者心理特征及相关行为更有感染艾滋病的风险，建议对该人群开展针对性的宣传教育、心理干预，促进该人群进行检测。
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 1. Johnson CA. Off the map: how HIV/AIDS programming is failing same-sex practicing people in Africa. New York: International Gay and Lesbian Human Rights Commission, 2007.  
 2. Reisner SL, Biello K, Rosenberger JG, et al. Using a two-step method to measure transgender identity in Latin America/the Caribbean, Portugal, and Spain. Arch Sex Behav, 2014, 43(8): 1503 – 1514. DOI: [10.1007/s10508-014-0314-2](https://dx.doi.org/10.1007/s10508-014-0314-2)  
@@ -135,3 +138,29 @@
 **电话**: 024-83380011, 23388443   
 **Email**: [office@zgggws.com](mailto:office@zgggws.com)
 <!-- tcd_original_link https://www.zgggws.com/article/doi/10.11847/zgggws1118684 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别女性人群心理特征及相关行为分析_-_中国公共卫生.md                             |
+| Size            | 13723 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

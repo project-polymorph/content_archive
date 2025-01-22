@@ -1,5 +1,8 @@
 # Rinrada “Yoshi” Thurapan
 
+## 正文 { data-search-exclude }
+
+
 ![Yoshi](https://www.kamolhospital.com/uploads/blog/787/data/649980ca1733e.jpg)
 
 **舞台中心的新焦点**
@@ -27,3 +30,29 @@
 - [最好的外科医生我遇到过。](https://www.kamolhospital.com/blog/736/best-surgeon-i-encountered)
 - [在咖蒙医院进行女性化面部手术是一次美妙的经历。](https://www.kamolhospital.com/blog/758/maravillosa-experiencia-de-la-feminizacion-facial-en-el-kamol-hospital)
 <!-- tcd_original_link https://www.kamolhospital.com/zh/blog/787/a-beauty-youtuber -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Rinrada_“Yoshi”_Thurapan__Cosmetic_Plastic_Surgery.md                             |
+| Size            | 3035 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

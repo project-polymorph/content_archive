@@ -1,6 +1,9 @@
 # 什麼是CD.TS.TG....等
 
-## 文章来源
+## 正文 { data-search-exclude }
+
+
+## 文章来源 { data-search-exclude }
 **作者**: 衣衣  
 **发表时间**: 2008-06-01 05:50:40  
 **人氣**: 51,739 | **回應數**: 6
@@ -40,3 +43,29 @@ TG：(TransGender) Gender是指心理上的性別認同，因此只要在心理�
 ### 版权声明
 网络家庭版權所有、轉載必究 Copyright© PChome Online
 <!-- tcd_original_link https://mypaper.pchome.com.tw/love222962/post/1307580844 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | mypaper_什麼是CD.TS.TG....等_-_個人新聞台.md                             |
+| Size            | 2572 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

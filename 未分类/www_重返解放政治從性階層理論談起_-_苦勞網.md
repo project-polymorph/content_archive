@@ -1,5 +1,8 @@
 # 重返解放政治 從性階層理論談起
 
+## 正文 { data-search-exclude }
+
+
 **來源:** 苦勞網  
 **日期:** 2016/05/05  
 **作者:** [徐沛然](https://author/%E5%BE%90%E6%B2%9B%E7%84%B6)  
@@ -146,7 +149,7 @@
 
 特約撰述: 
 
-## 相關文章
+## 相關文章 { data-search-exclude }
 
 -   [冰角新聞 EP48｜烏干達通過全球最嚴反同志罪 最重可判死！](/node/97661)
 -   [【南方一週】日本情趣旅館歧視同志 性少數處境艱難](/node/94924)
@@ -156,7 +159,7 @@
 -   [【南方一週】全球Google員工罷工抗議性騷擾 墨西哥原住民反對土地改革法案](/node/91883)
 -   [【當LGBT成為政治工具】下篇 誰的聯合國人權辦公室？](/node/87435)
 
-## 臉書討論
+## 臉書討論 { data-search-exclude }
 
 ### 留言
 
@@ -174,7 +177,33 @@
 
 **圖片來源:** ![](https://www.coolloud.org.tw/sites/default/files/styles/author_img/public/images/field_author_photo/author_term/%E5%BE%90%E6%B2%9B%E7%84%B6.jpg?itok=mbL9uoya)
 
-## 徐沛然
+## 徐沛然 { data-search-exclude }
 
 苦勞網特約編輯。大學時期參與學運社團，就此開啟自己對社會議題的熱情。近期關注新自由主義議程、貧窮與發展問題，以及跨國社會運動。
 <!-- tcd_original_link https://www.coolloud.org.tw/node/85267 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_重返解放政治從性階層理論談起_-_苦勞網.md                             |
+| Size            | 30900 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

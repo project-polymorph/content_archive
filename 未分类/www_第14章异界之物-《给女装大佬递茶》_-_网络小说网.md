@@ -1,6 +1,9 @@
 # 第14章 异界之物 - 《给女装大佬递茶》
 
-## 正文
+## 正文 { data-search-exclude }
+
+
+## 正文 { data-search-exclude }
 
 下午两点，外面的太阳依旧很大。  
 燥热而黝黑的柏油马路上，行人几乎绝迹，连车辆都很少经过。  
@@ -35,7 +38,33 @@
 这可是，一个大问题！  
 呆毛消失，导致现在这鹅一点特殊能力都没有，完全正剩下了普普通通的肉体，但是，对于这异界生物肉体的研究，像这种普通类别的家禽，龙组已经完全掌握，所以，这鹅的价值，在龙组这里，基本为零。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 本站所有收录的内容均来自互联网，如有侵权我们将尽快删除。
 <!-- tcd_original_link http://www.wlsz.net/13/13680/308312.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_第14章异界之物-《给女装大佬递茶》_-_网络小说网.md                             |
+| Size            | 3611 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 如果有女装大佬去女厕上厕所，你会害怕吗？（新进展，此人不是药娘 不是跨性别者，是异装癖gay）
 
+## 正文 { data-search-exclude }
+
+
 ![嘻嘻哈哈没烦恼](https://img1.doubanio.com/icon/up218331603-10.jpg)
 
 ### 来自: [嘻嘻哈哈没烦恼](https://www.douban.com/people/218331603/)
@@ -99,7 +102,33 @@
 
 ![相关图片](https://img9.doubanio.com/view/group_topic/l/public/p350527645.webp)
 
-## 你的回应
+## 你的回应 { data-search-exclude }
 
 回应请先[登录](https://www.douban.com/accounts/login?reason=discuss)或[注册](/accounts/register?reason=discuss)
 <!-- tcd_original_link https://m.douban.com/group/topic/196951516/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了女装大佬进入女厕的问题，涉及社会对跨性别者和异装癖者的看法和反应。文章的核心问题是公众对这些人群的恐惧和担忧，特别是对于未进行手术的男性在女性卫生间的使用。作者表达了对一个自称女性但未做手术的男性进入女性卫生间的强烈反感，认为这种行为不应被接受，并且提及了这样的行为对女性心理的伤害。文中引用了参与者对这一问题的投票，显示出社会对此问题的两极反应。一些人认为这是对女性权益的侵犯，并提出了不满。文章中的插图和评论反映了更广泛的对跨性别和流动性别身份的社会态度，揭示了性别认同与社会接受度之间的冲突。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_如果有女装大佬去女厕上厕所，你会害怕吗？（新进展，此人不是药_.md                             |
+| Size            | 4169 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 嘻嘻哈哈没烦恼                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-10-12                                 |
+| Tags            | 女装大佬, 女厕使用, 跨性别者, 异装癖, 性别认同, 社会接受度, 心理影响, 公共卫生间, 女性权益, 社会讨论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

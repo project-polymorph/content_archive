@@ -1,5 +1,8 @@
 # 魁拔之书 第244页 筆記
 
+## 正文 { data-search-exclude }
+
+
 ###### 作者: [伊谢尔伦的风](https://www.douban.com/people/iserlohnwind/)  
 ###### 时间: 2012-06-18 19:37:12  
 ###### 标签: 魁拔  
@@ -54,7 +57,7 @@
 
 ---
 
-## 伊谢尔伦的风对本书的所有笔记  
+## 伊谢尔伦的风对本书的所有笔记   { data-search-exclude }
 -   ###### [第44页 第三章](https://book.douban.com/annotation/17466262/)  
     仑泉、玄骨、朝迎风，昆海、幻血、暮还松，临缺、承暗、身破虚，比圆、启明、心断空，是为众...
 
@@ -70,3 +73,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) | [在豆瓣工作](https://www.douban.com/jobs) | [联系我们](https://www.douban.com/about?topic=contactus) | [法律声明](https://www.douban.com/about/legal) | [帮助中心](https://help.douban.com/?app=book) | [图书馆合作](https://book.douban.com/library_invitation)
 <!-- tcd_original_link https://book.douban.com/annotation/19057954/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是关于《魁拔之书》的个人读书笔记，记录了对书中世界观及其设定的思考。作者伊谢尔伦的风探讨了在魁拔世界中涉及的同性恋、跨种族婚姻的道德观念，以及这些观念如何与现实世界的文化和社会结构相互影响。文本提到，虽然魁拔的设定是完全架空的，但其中关于道德观念的讨论反映了作者对于该话题的敏感思考。例如，作者描述了在魁拔世界中，可能有一些种族对同性恋和跨种族婚姻持相似看法，但具体的社会设定和角色反应却并未明确。这种模糊的设定使得讨论变得复杂和困难。文章的底部提及了其他读者的评论，表达了对于书中设定的理解与思考。这一段文字深刻揭示了在艺术创作中面临的道德困境，尤其是在多元性别主题的描绘上。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | book_9_-_读书笔记-_魁拔之书-_豆瓣.md                             |
+| Size            | 6503 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 伊谢尔伦的风                               |
+| Region          | 未知                               |
+| Date            | 2012-06-18                                 |
+| Tags            | 魁拔, BL同人, GL同人, 性别观念, 跨种族婚姻, 社会道德, 读书笔记, 作者思考, 多元性别, 文化探讨                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

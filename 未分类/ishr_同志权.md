@@ -1,5 +1,8 @@
 # LGBTIQ 人权和国际人权服务社的贡献
 
+## 正文 { data-search-exclude }
+
+
 不幸的是，许多女同性恋、男同性恋、双性恋、跨性别者、双性人和酷儿 (LGBTIQ) 人群因为他们实际或感知的性取向和性别认同而面临歧视甚至暴力。这就是为什么 LGBTIQ 人群和他们在世界各地的盟友正在组织和倡导从医疗保健、教育到结社和集会自由权等各方面的平等权利。
 
 平等是人权的基本原则。联合国《世界人权宣言》的第一条提到每个人“在我们的权利和尊严上都是自由和平等的”。
@@ -16,7 +19,7 @@ LGBTQ 运动旨在促进和保护 LGBTQ 权利以及 LGBTQ 平等。作为一个
 
 您可能已经看到 LGBTIQ 或 LGBTQ 运动所使用的首字母缩略词略有不同。使用的首字母缩略词取决于所指的特定社群。在联合国，您会听到性取向、性别认同和表达 (SOGI) 或性取向、性别认同和表达和性特征 (SOGIESC) 词这些——这些术语指的是与 LGBTQ 和 LGBTIQ 社群相关的问题。并非 LGBTIQ 社群内的所有社群都遭受相同的侵犯，例如，双性人社群遭受特定且明显的侵犯。
 
-## 国际人权服务社（ISHR）和 LBGTIQ 权利
+## 国际人权服务社（ISHR）和 LBGTIQ 权利 { data-search-exclude }
 
 基于我们在制定《日惹原则》和《日惹原则十周年》方面的领导作用，并带头促进设置一位致力于这些问题的联合国专家以及此专家人选的更新换代，国际人权服务社与 LGBTIQ 权利捍卫者和相关运动合作，加强国际、区域和国家层面反对暴力歧视的保护。您可以在此处阅读有关我们工作的更多信息。
 
@@ -26,3 +29,29 @@ LGBTQ 运动旨在促进和保护 LGBTQ 权利以及 LGBTQ 平等。作为一个
 *作者: 国际人权服务社*  
 *编辑: ISHR团队*  
 <!-- tcd_original_link https://ishr.ch/zh-hans/%E5%85%B3%E4%BA%8E%E4%BA%BA%E6%9D%83/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E6%9D%83/%E5%90%8C%E5%BF%97%E6%9D%83/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ishr_同志权.md                             |
+| Size            | 3117 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

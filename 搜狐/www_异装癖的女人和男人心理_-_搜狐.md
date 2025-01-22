@@ -1,5 +1,8 @@
 # 异装癖的女人和男人心理
 
+## 正文 { data-search-exclude }
+
+
 2017-05-08 17:51 来源: [郭利方心理咨询](https://www.sohu.com/a/139087322_104333?spm=smpc.content-abroad.content.1.1737453197764XzDfvHK)
 
 异装癖指人通过穿着异性的衣服而获得性兴奋。它跟同性恋和恋物癖都有所不同。首先，异装癖的人不是同性恋，他的性取向指向异性;其次，恋物癖是人去刻意地占有异性的衣物而引发性冲动……
@@ -24,3 +27,29 @@ vivian前次恋情的失败让她开始压抑自己的感情，只能通过着�
 
 平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。
 <!-- tcd_original_link https://www.sohu.com/a/139087322_104333 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_异装癖的女人和男人心理_-_搜狐.md                             |
+| Size            | 4085 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

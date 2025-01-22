@@ -1,5 +1,8 @@
 # 男性假两性畸形合并附睾炎1例
 
+## 正文 { data-search-exclude }
+
+
 **DOI:** [10.12677/ACM.2023.13112497](https://doi.org/10.12677/ACM.2023.13112497), [PDF](//pdf.hanspub.org/acm20231100000_28941278.pdf), [HTML](//www.hanspub.org/journal/paperinformation?paperid=75482), [XML](//image.hanspub.org/xml/75482.xml),  [被引量](citations?paperid=75482&journalid=597) 下载:63  浏览:191   
 
 **作者:** [唐园源](articles?searchcode=%e5%94%90%e5%9b%ad%e6%ba%90&searchfield=authors&page=1)：成都中医药大学临床医学院，四川 成都；[陈泽君\*](articles?searchcode=%e9%99%88%e6%b3%bd%e5%90%9b&searchfield=authors&page=1)：成都市第一人民医院肾内科，四川 成都   
@@ -12,7 +15,7 @@
 
 **文章引用：**唐园源, 陈泽君. 男性假两性畸形合并附睾炎1例\[J\]. 临床医学进展, 2023, 13(11): 17810-17814. [https://doi.org/10.12677/ACM.2023.13112497](https://doi.org/10.12677/ACM.2023.13112497)
 
-## 1. 病例资料
+## 1. 病例资料 { data-search-exclude }
 
 患者，20岁，女(社会性别)，未婚，未育。反复双侧腹股沟疼痛2年余。婴幼儿时期发现外生殖器发育不全，因经济原因未诊治，生长过程未有特殊不适，14岁月经未至，于华西医院就诊查染色体提示染色体核型分析为：46, XY，建议手术治疗，患者拒绝，未服用任何药物。2年前无明显诱因反复出现双侧腹股沟疼痛，疼痛一侧腹股沟肿胀，无皮色加深，无皮温升高，无皮肤破溃，无尿频尿急尿痛，自行予口服“头孢”等抗生素治疗后疼痛缓解。否认高血压等基础病史。未月经来潮。父体健，母亲胆囊癌去世，非近亲结婚，有一姐姐，正常。体查：血压：97/69 mmHg，体重：46 Kg，身高：164 cm。女性面容，无喉结，余第二性征(音质、胡须、体毛分布)趋于女性，乳房男性化，乳晕明显。外生殖器发育异常，未见阴毛，未见确切男性外生殖器，见阴阜，无阴道口，尿道外口上方见类阴茎头端浅表突出，无异常分泌物，双侧腹股沟可触及条索状包块，边界清楚。实验室检查：染色体核型分析：46, XY，性激素指标([表1](#t1))。
 
@@ -58,7 +61,7 @@ Figure 2. Urinary tract CT non-contrast scan (urinary thin layer scan, scanning 
 
 [图2](#f2). 泌尿系CT平扫(泌尿系薄层扫描，扫描层厚1 mm)
 
-## 2. 讨论
+## 2. 讨论 { data-search-exclude }
 
 男性假两性畸形是指核型为46, XY，性腺为睾丸，有相对正常或发育不全的男性内生殖器官，外生殖器及第二性征发育出现不同程度女性化。主要表现为核型染色体、生殖器、性腺不相符，以女性显性为主，无阴道开口，原发性闭经，乳房发育不全，但存在睾丸组织。是由于黄体生成素(LH)/绒毛膜促性腺激素受体基因(LH-CGR)突变损害LH/CG结合或信号转导引起的疾病。
 
@@ -92,3 +95,29 @@ Figure 2. Urinary tract CT non-contrast scan (urinary thin layer scan, scanning 
 
 \[9\] 迟铖, 母义明. 雄激素不敏感综合征\[J\]. 中国实用内科杂志, 2006(20): 1574-1577.
 <!-- tcd_original_link https://www.hanspub.org/journal/paperinformation?paperid=75482 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男性假两性畸形合并附睾炎1例_-_汉斯出版社.md                             |
+| Size            | 12426 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

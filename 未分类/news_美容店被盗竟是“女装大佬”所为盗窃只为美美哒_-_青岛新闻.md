@@ -1,5 +1,8 @@
 # 美容店被盗 竟是“女装大佬”所为 盗窃只为美美哒
 
+## 正文 { data-search-exclude }
+
+
 来源：青岛新闻网  
 时间：2019-03-29 06:37
 
@@ -59,3 +62,29 @@
 
 好好反省反省吧！
 <!-- tcd_original_link https://news.qingdaonews.com/wap/2019-03/29/content_20307573.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_美容店被盗竟是“女装大佬”所为盗窃只为美美哒_-_青岛新闻.md                             |
+| Size            | 2885 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

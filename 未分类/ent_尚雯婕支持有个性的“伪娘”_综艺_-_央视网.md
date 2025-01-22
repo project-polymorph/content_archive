@@ -1,5 +1,8 @@
 # 尚雯婕支持有个性的“伪娘”
 
+## 正文 { data-search-exclude }
+
+
 来源: _央视网_  
 时间: 2010年05月23日 09:22  
 
@@ -28,3 +31,29 @@ _更新时间：_2010年05月23日
 [京公网安备 11000002000018号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000018)  
 京网文\[2014\]0383-083号 网上传播视听节目许可证号 0102002 新出网证（京）字098号
 <!-- tcd_original_link https://ent.cctv.com/2010/05/23/VIDE1355615758848134.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ent_尚雯婕支持有个性的“伪娘”_综艺_-_央视网.md                             |
+| Size            | 1589 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

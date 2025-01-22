@@ -1,5 +1,8 @@
 # 男跨性别者一定迷恋男权文化对女性身体规训后的样子吗？（翠丝）影评
 
+## 正文 { data-search-exclude }
+
+
 ![偏执狂](https://img3.doubanio.com/icon/u77351431-3.jpg)
 
 这篇影评可能有剧透
@@ -10,7 +13,7 @@
 
 ---
 
-## 电影信息
+## 电影信息 { data-search-exclude }
 
 **影片名**: 翠丝  
 **导演**: 李骏硕  
@@ -23,7 +26,7 @@
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 - **时间**: 2019-03-25 01:41:24  
   **用户**: [已注销](https://www.douban.com/people/2354647)  
@@ -50,3 +53,29 @@
 
 豆瓣 (https://movie.douban.com)
 <!-- tcd_original_link https://m.douban.com/movie/review/10038509/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是一篇关于电影《翠丝》的影评，作者探讨了在影片中男跨性别者对于男性文化以及女性身体规训的复杂态度。影评指出，虽然主角试图鼓励他人“做自己”，但他对于中年人的理解显得不足。同时，作者指出性别认同障碍者可能出于对男权文化影响的迷恋而渴望转变，同时，描述了他们对妆容、衣饰的特别渴望。影评提供了对角色的深刻见解，分析了文化与性别认同之间的交织。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_男跨性别者一定迷恋男权文化对女性身体规训后的样子吗？_-_翠丝-_豆瓣.md                             |
+| Size            | 2166 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 偏执狂                               |
+| Region          | 中国香港                               |
+| Date            | 2019-03-25                                 |
+| Tags            | 性别, 跨性别, 影评, 文化, 男权, 电影分析, 性别认同障碍, 女性身体规训, 社会批判, 港台电影                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

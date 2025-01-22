@@ -1,5 +1,8 @@
 # 艺术还在：一场闭馆期间的展览
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2020. 2. 13 - 持续进行  
 **展厅：** 0326BY  
 **来源：** 木木美术馆  
@@ -10,7 +13,7 @@
 
 ![](https://freight.cargo.site/w/750/i/38f409a4f9c96414b3a36d7e2f098777f6a12c345712c66caec77a9c587261f0/WechatIMG527.jpeg)
 
-## 展览前言
+## 展览前言 { data-search-exclude }
 
 《艺术还在：一场闭馆期间的展览》迎来了第八周的线上推送，我们将继续分享艺术家围绕生态、自然、消亡、隔离和亲缘关系主题所展开的艺术实践。
 
@@ -24,7 +27,7 @@
 - **维多利亚·辛**
 - **张培力**
 
-## 艺术作品介绍
+## 艺术作品介绍 { data-search-exclude }
 
 ### 朱拉亚农·西里彭
 **作品：** 《鬼球》  
@@ -136,3 +139,29 @@ aaajiao (徐文恺), 阿洛拉&卡尔萨迪利亚, 安妮卡·埃里克森, 巴�
 木木美术馆人民公园馆：Citang Street, Qing Yang District, Chengdu, Sichuan  
 客服电话：+86 010-83123450转801，+86 18911984356 
 <!-- tcd_original_link https://mwoods.org/0402ZZ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | mwoods_艺术还在：一场闭馆期间的展览2020._2._13_-_持续进行展厅【0326BY】.md                             |
+| Size            | 5941 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 恋上伪娘的少女
 
+## 正文 { data-search-exclude }
+
+
 ![恋上伪娘的少女的概述图（1张）](https://bkimg.cdn.bcebos.com/pic/241f95cad1c8a786216fb8fd6c09c93d71cf50f8?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70)
 
 **中文名：** 恋上伪娘的少女  
@@ -10,7 +13,7 @@
 
 **故事简介：** 害怕男生的少女与伪娘的日常  
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - [恋上伪娘的少女](https://www.dmzj.com/info/loveshoujiao.html)．动漫之家 [引用日期2017-12-21]
 - [恋上伪娘的少女-恋上伪娘的少女漫画-恋上伪娘的少女601在线漫画-动漫之家漫画网](https://www.dmzj.com/info/loveshoujiao.html)．动漫之家 [引用日期2021-04-19]
@@ -25,7 +28,7 @@
 
 - 刃式key  
 
-## 评论
+## 评论 { data-search-exclude }
 
 0 有用 +1  
 0  
@@ -47,3 +50,29 @@
 ![年轻女声](https://baikebcs.bdimg.com/front-end/tts/voices/young_girl.png)  
 ![情感男声](https://baikebcs.bdimg.com/front-end/tts/voices/young_boy.png)  
 <!-- tcd_original_link https://baike.baidu.com/item/%E6%81%8B%E4%B8%8A%E4%BC%AA%E5%A8%98%E7%9A%84%E5%B0%91%E5%A5%B3/22277233 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_恋上伪娘的少女_百度百科.md                             |
+| Size            | 2093 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

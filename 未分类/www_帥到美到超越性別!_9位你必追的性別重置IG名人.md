@@ -1,8 +1,11 @@
 # 帥到美到超越性別! 9位你必追的性別重置IG名人
 
+## 正文 { data-search-exclude }
+
+
 如果不說，你可能完全無法察覺這9位美麗、性感又時尚的IG名人們，原來都曾經做過性別重置的手術。根據醫學研究報告指出，這群出生時，身體構造與心理性別認同不相吻合的人，被稱為性別錯置者。這9位勇敢的名人，在時尚美妝界以出色的表現，為所有性別重置者發聲，因為性別真的與成不成功沒有關係，唯有堅持努力才是王道。
 
-## 1\. Nikkietutorials
+## 1\. Nikkietutorials { data-search-exclude }
 
 此內容來源為 instagram，該網站能找到相關內容或更多資訊。
 
@@ -10,7 +13,7 @@ Youtube美妝天后 Nikkietutorials因為受不了黑函的恐嚇，決定出來
 
 **延伸閱讀**[NikkieTutorials宣布性別重置過往! Youtube美妝示範天后原來曾經是男兒身](https://www.harpersbazaar.com/tw/celebrity/celebritynews/g30511722/nikkietutorials-transgender-past-reveal/)
 
-## 2\. Laith Ashley
+## 2\. Laith Ashley { data-search-exclude }
 
 ![Fashion, Runway, Fashion show, Event, Fashion design, Fashion model, Public event, Human, Performance, Design, ](https://hips.hearstapps.com/hmg-prod/images/gettyimages-539270646-1553834565.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
@@ -26,7 +29,7 @@ Youtube美妝天后 Nikkietutorials因為受不了黑函的恐嚇，決定出來
 
 ![Fashion, Sportswear, Runway, Human, Fun, Fashion show, Jersey, Fashion design, Luke skywalker, Uniform, ](https://hips.hearstapps.com/hmg-prod/images/gettyimages-850103640-1553837113.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
-## 3\. Oslo Grace
+## 3\. Oslo Grace { data-search-exclude }
 
 打破二次元分界，Oslo Grace是最新的無性別人類，他不是男人也不是女人，他走男裝秀，也走女裝秀。
 
@@ -40,7 +43,7 @@ Oslo Grace勇敢秀出自己手術後的身體。
 
 ![The Business Of Fashion Celebrates The #BoF500 2019 At Hotel De Ville In Paris](https://hips.hearstapps.com/hmg-prod/images/teddy-quinlivan-attends-the-business-of-fashion-celebrates-news-photo-1579169679.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
-## 4\. Teddy Quinlivan
+## 4\. Teddy Quinlivan { data-search-exclude }
 
 2016年公開宣布自己性別重置的身分，並不斷為性別錯置族群發聲。
 
@@ -54,7 +57,7 @@ Oslo Grace勇敢秀出自己手術後的身體。
 
 ![Clothing, Street fashion, Red, Fashion, Shoulder, Maroon, Dress, Brown, Orange, Footwear, ](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1068253524.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
-## 5\. Hunter Schafer
+## 5\. Hunter Schafer { data-search-exclude }
 
 優雅飄逸的外型，ㄧ出道就頗受矚目。今年才20歲的Hunter Schafer早已走遍不少國際大秀，今年還將朝演藝界發展，將於HBO最新電視影集_Euphoria_ 中演出。
 
@@ -64,7 +67,7 @@ Oslo Grace勇敢秀出自己手術後的身體。
 
 ![White, Clothing, Black, Street fashion, Fashion, Shoulder, Beauty, Human leg, Dress, Snapshot, ](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1025653990.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
-## 6\. Valentina Sampaio
+## 6\. Valentina Sampaio { data-search-exclude }
 
 來自巴西的超級名模，8歲時他的心理醫師診斷出他有性別錯置的問題，10歲起以女性的性別開始生活。
 
@@ -74,7 +77,7 @@ Oslo Grace勇敢秀出自己手術後的身體。
 
 ![Clothing, Fashion, Footwear, Carpet, Leg, Performance, Muscle, Shorts, Event, Fashion design, ](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1138747417.jpg?crop=0.670xw:0.647xh;0.193xw,0&resize=980:*)
 
-## 7\. Geena Rocero
+## 7\. Geena Rocero { data-search-exclude }
 
 出生於菲律賓，17歲時移民美國，21歲於紐約街頭被星探發現，從此踏上模特兒之路。
 
@@ -88,7 +91,7 @@ Geena Rocero曾登上Harper's Bazaar印度版的封面。
 
 ![Helmut Lang - Runway - September 2019 - New York Fashion Week: The Shows](https://hips.hearstapps.com/hmg-prod/images/nathan-westling-walks-the-runway-for-helmut-lang-during-new-news-photo-1579169910.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
-## 8\. Nathan Westling
+## 8\. Nathan Westling { data-search-exclude }
 
 剛剛完成性別重置手術的模特兒Natalie Westling，最近在IG上發表了自己新的性別造型，並把名字改成Nathan Westling。16歲就進入模特兒圈的他，ㄧ直對自己的女性性別感到困擾，如今於22歲之際，終於完成心願，開心作自己。
 
@@ -100,3 +103,29 @@ Geena Rocero曾登上Harper's Bazaar印度版的封面。
 
 其實在成為Nathan前，Natalie的平日打扮就非常中性。我們祝福他新人生的開始。
 <!-- tcd_original_link https://www.harpersbazaar.com/tw/fashion/fashionmodels/g26980625/8-transgender-models/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_帥到美到超越性別!_9位你必追的性別重置IG名人.md                             |
+| Size            | 7852 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

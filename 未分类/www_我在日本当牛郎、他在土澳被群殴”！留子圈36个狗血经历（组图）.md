@@ -1,5 +1,8 @@
 # 留学生圈中的36个狗血经历
 
+## 正文 { data-search-exclude }
+
+
 2024-11-03 来源： [北美留学生 原文链接](https://mp.weixin.qq.com/s/_S3rGwnQNDjBzGSCfBie3w) 评论0条
 
 吃瓜时间到！
@@ -212,3 +215,29 @@
 
 转载声明：本文为转载发布，仅代表原作者或原平台态度，不代表我方观点。今日澳洲仅提供信息发布平台，文章或有适当删改。对转载有异议和删稿要求的原著方，可联络content@sydneytoday.com。
 <!-- tcd_original_link https://www.sydneytoday.com/content-1024535652619010 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我在日本当牛郎、他在土澳被群殴”！留子圈36个狗血经历（组图）.md                             |
+| Size            | 11557 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

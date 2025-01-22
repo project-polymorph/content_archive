@@ -1,5 +1,8 @@
 # Lili不是跨性别，相反Gerda才是真正的跨性别（丹麦女孩）影评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img1.doubanio.com/icon/u214445770-10.jpg)
 
 好几年前看的，简单补评一下，当初看这部电影咋看咋别扭，我现在终于明白为什么了。
@@ -47,3 +50,29 @@ Lili通过穿女装、化妆找到了欧美自由左常常喜欢挂在口上的�
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie)
 <!-- tcd_original_link https://m.douban.com/movie/review/14764587/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是一篇对电影《丹麦女孩》的影评，探讨了影片中的性别认同及情感关系。《丹麦女孩》讲述了Lili Elbe（埃迪·雷德梅恩饰）和Gerda Wegener（艾丽西亚·维坎德饰）之间复杂而深刻的爱情故事。文章指出Lili对待与Gerda的‘爱情’态度的困惑，认为Lili虽然自我认同为女性，但却未能真正接受与Gerda作为女性的爱情。这种对爱情的背叛，揭示了Lili在追求自我认同的同时，对传统性别角色的巨大依赖。Gerda则表现出超越传统性别界限的爱，愿意支持Lili的选择，作者通过这一对比反思了跨性别者在追求自我认同过程中可能带来的情感伤害，以及对性别和阶级关系的深刻剖析。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_Lili不是跨性别，相反Gerda才是真正的跨性别-_丹麦女孩_-_豆瓣.md                             |
+| Size            | 6554 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-01-01                                 |
+| Tags            | 多元性别, 跨性别, 爱情, 情感分析, 性别认同, 社会文化, 电影分析, 丹麦女孩, LGBTQ, 女性主义                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

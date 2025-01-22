@@ -1,5 +1,8 @@
 # 非二元性别 - Nonbinary Wiki
 
+## 正文 { data-search-exclude }
+
+
 ![Nonbinary.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nonbinary.png/250px-Nonbinary.png)
 
 **Meaning** Yellow: gender without reference to the binary; White: many or all genders; Purple: gender between or a mix of female and male; Black: lack of gender.
@@ -28,7 +31,7 @@ Nonbinary falls under the umbrella term of [transgender](https://nonbinary.wiki/
 
 凱・若宛（Kye Rowan）在 2014 年设计了非二元旗，如右图所示。这个旗子意思是「是那些对性别酷儿旗没有认同感的非二元者的象徵。这个旗子希望跟瑪麗蓮・若希（Marilyn Roxie）的性别酷儿旗并存，而不是取代它。这个旗子有四个条纹。从上到下，分别是黄色，白色，紫色，与黑色。黄色表示没办法被二元定义的性别，因为黄色通常是用来醒目标示自己的颜色。白色表示有多种或全部的性别的人，因为白色在光学上表示总和的颜色或光。紫色代表在女性与男性之间、或混合了女性与男性的性别，因为紫色是传统代表男性与女性颜色的混合色。紫色也通常是表示流动或独特的非二元者们。黑色则是表达没有性别、活在性别之外的人，因为黑色在光学上是代表没有颜色、没有光的状态。」非二元旗以及性别酷儿旗都是给非二元性别者可以选择的选项，用来象徵他们自己，以及用不同方式来呈现非二元的性别。
 
-## 历史
+## 历史 { data-search-exclude }
 
 本照片摄于2016年巴黎同志大游行。这个布条以非二元旗的颜色印刷。大字写着「我的性别是非二元」，背景中则有数十个比较小的字汇，各自写着属于非二元的各种性别身份的称呼。
 
@@ -63,7 +66,7 @@ In 2014, the social media site Facebook began to allow users to set their profil
 
 The word _enby_ (plural _enbies_, derived from "N.B.," the initialism of "non-binary") is a common noun meaning "nonbinary person." It was coined by Tumblr user vector (revolutionator) in 2013 as the nonbinary common noun equivalent of "boy" or "girl."[4][5][6] Due to that wording, some nonbinary people question whether it can also be used as a nonbinary common noun equivalent of "man" or "woman." The 2020 Gender Census shows that older nonbinary people less often call themselves enbies.[7]
 
-## Nonbinary identities
+## Nonbinary identities { data-search-exclude }
 
 _There is more information about this topic here: [list of nonbinary identities](https://nonbinary.wiki/wiki/List_of_nonbinary_identities)_
 
@@ -83,7 +86,7 @@ Some of the more common identities under the nonbinary umbrella include:
 
 -   **Nonbinary** means any gender outside the gender binary. That is, any identity which is not solely male or female all the time. Though there are many kinds of nonbinary identities, many people use this as the only name for their gender.[9]
 
-## Nonbinary expression
+## Nonbinary expression { data-search-exclude }
 
 There is not one right way to perform a nonbinary gender. Most nonbinary people are primarily motivated to do what feels comfortable and true to themselves, rather than attempting to follow any particular gender role. Whichever way any particular nonbinary person needs or chooses to present, express, or perform their gender is as valid as any other.
 
@@ -91,7 +94,7 @@ Nonbinary people may or may not experience [gender dysphoria](https://nonbinary.
 
 All of these are completely individual choices based on what any one nonbinary person personally feels they want to, need to, or must do in order to feel more comfortable and more like themselves.
 
-## Notable nonbinary people
+## Notable nonbinary people { data-search-exclude }
 
 ![Rebecca Sugar Peabody Awards.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rebecca_Sugar_Peabody_Awards.jpg/200px-Rebecca_Sugar_Peabody_Awards.jpg)
 
@@ -108,7 +111,7 @@ There are many more [notable people who have a gender identity outside of the bi
 -   [Sam Smith](https://nonbinary.wiki/wiki/Sam_Smith), a renowned English singer, Grammy winner and nominee. They came out as non-binary and changed their pronouns to they/them in September of 2019.
 -   [Demi Lovato](https://nonbinary.wiki/wiki/Demi_Lovato), an American singer, songwriter, and actor, came out as non-binary and changed their pronouns to they/them in May of 2021.[21]
 
-## Nonbinary characters in fiction
+## Nonbinary characters in fiction { data-search-exclude }
 
 _See main article: [Nonbinary gender in fiction](https://nonbinary.wiki/wiki/Nonbinary_gender_in_fiction)_
 
@@ -134,7 +137,7 @@ _See main article: [Nonbinary gender in fiction](https://nonbinary.wiki/wiki/Non
 
 「小元（enby, 复数型为 enbies，源自 N-B）」是一个可以用来称呼非二元者的昵称。最早可能是起源于 Tumblr，有些非二元者用这个简短称呼来与「小男孩 boy」或「小女孩 girl」并列。也因此，有些人认为这个昵称并不能完全用来称呼所有非二元者，比较像是称呼一些青少年或较年轻的非二元者。《2020 年性别共识》当中也显示出在年纪愈增的非二元者群体中，使用「小元」自称的比例愈低。
 
-## References
+## References { data-search-exclude }
 
 1. [↑](#cite_ref-story-quote_1-0) This quote is a snippet from an answer to the survey conducted in the year 2018. Note for editors: the text of the quote, as well as the name, age and gender identity of its author shouldn't be changed.  
 2. [↑](#cite_ref-Darwin2020_2-0) Darwin, Helana (2020). "Challenging the Cisgender/Transgender Binary: Nonbinary People and the Transgender Label". _Gender & Society_. **34** (3): 357–380. [doi](https://doi.org/10.1177%2F0891243220912256). [ISSN](https://www.worldcat.org/issn/0891-2432) [0891-2432](https://www.worldcat.org/issn/0891-2432).  
@@ -165,3 +168,29 @@ _See main article: [Nonbinary gender in fiction](https://nonbinary.wiki/wiki/Non
 27. ↑ [Jump up to: 27.0](#cite_ref-Bentley_27-0 "Jump up") Bentley, Jean (14 February 2020). ["Bex Taylor-Klaus Hopes Their Nonbinary 'Deputy' Character Will Save Lives"](https://www.hollywoodreporter.com/live-feed/bex-taylor-klaus-deputy-binary-reveal-1279351). _The Hollywood Reporter_. Retrieved 23 April 2020.  
 28. ↑ [Jump up to: 28.0](#cite_ref-28 "Jump up") ["Tweet from Jhonen Vasquez"](https://twitter.com/JhonenV/status/1325571053238640640?s=19).
 <!-- tcd_original_link https://nonbinary.wiki/wiki/Nonbinary/zh-tw -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | nonbinary_非二元性別_-_Nonbinary_Wiki.md                             |
+| Size            | 23711 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

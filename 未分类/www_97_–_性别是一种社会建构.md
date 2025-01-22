@@ -1,5 +1,8 @@
 # 性别是一种社会建构
 
+## 正文 { data-search-exclude }
+
+
 ![性别是一种社会建构](https://www.seksediversiteit.nl/wp-content/uploads/2023/09/ls-project-1-slide-1.jpg)
 
 **作者：** [米里亚姆·范德哈夫](https://www.seksediversiteit.nl/zh-CN/author/admin/)  
@@ -7,7 +10,7 @@
 
 ![误解](https://www.seksediversiteit.nl/wp-content/uploads/2023/09/Misvattingen-web-schoon.jpg)
 
-## 误解
+## 误解 { data-search-exclude }
 
 ### 97 展位
 
@@ -31,7 +34,7 @@
 
 用AI总结并由编辑检查。
 
-## 霍夫斯图克 97
+## 霍夫斯图克 97 { data-search-exclude }
 
 ### 性就像 gender, 社会建构
 
@@ -72,7 +75,7 @@
 
 ### 观点看法 NNID
 
-## 性就像 gender, 社会建构
+## 性就像 gender, 社会建构 { data-search-exclude }
 
 性有一个生物核心，周围是一个充满社会结构的大而组织良好的空间。整个事情变得如此之大，以至于社会建构，至少对于双性人来说，占据了主导地位。
 
@@ -172,3 +175,29 @@
 
 最后修改于 27 年 2023 月 12 日，作者：Miriam van der Have  
 <!-- tcd_original_link https://www.seksediversiteit.nl/zh-CN/misvattingen/h097/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_97_–_性别是一种社会建构.md                             |
+| Size            | 20829 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,6 +1,9 @@
 # 跨性別家族分類整理
 
-## 跨性別知識吧
+## 正文 { data-search-exclude }
+
+
+## 跨性別知識吧 { data-search-exclude }
 
 1. **CD(Crossdress)異裝**: 純粹對變裝有動機者，並沒有對自己性別認知產生變化。生理男生穿絲襪感覺舒服，但沒有認為自己是女生的心理變化。通常可能動機為角色扮演，戀物癖或其他情況。定義參考: [https://goo.gl/muSqoF](https://goo.gl/muSqoF)
 
@@ -18,7 +21,7 @@
 
 7. **其它非典型跨性別認同**: 流性別，泛性別，無性別等等。
 
-## 莉莉的想法:
+## 莉莉的想法: { data-search-exclude }
 
 跨性別的家族性別認同的情況非常多元，所以也不用強制找到自己的類別，但分類可以幫助我們解決多數的情況，並且知道自己要不要吃藥，甚至做變性手術。也因此做不可逆的手術需要比較詳細的心理醫師證明，來避免掉知識不足的誤分類產生的遺憾。我自己的情況偏向Bigender 只有輕微的GD，而小時候就有一些女性特質，不會僅因為穿女裝感到性興奮。所以我自己歸類在Bigender為主的跨女，曾經服過荷爾蒙，所以未來應該不會做變性手術。如果有相關疑問的可以問我。
 
@@ -44,3 +47,29 @@
 - [跨性別-MtF的族群思考](https://transgenderknowledgebar.wordpress.com/category/%e8%b7%a8%e6%80%a7%e5%88%a5-mtf%e7%9a%84%e6%97%8f%e7%be%a4%e6%80%9d%e8%80%83/)
 - [跨性別基本知識](https://transgenderknowledgebar.wordpress.com/category/%e8%b7%a8%e6%80%a7%e5%88%a5%e5%9f%ba%e6%9c%ac%e7%9f%a5%e8%ad%98/)
 <!-- tcd_original_link https://transgenderknowledgebar.wordpress.com/2018/03/19/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%AE%B6%E6%97%8F%E5%88%86%E9%A1%9E%E6%95%B4%E7%90%86/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | transgenderknowledgebar_跨性別家族分類整理.md                             |
+| Size            | 4517 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

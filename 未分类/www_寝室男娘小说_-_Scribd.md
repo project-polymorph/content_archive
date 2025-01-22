@@ -1,9 +1,12 @@
 # 寝室男娘小说
 
-## Uploaded by
+## 正文 { data-search-exclude }
+
+
+## Uploaded by { data-search-exclude }
 [pqfsz1234](https://www.scribd.com/user/800683540/pqfsz1234)
 
-## Document Information
+## Document Information { data-search-exclude }
 
 ### Copyright
 © © All Rights Reserved
@@ -11,7 +14,7 @@
 ### Available Formats
 TXT, PDF, TXT or read online from Scribd
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 本文件的版权归原作者所有，转载请注明出处。
 
 ### Document View
@@ -30,3 +33,29 @@ TXT, PDF, TXT or read online from Scribd
 
 太长
 <!-- tcd_original_link https://www.scribd.com/document/785460445/%E5%AF%9D%E5%AE%A4%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_寝室男娘小说_-_Scribd.md                             |
+| Size            | 1989 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

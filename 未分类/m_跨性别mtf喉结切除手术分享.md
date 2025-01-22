@@ -1,5 +1,8 @@
 # 跨性别mtf喉结切除手术分享
 
+## 正文 { data-search-exclude }
+
+
 ![手术分享](https://t14.baidu.com/it/u=15756258049158092555,4748096412468215313&fm=3008&app=3011&size=f1242,699&n=0&f=JPEG&fmt=auto?sec=1736960400&t=47f687bfb18a1d19091618589b3e88eb)
 
 前往好看视频，高清观看视频！
@@ -17,7 +20,7 @@
 
 ---
 
-## 相关视频推荐
+## 相关视频推荐 { data-search-exclude }
 
 ![相关视频1](https://vdposter.bdstatic.com/56637bf51cff2912c945ca28f3bd2b5a.jpeg?x-bce-process=image/resize,m_fill,w_560,h_315/format,f_jpg/quality,Q_80)
 
@@ -57,3 +60,29 @@
 
 结束内容，未显示更多信息。
 <!-- tcd_original_link https://m.baidu.com/video/page?pd=video_page&nid=9268122955704925194&sign=9454767554768435762&word=mtf%E5%B7%B2%E5%88%87srs%E6%89%8B%E6%9C%AF%E7%9F%A5%E4%B9%8E&oword=mtf%E5%B7%B2%E5%88%87srs%E6%89%8B%E6%9C%AF%E7%9F%A5%E4%B9%8E&atn=index&frsrcid=4185&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&sl=2 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别mtf喉结切除手术分享.md                             |
+| Size            | 3516 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

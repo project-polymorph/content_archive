@@ -1,5 +1,8 @@
 # 公正党不满砂报章报道：指变性人持布条迎接安华
 
+## 正文 { data-search-exclude }
+
+
 **时间：** May 16, 2006 7:44 PM  
 **更新：** Jan 29, 2008 10:21 AM  
 **来源：** [malaysiakini](https://www.malaysiakini.com/news/51119)  
@@ -10,7 +13,7 @@
 
 ![安华迎接图片](https://i.malaysiakini.com/39/f2eb5bdea29fc5b879f1b8c17163b801.jpg) 也是前副首相的安华目前身在砂拉越为本月20日举行的州大选助选。
 
-## 公正党斥为下流媒体做法
+## 公正党斥为下流媒体做法 { data-search-exclude }
 
 公正党浮罗岸候选人黄锦河表示，当他看到有关报道时感到惊讶。
 
@@ -22,7 +25,7 @@
 
 “我相信国阵感受到这股能量，觉得安华将对当地人造成影响。”
 
-## 指国阵玩弄肮脏手段
+## 指国阵玩弄肮脏手段 { data-search-exclude }
 
 ![阿兹敏阿里](https://i.malaysiakini.com/oib/imagebank/mugshot/azmin_ali06.jpg) 公正党副主席阿兹敏阿里也指有关报道是执政党所玩弄的手段。
 
@@ -40,7 +43,7 @@
 
 一名古尽要求匿名的新闻从业员表示，他对有关新闻不感惊讶，因为《东方时报》是与砂州首席部长泰益玛目有密切关系。
 
-## 《东方时报》称据实报道
+## 《东方时报》称据实报道 { data-search-exclude }
 
 《东方时报》编辑经理西华古玛则便称，该报只是纯粹报道事实。
 
@@ -50,3 +53,29 @@
 
 _关注《当今大马》[WhatsApp频道](https://mk.my/whatsapp) 随时接收新闻推送。_
 <!-- tcd_original_link https://www.malaysiakini.com/news/51139 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_公正党不满砂报章报道br指变性人持布条迎接安华.md                             |
+| Size            | 3055 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

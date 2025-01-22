@@ -1,5 +1,8 @@
 # 变性别欲者之酸甜苦辣
 
+## 正文 { data-search-exclude }
+
+
 2010-02-07 18:56:00　来源：博览群书　○林红　[我有话说](#commentAnchor)
 
 长期以来，主流社会将人类分为男性和女性、且以二元性别来型塑和赋予他/她特定的社会性别身份与性别角色，而无视了染色体性别、解剖学（内外生殖器）性别或荷尔蒙性别等多元生理性别的存在，以及由此差异导致的与男女二元性别认同部分或全部相违的跨性别人群的存在。其中，双性人、同性恋、变性人等，通过近年来媒体的报道，日益为大众所熟悉。尤其对变性人的炒作比比皆是。互联网上，“中国变性第一人”、“安徽变性第一人”、“英国变性第一人”……条目不一而足。这些文字几乎是对变性者个人故事的报道――他（她）们的童年，他（她）们内心对成为异性的渴望，他（她）们接受手术后的生活；将变性作为一种社会现象放在较为广阔的背景中加以思考的几乎为零。因此，大众对变性的了解并不意味着理解，更不代表包容。在百度的“变性吧”里，攻击变性者的言论随处可见。有指责他（她）们怯弱，说“要变性的人是思想不坚定”；有直接谩骂其为“一群疯子，不知道怎么想的”，说什么“人不能闲着，闲下来就想那些变态、低级的东西”……硬是将变性与道德情趣挂钩。
@@ -54,3 +57,29 @@
 
 [版权声明：转载须经版权人书面授权并注明来源](//www.gmw.cn/content/2011-02/14/content_1609313.htm)
 <!-- tcd_original_link https://www.gmw.cn/02blqs/2010-02/07/content_1133352.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性别欲者之酸甜苦辣_博览群书_-_光明网.md                             |
+| Size            | 19509 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

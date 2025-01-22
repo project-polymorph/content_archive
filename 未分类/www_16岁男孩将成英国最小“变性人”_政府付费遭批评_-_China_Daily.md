@@ -1,5 +1,8 @@
 # 16岁男孩将成英国最小“变性人” 政府付费遭批评
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2010-01-26 09:03:19  
 **来源**: 中国日报网  
 **作者**: 信息未提供  
@@ -33,3 +36,29 @@
 
 ![相关图片](../../images/attachement/jpg/site1/20100125/0013729e4ad10cc73d6645.jpg)
 <!-- tcd_original_link http://www.chinadaily.com.cn/hqbl/2010-01/26/content_9376745.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_16岁男孩将成英国最小“变性人”_政府付费遭批评_-_China_Daily.md                             |
+| Size            | 2762 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

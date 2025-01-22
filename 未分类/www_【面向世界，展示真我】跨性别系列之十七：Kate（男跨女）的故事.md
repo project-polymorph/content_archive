@@ -1,5 +1,8 @@
 # 【面向世界，展示真我】跨性别系列之十七：Kate（男跨女）的故事
 
+## 正文 { data-search-exclude }
+
+
 ![【面向世界，展示真我】跨性别系列之十七：Kate（男跨女）的故事](https://www.inmediahk.net/files/styles/w775/public/column_images/453.png?itok=ayqk_mRU)
 
 **實現化蝶道路不平坦，跨性情侶怨律例僵化**
@@ -21,3 +24,29 @@ Kate 開始看醫生是在 2011 年，那時她還是全時間男性生活，她
 **標籤**: [跨性别](https://www.inmediahk.net/taxonomy/term/521915)  
 **作者**: 世界公民協會
 <!-- tcd_original_link https://www.inmediahk.net/%E7%A4%BE%E9%81%8B/%E3%80%90%E9%9D%A2%E5%90%91%E4%B8%96%E7%95%8C%EF%BC%8C%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%88%91%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%AB%E7%B3%BB%E5%88%97%E4%B9%8B%E5%8D%81%E4%B8%83%EF%BC%9Akate%EF%BC%88%E7%94%B7%E8%B7%A8%E5%A5%B3%EF%BC%89%E7%9A%84%E6%95%85%E4%BA%8B -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【面向世界，展示真我】跨性别系列之十七：Kate（男跨女）的故事.md                             |
+| Size            | 5107 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

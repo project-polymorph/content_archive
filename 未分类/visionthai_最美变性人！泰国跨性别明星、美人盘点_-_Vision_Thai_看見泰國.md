@@ -1,5 +1,8 @@
 # 最美变性人！泰国跨性别明星、美人盘点
 
+## 正文 { data-search-exclude }
+
+
 *来源：Vision Thai 看见泰国*  
 *作者：看见泰国编辑团队*  
 *时间：2022-05-25*  
@@ -8,7 +11,7 @@
 
 泰国跨性别者不少，有的进入娱乐圈闯出一片天地。曾与周润发、张家辉拍电影的“最美变性人”，美貌竟然是天生的，而不是透过手术得来的喔。因为出演《泰囧》而进入演艺圈的“电梯美女”，还有少女感爆棚的小仙女Yoshi，看到她们的美貌，你有心动到吗？
 
-## 泰国征兵现场的跨性别少女
+## 泰国征兵现场的跨性别少女 { data-search-exclude }
 
 说起泰国变性美女，她一定不会被忘记。你是否有看过在泰国征兵现场，她拿著文件的那张照片，对比现场的其他人，她精致小巧的五官和洁白的肌肤让人瞬间融化，莫名燃起保护欲，感觉像画走出来一样。
 
@@ -32,7 +35,7 @@ Yoshi精致小巧的五官和洁白的肌肤让人瞬间融化（图片来源：
 
 Yoshi曾出演《为爱所困》第二季、《卖萌这件小事》等泰剧（图片来源：脸书）
 
-## 泰娱圈中的“人脉王”
+## 泰娱圈中的“人脉王” { data-search-exclude }
 
 说起这位变性艺人，追过泰国娱乐圈的你应该不陌生。从2013年开始进入演艺圈，瓦查拉·苏克丘姆(Jennie Panhan)在娱乐圈中人缘好到没话说，在社交平台的合照从来不缺明星帅哥。Jennie是泰国著名的电视节目主持人，主持过《一起来挑战》、“TEAMGIRL”、“ Wrong Say Do”和《饥饿姐妹”等节目，还参演了不少泰剧，如《燃烧的腐魂》、《三人沉浮》、《基友记2》等。
 
@@ -44,7 +47,7 @@ Yoshi曾出演《为爱所困》第二季、《卖萌这件小事》等泰剧（
 
 Jennie在娱乐圈中人缘好到没话说（图片来源：IG@jennie_panhan）
 
-## 《泰囧》里的电梯美女
+## 《泰囧》里的电梯美女 { data-search-exclude }
 
 可能听到Rose这个名字大家不一定会想到她，但如果说起电影《人再囧途之泰囧》里的“电梯美女”，是不是有点印象了？曾是泰国“十大人妖皇后”之一的Chalisa Rose Yuenchai，在2012年的时候因出演徐峥导演的《人再囧途之泰囧》而在中国大陆迅速走红。
 
@@ -58,7 +61,7 @@ Jennie在娱乐圈中人缘好到没话说（图片来源：IG@jennie_panhan）
 
 因为出众的外貌和演技，Rose获得了许多关注（图片来源：脸书）
 
-## 曾与周润发、张家辉拍电影的“最美变性人”
+## 曾与周润发、张家辉拍电影的“最美变性人” { data-search-exclude }
 
 最后这位跨性别艺人有多美？她美到与张家辉在电影《扫毒》中拍摄大尺度戏份，美到能与周润发合作拍摄《赌城风云2》。
 
@@ -87,3 +90,29 @@ Poyd和妹妹、弟弟的合影（图片来源：IG＠poydtreechada）
 ### 版权
 COPYRIGHT © 看见泰国 VISION THAI 2025
 <!-- tcd_original_link https://visionthai.net/zh-hans/article/transgender-thai-star/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | visionthai_最美变性人！泰国跨性别明星、美人盘点_-_Vision_Thai_看見泰國.md                             |
+| Size            | 7197 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,6 +1,9 @@
 # 非西方、亞洲或中美冷戰結構？重置酷兒臺灣的戰（暫）時主體
 
-## Non-Western Sexuality, Queer Asia, or Cold War Geopolitics? Repositioning Queer Taiwan in the Temporal Turn
+## 正文 { data-search-exclude }
+
+
+## Non-Western Sexuality, Queer Asia, or Cold War Geopolitics? Repositioning Queer Taiwan in the Temporal Turn { data-search-exclude }
 
 **作者**: 劉文 (Liu, Wen)  
 **来源**: 《臺灣文學研究集刊》 Issue 26 (2021/08) Pp. 3-35  
@@ -47,3 +50,29 @@ Queer Theory；Nationalism；Geopolitics；Temporality；Homonationalism
 - 陳彥仁（2020）。[Towards Queer Absurdity: The National and Sexual Politics of Contemporary Popular Culture in Taiwan](https://www.airitilibrary.com/Article/Detail?DocID=U0001-1108202017561800)〔碩士論文，國立臺灣大學〕。華藝線上圖書館。https://doi.org/10.6342/NTU202002993
 - Chou, C. Y. (2022). _[Japanese Imagery in Contemporary Taiwanese LGBT-themed Literature: Focusing on Moving People](https://www.airitilibrary.com/Article/Detail?DocID=U0002-2806202210054000)_ \[master's thesis, Tamkang University\]. Airiti Library. https://www.airitilibrary.com/Article/Detail?DocID=U0002-2806202210054000
 <!-- tcd_original_link https://www.airitilibrary.com/Article/Detail/18185649-202108-202201040016-202201040016-3-35 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_非西方、亞洲或中美冷戰結構？重置酷兒臺灣的戰（暫）時主體.md                             |
+| Size            | 7895 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

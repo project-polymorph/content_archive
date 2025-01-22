@@ -1,5 +1,8 @@
 # 跨性别女性宣言
 
+## 正文 { data-search-exclude }
+
+
 ![Homura](https://img1.doubanio.com/icon/u119903016-49.jpg)  
 **作者**：朱莉娅·塞拉诺  
 **时间**：2023-09-06 14:01:26 已编辑  
@@ -60,3 +63,29 @@
 
 4. 关于女性主义者反跨女观点的概述，可参见Pat Califia, Sex Changes: The Politics of Transgenderism (San Francisco: Cleis Press, 1997), 86-119; Joanne Meyerowitz, How Sex Changed: A History of Transsexuality in the United States (Cambridge: Harvard University Press, 2002), 258-262; Ky Brown, “20th Century Transgender History and Experience” ([www.jenellerose.com/htmlpsstings/20th_century_transgender.html](https://www.douban.com/link2/?url=http%3A%2F%2Fwww.jenellerose.com%2Fhtmlpsstings%2F20th_century_transgender.html&link2key=32f48f3847)); and Deborah Rudacille, The Riddle of Gender: Science, Activism, and Transgender Rights (New York: Pantheon Books, 2005), 151-174. For pertinent examples of trans-misogynistic feminist writings, see Mary Daly, Gyn/Ecology: The Metaethics of Radical Feminism (Boston: Beacon Press, 1990), 67-72; Andrea Dworkin, Woman Hating (New York: E. P. Dutton, 1974), 185-187; Margrit Eichler, The Double Standard: A Feminist Critique of Feminist Social Science (London: Croom Helm, 1980), 72-90; Germaine Greer, The Madwoman’s Underclothes: Essays and Occasional Writings (New York: Atlantic Monthly Press, 1987), 189-191; Germaine Greer, The Whole Woman (New York: Alfred A. Knopf, 1999), 70-80; Sheila Jeffreys, Beauty and Misogyny: Harmful Cultural Practices in the West (New York: Routledge, 2005), 46-66; Robin Morgan, Going Too Far (New York: Random House, 1997), 170-188; Janice G. Raymond, The Transsexual Empire: The Making of the She-Male (Boston: Beacon Press, 1979); Gloria Steinem, “If the Shoe Doesn’t Fit, Change the Foot,” Ms., February 1977, 76-86.
 <!-- tcd_original_link https://m.douban.com/note/853622385/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是《跨性别女性宣言》的翻译，原作者为朱莉娅·塞拉诺，发表于2007年。这份宣言呼吁社会停止将跨性别女性视为替罪羊，并强调了跨性别女性在社会中面临的多重歧视和偏见，包括恐跨（transphobia）、顺性主义（cissexism）和厌女（misogyny）。宣言指出，跨性别女性的身份不应取决于她们的外表或是否能被定义为"通过"（pass），而应当受到尊重和认可。文中讨论了跨性别女性在生活以及社会运动中的斗争，强调了女权运动应当包容所有女性，包括跨性别女性，认为真正的性别平等需要废除对立式性偏见和传统式性偏见。此外，文中还分析了媒体如何通过过度女性化和性别化的方式来物化跨性别女性，加深对她们的误解和歧视。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_【翻译】跨性别女性宣言-_日记.md                             |
+| Size            | 18249 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 朱莉娅·塞拉诺                               |
+| Region          | 未知                               |
+| Date            | 2023-09-06                                 |
+| Tags            | 跨性别, 性别认同, 女性主义, 歧视, 社会运动, 女权, 生命故事, 社会环境, 心理健康, 媒体呈现                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

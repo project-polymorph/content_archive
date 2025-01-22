@@ -1,5 +1,8 @@
 # 凌驾于欧盟各国之上的人权法院
 
+## 正文 { data-search-exclude }
+
+
 **作者：李永君**
 
 法国西北边境，欧洲陪都斯特拉斯堡，清澈的莱茵河潺潺流过。河边矗立着一座由两个巨大的圆柱体组成的摩登建筑，卓尔不群，傲视大千。但并不神秘，因为楼里的一切，从外面都能看到，大楼的墙壁和地板都是用玻璃建成的，标示着公开与透明。这就是在欧盟公民中享有盛誉，并令欧盟各国政府敬畏的欧洲人权法院。
@@ -26,3 +29,29 @@
 
 **新闻来源:** 检察日报
 <!-- tcd_original_link http://www.procedurallaw.cn/info/1013/6181.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_凌驾于欧盟各国之上的人权法院.md                             |
+| Size            | 8895 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

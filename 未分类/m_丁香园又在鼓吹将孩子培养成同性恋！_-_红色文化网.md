@@ -1,5 +1,8 @@
 # 丁香园又在鼓吹将孩子培养成同性恋！
 
+## 正文 { data-search-exclude }
+
+
 作者：申鹏  
 来源：平原公子  
 日期：2023-05-25  
@@ -142,3 +145,29 @@ LGBTG、变性手术，不但在成为一种政治风潮，还在成为一种“
 
 反对 0
 <!-- tcd_original_link https://m.hswh.org.cn/wzzx/llyd/zz/2023-05-25/81946.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_丁香园又在鼓吹将孩子培养成同性恋！_-_红色文化网.md                             |
+| Size            | 11847 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

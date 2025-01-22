@@ -1,5 +1,8 @@
 # 心理医生解析易性癖
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2014/12/21 10:16:56  
 **编辑：** 心灵花园  
 
@@ -16,3 +19,29 @@
 
 **免责声明**：为传播心理学，本网站部分内容转载或摘取自网络和刊物，对于该内容所涉及之正确性、抄袭、著作权归属，是否合法性或正当性如何，本网站并不负任何责任。如本网站所载内容涉及您的版权，请速来电或来函联系，我们将在核实后第一时间将所涉及内容立即删除或向您支付相应稿费。联系电话：021-51699291　邮箱：[xinchao51699291@163.com](mailto:xinchao51699291@163.com)
 <!-- tcd_original_link http://www.xinlinghuayuan.com/Learning/btxl/201412/Learning_7111.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_心理医生解析易性癖.md                             |
+| Size            | 3285 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 泰国人妖
 
+## 正文 { data-search-exclude }
+
+
 出自维基百科，自由个百科全书
 
 ![一排人妖](//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%E5%8E%9F%E6%AA%94_%2830676767750%29.jpg/400px-%E5%8E%9F%E6%AA%94_%2830676767750%29.jpg)
@@ -14,11 +17,11 @@
 
 依照[東森新聞](https://wuu.wikipedia.org/w/index.php?title=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&action=edit&redlink=1)2007年6月搭7月个報導，已常常看見娛樂業搭[旅遊業](https://wuu.wikipedia.org/w/index.php?title=%E6%97%85%E9%81%8A%E6%A5%AD&action=edit&redlink=1)之外个變性人，一所技術學堂也設立着變性人專用廁所。同志搭變性人也来伊个辰光成立「泰國同性戀政治群」，目的是为著同志權利向政府施壓。
 
-## 有名个人物
+## 有名个人物 { data-search-exclude }
 
 - 泰國電影《[美麗拳王](https://wuu.wikipedia.org/w/index.php?title=%E7%BE%8E%E9%BA%97%E6%8B%B3%E7%8E%8B&action=edit&redlink=1)》里向，主角个現實身份——[帕莉亞](https://wuu.wikipedia.org/w/index.php?title=%E5%B8%95%E8%8E%89%E4%BA%9E&action=edit&redlink=1)，是一位參加[泰拳](https://wuu.wikipedia.org/wiki/%E6%B3%B0%E6%8B%B3)比賽个知名變性人。
 
-## 相册
+## 相册 { data-search-exclude }
 
 - ![芭塔雅个人妖](//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pattaya_transwomen_2.jpg/500px-Pattaya_transwomen_2.jpg "芭塔雅个人妖")
  
@@ -32,7 +35,7 @@
   
   贝儿
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 1. [↑](#cite_ref-1) Peter Jackson, [Performative Genders, Perverse Desires: A Bio-History of Thailand's Same-Sex and Transgender Cultures](http://wwwsshe.murdoch.edu.au/intersections/issue9/jackson.html). （"The Homosexualisation of Cross-Dressing"箇段）
 2. [↑](#cite_ref-2) Andrew Matzner: [In Legal Limbo: Thailand, Transgendered Men, and the Law](https://web.archive.org/web/20041120094937/http://home.att.net/~leela2/inlegallimbo.htm), 1999.描述1999年辰光人妖个一般社會搭法律狀況。（英语）
@@ -44,3 +47,29 @@
 - [跨性别](https://wuu.wikipedia.org/wiki/Category:%E8%B7%A8%E6%80%A7%E5%88%AB)
 - [泰国人](https://wuu.wikipedia.org/wiki/Category:%E6%B3%B0%E5%9B%BD%E4%BA%BA)
 <!-- tcd_original_link https://wuu.wikipedia.org/wiki/%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%A6%96 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wuu_泰国人妖-_维基百科.md                             |
+| Size            | 5837 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

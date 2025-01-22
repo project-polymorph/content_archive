@@ -1,8 +1,11 @@
 # 穿越变成女生的电影名字-探索性别认同和自我接纳的故事
 
+## 正文 { data-search-exclude }
+
+
 发布时间：2024-11-03 10:05:24
 
-## 正文
+## 正文 { data-search-exclude }
 
 ### 《女生时代》-探索性别认同和自我接纳的故事
 
@@ -24,18 +27,44 @@
 
 《性别转换之旅》描述了一位男生穿越到女生时代的旅程。男主角在新的身份中经历了一系列的挑战和发现，通过重新审视性别和平等的问题，他对自己和社会有了更深刻的认识。这部电影引发了观众对性别和社会问题的思考，同时也探讨了个人成长和自我认同的重要性。
 
-## 来源
+## 来源 { data-search-exclude }
 
 电影资讯网
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 多元性别
 - 性别认同
 - 自我接纳
 - 穿越电影
 
-## 版权
+## 版权 { data-search-exclude }
 
 版权所有 © 2024 电影资讯网，未经允许，请勿转载。
 <!-- tcd_original_link https://moderately.brentexmv.com/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | moderately_穿越变成女生的电影名字-探索性别认同和自我接纳的故事_电影资讯网.md                             |
+| Size            | 2595 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

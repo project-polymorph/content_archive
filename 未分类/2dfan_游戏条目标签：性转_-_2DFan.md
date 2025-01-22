@@ -1,6 +1,9 @@
 # 多元性别游戏档案
 
-## 游戏条目标签：性转\_2DFan
+## 正文 { data-search-exclude }
+
+
+## 游戏条目标签：性转\_2DFan { data-search-exclude }
 
 ### 游戏列表
 
@@ -304,3 +307,29 @@
   
   介绍：[有](https://bbs.kfpromax.com/topics/13098) 下载： [存档](https://bbs.kfpromax.com/downloads/13118) [机翻](https://bbs.kfpromax.com/downloads/20108) [AI](https://bbs.kfpromax.com/downloads/22824) [其他](https://bbs.kfpromax.com/subjects/10107/downloads)
 <!-- tcd_original_link https://2dfan.com/tags/%E6%80%A7%E8%BD%AC -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | 2dfan_游戏条目标签：性转_-_2DFan.md                             |
+| Size            | 29207 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

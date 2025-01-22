@@ -1,5 +1,8 @@
 # 打造全美首个变性手术中心 帮助特殊群体 变性人纪念日华裔医生受赞扬
 
+## 正文 { data-search-exclude }
+
+
 ![侨报网-以美国《侨报》为旗舰的网络新闻平台](/upload/content/2024/20241231/0f7b4dde3efff78340e763cf69acc88a.png)
 
 - 时间: 2020-11-22 00:38
@@ -34,3 +37,29 @@ Jess Ting在皇后区杰克逊高地长大，兄妹四人由单亲母亲抚养�
 
 Copyright © 1990 - 2025 侨报网, 版权所有 保留所有权利. Pacific Culture Enterprise, Inc. All rights reserved.
 <!-- tcd_original_link https://www.uschinapress.com/static/content/HS/2020-11-22/780064790096912384.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_打造全美首个变性手术中心帮助特殊群体变性人纪念日华裔医生受赞扬.md                             |
+| Size            | 4827 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

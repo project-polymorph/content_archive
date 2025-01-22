@@ -1,5 +1,8 @@
 # 各国变性人的故事
 
+## 正文 { data-search-exclude }
+
+
 ![国际选美合影](https://pics0.baidu.com/feed/c75c10385343fbf2476dd6f705d9be8667388fcb.png@f_auto?token=5487c402a716e396c8bed14884f12750)
 
 **作者**: 美颜会长  
@@ -49,3 +52,29 @@
 
 今天的盘点就到这里了，其他没提到的人物，欢迎了解的朋友留言区评论补充~
 <!-- tcd_original_link https://baijiahao.baidu.com/s?id=1662839213469417090&wfr=spider&for=pc -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baijiahao_震惊：各国变性人的故事原来是这样的！_-_百度.md                             |
+| Size            | 3996 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

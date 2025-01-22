@@ -1,5 +1,8 @@
 # E092. 我是药娘，我只是想变成一个女孩
 
+## 正文 { data-search-exclude }
+
+
 ![故事FM](/assets/artwork/1x1.gif)
 
 「药娘」是近几年出现的网络词汇，主要指心理性别为女，生理性别为男的人群，他们通过激素、药物改变内分泌，从而让自己的身体特征逐渐接近女性。
@@ -17,7 +20,7 @@
 04. Apart (未发布) — YangFan （爸爸抱住了我)  
 05. The Hummer lover (未发布) －YangFan （将来我会改变）
 
-## 信息
+## 信息 { data-search-exclude }
 
 - **Show**: [故事FM](https://podcasts.apple.com/nz/podcast/%E6%95%85%E4%BA%8Bfm/id1256399960)
 - **Channel**: [故事FM](https://podcasts.apple.com/nz/channel/%E6%95%85%E4%BA%8Bfm/id6442730379)
@@ -26,9 +29,35 @@
 - **Length**: 19 min
 - **Rating**: Clean
 
-## Episode Webpage
+## Episode Webpage { data-search-exclude }
 
 [Episode Webpage](https://hosting.wavpub.cn/storyfm/2018/07/09/e092-%e6%88%91%e6%98%af%e8%8d%af%e5%a8%98%ef%bc%8c%e6%88%91%e5%8f%aa%e6%98%af%e6%83%b3%e5%8f%98%e6%88%90%e4%b8%80%e4%b8%aa%e5%a5%b3%e5%ad%a9/)
 
 ![Apple Podcasts](/assets/app-icons/podcasts-icon_512.png)
 <!-- tcd_original_link https://podcasts.apple.com/nz/podcast/e092-%E6%88%91%E6%98%AF%E8%8D%AF%E5%A8%98-%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%AD%A9/id1256399960?i=1000415467300 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_E092.我是药娘，我只是想变成一个女孩-_故事FM_-_Apple_Podcasts.md                             |
+| Size            | 1754 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

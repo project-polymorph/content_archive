@@ -1,5 +1,8 @@
 # 黃漢明 | 在反串、變裝、重置性別下的「演藝」事業
 
+## 正文 { data-search-exclude }
+
+
 - 日期：2021-09-13  
 - 来源：[SUNPRIDE FOUNDATION | 驕陽基金會](https://sunpride.hk/zh/category/articles-zh/)
 
@@ -49,7 +52,7 @@
 
 在驕陽基金會的巡迴展覽第一站《光･合作用》中，黃氏呈獻的《Life and Death in Venice》是對來自意大利導演Luchino Visconti 的電影《Death in Venice》的再現。在影片中，黃氏同時飾演年事已高的音樂家Gustavvon Aschenbach和年輕貌美的少年Tadzio，他們漫步於威尼斯的運河，最終在雙年展的展館中相遇。這是黃氏對美好青春的嚮往和對死亡的焦慮矛盾的詮釋。
 
-## 标签
+## 标签 { data-search-exclude }
 - [光合作用](https://sunpride.hk/zh/tag/%e5%85%89%e5%90%88%e4%bd%9c%e7%94%a8-zh/)
 - [本月焦點藝術家](https://sunpride.hk/zh/tag/%e6%9c%ac%e6%9c%88%e7%84%a6%e9%bb%9e%e8%97%9d%e8%a1%93%e5%ae%b6/)
 - [生死威尼斯](https://sunpride.hk/zh/tag/%e7%94%9f%e6%ad%bb%e5%a8%81%e5%b0%bc%e6%96%af/)
@@ -58,3 +61,29 @@
 - [驕陽藝術家](https://sunpride.hk/zh/tag/%e9%a9%95%e9%99%bd%e8%97%9d%e8%a1%93%e5%ae%b6/)
 - [黃漢明](https://sunpride.hk/zh/tag/%e9%bb%83%e6%bc%a2%e6%98%8e/)
 <!-- tcd_original_link http://sunpride.hk/zh/%E9%BB%83%E6%BC%A2%E6%98%8E-%E5%9C%A8%E5%8F%8D%E4%B8%B2%E3%80%81%E8%AE%8A%E8%A3%9D%E3%80%81%E9%87%8D%E7%BD%AE%E6%80%A7%E5%88%A5%E4%B8%8B%E7%9A%84%E3%80%8C%E6%BC%94%E8%97%9D%E3%80%8D%E4%BA%8B/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sunpride_黃漢明_在反串、變裝、重置性別下的「演藝」事業.md                             |
+| Size            | 6560 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

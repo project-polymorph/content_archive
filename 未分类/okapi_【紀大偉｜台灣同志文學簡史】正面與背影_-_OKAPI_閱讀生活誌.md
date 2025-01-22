@@ -1,5 +1,8 @@
 # 紀大偉｜台灣同志文學簡史
 
+## 正文 { data-search-exclude }
+
+
 作者: [紀大偉](https://okapi.books.com.tw/writer/detail/2214) / 2012-06-05 澆覽次數(15048)
 
 ![紀大偉專欄](http://okapi.books.com.tw/uploads/photo/photo4316.jpg)
@@ -79,7 +82,7 @@
 
 希區考克所拍，改編自經典文學兼羅曼史的《蝴蝶夢》
 
-## 作者簡介
+## 作者簡介 { data-search-exclude }
 
 [![](//okapi.books.com.tw/uploads/author/2018/12/author_1543921410_5c065f90e3789_3.jpg)](https://okapi.books.com.tw/writer/detail/2214)
 
@@ -95,7 +98,7 @@
 
 -   [「我從小穿著盔甲長大，把自己訓練得特別堅強。」──專訪杜修蘭《逆女》](https://okapi.books.com.tw/article/15105)
 
-## 相關主題_RELATED TOPICS
+## 相關主題_RELATED TOPICS { data-search-exclude }
 
 -   [LGBTQ+](https://okapi.books.com.tw/tag?k=LGBTQ%2B)
 -   [倪匡](https://okapi.books.com.tw/tag?k=%E5%80%AA%E5%8C%A1)
@@ -113,9 +116,35 @@
 -   [許佑生](https://okapi.books.com.tw/tag?k=%E8%A8%B1%E4%BD%91%E7%94%9F)
 -   [逆女](https://okapi.books.com.tw/tag?k=%E9%80%86%E5%A5%B3)
 
-## 延伸閱讀_RELATED STORIES
+## 延伸閱讀_RELATED STORIES { data-search-exclude }
 
 -   [不可名狀的療癒神作──洪凌小說《洪荒瀰漫超銀河》](https://okapi.books.com.tw/article/18421)
 -   [「我很喜歡洗碗，風乾時如果排成漂亮的風景，心裡就很滿足。」──專訪五十嵐大介](https://okapi.books.com.tw/article/18448)
 -   [【♫｜早晨聽音樂】美好晨間時光，讓OKAPI駐站DJ幫你選一首早晨的歌](https://okapi.books.com.tw/article/10020)
 <!-- tcd_original_link http://okapi.books.com.tw/index.php/p3/p3_detail/sn/1309 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | okapi_【紀大偉｜台灣同志文學簡史】正面與背影_-_OKAPI_閱讀生活誌.md                             |
+| Size            | 20059 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

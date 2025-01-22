@@ -1,5 +1,8 @@
 # 阿桑奇同意被引渡回美国 开出什么条件？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2017-01-14 06:50:06  
 **来源**: 新华社  
 
@@ -20,3 +23,29 @@
 **版权**: Copyright © 2000 - 2017 XINHUANET.com All Rights Reserved.  
 **制作单位**: 新华网股份有限公司　版权所有 新华网股份有限公司
 <!-- tcd_original_link http://www.xinhuanet.com/world/2017-01/14/c_129445609.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_阿桑奇同意被引渡回美国开出什么条件？.md                             |
+| Size            | 2158 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

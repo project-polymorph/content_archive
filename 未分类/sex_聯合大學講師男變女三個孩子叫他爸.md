@@ -1,5 +1,8 @@
 # 聯合大學講師 男變女 三個孩子叫他爸
 
+## 正文 { data-search-exclude }
+
+
 ![](../tgnews.gif)
 
 **聯合大學講師 男變女 三個孩子叫他爸**
@@ -18,3 +21,29 @@
 
 **國內上千變性人？ 女變男較多** 記者梁靜于／高雄市報導  【2004/11/23 聯合報】  國內到底有多少「變性人」，官方尚未有統計資料，有醫師估計可能超過一千人，以女變男比較多。 據瞭解，雖然變性手術過程中，變性人身心都承受痛苦煎熬，不過現代醫學已能將性器官做得維妙維肖，甚至有變性人表示做愛時也會有快感。 高雄榮總整形外科主任陳錦時表示，傳統男變女手術將陰莖、陰囊切除，保留陰莖的表皮，置入「陰道」，部分龜頭做「陰蒂」。先進的技術是將龜頭下半部與連接的尿道海棉體保留，將其反摺到陰道深部，做成假的子宮頸，由於保留「背神經叢」，做愛時也會有快感。 女變男由於是「無中生有」，手術比較困難。先取下前臂橈動脈皮瓣連著一半橈骨，皮瓣包著橈骨看起來像根陰莖，再將尿道延伸出來，包在陰莖裡，於是站著也可以排尿。只是人造的新陰莖不會變軟，平常得豎起來用皮帶壓在肚皮上。因手術也保留橈骨神經，讓變性後的男人在做愛也有感覺。 民生醫院整形外科醫師王泰然說，變性手術至少要兩名精神科醫師鑑定才能執行。變性人大部分都有「另一半」陪伴，並對「愛人」照顧得無微不至，也幫忙隱瞞家人。國內曾發生變性人父母獲悉女兒要變性，衝到手術室外阻止，叫醫生不準動刀，否則要醫院好看。在家長威脅下，儘管變性人簽署同意書，最後醫生僅為她除去乳房。 陳錦時表示，據他了解，有不少變性慾的人到泰國或他國做變性手術，由於沒有精神科醫師鑑定，無法到戶政事務所改變「性別」。
 <!-- tcd_original_link https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/news/2004Jul-Dec/transnews_20041124a.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sex_聯合大學講師男變女三個孩子叫他爸.md                             |
+| Size            | 5225 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

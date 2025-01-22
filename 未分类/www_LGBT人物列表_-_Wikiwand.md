@@ -1,6 +1,9 @@
 # LGBT人物列表
 
-## 概要
+## 正文 { data-search-exclude }
+
+
+## 概要 { data-search-exclude }
 
 由于“[同性恋](/zh-sg/articles/%E5%90%8C%E6%80%A7%E6%88%80 "同性恋")”这个词汇以及“[同性恋者](/zh-sg/articles/%E5%90%8C%E5%BF%97_\(%E5%90%8C%E6%80%A7%E6%88%80\) "同志 (同性恋)")”这个[身份认同](/zh-sg/articles/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C "身份认同")直至十九世纪才在[欧洲](/zh-sg/articles/%E6%AD%90%E6%B4%B2 "欧洲")出现[\[1\]](#cite_note-1)，二十世纪初传至[日本](/zh-sg/articles/%E6%97%A5%E6%9C%AC "日本")、[华人地区](/zh-sg/articles/%E8%8F%AF%E4%BA%BA%E5%9C%B0%E5%8D%80 "华人地区")[\[2\]](#cite_note-lesbian-2)，因此[亚洲LGB人物列表](/zh-sg/articles/%E4%BA%9E%E6%B4%B2LGB%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "亚洲LGB人物列表")、[非洲LGB人物列表](/zh-sg/articles/%E9%9D%9E%E6%B4%B2LGB%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "非洲LGB人物列表")、[欧洲LGB人物列表](/zh-sg/articles/%E6%AD%90%E6%B4%B2LGB%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "欧洲LGB人物列表")、[美洲LGB人物列表](/zh-sg/articles/%E7%BE%8E%E6%B4%B2LGB%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "美洲LGB人物列表")、[大洋洲LGB人物列表](/zh-sg/articles/%E5%A4%A7%E6%B4%8B%E6%B4%B2LGB%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "大洋洲LGB人物列表")、[跨性别人物列表](/zh-sg/articles/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "跨性别人物列表")收录對象为十九世纪末以后的[欧美人士](/zh-sg/articles/%E7%99%BD%E4%BA%BA "白人")、[民国](/zh-sg/articles/%E6%B0%91%E5%9C%8B%E7%B4%80%E5%B9%B4 "民国纪年")以后出生的[华人](/zh-sg/articles/%E8%8F%AF%E4%BA%BA "华人")和[现代](/zh-sg/articles/%E5%BD%93%E4%BB%A3%E5%8F%B2 "当代史")世界各地区的[LGBT](/zh-sg/articles/LGBT "LGBT")人物，在这之前的历史人物请见[LGBT历史人物列表](/zh-sg/articles/LGBT%E6%AD%B7%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "LGBT历史人物列表")。
 
@@ -16,7 +19,7 @@ LGBT人物列表的收录准则为：
 4. 公开参选从政者
 5. 已逝世之历史著名人物，由学术研究或私人档案而揭露者
 
-## 按类型区分
+## 按类型区分 { data-search-exclude }
 
 - [LGBT历史人物列表](/zh-sg/articles/LGBT%E6%AD%B7%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "LGBT历史人物列表")
 - LGB人物列表（英语：[List of gay, lesbian or bisexual people](/zh-sg/articles/List_of_gay,_lesbian_or_bisexual_people "en:List of gay, lesbian or bisexual people")）
@@ -28,7 +31,7 @@ LGBT人物列表的收录准则为：
 - [跨性别人物列表](/zh-sg/articles/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "跨性别人物列表")
 - [LGBT虚构角色列表](/zh-sg/articles/LGBT%E8%99%9B%E6%A7%8B%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8 "LGBT虚构角色列表")
 
-## 按职业区分
+## 按职业区分 { data-search-exclude }
 
 - [LGBT运动员列表](/zh-sg/articles/LGBT%E9%81%8B%E5%8B%95%E5%93%A1%E5%88%97%E8%A1%A8 "LGBT运动员列表")
 - [LGBT YouTuber列表](/zh-sg/articles/LGBT_YouTuber%E5%88%97%E8%A1%A8 "LGBT YouTuber列表")
@@ -37,12 +40,12 @@ LGBT人物列表的收录准则为：
 - 美国特命全权大使LGBT人物列表（英语：[List of LGBT ambassadors of the United States](/zh-sg/articles/List_of_LGBT_ambassadors_of_the_United_States "en:List of LGBT ambassadors of the United States")）
 - 英国LGBT政治人物列表（英语：[List of LGBT politicians in the United Kingdom](/zh-sg/articles/List_of_LGBT_politicians_in_the_United_Kingdom "en:List of LGBT politicians in the United Kingdom")）
 
-## 其他
+## 其他 { data-search-exclude }
 
 - [LGBT社运人士列表](/zh-sg/articles/LGBT%E6%AC%8A%E5%88%A9%E9%81%8B%E5%8B%95%E5%AE%B6 "LGBT权利运动家")
 - [LGBT自杀人物列表](/zh-sg/articles/LGBT%E8%87%AA%E6%9D%80%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 "LGBT自杀人物列表")
 
-## 人物图像
+## 人物图像 { data-search-exclude }
 
 - ![莎芙](//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bust_Sappho_Musei_Capitolini_MC1164.jpg/80px-Bust_Sappho_Musei_Capitolini_MC1164.jpg "莎芙（c. 630–570 BCE）来自列斯伏斯岛的古希腊抒情诗人")    
     [莎芙](/zh-sg/articles/%E8%8E%8E%E8%8A%99 "莎芙")（c. 630–570 BCE）来自[列斯伏斯岛](/zh-sg/articles/%E5%88%97%E6%96%AF%E4%BC%8F%E6%96%AF%E5%B3%B6 "列斯伏斯岛")的[古希腊抒情诗](/zh-sg/articles/%E5%8F%A4%E5%B8%8C%E8%87%98%E6%8A%92%E6%83%85%E8%A9%A9 "古希腊抒情诗")人
@@ -63,16 +66,16 @@ LGBT人物列表的收录准则为：
 - ![安德烈雅·佩伊奇](//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Andreja_Peji%C4%87_at_Galore_Pop-up_party_%282013%29_%28cropped%29.jpg/116px-Andreja_Peji%C4%87_at_Galore_Pop-up_party_%282013%29_%28cropped%29.jpg "安德烈雅·佩伊奇（1991–）性别气质雌雄莫辨的澳洲跨性别女性模特")    
     [安德烈雅·佩伊奇](/zh-sg/articles/%E5%AE%89%E5%BE%B7%E7%83%88%E9%9B%85%C2%B7%E4%BD%A9%E4%BC%8A%E5%A5%87 "安德烈雅·佩伊奇")（1991–）[性别气质](/zh-sg/articles/%E6%80%A7%E5%88%A5%E6%B0%A3%E8%B3%AA "性别气质")雌雄莫辨的澳洲[跨性别女性](/zh-sg/articles/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7 "跨性别女性")[模特](/zh-sg/articles/%E6%A8%A1%E7%89%B9 "模特")
 
-## 延伸阅读
+## 延伸阅读 { data-search-exclude }
 
 - Robert Aldrich; Garry Wotherspoon. [Who's who in Gay and Lesbian History: From Antiquity to World War II](//books.google.com.tw/books?id=zLWTqBmifh0C&hl=zh-TW&source=gbs_navlinks_s). Psychology Press. 2002 \[2015-10-09\]. [ISBN 9780415159838](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780415159838?oldformat=true "Special:网络书源/9780415159838"). （原始内容[存档](//web.archive.org/web/20190822231428/https://books.google.com.tw/books?id=zLWTqBmifh0C&hl=zh-TW&source=gbs_navlinks_s)于2019-08-22）。
 - Robert Aldrich; Garry Wotherspoon. [Who's who in Contemporary Gay and Lesbian History: From World War II to the Present Day](//books.google.com.tw/books/about/Who_s_who_in_Contemporary_Gay_and_Lesbia.html?id=zHCOboO86eAC&redir_esc=y). Psychology Press. 2002 \[2015-10-08\]. [ISBN 9780415291613](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9780415291613?oldformat=true "Special:网络书源/9780415291613"). （原始内容[存档](//web.archive.org/web/20190824211812/https://books.google.com.tw/books/about/Who_s_who_in_Contemporary_Gay_and_Lesbia.html?id=zHCOboO86eAC&redir_esc=y)于2019-08-24）。
 - Keith Stern. [Queers in History: The Comprehensive Encyclopedia of Historical Gays, Lesbians and Bisexuals](//books.google.com.tw/books?id=TF0Y4uACdMkC&hl=zh-TW&source=gbs_book_other_versions). BenBella Books. 2013 \[2015-10-09\]. [ISBN 9781935251835](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9781935251835?oldformat=true "Special:网络书源/9781935251835"). （原始内容[存档](//web.archive.org/web/20190818202822/https://books.google.com.tw/books?id=TF0Y4uACdMkC&hl=zh-TW&source=gbs_book_other_versions)于2019-08-18）。
 - Rictor Norton. [Lists of Famous Homosexuals](http://rictornorton.co.uk/famous.htm). 2004 \[2015-10-09\]. （原始内容[存档](//web.archive.org/web/20210125132044/http://rictornorton.co.uk/famous.htm)于2021-01-25）。
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
-## 外部链接
+## 外部链接 { data-search-exclude }
 
 ![LGBT群体的聚集居住区域](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Villagegai.jpg/180px-Villagegai.jpg)  
 [同志村](/zh-sg/articles/同志村)
@@ -83,3 +86,29 @@ LGBT人物列表的收录准则为：
 ![彩虹族群](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/180px-Gay_Pride_Flag.svg.png)  
 [LGBT](/zh-sg/articles/LGBT)
 <!-- tcd_original_link https://www.wikiwand.com/zh-sg/articles/LGBT%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBT人物列表_-_Wikiwand.md                             |
+| Size            | 15332 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,4 +1,7 @@
-本文由第三方AI基于财新文章[https://a.caixin.com/Tc3X3lMa](https://a.caixin.com/Tc3X3lMa)提炼总结而成，可能与原文真实意图存在偏差。不代表财新观点和立场。推荐点击链接阅读原文细致比对和校验。
+# 本文由第三方AI基于财新文章[https://a.caixin.com/Tc3X3lMa](https://a.caixin.com/Tc3X3lMa)提炼总结而成，可能与原文真实意图存在偏差。不代表财新观点和立场。推荐点击链接阅读原文细致比对和校验。
+
+## 正文 { data-search-exclude }
+
 
 # 联合国的第一份“中国同志报告”
 
@@ -11,7 +14,7 @@
 
 报告指出，中国法律政策缺乏对LGBT群体权利的保护，社会对该群体的态度仍以负面为主。
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 
 - [【财新周刊】三个LGBT的故事](http://magazine.caixin.com/2014-05-16/100678193.html?sourceEntityId=100717388)
 - [报告呼吁为“同志”营造共融工作环境](http://china.caixin.com/2013-09-27/100587376.html?sourceEntityId=100717388)
@@ -45,3 +48,29 @@
 
 财新网所刊载内容之知识产权为财新传媒及/或相关权利人专属所有或持有。未经许可，禁止进行转载、摘编、复制及建立镜像等任何使用。
 <!-- tcd_original_link https://international.caixin.com/2014-08-15/100717388.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | international_联合国的第一份“中国同志报告”_-_Caixin.md                             |
+| Size            | 3366 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

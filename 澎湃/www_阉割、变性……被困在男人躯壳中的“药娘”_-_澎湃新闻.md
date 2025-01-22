@@ -1,5 +1,8 @@
 # 阉割、变性……被困在男人躯壳中的“药娘”
 
+## 正文 { data-search-exclude }
+
+
 ![](https://image.thepaper.cn/publish/interaction/image/3/757/136.jpg)
 
 原创 明月 有来医生 收录于话题 #硬核干货 ,12个
@@ -158,3 +161,29 @@
 
 本文为澎湃号作者或机构在澎湃新闻上传并发布，仅代表该作者或机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。
 <!-- tcd_original_link https://www.thepaper.cn/newsDetail_forward_14338990 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了跨性别女性（通常被称为“药娘”）在生理性别与性别认同之间存在的巨大鸿沟和所承受的心理与生理痛苦。文章通过实际案例，描绘了药娘们为了逼近她们期望的女性外形所采取的药物治疗，指出了药物使用的风险和可能带来的健康问题。同时，文中提及了她们所面临的社会歧视、家庭暴力、校园欺凌等困境，以及她们为追求自我身份而面临的艰辛选择。最后，强调社会和家庭的理解和支持对于跨性别者的重要性，期望未来能有更多的包容与接纳。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_阉割、变性……被困在男人躯壳中的“药娘”_-_澎湃新闻.md                             |
+| Size            | 7760 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 药娘, 跨性别女性, 性别认同, 社会歧视, 药物治疗, 激素类药物, 家庭暴力, 心理健康, 群体现状调查, 社会包容                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

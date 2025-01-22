@@ -1,12 +1,15 @@
 # 性发育异常概述
 
+## 正文 { data-search-exclude }
+
+
 ![性发育异常](https://cdn.pmphai.com/resource/file/59259774792192001650527936296/b50863b2aacd47f59cadcfd79e30bb1a.jpg)
 
-## 概述
+## 概述 { data-search-exclude }
 
 性发育异常既往习惯于按真假两性畸形分类。真假两性畸形的分类法是由于当时的诊断方法有限，只得以性腺病理为基础进行分类。由于近年来对性发育异常的认识有了很大的进展，目前临床所见性发育异常病因种类繁多，真假两性畸形分类已不足以反映目前临床所见的各种类型。临床医生对假两性畸形，尤其是对男性假两性畸形十分困惑，影响诊断与处理。因此需要制订一个更为科学与实用的分类法，作为临床诊断的基础，并指导基础研究的方向和科研途径。国际上目前尚无统一的分类法。
 
-## 类型
+## 类型 { data-search-exclude }
 
 1. **染色体性别（核性别）**
    - 男性46，XY，女性46，XX。
@@ -42,21 +45,21 @@
 | 2    | 性腺发育异常  |
 | 3    | 性激素异常    |
 
-## 作者
+## 作者 { data-search-exclude }
 
 田秦杰; 葛秦生
 
-## 来源
+## 来源 { data-search-exclude }
 
 中华妇产科学（临床版）,第1版,978-7-117-11968-9
 
-## 评论
+## 评论 { data-search-exclude }
 
 发表评论
 
 [查看更多评论](javascript:moreComment();)
 
-## 相关疾病
+## 相关疾病 { data-search-exclude }
 
 - [家族性双侧囊性肾发育异常](https://www.example.com)
 - [先天性骨性鼻泪管发育异常](https://www.example.com)
@@ -64,7 +67,7 @@
 - [乳房发育异常](https://www.example.com)
 - [肺发育异常](https://www.example.com)
 
-## 相关病例
+## 相关病例 { data-search-exclude }
 
 - [病例 门静脉海绵样变性，先天性门静脉发育异常可能](https://www.example.com)
 - [病例 肺动脉纤维肌性结构发育不良](https://www.example.com)
@@ -72,7 +75,33 @@
 - [病例 遗传性对称性色素异常症](https://www.example.com)
 - [精神发育迟滞](https://www.example.com)
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 © 2021 人民卫生出版集团 北京人卫智数科技有限公司 　[京ICP备：19054460号](https://beian.miit.gov.cn/) [京公网安备 11010502039674号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502039674)
 <!-- tcd_original_link https://ccdas.pmphai.com/appdisease/toPcDetail?sessionId=&knowledgeLibPrefix=disease&id=14348 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ccdas_性发育异常_-_疾病详情-疾病-人卫临床助手-人民卫生出版社.md                             |
+| Size            | 4400 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

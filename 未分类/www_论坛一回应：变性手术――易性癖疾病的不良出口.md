@@ -1,5 +1,8 @@
 # 变性手术——易性癖疾病的不良出口
 
+## 正文 { data-search-exclude }
+
+
 **来源：论坛一回应**
 
 **作者：代颖**
@@ -42,3 +45,29 @@
 © 2009-2025 吉林大学理论法学研究中心版权所有 请勿侵权  
 地址: 中国吉林省长春市前进大街2699号吉林大学理论法学研究中心 邮编: 130012 教师电话：0431-85166329
 <!-- tcd_original_link https://www.legal-theory.org/?mod=info&act=view&id=756 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_论坛一回应：变性手术――易性癖疾病的不良出口.md                             |
+| Size            | 5868 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

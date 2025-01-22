@@ -1,5 +1,8 @@
 # love is love（男孩别哭）影评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u1219202-17.jpg)
 
 两三年前，听说了一部电影，叫《男孩不哭》，留心了，是因为这个男孩其实是女孩。这不能说是一部有关于同性恋的电影，因为主角Brandon更倾向于有易性癖。上帝给了他女孩的身体，和男孩的内心。上午下载完，下午看。主演Hilary Swank在今年的奥斯卡上凭借《百万宝贝》再度封后，想必会有许多中国人才知道，当年的她，曾凭借着Brandon Teena一角勇摘桂冠。一个女演员，扮演了一个喜欢扮成男人的女孩，然后成为了奥斯卡影后。性别有时候，仅仅是有时候，只是一个符号而已。
@@ -145,3 +148,29 @@ Brandon一出场就是一个男孩形象，剪了短碎的头发，束胸后穿�
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/1064187/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文是对电影《男孩别哭》的深刻影评，探讨了性别认同和爱情的复杂关系。影片讲述了Brandon Teena的真实故事，他是一位出生为女性、却认同为男性的跨性别者。在片中，Brandon的性别认同和情感生活表现了社会对跨性别者的压迫和偏见。文章中提到，尽管Brandon在生理上是女性，但他的内心世界和感情追求让他与Lana之间存在着深厚而无条件的爱情。结尾处，随着Brandon的悲剧结局，影片不仅揭示了个人认同的困境，同时也拷问了社会的道德与法律对个体的束缚。文章通过对电影情节的分析以及对角色情感的剖析，展现了对爱与痛苦的深刻理解，并引发读者思考性别和爱的真正意义。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_love_is_love_-_男孩别哭-_豆瓣.md                             |
+| Size            | 13501 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 豆瓣用户                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 跨性别, 电影评论, 性别认同, 爱情, 社会偏见, 人权, 暴力事件, 人物分析, 生命故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

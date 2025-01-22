@@ -1,6 +1,9 @@
 # 首位跨性别的总理？泰国性多样团体参与大选
 
-## 泰国党派候选人Pauline Ngarmpring希望自己可以成为第一位当选总理的跨性别人士，鼓励更多来自性多样社区(LGBT)及边缘社区的人士参政。
+## 正文 { data-search-exclude }
+
+
+## 泰国党派候选人Pauline Ngarmpring希望自己可以成为第一位当选总理的跨性别人士，鼓励更多来自性多样社区(LGBT)及边缘社区的人士参政。 { data-search-exclude }
 
 ![Pauline Ngarmpring, LGBT candidate for Thai PM](https://images.sbs.com.au/dims4/default/7ce7051/2147483647/strip/true/crop/1280x720+0+64/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2F469106ad-cd61-4aed-af4a-1b1897ea4d1a_1550213855.jpeg&imwidth=1280)
 
@@ -40,3 +43,29 @@ Pauline在去年11月才宣布加入Mahachon党，现在她在总理候选人中
 
 **注册SBS中文newsletter即可获取最新资讯**
 <!-- tcd_original_link https://www.sbs.com.au/language/chinese/zh-hans/article/we-are-equal-thai-party-candidate-aims-to-be-first-transgender-prime-minister/s3zng5uox -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_首位跨性别的总理？泰国性多样团体参与大选_SBS_Chinese.md                             |
+| Size            | 2873 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

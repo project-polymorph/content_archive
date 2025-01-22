@@ -1,5 +1,8 @@
 # 请不要用胸和下体来定义我的性别（女孩）影评
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 首发于公众号“影探”ID：ttyingtan  
@@ -14,7 +17,7 @@
 
 香蕉姐今天要推荐的这部电影就为跨性别者的生存现状撕开了一道口子：
 
-## 《女孩》
+## 《女孩》 { data-search-exclude }
 
 ![](https://img9.doubanio.com/view/thing_review/l/public/p2471064.webp)
 
@@ -192,3 +195,29 @@ Lara的回答让香蕉姐很感动：我不想成为一个榜样，只想成为�
 
 来源链接：[女孩](https://movie.douban.com/subject/30194769/)
 <!-- tcd_original_link https://m.douban.com/movie/review/9972070/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评围绕跨性别者生存现状展开，以电影《女孩》为线索，深入探讨了跨性别者在社会中面临的种种困境和内心挣扎。影评提到一项2012年的调查，显示在亚太地区约有0.3%的成年人口是跨性别者，而在中国大陆，认为自己生错了身体、想要变成另一性别的人数至少有400万。文章中详细讲述了电影《女孩》的情节，主角Lara是一名心理性别为女性的跨性别少女，正经历着青春期的身体转型与自我认同的痛苦。影片描绘了她在芭蕾舞学院的努力、与同龄人交往时的羞涩与不安，以及在对自身身份接受过程中所经历的挑战。通过Lara的故事，影评揭示了跨性别者在成长过程中需要面对的心理压力和社会偏见，表现出跨性别者渴望被认同的简单却困难的愿望。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_请不要用胸和下体来定义我的性别_-_豆瓣.md                             |
+| Size            | 13121 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 香蕉姐                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 女性, 心理认同, 努力, 青春期, 芭蕾舞, 社会偏见, 生存现状, 电影影评, 自我认同                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 荷兰小姐选出首个跨性别冠军，将角逐环球小姐
 
+## 正文 { data-search-exclude }
+
+
 撰文：_乔宏明_  
 时间：2023年7月13日  
 内容来源：周末画报  
@@ -54,3 +57,29 @@
 
 **iWeekly周末画报独家稿件，未经许可，请勿转载**
 <!-- tcd_original_link http://www.modernweekly.com/hots/39959 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_荷兰小姐选出首个跨性别冠军，将角逐环球小姐-_周末画报.md                             |
+| Size            | 6134 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,8 +1,11 @@
 # 跨性别医学服务
 
+## 正文 { data-search-exclude }
+
+
 亚博打鱼UCONN健康组织坚决致力于向变性人和性别不兼容社区成员提供全方位综合服务服务提供商欢迎有机会与你合作,在安全支持环境实现福利亚博打鱼由学术医疗中心支持后,初级护理提供商充当你与UConn健康其他专业的联系人,并可以帮助促进个人化护理多位初级护理提供者和专家提供LGBTQIA+和变性医学服务,以满足每位病人的个人需求
 
-## 性别确认荷蒙治疗
+## 性别确认荷蒙治疗 { data-search-exclude }
 
 很高兴有Dr.Pooja Luthra和Britta亚博打鱼shute,FNP-BC,UCONN卫生局内分泌学导导理疗院位于法明顿校园内,可调用电话预约**[860-679-3245](tel:860-679-3245)**.
 
@@ -10,7 +13,7 @@
 
 [布列塔shute,FNP-BC](//m.productshows.com/find-a-provider/physician/Shute-Britta)跨性别荷尔蒙理疗
 
-## 性别确认外科/附加治疗
+## 性别确认外科/附加治疗 { data-search-exclude }
 
 许多人在性别特征谱上除了真实安全风险和骚扰外还遭遇社会、就业、经济和住房歧视,这些风险和骚扰与明显识别为性别变异有关。可惜荷尔蒙处理往往达不到提供结构改变的必要用以减轻性别不相容症状亚博打鱼UCONN健康服务提供商提供一系列服务,确认性别特征超出荷尔蒙替换
 
@@ -52,7 +55,7 @@ StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-
 
 [更多了解语音咨询所](//m.productshows.com/otolaryngology/services/voice-and-speech-clinic/)
 
-## 资源类
+## 资源类 { data-search-exclude }
 
 [UConn](javascript:void\(0\);) _扩展_
 
@@ -102,3 +105,29 @@ StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-
 -   [病人和访客泊车](//m.productshows.com/park/patient-and-visitor/)
 -   [取住院外科巡回](https://youtu.be/TjN04B7J-dU)
 <!-- tcd_original_link https://m.productshows.com/patient-services/transgender-medicine-services -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_亚博打鱼跨性别医学服务.md                             |
+| Size            | 6652 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

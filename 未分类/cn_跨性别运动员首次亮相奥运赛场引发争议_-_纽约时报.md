@@ -1,5 +1,8 @@
 # 跨性别运动员首次亮相奥运赛场引发争议
 
+## 正文 { data-search-exclude }
+
+
 ### 来源
 - 纽约时报中文网
 - 作者：TARIQ PANJA, KEN BELSON
@@ -89,3 +92,29 @@
     - 时间：2021年4月13日
     - ![奥运会还应该继续存在吗？](https://static01.nyt.com/images/2021/04/12/sports/12streeter-sot2-print/12streeter-sot-tokyo-thumbLarge.jpg)
 <!-- tcd_original_link https://cn.nytimes.com/culture/20210802/laurel-hubbard-trans-weight-lifting/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_跨性别运动员首次亮相奥运赛场引发争议_-_纽约时报.md                             |
+| Size            | 11891 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

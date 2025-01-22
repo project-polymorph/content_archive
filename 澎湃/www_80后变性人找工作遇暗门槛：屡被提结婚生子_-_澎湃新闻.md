@@ -1,5 +1,8 @@
 # 80后变性人找工作遇暗门槛：屡被提结婚生子
 
+## 正文 { data-search-exclude }
+
+
 ![80后变性人找工作遇暗门槛：屡被提结婚生子](https://imagecloud.thepaper.cn/thepaper/image/70/260/250.jpg)
 
 **时间**：2020-06-02 07:48  
@@ -14,7 +17,7 @@
 
 [#变性人](https://tag.thepaper.cn/tag/83512) [#平等就业权](https://tag.thepaper.cn/tag/2637813)
 
-## 评论
+## 评论 { data-search-exclude }
 1. **无心睡眠Y**  
    被问这些不正常吗？自己心态不正  
    2020-06-02 ∙ 未知  
@@ -64,3 +67,29 @@
 
 **版权**：© 2014-2025 上海东方报业有限公司
 <!-- tcd_original_link https://www.thepaper.cn/newsDetail_forward_7652487 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章来自澎湃新闻，讲述了80后变性人在求职过程中遭遇的困难，特别是与性别相关的隐性门槛。故事的中心是小马，一个经历变性的个体，她在求职中多次遇到因性别问题而导致的歧视和障碍。文章中提到，全国首例跨性别者平等就业权纠纷案的二审在杭州市中级人民法院举行，这一案件引发了公众对跨性别者在就业市场中所面临困境的关注。小马的经历不仅反映了个人的遭遇，同时也揭示了社会对变性群体的普遍偏见。在评论区，网民们对此事发表了不同的看法，表达了对变性人求职难题的同情，以及对社会性别歧视问题的讨论，显示出这一话题在公众讨论中的重要性与复杂性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_80后变性人找工作遇暗门槛：屡被提结婚生子_-_澎湃新闻.md                             |
+| Size            | 2635 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 何锴                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-06-02                                 |
+| Tags            | 变性人, 就业歧视, 社会现象, 跨性别者, 平等权利, 生命故事, 法律案件, 社会环境, 性别刻板印象, 公众评论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

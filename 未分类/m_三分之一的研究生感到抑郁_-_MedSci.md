@@ -1,5 +1,8 @@
 # 三分之一的研究生感到抑郁
 
+## 正文 { data-search-exclude }
+
+
 ![梅斯医学MedSci APP](https://static.medsci.cn/public-image/ms-image/416a6450-b970-11ec-a1b8-6123b3ff61ea_logo6.gif)
 
 **Tags:** [抑郁症](https://www.medsci.cn/search?q=%E6%8A%91%E9%83%81%E7%97%87)       
@@ -28,3 +31,29 @@ Evans 等人称，该研究最大的局限是，焦虑和抑郁的学生可能�
 
 **版权声明：** 本网站所有注明“来源：梅斯医学”或“来源：MedSci原创”的文字、图片和音视频资料，版权均属于梅斯医学所有，非经授权，任何媒体、网站或个人不得转载，授权转载时须注明“来源：梅斯医学”。本网所有转载文章系出于传递更多信息之目的，且明确注明来源和作者，不希望被转载的媒体或个人可与我们联系，我们将立即进行删除处理。同时转载内容不代表本站立场。
 <!-- tcd_original_link https://m.medsci.cn/article/show_article.do?id=c4d4133861e6 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_三分之一的研究生感到抑郁_-_MedSci.md                             |
+| Size            | 3191 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

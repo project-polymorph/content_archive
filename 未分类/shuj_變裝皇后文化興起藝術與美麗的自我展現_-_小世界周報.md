@@ -1,5 +1,8 @@
 # 變裝皇后文化興起 藝術與美麗的自我展現
 
+## 正文 { data-search-exclude }
+
+
 ![](http://shuj.shu.edu.tw/wp-content/uploads/2020/04/lip-sync-1.jpg)
 
 記者 陳怡璇、黃怡潔／採訪報導
@@ -116,3 +119,29 @@ Drag Queen在台灣參與Ballroom的活動照。照片提供／洪夢瑤
 
 [同志家庭沒有不一樣 性平教育從小開始教](http://shuj.shu.edu.tw/blog/2018/12/04/%E5%90%8C%E5%BF%97%E5%AE%B6%E5%BA%AD%E6%B2%92%E6%9C%89%E4%B8%8D%E4%B8%80%E6%A8%A3-%E6%80%A7%E5%B9%B3%E6%95%99%E8%82%B2%E5%BE%9E%E5%B0%8F%E9%96%8B%E5%A7%8B%E6%95%99/)
 <!-- tcd_original_link http://shuj.shu.edu.tw/blog/2020/04/27/%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%E6%96%87%E5%8C%96%E8%88%88%E8%B5%B7-%E8%97%9D%E8%A1%93%E8%88%87%E7%BE%8E%E9%BA%97%E7%9A%84%E8%87%AA%E6%88%91%E5%B1%95%E7%8F%BE/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | shuj_變裝皇后文化興起藝術與美麗的自我展現_-_小世界周報.md                             |
+| Size            | 12056 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

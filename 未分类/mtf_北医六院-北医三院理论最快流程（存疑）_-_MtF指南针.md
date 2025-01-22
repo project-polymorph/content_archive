@@ -1,5 +1,8 @@
 # 北医六院-北医三院理论最快流程（存疑） – MtF指南针
 
+## 正文 { data-search-exclude }
+
+
 #### Keywords：Trans，MtF，北医六院，丛中，冬季
 
 理论上来讲，只需要一天（12小时？）就可以拿到小证明以及药方；此流程由笔者亲身经历的流程合理推导而成。
@@ -58,3 +61,29 @@
 
 希望大家都能成为自己想成为的那个样子
 <!-- tcd_original_link https://mtf.party/2020/09/%E5%8C%97%E5%8C%BB%E5%85%AD%E9%99%A2-%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E7%90%86%E8%AE%BA%E6%9C%80%E5%BF%AB%E6%B5%81%E7%A8%8B%EF%BC%88%E5%AD%98%E7%96%91%EF%BC%89/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | mtf_北医六院-北医三院理论最快流程（存疑）_-_MtF指南针.md                             |
+| Size            | 7065 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

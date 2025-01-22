@@ -1,5 +1,8 @@
 # Gender Study
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img1.doubanio.com/view/elanor_image/raw/public/7R7TU7SP.jpg)
 
 来自: [Bye (北京)](https://www.douban.com/people/150102172/) 2020-10-13 12:44:01创建   2021-05-20 17:39:41更新
@@ -16,11 +19,11 @@
 
 ---
 
-## 标签
+## 标签 { data-search-exclude }
 
 - Gender Study
 
-## 评论
+## 评论 { data-search-exclude }
 
 2020-10-13 12:44:02 [回复](javascript: void 0;)
 
@@ -28,3 +31,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/doulist/132289994/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件为一份关于中国跨性别者面临的实际困难的研究与讨论，旨在提高对跨性别社群的理解。文章从跨性别者自身的观察出发，探讨了与国际跨性别运动的关系，特别是在涉及J.K.罗琳及其支持者对中国跨性别者现状的误解时揭示了这一群体问题的复杂性。文中包含的链接指向更多详细的信息，以便更深入了解相关问题。该文件的创建者来自北京，内容涵盖了跨性别权利方面的讨论，尝试为读者提供清晰、简明的概述。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_Gender_Study_-_豆瓣.md                             |
+| Size            | 1808 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Bye (北京)                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-10-13                                 |
+| Tags            | 跨性别, 性别研究, 中国跨性别者, 性别权利, 社会环境, 国际跨性别运动, 人权, 性别认同, 社会讨论, 生存现状                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

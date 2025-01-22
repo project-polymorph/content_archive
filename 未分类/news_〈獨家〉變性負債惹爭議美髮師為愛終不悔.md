@@ -1,5 +1,8 @@
 # 〈獨家〉變性負債惹爭議　美髮師為愛終不悔
 
+## 正文 { data-search-exclude }
+
+
 記者 [林瑋鈞](https://news.tvbs.com.tw/news/searchresult/news?search_text=林瑋鈞) [蕭應強](https://news.tvbs.com.tw/news/searchresult/news?search_text=蕭應強) 四川 報導 發佈時間：2004/03/09 18:45 最後更新時間：2016/05/16 07:06
 
 ![](https://cc.tvbs.com.tw/news2.0/img/200403/09/darialin-20040309185014.jpg)
@@ -22,3 +25,29 @@
 
 [#變性](https://news.tvbs.com.tw/news/searchresult/變性/news)
 <!-- tcd_original_link https://news.tvbs.com.tw/life/379686 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_〈獨家〉變性負債惹爭議美髮師為愛終不悔.md                             |
+| Size            | 2616 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 跨性别女性与泛性恋男性（迷恋荷尔蒙）影评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img2.doubanio.com/icon/u1824339-151.jpg)
 
 这篇影评可能有剧透
@@ -77,3 +80,29 @@ Barry表露的心声亦清楚地告诉我们，他不是一些观众定义的所
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/movie/review/3001942/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评讨论了电影《Soldier's Girl》（《迷恋荷尔蒙》）改编自真实事件，讲述了一名跨性别女性卡丽与一名美国大兵Barry之间的爱情故事。影片反映了跨性别女性在社会中的困境，尤其是在同性恋者被排斥和歧视的军队环境中，这段感情最终因社会偏见而宣告悲剧收场。影评中引用了多个社会学观点，探讨了跨性别身份与性别认同的问题，包括社会对跨性别女性的看法以及其与性别平等的关系。此外，文中提及了其他类似题材的影片，并从文化角度分析了跨性别与泛性恋概念的区分，展示了跨性别者在追求爱情中的脆弱与坚定。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别女性与泛性恋男性-_迷恋荷尔蒙_-_豆瓣.md                             |
+| Size            | 11959 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 冉笛                               |
+| Region          | 美国 / 加拿大                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 泛性恋, 迷恋荷尔蒙, 同性恋, 性别认同, 社会偏见, 爱情故事, 生存现状, 性别多元, 电影影评                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

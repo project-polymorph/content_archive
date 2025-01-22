@@ -1,5 +1,8 @@
 # 寂寞之井 短评
 
+## 正文 { data-search-exclude }
+
+
 ![寂寞之井](https://img9.doubanio.com/view/subject/s/public/s32051196.jpg)
 
 **作者:** [英国] 拉德克利夫·霍尔  
@@ -106,3 +109,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book) · [图书馆合作](https://book.douban.com/library_invitation)
 <!-- tcd_original_link https://book.douban.com/subject/30460243/comments/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《寂寞之井》是英国作家拉德克利夫·霍尔创作的一部重要小说，出版于2019年，书名源自英文原作名《The well of Loneliness》。此书深刻探讨了性别认同和社会对于同性恋情的偏见与歧视，在历史背景的映衬下，尤其是早20世纪的社会环境中，反映出女同性恋者的孤独和挣扎。读者们的评论中，许多人提到对书中人物内心世界的共鸣，以及对同性恋权利的思考。通过短评显示，书中细腻的心理描写引发了读者的情感共鸣，涉及到对爱的定义、性别角色的反思与社会对同性恋的态度变化等深层次话题。一些评论还对书中结局的解读提出了不同的看法，认为人物选择背后隐藏着复杂的社会文化因素。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | book_全部短评-_图书寂寞之井-_豆瓣.md                             |
+| Size            | 9582 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 拉德克利夫·霍尔                               |
+| Region          | 未知                               |
+| Date            | 2019-03-01                                 |
+| Tags            | 小说, 性别认同, 同性恋, 心理描写, 社会偏见, 20世纪, 女性主义, 文学作品, 孤独, 文化反思                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

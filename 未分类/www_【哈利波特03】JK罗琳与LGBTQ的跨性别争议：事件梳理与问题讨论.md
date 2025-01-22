@@ -1,5 +1,8 @@
 # JK罗琳与LGBTQ的跨性别争议：事件梳理与问题讨论
 
+## 正文 { data-search-exclude }
+
+
 这期终于和大家见面了，请大家一定配合文字时间线食用！
 
 本期来聊一聊哈利波特的作者，JK罗琳女士最近几年影响极大的一个争议。她对跨性别问题的一些发言，让罗琳被认为是恐跨性别者的激进女权/性别批判女权主义者的代表人物。罗琳在哈利波特系列中对巫师世界的描述，曾经让许多少数群体从中汲取了力量。因此，罗琳也曾经被视为一个文化icon，一个盟友。而如今，她在欧美流行文化中的形象从反歧视的进步者变成了一个TERF（排斥跨性別的激进女权主义者）。
@@ -87,3 +90,29 @@
 
 在小宇宙上收听更多精彩内容。
 <!-- tcd_original_link https://www.xiaoyuzhoufm.com/episode/625ba52d493ea2f504a55a98 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【哈利波特03】JK罗琳与LGBTQ的跨性别争议：事件梳理与问题讨论.md                             |
+| Size            | 5896 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

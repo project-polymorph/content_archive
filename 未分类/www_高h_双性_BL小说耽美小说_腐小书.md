@@ -1,10 +1,13 @@
 # 高H双性BL小说推荐
 
+## 正文 { data-search-exclude }
+
+
 ![BL小说|耽美小说_腐小书](/img/logo.png)
 
 无弹窗完本耽美小说
 
-## 当前位置： 搜索 高h 双性 的结果
+## 当前位置： 搜索 高h 双性 的结果 { data-search-exclude }
 
 ### 现代耽美
 
@@ -52,3 +55,29 @@
 
 站内所有耽美小说作品、评论均属其个人行为，不代表本站立场。联系方式：Email:fuxsw.cc@gmail.com [蜀ICP备18006704号](http://www.miibeian.gov.cn/)
 <!-- tcd_original_link http://www.jiqinw.com/plus/hsearch.php?keyword=%E9%AB%98h++%E5%8F%8C%E6%80%A7&searchtype=titlekeyword&channeltype=0&orderby=&kwtype=0&pagesize=20&typeid=0&TotalResult=76&PageNo=4 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_高h_双性_BL小说耽美小说_腐小书.md                             |
+| Size            | 3061 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

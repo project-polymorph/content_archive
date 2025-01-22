@@ -1,5 +1,8 @@
 # 第三性别档案
 
+## 正文 { data-search-exclude }
+
+
 ![第三性别](https://bkimg.cdn.bcebos.com/smart/279759ee3d6d55fbb2fb5a046e76584a20a4462377cf-bkimg-process,v_1,rw_16,rh_9,maxl_640,pad_1?x-bce-process=image/format,f_auto)
 
 “第三性别”原意指男性中的[弱势群体](https://baike.baidu.com/item/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/912753?fromModule=lemma_inlink)，现在是指[跨性别](https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644?fromModule=lemma_inlink)者、双性人、变性人等，除男女两性外的所有性别。是80年代开始提出和宣传的一个概念。
@@ -9,7 +12,7 @@
 表现形式：跨性别者、双性人、变性人等  
 主要年代：20世纪80年代
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [产生背景](#产生背景)
 2. [起源追溯](#起源追溯)
@@ -26,13 +29,13 @@
    - [泰国](#泰国)
    - [德国](#德国)
 
-## 产生背景
+## 产生背景 { data-search-exclude }
 
 第三性别没有一个公认的说法，情感学说认为第三性别是不喜欢男也不喜欢女的人，无法同这两种性别中任何一种产生爱情和性欲的第三类人。
 
 但准确来说，第三性别是指跨性别者、双性人、变性人等，除男女两性外的所有性别。科学家认为，在现代人之后可能会出现一种更为完善的新的人种。
 
-## 起源追溯
+## 起源追溯 { data-search-exclude }
 
 ![第三性别起源](https://bkimg.cdn.bcebos.com/pic/0824ab18972bd407d6ff1bcd7a899e510fb309c2?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_511)
 
@@ -42,7 +45,7 @@
 
 1993年，美国[布朗大学](https://baike.baidu.com/item/%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6/2650384?fromModule=lemma_inlink)医学教授、基因学家安妮·福斯托-斯特林提出，具有异于寻常性别特点的人不应对自己的性别硬性做出选择。她认为，从男性到女性这两种性别之间至少还应存在五种甚至更多的性别。她提出的五种性别分别是男性、偏男性(II型)、两性人(III型)、偏女性(I型)、女性。
 
-## 各国研究
+## 各国研究 { data-search-exclude }
 
 ### 英国
 
@@ -56,7 +59,7 @@
 
 美国[芝加哥大学](https://baike.baidu.com/item/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%A4%A7%E5%AD%A6/514980?fromModule=lemma_inlink)的乔纳森·普里查德认为，人类已经适应周围环境的变化，近1.5万年来出现许多新的基因，比如说那些能保证吸收[碳水化合物](https://baike.baidu.com/item/%E7%A2%B3%E6%B0%B4%E5%8C%96%E5%90%88%E7%89%A9/88328?fromModule=lemma_inlink)和脂肪酸以及消化[奶类](https://baike.baidu.com/item/%E5%A5%B6%E7%B1%BB/2718614?fromModule=lemma_inlink)的基因。
 
-## 各国对峙
+## 各国对峙 { data-search-exclude }
 
 ### 印度
 
@@ -94,7 +97,7 @@
 
 从2013年11月1日开始，德国人的[出生证](https://baike.baidu.com/item/%E5%87%BA%E7%94%9F%E8%AF%81/454014?fromModule=lemma_inlink)上除了标准的“男性”或“女性”选项外，还增加了“空白”选项。
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 - 1 [纽约将第三性别“X”加入出生证明 居民可书面申请](https://reference/1734506/533aYdO6cr3_z3kATPeDy6jzYyrEM974tr3WAOdzzqIP0XOpRovyScYh6dk-sPRoGUXIvtd1L4RFx7DnC0tY7_YPJbJmX-x6wC6uBWqDwbjk_dw1k88H-84eBA)．新浪网
 - 2 [尼泊尔将签发“第三性别”身份证](https://reference/1734506/533aYdO6cr3_z3kATP2OxfqiNX7BYNn_veXVALBzzqIP0XOpRovyScYx6N4x_7lkGwaEuZZ2ZcQbl_yjVRUUsugRce01XbcinHX_UjHA1r_h-d05mtZDvdIHBfE)．中华网
@@ -114,3 +117,29 @@
 突出贡献榜  
 [fh1130](https://usercenter/userpage?uk=tXf1kTWsRJGa4MDkFOX-Sg&from=lemma)
 <!-- tcd_original_link https://baike.baidu.com/item/%E7%AC%AC%E4%B8%89%E6%80%A7%E5%88%AB/1734506 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_第三性别_百度百科.md                             |
+| Size            | 9557 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

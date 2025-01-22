@@ -1,5 +1,8 @@
 # 泰国人妖ladyboy
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2012-02-21  
 **作者**: NELL7410  
 **来源**: 百度文库  
@@ -7,7 +10,7 @@
 
 ---
 
-## 正文
+## 正文 { data-search-exclude }
 
 ### 主要内容概述
 
@@ -41,3 +44,29 @@
 **反馈和举报**  
 如您发现文档存在问题，请反馈内容。
 <!-- tcd_original_link https://wk.baidu.com/view/f2a2ddf37c1cfad6195fa755?pcf=2&bfetype=new -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wk_泰国人妖ladyboy_百度文库.md                             |
+| Size            | 2271 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

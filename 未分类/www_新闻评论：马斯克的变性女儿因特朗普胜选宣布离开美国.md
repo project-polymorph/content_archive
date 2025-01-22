@@ -1,8 +1,11 @@
 # 马斯克的变性女儿因特朗普胜选宣布离开美国
 
+## 正文 { data-search-exclude }
+
+
 已有(13)人发表了评论
 
-## 正文
+## 正文 { data-search-exclude }
 
 马斯克的变性女儿因特朗普胜选宣布离开美国...
 
@@ -53,3 +56,29 @@
 
 Copyright © 2001-2025 海外华人中文门户：[倍可亲](http://www.backchina.com) (http://www.backchina.com) All Rights Reserved.
 <!-- tcd_original_link https://www.backchina.com/comments/20241115/news-944104-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新闻评论：马斯克的变性女儿因特朗普胜选宣布离开美国.md                             |
+| Size            | 2101 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

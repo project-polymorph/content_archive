@@ -1,5 +1,8 @@
 # 性别流动者寻找自己身份的故事
 
+## 正文 { data-search-exclude }
+
+
 “我觉得不可以只用胸来决定是男人还是女人，”她说，“性别不是二元，可以多元、流动，我就是我。” 这是一位在香港的“性别流动者”寻找自己身份的故事。 
 
 **来源**: BBC News 中文  
@@ -11,7 +14,7 @@
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 - **李俊俊**: 有一种心理上的疾病叫性别认知障碍，应该去看心理医生。你心理真的病的话，别人指出来不是歧视你，是希望你重视，赶快治好。 不过有患者自己，却说自己这样也正常，不顾他人感受，放纵自己，也不去治疗，这患者其实自己是歧视心理疾病患者的。正因为他们自己歧视心理疾病患者，所以他们才不想承认自己也是心理疾病患者。如果你不歧视心理疾病患者的话，就跟人发烧感冒一样去看医生一样，去看看心理医生也很正常。  
   - 评论时间: 5年
@@ -32,3 +35,29 @@
 
 **版权所有**: BBC News 中文
 <!-- tcd_original_link https://zh-cn.facebook.com/BBCChinese/videos/2102368816509594/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh-cn_“性别流动者”寻找自己身份的故事_-_Facebook.md                             |
+| Size            | 1961 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

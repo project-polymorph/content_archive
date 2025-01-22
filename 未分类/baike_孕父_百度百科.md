@@ -1,5 +1,8 @@
 # 孕父
 
+## 正文 { data-search-exclude }
+
+
 怀孕父亲
 
 孕父，是指“怀孕父亲”，一般是女性通过[变性手术](https://baike.baidu.com/item/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF/10957798?fromModule=lemma_inlink)成为男性后，用人工授精的方式怀孕。2008年6月，美国34岁变性人托马斯·比提通过人工授精代妻怀孕并诞下了一名女儿，成为世界第一个“怀孕父亲”。也有报道称早在1998年，德国变性男子迪伦和同性恋男友就怀孕生育了一个女儿。
@@ -14,7 +17,7 @@
 
 相关视频：查看全部
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [美国孕父](#1)
 2. [德国孕父](#2)
@@ -22,7 +25,7 @@
 4. [鲁本观点](#4)
 5. [知妈堂观点](#5)
 
-## 美国孕父
+## 美国孕父 { data-search-exclude }
 
 ![美国变性男子托马斯·比提](https://bkimg.cdn.bcebos.com/pic/0b14ad19235ba87c42a9ad7e?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_330)
 
@@ -36,7 +39,7 @@
 
 比提承认，女儿苏珊上学后可能面临同学的冷嘲热讽，但他说这不能成为不要孩子的理由：“我们要给她塑造一种坚强的性格，可以承受来自外界给她的一切压力。我们要让她认识到，多样性存在于这个世界，一定要尊重别人的选择。我认为，如果你不能对自己坦诚以待，你的生活就不完整、不真实。在这种生活状态下，你可以选择自己喜欢的人，选择自己喜欢的生活方式，包括男人怀孕。”
 
-## 德国孕父
+## 德国孕父 { data-search-exclude }
 
 美国俄勒冈州变性男子托马斯·比提怀孕的报道在全世界引起了轰动。然而，世界上第一个怀孕的男性却并非托马斯，而是一名叫做迪伦（化名）的[德国](https://baike.baidu.com/item/%E5%BE%B7%E5%9B%BD/0?fromModule=lemma_inlink)40岁变性男子，早在1998年，“由女变男”的迪伦和同性恋男友已共同生育了一个女儿。迪伦不仅披露了自己当年怀孕的故事，还首次公布了自己和女儿的照片。
 
@@ -50,7 +53,7 @@
 
 乔安娜如今已经长成了一个漂亮的10岁小女孩。在她眼中，她始终有两个父亲：一个是生物学上的父亲，一个是十月怀胎生下她的父亲。乔安娜和父亲迪伦生活在一起，但她也经常去看望住址距他们约有2小时车程远的生物学父亲。迪伦说：“我对她说，我是一个能够生孩子的特殊父亲，而她也接受这一点。”
 
-## 西班牙孕父
+## 西班牙孕父 { data-search-exclude }
 
 ![鲁本·诺伊·科罗纳多](https://bkimg.cdn.bcebos.com/pic/95afee1f588332cce1fe0b40?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_613)
 
@@ -58,11 +61,11 @@
 
 在变性过程中，鲁本结识了43岁的女友艾斯帕兰扎，并与之共坠爱河。鲁本渴望和艾斯帕兰扎拥有一个属于自己的孩子。由于艾斯帕兰扎已不能再生，鲁本决定自己生一个。随后，鲁本停止接睾丸激素注射，并推迟了切除生殖器官手术。与此同时，鲁本通过人工授精，竟然怀上了一对双胞胎。如果一切顺利，鲁本有望在2009年9月底产下这对双胞胎。
 
-## 鲁本观点
+## 鲁本观点 { data-search-exclude }
 
 鲁本表示，他和女友计划在这对双胞胎出世前举行婚礼，一旦孩子出生，他将立即接受变性手术，成为一名真正的父亲。鲁本不仅是西班牙第一个“怀孕父亲”，也将是全世界首名诞下双胞胎的变性父亲。但鲁本表示，“现在或将来”都不会向媒体出售故事，但他承认自己正考虑高价出售自己怀孕的照片。[1]
 
-## 知妈堂观点
+## 知妈堂观点 { data-search-exclude }
 
 知妈堂认为“孕父”即准爸爸，在妻子怀孕的时候别以为丈夫什么都不用做，这时候爸爸是很重要的，准爸爸要学着和妈妈一起做胎教，和宝宝对话，研究证明这样子生出来的宝宝会更听话，快乐。准爸爸除了可以进行一些常见的胎教方式，比如语言胎教、抚摸胎教、音乐胎教之外，还必须格外关注准妈妈的一些情绪变化，因为妻子的情感态度会直接影响到胎宝宝的健康成长，因此一定要在生活中给予准妈妈必要的关心和呵护。
 
@@ -89,3 +92,29 @@
 
 [CD璐璐](https://usercenter/userpage?uk=tCWdSTerCrSGON9fsMpO1g&from=lemma "查看此用户资料")
 <!-- tcd_original_link https://baike.baidu.com/item/%E5%AD%95%E7%88%B6/3151183 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_孕父_百度百科.md                             |
+| Size            | 9535 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

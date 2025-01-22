@@ -1,5 +1,8 @@
 # 了解癌症预防、筛查与 LGBTQ+ 社区的五件事
 
+## 正文 { data-search-exclude }
+
+
 ![A stethoscope and rainbow ribbon sitting atop a Pride flag.](https://preventcancer.org/wp-content/uploads/2023/06/2023-6-lgbtq-medical-tips.jpg)
 
 骄傲月是对 LGBTQ+ 社区及其为争取平等而做出的承诺的庆祝。在庆祝活动中，我们还希望提高人们对增加该社区获得癌症筛查和预防机会的重要性的认识，以及许多人在寻求治疗时面临的障碍。以下是您需要做的五件事可能不知道癌症如何影响 LGBTQ+ 群体：
@@ -39,3 +42,29 @@ _这 预防癌症基金会致力于确保每个人都能获得预防服务和基
 
 ___预防癌症基金会___ [网站](https://preventcancer.org/zh)
 <!-- tcd_original_link https://preventcancer.org/zh/article/five-things-to-know-about-cancer-prevention-screening-and-the-lgbtq-community/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | preventcancer_关于癌症预防、筛查和LGBTQ+_社区的五件事.md                             |
+| Size            | 6902 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

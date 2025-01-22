@@ -1,5 +1,8 @@
 # 组图：日本屠杀海豚血腥纪实【4】
 
+## 正文 { data-search-exclude }
+
+
 ##### 2014年02月08日10:31    来源：[环球网](http://www.huanqiu.com/)
 
 ![海豚屠杀](http://www.people.com.cn/mediafile/pic/20140208/77/3111989473579232029.jpg)
@@ -22,3 +25,29 @@ _(责编：史雅乔、毕磊)_
 
 - [公益滚动](http://gongyi.people.com.cn/GB/151650/index.html)
 <!-- tcd_original_link http://gongyi.people.com.cn/n/2014/0208/c152548-24298699-4.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gongyi_组图：日本屠杀海豚血腥纪实【4】.md                             |
+| Size            | 1670 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

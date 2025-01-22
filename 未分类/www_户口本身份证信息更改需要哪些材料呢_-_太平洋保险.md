@@ -1,12 +1,15 @@
 # 户口本身份证信息更改需要哪些材料呢?
 
+## 正文 { data-search-exclude }
+
+
 **来源：中国太平洋保险（集团）股份有限公司官网**  
 **日期：2021-02-09**  
 **标签：户口本身份证信息有误, 证明材料**
 
 身份证或者户口本在登记的时候如果出现输入错误，持有人想要更改了姓名和性别等，都需要及时去当地派出所办理户口本和身份证的信息的更改。那么户口本身份证信息更改又需要哪些材料呢?更改办理流程是怎么样的呢?下文为大家详细介绍。
 
-## 户口本身份证信息有误更改流程、材料
+## 户口本身份证信息有误更改流程、材料 { data-search-exclude }
 
 ### 一、姓名更改了怎么办理?
 
@@ -68,3 +71,29 @@
 
 *本资料所载内容仅供您更好地理解保险知识之用；您所购买的产品保险利益等内容以保险合同载明为准。
 <!-- tcd_original_link https://www.cpic.com.cn/c/2021-02-09/1619176.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_户口本身份证信息更改需要哪些材料呢_-_太平洋保险.md                             |
+| Size            | 5466 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

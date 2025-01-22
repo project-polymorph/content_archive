@@ -1,5 +1,8 @@
 # E410.「人妖」李二毛的一生
 
+## 正文 { data-search-exclude }
+
+
 [故事FM](https://podcasts.apple.com/fr/podcast/%E6%95%85%E4%BA%8Bfm/id1256399960)
 
 ![故事FM](/assets/artwork/1x1.gif)
@@ -47,3 +50,29 @@
 
 内容可能在您的国家或地区无法在网页上播放。
 <!-- tcd_original_link https://podcasts.apple.com/fr/podcast/e410-%E4%BA%BA%E5%A6%96-%E6%9D%8E%E4%BA%8C%E6%AF%9B%E7%9A%84%E4%B8%80%E7%94%9F/id1256399960?i=1000490903720 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_E410.「人妖」李二毛的一生‑_故事FM_-_Apple_Podcasts.md                             |
+| Size            | 2078 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

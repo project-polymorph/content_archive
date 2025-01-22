@@ -1,5 +1,8 @@
 # 变性人是什么意思
 
+## 正文 { data-search-exclude }
+
+
 ![变性人是什么意思](https://count.pcbaby.com.cn/count.php?__uuid=000035088:1.0:cms&channel=3423&screen=800*600&refer=&anticache=1736841759695&url=https%3A%2F%2Fbaike.pcbaby.com.cn%2Fyycs%2F1603%2F2817028.html&from=cms&customInformation=&cookieEnable=true&gmvshows=&iframeCode=0)
 
 **出处**：[PCbaby](//baike.pcbaby.com.cn/yycs/1603/2817028.html)  
@@ -10,7 +13,7 @@
 
 ---
 
-## 变性人是什么意思
+## 变性人是什么意思 { data-search-exclude }
 
 相信不少人听到变性人都很陌生，也不知道我们所说的变性人什么意思。但是去过泰国的人，十有八九都知道，变性人其实就是通过手术，改变一个人性别，也改变了他的一生。那么，我们所说的变性人和人妖有区别吗？
 
@@ -64,3 +67,29 @@
 
 未经授权禁止转载、摘编、复制或建立镜像，如有违反，追究法律责任。
 <!-- tcd_original_link https://baike.pcbaby.com.cn/yycs/1603/2817028.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_变性人是什么意思_-_亲子百科.md                             |
+| Size            | 5195 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 美国或迎来首位变性女州长：她2年前变性 曾是CEO
 
+## 正文 { data-search-exclude }
+
+
 ![首 页](http://www.rmzxb.com.cn/images/logo.png)
 
 2018年08月17日 15:51 | 来源：[封面新闻-华西都市报](http://www.baidu.com/baidu?word=封面新闻-华西都市报) 
@@ -12,7 +15,7 @@
 
 ![美国或迎来首位变性女州长：她2年前变性 曾是CEO](/upload/resources/image/2018/08/17/2176751_600x450.jpg)
 
-## 成功赢得初选 目标是改善经济
+## 成功赢得初选 目标是改善经济 { data-search-exclude }
 
 在初选当日，62岁的克里斯蒂娜赢得民主党初选，击败了其他3名提名候选人，环保学家詹姆斯·埃勒斯、舞蹈节组织者布伦达·西格尔和民主党最年轻的候选人、14岁的学生伊桑·索内伯恩。
 
@@ -30,7 +33,7 @@
 
 ![美国或迎来首位变性女州长：她2年前变性 曾是CEO](/upload/resources/image/2018/08/17/2176755_600x450.jpg)
 
-## 曾是企业CEO 两年多前变性
+## 曾是企业CEO 两年多前变性 { data-search-exclude }
 
 克里斯蒂娜在美国纽约北部长大，小时候就喜欢偷偷地在衣橱里收集女人的衣服。1976年，她搬到佛蒙特州，开始了工程学的职业生涯。1998年，她加入佛蒙特电力合作公司，并于2005年成为首席执行官（CEO）。
 
@@ -42,7 +45,7 @@
 
 ![美国或迎来首位变性女州长：她2年前变性 曾是CEO](/upload/resources/image/2018/08/17/2176757_600x450.jpg)
 
-## 相关延伸
+## 相关延伸 { data-search-exclude }
 
 美国跨性别候选人 竞选公职数量创新高
 
@@ -64,3 +67,29 @@
 
 本网站所刊登的新闻、信息和各种专题专栏资料，未经协议授权，不得使用或转载
 <!-- tcd_original_link http://www.rmzxb.com.cn/c/2018-08-17/2144807.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美国或迎来首位变性女州长：她2年前变性曾是CEO_-_人民政协网.md                             |
+| Size            | 5122 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

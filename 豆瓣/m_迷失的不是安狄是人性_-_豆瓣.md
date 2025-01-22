@@ -1,5 +1,8 @@
 # 迷失的不是安狄是人性（迷失安狄）影评
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 电影想要展现和揭露社会边缘人的压抑生活，主角evon是变性人，苏荷算是黑户，阿德是残障人士，都是底层人士，却各有各的不幸经历。
@@ -26,7 +29,7 @@ evon为了变性，为了成为自己，失去了建构多年的稳定生活，�
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 [![jo](https://img2.doubanio.com/icon/up4080366-1.jpg)](https://www.douban.com/people/liujojo/)  
 **[jo](https://www.douban.com/people/4080366)** 2022-03-24 23:44:19  
@@ -46,7 +49,7 @@ evon为了变性，为了成为自己，失去了建构多年的稳定生活，�
 
 ---
 
-## 相关信息
+## 相关信息 { data-search-exclude }
 
 - **导演:** 陈立谦
 - **主演:** 李李仁 / 林心如 / 陈泽耀
@@ -56,3 +59,29 @@ evon为了变性，为了成为自己，失去了建构多年的稳定生活，�
 
 [![迷失安狄](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2585101276.webp)](https://movie.douban.com/subject/30334960/)
 <!-- tcd_original_link https://m.douban.com/movie/review/14122149/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评讨论了电影《迷失安狄》的主题和角色，着重分析了主角evon作为变性人所面临的生活困境。影评指出，evon为了变性而失去自己的稳定生活，经历了被误解与歧视的艰辛，这反映出社会对变性人的偏见和歧视。影片不仅关注evon的性别身份转变，还展现了她与其他底层人士的相遇，包括黑户苏荷和残障人士阿德，三人之间的故事揭示了社会的严酷和人性的复杂。影评人认为，虽然电影对边缘人的表现很用心，但在某些情节上还是显得有些牵强，比如婚礼后的父女对话等，影评人希望看到更积极的结局，同时对于互害情节感到遗憾。综合来说，这篇影评深刻剖析了变性人群体的生存现状，呼吁社会对他们更多的理解与包容。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_迷失的不是安狄是人性_-_豆瓣.md                             |
+| Size            | 4338 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | jo                               |
+| Region          | 马来西亚 / 中国台湾                               |
+| Date            | 2022-03-24                                 |
+| Tags            | 电影影评, 变性人, 社会边缘人, 生活故事, 人性探讨, 情感表达, 社会问题, 性别认同, 电影分析, 文化评论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

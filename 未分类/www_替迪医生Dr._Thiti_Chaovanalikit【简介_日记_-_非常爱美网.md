@@ -1,8 +1,11 @@
 # 替迪医生Dr. Thiti Chaovanalikit
 
+## 正文 { data-search-exclude }
+
+
 ![泰国康民医院整形外科-替迪医生Dr. Thiti Chaovanalikit](https://img.verym.com/uploadfile/hospital/doctor/1583733222.jpg)
 
-## 任职医院
+## 任职医院 { data-search-exclude }
 
 [![泰国康民医院整形外科](https://img.verym.com/uploadfile/hospital/exterior/1583724590.jpg)](/yiyuan/1172/)
 
@@ -10,12 +13,12 @@
 
 简介：康民医院（Bumrungrad International Hospital）成立于1980年，医院位于世界大都会、享有“天使之城”美誉的泰国曼谷市中心。详细地...[\[详细\]](/yiyuan/1172/)
 
-## 替迪医生基本信息
+## 替迪医生基本信息 { data-search-exclude }
 
 - 医生职位：院长
 - 擅长项目：颧骨颧弓、下巴整形、两颚、隆鼻、双眼皮、男性私密
 
-## 个人履历
+## 个人履历 { data-search-exclude }
 
 **泰国康明医院整形外科Dr. Thiti Chaovanalikit（替迪医生）：**
 
@@ -51,7 +54,7 @@
 - 结肠移植手术：8万元左右
 - 皮瓣手术：7万元左右
 
-## 评价(已有1人点评)
+## 评价(已有1人点评) { data-search-exclude }
 
 [发表评论](javascript:;)
 
@@ -73,7 +76,7 @@
         
         你好~如果对内容有任何疑问 [点击这里](javascript:void(0);)
 
-## 版权和联系方式
+## 版权和联系方式 { data-search-exclude }
 
 Copyright © 2008-2025 非常爱美®
 
@@ -83,3 +86,29 @@ Copyright © 2008-2025 非常爱美®
 
 ![韩国整容预约服务美国咨询热线：+17738886300](/statics/zs/img/footer_guowai.png)
 <!-- tcd_original_link http://www.verym.com/zhuanjia/10683.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_替迪医生Dr._Thiti_Chaovanalikit【简介_日记_-_非常爱美网.md                             |
+| Size            | 3225 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 芭堤雅 阿尔克萨人妖秀 ALCAZAR Cabaret
 
+## 正文 { data-search-exclude }
+
+
 ![ALCAZAR Cabaret 1](https://taotailangthai.com/wp-content/uploads/2019/05/ttl-alcaza-04.jpg)
 ![ALCAZAR Cabaret 2](https://taotailangthai.com/wp-content/uploads/2019/05/ttl-alcaza-05.jpg)
 ![ALCAZAR Cabaret 3](https://taotailangthai.com/wp-content/uploads/2019/05/ttl-alcaza-01.jpg)
@@ -7,10 +10,10 @@
 
 **价格**: ฿450 – ฿880
 
-## 座位选择
+## 座位选择 { data-search-exclude }
 - 贵宾席 VIP
 
-## 演出时间选择
+## 演出时间选择 { data-search-exclude }
 - 17:00
 - 18:30
 - 20:00
@@ -70,7 +73,7 @@
 
 ---
 
-## 评价
+## 评价 { data-search-exclude }
 
 目前还没有评价
 
@@ -80,3 +83,29 @@
 
 © Taotailang Thailand **淘泰朗**
 <!-- tcd_original_link https://taotailangthai.com/product/alcazar-cabaret-ticket/?lang=zh-hans -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | taotailangthai_芭堤雅阿尔克萨人妖秀ALCAZAR_Cabaret__淘泰朗泰国旅游与包车服务.md                             |
+| Size            | 3170 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

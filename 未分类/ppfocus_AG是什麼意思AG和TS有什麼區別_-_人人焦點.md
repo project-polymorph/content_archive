@@ -1,5 +1,8 @@
 # AG是什麼意思?AG和TS有什麼區別?
 
+## 正文 { data-search-exclude }
+
+
 **日期**: 2021-03-02  
 **作者**: 偽娘  
 
@@ -28,7 +31,7 @@ AG 全稱Autogynephilia，這一概念由一位加拿大性學家RAY提出。臺
 
 **這就解釋了，為什麼有些姐妹即使變性之後還是喜歡女人，並且找拉拉（LES）作為伴侶。**所以，小偽告訴你AG不等同TS。至於AG是否需要變性，這個取決於他個人的狀態了。就像剛才說的，有些人覺得成功，有些人覺得變性失敗一樣。
 
-## 相關焦點
+## 相關焦點 { data-search-exclude }
 
 -   [工資一發,ag回家!kpl春季賽冠軍得主已誕生,這次的榮光屬於ts](/0/fa8187cfa.html)
 -   [非要坐實「萬年老二」的稱謂,AG五次亞軍,追平QG冠軍次數](/0/fa6da4056.html)
@@ -50,3 +53,29 @@ AG 全稱Autogynephilia，這一概念由一位加拿大性學家RAY提出。臺
 -   [TS x Dunk SB卡其配色開箱 耐克ts是代表什麼意思](/0/faa2da257.html)
 -   [AG超玩會一諾手速有多快?秒換裝僅需0.03秒,網友:學廢了](/0/fa76b360a.html)
 <!-- tcd_original_link https://ppfocus.com/0/fafecab48.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ppfocus_AG是什麼意思AG和TS有什麼區別_-_人人焦點.md                             |
+| Size            | 4892 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

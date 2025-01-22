@@ -1,4 +1,7 @@
-本文由第三方AI基于财新文章[https://a.caixin.com/cyUym9AX](https://a.caixin.com/cyUym9AX)提炼总结而成，可能与原文真实意图存在偏差。不代表财新观点和立场。推荐点击链接阅读原文细致比对和校验。
+# 本文由第三方AI基于财新文章[https://a.caixin.com/cyUym9AX](https://a.caixin.com/cyUym9AX)提炼总结而成，可能与原文真实意图存在偏差。不代表财新观点和立场。推荐点击链接阅读原文细致比对和校验。
+
+## 正文 { data-search-exclude }
+
 
 # 报告：中国跨性别群体缺乏法律保护，承受过多歧视
 
@@ -63,3 +66,29 @@
 
 财新网所刊载内容之知识产权为财新传媒及/或相关权利人专属所有或持有。未经许可，禁止进行转载、摘编、复制及建立镜像等任何使用。
 <!-- tcd_original_link https://china.caixin.com/2018-08-07/101312508.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_报告：中国跨性别群体缺乏法律保护，承受过多歧视_-_政经.md                             |
+| Size            | 3965 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

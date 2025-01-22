@@ -1,5 +1,8 @@
 # 跨性别者 知乎
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别者 知乎](https://www.toddwestmedia.com/images/47114/67c3face65360120f113d2f7341fdef7.jpg)
 
 **作者：** [没有手的猫猫虫](https://www.toddwestmedia.com/zuozhe/%E6%B2%A1%E6%9C%89%E6%89%8B%E7%9A%84%E7%8C%AB%E7%8C%AB%E8%99%AB/ "没有手的猫猫虫")
@@ -66,3 +69,29 @@ Tips:
 版权说明：本站所有小说均由根据搜索引擎转码而来，只为让更多读者欣赏，本站不保存小说内容及数据，仅作宣传展示。  
 Copyright © 2025 60小说网 
 <!-- tcd_original_link https://www.toddwestmedia.com/langshu_83310132/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别者知乎全文免费阅读_-_60小说网.md                             |
+| Size            | 6264 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 纠正上帝的错误
 
+## 正文 { data-search-exclude }
+
+
 ![书籍封面](https://pic.baike.soso.com/ugc/baikepic2/14793/20220508001202-105574822_jpeg_138_200_5852.jpg)
 
 《纠正上帝的错误》是2005年8月1日上海文艺出版社出版的图书，作者是吴兴人。
@@ -13,13 +16,13 @@
 **装帧**: 平装  
 **字数**: 267000  
 
-## 目录
+## 目录 { data-search-exclude }
 
 - 1 [内容简介](#para1)
 - 2 [作者简介](#para2)
 - 3 [目录](#para3)
 
-## 1 内容简介
+## 1 内容简介 { data-search-exclude }
 
 杂文家吴兴人涉足变性人的世界，历时15年，写成《纠正了上帝的差错》，现由上海文艺出版社出版，参加近日在上海举办的书展，颇受广大读者关注。九天书展,进场的2000本书已销售一空，成为上海文艺出版社参展的畅销书之一。新浪网已在读书频道独家连载《纠正了上帝的差错》，深受网民们关注。
 
@@ -34,11 +37,11 @@
 1. 纠正上帝的错误  
 豆瓣读书 [引用日期2017-07-19]
 
-## 2 作者简介
+## 2 作者简介 { data-search-exclude }
 
 吴兴人，本名邵传烈，杂文作家。1960年4月自上海社会科学院政治法律系毕业后，从事向往已久的新闻工作。曾任文汇报评论员、新民晚报评论员、中宣部网络局阅评员，现任上海市互联网舆论领导小姐特约专家评论员。著有专著《中国杂文史》，杂文集《昨日论语》、《走近焦点》、《求索集》等，另著有《孙中山传》、《人体艺术史》、《模特儿的文化史》、《和施耐庵的对话》等30余部著作。
 
-## 3 目录
+## 3 目录 { data-search-exclude }
 
 第一章 一个令上帝也感到困惑的问题  
 “灵魂”对“肉体”的背叛  
@@ -76,3 +79,29 @@
 - 编辑次数：_[8次]_  
 - 创建者：[亜希] 
 <!-- tcd_original_link https://baike.sogou.com/v63321288.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_纠正上帝的错误_-_搜狗百科.md                             |
+| Size            | 4162 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

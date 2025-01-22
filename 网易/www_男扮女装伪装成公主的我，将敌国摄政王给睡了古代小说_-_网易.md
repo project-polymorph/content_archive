@@ -1,5 +1,8 @@
 # 男扮女装伪装成公主的我，将敌国摄政王给睡了
 
+## 正文 { data-search-exclude }
+
+
 2023-08-23 17:14:44  
 来源: [夏阳故事会](https://www.163.com/dy/media/T1684397012963.html)  
 ![Scan me!](data:image/png;base64,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)
@@ -266,3 +269,29 @@
 
 [《购买须知》](https://www.163.com/special/0077450P/purchase_notes.html)  支付遇到问题 [提交反馈](https://www.163.com/special/0077jt/userfeedback.html)
 <!-- tcd_original_link https://www.163.com/dy/article/ICREUECD05563SUN.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男扮女装伪装成公主的我，将敌国摄政王给睡了古代小说_-_网易.md                             |
+| Size            | 12509 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

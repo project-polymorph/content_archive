@@ -1,5 +1,8 @@
 # 那个大男人怎么会有一对奶？？？
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img2.doubanio.com/icon/u2182172-21.jpg)
 
 **作者:** [范树娃](https://www.douban.com/people/JAEL/)  
@@ -70,3 +73,29 @@ MARCUS是典型的易性癖。transsexualism是一种性别认同障碍，属于
 **来源:** [豆瓣](https://www.douban.com)  
 **标签:** 多元性别, 性别认同, 性别障碍, 易性癖
 <!-- tcd_original_link https://movie.douban.com/subject/1771925/discussion/20744443/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了电影《圣歌》中的一个角色MARCUS及其性别特征，尤其是关于其拥有不寻常胸部的现象。通过评论者的互动，文章呈现了对MARCUS身份认同的探讨，涉及性别认同障碍、易性癖及相关心理及医学知识。评论者在对话中分享了他们的观点，探讨了MARCUS的身体和性别表现，评论中提到易性癖及异食癖的定义和心理背景，帮助读者理解这些复杂的性别问题及其在社会中的表现。整体上，文章通过幽默与严肃并存的语气，引发了人们对性别多样性的思考与讨论。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | movie_圣歌的讨论-_那个大男人怎么会有一对奶？？？_-_豆瓣.md                             |
+| Size            | 4431 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 范树娃                               |
+| Region          | 未知                               |
+| Date            | 2009-12-10                                 |
+| Tags            | 多元性别, 性别认同, 性别障碍, 易性癖, 异食癖, 心理健康, 医学知识, 社会讨论, 电影评论, 真实经历                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 实习医生为未成年男孩做变性手术涉嫌故意伤害
 
+## 正文 { data-search-exclude }
+
+
 2015-09-24 06:54 成都商报 编辑：夏可欣
 
 ![](./W020150924248658904997.jpg)
@@ -56,3 +59,29 @@
 
 检察官介绍，法律对进行变性手术是有明确规定的，必须年满20岁，接受多年的心理矫正仍无法转变，才有可能进行器官移植。
 <!-- tcd_original_link https://m.cnr.cn/news/20150924/t20150924_519953619.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_实习医生为未成年男孩做变性手术涉嫌故意伤害_-_央广网.md                             |
+| Size            | 5714 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

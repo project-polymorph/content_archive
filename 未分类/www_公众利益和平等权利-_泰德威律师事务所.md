@@ -1,5 +1,8 @@
 # 公众利益和平等权利
 
+## 正文 { data-search-exclude }
+
+
 **简介**
 
 公众利益和平等权利（PIER）部门专门从事以争议问题为导向的工作，如民权诉讼、歧视、LGBT（同性恋、双性恋或跨性别族群）平等权利、儿童保护和医疗事故等。我们的很多案件并非仅涉及单一争议，而是涉及数个法律问题争议，包括刑事、家事、劳动雇佣、移民以及个人破产或企业破产等多个专业领域。
@@ -41,3 +44,29 @@
 
 ![Tanner De Witt Solicitors](https://www.tannerdewitt.com/wp-content/uploads/2020/01/copy-tdw-logo-1.png?lossy=1&strip=1&webp=1)
 <!-- tcd_original_link https://www.tannerdewitt.com/zh-hans/practice-areas/public-interest-and-equal-rights/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_公众利益和平等权利-_泰德威律师事务所.md                             |
+| Size            | 4061 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

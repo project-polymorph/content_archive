@@ -1,5 +1,8 @@
 # 兔蕾斯2024年10月18日晚上直播 - Part B
 
+## 正文 { data-search-exclude }
+
+
 ![兔蕾斯](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN8XA8AAksBZG7LpHYAAAAASUVORK5CYII=)
 
 **时间**: 2024年10月18日晚上  
@@ -8,7 +11,7 @@
 **观看次数**: 58  
 **上传日期**: Nov 1, 2024  
 
-## 描述
+## 描述 { data-search-exclude }
 官方频道为兔蕾斯 (Huya Live Streamer)。兔蕾斯唯一指定授权发视频帐号。直播时间：每天晚上8点至12点左右。  
 虎牙直播间：正恒RM丶兔蕾斯  
 虎牙直播间链接: [https://tinyurl.com/yyyhqlbc](https://tinyurl.com/yyyhqlbc)  
@@ -18,11 +21,11 @@ QQ粉丝群：169891184
 新浪微博：小兔蕾斯  
 建议大家可以到直播间去看兔蕾斯，气氛会好很多，而且还能和兔蕾斯互动。  
 
-## 注释
+## 注释 { data-search-exclude }
 - 抖音账号：兔蕾斯宝宝 & 兔two酱 (Tu2jiang)  
 - 开播时间段：固定每天下午 [13:30](https://www.youtube.com/watch?v=0G7rdvIax7w&t=810s)~[16:30](https://www.youtube.com/watch?v=0G7rdvIax7w&t=990s)，和晚上 [21:30](https://www.youtube.com/watch?v=0G7rdvIax7w&t=1290s)~[00:30](https://www.youtube.com/watch?v=0G7rdvIax7w&t=30s)
 
-## 音乐
+## 音乐 { data-search-exclude }
 1. [이브, 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM](https://www.youtube.com/watch?v=dZs_cLHfnNA)
 2. [Back to Me (feat. Eneli) [StereoMadness Remix] - Vanotek](https://www.youtube.com/watch?v=OM2FAbK24NA)
 3. [Breathe on Me - Britney Spears](https://www.youtube.com/watch?v=tTxVmao5log)
@@ -32,9 +35,35 @@ QQ粉丝群：169891184
 7. [天蓝蓝 - 小卢](https://www.youtube.com/watch?v=BJbvudnPn1I)
 8. [Bingo (ASSA) - Turtles](https://www.youtube.com/watch?v=S66dYJMM0Wk)
 
-## 评论
+## 评论 { data-search-exclude }
 - 抖音账号：兔蕾斯宝宝 & 兔two酱 (Tu2jiang) 建议大家可以的话，到直播间去看兔蕾斯，气氛会好很多，而且还能和兔蕾斯互动。请到 [www.douyin.com](http://www.douyin.com) 下载客户端或直接在线看。
 
-## 版权
+## 版权 { data-search-exclude }
 “兔蕾斯”所有内容及视频均归原作者所有。请大家多多支持兔蕾斯，到直播间刷刷礼物。 有大家的支持，兔蕾斯就能作出更好的直播和视频。
 <!-- tcd_original_link https://www.youtube.com/watch?v=0G7rdvIax7w -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【兔蕾斯】2024年10月18日晚上直播-_Part_B_-_YouTube.md                             |
+| Size            | 2517 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

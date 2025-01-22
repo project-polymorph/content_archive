@@ -1,4 +1,7 @@
-## 多元性别相关医疗信息存档
+# 多元性别相关医疗信息存档
+
+## 正文 { data-search-exclude }
+
 
 ### 未成年可作变性手术？ 卫福部：癌化或适应困难才考虑
 为建置性平友善就医环境，卫福部订定「LGBT+民众医疗照护参考指引」，其中针对12至18岁未成年儿少，若有性别适应困难，经专业团队评估后可执行性别手术。卫福部次长林静仪于脸书表示，卫福部不是「公告核准...
@@ -37,3 +40,29 @@
 
 信息来源均来自 [联合新闻网](https://udn.com/news).
 <!-- tcd_original_link https://udn.com/search/tagging/2/%E6%89%8B%E8%A1%93 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | udn_手術_搜尋標籤_聯合新聞網.md                             |
+| Size            | 2134 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

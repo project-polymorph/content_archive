@@ -1,5 +1,8 @@
 # 为什么在东南亚各国，不仅人妖多，而且连“娘娘腔”也多？
 
+## 正文 { data-search-exclude }
+
+
 **作者**: [刘小顺](https://news.qq.com/omn/author/8QMW3X1c6IIZvA%3D%3D)  
 **时间**: 2023-11-30 08:36  
 **来源**: 腾讯新闻  
@@ -26,3 +29,29 @@
 **评论数**: 0  
 **版权信息**: Copyright © 1998 - 2025 Tencent. All Rights Reserved
 <!-- tcd_original_link https://news.qq.com/rain/a/20231130A018WF00 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_为什么在东南亚各国，不仅人妖多，而且连“娘娘腔”也多？-腾讯新闻.md                             |
+| Size            | 3077 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

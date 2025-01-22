@@ -1,5 +1,8 @@
 # 民政部解答：变性人怎样处理原婚姻关系
 
+## 正文 { data-search-exclude }
+
+
 ![中青在线](http://zqb.cyol.com)
 
 2003年1月17日 星期五
@@ -43,3 +46,29 @@
 
 联系方式：中青在线信息授权部 电话：010--64098058
 <!-- tcd_original_link https://zqb.cyol.com/content/2003-01/17/content_598709.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zqb_民政部解答：变性人怎样处理原婚姻关系_-_中国青年报.md                             |
+| Size            | 3282 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

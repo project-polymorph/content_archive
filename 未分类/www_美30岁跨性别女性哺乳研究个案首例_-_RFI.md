@@ -1,5 +1,8 @@
 # 美30岁跨性别女性哺乳 研究个案首例
 
+## 正文 { data-search-exclude }
+
+
 发表时间：16/02/2018 - 10:00  
 更改时间：16/02/2018 - 09:35  
 
@@ -21,3 +24,29 @@
 
 © 2018 AFP
 <!-- tcd_original_link https://www.rfi.fr/cn/contenu/20180216-%E7%BE%8E30%E5%B2%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E5%93%BA%E4%B9%B3-%E7%A0%94%E7%A9%B6%E4%B8%AA%E6%A1%88%E9%A6%96%E4%BE%8B -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美30岁跨性别女性哺乳研究个案首例_-_RFI.md                             |
+| Size            | 1647 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

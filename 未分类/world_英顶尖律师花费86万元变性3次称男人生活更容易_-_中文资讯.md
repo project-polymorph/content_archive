@@ -1,5 +1,8 @@
 # 英顶尖律师花费86万元变性3次 称男人生活更容易
 
+## 正文 { data-search-exclude }
+
+
 作者：冯煊  
 来源：环球网  
 时间：2017-04-07 10:09:10  
@@ -29,3 +32,29 @@
 [Kane](http://search.chinadaily.com.cn/searchen.jsp?searchText=Kane)  
 [性感](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E6%80%A7%E6%84%9F)  
 <!-- tcd_original_link http://world.chinadaily.com.cn/2017-04/07/content_28830978.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_英顶尖律师花费86万元变性3次称男人生活更容易_-_中文资讯.md                             |
+| Size            | 4008 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

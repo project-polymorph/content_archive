@@ -1,5 +1,8 @@
 # 芭堤雅阿卡莎人妖秀门票
 
+## 正文 { data-search-exclude }
+
+
 产品编号: PY-T-12312
 
 特别推荐
@@ -40,7 +43,7 @@
 - [同类推荐](#similar)
 - 立刻预订
 
-## 行程介绍
+## 行程介绍 { data-search-exclude }
 
 ### 产品介绍
 
@@ -67,7 +70,7 @@
 ---|---|---|---
 第1天 | [D1](#d1) |  | 行程结束 | 请参见开始/结束
 
-## 运营信息
+## 运营信息 { data-search-exclude }
 
 出发时间及地址:
 
@@ -84,15 +87,15 @@
 - 不支持退款
 - 此行程需要二次确认。由于需求量大，库存大多是同步的，但有时并非如此。我们的顾问将在现场检查实时可用性并确认座位。
 
-## 费用说明
+## 费用说明 { data-search-exclude }
 
 ### 费用中包含
 
 - 泰国芭堤雅阿卡萨人妖秀门票一张
 
-## 注意事项
+## 注意事项 { data-search-exclude }
 
-## 订购条款
+## 订购条款 { data-search-exclude }
 
 ### 重要提示
 
@@ -156,7 +159,7 @@
 
 如遇不能按时入团（如航班延误、出关遇阻、交通堵塞等），请第一时间致电出团凭证上的地接社紧急联络电话沟通，玩哪儿也将尽力协调相关事宜，但需您自行承担前往下一个集合点的费用；未通知的延迟抵达都将视为放弃全部行程，无法退款。
 
-## 常见问题
+## 常见问题 { data-search-exclude }
 
 1. 如何计算价格折扣及打折有效期？ 页面所示旅行产品均为折后最终价格，折扣有效期结束前价格有效；
 2. 积分有什么用，订购时如何抵扣现金？ 每次订购旅行产品均能获得相应订单金额的等值积分，100积分=1美金，并可在下一次订购结算时自动抵扣现金；
@@ -171,7 +174,7 @@
 11. 团上自费项目是否自愿参加，能否自带门票？ 行程中所列自选自费项目均可自愿参加，无强制消费，所有旅行团不可自带门票或城市通票游玩；
 12. 订单确认需要多久，是否可以提前购买机票？ 订单需要1-3个工作日操作预订，强烈建议等待确认后再购买机票，避免因售罄或行程调整导致交通费用损失，【即时确认】且满足出行时间的产品除外；
 
-## 同类推荐
+## 同类推荐 { data-search-exclude }
 
 ### 芭提雅玩乐
 
@@ -182,3 +185,29 @@
 
 ### Copyright © 2017 WANNAR TRAVEL INC. All Rights Reserved.
 <!-- tcd_original_link https://m.wannar.com/pattaya-alcazar-cabaret-show-tour-12312.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_芭堤雅阿卡莎人妖秀门票_-_玩哪儿.md                             |
+| Size            | 9525 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

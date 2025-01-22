@@ -1,5 +1,8 @@
 # 金星被问：做完变性手术后 和女人在一起洗澡会不会动心？
 
+## 正文 { data-search-exclude }
+
+
 文章来源: 骏年聊娱乐 于 2024-11-14 11:21:07 - 新闻取自各大新闻媒体，新闻内容并不代表本网立场！
 
 被阅读次数 12443
@@ -8,7 +11,7 @@
 
 ![动态](https://live.primis.tech/live/liveView.php?hash=ozcmPTEznXRiPTEzqzyxX2V2ZW50PTUjJaNypaZypyRcoWU9MTpmNmQ2NDElOSZ2nWRspGkurWVlVzVlPTMhMS4jJaM9MTE4NwpjJaN0YT0jJat9NDAjJax9MwplJaZcZF9jYXNmRG9gYWyhPXq3ql53ZW54qWVwnXR5LzNioSZmqWJJZD13q3phq2VhrHVyY2y0rS5wo20zZGVvqWqJozZipz1uqGyiow1BQyQyMwAyMxYyMwBapHRsZGympGkurSUlMCUlRvUlMDEyMwAyMxYyMwBxZWZuqWk0JzymQXBjPTAzp2Reqw0zpzx9NxM2OTp2NwU1Mmp0NwE3NDpmN0M3MmZCMmE3QwU0MmA3RDqCNwQmMwMjMmImNTJEMmAmMTJEMmImMTVGMmEmNDqEN0I3MmMkMmpmMwM2MmUmNDM3Mmp3RDqCNDMmMmMjN0Q3QwUmNwQmMmY0MmM0QmZFNwQ2QmYlNxU2ODMkNUE1NmRFNmA2NDQ4NxI3NTU5MmImOTp0N0Q3QwYlNwM2ODplNxY2RDY1N0Q3QwpkNwQ2NTpmNxI3NDZGNmA3RDqCNxY2QmY5NxU3NTp4N0Q3QwU4MmQmMDMjN0Q3QwU5MmImNmMlN0Q3QwY2MmE3RDqCNmI1MTU1NEE1NTQ5NDMmODY3NUEmMmQlMmA1ODMlNTI3MDYmMmM0MwpmNTx1ODZCNwp0Qmp5NDE3ODQ5NDMmODY3NUE0NmU2NxQ1OTU4NTY3MmY0NDEmRDNEN0Q3QwRDMmpmNmM0Mmt3REZFRxUzZGyunWQ9JaVmZXJJpEFxZHI9MTY5LwImMl4kMwIhMTp1JaVmZXJVQT1No3ccoGkuJTJGNS4jJTIjJTI4WDEkJTNCJTIjTGyhqXtyMwB4ODZsNwQyMwxyMwBBpHBfZVqyYxgcqCUlRwUmNl4mNvUlMCUlOEgIVE1MJTJDJTIjoGyeZSUlMEqyY2giJTI5JTIjSGVuZGkyp3NDnHJioWUyMxYkMmEhMC4jLwAyMwBTYWZupzxyMxY1MmphMmYzY3N1qWyxPTY3OGY5OTQkYwI0YmpzY29hqGVhqEZcoGVJZD0jJz1yZGyuUGkurUkcp3RJZD0jJz1yZGyuTGymqEyxPTAzZ2Rjpw0jJzqxpHJDo25mZW50PSZcp1qyUGFmp0qxpHI9MSZwY3BuPTEzY2NjYUNioaNyoaQ9MVyOTvZwYaVmqGVlPTE3Mmp0NwQkMwt5NTMzqWyxPVNyn2yhZG9TUGkurWVlNwp4Zwx5NDFyZTY1YlZjqWJVpzj9nHR0pHMyM0EyMxYyMxZ3q3phq2VhrHVyY2y0rS5wo20yMxZhZXqmJTJGMwAlNCUlRwEkJTJGMTQyMxZyoaQgMwY1NDQjLzu0oWjzZzkiYXRTqGF0qXM9ZzFfp2UzZWyxp3A9nWykJaB4nWQ9N2YkZwBvMmuwMmtmZGM2ZwxjYWElNTx2MWVuM2YkYWY=)
 
-## 前言 
+## 前言  { data-search-exclude }
 金星从一个男性变成了女性，是众所周知的事情，很多人都觉得，金星的人生已经被他这个举动彻底给毁了。只不过也有无数人好奇，现在的金星虽说是女儿身，但之前再怎么说也是男性。既然如此，那她和女性在洗澡的时候，那会不会有特殊反应？
 
 1. 金星原本就有想要变性的想法，最终确定是偶然在网上看到了一段介绍变性手术的视频，仿佛在黑暗中看到了一线曙光。金星开始狂热地搜集相关资料，她终于找到了自我实现的方式! 经过反复思考，金星果断决定在祖国大地完成自我重生，她清楚知道这个过程会异常艰辛，但她已慷慨赴义般地下定决心。手术那天，金星也受到了人生最为痛苦的时刻。然而好景不长，仅仅几天后，金星就遭遇了更大的打击，由于主刀医生的操作失误，她的左腿部分肌肉和神经发生了坏死。面对这个噩耗，金星一度陷入绝望，她开始怀疑自己是否做出了正确的选择。就在她准备放弃一切的时候，一个小小的偶然让她重燃了希望，有一天，她无意中看到自己的手指轻微地抽动了一下。从那一刻起，金星的斗志被彻底点燃，她决心百折不挠，重返舞台展现真正的自我! 从此，金星开启了漫长而艰难的复健之路，每天她都在接受剧烈的电击治疗，忍受着无与伦比的痛苦折磨。有那么一段时间，她简直瘦成了皮包骨头，就连医生都建议她放弃这条注定是徒劳的道路。但金星从未动摇过，只要一点点希望还存在，她就决不言败。就这样，金星不屈不挠地咬牙坚持下去，一天天，一点点，她终于开始重新掌控身体。几个月后的一天，当她终于彻底摆脱了拐杖，重现舞台上的优雅舞姿时，现场响起了震耳欲聋的掌声!在那一刻，她确信自己就是个真正自由的女性。从此之后，金星转行进入综艺圈，她那张始终如一的利嘴立刻成为焦点。
@@ -21,10 +24,36 @@
 
 5. 2004年，金星刚凭借一档评论节目在娱乐圈打开知名度，汉斯则是一位普通的德国商人。两人的相遇纯属偶然，但却撞出了惊心动魄的爱情火花，汉斯全然接纳了金星的第三性别身份，毫无保留地向她求爱。尽管曾有些许犹豫，但金星最终还是被汉斯的真挚和勇气所打动，在2005年2月1日，两人缔结了终身的姻缘。结婚后，金星和汉斯渴望能有属于自己的孩子，但申请收养孩子的过程却面临了令人万万没想到的障碍。作为外籍人士，汉斯的身份严重增加了收养手续的复杂程度，为了能早日组建自己的小家庭，在2006年，金星和汉斯不得不"假离婚"以方便入户。这对此前恩爱的夫妻来说无疑是一大考验，但他们从未放弃过。终于，在2008年，一个6岁、一对4岁孪生兄弟平安抵达金星和汉斯的家中，这个温馨的大家庭就此诞生了，金星和汉斯倾注了全部的爱，精心抚养着这三个可爱的孩子。虽然作为同性夫妇带来了不少非议和质疑的目光，但在他们坚定的信念和耐心引导下，孩子们很快就融入了新家庭，健康快乐地成长着。就在孩子们逐渐长大的过程中，2018年，金星和汉斯在意大利浪漫城市威尼斯重新举行了婚礼，让曾经的"假离婚"彻底成为了过去。两人携手走过了这些年的岁月，感情仍然稳如磐石。2024年4月，随着法律条例的不断完善，金星和汉斯终于可以正式登记结婚了。在镁光灯的簇拥下，两人手挽着手，走进了登记处，在亲朋好友的祝福中，郑重地许下了新的婚姻誓言。当金星戴上闪耀的结婚戒指时，现场响起了经久不衰的掌声，有了孩子的呵护，有了法律的认可，他们的爱情之路终于走向了人生的至高巅峰。正是这份执着，让金星也取得了事业上骄人的成就，多年来，她不断用自己的节目喜剧和评论为社会带来欢乐和思考，终于在两年前获得了法国政府的最高荣誉勋章。随后她还被母校西北大学授予了荣誉人文学博士学位。如今，金星主理的脱口秀节目《金星秀》在全国拥有超高人气，人们无不佩服和喜爱她睿智懂性的评论和幽默诙谐的语言。
 
-## 结语
+## 结语 { data-search-exclude }
 爱情和事业，金星在两个层面都获得了极高的人生成就。面对有缘人，她总是满怀欣慰和祝福:"只要坚持住自己内心的呼唤，终有一天，幸福就会温柔以待。"
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 - 凤凰网娱乐——2024-04-18《金星被问：做完变性手术后，和女人在一起洗澡，会不会动心？》
 - 光明网——2016-03-09《金星变性前照片曝光：为三个养子与丈夫离婚》
 <!-- tcd_original_link https://www.wenxuecity.com/news/2024/11/14/ent-265440.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_金星被问：做完变性手术后和女人在一起洗澡会不会动心？_-_文学城.md                             |
+| Size            | 10453 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

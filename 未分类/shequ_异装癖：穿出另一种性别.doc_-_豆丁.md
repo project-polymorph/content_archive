@@ -1,10 +1,13 @@
 # 异装癖：穿出另一种性别
 
+## 正文 { data-search-exclude }
+
+
 ![豆丁网](https://hs.douding.cn/images_cn/news/viewMode/end_top_logo.png)
 
 本文档由 [cmlang](https://www.docin.com/cmlang) 分享于 **2010-09-11 00:11** 
 
-## 正文
+## 正文 { data-search-exclude }
 
 异装癖：穿出另一种性别
 
@@ -40,3 +43,29 @@
 
 版权如下，若有进一步需求请联系文档提供者。
 <!-- tcd_original_link https://shequ.docin.com/p-79108377.html&symptom=1334 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | shequ_异装癖：穿出另一种性别.doc_-_豆丁.md                             |
+| Size            | 1397 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

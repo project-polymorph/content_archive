@@ -1,6 +1,9 @@
 # 異裝癖
 
-## 汉语
+## 正文 { data-search-exclude }
+
+
+## 汉语 { data-search-exclude }
 
 **異裝癖**
 
@@ -52,13 +55,39 @@
 
 检索自“[https://zh.wiktionary.org/w/index.php?title=異裝癖&oldid=8015798](https://zh.wiktionary.org/w/index.php?title=異裝癖&oldid=8015798)”
 
-## 标签
+## 标签 { data-search-exclude }
 
 - 汉语名词
 - 异性装扮
 - 有多个读音的官话词
 
-## 版权
+## 版权 { data-search-exclude }
 
 内容来自维基词典，遵循CC BY-SA 3.0协议。
 <!-- tcd_original_link https://zh.wiktionary.org/zh-hans/%E7%95%B0%E8%A3%9D%E7%99%96 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_異裝癖-_维基词典，自由的多语言词典.md                             |
+| Size            | 2353 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 终于有华语电影讨论这个群体，可惜我们看不到
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u176311232-2.jpg)
 
 这篇影评可能有剧透
@@ -104,3 +107,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie)
 <!-- tcd_original_link https://m.douban.com/movie/review/10144166/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是关于香港电影《翠丝》的详细影评和分析，探讨了电影中涉及的跨性别身份及其在社会家庭中的复杂关系。文章认为，《翠丝》不仅描绘了主人公大雄的跨性别转变过程，更深入剖析了这一过程对他家庭成员的影响，各自的掩饰与真实间的矛盾，尤其是他妻子和子女的反应。影评指出，影片很少有电影在亚洲文化背景下真实探讨跨性别者面临的困境，同时也批判了社会对跨性别群体的刻板印象和误解。另外，文件还提到该影片在性少数群体中的影响以及对平权运动的推动。影评中还加入了一些社会文化的批判，例如香港对同性婚姻的态度等。整体上，这篇文章是对《翠丝》的深刻评析，提出了关于性别认同与生存现状的深入思考。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_终于有华语电影讨论这个群体，可惜我们看不到-_翠丝_-_豆瓣.md                             |
+| Size            | 10870 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 中国香港                               |
+| Date            | 2018-10-28                                 |
+| Tags            | 电影分析, 跨性别, 性别认同, 家庭关系, 社会挑战, 性少数群体, 香港, 同性婚姻, 文化批判, 心理性别                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 在日本，跨性別女性是否能成為孩子法律上的父親？最高法院說可以
 
+## 正文 { data-search-exclude }
+
+
 **最後更新：2024.7.7**  
 **作者：石川カオリ**  
 **初稿日期：2022.8.20**  
@@ -7,7 +10,7 @@
 
 ---
 
-## 章節目錄
+## 章節目錄 { data-search-exclude }
 
 在日本，跨性別女性在性別變更前後，利用冷凍精子和伴侶生下一對姐妹花，那這名跨性別女性在法律上是不是女兒們的爸爸？原本東京高等法院認為「姊姊是，但妹妹不是」，不過 2024 年最高法院出爐，她就是姊妹倆的爸爸。
 
@@ -134,3 +137,29 @@ A 接受採訪時則表示，這次的案子她最重視的是完成孩子們認
 12.  [女性カップルの子に父子関係認める　性別変更前の精子で出生　最高裁](https://mainichi.jp/articles/20240620/k00/00m/040/231000c)
 13.  [女性カップルの子に「父子関係」、最高裁が認める　性別変更後に出生](https://digital.asahi.com/articles/ASS6N26F1S6NUTIL00BM.html)
 <!-- tcd_original_link https://changyuchieh.com/2022/08/20/transgender-parent/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | changyuchieh_在日本，跨性別女性是否能成為孩子法律上的父親？最高法院_.md                             |
+| Size            | 15652 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

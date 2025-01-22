@@ -1,5 +1,8 @@
 # 聲援土耳其跨性別性工作者被殺案 – 午夜藍
 
+## 正文 { data-search-exclude }
+
+
 ![](http://www.mnbhk.org/wp-content/uploads/2016/08/土耳其1.jpg)
 
 [![](http://www.mnbhk.org/wp-content/uploads/2016/08/土耳其2-150x150.jpg)](http://www.mnbhk.org/wp-content/uploads/2016/08/土耳其2.jpg)
@@ -12,7 +15,7 @@
 
 #### 2016年8月23日下午12點, 午夜藍與左翼21,香港彩虹行動等團體,在土耳其領事館示威,要求土耳其政府公正處理8 月8 日跨性別性工作者、社運人士Hande Kader被殺一案。
 
-## **【反對煽動仇恨 聲援邊緣小眾 要求土耳其政府公正處理跨性別性工作者被殺一案】聲明**
+## **【反對煽動仇恨 聲援邊緣小眾 要求土耳其政府公正處理跨性別性工作者被殺一案】聲明** { data-search-exclude }
 
 近日土耳其因軍隊政變而動盪不斷，當地人民因政治而活在苦難之中，但當中酷兒們可謂其中的受害者，不只面對政治動盪，更因自己的性身份受歧視，甚至連人身安全也不受保障。
 
@@ -26,7 +29,7 @@ Kader的另一個身份是性工作者。性工作者受害，最主要的原因
 
 同時，我們也想藉此向土耳其的同志們表達團結支持。long live international solidarity！同志無分國界，對於土耳其同志受到的傷害，我們深感痛心、憤怒！一人受傷就是所有人受到傷害，同志、窮人，所有受壓迫的人都應該團結起來，互相協助，才能打倒強權，重奪自主！
 
-## **【Statement Against Hatred of the Marginalised: Justice for Hande Kader】**
+## **【Statement Against Hatred of the Marginalised: Justice for Hande Kader】** { data-search-exclude }
 
 Recent military coups in Turkey have led to its instabilities and the suffering of its people. The queer is no exception in facing the difficulties of political instability, not to mention the insecurity brought by physical threat when further enduring discrimination against their sexualities.
 
@@ -66,3 +69,29 @@ We would also like to express our support for the unity of Turkish LGBT comrades
 4.  [lgbtinewsturkey.com](https://www.facebook.com/lgbtinewsturkey/)
 5.  [NSWP Statement on High Levels of Violence Against Transgender Sex Workers in Turkey](http://www.nswp.org/resource/nswp-statement-high-levels-violence-against-transgender-sex-workers-turkey)
 <!-- tcd_original_link http://www.mnbhk.org/?p=420 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_聲援土耳其跨性別性工作者被殺案_-_午夜藍.md                             |
+| Size            | 9612 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

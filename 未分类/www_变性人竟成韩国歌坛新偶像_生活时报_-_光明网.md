@@ -1,5 +1,8 @@
 # 变性人竟成韩国歌坛新偶像
 
+## 正文 { data-search-exclude }
+
+
 2001-08-07　来源：生活时报　本报特约记者　北方 [我有话说](#commentAnchor)
 
 最近韩国歌坛出现了一位新偶像女歌手。她那动人的歌声、美丽的外表，再加上十足的巨星架式令很多少男少女们痴迷。不过令不知情者意想不到的是，她是一位变性人。她的大名叫河利秀（音）。
@@ -30,3 +33,29 @@
 
 [版权声明：转载须经版权人书面授权并注明来源](//www.gmw.cn/content/2011-02/14/content_1609313.htm)
 <!-- tcd_original_link https://www.gmw.cn/01shsb/2001-08/07/05-4C070708561C8AB148256AA1000830CB.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人竟成韩国歌坛新偶像_生活时报_-_光明网.md                             |
+| Size            | 3616 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

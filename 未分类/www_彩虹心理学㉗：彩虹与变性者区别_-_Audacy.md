@@ -1,5 +1,8 @@
 # 彩虹心理学㉗：彩虹与变性者区别
 
+## 正文 { data-search-exclude }
+
+
 ![鞠强教授](https://images.audacy2-prod.ext.audacy.com/5f5be436-ea14-41b7-90de-2c8ef9c47e93.jpg)
 
 **日期**: Oct 15, 2024 • 2m
@@ -35,3 +38,29 @@
 
 ![给销售负责人讲心理学31：入职二周内不批假](https://images.audacy2-prod.ext.audacy.com/5f5be436-ea14-41b7-90de-2c8ef9c47e93.jpg)
 <!-- tcd_original_link https://www.audacy.com/podcast/%E9%9E%A0%E5%BC%BA%E6%95%99%E6%8E%88%E7%AE%A1%E7%90%86%E5%BF%83%E7%90%86%E5%AD%A6-1acfd/episodes/%E5%BD%A9%E8%99%B9%E5%BF%83%E7%90%86%E5%AD%A627%E5%BD%A9%E8%99%B9%E4%B8%8E%E5%8F%98%E6%80%A7%E8%80%85%E5%8C%BA%E5%88%AB-9c589 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_彩虹心理学㉗：彩虹与变性者区别_-_Audacy.md                             |
+| Size            | 3379 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

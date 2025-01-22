@@ -1,12 +1,15 @@
 # 事件回顾：嚴淑明變性傳聞與辯護
 
+## 正文 { data-search-exclude }
+
+
 性別人權協會：新聞
 
 ![](/images/news_left.gif)
 ![](/images/news_left2.gif)
 ![](../images/item.gif)
 
-## 事件背景
+## 事件背景 { data-search-exclude }
 
 ### 相關連結
 - [性權運動](clip1.php)
@@ -20,7 +23,7 @@
 - [社會事件](clip9.php)
 - [名人](clip10.php)
 
-## 事件報導
+## 事件報導 { data-search-exclude }
 
 **遭爆變性人？嚴淑明：「正港」女兒身。**  
 東森新聞報 2005/12/07  
@@ -100,3 +103,29 @@ TVBS 2005/12/07
 
 如需進一步了解每一個報導的細節，參見相應的 مصادر報導。
 <!-- tcd_original_link http://gsrat.net/news2/newsclipDetail.php?ncdata_id=1345 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gsrat_遭爆變性人？嚴淑明：「正港」女兒身。.md                             |
+| Size            | 3730 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

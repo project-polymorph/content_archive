@@ -1,5 +1,8 @@
 # 百赛促新：向性别二元论和跨性别恐惧说“不”
 
+## 正文 { data-search-exclude }
+
+
 ![YoungTreeGender](https://img9.doubanio.com/icon/u168108422-6.jpg) [YoungTreeGender](https://www.douban.com/people/168108422/) 2018-04-15 12:33:26
 
 ![活动简介](https://img3.doubanio.com/view/note/l/public/p50095757.webp)
@@ -108,3 +111,29 @@
 
 © 本文版权归 [YoungTreeGender](https://www.douban.com/people/168108422/) 所有，任何形式转载请联系作者。
 <!-- tcd_original_link https://m.douban.com/note/665705520 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件名为《百赛促新：向性别二元论和跨性别恐惧说“不”》，是一个活动的召集和说明，旨在呼吁性别多元者参与体育赛事，挑战和抵制性别二元论和跨性别恐惧。文中详细介绍了参与活动的资格、报名流程及相关的实施办法，鼓励性别多元者在赛事中展现真实的自我，并提供大量信息与支持，帮助他们顺利参赛。尤其指出了活动不仅针对跨性别者，也欢迎所有指派性别为女性的性别多元者的参与。此外，还包含了对当前法律政策的反思，表达了对性别认同法律承认不设严苛前提的迫切诉求。这一活动不仅是对性别表达的支持，也是对社会偏见的挑战。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_百赛促新：向性别二元论和跨性别恐惧说“不”_-_日记-_豆瓣.md                             |
+| Size            | 9336 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | YoungTreeGender                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-04-15                                 |
+| Tags            | 多元性别, 跨性别者, 性别认同, 性别二元论, 体育赛事, 社会运动, 法律政策, 性别表达, 生活故事, 支持活动                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

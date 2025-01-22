@@ -1,5 +1,8 @@
 # "神仙哥哥"男扮女装照 网友:真正男神男女通杀
 
+## 正文 { data-search-exclude }
+
+
 ##### 2014年01月16日08:35    
 来源：[扬子晚报](http://news.xinhuanet.com/politics/2014-01/16/c_126012051.htm)
 
@@ -29,3 +32,29 @@
 
 其实反串之风，中国古已有之。说到反串男神，你会想到谁？是《霸王别姬》里风神无双的张国荣，凭借《王的男人》魅惑众生的李准基，还是以男儿身演绎《新贵妃醉酒》的李玉刚？李老师说，对小灿来说，如果表演缺乏艺术含金量，光凭美颜、穿穿女装婀娜，很难在娱乐圈走远，也更谈不上引领审美风潮。不过是一时吸引眼球，会被观众快速消费，迅速遗忘，因为不断会有新的网络红人涌现出来。（扬子晚报记者 张楠 实习生 何好）
 <!-- tcd_original_link http://politics.people.com.cn/n/2014/0116/c70731-24134856.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | politics_神仙哥哥男扮女装照网友真正男神男女通杀_-_时政-_人民网.md                             |
+| Size            | 5382 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

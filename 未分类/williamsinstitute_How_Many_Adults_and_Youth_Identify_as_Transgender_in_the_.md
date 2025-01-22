@@ -1,5 +1,8 @@
 # How Many Adults and Youth Identify as Transgender in the United States?
 
+## 正文 { data-search-exclude }
+
+
 **June 2022**
 
 使用来自行为风险因素监测系统、青少年风险行为监测系统和高级统计建模的数据，本研究估计美国及其50个州（包括哥伦比亚特区）中自我认同为跨性别的成人和青少年人口。它还提供有关性别、年龄和种族/民族的估计。
@@ -12,13 +15,13 @@
 **联系方式**
 [联系我们关于本研究](mailto:williamsinstitute@law.ucla.edu)
 
-## 亮点
+## 亮点 { data-search-exclude }
 
 - 几乎五分之一自我认同为跨性别的人年龄在13-17岁之间。
 - 在美国，自我认同为跨性别的成年人比例和数量已稳步保持。
 - 我们对自我认同为跨性别青少年的估计已是之前估计的两倍。
 
-## 数据点
+## 数据点 { data-search-exclude }
 
 - **1.6M** 人（年龄13岁及以上）在美国自我认同为跨性别。
 - **1.3M** 成年人自我认同为跨性别。
@@ -36,7 +39,7 @@
 - **14,500** 名美洲土著/阿拉斯加土著成年人自我认同为跨性别。
 - **3,000** 名美洲土著/阿拉斯加土著青少年自我认同为跨性别。
 
-## 报告
+## 报告 { data-search-exclude }
 
 ### 执行摘要
 
@@ -54,7 +57,7 @@
 
 [下载完整报告](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Jun-2022.pdf)
 
-## 相关出版物
+## 相关出版物 { data-search-exclude }
 
 ### [LGBTQ People in the US: Select Findings from the Generations and TransPop Studies](https://williamsinstitute.law.ucla.edu/publications/generations-transpop-toplines/)  
 **发布日期：** 2021年6月
@@ -65,3 +68,29 @@
 ### [Vulnerabilities to COVID-19 Among Transgender Adults in the US](https://williamsinstitute.law.ucla.edu/publications/transgender-covid-19-risk/)  
 **发布日期：** 2020年4月
 <!-- tcd_original_link https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | williamsinstitute_How_Many_Adults_and_Youth_Identify_as_Transgender_in_the_.md                             |
+| Size            | 5473 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 漳州一同性恋男扮女装 带匕首找过路男性玩亲嘴
 
+## 正文 { data-search-exclude }
+
+
 来源：东南网  
 时间：2013-12-06  
 作者：海峡导报记者 廖珍妹  
@@ -13,7 +16,7 @@
 
 更让民警意外的是，该男子被抓后哭诉：他是同性恋，男扮女装是为了玩刺激，而他只玩亲嘴，一次50元。
 
-## 案发：男扮女装 立交桥下招揽“生意”
+## 案发：男扮女装 立交桥下招揽“生意” { data-search-exclude }
 
 前天晚上8点多，一市民在漳州立交桥下散步时看到，一名长发齐腰、浓妆艳抹、身穿皮草和超短裙的“女子”，在桥下不断地主动和过路的男性搭讪，一副暧昧架势与过路男子纠缠不清。该市民实在看不下去，以怀疑其在卖淫报警。
 
@@ -25,7 +28,7 @@
 
 警方当时初步判断，该男子以“男扮女装”招嫖的名义，欲实施威逼抢劫等。
 
-## 供述：玩亲嘴找刺激 一次50元
+## 供述：玩亲嘴找刺激 一次50元 { data-search-exclude }
 
 该男子经过一段沉默之后，向警方坦白了。“我是同性恋，男扮女装，是为了找刺激。”该男子说，找刺激，仅仅限于和过路男子玩嘴对嘴亲亲而已。一旦对方想再进一步，他则拒绝，而匕首，就是在遭到强迫时，用于防身的。
 
@@ -35,7 +38,7 @@
 
 警方介绍，可能因为男扮女装没有被识破，警方从未接到受害者报警。
 
-## 警方：案件特殊 暂以携管制刀具罪被拘
+## 警方：案件特殊 暂以携管制刀具罪被拘 { data-search-exclude }
 
 到底是卖淫还是抢劫？对于该案的定性，有一定的争议。
 
@@ -45,7 +48,7 @@
 
 沈中队长介绍，唯一能够确认的罪行，就是非法携带管制刀具罪。“派出所成立以来，从来没有碰到过这种同性恋的案件，由于比较特殊，需要进一步核实。”沈中队长说。
 
-## 自白
+## 自白 { data-search-exclude }
 
 **离婚后遭同性恋人背叛 自杀不成男扮女装骗人**
 
@@ -63,3 +66,29 @@
 
 强仔说，那把匕首是用来防身的，不过到目前都还没用过。
 <!-- tcd_original_link http://zzpd.fjsen.com/2013-12/06/content_13101883_all.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zzpd_漳州一同性恋男扮女装带匕首找过路男性玩亲嘴.md                             |
+| Size            | 4434 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

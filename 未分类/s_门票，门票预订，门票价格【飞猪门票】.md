@@ -1,5 +1,8 @@
 # 曼谷金东尼人妖秀中心
 
+## 正文 { data-search-exclude }
+
+
 ![人妖秀中心](https://img.alicdn.com/imgextra/i1/O1CN01gjTU3l1Zm8azDq6bC_!!6000000003236-2-tps-792-192.png)
 
 **优惠价：¥60.00起**
@@ -12,7 +15,7 @@
 - 主题分类：演出表演
 - 景点地址：[查看地图](javascript:;)
 
-## 门票种类
+## 门票种类 { data-search-exclude }
 
 - 成人票
 - 儿童票
@@ -67,3 +70,29 @@
 
 ![飞猪](https://img.alicdn.com/imgextra/i3/O1CN01V1elel1wE027juvzE_!!6000000006275-2-tps-871-178.png)
 <!-- tcd_original_link http://s.alitrip.com/scenic/detail.htm?sid=2854 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | s_门票，门票预订，门票价格【飞猪门票】.md                             |
+| Size            | 3688 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

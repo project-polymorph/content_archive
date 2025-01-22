@@ -1,5 +1,8 @@
 # 男の娘になぁれ！游戏介绍
 
+## 正文 { data-search-exclude }
+
+
 ![男の娘になぁれ！](https://media.9game.cn/gamebase/20230731/12/28/b0b6f5d6e64744be9aa0fb9340b94147.jpg?x-oss-process=image/resize,w_120,m_lfit)
 
 类型：模拟  
@@ -13,7 +16,7 @@
 [九游预约](https://sys.assistant.9game.cn/client/pullup?ch=OK_2043&useHttps=1&paramStr=ninegame%3A%2F%2Fweb.9game.cn%2Fshare%3Ftpe%3DpageType%253Dgame_detail%2526gameId%253D725509%2526opt%253Dreserve&passParams=isUgAd%3D0)  
 电脑版下载
 
-## 男の娘になぁれ！游戏截图
+## 男の娘になぁれ！游戏截图 { data-search-exclude }
 
 ![游戏截图1](http://image.game.uc.cn/2016/5/20/13206458_.jpg)  
 ![游戏截图2](http://image.game.uc.cn/2016/5/20/13206457_.jpg)  
@@ -21,7 +24,7 @@
 ![游戏截图4](http://image.game.uc.cn/2016/5/20/13206455_.jpg)  
 ![游戏截图5](http://image.game.uc.cn/2016/5/20/13206454_.jpg)
 
-## 玩家评论
+## 玩家评论 { data-search-exclude }
 
 - **小荔** 来自于 九游APP 2024-06-22 16:29  
   虽然但是看介绍我就把持不住啦
@@ -30,7 +33,7 @@
 - **九游玩家7lyvancr...** 来自于 九游APP 2018-02-22 02:00  
   男孩子不要太可爱了！强烈推荐*٩(๑´∀`๑)ง*
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 
 © 2009年 至今 9game.cn. 版权所有。  
 © Since 2009 9game.cn. All rights reserved.  
@@ -38,7 +41,33 @@
 公司地址：中国广东省广州市天河区高普路38号402房403房601房  
 公司电话：0571-26883338
 
-## 免责声明
+## 免责声明 { data-search-exclude }
 
 为了保护未成年人身心健康成长，根据国家新闻出版署有关规定，该游戏不对未成年人开放下载，敬请谅解！
 <!-- tcd_original_link https://www.9game.cn/nn1/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男の娘になぁれ！下载_-_九游.md                             |
+| Size            | 2603 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 泰国变性手术相关信息
 
+## 正文 { data-search-exclude }
+
+
 欢迎来到泰国天使之家变性人网站
 
 ![客服](https://example.com/path/to/image.jpg)
@@ -78,7 +81,7 @@
 
 在线咨询，确诊问题，定制方案
 
-## 全球跨性别手术对比
+## 全球跨性别手术对比 { data-search-exclude }
 
 泰国是全球最受欢迎的变性手术海外目的地  
 泰国是跨性别医疗领域的先行者，被称为进行变性手术的最佳去处。泰国低成本、技术领先和经验丰富的医生使泰国成为变性手术的理想选择。泰国的治疗费用约为15000-30000美元，患者可节省泰国约三分之二的费用。这个南亚国家有大约31家JCI认可的医院，提供最优质的治疗设施。泰国优质后续护理和自由的法律允许患者在没有任何限制的情况下寻求性别重新分配。
@@ -112,7 +115,7 @@
 3. 医疗费用：根据选择的医院与手术不同，费用也不等，详情请咨询我们专业的医务顾问
 4. 日常开支：日常零星支出，外出就餐、打的出行等
 
-## 变性手术成功案例
+## 变性手术成功案例 { data-search-exclude }
 权威专家+JCI认证医院+丰富经验，重获新生
 ![跨性别女生激素治疗一年所发生的改变](https://example.com/path/to/image4.jpg)
 
@@ -152,3 +155,29 @@
 
 **Copyright © 2008-2019 泰国天使之家变性人网站 版权所有**
 <!-- tcd_original_link http://www.transgender-thailand.org/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国天使之家_专业的泰国变性手术中心_变性人CDTS变装伪娘易装网站.md                             |
+| Size            | 8740 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性欲倒错列表
 
+## 正文 { data-search-exclude }
+
+
 维基百科**[Discord](/wiki/Wikipedia:Discord%E4%BA%A4%E6%B5%81%E7%BE%A4 "Wikipedia:Discord交流群")**、**[IRC](/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93 "Wikipedia:IRC聊天频道")**、**[LINE](/wiki/Wikipedia:Line%E4%BA%A4%E6%B5%81%E7%BE%A4 "Wikipedia:Line交流群")**、**[QQ](/wiki/Wikipedia:QQ%E4%BA%A4%E6%B5%81%E7%BE%A4 "Wikipedia:QQ交流群")**及**[Telegram](/wiki/Wikipedia:Telegram%E4%BA%A4%E6%B5%81%E7%BE%A4 "Wikipedia:Telegram交流群")**等[各平台交流群](/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94 "Wikipedia:社群媒体")欢迎大家加入。
 
 维基百科，自由的百科全书
@@ -8,7 +11,7 @@
 
 [安尼尔·阿加瓦尔](/w/index.php?title=%E5%AE%89%E5%B0%BC%E7%88%BE%C2%B7%E9%98%BF%E5%8A%A0%E7%93%A6%E7%88%80&action=edit&redlink=1)（英语：[Anil Aggrawal](https://en.wikipedia.org/wiki/Anil_Aggrawal "en:Anil Aggrawal")）在他2009年的著作里汇编了547个描述性欲倒错的术语，并说明“并非书中列出所有性欲倒错类型都可以在临床案例上看到，不过这不是因为他们不存在，而是因为他们无害以至于不会被社会发现。太阳底下没有新鲜事，没有什么是不能引起性欲倒错的，就连太阳本身也可以。”
 
-## 性欲倒错列表
+## 性欲倒错列表 { data-search-exclude }
 
 中文
 
@@ -450,11 +453,11 @@
 
 观看或造成动物的痛苦
 
-## 相关条目
+## 相关条目 { data-search-exclude }
 
 -   [恐惧症列表](/wiki/%E6%81%90%E6%87%BC%E7%97%87%E5%88%97%E8%A1%A8 "恐惧症列表")
 
-## 参考来源
+## 参考来源 { data-search-exclude }
 
 1.  **[^](#cite_ref-1 "跳转")** Moran, Mark. [DSM to Distinguish Paraphilias From Paraphilic Disorders](http://psychnews.psychiatryonline.org/newsArticle.aspx?articleid=1685438). Psychiatric News. American Psychiatric Association. May 3, 2013 \[16 June 2013\]. （原始内容[存档](https://web.archive.org/web/20140326161829/http://psychnews.psychiatryonline.org/newsArticle.aspx?articleid=1685438)于2014-03-26）.
 2.  ^ [跳转到： **2.00**](#cite_ref-DSM_2-0) [**2.01**](#cite_ref-DSM_2-1) [**2.02**](#cite_ref-DSM_2-2) [**2.03**](#cite_ref-DSM_2-3) [**2.04**](#cite_ref-DSM_2-4) [**2.05**](#cite_ref-DSM_2-5) [**2.06**](#cite_ref-DSM_2-6) [**2.07**](#cite_ref-DSM_2-7) [**2.08**](#cite_ref-DSM_2-8) [**2.09**](#cite_ref-DSM_2-9) [**2.10**](#cite_ref-DSM_2-10) [**2.11**](#cite_ref-DSM_2-11) [**2.12**](#cite_ref-DSM_2-12) [**2.13**](#cite_ref-DSM_2-13) [**2.14**](#cite_ref-DSM_2-14) [**2.15**](#cite_ref-DSM_2-15) [Diagnostic and Statistical Manual of Mental Disorders](/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders "Diagnostic and Statistical Manual of Mental Disorders"): DSM-IV. Washington, DC: [American Psychiatric Association](/wiki/American_Psychiatric_Association "American Psychiatric Association"). 2000. [ISBN 0-89042-025-4](/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/0-89042-025-4 "Special:网络书源/0-89042-025-4").
@@ -502,3 +505,29 @@
 44.  **[^](#cite_ref-44 "跳转")** 'Weirdly Beloved: Tales of Strange Bedfellows, Odd Couplings, and Love Gone Bad', Cynthia Ceilán. The Lyons Press, 2008 [ISBN 1-59921-403-2](/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1599214032)
 45.  ^ [跳转到： **45.0**](#cite_ref-sexcrimesandparaphilia6_45-0) [**45.1**](#cite_ref-sexcrimesandparaphilia6_45-1) [**45.2**](#cite_ref-sexcrimesandparaphilia6_45-2) Hickey, Eric W. [Sex Crimes and Par
 <!-- tcd_original_link https://zh.wikipedia.org/zh-cn/%E6%80%A7%E6%85%BE%E5%80%92%E9%8C%AF%E5%88%97%E8%A1%A8 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_性欲倒错列表-_维基百科，自由的百科全书.md                             |
+| Size            | 40354 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

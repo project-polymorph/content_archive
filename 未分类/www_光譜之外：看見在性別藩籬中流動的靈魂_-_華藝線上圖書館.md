@@ -1,5 +1,8 @@
 # 光譜之外：看見在性別藩籬中流動的靈魂
 
+## 正文 { data-search-exclude }
+
+
 _呂明蓁_
 
 _[《性別平等教育季刊》 Issue 96 (2022/01) Pp. 4-7](javascript:;)_
@@ -28,3 +31,29 @@ Airiti Library 華藝線上圖書館
 ### 版權
 華藝線上圖書館版权所有
 <!-- tcd_original_link https://www.airitilibrary.com/Article/Detail/15629716-202201-202203020016-202203020016-4-7 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_光譜之外：看見在性別藩籬中流動的靈魂_-_華藝線上圖書館.md                             |
+| Size            | 2074 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

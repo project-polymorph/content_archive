@@ -1,5 +1,8 @@
 # 日女星中山美穗被曝离婚 因不满老公"人妖"装扮
 
+## 正文 { data-search-exclude }
+
+
 2014年03月28日 16:47  
 来源：[中国新闻网](http://www.chinanews.com/)  
 
@@ -16,3 +19,29 @@
 
 【编辑:张曦】
 <!-- tcd_original_link https://www.chinanews.com.cn/yl/2014/03-28/6006889.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文报道了日本女星中山美穗与其丈夫辻仁成的婚姻危机，强调了两人之间因辻仁成近年来的一些性别表现变化而产生的矛盾。中山美穗因丈夫的中性化打扮而感到不满，导致夫妻关系紧张，最终走向离婚。文中详细描述了他们的恋爱与婚姻历程，从相识到结婚，再到婚后的幸福生活，以及因育儿分歧和辻仁成外在形象的变化而导致的感情冷淡。文章通过中山美穗缺席婚戒和对家庭的重视，暗示婚姻状况的恶化，进而揭示了现代婚姻中可能遇到的复杂性和多元性别表现所带来的挑战。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_日女星中山美穗被曝离婚因不满老公人妖装扮_-_中国新闻网.md                             |
+| Size            | 1817 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 中国新闻网                               |
+| Region          | 台湾                               |
+| Date            | 2014-03-28                                 |
+| Tags            | 中山美穗, 辻仁成, 离婚, 婚姻危机, 人妖装扮, 多元性别, 性别表现, 育儿问题, 娱乐新闻, 日本艺能界                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

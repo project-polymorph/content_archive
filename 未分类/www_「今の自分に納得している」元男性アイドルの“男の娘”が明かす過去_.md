@@ -1,10 +1,13 @@
 # 「今の自分に納得している」元男性アイドルの“男の娘”が明かす過去と女装する理由
 
+## 正文 { data-search-exclude }
+
+
 ![杉本陣](https://contents.oricon.co.jp/special/img/60000/60932/detail/img660/1667360049436.jpg)
 
 女装男子＆美容系男子として活動するYouTuber、杉本陣。かつては男性アイドルグループに所属していたが、2年前から女装を始めた。ホルモン注射などのケアはしていない。「今は性別は男だけど、見た目と心は女の子、という自分に納得している」と話す。元男性アイドルが“男の娘”になるまでの半生に迫った。
 
-## 女装はコロナ禍の自粛期間がきっかけ　学生時代は“醜形恐怖症”に近かった
+## 女装はコロナ禍の自粛期間がきっかけ　学生時代は“醜形恐怖症”に近かった { data-search-exclude }
 
 ――高校生時代は爽やか系男子、その後は男性アイドルグループで活動されていたと聞きました。【杉本陣】　そうですね。女装を始めたのは今から２年前。最近なんです。コロナ禍で自粛していた時期に、「家で何かできることないかな」と思って、試しに女装をしてみたんです。その姿をTikTokに上げたら評判が良くて。「もしかしたら、自分は女装がウケるのかな？」「YouTubeでもやってみよう」と。前からYouTubeをやるなら女装をやりたい、と思っていましたが、実際に投稿したら、再生回数がすっごく伸びた。それで「みんなが喜んでくれるならやろう」と思ったのがきっかけです。
 
@@ -18,7 +21,7 @@
 
 ![肩出しニットに「いいね」がついた公園デート風の１枚。Instagram（@sugimoto_jin）より](https://contents.oricon.co.jp/special/img/60000/60932/detail/img320/1667359812623.jpg)
 
-## 女装をきっかけに、「自分の恋愛対象は女性だけじゃない」とはっきりした
+## 女装をきっかけに、「自分の恋愛対象は女性だけじゃない」とはっきりした { data-search-exclude }
 
 ――女装するようになって気づいたこと、自分の中での変化はありますか？【杉本陣】　街に出ると、めっちゃナンパされます（笑）。それは自分が可愛いと思われているわけだから、素直にうれしいです。承認欲求みたいなものですね。女装することで「自分は男からモテるんだ」ということがわかって、それから、だんだん“心”もより女の子に近づいてきたかなって感覚はあります。
 
@@ -26,7 +29,7 @@
 
 ――現在、“男の娘”として生活するうえで苦労されることがありますか？【杉本陣】　生活面で大変なことはあまりないですね。ただ、たまに「女装って、女の子に近づくための口実でやってるんじゃないか」って言われることがあって。現にそういう人もいるのかもしれないけど、自分がそう思われるのはすごく嫌ですね。
 
-## 「今は性別は男だけど、見た目と心は女の子」の自分に納得している
+## 「今は性別は男だけど、見た目と心は女の子」の自分に納得している { data-search-exclude }
 
 ――それにしても本当に可愛い（笑）。どこから見ても“可憐な女の子”にしか見えません。美容法として何か心掛けていることはありますか？【杉本陣】　日々見られているという意識をずっと持っているので、なるべくすっぴんでは外に出ません。それと、常に可愛くして自己肯定感を上げていきたいから、メイクに関してはめちゃくちゃ研究していますね。
 
@@ -38,14 +41,40 @@
 
 ![20歳の頃。男子制服も似合ってる！Instagram（@sugimoto_jin）より](https://contents.oricon.co.jp/special/img/60000/60932/detail/img320/1667359796585.jpg)
 
-## 杉本陣INFORMATION
+## 杉本陣INFORMATION { data-search-exclude }
 - ▼YouTube: [「じんくんの部屋」](https://www.youtube.com/channel/UCAQph0bsoeStucBhGCEcrXw)
 - ▼Instagram: [@sugimoto_jin](https://www.instagram.com/sugimoto_jin/)
 
-## タグ
+## タグ { data-search-exclude }
 - [YouTube発](https://www.oricon.co.jp/special/tag/id/YouTube/)
 - [YouTuber](https://www.oricon.co.jp/special/tag/id/YouTuber/) 
 
 *来源: ORICON NEWS*
 *发布时间: 2022-11-02*
 <!-- tcd_original_link https://www.oricon.co.jp/special/60932/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_「今の自分に納得している」元男性アイドルの“男の娘”が明かす過去_.md                             |
+| Size            | 8219 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

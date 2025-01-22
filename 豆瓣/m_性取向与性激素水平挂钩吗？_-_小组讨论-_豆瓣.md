@@ -1,5 +1,8 @@
 # 性取向与性激素水平挂钩吗？
 
+## 正文 { data-search-exclude }
+
+
 ![一卡车司机](https://img1.doubanio.com/icon/up212148925-8.jpg)
 
 ### 来自: [一卡车司机](https://www.douban.com/people/212148925/)
@@ -68,7 +71,33 @@
 
 ---
 
-## 你的回应
+## 你的回应 { data-search-exclude }
 
 回应请先 , 或 [注册](/accounts/register?reason=discuss)
 <!-- tcd_original_link https://m.douban.com/group/topic/257754786/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了性取向与性激素水平之间的关系，提出了一个问题：性取向和性别意识是否与天生因素相关，特别是性激素的影响。讨论中提到了一些关于泰国人妖的现象，他们在注射雌激素后自我认同为女性并倾向于男性。这种现象引起了对于性取向和激素水平是否存在关联的思考。同时，文中引用了一些研究数据，比如成年男同性恋者的激素水平与直男相似，以及在胎儿时期激素对性取向的影响。讨论引发了许多回应，参与者从不同角度探讨了生物学与社会因素对性取向的影响。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性取向与性激素水平挂钩吗？_-_小组讨论-_豆瓣.md                             |
+| Size            | 4220 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 一卡车司机                               |
+| Region          | 未知                               |
+| Date            | 2022-01-12                                 |
+| Tags            | 性取向, 性激素, 男性, 女同性恋, 男同性恋, 泰国人妖, 激素水平, 生物学, 社会因素, 性别意识                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

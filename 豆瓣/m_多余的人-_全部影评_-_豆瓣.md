@@ -1,6 +1,9 @@
 # 多余的人影评
 
-## 影评列表
+## 正文 { data-search-exclude }
+
+
+## 影评列表 { data-search-exclude }
 
 ### [《多余的人》小感](https://movie.douban.com/review/4533929/)
 
@@ -104,7 +107,7 @@
 
 ---
 
-## 影片信息
+## 影片信息 { data-search-exclude }
 
 - **影片标题**: 多余的人
 - **导演:** 莎里·斯宾厄·伯曼 / 罗伯特·帕西尼
@@ -115,3 +118,30 @@
 
 ![多余的人](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p529813125.webp)
 <!-- tcd_original_link https://m.douban.com/movie/subject/3439315/reviews?from=subject -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这份影评文件汇集了对电影《多余的人》的多篇评价与讨论。电影主要讲述了生活在繁华的曼哈顿的一群小人物，他们在生活中面临孤独与失落的挑战。影评中提到，电影没有强烈的戏剧冲突或感官享受，更多的是对平凡生活细微之处的探讨。很多影评提到主角路易斯的异装癖，以及他和其他角色的复杂情感关系。这些评价中反映了影片对现代社会中各种身份认同和生存现状的关注，结合了对个人内心世界的深度挖掘，让人思考在城市生活中的孤独。
+影评中，一些评论提供了关于异装癖的深入分析，比如指出“异装癖大多结婚，穿妻子的内衣会感到性兴奋”，并探讨了主角内心的挣扎与自我认同。整体来说，影评呈现了电影的多层次解读，让观众能够从不同的角度理解这部影片。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_多余的人-_全部影评_-_豆瓣.md                             |
+| Size            | 8441 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2010-07-30                                 |
+| Tags            | 多余的人, 电影影评, 孤独, 异装癖, 身份认同, 人际关系, 生活片段, 曼哈顿, 社会观察, 个人故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

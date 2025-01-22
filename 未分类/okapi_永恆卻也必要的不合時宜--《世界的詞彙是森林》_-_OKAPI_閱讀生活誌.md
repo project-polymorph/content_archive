@@ -1,5 +1,8 @@
 # 劉芷妤／永恆卻也必要的不合時宜──娥蘇拉．勒瑰恩《世界的詞彙是森林》
 
+## 正文 { data-search-exclude }
+
+
 作者: [劉芷妤](https://okapi.books.com.tw/writer/detail/2440)  
 內容提供: [木馬文化](https://okapi.books.com.tw/writer/detail/417)  
 時間: 2024-10-28  
@@ -16,7 +19,7 @@
 ![世界的詞彙是森林 (電子書)](https://www.books.com.tw/img/E05/023/90/E050239031.jpg)  
 [世界的詞彙是森林 (電子書)](https://okapi.books.com.tw/click/p/E050239031?r=https%3A%2F%2Fwww.books.com.tw%2Fexep%2Fassp.php%2FOKAPI%2Fproducts%2FE050239031)
 
-## 作者簡介
+## 作者簡介 { data-search-exclude }
 
 ![劉芷妤](//okapi.books.com.tw/uploads/author/2019/11/author_1574309825_665d3847acc5d_3.png)  
 ### [劉芷妤](https://okapi.books.com.tw/writer/detail/2440)
@@ -26,16 +29,42 @@
 ![樂土在上：繼《女神自助餐》，劉芷妤寫給這座島嶼的愛與眼淚之歌! (電子書)](https://www.books.com.tw/img/E05/021/81/E050218143.jpg)  
 ### [樂土在上：繼《女神自助餐》，劉芷妤寫給這座島嶼的愛與眼淚之歌! (電子書)](http://www.books.com.tw/exep/assp.php/OKAPI/products/E050218143)
 
-## _相關主題_RELATED TOPICS
+## _相關主題_RELATED TOPICS { data-search-exclude }
 
 - [娥蘇拉．勒瑰恩 Ursula K. Le Guin](https://okapi.books.com.tw/tag?k=%E5%A8%A5%E8%98%87%E6%8B%89%EF%BC%8E%E5%8B%92%E7%91%B0%E6%81%A9+Ursula+K.+Le+Guin)
 - [樹](https://okapi.books.com.tw/tag?k=%E6%A8%B9)
 - [作家專業書評](https://okapi.books.com.tw/tag?k=%E4%BD%9C%E5%AE%B6%E5%B0%88%E6%A5%AD%E6%9B%B8%E8%A9%95)
 - [科幻／奇幻](https://okapi.books.com.tw/tag?k=%E7%A7%91%E5%B9%BB%EF%BC%8F%E5%A5%87%E5%B9%BB)
 
-## _延伸閱讀_RELATED STORIES
+## _延伸閱讀_RELATED STORIES { data-search-exclude }
 
 - [盧郁佳／給我一個地方媽媽，我可以舉起整個地球 ── 讀《她將山徑走成傳奇》](https://okapi.books.com.tw/article/18433)
 - [無法忽視的酷帥色彩，圖像小說演繹的台漫精品──讀《Toby King 托比王1》](https://okapi.books.com.tw/article/18445)
 - [【♫｜早晨聽音樂】美好晨間時光，讓OKAPI駐站DJ幫你選一首早晨的歌](https://okapi.books.com.tw/article/8462)
 <!-- tcd_original_link https://okapi.books.com.tw/article/18268 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | okapi_永恆卻也必要的不合時宜--《世界的詞彙是森林》_-_OKAPI_閱讀生活誌.md                             |
+| Size            | 10921 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

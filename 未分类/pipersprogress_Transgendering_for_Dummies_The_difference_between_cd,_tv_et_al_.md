@@ -1,5 +1,8 @@
 # Transgendering for Dummies: The difference between cd, tv et al and why it doesn’t really matter
 
+## 正文 { data-search-exclude }
+
+
 **Author:** Aimee Piper  
 **Date:** July 21, 2010  
 **Filed under:** [theory](https://pipersprogress.wordpress.com/category/theory/), [transgender](https://pipersprogress.wordpress.com/category/events/transgender/)  
@@ -80,3 +83,29 @@ I have been aware of my trans-tendencies since a young age, while I am not sure 
 **Disclaimer**  
 This essay is intended as a draft. I wrote it in an hour based on ideas I have had floating around in my head for some time. The ideas are my own and I understand that some people might disagree strongly with my views. I invite all courteous comments.
 <!-- tcd_original_link https://pipersprogress.wordpress.com/2010/07/21/transgendering-for-dummies-the-difference-between-cd-tv-et-al-and-why-it-doesn%E2%80%99t-really-matter/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | pipersprogress_Transgendering_for_Dummies_The_difference_between_cd,_tv_et_al_.md                             |
+| Size            | 12780 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

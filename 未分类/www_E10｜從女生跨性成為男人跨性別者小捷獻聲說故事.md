@@ -1,5 +1,8 @@
 # E10｜從女生跨性成為男人 跨性別者小捷獻聲說故事
 
+## 正文 { data-search-exclude }
+
+
 ![小捷在跨性手術之後，才終於覺得自己真的活得更舒服且有自信。](https://v3-statics.mirrormedia.mg/images/20191210132745-3d7267e2962e4374fb1139f419e4d8a8-w2400.jpg)
 
 **發布時間：** 2019.12.15 06:01 臺北時間  
@@ -82,3 +85,29 @@
 
 **延伸閱讀：** 更多內容，歡迎 [鏡週刊紙本雜誌](https://www.mirrormedia.mg/papermag) | [鏡週刊數位訂閱](https://www.mirrormedia.mg/subscribe) | [了解內容授權資訊](https://www.mirrormedia.mg/story/webauthorize).
 <!-- tcd_original_link https://www.mirrormedia.mg/story/20191210cul501 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_E10｜從女生跨性成為男人跨性別者小捷獻聲說故事.md                             |
+| Size            | 14519 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

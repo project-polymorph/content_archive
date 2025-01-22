@@ -1,5 +1,8 @@
 # 老专家口述历史：何清濂 - 中国变性手术之父
 
+## 正文 { data-search-exclude }
+
+
 ![图解吧](/images/logo_.gif)
 
 **发布**：2022-05-29  
@@ -18,3 +21,29 @@
 
 Copyright©2011 [www.tuj8.co](http://www.tuj8.co/) 图解吧 All Rights Reserved 本站图片均为严格审查筛选收藏，均收集整理于互联网，其著作权归原作者所有，如果有侵犯您权利的照片，请来信告知，我们将及时撤销相应图片。 ![](/images/mail.gif)
 <!-- tcd_original_link https://m.tuj8.net/html/202205/111223_1.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_【老专家口述历史】何清濂：中国变性手术之父_-_图解吧.md                             |
+| Size            | 1368 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 刑法紧箍咒 新加坡LGBT的惆怅与无奈
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 中央社/黄自强 2019-5-26 [原文链接](https://www.cna.com.tw/news/firstnews/201905260015.aspx)
 
 ![新加坡LGBT活动](https://img5.cna.com.tw/www/WebPhotos/1024/20190526/1152x768_20190526000001.jpg)
@@ -67,3 +70,29 @@
 **发表时间**: 2019年5月27日 9:45 PM  
 **分类**: 法律, 人权 
 <!-- tcd_original_link https://xinguozhi.wordpress.com/2019/05/27/%E5%88%91%E6%B3%95%E7%B4%A7%E7%AE%8D%E5%92%92-%E6%96%B0%E5%8A%A0%E5%9D%A1lgbt%E7%9A%84%E6%83%86%E6%80%85%E4%B8%8E%E6%97%A0%E5%A5%88/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | xinguozhi_刑法紧箍咒新加坡LGBT的惆怅与无奈_-_新国志.md                             |
+| Size            | 5697 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

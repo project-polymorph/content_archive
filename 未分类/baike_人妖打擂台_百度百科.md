@@ -1,10 +1,13 @@
 # 人妖打擂台
 
+## 正文 { data-search-exclude }
+
+
 ![人妖打擂台](https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72aa1ecad76d22a2834359bbbd5?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70)
 
 **简介**：人妖打擂台是由吕翼谋执导的泰国2004年剧情电影，讲述变性人Nong Toom实现自己愿望的故事。
 
-## 基本信息
+## 基本信息 { data-search-exclude }
 
 - **中文名**：人妖打擂台
 - **其他译名**：美丽拳王
@@ -18,7 +21,7 @@
 - **色 彩**：彩色
 - **imdb编码**：tt0401248
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [剧情简介](#剧情简介)
 2. [演职员表](#演职员表)
@@ -33,13 +36,13 @@
 9. [人妖](#人妖)
 10. [大众评分](#大众评分)
 
-## 剧情简介
+## 剧情简介 { data-search-exclude }
 
 本片取材自变性人Nong Toom的经历。她曾为泰拳手，现时为模特儿。Nong Toom童年时，就相信他是她，男儿身女儿心。年轻时，他当过行僧，云游国内不少地方。后来他拜师学艺，成为泰拳手。他出赛频频胜利，渐渐为人认识，后来更到日本献技。他打拳，除了为生活，也为了满足自己的愿望。但实现愿望，他要付出比金钱更多的代价。
 
 小男孩Toom在故乡清迈的庙会看过古典舞表演后，被女主角优美的舞姿深深吸引，从此他认为自己应该是一个女生。长大后，toom在一次庙会误打误撞被带到了泰拳擂台，没想到初出茅庐的他最后竟然赢了泰拳比赛。随后他便被别人劝说去学习泰拳，经过自己的艰苦努力，toom成为了一名泰拳手。一天，参加比赛的他突然涂脂抹粉地走上了擂台，他的举动自然招来他人的揶揄及嘲弄，但最后他以胜利让所有人都哑口无言，他的经理人意识到toom异于其他拳手的打扮是绝佳的商业卖点，因此鼓励他继续化妆打拳，频频胜利的他成为全国最有名的拳手。但是只有他自己知道，比赛除了是为自己的生存，更重要的是为满足自己从小的愿望－成为一个真正的女人，但实现这个愿望并非他所想象的那么简单。
 
-## 演职员表
+## 演职员表 { data-search-exclude }
 
 ### 演员表
 
@@ -53,12 +56,12 @@
 
 - 导演：吕翼谋
 
-## 角色简介
+## 角色简介 { data-search-exclude }
 
 Gael Garcia Bernal 加艾尔加西亚般奴
 加艾尔加西亚般奴，其演员生涯始於童年，十二岁便参与电视肥皂剧的演出，此後亦经常於短片中亮相。凭著其不羁的外形，开始受到国内外的导演注意。 2000年的《狗男女的爱》，在芝加哥国际电影节大放异彩。
 
-## 作者简介
+## 作者简介 { data-search-exclude }
 
 **亚格差乌干腾**  
 - **国别**：泰国  
@@ -70,35 +73,35 @@ Gael Garcia Bernal 加艾尔加西亚般奴
 - **导演**：2003 美丽拳王 Beautiful Boxer  
 - **编剧**：2003 美丽拳王 Beautiful Boxer
 
-## 幕后花絮
+## 幕后花絮 { data-search-exclude }
 
 本片根据冠军泰拳拳手龙唐的传奇事迹，真人真事改编而成，享负盛名的他在擂台上打遍天下无敌手，英姿飒飒，但讽刺的是他努力赚钱原来并非要名成利就，而是要变性成为一个真正的女人。
 
-## 媒体报道
+## 媒体报道 { data-search-exclude }
 
 这部泰国片的题材，兼具《人妖打排球》和《拳霸》两大元素，在今年四月香港国际电影节参展时，中文片名就是《人妖打擂台》。近日在港公映，采用《美丽拳王》。虽然“人妖”在本地叫惯叫熟，但始终把跨性人及变性人“妖魔化”。 
 
-## 相关作品
+## 相关作品 { data-search-exclude }
 
 - <寻佛记>
 
-## 相关评论
+## 相关评论 { data-search-exclude }
 
 网友留言：
 - 不要因为故事讲及变性人而止步，故事其实很励志，很感动，值得一看 ——scroogemduck
 - 能写出人妖的心路历程，值得一看。——ctyeung1919
 
-## 人妖
+## 人妖 { data-search-exclude }
 
 人妖是港台叫法，主要指的是在泰国旅游胜地帕塔亚专事表演的男性变性人。她们自幼接受女性化的教育和熏陶，使性格、形态都表现出女性特征。 
 
-## 大众评分
+## 大众评分 { data-search-exclude }
 
 | 网站  | 评分 | 参评人数 | 统计截止日期 |
 | ----- | ---- | -------- | ------------ |
 | 豆瓣  | 7.9  | 1184     | 2023-12-11   |
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - [美丽拳王 (2003)](https://www.douban.com/doulist/533aYdO6cr3_z3kATPSIz66mZyaWM93677PSU-ZzzqIP0XOpRYHzU4187cM28_IpFwTG_8k3NY9G2e6_VhcWrKJEKKl2XO1mwCo)．时光网 
 - [人妖打擂台](https://www.douban.com/doulist/533aYdO6cr3_z3kATP3YnvT1YSvFY96tuuXaBOFzzqIPmGapB4PqTIE3rtMw6_VmGkXIv5Utc8MXnO2pTlRE7fQXc-Q1XQ)．豆瓣 
 
@@ -110,3 +113,29 @@ Gael Garcia Bernal 加艾尔加西亚般奴
 突出贡献榜：  
 编辑用户：金咝猴奶糖
 <!-- tcd_original_link https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E6%89%93%E6%93%82%E5%8F%B0/12684534 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_人妖打擂台_百度百科.md                             |
+| Size            | 5431 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

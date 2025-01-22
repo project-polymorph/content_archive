@@ -1,6 +1,9 @@
 # 活動名稱：一同跨步——跨性別生命歷程中的困境與韌性
 
-## 場次資訊
+## 正文 { data-search-exclude }
+
+
+## 場次資訊 { data-search-exclude }
 
 - **場次內容**  
 　　日常生活中，也許您曾在課堂文本、同儕間的討論，又或校園一隅見過「跨男」、「跨女」、「非二元」、「荷爾蒙治療」、「性別肯認手術」、「換證」等等的名詞。不論您是面對多元性別光譜帶有自身的茫然和困惑，或者想更貼近與認識身邊不安主流的朋友們，這些都將不再只是名詞與議題，而是真實在日常生活中存在的實踐。本講座透過真實的跨性別生命經驗與同學們共同分享討論，使我們更能夠意識到跨性別隱身於我們日常中的各個角落，並且跨性別內在的能動力如何促成每個人自性別結構中解放。藉由本講座，兩位分享者將從自身的跨性別生命經驗出發，探討跨性別在日常生活、醫療、職場、學校與家庭中面臨的困境，並且分享其如何在種種困境中生存、展現韌性，甚至繁榮起來。即便在後同婚的年代中，臺灣的跨性別議題依然相對難以觸及、妥適討論，學輔中心有見於過往臺大較缺乏相關主題的全校型講座，故辦理此場次，希望增進校內對跨性別議題的理解，也期待校內多元經驗的同學可透過參與活動以交流各自的性別掙扎與實踐經驗。即便跨性別者在各樣研究中經常因少數壓力與歧視成為各種暴力的高風險族群，但其中不乏跨性別者發展出了自己的應對策略和韌性，藉由在校園內的公開現身及分享，讓少數議題能夠進入到教育體系內，推進臺大校園對於多元性別權益的關懷。  
@@ -83,3 +86,29 @@
 - **備註**  
 無
 <!-- tcd_original_link https://my.ntu.edu.tw/actregister/sessionView.aspx?actID=20241326_02&sesID=1 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | my_活動報名系統-_活動場次資訊_-_國立臺灣大學.md                             |
+| Size            | 3753 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

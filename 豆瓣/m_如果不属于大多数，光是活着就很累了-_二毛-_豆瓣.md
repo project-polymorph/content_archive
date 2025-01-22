@@ -1,5 +1,8 @@
 # 二毛影评：如果不属于大多数，光是活着就很累了
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 今晚看了《二毛》，一部从简介就开始吸引我的片子。 看之前，我设想的二毛是一个非常张扬的变性人，我以为这部片子也是着重描述他灯红酒绿的那一面，以及最后这样的身份这样底层的人只能像小说里写的那样死的惨烈。事实好像真实的故事确实更加多面，人不止一面。
@@ -25,3 +28,29 @@
 
 ![二毛](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2613561588.webp)
 <!-- tcd_original_link https://m.douban.com/movie/review/14826877/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为影评，分析了纪录片《二毛》的主题与人物经历，深刻探讨了社会对于多元性别群体的压迫及个人身份认同的复杂性。影评中讲述了二毛作为一名认同为女性的男性，在经历手术及感情波折后，最终因赌博与社会偏见导致悲剧收场的故事。作者细致描绘了二毛的生活经历和对自我认同的坚持，同时也指出了社会对其身份的不容忍，反映了多元性别在现实生活中的艰辛与矛盾。影评不仅关注个人的内心世界，也分析了其与社会的互动及抗争。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_如果不属于大多数，光是活着就很累了-_二毛-_豆瓣.md                             |
+| Size            | 4570 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-11-23                                 |
+| Tags            | 多元性别, 影评, 纪录片, 二毛, 身份认同, 性别认同, 社会压迫, 赌博, 真实故事, 情感经历                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

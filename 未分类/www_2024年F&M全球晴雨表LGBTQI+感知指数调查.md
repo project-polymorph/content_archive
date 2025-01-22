@@ -1,8 +1,11 @@
 # F&M LGBTQI+ Human Rights
 
+## 正文 { data-search-exclude }
+
+
 [F&M Global Barometers LGBTQI+ Perception Index](https://www.lgbtqiperceptionindex.org)
 
-## Measuring LGBTQI+ Human Rights
+## Measuring LGBTQI+ Human Rights { data-search-exclude }
 
 The F&M Global Barometers ® is pleased to present a pioneering survey that gauges the lived reality of the global LGBTQI+ community.
 
@@ -24,7 +27,7 @@ Explore the GBPI results in over 130 countries.
 
 [View Results](https://www.lgbtqiperceptionindex.org/results/)
 
-## Global Data
+## Global Data { data-search-exclude }
 
 Use the interactive map and tabs to view results by country.
 
@@ -62,7 +65,7 @@ Report Cards
 
 Combined
 
-## Methodology
+## Methodology { data-search-exclude }
 
 The F&M Global Barometers LGBTQI+ Perception Index (GBPI) is a pioneering survey that documents the lived human rights reality of LGBTQI+ people globally. The first iteration was launched in June 2022 and the subsequent version will be live from August-November 2024.
 
@@ -80,7 +83,7 @@ Current Total Responses
 
 ![](https://www.lgbtqiperceptionindex.org/wp-content/uploads/2022/07/right.png)
 
-## Grading Scale
+## Grading Scale { data-search-exclude }
 
 | Score Description           | Grade |
 |-----------------------------|-------|
@@ -92,7 +95,7 @@ Current Total Responses
 
 [Learn More About Project Methodology](https://www.lgbtqiperceptionindex.org/methodology/)
 
-## Our Partners
+## Our Partners { data-search-exclude }
 
 This project is not possible without the collaboration of LGBTQI+ civil society organizations and courageous LGBTQI+ activists worldwide. We are grateful for the generous support of our key partners: Astraea Lesbian Foundation for Justice, Center for Opinion Research, Center for Values in International Development, Council for Global Equality, Eden, Franklin & Marshall College, Global Philanthropy Project, Grindr 4 Equality, HER, InterPride, LGBTI Global Human Rights Initiative, Outright International, and Tower Marketing.
 
@@ -122,3 +125,29 @@ This project is not possible without the collaboration of LGBTQI+ civil society 
 
 [![](https://www.lgbtqiperceptionindex.org/wp-content/uploads/2024/09/Copy-of-OI_Outright_International_Logo_Black_Primary.jpg)](https://outrightinternational.org/)
 <!-- tcd_original_link https://www.lgbtqiperceptionindex.org/survey/mandarin/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_2024年F&M全球晴雨表LGBTQI+感知指数调查.md                             |
+| Size            | 6012 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

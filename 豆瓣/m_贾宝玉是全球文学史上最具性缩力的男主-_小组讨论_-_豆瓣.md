@@ -1,5 +1,8 @@
 # 贾宝玉是全球文学史上最具性缩力的男主
 
+## 正文 { data-search-exclude }
+
+
 ![高调官宣姐](https://img3.doubanio.com/icon/up204464366-13.jpg)
 
 **来自:** [高调官宣姐](https://www.douban.com/people/204464366/)  
@@ -20,3 +23,29 @@
 **你的回应:**  
 回应请先 [登录](#) 或 [注册](/accounts/register?reason=discuss)。
 <!-- tcd_original_link https://m.douban.com/group/topic/310619630/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本讨论主题围绕中国古典名著《红楼梦》中的主要角色贾宝玉展开，提出贾宝玉可能是一个跨性别者的观点。作者探讨了贾宝玉不愿 conform（符合）传统男性角色，相反渴望成为女性的情感与心理挣扎。文章提到，贾宝玉与黛玉的爱情故事悲剧性地反映出对个人身份追求的困难。在评论区中，参与者就性别认同和性张力的概念进行了激烈的讨论，表达了对经典文学角色现代解读的不同看法和看法的碰撞。整体上，本文提供了对贾宝玉这个角色新的性别视角，使其不仅仅作为名著中的文学象征，同时是多元性别话语的重要组成部分。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_贾宝玉是全球文学史上最具性缩力的男主-_小组讨论_-_豆瓣.md                             |
+| Size            | 1594 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 高调官宣姐                               |
+| Region          | 重庆                               |
+| Date            | 2024-08-29                                 |
+| Tags            | 跨性别, 贾宝玉, 红楼梦, 文学分析, 性别认同, 耽美小说, 性别研究, 社会文化, 评论区讨论, 经典文学                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

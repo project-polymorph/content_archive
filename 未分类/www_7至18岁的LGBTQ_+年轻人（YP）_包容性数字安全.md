@@ -1,5 +1,8 @@
 # 7至18岁的LGBTQ +年轻人（YP）| 包容性数字安全
 
+## 正文 { data-search-exclude }
+
+
 ![Revisit consent button](https://cdn-cookieyes.com/assets/images/revisit.svg)
 
 We value your privacy
@@ -36,7 +39,7 @@ Other cookies are those that are being analysed and haven't been classified into
 
 ACCEPT SAVE PREFERENCES
 
-## **LGBTQ +**
+## **LGBTQ +** { data-search-exclude }
 
 ### 与7至18岁的LGBTQ +年轻人（YP）合作的专业人员的建议
 
@@ -44,7 +47,7 @@ LGBTQ +危害指数从“互联世界框架教育”中被细分为两部分。 
 
 ![LGBTQ Browsing](https://www.internetmatters.org/wp-content/uploads/2020/09/LGBTQ-Browsing-1200x630-1-600x315.png)
 
-## 您将在本节中找到什么
+## 您将在本节中找到什么 { data-search-exclude }
 
  [自我形象和身份（SII）](#self-image-and-identity)
 
@@ -62,7 +65,7 @@ LGBTQ +危害指数从“互联世界框架教育”中被细分为两部分。 
 
 362个赞
 
-## 自我形象和身份
+## 自我形象和身份 { data-search-exclude }
 
 本部分探讨了在线和离线身份之间的差异，这些差异从自我意识开始，塑造了在线身份以及传播定型观念中的媒体影响力。 它确定了报告和支持的有效途径，并探讨了在线技术对自我形象和行为的影响。 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -131,7 +134,7 @@ LGBTQ +危害指数从“互联世界框架教育”中被细分为两部分。 
 - 具有在线资料和在线信息而造成的危害
 - 访问不正确或不正确的信息和指南会造成在线伤害
 
-## 在线声誉
+## 在线声誉 { data-search-exclude }
 
 本部分探讨信誉的概念以及其他人如何使用在线信息进行判断。 它提供了机会来制定策略来有效地管理个人数字内容，并利用技术的能力来创建有效的积极形象。 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -187,7 +190,7 @@ LGBTQ +危害指数从“互联世界框架教育”中被细分为两部分。 
 - 有关什么是恐吓和骚扰以及如何进行处理的信息非常重要。 同样，在学校中使人们看到并接受不同性别认同和性取向的课程和建议也很重要。 除非受害者完全控制谈话和与会人员，否则请采取恢复性司法措施。
 - 同样重要的是要考虑LGBTQ +仇恨和歧视对顺式YP和异性YP的潜在负面影响。 这是因为年轻人的家人和朋友可能成为虐待对象，因为家庭中的某人具有不同的性取向或性别认同。 所有YP都需要信息，有人可以安全地与他们交谈，并且可以摆脱骚扰。
 
-## 在线欺凌
+## 在线欺凌 { data-search-exclude }
 
 这部分内容探讨了欺凌和其他在线侵略以及技术如何影响这些问题。 它提供了有效的报告和干预策略，并考虑了欺凌和其他侵略行为与立法的关系。 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -253,7 +256,7 @@ LGBTQ +危害指数从“互联世界框架教育”中被细分为两部分。 
 
 - 恐吓，骚扰和网上仇恨
 
-## 管理在线信息
+## 管理在线信息 { data-search-exclude }
 
 本部分探讨如何找到，查看和解释在线信息。 它提供了有效搜索，关键数据评估，风险识别以及在线威胁和挑战管理的策略。 它探讨了在线威胁如何对我们的人身安全以及在线安全构成威胁。 它还涵盖与道德出版相关的学习。 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -287,7 +290,7 @@ LGBTQ +危害指数从“互联世界框架教育”中被细分为两部分。 
 - 当地LGBTQ +团体，例如 [兰开夏郡LGBTQ +](https://lancslgbt.org.uk/) 
 - 子线– [``问山姆''字母](https://www.childline.org.uk/get-support/ask-sam/you-and-your-body-asksam/lgbt/)
 
-## 健康，福祉和生活方式
+## 健康，福祉和生活方式 { data-search-exclude }
 
 这部分内容探讨了技术对健康，福祉和生活方式的影响，例如情绪，睡眠，身体健康和人际关系。 它还包括了解负面行为以及由在线技术放大和维持的负面问题及其应对策略。 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -429,7 +432,7 @@ YP有关关系和性教育的教学策略：
 - 出行有害
 - 在线伤害和危害心理健康
 
-## 隐私和安全
+## 隐私和安全 { data-search-exclude }
 
 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -460,7 +463,7 @@ YP有关关系和性教育的教学策略：
 - [英国更安全的互联网中心-在社交媒体上报道社交媒体](https://www.saferinternet.org.uk/blog/reporting-impersonation-social-media)
 - [InBrief –假冒Facebook上某人的法律是什么？](https://www.inbrief.co.uk/human-rights/impersonating-someone-on-facebook/)
 
-## 版权和所有权
+## 版权和所有权 { data-search-exclude }
 
 本部分探讨了在线内容所有权的概念。 它探讨了保护个人内容和尊重他人权利以及解决非法访问，下载和分发的潜在后果的策略。 （[互联世界教育框架– 2020年版](https://www.gov.uk/government/publications/education-for-a-connected-world)，英国互联网安全委员会）
 
@@ -487,7 +490,7 @@ YP有关关系和性教育的教学策略：
 - [警察LGBTQ +榜样](https://lbt.police.uk/about-us/role-models/)
 - [放学](http://www.schools-out.org.uk/)
 
-## 有用的资源
+## 有用的资源 { data-search-exclude }
 
 请参阅我们的有用资源列表以获取进一步的支持。
 
@@ -527,3 +530,29 @@ LGBTQ指南
 
 让我们知道您对中心的看法。 [做一个简短的调查](https://www.internetmatters.org/zh-CN/inclusive-digital-safety/survey/)
 <!-- tcd_original_link https://www.internetmatters.org/zh-CN/inclusive-digital-safety/advice-for-professionals/online-harms-index/lgbtq-children-and-young-people/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_7至18岁的LGBTQ_+年轻人（YP）_包容性数字安全.md                             |
+| Size            | 55883 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

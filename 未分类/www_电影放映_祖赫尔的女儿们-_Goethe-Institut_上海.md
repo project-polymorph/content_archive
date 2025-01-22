@@ -1,5 +1,8 @@
 # 电影放映: 祖赫尔的女儿们 - Goethe-Institut 上海
 
+## 正文 { data-search-exclude }
+
+
 ![Zuhurs Töchter](/resources/files/jpg1318/zuhurs-daughters_foto_021-formatkey-jpg-w511.jpg) © Genske Humboldt Corso Film
 
 日期：2024年6月21日（周五）18:45-21:00
@@ -28,3 +31,29 @@
 德国驻上海总领事馆文化教育处  
 上海市黄浦区福州路318号浦汇大厦101室
 <!-- tcd_original_link https://www.goethe.de/ins/sha/zh/ver.cfm?event_id=25757927 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_电影放映_祖赫尔的女儿们-_Goethe-Institut_上海.md                             |
+| Size            | 1685 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

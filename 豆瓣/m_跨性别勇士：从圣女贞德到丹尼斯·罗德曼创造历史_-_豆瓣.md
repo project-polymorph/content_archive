@@ -1,5 +1,8 @@
 # 《跨性别勇士：从圣女贞德到丹尼斯·罗德曼创造历史》
 
+## 正文 { data-search-exclude }
+
+
 ![Transgender Warriors](https://img9.doubanio.com/view/subject/l/public/s6478034.jpg)
 
 这是1996年由莱斯利·费恩伯格写的一本书。费恩伯格是个活动家，也是个作家，他活到了2014年。这本书主要讲的是跨性别者的权益，还有就是怎么让跨性别者和其他一些被边缘化的群体，像是女同、男同、双性恋、女性、有色人种、残疾人和工人阶级的人，大家能团结起来。这本书现在被认为是LGBT行动主义的重要一步。费恩伯格自己就是一个很男性化的女同性恋者，所以他一直被问“你是男生还是女生？”这样的问题。他觉得自己的经历在历史上被忽略了，所以决定写一本书来记录全世界跨性别者的故事。虽然写这本书挺难的，但他认为这很重要，可以帮助现在的跨性别者和他们的支持者更好地认识自己，从而为所有人创造一个更公平的世界。
@@ -22,3 +25,29 @@
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司  
 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book) · [图书馆合作](https://book.douban.com/library_invitation) · [移动应用](https://www.douban.com/doubanapp/)
 <!-- tcd_original_link https://m.douban.com/book/review/16183170/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《跨性别勇士：从圣女贞德到丹尼斯·罗德曼创造历史》是由莱斯利·费恩伯格于1996年撰写的一本书。书中探讨了跨性别者的权利问题以及如何促使跨性别者与其他边缘化群体，如女同、男同、双性恋者、有色人种等团结起来。作者结合个人经历与历史背景，强调了性别表达的多样性和复杂性，同时批判了性别角色的严格划分所带来的社会压迫。书中也提到了历史上对多元性别的接纳，具体包括北美原住民的性别观念和圣女贞德的故事，展示了跨性别女性在过去社会中的地位与角色。费恩伯格认为真正的解放源于被边缘化群体的团结与互助，提倡超越传统的性别标签，以创造一个更加包容、平等的社会。书中还附有许多跨性别者和性别非传统者的图片，反映了跨性别权利运动的进步与挑战。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别勇士：从圣女贞德到丹尼斯·罗德曼创造历史_-_豆瓣.md                             |
+| Size            | 4372 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 莱斯利·费恩伯格                               |
+| Region          | 美国                               |
+| Date            | 1997-06-30                                 |
+| Tags            | 跨性别, 性别权利, LGBT, 边缘化群体, 性别表达, 历史, 社会批判, 女同性恋, 男同性恋, 跨性别女性                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

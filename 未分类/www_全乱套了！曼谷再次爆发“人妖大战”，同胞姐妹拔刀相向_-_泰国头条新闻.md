@@ -1,5 +1,8 @@
 # 全乱套了！曼谷再次爆发“人妖大战”，同胞姐妹拔刀相向，路过洋人反倒成了英雄……
 
+## 正文 { data-search-exclude }
+
+
 3月 29, 2024 [#泰国社会头条#](https://www.thaiheadlines.com/tag/%e6%b3%b0%e5%9b%bd%e5%a4%b4%e6%9d%a1%e6%96%b0%e9%97%bb-%e6%b3%b0%e5%9b%bd%e7%a4%be%e4%bc%9a%e5%a4%b4%e6%9d%a1/), [曼谷](https://www.thaiheadlines.com/tag/%e6%9b%bc%e8%b0%b7/), [泰国](https://www.thaiheadlines.com/tag/%e6%b3%b0%e5%9b%bd/)
 
 上个月，泰国两大新闻主角：一是人妖，二是洋人。
@@ -134,3 +137,29 @@
 
 ![我们的角色](https://www.thaiheadlines.com/wp-content/uploads/2024/03/image-40.png)
 <!-- tcd_original_link https://www.thaiheadlines.com/148646/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_全乱套了！曼谷再次爆发“人妖大战”，同胞姐妹拔刀相向_-_泰国头条新闻.md                             |
+| Size            | 7653 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性取向接受与自杀企图减少的关联研究
 
+## 正文 { data-search-exclude }
+
+
 ![xmol-logo](https://scdn.x-mol.com/jcss/images/logo-new.jpg)
 
 **来源**: [LGBT Health](https://www.x-mol.com/ref/1661) ( IF 3.9 )  
@@ -10,7 +13,7 @@
 
 ---
 
-## 研究目的
+## 研究目的 { data-search-exclude }
 
 本研究调查了女同性恋、男同性恋、双性恋、跨性别、酷儿和质疑 (LGBTQ) 青年接受他人性取向与自杀未遂之间的关系。
 
@@ -29,3 +32,29 @@
 [京ICP备11026495号-2](https://beian.miit.gov.cn/)  
 [京公网安备 11010802027423号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027423)
 <!-- tcd_original_link https://www.x-mol.com/paper/1349518311006433280/t -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_双性恋、跨性别、酷儿和质疑青年的自杀企图减少之间的关联-_X-MOL.md                             |
+| Size            | 1423 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

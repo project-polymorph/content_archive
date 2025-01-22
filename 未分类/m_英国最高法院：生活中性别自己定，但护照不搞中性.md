@@ -1,5 +1,8 @@
 # 英国最高法院：生活中性别自己定，但护照不搞中性
 
+## 正文 { data-search-exclude }
+
+
 观察者网  |  2021-12-16
 
 【文/观察者网 李丽】英国维权人士艾伦凯恩（Christie Elan-Cane）针对政府不允许提供性别中立护照的政策提出法律挑战，15日遭英国最高法院5名法官驳回。法官们一致认为，生活中性别自己怎么认同都可以，但法律文件必须界定清晰。
@@ -38,3 +41,29 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 
 责任编辑：李研
 <!-- tcd_original_link http://m.cyol.com/gb/articles/2021-12/16/content_VMogmcv9Y.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_英国最高法院：生活中性别自己定，但护照不搞中性.md                             |
+| Size            | 3789 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

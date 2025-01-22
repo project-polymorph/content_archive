@@ -1,5 +1,8 @@
 # 如何知道我是泛性还是双性恋
 
+## 正文 { data-search-exclude }
+
+
 双性恋和泛性恋之间的区别是LBGTQ社区的持续对话。在这一点上，它有一些细微差别。
 
 **Bi意为“两个”，这让很多人都想到了性别二元。** 如果双性恋者被两个不同的人吸引，那必然意味着男人和女人，大多数人都是这样。容易，对吗？
@@ -335,3 +338,29 @@ Supreme Topics
 
 [阿齐兹·安萨里（Aziz Ansari）：关系与选择悖论](https://www.chunletang.com/20599/%e9%98%bf%e9%bd%90%e5%85%b9%c2%b7%e5%ae%89%e8%90%a8%e9%87%8c%ef%bc%88aziz-ansari%ef%bc%89%ef%bc%9a%e5%85%b3%e7%b3%bb%e4%b8%8e%e9%80%89%e6%8b%a9%e6%82%96%e8%ae%ba.html)
 <!-- tcd_original_link https://www.chunletang.com/5349/%E5%A6%82%E4%BD%95%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E6%B3%9B%E6%80%A7%E8%BF%98%E6%98%AF%E5%8F%8C%E6%80%A7%E6%81%8B.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_如何知道我是泛性还是双性恋_-_春乐堂.md                             |
+| Size            | 29884 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

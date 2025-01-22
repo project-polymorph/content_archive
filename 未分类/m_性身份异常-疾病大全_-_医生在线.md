@@ -1,8 +1,11 @@
 # 性身份异常 - 疾病大全
 
+## 正文 { data-search-exclude }
+
+
 ![主页](style/disease/image/home.png)
 
-## 性身份异常
+## 性身份异常 { data-search-exclude }
 
 ![搜索图标](style/disease/image/search_icon.png)
 
@@ -42,3 +45,29 @@
 
 本网站敬告网民：网站资讯仅供参考，身体若有不适，请及时到院就医。
 <!-- tcd_original_link https://m.51daifu.com/disease/wzxq-134409.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性身份异常-疾病大全_-_医生在线.md                             |
+| Size            | 3916 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

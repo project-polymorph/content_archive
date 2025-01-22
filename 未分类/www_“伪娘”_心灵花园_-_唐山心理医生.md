@@ -1,5 +1,8 @@
 # “伪娘”的易性癖分析
 
+## 正文 { data-search-exclude }
+
+
 ![“伪娘” 刘著的易性癖分析](/images/defaultpic.gif)
 
 更新于2012-08-11 08:32:25  
@@ -15,7 +18,7 @@
 
 ---
 
-## 周雷专栏
+## 周雷专栏 { data-search-exclude }
 
 ![案例分析：母子乱伦背后的心路历程](/uploads/allimg/130919/1-130919211401928.jpg)  
 [【案例分析】母子乱伦背后的心路历程](/joely/779.html) 86129 人测试过
@@ -29,7 +32,7 @@
 
 ---
 
-## 心理专题
+## 心理专题 { data-search-exclude }
 
 ![女儿想和我发生性关系](/uploads/allimg/120722/1-120H2094F5221.jpg)  
 [女儿想和我发生性关系](/zhuanti/anli/869.html) 142563 人测试过
@@ -43,7 +46,7 @@
 
 ---
 
-## 热门标签
+## 热门标签 { data-search-exclude }
 
 - [心理治疗新方向](/tags.php?/%D0%C4%C0%ED%D6%CE%C1%C6%D0%C2%B7%BD%CF%F2/)
 - [唐山心理医生](/tags.php?/%CC%C6%C9%BD%D0%C4%C0%ED%D2%BD%C9%FA/)
@@ -70,3 +73,29 @@
 
 版权所有：心灵花园 2010-2022 | [技术支持：DedeCms](http://www.dedecms.com) | [备案号：冀ICP备12011456号-1](https://beian.miit.gov.cn) | ![](/about/beian.png) [冀公网安备 13020702000252号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=13020702000252)
 <!-- tcd_original_link https://www.tspsy.com/tags.php?/%A1%B0%CE%B1%C4%EF%A1%B1/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“伪娘”_心灵花园_-_唐山心理医生.md                             |
+| Size            | 3640 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

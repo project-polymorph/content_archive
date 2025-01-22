@@ -1,5 +1,8 @@
 # 得知儿子是穿女装的跨性别者，妈妈亲自为他化妆 | 吴楠专栏
 
+## 正文 { data-search-exclude }
+
+
 ![中国三明治](https://img9.doubanio.com/icon/u147883277-6.jpg) [中国三明治](https://www.douban.com/people/china30s/) 2021-05-21 15:06:01
 
 ![](https://img3.doubanio.com/view/note/l/public/p82061012.webp)
@@ -198,3 +201,29 @@
 
 © 本文版权归 [中国三明治](https://www.douban.com/people/china30s/) 所有，任何形式转载请联系作者。
 <!-- tcd_original_link https://m.douban.com/note/803302364/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文本讲述了跨性别者季明的成长故事及其与母亲之间的关系。故事开始于季明为母亲化妆的经历，揭示了他在身份认同上的挣扎与探索。季明在一个三线城市长大，尽管在家庭中感受到对性别角色的压迫，他仍然努力寻找自我。在大学期间，他通过网络交流认识了更多志同道合的朋友，从而逐渐意识到自己是跨性别者。文中详细描述了季明的心理斗争，包括对女性身份的渴望，以及在家庭环境中与母亲关系的变化。母亲对他的穿着和用心化妆逐渐接受，反映了对多元性别的理解与支持。最后，季明勇敢尝试穿女装并准备向母亲坦白自己的身份，展现了一个充满挑战与希望的个人故事。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_得知儿子是穿女装的跨性别者，妈妈亲自为他化妆_吴楠专栏_-_豆瓣.md                             |
+| Size            | 23578 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 吴楠                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-05-21                                 |
+| Tags            | 跨性别, 性别认同, 代际关系, 成长故事, LGBTQ, 心理斗争, 家庭接受, 女性化, 多元性别, 真实故事                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

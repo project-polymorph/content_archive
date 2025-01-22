@@ -1,5 +1,8 @@
 # 美泄密士兵曼宁狱中企图自杀
 
+## 正文 { data-search-exclude }
+
+
 2020年03月13日08:13 | 来源：[新华网](http://www.xinhuanet.com/)
 
 ![人民网](/img/2020wbc/imgs/icon_type.png)_小字号_
@@ -32,3 +35,29 @@ _分享让更多人看到 _![分享图标](/img/2020wbc/imgs/share.png)
 -   [![](/img/2020wbc/imgs/icon_download_zy.png)人民智云](http://www.people.cn/rmzy/download.html)
 -   [![](/img/2020wbc/imgs/icon_download_zz.png)人民智作](http://coo.people.cn/)
 <!-- tcd_original_link http://world.people.com.cn/n1/2020/0313/c1002-31630013.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_美泄密士兵曼宁狱中企图自杀.md                             |
+| Size            | 2550 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

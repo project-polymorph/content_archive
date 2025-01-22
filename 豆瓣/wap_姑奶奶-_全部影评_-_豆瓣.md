@@ -1,9 +1,12 @@
 # 姑奶奶的影评 (108)
 
-## 来源
+## 正文 { data-search-exclude }
+
+
+## 来源 { data-search-exclude }
 [豆瓣电影](https://movie.douban.com)
 
-## 电影信息
+## 电影信息 { data-search-exclude }
 - **导演**: 邱炯炯
 - **主演**: 樊其辉
 - **类型**: 传记 / 纪录片 / 同性 / 音乐
@@ -12,7 +15,7 @@
 
 [![姑奶奶](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2431604181.webp)](https://movie.douban.com/subject/5265182/)
 
-## 评论列表
+## 评论列表 { data-search-exclude }
 
 ### [MADAM](https://movie.douban.com/review/4888176/)
 裁缝和碧浪达夫人 姑奶奶樊其辉有两重身份，健谈的裁缝，浪荡的碧浪达夫人。你会发现作为男性形貌的裁缝举手投足还是母叉叉的，相反，女性形貌的碧浪达夫人却生猛坦荡，霸气十足，带点男人的襟怀坦荡。所以裁缝和碧浪达夫人，是他社会身份的划分，是白天和黑夜的划分，但... 
@@ -104,3 +107,29 @@
 在座的会说我是严重的同性恋患者，但在我眼里你们是异性恋患者 2.在我眼里没有什么男性化女性化，我只是把我喜欢的好看的东西披在自己身上了 3.但是我会觉得男的能够追逐自由，，，，，，女的连这么追逐自由的方式都没有 4.他给自己化妆，形容画的恶心，巨大的头套，长裙 5.头...
 ![有用](https://img1.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png) 2 ![没用](https://img1.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png) 0 [0回应](https://movie.douban.com/review/15809739/#comments)
 <!-- tcd_original_link https://wap.douban.com/movie/subject/5265182/reviews?start=76&count=25&from=subject -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为豆瓣网站上关于电影《姑奶奶》的影评汇总。电影由导演邱炯炯执导，主演为樊其辉，于2010年在中国大陆上映。影片类型为传记、纪录片和音乐，聚焦于樊其辉的双重身份：白天是一名裁缝，晚间则化身为“碧浪达夫人”，在多重身份下探讨社会认同与个人身份的矛盾。影评中观众分享了观后感受，描述了影片深刻的情感、作者的艺术追求以及对同志文化的关注。评论者纷纷表达对影片情感深度的认同，体现出不同层次的社会与心理探讨。影片中揭示了个人在社会结构中的困境和追求自由的努力，既反映了真实的生存状态，也展现了丰富的文化内涵。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | wap_姑奶奶-_全部影评_-_豆瓣.md                             |
+| Size            | 15219 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 豆瓣电影                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-09-04                                 |
+| Tags            | 多元性别, 同志文化, 个人与社会, 生活故事, 影评, 纪录片, 艺术追求, 身份认同, 社会环境, 情感深度                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

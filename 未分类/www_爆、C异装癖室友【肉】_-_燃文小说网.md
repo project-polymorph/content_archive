@@ -1,5 +1,8 @@
 # 爆、C异装癖室友【肉】
 
+## 正文 { data-search-exclude }
+
+
 ![爆、C异装癖室友【肉】](https://www.aliciaunger.com/images/24150/76202f1e7f41cac5ccb801fdf7af9d88.jpg)
 
 **作者：** [在吃鸡排](https://www.aliciaunger.com/zuozhe/%E5%9C%A8%E5%90%83%E9%B8%A1%E6%8E%92/ "在吃鸡排")  
@@ -18,7 +21,7 @@
 [全部章节](https://www.aliciaunger.com/xs_igiab/1/)  
 [加入书架](javascript:addbookcase('igiab','%e7%88%86%e3%80%81C%e5%bc%82%e8%a3%85%e7%99%96%e5%ae%a4%e5%8f%8b%e3%80%90%e8%82%89%e3%80%91');)
 
-## 最新章节列表
+## 最新章节列表 { data-search-exclude }
 - [错误章节](/xiaoshuo/igiab/ifgedb.html)
 - [《从背后进入你》完整版在专栏](/xiaoshuo/igiab/ifgedd.html)
 - [1彩蛋受穿着情趣女仆装被仿真肉棒肏](/xiaoshuo/igiab/ifgedh.html)
@@ -34,10 +37,36 @@
 
 [全部章节目录(共15章)](https://www.aliciaunger.com/xs_igiab/1/)
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 《[爆、C异装癖室友【肉】](https://www.aliciaunger.com/book/igiab/ "爆、C异装癖室友【肉】")》所有内容均来自互联网或网友上传，[燃文小说网](/ "燃文小说网")只为原作者[在吃鸡排](https://www.aliciaunger.com/zuozhe/%E5%9C%A8%E5%90%83%E9%B8%A1%E6%8E%92/ "在吃鸡排")的小说《[爆、C异装癖室友【肉】](https://www.aliciaunger.com/book/igiab/ "爆、C异装癖室友【肉】")》进行宣传。欢迎各位书友支持[在吃鸡排](https://www.aliciaunger.com/zuozhe/%E5%9C%A8%E5%90%83%E9%B8%A1%E6%8E%92/ "在吃鸡排")并收藏《[爆、C异装癖室友【肉】](https://www.aliciaunger.com/book/igiab/ "爆、C异装癖室友【肉】")》最新章节。
 
 Copyright © 2025 **燃文小说网** All Rights Reserved.
 
 本站所有小说均由程序自动从搜索引擎索引。
 <!-- tcd_original_link https://www.aliciaunger.com/book/igiab/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_爆、C异装癖室友【肉】_-_燃文小说网.md                             |
+| Size            | 3078 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

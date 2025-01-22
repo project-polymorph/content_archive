@@ -1,5 +1,8 @@
 # 中俄混血变性人梦想找到配偶
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2006年11月07日 13:12:11  
 **来源：** 浙江在线  
 **作者：** 朱俊骏、宗一多  
@@ -39,3 +42,29 @@
 
 ![](http://img.zjolcdn.com/pic/0/06/12/96/6129677_786702.jpg)
 <!-- tcd_original_link https://china.zjol.com.cn/05china/system/2006/11/07/007974617.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_中俄混血变性人梦想找到配偶_-_浙江在线.md                             |
+| Size            | 3703 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

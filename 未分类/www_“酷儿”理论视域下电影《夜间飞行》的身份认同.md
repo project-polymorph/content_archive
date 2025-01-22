@@ -1,5 +1,8 @@
 # “酷儿”理论视域下电影《夜间飞行》的身份认同
 
+## 正文 { data-search-exclude }
+
+
 **DOI:** [10.12677/ARL.2022.114025](https://doi.org/10.12677/ARL.2022.114025), [PDF](//pdf.hanspub.org/arl20220400000_57808358.pdf), [HTML](//www.hanspub.org/journal/paperinformation?paperid=57879), [XML](//image.hanspub.org/xml/57879.xml),  [被引量](citations?paperid=57879&journalid=758) 下载:62  浏览:661   
 **作者:** [曾思繁](articles?searchcode=%e6%9b%be%e6%80%9d%e7%b9%81&searchfield=authors&page=1)：福建师范大学，福建 福州    
 **关键词:** [酷儿理论](articles?searchcode=%e9%85%b7%e5%84%bf%e7%90%86%e8%ae%ba&searchfield=keyword&page=1)；[酷儿电影](articles?searchcode=%e9%85%b7%e5%84%bf%e7%94%b5%e5%bd%b1&searchfield=keyword&page=1)；[韩国电影](articles?searchcode=%e9%9f%a9%e5%9b%bd%e7%94%b5%e5%bd%b1&searchfield=keyword&page=1)；[Queer Theory](articles?searchcode=Queer+Theory&searchfield=keyword&page=1)； [Queer Movies](articles?searchcode=+Queer+Movies&searchfield=keyword&page=1)； [Korean Movies](articles?searchcode=+Korean+Movies&searchfield=keyword&page=1)  
@@ -10,19 +13,19 @@
 
 **文章引用：** 曾思繁. “酷儿”理论视域下电影《夜间飞行》的身份认同\[J\]. 艺术研究快报, 2022, 11(4): 154-158. [https://doi.org/10.12677/ARL.2022.114025](https://doi.org/10.12677/ARL.2022.114025)
 
-## 1. 引言
+## 1. 引言 { data-search-exclude }
 
 酷儿理论是于20世纪90年代在西方兴起的一种关于性与性别的理论，早期对理论建设做出巨大贡献的主要是：特丽莎·德·劳丽蒂斯、朱迪斯·巴特勒和伊夫·科索夫斯基·塞芝维克三位理论家。该理论主要继承了女性主义和同性恋理论，是后现代解构主义的典型性体现。“酷儿”一词最开始用作对同性恋“行为古怪”的贬义称呼，随着理论不断的发展，“酷儿”的含义呈现出一种包罗万象和反对被归类的趋势。用以指同性恋者、双性恋者、跨性别者、异装者、虐恋者等所有视自己为非异性恋的人，甚至认同并践行酷儿理论的异性恋者也算作“酷儿”。总结来说，这些性少数群体拒绝将自己的性、性别、被简单惯常地二分化，更加重视强调自己的差异性。
 
 “酷儿理论”被运用于多个学科的批评实践中，其中在电影学科创作中形成了一种“酷儿电影”。酷儿理论虽然起源于同性恋研究，但《酷儿电影：美国电影史中的同性恋历史》一书中从主角、主创、观众学、电影样式、对角色产生认同等五个方面界定了何为酷儿电影 \[[1](#ref1)\]。这种界定比早期学者把酷儿电影直接等同于同性恋电影更加准确，可以帮助我们更好理解与把握“酷儿”这一群体。不过从目前的创作实践来看，同性恋电影仍是酷儿电影中占比较多的题材。
 
-## 2. 《夜间飞行》相关信息
+## 2. 《夜间飞行》相关信息 { data-search-exclude }
 
 李宋熙日是一位专注于创作酷儿电影的韩国导演。他作为一位男同性恋导演，尤其擅长表现“酷儿之痛”，拍摄的电影诸多触及到同性恋的生存现状与这一群体遇到的社会问题。他于2006年创作的《不后悔》是韩国电影史上第一次将同性恋酒吧作为叙事背景的影片，在当时创造了韩国同志电影的票房奇迹。他的其它作品还包括《白夜》《南行》《夜间飞行》等同志电影，其中《夜间飞行》是李宋熙日导演从影生涯中创作最成熟，口碑最好的电影，入围第64届柏林电影节全景单元，在中国大陆相关电影评分平台上的“2014年评分最高韩国电影”榜单中排名第四。
 
 《夜间飞行》的创作灵感来自导演观看了一段电梯监控视频：一个被欺负的男生在自杀前蹲在电梯里哭泣。电影是反应社会的作品，导演将自己对社会生活的观察与思考置于影片中，讨论了包括同性恋、双性恋、未成年人犯罪、阶级、教育等在内的社会问题。影片具体通过讲述两个男生之间的情感纠葛与透视周围对他们感情的反应，深刻反映出韩国社会存在的欺凌、歧视、冷漠与暴力：学生与社会阶级之间的强者对弱者的欺凌；社会大众对单亲妈妈、罪犯孩子、同性恋者等少数弱势群体的歧视；老师对学生迷茫求助的无视、学生对欺凌暴力现象的漠视旁观；这种揭露现实的疼痛叙事给人留下了深刻的观影印象。
 
-## 3. 身体认同在电影文本中的具体解读
+## 3. 身体认同在电影文本中的具体解读 { data-search-exclude }
 
 ### 3.1. 社会规训下的身份
 
@@ -54,11 +57,11 @@
 
 志雄通过对抗困扰永俊的校园暴力向世界展示了自己，并通过向永俊敞开心扉携手团结一致。导演最终给了影片一个开放的结局，也是影片为数不多温情的片段：两位少年依靠的画面，“韩国最南的火车站知道在哪儿吗？是丽水，最后一班火车时间……八点，我们一起逃走吧。”两个人一起忍受寂寞，那份寂寞就能稍稍缓和一些。
 
-## 4. 总结
+## 4. 总结 { data-search-exclude }
 
 《夜间飞行》的片名取自法国作家圣埃克絮佩里的同名小说，在影片中有两种含义。一是申永俊总是去的那个被举报而废弃的同性恋酒吧的名字，另一个含义是两个孤独的被遗弃的人，在暗夜里一起挣扎着飞行，担任彼此间的陪伴就不会再感到害怕。韩国导演李宋熙日通过创作酷儿电影，表达出自己对异性恋权威与传统主流文化的抗议。他让大家更加深入地了解到酷儿的真实生活，突出强调了社会中不同人群的差异。酷儿理论对传统进行着颠覆与解构，影响着人们看待问题思考问题的方式，具有深远强大的生命力。
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 **参考文献**
 
@@ -74,3 +77,29 @@
 
 \[6\] 杜渐. 以酷儿理论视角分析电影《云图》中的酷儿现象\[J\]. 文学教育(下), 2020(1): 142-143.
 <!-- tcd_original_link https://www.hanspub.org/journal/paperinformation?paperid=57879 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_“酷儿”理论视域下电影《夜间飞行》的身份认同.md                             |
+| Size            | 19262 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

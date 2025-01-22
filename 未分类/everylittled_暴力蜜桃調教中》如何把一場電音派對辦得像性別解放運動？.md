@@ -1,6 +1,9 @@
 # 女性影展｜《暴力蜜桃調教中》如何把一場電音派對辦得像性別解放運動？
 
-## Teaches of Peaches
+## 正文 { data-search-exclude }
+
+
+## Teaches of Peaches { data-search-exclude }
 
 ![女性影展｜《暴力蜜桃調教中》如何把一場電音派對辦得像性別解放運動？](https://bucket-image.inkmaginecms.com/version/mobile/1/image/2024/10/7bc6134a-ea2f-4b51-b048-74cb3a0cd4e8.jpg)
 Photo Credit：《暴力蜜桃調教中》，來源：女性影展
@@ -103,3 +106,29 @@ Photo Credit：《暴力蜜桃調教中》，來源：女性影展
 - [女性影展｜當色情片不再是男性的遊戲——從《色愛》窺看女性主導的性愛派對](https://everylittled.com/article/192053)
 - [女性影展開幕片《1489》：親吻弟弟在戰場留下的遺骸，作為最後的道別](https://everylittled.com/article/192078)
 <!-- tcd_original_link https://everylittled.com/article/192111 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | everylittled_暴力蜜桃調教中》如何把一場電音派對辦得像性別解放運動？.md                             |
+| Size            | 9138 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

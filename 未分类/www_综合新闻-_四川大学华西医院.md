@@ -1,8 +1,11 @@
 # 四川大学华西医院综合新闻
 
+## 正文 { data-search-exclude }
+
+
 ![华西医院](https://www.wchscu.cn/Uploads/Picture/2024/10/10/s6707a48624fce.jpg)
 
-## 新闻列表
+## 新闻列表 { data-search-exclude }
 
 ### [我院举办2011年药师抗菌药物合理应用培训](http://www.wchscu.cn/public/comprehensive/19662.html)
 今年4月7日世界卫生日的主题是“抵御耐药性：今天不采取行动，明天就无药可医”。卫生部为此专门制定了《2011年全国抗菌药物临床应用专项整治活动方案》，将抗菌药物合理使用作为今年质量万里行、“三好一满意”活动的考核内容。为严格落实抗菌药物分...
@@ -80,3 +83,29 @@
 *来源：四川大学华西医院*  
 *时间：所有新闻的发布时间均为2011年6月28日*  
 <!-- tcd_original_link http://www.wchscu.cn/comprehensive/p/2214.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_综合新闻-_四川大学华西医院.md                             |
+| Size            | 5764 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

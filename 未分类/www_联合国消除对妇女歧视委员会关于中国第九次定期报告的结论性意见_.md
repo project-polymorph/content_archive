@@ -1,10 +1,13 @@
 # 联合国消除对妇女歧视委员会关于中国第九次定期报告的结论性意见（中文）
 
+## 正文 { data-search-exclude }
+
+
 ![editor](https://www.csosew.org/wp-content/uploads/2023/03/cropped-favicon-cso-150x150.png) by [editor](https://www.csosew.org/author/editor/)
 
 [1 11 月, 2023](https://www.csosew.org/%e8%81%94%e5%90%88%e5%9b%bd%e6%b6%88%e9%99%a4%e5%af%b9%e5%a6%87%e5%a5%b3%e6%ad%a7%e8%a7%86%e5%a7%94%e5%91%98%e4%bc%9a%e5%85%b3%e4%ba%8e%e4%b8%ad%e5%9b%bd%e7%ac%ac%e4%b9%9d%e6%ac%a1%e5%ae%9a%e6%9c%9f/)
 
-## A.导言
+## A.导言 { data-search-exclude }
 
 1. 2023年5月12日，消除对妇女歧视委员会第1977和1978次会议(CEDAW/C/SR.1977和CEDAW/C/SR.1978)审议了中国的第九次定期报告(CEDAW/C/CHN/9、CEDAW/C/CHN-HKG/9和CEDAW/C/CHN-MAC/9)。
 
@@ -12,7 +15,7 @@
 
 3. 委员会赞扬缔约国派出以国务院妇女儿童工作委员会副主任黄晓薇为团长的高级别代表团，其成员包括全国人大社会建设委员会、最高人民法院、中共中央组织部、国务院新闻办公室、中共中央统战部、外交部、教育部、公安部、民政部、司法部、人力资源和社会保障部、国家民族事务委员会、国家卫生健康委员会、国家统计局和国家疾病预防控制局。代表团还包括来自中国香港和中国澳门特别行政区的成员。
 
-## B.积极方面
+## B.积极方面 { data-search-exclude }
 
 4. 委员会欢迎自2014年审议缔约国第七和第八次合并定期报告以来在立法改革方面取得进展，特别是通过了下列法律：
 
@@ -42,15 +45,15 @@
 
 6. 委员会欢迎缔约国自审议上一次报告后，于2022年批准了国际劳工组织(劳工组织)《1930年强迫劳动公约》(第29号)和《1957年废除强迫劳动公约》(第105号)。
 
-## C.可持续发展目标
+## C.可持续发展目标 { data-search-exclude }
 
 7. 委员会欢迎国际社会对可持续发展目标的支持，并呼吁在执行《2030年可持续发展议程》的整个进程中，根据《公约》条款实现法律上(依法)和事实上(实质性)的性别平等。委员会回顾目标5以及将平等和不歧视原则纳入所有17个目标主流的重要性。委员会敦促缔约国确认妇女是中国实现可持续发展的推动力，并为此采取相关政策和战略。
 
-## D.议会
+## D.议会 { data-search-exclude }
 
 8. 委员会强调立法权在确保充分执行《公约》方面的关键作用(见A/65/38，第二部分，附件六)。委员会请全国人民代表大会根据其授权，从本报告发布之日到《公约》规定的下一个报告期之前，为执行本结论性意见采取必要步骤。
 
-## E.主要关切领域和建议：中国各地
+## E.主要关切领域和建议：中国各地 { data-search-exclude }
 
 ### 与大流行病疫情和疫后恢复工作相关的妇女权利和性别平等
 
@@ -598,3 +601,29 @@
 
 版权 © 2023. All Rights Reserved CSOs Engagement Watch 公民社会组织参与观察
 <!-- tcd_original_link https://www.csosew.org/%E8%81%94%E5%90%88%E5%9B%BD%E6%B6%88%E9%99%A4%E5%AF%B9%E5%A6%87%E5%A5%B3%E6%AD%A7%E8%A7%86%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%AE%9A%E6%9C%9F/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_联合国消除对妇女歧视委员会关于中国第九次定期报告的结论性意见_.md                             |
+| Size            | 57922 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

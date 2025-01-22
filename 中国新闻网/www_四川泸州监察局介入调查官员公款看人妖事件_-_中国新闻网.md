@@ -1,5 +1,8 @@
 # 四川泸州监察局介入调查"官员公款看人妖"事件
 
+## 正文 { data-search-exclude }
+
+
 2009年08月14日 08:56  
 来源：四川在线  
 
@@ -34,3 +37,29 @@
 
 Copyright ©1999-2025 chinanews.com. All Rights Reserved  
 <!-- tcd_original_link https://www.chinanews.com.cn/gn/news/2009/08-14/1818055.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件报道了四川泸州市监察局介入调查一起涉及官员公款看人妖表演的事件。这一事件引发了公众的广泛关注和热议。根据报道，泸县副科级以上干部在出国学习考察期间，被网友曝出与人妖合影，并在公共场所赤身吃饭，形象极为不雅，导致了地方干部形象受到质疑。文章提到了一些具体细节，包括事件最初在网上的传播情况，以及相关党政领导对事件的反应和后续调查。文件同时附有部分截图，展示了事件相关的网络讨论和证据。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_四川泸州监察局介入调查官员公款看人妖事件_-_中国新闻网.md                             |
+| Size            | 2770 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 四川在线                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-08-14                                 |
+| Tags            | 官员, 人妖表演, 公款消费, 社会舆论, 地方政府, 监察调查, 网络舆情, 公共形象, 泸州, 事件报道                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

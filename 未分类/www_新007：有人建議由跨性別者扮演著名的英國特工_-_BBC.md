@@ -1,5 +1,8 @@
 # 新007：有人建議由跨性別者扮演著名的英國特工
 
+## 正文 { data-search-exclude }
+
+
 ![米尼克·韋斯特](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/11214/production/_104946107_5.jpg.webp)
 图像來源，Twitter
 
@@ -45,3 +48,29 @@
 
 以後的邦德系列電影中由誰來扮演這位著名的間諜就成了討論話題。有人說韋斯特的說法是政治正確泛濫的表現，會把007的作者弗萊明在九泉下氣得直打滾。還有人在社交網站推特上貼出韓國和中國的「小鮮肉」男孩藝人，說他們演新邦德最合適。
 <!-- tcd_original_link https://www.bbc.com/zhongwen/trad/uk-46681054 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新007：有人建議由跨性別者扮演著名的英國特工_-_BBC.md                             |
+| Size            | 3771 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 人妖阿姨很好哭（医爱之名）剧评
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u239093856-3.jpg)
 
 因为身份遭受歧视的五位人妖阿姨们真的各方各面的好哭
@@ -74,3 +77,29 @@
 
 © 2005－2024 douban.com, all rights reserved 
 <!-- tcd_original_link https://m.douban.com/movie/review/15397377/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为一篇关于电影《医爱之名》的剧评，作者通过分析剧中人妖角色的经历，探讨了性别歧视、平权意识以及家庭教育对个体成长的影响。剧中描绘的五位人妖阿姨因身份受到歧视，展现了她们在艰苦环境中如何认识和理解平等与尊重的意义。作者指出，虽然她们面临社会的边缘化，但却用自己的经历教导了女主角如何面对偏见，反映出女性的坚韧与智慧。文章还提到角色们的高学历与社会期待的冲突，揭示了社会对多元性别人士刻板印象的深刻影响。最后，剧评感叹通过这些角色的故事，塑造出了一个极具同情心和教育意义的家庭画面，为观众展示了一个充满力量与爱的故事。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_人妖阿姨很好哭-_医爱之名_-_豆瓣.md                             |
+| Size            | 3557 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 茶包                               |
+| Region          | 广东                               |
+| Date            | 2023-08-20                                 |
+| Tags            | 人妖, 平权, 性别歧视, 医疗资源, 过渡经历, 家庭教育, 社会环境, 女性主义, 电视剧评论, 影视作品                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

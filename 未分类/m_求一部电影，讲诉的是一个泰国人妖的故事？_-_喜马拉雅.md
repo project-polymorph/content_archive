@@ -1,5 +1,8 @@
 # 泰国人妖的电影推荐与讨论
 
+## 正文 { data-search-exclude }
+
+
 ![电影封面](https://imagev2.xmcdn.com/storages/4fab-audiofreehighqps/6F/A2/CKwRIJEFA4mXAAArcgDePsCY.png)
 
 **时间:** 2024-01-14 01:48  
@@ -8,18 +11,18 @@
 
 ---
 
-## 问题
+## 问题 { data-search-exclude }
 
 要求寻找一部讲述泰国人妖故事的电影。
 
-## 回答
+## 回答 { data-search-exclude }
 
 匿名用户在2024-01-14 06:20的回复：
 > 叫《美丽拳王》（人妖打擂台），励志的电影，一个有易性癖的拳王的故事。
 
 ---
 
-## 相关问答
+## 相关问答 { data-search-exclude }
 
 - [为什么会有泰国人妖的出现？泰国人妖能带来什么？](https://m.ximalaya.com/ask/q9585298)  
   - 1个回答 2023-08-13 21:25
@@ -65,3 +68,29 @@
 
 © 2014-2025 ximalaya.com 版权所有
 <!-- tcd_original_link https://m.ximalaya.com/ask/q12164331 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_求一部电影，讲诉的是一个泰国人妖的故事？_-_喜马拉雅.md                             |
+| Size            | 2884 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,8 +1,11 @@
 # 女装子芭比酱直播
 
+## 正文 { data-search-exclude }
+
+
 ![主播头像](https://apic.douyucdn.cn/upload/avanew/face/201805/c28ed45e7b8dcf2c798a31fafc9fa78b_big.jpg)
 
-## 芭比酱的直播间
+## 芭比酱的直播间 { data-search-exclude }
 
 **上次直播时间：** 2018-05-12 18:04:03  
 **关注人数：** 7  
@@ -42,3 +45,29 @@
   
 更多精彩内容，敬请关注女装子芭比酱的直播！
 <!-- tcd_original_link https://m.douyu.com/3912122 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_女装子芭比酱-斗鱼直播.md                             |
+| Size            | 1562 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

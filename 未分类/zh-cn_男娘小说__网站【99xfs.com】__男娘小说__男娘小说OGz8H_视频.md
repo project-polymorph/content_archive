@@ -1,6 +1,9 @@
 # 男娘小说相关内容存档
 
-## 视频内容
+## 正文 { data-search-exclude }
+
+
+## 视频内容 { data-search-exclude }
 
 ### 视频1
 ![暖暖来筑梦](https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/406784720_1047631136572224_8612233758468553413_n.jpg?stp=c0.2.1920.1075a_dst-jpg_s206x206_tt6&_nc_cat=104&ccb=1-7&_nc_sid=e3495b&_nc_ohc=KQXZRGPztXMQ7kNvgGNE27U&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AQe2h4TjKiNJbD1bRrIJAzL&oh=00_AYC_K1kR_XCoWZVpJRg3qMvQTWLRAY1fGgN1mJYg1_qIIg&oe=678C3DE4)
@@ -34,12 +37,38 @@
 
 ---
 
-## 来源
+## 来源 { data-search-exclude }
 - **网站**: 男娘小说网站 [99xfs.com](http://99xfs.com)
 
-## 标签
+## 标签 { data-search-exclude }
 - 多元性别, 男娘, 小说, 媒体内容
 
-## 版权声明
+## 版权声明 { data-search-exclude }
 版权所有 © 2024 男娘小说网站。未经许可禁止转载。
 <!-- tcd_original_link https://zh-cn.facebook.com/watch/explore/%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4%EF%BF%BD%E7%BD%91%E7%AB%99%E3%80%9099xfs.com%E3%80%91%EF%BF%BD%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4%EF%BF%BD%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4OGz8H/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh-cn_男娘小说__网站【99xfs.com】__男娘小说__男娘小说OGz8H_视频.md                             |
+| Size            | 2923 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

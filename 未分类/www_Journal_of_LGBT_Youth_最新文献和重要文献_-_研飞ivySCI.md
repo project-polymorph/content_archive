@@ -1,6 +1,9 @@
 # 多元性别相关研究文章汇总
 
-## Journal of LGBT Youth
+## 正文 { data-search-exclude }
+
+
+## Journal of LGBT Youth { data-search-exclude }
 
 ### 最新文章
 
@@ -34,7 +37,7 @@
 - **[Queer crip enrollments: 2SLGBTQ mad, mentally ill, neurodivergent, and/or disabled college students](https://www.ivysci.com/en/articles/4877850__Queer_crip_enrollments_2SLGBTQ_mad_mentally_ill_neurodivergent_andor_disabled_college_students)**  
   日期：2024-2-2
 
-## 期刊信息
+## 期刊信息 { data-search-exclude }
 
 - **期刊名称**: Journal of LGBT Youth  
 - **ISSN**: 1936-1653, 1936-1661  
@@ -46,3 +49,29 @@
 
 版权信息、评论、标签等内容已被省略，若需获取更多详细信息请参考原文资料。
 <!-- tcd_original_link https://www.ivysci.com/journals/1936-1653/articles?type=reading -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Journal_of_LGBT_Youth_最新文献和重要文献_-_研飞ivySCI.md                             |
+| Size            | 3466 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

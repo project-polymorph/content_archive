@@ -1,6 +1,9 @@
 # 对非二元女性倾向跨性别者的激素治疗可能性的探索
 
-## 作者
+## 正文 { data-search-exclude }
+
+
+## 作者 { data-search-exclude }
 
 [Aly](https://tfsci.mtf.wiki/zh-cn/about/#aly)
 
@@ -8,7 +11,7 @@
 
 [yucandy](https://tfsci.mtf.wiki/zh-cn/about/#yucandy)、[Bersella AI](https://tfsci.mtf.wiki/zh-cn/about/#bersella-ai)
 
-## 原文
+## 原文 { data-search-exclude }
 
 [transfemscience.org/articles/nonbinary-transfem-overview](https://transfemscience.org/articles/nonbinary-transfem-overview)
 
@@ -32,13 +35,13 @@ HRT、非二元、激素治疗、non-binary、SERM、MtX
 
 2023 年 7 月 25 日
 
-## 译者按
+## 译者按 { data-search-exclude }
 
 1.  **⚠免责声明：本文不构成任何医疗、处方建议。如有医疗需要，应于专业医师指导下进行。 另见“[前言](#introduction)”最后一段。**
 2.  **本文讨论的是非二元（女性倾向）激素治疗**，与[常规女性化激素治疗](https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/)有别。全文篇幅较长，需耐心阅读。
 3.  因译者能力所限，部分术语之翻译或有纰漏，烦请指正。
 
-## 摘要
+## 摘要 { data-search-exclude }
 
 非二元（女性倾向）跨性别者常盼望着有一种激素疗法，能够区别于常规女性化激素疗法、也有更少的女性化与去男性化效果。例如，非二元（女性倾向）跨性别者会在女性和男性的身体和激素状态之间寻求一种中间态；会期望有除乳房发育之外的实质、或完全的女性化及去男性化效果；会想要有性别中立的外表；会期望在女性化的同时保留更多的男性性欲与性能力。此类需求正日益增多，但相关疗法尚未得到跨性别医学的研究和确立。
 
@@ -52,7 +55,7 @@ HRT、非二元、激素治疗、non-binary、SERM、MtX
 
 目前此类激素疗法在跨性别健康领域中正日益引起关注；但愿它们将来能够得到更多描述、更好地用于跨性别者。
 
-## 前言
+## 前言 { data-search-exclude }
 
 “[非二元](https://en.wikipedia.org/wiki/Non-binary_gender "Non-binary gender")”跨性别者，意即性别认同不属于[二元性别](https://en.wikipedia.org/wiki/Gender_binary "Gender binary")的人。尽管许多非二元（[男性倾向](https://en.wikipedia.org/wiki/Transmasculine "Transmasculine")和[女性倾向](https://en.wikipedia.org/wiki/Transfeminine "Transfeminine")）跨性别者既不认同自己是男性、也不认同是女性，但 ta 们仍希望像跨性别女性、男性一样接受激素治疗。有一部分非二元性别人群与大多数认同二元性别的跨性别者一样，接受了完整激素转变；而另一部分更倾向于达到部分的激素转变效果。其效果可能包括：在男性与女性特征之间达到一个[中间态](https://en.wikipedia.org/wiki/Androgyny "Androgyny")；使外观倾向于[性别中立](https://www.ncbi.nlm.nih.gov/mesh?Term=%22Sexual+Infantilism%22%5BMeSH)；或是诱导一部分（但非完全）的[男性化](https://en.wikipedia.org/wiki/Masculinization "Masculinization")或[女性化](https://en.wikipedia.org/wiki/Feminization_%28biology%29 "Feminization (biology)")效果。
 
@@ -62,7 +65,7 @@ HRT、非二元、激素治疗、non-binary、SERM、MtX
 
 **免责声明：** 本文包含实验性与不成熟的观点。迄今尚无任何有关跨性别者（非二元性别人群）采取部分激素转变目标的研究开展过，也没有任何数据或证据可予以佐证；我们目前只能从对其他群体的理论和研究中来推断——对于非二元（女性倾向）激素治疗，会通过正接受前列腺癌激素治疗、[男性乳房发育](https://en.wikipedia.org/wiki/Gynecomastia "Gynecomastia")治疗的顺性别男性，以及正接受激素治疗的跨性别女性等人群来推论。因此，本文仅为探索性讨论，读者不应将本文视为治疗建议。
 
-## 常规女性化激素治疗手段
+## 常规女性化激素治疗手段 { data-search-exclude }
 
 跨性别女性的常规激素治疗，旨在尽可能最大程度地产生去男性化与女性化效果——包括乳房发育。这需要抑制[睾酮](https://en.wikipedia.org/wiki/Testosterone "Testosterone")水平并提高[雌二醇](https://en.wikipedia.org/wiki/Estradiol "Estradiol")水平，使其处于成年女性的正常范围。此外，也可无需完全抑制睾酮，而改为阻断雄激素活性。服用[雌激素](https://en.wikipedia.org/wiki/Estrogen_%28medication%29 "Estrogen (medication)")、[孕激素](https://en.wikipedia.org/wiki/Progestogen_%28medication%29 "Progestogen (medication)")、[抗雄激素制剂](https://en.wikipedia.org/wiki/Antiandrogen "Antiandrogen")等[激素类药物](https://en.wikipedia.org/wiki/Sex-hormonal_agent "Sex-hormonal agent")皆可引起上述激素变化；其中，雌激素可引起乳房发育等女性化效果，而对睾酮的抑制可引起去男性化、去除对女性化的抑制等效果。雌激素、孕激素和抗雄制剂皆可促进睾酮的抑制。
 
@@ -81,7 +84,7 @@ HRT、非二元、激素治疗、non-binary、SERM、MtX
 
 该文章旨在提供跨性别用药所需要了解的一切内容，以便有一个初步理解。如果刚接触跨性别激素治疗这一话题，强烈建议先阅读该文章，再继续阅读本文。该简介涵盖了性激素及其影响，以及为激素治疗所用的激素类药物之具体种类、途径和剂量等。这些信息大部分也适用于非常规的女性化激素治疗手段。
 
-## 部分女性化的激素治疗手段
+## 部分女性化的激素治疗手段 { data-search-exclude }
 
 有的非二元（女性倾向）跨性别者，以及自我认同为顺性别、但寻求激素女性化的人，只希望部分引起女性化/去男性化效果；此类情况可能比常规的激素治疗更复杂，并需要更多的考量——取决于治疗目的。这些部分女性化的激素治疗目的包括：
 
@@ -92,7 +95,7 @@ HRT、非二元、激素治疗、non-binary、SERM、MtX
 
 其中，第一项很容易达成，其仅需在常规女性化激素治疗当中采取较低剂量；这样一来，既可部分抑制睾酮，也可让雄激素和雌激素同时作为主要性激素存在。第二项需同时去除雄激素和雌激素；尽管可行，但其可能产生一定负面影响，因为性激素在维持某些健康方面上很重要。不过有一些方法可以避免或减轻这种后果。第三项和第四项在技术上可行，但是更难实现，其需要专门的、可能还很复杂的激素治疗手段。
 
-## 睾酮的抑制和阻断
+## 睾酮的抑制和阻断 { data-search-exclude }
 
 如果非二元女性化激素治疗的目标仅仅是为了实现性别中立的外观，并且尽量减少或不出现女性化的体征；那么可采取去除睾酮、但不服用雌激素的方式。 对于出生指派性别为男的人群，有多种方法可以去除雄激素或抑制睾酮，包括：
 
@@ -129,7 +132,7 @@ GnRH 激动剂和拮抗剂是抑制睾酮的另一种选择。它们可将睾酮
 
 还有另一种可能，就是加入低剂量的 [癸酸诺龙](https://en.wikipedia.org/wiki/Nandrolone_decanoate "Nandrolone decanoate")；这是一种雄激素受体激动剂和雄性—蛋白同化激素 (AAS)，对皮肤和毛囊的男性化/雄激素效力要小的多([Aly, 2020](https://transfemscience.org/articles/nandrolone/))，也可帮助抑制和替代睾酮水平。其也可能有帮助维持性欲和功能的好处。不过，癸酸诺龙最近已停止在美国上市。另一种 AAS：[氧雄龙](https://en.wikipedia.org/wiki/Oxandrolone "Oxandrolone")有类似疗效，但有一定肝脏毒性。
 
-## 雌激素的去除和替代
+## 雌激素的去除和替代 { data-search-exclude }
 
 尽管雄激素去除疗法可以有效引起预期变化——即不伴随女性化的去男性化效果；但并不推荐使用。这是因为雌二醇是由睾酮产生的，没有雄激素也就会缺乏雌激素。雌激素对维持男性和女性的[骨密度](https://en.wikipedia.org/wiki/Bone_density "Bone density")至关重要；没有雌激素，骨量将快速流失，最终会发展成[骨质疏松症](https://en.wikipedia.org/wiki/Osteoporosis "Osteoporosis")，骨折风险也变得很高；还可能会发生骨骼和姿态性损伤([图片1](https://archive.is/NAbD6); [图片2](https://commons.wikimedia.org/wiki/File:Blausen_0686_Osteoporosis_01.png))。此外，患者还可能出现其它类似[更年期](https://en.wikipedia.org/wiki/Menopause "Menopause")的症状，如[潮热](https://en.wikipedia.org/wiki/Hot_flash "Hot flash")、情绪和睡眠问题、性功能障碍（如性欲低下与勃起功能障碍），以及皮肤加速老化等([维基](https://en.wikipedia.org/wiki/Estradiol#Skin_health "Skin health on "))。性激素缺乏也可能与体重增加、II 型糖尿病、冠心病和痴呆症的风险增加存在关联。综上，长期缺乏雄激素和雌激素且不补充雌激素是不可取的。
 
@@ -164,7 +167,7 @@ SERM 可有效维持骨密度。不过很遗憾，SERM 在骨骼内仅表达部�
 
 骨质流失鲜少或完全不会在 30 - 50 pg/mL 的雌二醇水平下发生；但会在 20 - 30 pg/mL 的雌二醇水平下趋于明显([Hadji, Colli, & Regidor, 2019](https://doi.org/10.1007/s00198-019-05103-6 "10.1007/s00198-019-05103-6"))。不过，已知年轻的绝经前妇女停用纯孕激素避孕药之后，其骨密度在数年内便得以大幅或完全恢复；这多少令人欣慰([Nelson, 2010](https://doi.org/10.1586/eog.10.60 "10.1586/eog.10.60"))。类似地，绝经前妇女使用[恶拉戈利](https://en.wikipedia.org/wiki/Elagolix "Elagolix")（一种 GnRH 拮抗剂）治疗时，在可部分抑制雌二醇水平（至约 40 pg/mL）的剂量下，两年内都很安全；而在完全抑制雌二醇水平（至约 10 pg/mL）的剂量下，则有至多六个月的安全期([维基](https://en.wikipedia.org/wiki/Elagolix#Medical_uses "Medical uses on "))。因此，在保持骨骼健康上，采取较短时长的性激素去除疗法应该比较安全——例如作为非二元（女性倾向）跨性别激素治疗的体验期。而当长期治疗时，需要采取适当的措施来避免骨质流失。
 
-## 乳房发育的预防
+## 乳房发育的预防 { data-search-exclude }
 
 ### 雌激素阻断和抑制
 
@@ -210,7 +213,7 @@ SERM 可有效维持骨密度。不过很遗憾，SERM 在骨骼内仅表达部�
 
 还有几个方面需要注意：一，乳房发育过程很慢，并非一蹴而就；二，一旦停用激素，发育过程将会中断；三，如在一定时间内（如一年）停药，发育效果似乎还至少部分可逆([Mancino, Young, & Bland, 2018](https://doi.org/10.1016/B978-0-323-35955-9.00007-6 "10.1016/B978-0-323-35955-9.00007-6"); [Kanakis et al., 2019](https://doi.org/10.1111/andr.12636 "10.1111/andr.12636"))。然而，一项研究发现，在比卡鲁胺单药治疗下，如在引起乳房发育后的一个月内引入他莫昔芬（而非治疗开始时），则疗效会更差([Serretta et al. 2012](https://doi.org/10.1016/j.clgc.2012.03.002 "10.1016/j.clgc.2012.03.002"))。无论如何，出于上述缘故，某些人可以对其乳房发育程度进行监测；如果发育程度超出其可接受范围，则可按需调整用药方案，以防止进一步发育或扭转之。因此，也许无需对乳房发育过分担心。
 
-## 后记
+## 后记 { data-search-exclude }
 
 ### 后记一：Xu 等人 (2021) 所作评述
 
@@ -232,3 +235,29 @@ Ada S. Cheung 是该论文的联名作者之一；其来自澳大利亚墨尔本
 
 此外，有一篇关于[欧洲性别不一致调查组织网络](https://en.wikipedia
 <!-- tcd_original_link https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tfsci_对非二元女性倾向跨性别者的激素治疗可能性的探索.md                             |
+| Size            | 51139 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

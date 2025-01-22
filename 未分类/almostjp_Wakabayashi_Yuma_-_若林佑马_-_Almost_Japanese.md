@@ -1,5 +1,8 @@
 # 若林佑马个人档案
 
+## 正文 { data-search-exclude }
+
+
 **姓名**：若林佑真  
 **性别**：跨性别男  
 **出生日期**：1991年11月5日  
@@ -27,7 +30,7 @@
 
 出生时指定的性别是女性，性别认同是男性。 跨性别演员/性别表达主管，他在同志社大学就读期间学习了表演课程，毕业后搬到了东京。除了担任演员和舞台制作人外，他还参与了广泛的活动，包括监督制作和演讲。2022年，他将出演东京电视台的电视剧《Chaser Game》，饰演变性人。
 
-## 主要外观作品
+## 主要外观作品 { data-search-exclude }
 
 ### 戏剧
 - 东京电视台《Chaser Game》（2022 年 9 月起播出）——渡边凛的角色
@@ -74,7 +77,7 @@
 
 ---
 
-## 新闻
+## 新闻 { data-search-exclude }
 
 ### 本公司所属的若林由真将于 10 月 25 日星期五 21:00 起出演 FM COCOLO“Whole Earth RADIO”。
 ![本公司所属的若林由真将于 10 月 25 日星期五 21:00 起出演 FM COCOLO“Whole Earth RADIO”。](https://almostjp.com/wp/wp-content/uploads/2024/10/og_image.jpg)
@@ -92,3 +95,29 @@
 ![本公司所属若林由真将出演日本文化放送8月5日星期一26点30分起播出的《多彩花束》。](https://almostjp.com/wp/wp-content/uploads/2023/09/OIP.jpg)
 [来源](https://almostjp.com/zh-CN/news/20240804/)
 <!-- tcd_original_link https://almostjp.com/zh-CN/talent/wakabayashiyuma/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | almostjp_Wakabayashi_Yuma_-_若林佑马_-_Almost_Japanese.md                             |
+| Size            | 4601 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

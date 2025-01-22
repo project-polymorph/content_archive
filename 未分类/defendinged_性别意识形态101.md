@@ -1,5 +1,8 @@
 # 性别意识形态101 - Parents Defending Education
 
+## 正文 { data-search-exclude }
+
+
 ![Empower](https://defendinged.org/wp-content/uploads/2022/12/pde_icons_Empower.png)  
 ![Expose](https://defendinged.org/wp-content/uploads/2022/12/pde_icons_Investigate.png)  
 ![Engage](https://defendinged.org/wp-content/uploads/2022/12/PDE_Icons_Engage.png)  
@@ -20,7 +23,7 @@
 
 一些推动学校采用这些性别意识形态作为其课程的特殊利益集团，几十年来一直试图推动他们的议程。然而，近年来，他们借着当前经常出现的极端政治运动的势头，成功地渗透进了美国的学校。这些特殊利益集团的例子包括GLSEN、为正义而学习、人权运动、性别谱系、青年倡导者、计划生育和GSA网络。CASEL和全景教育公司等教育团体也加入了在美国学校推行极端意识形态的运动。
 
-## 谨防性别支持计划
+## 谨防性别支持计划 { data-search-exclude }
 
 许多学区已经采用了所谓的“性别支持计划”。性别光谱(Gender Spectrum)自豪地将“性别支持计划”[描述为](https://genderspectrum.org/articles/using-the-gsp)“一个详细的表格，帮助你在学校工作人员、家长和学生之间建立一个共同的理解，即学生的真实性别将在学校得到考虑和支持。”
 
@@ -30,7 +33,7 @@
 
 全国各地的学区似乎更愿意帮助学生过渡到他们喜欢的性别认同。在某些情况下，学区的教师甚至会在家长不知情的情况下鼓励学生过渡。当地家长可以通过提交《信息自由法案》请求或向_家长捍卫教育_等组织寻求帮助，努力揭露学区推行的这些“性别支持计划”。
 
-## 学校与向儿童提供过渡援助的组织合作
+## 学校与向儿童提供过渡援助的组织合作 { data-search-exclude }
 
 全国各地的学校与为儿童提供医疗援助的组织合作，并推广这些组织，努力帮助他们过渡到另一个性别。一个例子是许多学区如何向家长甚至教师推广GLSEN的资源。
 
@@ -48,7 +51,7 @@
 
 学校在儿童的性别转换过程中发挥着越来越大的作用，而且往往是在家长不知情的情况下。当像GLSEN这样的外部组织向这些学校提供支持时，这种危险的情况就会升级，这些支持往往包括帮助推动儿童过渡过程的材料和指南。当学校和合作组织向易受影响的儿童宣传不可逆转的激素替代疗法和性别转换手术时，这种情况就变得特别危险。
 
-## 家长可以做些什么
+## 家长可以做些什么 { data-search-exclude }
 
 家长们有几个工具来反击他们孩子学校里的性别活跃人士。任何人都可以提出[信息自由法案 (FOIA)](https://defendinged.org/resources/filing-a-foia/) 申请。公立学校是纳税人资助的机构。家长可以向他们的公立学校提交信息自由法案请求，以获得电子邮件、课程、教案，甚至提供给教师的培训视频。
 
@@ -62,13 +65,13 @@
 
 虽然许多家长可能还没有意识到这一点，但他们是我们运动中最强大的力量。他们比任何人都更了解他们的当地社区，他们有知识和力量来实现改变。如果我们不站出来，为我们的孩子而战，就没有人会站出来。我们鼓励所有的家长反击学校将批判性性别理论纳入他们的课堂。现在是时候让我们的学校再次把重点放在为我们的孩子提供他们在现实世界中生存所需的工具上了。
 
-## 重要声音
+## 重要声音 { data-search-exclude }
 
 [现实的最后一搏，Colin Wright](https://www.realityslaststand.com/)  
 [了解变性的不方便真相的父母们 (PITT)](https://pitt.substack.com/)  
 [Abigail Shrier](https://abigailshrier.substack.com/)  
 
-## 文章
+## 文章 { data-search-exclude }
 
 [推动儿童性别转换的根源在于意识形态，而不是科学，_华盛顿观察_](https://www.washingtonexaminer.com/restoring-america/community-family/the-push-for-childhood-gender-transitions-takes-root-in-ideology-not-science)  
 [计划生育协会–你出卖了妇女和儿童，_了解变性的不方便真相的父母们_ _(PITT)_](https://pitt.substack.com/p/planned-parenthood-youve-sold-out?s=r)  
@@ -78,11 +81,11 @@
 [反对儿童的人权运动，](https://www.washingtontimes.com/news/2022/apr/12/the-human-rights-campaign-against-children/) _华盛顿时报_  
 [对美国卫生与公众服务部的事实核查，_基于证据的性别医学协会_](https://segm.org/fact-checking-gender-affirming-care-and-young-people-HHS)  
 
-## 建议阅读
+## 建议阅读 { data-search-exclude }
 
 不可逆转的损害，Abigail Shrier
 
-## Share your situation
+## Share your situation { data-search-exclude }
 
 ### Submit an Incident Report
 
@@ -107,3 +110,29 @@
     This field is for validation purposes and should be left unchanged.  
 
 <!-- tcd_original_link https://defendinged.org/resources/%E6%80%A7%E5%88%AB%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81101/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | defendinged_性别意识形态101.md                             |
+| Size            | 13816 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

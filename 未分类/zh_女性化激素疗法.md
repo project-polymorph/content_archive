@@ -1,10 +1,13 @@
 # 女性化激素疗法
 
+## 正文 { data-search-exclude }
+
+
 [从男性到女性](%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7 "跨性別女性")（MTF）的[激素替代疗法](%E6%BF%80%E7%B4%A0%E6%9B%BF%E4%BB%A3%E7%96%97%E6%B3%95 "激素替代疗法")（HRT）是一种激素疗法和变性治疗的方式，通过进行这种治疗可以将跨性别者和易性者的[第二性征](%E7%AC%AC%E4%BA%8C%E6%80%A7%E5%BE%81 "第二性征")从男或中性特征变成女性特征。这是两种对跨性别者和易性者的治疗之一，另一种是主要用于意欲变性的女性的[从男性到女性](%E8%B7%A8%E6%80%A7%E5%88%A5%E7%94%B7%E6%80%A7 "跨性別男性")的激素替代疗法（FTM）。一些双性人也接受MTF的HRT，有的为了巩固指定的性别特征所以从幼年开始，有的晚些开始，如果之前指定的性别被证明是错误的。
 
 ![](../I/Star_of_life_caution.svg.png.webp) [维基百科](%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91 "维基百科")中的醫療相关内容仅供参考，詳見**醫學聲明**。如需醫療服務或可靠意見，请咨询专业人士。
 
-## 系列条目
+## 系列条目 { data-search-exclude }
 
 ### 跨性别专题
 
@@ -75,3 +78,29 @@
 
 This article is issued from [Wikipedia](https://zh.wikipedia.org/wiki/?title=%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95&oldid=63941160 "Last edited on 2021-01-26"). The text is licensed under [Creative Commons - Attribution - Sharealike](https://creativecommons.org/licenses/by-sa/4.0/). Additional terms may apply for the media files.
 <!-- tcd_original_link https://zh.wikipedia-on-ipfs.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_女性化激素疗法.md                             |
+| Size            | 4622 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

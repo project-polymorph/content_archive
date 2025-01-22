@@ -1,12 +1,15 @@
 # 北京同志中心 – 性别地图
 
+## 正文 { data-search-exclude }
+
+
 ![Logo](https://mappingchinesefeminism.com/wp-content/uploads/2022/01/logo.jpg?w=620)
 
-## 首页 > 民间机构 > 北京同志中心
+## 首页 > 民间机构 > 北京同志中心 { data-search-exclude }
 
 ![北京同志中心](https://mappingchinesefeminism.com/wp-content/uploads/2022/01/e58c97e5908ce69687e58c96.jpg?w=620)
 
-## 北京同志中心
+## 北京同志中心 { data-search-exclude }
 
 -   **地域**：北京
 -   **地址**：朝阳区建国路93号1号楼1803
@@ -72,3 +75,29 @@
 
 ©2022 herstory·城市漫游 All Rights Reserved 版权所有’联系邮箱：mappingfeminism2021@gmail.com
 <!-- tcd_original_link https://mappingchinesefeminism.com/organizations/%E5%8C%97%E4%BA%AC%E5%90%8C%E5%BF%97%E4%B8%AD%E5%BF%83/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | mappingchinesefeminism_北京同志中心_-_性别地图.md                             |
+| Size            | 4243 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

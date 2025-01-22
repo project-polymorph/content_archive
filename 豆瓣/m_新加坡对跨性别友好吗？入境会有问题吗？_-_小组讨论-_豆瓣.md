@@ -1,5 +1,8 @@
 # 新加坡对跨性别友好吗？入境会有问题吗？
 
+## 正文 { data-search-exclude }
+
+
 ![凉月](https://img9.doubanio.com/icon/up74937186-15.jpg)
 
 ### 来自: [凉月](https://www.douban.com/people/leots/)(梦里不知身是客，一晌贪欢)
@@ -52,6 +55,32 @@
     
     我们班好多长发男子😂😂 不会不允许你入境的！
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/group) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/group/topic/220735978/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这是一个来自豆瓣的小组讨论帖，主题为新加坡对跨性别者的友好度及入境问题。作者是跨性别者，计划在暑假期间经过新加坡中转，发贴时表达对新加坡跨性别环境的疑虑。帖子中提到新加坡被认为不是一个LGBT友好的国家，尤其对于跨性别者的接纳度较低，并讨论了自己护照上的性别信息与自身外貌可能不符所带来的压力。帖子的评论区中，其他用户分享了他们的经历和观点，有的指出新加坡年轻人对LGBT不那么排斥，但整体环境仍然较为保守。讨论涉及医疗资源短缺、社会支持与偏见、个人经历等多个方面，反映了跨性别者在旅行时面临的诸多挑战与压力。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_新加坡对跨性别友好吗？入境会有问题吗？_-_小组讨论-_豆瓣.md                             |
+| Size            | 4468 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 凉月                               |
+| Region          | 新加坡                               |
+| Date            | 2021-04-13                                 |
+| Tags            | 跨性别, LGBT, 新加坡, 入境问题, 社会环境, 个人经历, 性别认同, 医疗资源, 法律政策, 网络讨论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

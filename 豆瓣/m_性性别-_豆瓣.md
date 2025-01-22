@@ -1,5 +1,8 @@
 # 性/性别
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/view/elanor_image/raw/public/Q1FI1UO4.jpg)
 
 来自: [SD1001 (东莞)](https://www.douban.com/people/173534304/) 2021-02-19 14:16:58创建   2021-11-28 07:58:23更新
@@ -264,3 +267,29 @@ RT 有什么想知道的可以问，但是不友善的问题不会回答。谢�
 
 2021-05-17 07:22:50
 <!-- tcd_original_link https://m.douban.com/doulist/136249799/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文档讨论了体育运动中的性别差异，尤其聚焦于跨性别运动员参与的争议。文中提到新西兰跨性别举重运动员劳雷尔·哈伯德在东京奥运会中的表现引起的广泛讨论，作者强调性别平等的真正含义在于平等而非相同，批评了对女性运动员表现的误解和不尊重。此外，文章引用了多个豆瓣日记和广播，反映出社会对性别与性别认同的多元化认识，以及跨性别运动员在社会运动中的重要性。文中还提及了一些支持跨性别女性和女孩的呼吁，指出当前关于身份和权利的争论，并鼓励对跨性别权益的关注。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性性别-_豆瓣.md                             |
+| Size            | 15318 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | SD1001                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-02-19                                 |
+| Tags            | 多元性别, 跨性别, 性别平等, 体育争议, 社会讨论, 身份认同, 运动员, 性别差异, 法律政策, 医疗资源                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

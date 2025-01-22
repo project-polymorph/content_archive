@@ -1,5 +1,8 @@
 # 男娘养成系统
 
+## 正文 { data-search-exclude }
+
+
 ![男娘养成系统](https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o970fb28d99d4fc8e14c1d245928607a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1737463648&x-signature=jUp0ZFVppsAw8mX%2FLoM3q%2BSHLlE%3D)
 
 连载中
@@ -11,7 +14,7 @@
 **作者：** 程潇超屌  
 梦想是励志当个咸鱼喽
 
-## 作品简介
+## 作品简介 { data-search-exclude }
 
 第一次写书，嘿嘿，多给点支持，如果爱看的话，我会多多更新，感谢大家的支持 此书可为稀世珍宝，赶紧给窝放入书架，嘿嘿
 
@@ -39,3 +42,29 @@
 
 ![](https://p3-novel.byteimg.com/origin/novel-static/9d78ec9edddfacb4fb2013dc36db9818)
 <!-- tcd_original_link https://fanqienovel.com/page/7375131881748040729 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | fanqienovel_男娘养成系统_-_番茄小说.md                             |
+| Size            | 2058 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

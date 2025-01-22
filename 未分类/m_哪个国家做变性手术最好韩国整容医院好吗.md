@@ -1,5 +1,8 @@
 # 哪个国家做变性手术最好韩国整容医院好吗
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2016-10-01 18:07
 
 哪个国家做变性手术最好韩国整容医院好吗？在韩国有哪些方式是可以快速的获取到韩国的医生的联系方式？
@@ -14,3 +17,29 @@
 - [徐州华美李亚飞做眼部修复怎么样?整友评价其审美独特且技术娴熟!](https://www.verybeaut.com/forums/show/103186)
 - [免费24H问询:整友喜爱的皮肤科医生排行榜中上榜医生有哪些?](https://www.verybeaut.com/forums/show/103185)
 <!-- tcd_original_link https://m.verybeaut.com/forums/show/13239 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_哪个国家做变性手术最好韩国整容医院好吗.md                             |
+| Size            | 1377 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

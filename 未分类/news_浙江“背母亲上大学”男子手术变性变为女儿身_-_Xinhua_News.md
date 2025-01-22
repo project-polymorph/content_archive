@@ -1,5 +1,8 @@
 # 浙江“背母亲上大学”男子手术变性变为女儿身
 
+## 正文 { data-search-exclude }
+
+
 **来源：** 京华时报  
 **时间：** 2015年04月08日 06:56:06  
 
@@ -13,7 +16,7 @@
 
 近日，曾被评为“全国道德模范”的刘霆，在经过为期6个月的变性手术后，由一名男子汉变为女儿身，并更名为刘婷。2014年8月14日，那时的刘霆宣布将听从心愿，希望变成一名女性。昨天，记者在广州见到了术后的刘婷。为了实现心愿，她经历了什么？将如何规划未来？如何选择自己的另一半？如何去修改身份证和户口本上的性别？带着这些问题，京华时报记者专访了刘婷及其母亲，以及为其做变性手术的医生。
 
-## □探访病房
+## □探访病房 { data-search-exclude }
 
 **床下摆着两双高跟鞋**
 
@@ -37,7 +40,7 @@
 
 听说记者想拍照片，刘婷赶紧说：“我再化化妆，换个衣服。”刘婷换上一件白色长裙，又让化妆师给自己化了一遍妆，这才开始接受采访。
 
-## □专访刘婷
+## □专访刘婷 { data-search-exclude }
 
 **术后感觉真的完整了**
 
@@ -65,3 +68,29 @@
 Copyright © 2000 - 2015 XINHUANET.com 版权所有 新华网  
 制作单位：新华网股份有限公司
 <!-- tcd_original_link http://news.xinhuanet.com/politics/2015-04/08/c_127665337.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_浙江“背母亲上大学”男子手术变性变为女儿身_-_Xinhua_News.md                             |
+| Size            | 6275 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

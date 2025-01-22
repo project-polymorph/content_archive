@@ -1,5 +1,8 @@
 # 性別重置醫療資訊
 
+## 正文 { data-search-exclude }
+
+
 發佈: 31 八月 2014  
 最近更新: 21 七月 2022  
 
@@ -296,3 +299,29 @@ Email: [TG.AskME@gmail.com](mailto:TG.AskME@gmail.com)
 
 [詳情請點這裡](https://www.tgr.org.hk/index.php/zh/counseling)
 <!-- tcd_original_link https://www.tgr.org.hk/index.php/zh/database/medical-info -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性別重置醫療資訊.md                             |
+| Size            | 19726 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

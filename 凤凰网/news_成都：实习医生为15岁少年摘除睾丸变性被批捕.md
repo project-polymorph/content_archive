@@ -1,5 +1,8 @@
 # 成都：实习医生为15岁少年摘除睾丸变性被批捕
 
+## 正文 { data-search-exclude }
+
+
 2015年09月23日 18:57 来源：[新华网](http://news.xinhuanet.com/legal/2015-09/23/c_1116658174.htm)
 
 ![](http://h2.ifengimg.com/0f56ee67a4c375c2/2013/1106/indeccode.png)
@@ -34,3 +37,29 @@ PN058
 
 用微信扫描二维码分享至好友和朋友圈
 <!-- tcd_original_link https://news.ifeng.com/a/20150923/44719912_0.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_成都：实习医生为15岁少年摘除睾丸变性被批捕.md                             |
+| Size            | 3808 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

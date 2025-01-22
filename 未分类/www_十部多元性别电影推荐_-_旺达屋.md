@@ -1,12 +1,15 @@
 # 十部多元性别电影推荐
 
+## 正文 { data-search-exclude }
+
+
 2024-02-04 22:54 来源：[旺达屋](https://www.wangdawu.com/) 点击：153
 
 **十部多元性别电影推荐**
 
 多元性别并不是什么离经叛道的事情，只是个人的选择不同而已。
 
-## 拾、游园惊梦
+## 拾、游园惊梦 { data-search-exclude }
 
 ![游园惊梦](/uploads/allimg/240204/2255425K4-0.jpg)
 
@@ -14,7 +17,7 @@
 
 虽然不是非常好的片子但也没有很差，爱情最美丽的时候都存在回忆之中，个中滋味还是值得一看。
 
-## 玖、巴黎在燃烧
+## 玖、巴黎在燃烧 { data-search-exclude }
 
 ![巴黎在燃烧](/uploads/allimg/240204/225542B49-1.jpg)
 
@@ -22,7 +25,7 @@
 
 这部影片是对那些因勇于追求自我而被逐出家门的同性恋、跨性别者的一份家一般的慰藉。在国际电影节获奖无数，也成为研究美国种族、性别/性向、阶层重要文本。
 
-## 捌、我自己的爱达荷
+## 捌、我自己的爱达荷 { data-search-exclude }
 
 ![我自己的爱达荷](/uploads/allimg/240204/225542C28-2.jpg)
 
@@ -30,7 +33,7 @@
 
 影片的目的不是控诉，也不是召唤，而是追溯根源，是什么导致这一群孩子走上这条路的？它把答案指向了家庭。
 
-## 柒、费城故事
+## 柒、费城故事 { data-search-exclude }
 
 ![费城故事](/uploads/allimg/240204/225542K08-3.jpg)
 
@@ -38,7 +41,7 @@
 
 电影不靠吆喝大众去尊重艾滋病患者，而是通过片中的剧情来展现艾滋病人争取个人权益的过程，向观众展示了一个艾滋病人的尊严以及他对生命的渴望。
 
-## 陆、沙漠妖姬
+## 陆、沙漠妖姬 { data-search-exclude }
 
 ![沙漠妖姬](/uploads/allimg/240204/2255421525-4.jpg)
 
@@ -46,7 +49,7 @@
 
 影片以华丽的画面和真挚关怀刻画一个被社会视为异类的同性恋群体，表现了他们既有内心世界的惶惑不安，亦有外在世界的率性而为。
 
-## 伍、东宫西宫
+## 伍、东宫西宫 { data-search-exclude }
 
 ![东宫西宫](/uploads/allimg/240204/225542O18-5.jpg)
 
@@ -54,7 +57,7 @@
 
 影片中，警察和同性恋之间的对话，通过审问和坦白、较量和交流，逐渐深入到人物的内心深处。影片演变为心理窥探和权力角逐，在不断推拉中确认自我的身份认同。与其说是对同性恋的挖掘，不如说是对人性的追问和拷打。
 
-## 肆、男孩不哭
+## 肆、男孩不哭 { data-search-exclude }
 
 ![男孩不哭](/uploads/allimg/240204/22554243J-6.jpg)
 
@@ -62,7 +65,7 @@
 
 《男孩别哭》根据真实事件改变，女导演用冷静客观的镜头讲述了对自己有性别认同障碍的布兰顿的故事。它很真实，血腥，黑暗，布兰顿的死亡让人猝不及防，但也是这种非常写实的手法，探讨了美国青年一代的矛盾心理。
 
-## 叁、面子
+## 叁、面子 { data-search-exclude }
 
 ![面子](/uploads/allimg/240204/2255422J0-7.jpg)
 
@@ -70,7 +73,7 @@
 
 无论是女同还是48岁的寡妇怀孕，这在中国的传统文化中都是一件不容易被接受的事情。影片的完美结局透露出一种憧憬，面子是重要，但在真实的自我与幸福面前，可以再次讨论。
 
-## 贰、断背山
+## 贰、断背山 { data-search-exclude }
 
 ![断背山](/uploads/allimg/240204/2255426339-8.jpg)
 
@@ -78,7 +81,7 @@
 
 李安曾说过：每个人心中都有一座断背山。断背山就像一个世外桃源，用它那广阔的胸怀接纳了一段为世不容的爱情。爱是《断背山》绝对的主题，一种犹疑而备受阻碍、最终化为心底悲哀的爱，表达出了人性中的一些本质的东西，灼痛又优美。
 
-## 壹、霸王别姬
+## 壹、霸王别姬 { data-search-exclude }
 
 ![霸王别姬](/uploads/allimg/240204/2255424F9-9.jpg)
 
@@ -90,3 +93,29 @@
 
 版权信息：鄂公网安备42011102005468号　 鄂ICP备2021000144号-49
 <!-- tcd_original_link https://www.wangdawu.com/yingshi/1384.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_十部多元性别电影推荐_-_旺达屋.md                             |
+| Size            | 8360 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

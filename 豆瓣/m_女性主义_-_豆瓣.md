@@ -1,5 +1,8 @@
 # 女性主义
 
+## 正文 { data-search-exclude }
+
+
 ![女性主义](https://img9.doubanio.com/view/elanor_image/raw/public/Q40Z9R7L.jpg)
 
 来自: [迈克尔变米雪儿 (Stuttgart)](https://www.douban.com/people/165463135/)  
@@ -108,3 +111,29 @@
 内容：近日，《成为女性主义者，有什么用？》一文引发了激烈的争议...  
 发布时间：2023-01-06 07:25:23【回复】  
 <!-- tcd_original_link https://m.douban.com/doulist/153500722/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为关于女性主义的多元性别相关内容汇总，涵盖了多个主题，包括跨性别与多元性别群体的健康照护指南、性取向构建的历史、跨性别出柜的个人指南、双性人经验分享以及多种性取向的理论探讨等。文件中引用了来自豆瓣小组、日记和群组的多位作者的作品，详细记录了他们的个人经历和对性别、性取向的思考。内容涉及的主题不仅包括对自我身份的探索，还涉及了社会对多元性别的认知和接受度，以及相应法律和医疗资源的分享。通过这些故事和讨论，读者可以更深入地了解多元性别群体面临的挑战与支持，反映了当代中国社会对性别认同的复杂态度和多样声音。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_女性主义_-_豆瓣.md                             |
+| Size            | 5950 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | dy.octa                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-01-06                                 |
+| Tags            | 女性主义, 跨性别, 多元性别, 性取向, 自我认同, 健康照护, 法律政策, 社会环境, 个人经历, 文学艺术                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

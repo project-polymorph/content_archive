@@ -1,8 +1,11 @@
 # 心灵法门的反思与感悟
 
+## 正文 { data-search-exclude }
+
+
 ![照片的描述](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/354051277_1024954545159965_5596802208256698921_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=W6WOamlgC1oQ7kNvgHureNg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AlEKI0SJ2QJq-hK2MEQdCoy&oh=00_AYDePx7k44_zPzDVjdF0B1BjqU5FRUCJv2B0q5Rl5nx3Tg&oe=678BCB6F)
 
-## 投稿信息
+## 投稿信息 { data-search-exclude }
 
 **时间**: 2023年6月17日  
 **来源**: [心灵法门资讯妙法群](https://www.facebook.com/people/%E5%BF%83%E7%81%B5%E6%B3%95%E9%97%A8%E8%B5%84%E8%AE%AF%E5%A6%99%E6%B3%95%E7%BE%A4/100029362871315/?__tn__=-UC*F)  
@@ -29,3 +32,29 @@
 
 版权所有 © 2023 Facebook.
 <!-- tcd_original_link https://www.facebook.com/photo.php?fbid=1024954551826631&id=100029362871315&set=a.599200487539802&locale=ja_JP -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_心灵法门资讯妙法群-_当我看见这张照片，启发我的感言词，学佛的_.md                             |
+| Size            | 2636 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

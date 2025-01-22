@@ -1,5 +1,8 @@
 # 「跨」不過的難關：跨性別者的美麗與哀愁
 
+## 正文 { data-search-exclude }
+
+
 Yahoo奇摩新聞深度報導獨家帶你關心更多在角落的聲音，首波關注跨性別者，遊走在性別的光譜之間，在二元的世界裡，他們如何找到安身之處？
 
 ---
@@ -42,11 +45,11 @@ Yahoo奇摩新聞深度報導獨家帶你關心更多在角落的聲音，首波
 
 ---
 
-## 你沒聽過的跨性別故事
+## 你沒聽過的跨性別故事 { data-search-exclude }
 
-## 圖卡來解釋
+## 圖卡來解釋 { data-search-exclude }
 
-## 另一種聲音
+## 另一種聲音 { data-search-exclude }
 
 ### 誰偷換女廁1／使用荷爾蒙15年依舊會勃起　變性人認「手術有其意義」
 
@@ -96,7 +99,7 @@ Yahoo奇摩新聞深度報導獨家帶你關心更多在角落的聲音，首波
 
 ---
 
-## 更多跨性別相關新聞
+## 更多跨性別相關新聞 { data-search-exclude }
 
 ### 中國高校公示跨性別學生信息引爭議
 
@@ -210,3 +213,29 @@ Yahoo奇摩新聞深度報導獨家帶你關心更多在角落的聲音，首波
 
 ![毛宇宙 給你寵物大聯萌](https://s.yimg.com/lo/api/res/1.2/kfnXbSwgUPYSkkENfxZjOg--~A/YXBwaWQ9dHdhYnVuZXdzO3c9NjY4O2g9Mzc2O2ZpPWZpbGw-/https://s.yimg.com/cv/apiv2/twnews/20220921banner_640x360.gif)
 <!-- tcd_original_link https://tw.news.yahoo.com/topic/transgender/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tw_「跨」不過的難關：跨性別者的美麗與哀愁_-_Yahoo奇摩新聞.md                             |
+| Size            | 12636 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

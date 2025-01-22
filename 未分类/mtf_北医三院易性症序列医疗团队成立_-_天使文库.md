@@ -1,5 +1,8 @@
 # 北医三院易性症序列医疗团队成立
 
+## 正文 { data-search-exclude }
+
+
 来自天使文库
 
 ![北医三院logo](https://www.puh3.net.cn/images/thumb/7/76/Puh301.jpg/120px-Puh301.jpg)
@@ -22,7 +25,7 @@
 
 综合诊疗团队的具体诊疗项目包括心理咨询科的病情诊断、基础关怀的指导、妇科内分泌对“易性症(男→女)”的激素替代治疗与相关随访监测、男科对“易性症(女→男)”的激素替代治疗与相关随访监测、整形外科的生殖器改换系列手术、乳房手术、喉结整形手术、面部轮廓整形手术等、以及耳鼻喉科的声音调整手术等。其中整形外科近年开展的 “三步式阴茎再造术”、“微创乳房切除术”、“微创喉结缩小术”、以及与普通外科联合开展的“腹腔镜下结肠代阴道成形术”、妇科的“内窥镜下子宫及附件切除”、生殖医学科的“生殖细胞冻存技术”、“易性症激素治疗”等，都积累了足量的患者，拥有相当成熟的临床经验。
 
-## 目录
+## 目录 { data-search-exclude }
 
 - [1 北医三院易性症综合诊疗团队成员介绍：](#北医三院易性症综合诊疗团队成员介绍)
 - [2 诊断与心理咨询团队](#诊断与心理咨询团队)
@@ -182,3 +185,29 @@
 - 此页面最后编辑于2020年7月16日 (星期四) 04:27。
 - 除非另有声明，本网站内容采用[知识共享署名-相同方式共享](https://creativecommons.org/licenses/by-sa/4.0/)授权。
 <!-- tcd_original_link http://mtf.aimo.moe/wiki/%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E6%98%93%E6%80%A7%E7%97%87%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E5%9B%A2%E9%98%9F%E6%88%90%E7%AB%8B -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | mtf_北医三院易性症序列医疗团队成立_-_天使文库.md                             |
+| Size            | 10755 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

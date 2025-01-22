@@ -1,5 +1,8 @@
 # 跨性别艺术家的另类传奇（丹麦女孩）影评
 
+## 正文 { data-search-exclude }
+
+
 [![](https://img9.doubanio.com/icon/u66989868-34.jpg)](https://www.douban.com/people/66989868/)
 
 这篇影评可能有剧透
@@ -55,3 +58,29 @@
 © 2005－2024 douban.com, all rights reserved 
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/7814928/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇影评深入探讨了电影《丹麦女孩》的主题与表现，论述了跨性别人物艾纳·韦格纳的真实故事，以及他作为艺术家的生平与探索。影评介绍了电影中艾纳从男性向女性转变的痛苦过程，细腻的情感与美的追求，以及其背后与妻子格尔达之间复杂的关系。影片不仅呈现了上世纪20年代丹麦的社会背景，还通过丰富的视觉和音乐表现，探讨了性别认同和个体内心的觉醒。影评强调了导演汤姆·霍珀与主演埃迪·雷德梅恩在电影中的出色表现，展现了对生命的不同形态与追求美的永恒向往，最终使艾纳获得了自己的自由与永生。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别艺术家的另类传奇-_丹麦女孩_-_豆瓣.md                             |
+| Size            | 10856 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2015-09-05                                 |
+| Tags            | 跨性别, 性别认同, 艺术家, 丹麦女孩, 电影影评, 汤姆·霍珀, 埃迪·雷德梅恩, 情感, 生命故事, 唯美主义                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

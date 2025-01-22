@@ -1,5 +1,8 @@
 # 科技行业是跨性别者的好选择？
 
+## 正文 { data-search-exclude }
+
+
 ![](https://s3.ifanr.com/wp-content/uploads/2015/02/lgbtq1.jpg!720)
 
 **来源：** 爱范儿  
@@ -47,3 +50,29 @@ Ross 目前在探索如何将 TransTech 的触角拓展到她的社区，并能�
     2015-02-13 10:58  
     说实话。。我都不知道跨性别者是什么意思。。。知道刚刚查了一下 原来就是变性人。。。
 <!-- tcd_original_link https://www.ifanr.com/494954 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_科技行业是跨性别者的好选择？_-_爱范儿.md                             |
+| Size            | 4721 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

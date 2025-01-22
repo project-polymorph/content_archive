@@ -1,5 +1,8 @@
 # 马斯克的变性女儿宣布将离开美国及美国各地出现的种族主义短信事件
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://img.huxiucdn.com/article/content/201903/28/154451850467.png)
 
 **发布时间：** 2024-11-08
@@ -10,7 +13,7 @@
 
 ---
 
-## **川普获胜后，马斯克的变性女儿宣布将要离开美国**
+## **川普获胜后，马斯克的变性女儿宣布将要离开美国** { data-search-exclude }
 
 自从马斯克加入川普阵营后，他的变性女儿就经常登上新闻头条。
 
@@ -28,7 +31,7 @@
 
 ---
 
-## **地狱笑话来了：美国各地的黑人收到了“摘棉花”短信**
+## **地狱笑话来了：美国各地的黑人收到了“摘棉花”短信** { data-search-exclude }
 
 在美国俄亥俄州以及其他几个州，许多黑人都收到了一条极具种族主义色彩的恶搞短信。
 
@@ -48,3 +51,29 @@
 
 **版权信息：** 那个NG，一个努力勾勒世界轮廓的账号。在吵闹的世界里，真相在沉默之中，我们不提供确切的答案，只分享自由的迟疑瞬间。
 <!-- tcd_original_link https://m.huxiu.com/brief/205468.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_川普获胜后，马斯克的变性女儿宣布将要离开美国；地狱笑话来了_-_虎嗅.md                             |
+| Size            | 2947 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

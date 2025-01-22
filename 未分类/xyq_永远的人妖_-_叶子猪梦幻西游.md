@@ -1,5 +1,8 @@
 # 永远的人妖
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2009-08-20 17:00  
 **作者**: 筑风御雨  
 **来源**: 叶子猪论坛  
@@ -54,3 +57,29 @@ BOY说：“他可能不玩了，回帮去的原因是他知道，只有玉龙�
 
 本文仅代表发表厂商及作者观点，不代表叶子猪本身观点！
 <!-- tcd_original_link http://xyq.yzz.cn/mood/200908/69615_33.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | xyq_永远的人妖_-_叶子猪梦幻西游.md                             |
+| Size            | 4628 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 易性癖：我到底是男人还是女人？-壹心理
 
+## 正文 { data-search-exclude }
+
+
 ![什么是人际关系团体？人际关系团体有什么用？](https://ossimg.xinli001.com/20240614/0b3113dd49785ad2cc886c467ac0703b.jpeg?x-oss-process=image/resize,w_200/format,webp)
 
 ![与4000万年轻人一起自我成长](https://lapp.xinli001.com/images/logo/logo9.png?x-oss-process=image/resize,w_200/format,webp)
@@ -98,3 +101,29 @@
 
 ![](http://ossimg.xinli001.com/visioncn/600x400/VCG21gic15758034.jpg)
 <!-- tcd_original_link https://m.xinli001.com/info/100306557 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_易性癖：我是男人还是女人？.md                             |
+| Size            | 9441 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

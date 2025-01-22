@@ -1,5 +1,8 @@
 # 一变性女人成功分泌乳汁给宝宝喂奶
 
+## 正文 { data-search-exclude }
+
+
 **发表时间：** 20/02/2018 - 00:23  
 **来源：** [法国世界报](https://s.rfi.fr/media/display/a091f66a-6ffe-11ed-be36-005056a90284/w:480/p:1x1/carre-30000-%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5-journallemonde.jpg)  
 **作者：** [阿曼亭](https://s.rfi.fr/media/display/a091f66a-6ffe-11ed-be36-005056a90284/w:480/p:1x1/carre-30000-%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5-journallemonde.jpg)  
@@ -15,3 +18,29 @@
 
 在经过三个月的治疗后，在小宝宝出生前两个星期，这位变性女人每天的产奶量达到了227克。小宝宝出生后，这位变性女人的乳汁在6个星期的时间内是这个小宝宝的唯一食物，之后，才又加了奶粉。这个小宝宝发育的很好。
 <!-- tcd_original_link https://www.rfi.fr/cn/20180219-%E4%B8%80%E5%8F%98%E6%80%A7%E5%A5%B3%E4%BA%BA%E6%88%90%E5%8A%9F%E5%88%86%E6%B3%8C%E4%B9%B3%E6%B1%81%E7%BB%99%E5%AE%9D%E5%AE%9D%E5%96%82%E5%A5%B6 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_一变性女人成功分泌乳汁给宝宝喂奶-_法国世界报_-_RFI.md                             |
+| Size            | 2660 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

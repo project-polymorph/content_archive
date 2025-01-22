@@ -1,5 +1,8 @@
 # 性别可以被强行更改吗？“世界上最成功变性人”之死
 
+## 正文 { data-search-exclude }
+
+
 ![二维码](https://inews.gtimg.com/newsapp_bt/0/0522140926837_6113/0)
 
 **来源**: 腾讯新闻  
@@ -17,7 +20,7 @@
 
 每个人都将得到幸福的结局，起码在当时看起来是这样的。
 
-## 后天创造的女孩
+## 后天创造的女孩 { data-search-exclude }
 
 大卫和布莱恩8个月大的时候，医生发现两个孩子包皮过长，建议父母让他们接受包皮环切手术。
 
@@ -35,7 +38,7 @@
 
 而莫尼对这对兄弟的关注也并非是做慈善，在他看来，这对同卵双胞胎兄弟是一个千载难逢的机会，大卫和布莱恩有相同的基因、相同的家庭环境，是最好的对照组。莫尼相信，在对照组布莱恩的对比下，**大卫将有力地证明性别与基因无关，由后天决定**。
 
-## “史上最成功变性手术”
+## “史上最成功变性手术” { data-search-exclude }
 
 手术之后，大卫改头换面，更名为布伦达（Brenda）。按照莫尼的要求，赖默夫妇定期带着双胞胎接受他的评估，为他们成长的每一个阶段拍下对比照片。1975年，莫尼发表了病例报告，**宣称改造很成功**：布莱恩调皮捣蛋，喜欢玩小汽车和玩具枪，是个普通的小男孩；而布伦达穿裙子，玩洋娃娃，成了真正的小女孩。
 
@@ -49,7 +52,7 @@
 
 在大卫进入青春期后到底发生了什么？如果不是莫尼的“对手”插手揭露真相，也许大卫的故事就到此为止了。
 
-## 新名字的故事
+## 新名字的故事 { data-search-exclude }
 
 在莫尼的实验“大获成功”的同时，夏威夷大学的心理学家米尔顿·戴蒙德（Milton Diamond）也在关注着这一切。戴蒙德是生物学家出身，他支持性别的生物决定论（先天论），是莫尼长期以来的竞争对手。90年代，大卫的病例辗转来到他的手上，他才发现，莫尼隐瞒了这个故事的真相。
 
@@ -73,7 +76,7 @@
 
 大卫的自述还对莫尼的学术诚信乃至道德提出了指控。他回忆，自己年幼时常常被要求对进行随访或关注这个病例的医护人员脱下衣服，展示性器官；莫尼还曾经让他和双胞胎兄弟模仿性行为的动作。用今天的标准看来，这样的行为是对儿童权利的严重侵犯。
 
-## 我们如何想象性别
+## 我们如何想象性别 { data-search-exclude }
 
 这次“反转”为生物决定论扳回一城，却并未完全驳倒社会建构论。
 
@@ -95,9 +98,35 @@
 
 终其一生，从未有人将他当成一个完整的人。
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 \[1\] Butler J. Undoing gender\[M\]. routledge, 2004.
 
 **版权声明**: 本文来自果壳，未经授权不得转载。
 <!-- tcd_original_link https://news.qq.com/rain/a/20241018A0813M00 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_性别可以被强行更改吗？“世界上最成功变性人”之死_-_QQ_News.md                             |
+| Size            | 11411 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

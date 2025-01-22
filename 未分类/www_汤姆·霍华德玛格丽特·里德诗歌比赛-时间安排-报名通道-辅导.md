@@ -1,5 +1,8 @@
 # 汤姆·霍华德/玛格丽特·里德诗歌比赛
 
+## 正文 { data-search-exclude }
+
+
 ![在线咨询](//s0up.53kf.com/g1/M00/01/0C/wKhvsGCBSW6AHSobAABk_9wspSg020.png)
 
 ### 汤姆·霍华德/玛格丽特·里德诗歌比赛赛事介绍
@@ -15,17 +18,17 @@
 
 [了解辅导课程](https://oss.linstitute.net/wechatimg/2024/06/2024060301505856.jpg)
 
-## 主办方
+## 主办方 { data-search-exclude }
 
 ![主办方](https://oss.linstitute.net/wechatimg/2023/08/2023081608515043.png)
 
-## 主办方——WinningWriters
+## 主办方——WinningWriters { data-search-exclude }
 
 ![主办方信息](https://oss.linstitute.net/wechatimg/2023/08/2023081608593375.jpg)
 
-## 协办单位——Duotrope
+## 协办单位——Duotrope { data-search-exclude }
 
-## 评委团
+## 评委团 { data-search-exclude }
 
 ![评委团](https://oss.linstitute.net/wechatimg/2023/08/2023081609010659.png) 
 ![Michal ‘MJ’ Jones](https://www.hanlin.com/wp-content/themes/Factory/static/images/serv-bg.png)
@@ -56,7 +59,7 @@
 
 [我要咨询报名及课程安排](https://oss.linstitute.net/wechatimg/2024/06/2024060301505856.jpg)
 
-## 参赛须知
+## 参赛须知 { data-search-exclude }
 
 ##### 年龄要求
 
@@ -94,7 +97,7 @@
 
 https://winningwriters.submittable.com/submit
 
-## 参赛流程
+## 参赛流程 { data-search-exclude }
 
 ##### 1、官网注册
 
@@ -169,7 +172,7 @@ Dion O’Reilly，《在最后的皮肤移植后》，传统诗歌
 
 Gail Thomas，《不被相信的女人》，传统诗歌
 
-## 获奖作品展示
+## 获奖作品展示 { data-search-exclude }
 
 评委Soma Mei Sheng Frazier评论获奖作品
 
@@ -187,3 +190,29 @@ Gail Thomas，《不被相信的女人》，传统诗歌
 
 ![商务合作](https://oss.linstitute.net/wechatimg/2024/06/2024060302212180.png)
 <!-- tcd_original_link https://www.hanlin.com/thmr -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_汤姆·霍华德玛格丽特·里德诗歌比赛-时间安排-报名通道-辅导.md                             |
+| Size            | 8503 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

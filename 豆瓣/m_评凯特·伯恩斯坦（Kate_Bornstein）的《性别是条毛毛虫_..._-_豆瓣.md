@@ -1,5 +1,8 @@
 # 我仍然知道你去年夏天干了什么——评凯特·伯恩斯坦（Kate Bornstein）的《性别是条毛毛虫》（Gender Outlaw: On Men, Women, and the Rest of Us）
 
+## 正文 { data-search-exclude }
+
+
 ![作者头像](https://img3.doubanio.com/icon/u3632547-13.jpg)
 
 这篇书评可能有关键情节透露
@@ -90,7 +93,7 @@
 
 浪漫主义诗人约翰．克莱尔在数间疗养院被关了几十年后，他为自己的诗句发明了一种新的语言。当被问到为何要这样做时，他答道：「他们已经切下了我的头，从耳朵里拿走所有的字母、所有的母音与子音。他们还要我写诗！我做不到！」伯恩斯坦诚挚、细微地给予了喑哑的呼喊一种句法。有幸可以阅读到中文译本的我们，或许得以在被迫改变并且一路改变失败的时候，一起共勉之，共爽之，共辱之，共痛之。
 
-## 注释
+## 注释 { data-search-exclude }
 1. Roy Poter、巫毓荃译：《疯狂简史》，台北：左岸文化，2004版，p.160。  
 2. Kate Bornstein、廖爱晚译：《性别是条毛毛虫》，北京：新星出版社2013版。我相信译者与出版商在讨论Gender Outlaw: On Men, Women, and the Rest of Us的译名时，一定考虑过《非法性别：男、女，或者我们当中的其他》；但我必须同时强调，我不是这本书的出版商，评论这本书的译名是不够客观的，因为我并没有承担这本书的销售压力，并且我并没有全盘的衡量这本身在商店里被消费者接受的状态。关于本书的多种肯定与成就，可见于amazon网址：[http://www.amazon.com/Gender-Outlaw-Men-Women-Rest/dp/product-description/0679757015/ref=dp_proddesc_0?ie=UTF8&n=283155&s=books](http://www.amazon.com/Gender-Outlaw-Men-Women-Rest/dp/product-description/0679757015/ref=dp_proddesc_0?ie=UTF8&n=283155&s=books)最后浏览日期：2014.1.5。  
 3. Leslie Feinberg、陈婷译：《蓝调石墙T》，台北：商周，2006版。  
@@ -101,3 +104,29 @@
 8. 拉冈用＄◇a表现畸想。＄是分裂而不完整的主体，a表示著欲望的对象／欲求而无法获得的事物。利用这个畸想的公式，拉冈认为，＄与a的关系「◇」规律著畸想的运作方式。Jacques Lacan, trans by Alan Sheridan, Ecrits: a Selection(New York: Norton and Co.)1977, p312.Slavoj Zezek, edit by Elizabeth Wright and Edmond Wright, The Zizek Reader(Malden: Blackwell Publishing Ltd.) 1999, p122.  
 9. i know what you did last summer是一部写实的B级恐怖片，见[http://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer](http://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer)，最后浏览日期：2014.1. 5。
 <!-- tcd_original_link https://m.douban.com/book/review/7198686/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇文章是对凯特·伯恩斯坦（Kate Bornstein）著作《性别是条毛毛虫》（Gender Outlaw: On Men, Women, and the Rest of Us）的深入评析。伯恩斯坦是当代重要的跨性别行动主义者，其书籍融合了自传、论战、访谈稿和剧本，突破了二元性别框架，强调性别身份并非固定的，而是一个不断转变的过程。文章探讨了伯恩斯坦的身份经历和对性别构建的深刻理解，引用了她在书中提到的关于自我认同和社会压迫的言论，包括"我不属于"以及"我写下这些的时候，一些跨性别行动家正把女同性恋分离者当作攻击目标"等内容，从而引发读者对于性别身份与社会认同的思考。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_评凯特·伯恩斯坦（Kate_Bornstein）的《性别是条毛毛虫_..._-_豆瓣.md                             |
+| Size            | 24775 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 郑圣勋                               |
+| Region          | 未知                               |
+| Date            | 2014-11-00                                 |
+| Tags            | 凯特·伯恩斯坦, 跨性别, 性别理论, 性别认同, 自传, 行动主义, 文化研究, 社会压迫, 生存现状, 文学评论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

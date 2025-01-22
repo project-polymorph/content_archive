@@ -1,5 +1,8 @@
 # 2022台灣跨性別遊行 - 精彩回顧
 
+## 正文 { data-search-exclude }
+
+
 ![2022台灣跨性別遊行 - 精彩回顧](https://i.ytimg.com/an/zvxXF5tQuqKtJSkTc7kxLw/featured_channel.jpg?v=601bd8c2)
 
 ### 影片來源
@@ -40,3 +43,29 @@
 ---  
 版权所有 © 同志諮詢熱線 Taiwan Tongzhi Hotline Association
 <!-- tcd_original_link https://www.youtube.com/watch?v=Ceu6XBranEc -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_2022台灣跨性別遊行-_精彩回顧_-_YouTube.md                             |
+| Size            | 2284 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

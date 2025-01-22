@@ -1,4 +1,7 @@
-## 新知：耳朵畸形勿自卑 一个耳朵就够用啦
+# 新知：耳朵畸形勿自卑 一个耳朵就够用啦
+
+## 正文 { data-search-exclude }
+
 
 2017年07月27日08:14 来源：[人民网-人民健康网](http://health.people.com.cn/)
 
@@ -49,3 +52,29 @@
 
 ![第九届全球健康促进大会](http://NMediaFile/2016/1129/MAIN201611291650431949404923897.jpg) [第九届全球健康促进大会](http://health.people.com.cn/GB/26466/401878/408141/index.html)
 <!-- tcd_original_link http://health.people.com.cn/n1/2017/0727/c14739-29431218.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | health_新知：耳朵畸形勿自卑一个耳朵就够用啦.md                             |
+| Size            | 5110 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

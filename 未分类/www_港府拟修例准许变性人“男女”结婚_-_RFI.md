@@ -1,5 +1,8 @@
 # 港府拟修例准许变性人“男女”结婚
 
+## 正文 { data-search-exclude }
+
+
 香港终审法院去年5月裁定变性人享有结婚权利，宣告现行的婚姻登记的相关条文违宪，颁令政府修例。政府日前提交立法会文件，拟修订《婚姻条例》，容许完成变性手术的人士，根据其身份证上之性别注册结婚；现行法律需根据与生具来的“生理因素”决定登记人性别。政府的文件表明，修订不影响现时香港一男一女的婚姻基础。
 
 发表时间： 01/01/2014 - 11:32
@@ -24,3 +27,29 @@
 
 [订阅](https://emailing.rfi.fr/cn/subscribe)
 <!-- tcd_original_link https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20140101-%E6%B8%AF%E5%BA%9C%E6%8B%9F%E4%BF%AE%E4%BE%8B%E5%87%86%E8%AE%B8%E5%8F%98%E6%80%A7%E4%BA%BA%E2%80%9C%E7%94%B7%E5%A5%B3%E2%80%9D%E7%BB%93%E5%A9%9A -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_港府拟修例准许变性人“男女”结婚_-_RFI.md                             |
+| Size            | 3138 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

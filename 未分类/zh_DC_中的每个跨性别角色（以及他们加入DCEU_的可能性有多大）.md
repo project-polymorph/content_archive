@@ -1,5 +1,8 @@
 # DC 中的每个跨性别角色（以及他们加入 DCEU 的可能性有多大）
 
+## 正文 { data-search-exclude }
+
+
 发布于 2022 年 4 月 30 日  
 
 多年来，DC 推出了大量跨性别角色，其中一些角色请求在 DC 扩展宇宙中首次亮相。
@@ -12,7 +15,7 @@
 
 由于漫画电影仍处于黄金时代，制片厂也在电影中拥抱这些社区；一些跨性别角色可能会被引入 DCEU 电影和节目中。与此同时，其他人则不太可能，尽管粉丝们希望看到他们。对于这个列表，该角色实际上必须被标记为跨性别者，因此可以变成任何人的变形者不会被计算在内。
 
-## 苏西·苏
+## 苏西·苏 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-2.webp)
 
@@ -20,7 +23,7 @@
 
 值得赞赏的是，她并不是变性后完美无瑕的迷人超模，但她的内心和外表却是多么残酷和丑恶，这仍然是对跨性别女性的妖魔化描绘。除非 DCEU 决定对她进行更尊重的描述，否则她不太可能被改编。
 
-## 丹尼街
+## 丹尼街 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-3.webp)
 
@@ -28,7 +31,7 @@
 
 丹尼 (Danny) 已在 HBO Max 中担任常驻角色 _末日巡逻队_ 系列赛，这很可能是他会留下的地方。尽管DCEU并不完全基于现实，但有感知的街道并不真正适合那个宇宙的风格，即使他们引入了 _末日巡逻队_ 。
 
-## 万达人
+## 万达人 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-4.webp)
 
@@ -36,7 +39,7 @@
 
 万达的父母告诉所有人，他们的儿子去世了，并不再与万达说话。很高兴在 DCEU 中看到旺达，但不幸的是，她是尼尔·盖曼的 _桑德曼_ 特点。她可能会出现在 Netflix 的剧集中，但该剧很可能仍与任何 DCEU 脱节。
 
-## 凝块
+## 凝块 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-5.webp)
 
@@ -46,7 +49,7 @@
 
 她可以将液体变成固体，再将固体变成液体，这为她赢得了在 _末日巡逻队_ 。她的创作者是跨性别作家雷切尔·波拉克（Rachel Pollack）。因此，她正确地代表了 DC 世界中的社区，但除非 DCEU 推出他们自己的版本 _末日巡逻队_ ，Coagula 很可能会保留给 HBO Max 系列。
 
-## 伯克·戴
+## 伯克·戴 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-6.webp)
 
@@ -54,7 +57,7 @@
 
 不幸的是，在她屈服于成为一个拥有女性身体比喻的典型恶棍之前，她的性别身份并没有得到更多的探索。然而，如果邪教经典 _地狱神探_ 漫画改编成DCEU，或许伯克戴转世为女人可以被赋予更多深度。
 
-## 帕多·斯瓦卡卡通
+## 帕多·斯瓦卡卡通 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-7.webp)
 
@@ -62,7 +65,7 @@
 
 漫画作家盖尔·西蒙 (Gail Simone) 一直是 LGBT+ 引以为豪的盟友，这一点通过她才华横溢的写作得以体现。漫画并不经常与年轻观众讨论性别认同，而《塑料人》电影可能是 DCEU 中讨论性别认同的完美途径。
 
-## 梦想家
+## 梦想家 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-8.webp)
 
@@ -72,7 +75,7 @@
 
 粉丝们已经非常接受梦想家，如果她在 DCEU 中首次亮相也就不足为奇了。他们甚至可以让变性女演员妮可·梅恩斯回来扮演她的 DCEU 对手，很可能没有人会反对。
 
-## 食物
+## 食物 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-9.webp)
 
@@ -80,7 +83,7 @@
 
 随着盖尔·加朵版的神奇女侠现在成为 DCEU 最大的面孔之一，比亚可以很容易地与努比亚和她故事中的其他亚马逊人一起被介绍。它可以让更多的故事以亚马逊人和他们的文化为特色。
 
-## 维多利亚十月
+## 维多利亚十月 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-10.webp)
 
@@ -88,7 +91,7 @@
 
 在成为维多利亚之前，她患有严重的抑郁症，而她的转变让她能够对抗抑郁症。利用她的智慧和技能来帮助他人。由于本·阿弗莱克在 DCEU 的未来不确定，维多利亚·十月可能会成为莱斯利·格蕾丝的反复出现的角色 _蝙蝠女_ 以及其他与蝙蝠家族相关的电影。
 
-## 杨艾莉西亚
+## 杨艾莉西亚 { data-search-exclude }
 
 ![](//maplehorst.com/img/lists/47/every-trans-character-dc-11.webp)
 
@@ -98,3 +101,29 @@
 
 下一篇： 关于蝙蝠女只有漫画迷知道的 10 件事
 <!-- tcd_original_link https://zh.maplehorst.com/every-trans-character-dc-23091419950 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_DC_中的每个跨性别角色（以及他们加入DCEU_的可能性有多大）.md                             |
+| Size            | 7910 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

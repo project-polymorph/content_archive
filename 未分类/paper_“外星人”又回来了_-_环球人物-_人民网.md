@@ -1,13 +1,16 @@
 # 外星人罗纳尔多的回归
 
+## 正文 { data-search-exclude }
+
+
 ![](../../../page/1121/2009-01/11/18/2009011118_brief.jpg)
 
-## 文章信息
+## 文章信息 { data-search-exclude }
 - **作者**: 罗　雀
 - **时间**: 2009年第2期
 - **来源**: 环球人物
 
-## 正文
+## 正文 { data-search-exclude }
 
 罗纳尔多复出了。在经历了270多天的等待之后，足球天才战胜了伤病，重回赛场。2008年12月10日，科林蒂安俱乐部证实，罗纳尔多已与球队达成协议，新赛季将代表球队征战巴西甲级联赛。科林蒂安是巴西国内最成功的俱乐部之一，曾四夺国内联赛冠军，两次巴西杯冠军和一次超级杯冠军。
 
@@ -31,7 +34,33 @@
 
 对于那些真正的足球迷，伤病、肥胖、绯闻都不能让他们舍弃对罗纳尔多的喜爱。如今，“外星人”带着他纯真的笑容重返赛场，但愿他一直在球场飞驰，没有伤病，更听不到膝盖碎裂的声音。
 
-## 版权信息
+## 版权信息 { data-search-exclude }
 人民网版权所有，未经书面授权禁止使用。  
 Copyright © 1997-2008 by www.people.com.cn. all rights reserved.
 <!-- tcd_original_link http://paper.people.com.cn/hqrw/html/2009-01/11/content_214762.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | paper_“外星人”又回来了_-_环球人物-_人民网.md                             |
+| Size            | 3851 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

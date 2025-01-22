@@ -1,5 +1,8 @@
 # Transgender 跨性别小组
 
+## 正文 { data-search-exclude }
+
+
 ![Transgender 跨性别](https://img3.doubanio.com/view/group/sqxs/public/d7334afdf332717.webp)
 
 创建于2020-11-21     组长：[叶子](https://www.douban.com/people/58690459/)      小组类型： [生活](/group/category?id=843)
@@ -26,7 +29,7 @@
 
 ---
 
-## 最近讨论
+## 最近讨论 { data-search-exclude }
 
 | 讨论                              | 作者                | 回应 | 最后回应       |
 |-----------------------------------|---------------------|------|----------------|
@@ -43,7 +46,7 @@
 
 ---
 
-## 最近加入
+## 最近加入 { data-search-exclude }
 
 - [![asdfghjkl](https://img3.doubanio.com/icon/up284714355-2.jpg)](https://www.douban.com/people/284714355/) [asdfghjkl](https://www.douban.com/people/284714355/)
 - [![mii](https://img3.doubanio.com/icon/up270703891-32.jpg)](https://www.douban.com/people/mirapyu/) [mii](https://www.douban.com/people/mirapyu/)
@@ -58,3 +61,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/group) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/group/711728/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件来自豆瓣的跨性别小组，创建于2020年11月21日，由叶子担任组长。小组提供一个安全而温暖的交互空间，专为跨性别者设计，鼓励成员分享生活经历、相互支持与交流。文中提到的发言规则强调了社区规范的重要性，以维护良好的讨论氛围。小组内的讨论主题丰富多样，成员可以分享个人经验，如证件处理、情感关系，或寻找志同道合的朋友。最近的讨论包括疫情影响下的日常生活，以及寻求情感支持的帖子。小组还标注了相关的兴趣标签，如“跨性别”和“兴趣”，以便于用户查找。整体而言，该文档反映了一个积极的、包容的多元性别社区，旨在为跨性别者的日常生活提供支持与交流的平台。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_Transgender_跨性别小组_-_豆瓣.md                             |
+| Size            | 5044 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 叶子                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-11-21                                 |
+| Tags            | 跨性别, 多元性别, 社区, 生活经历, 支持, 讨论, 交友, 规则, 豆瓣小组, 情感支持                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

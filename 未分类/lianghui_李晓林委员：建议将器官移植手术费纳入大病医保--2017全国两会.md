@@ -1,5 +1,8 @@
 # 李晓林委员：建议将器官移植手术费纳入大病医保
 
+## 正文 { data-search-exclude }
+
+
 _2017年03月10日10:22_    
 _来源：[人民网](http://www.people.com.cn/)_    
 
@@ -27,3 +30,29 @@ _来源：[人民网](http://www.people.com.cn/)_
 
 人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用 Copyright © 1997-2021 by www.people.com.cn. all rights reserved
 <!-- tcd_original_link http://lianghui.people.com.cn/2017/n1/2017/0310/c410899-29136721.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | lianghui_李晓林委员：建议将器官移植手术费纳入大病医保--2017全国两会.md                             |
+| Size            | 3654 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

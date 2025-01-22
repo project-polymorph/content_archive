@@ -1,5 +1,8 @@
 # 美国法院历史性裁定：这是首个“不男不女”的美国人
 
+## 正文 { data-search-exclude }
+
+
 ![logo](../images/mian-logo.png)
 
 **作者**: 隆洋  
@@ -104,3 +107,29 @@
 
 Copyright © 2014-2024 观察者 All rights reserved。
 <!-- tcd_original_link https://www.guancha.cn/america/2016_06_20_364712.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_这个美国人靠不男不女创造了历史-观察者网.md                             |
+| Size            | 7323 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

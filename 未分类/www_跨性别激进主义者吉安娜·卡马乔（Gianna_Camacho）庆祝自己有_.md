@@ -1,5 +1,8 @@
 # 跨性别活动家吉安娜·卡马乔获得新身份证
 
+## 正文 { data-search-exclude }
+
+
 ![吉安娜·卡马乔](https://www.infobae.com/resizer/v2/HZOABB6VIVFBNMHKUP6SX6B4FI.jpg?auth=9fe95409961139068c05041c8466ac92e25a8bc1d0ea51efbc9e142158f2a106&smart=true&width=350&height=233&quality=85)
 
 **时间：** 2022年3月20日 09:18 a.m. EST  
@@ -47,3 +50,29 @@ _“再次感谢 Fhran Medina 博士的同情心和陪伴我踏上这段旅程�
 - [她是跨性别者，今年38岁，在街头生活了将近十年，并试图打破40岁前死亡的耻辱](https://www.infobae.com/sociedad/2022/02/13/es-trans-tiene-38-anos-vivio-en-la-calle-casi-diez-y-busca-romper-con-el-estigma-de-morir-antes-de-los-40/)
 - [迈克·杜兰：让哥伦比亚更改身份证件的变性人](https://www.infobae.com/america/colombia/2021/11/04/mike-duran-el-transgenero-que-logro-que-colombia-cambiara-sus-documentos-de-identificacion/)
 <!-- tcd_original_link https://www.infobae.com/cn/2022/03/20/trans-activist-gianna-camacho-celebrates-that-she-has-a-dni-with-her-name-nothing-can-tarnish-this-so-beautiful-that-i-feel/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性别激进主义者吉安娜·卡马乔（Gianna_Camacho）庆祝自己有_.md                             |
+| Size            | 5420 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

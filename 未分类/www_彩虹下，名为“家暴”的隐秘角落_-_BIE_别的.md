@@ -1,5 +1,8 @@
 # 彩虹下，名为“家暴”的隐秘角落
 
+## 正文 { data-search-exclude }
+
+
 5+
 
 ![Loading](https://www.biede.com/wp-content/plugins/wp-favorite-posts/img/loading.gif) _0_
@@ -180,3 +183,29 @@ _如果你有想说的话，可以留言，来微博_**_@BIE别的女孩_**_留�
 
 标签：[LGBTQ](https://www.biede.com/tag/lgbtq/) [公益](https://www.biede.com/tag/gongyi/) [别的女孩](https://www.biede.com/tag/biedenvhai/) [女孩](https://www.biede.com/tag/nvhai/) [彩虹](https://www.biede.com/tag/caihong/)
 <!-- tcd_original_link https://www.biede.com/rainbow-domestic-violence/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_彩虹下，名为“家暴”的隐秘角落_-_BIE_别的.md                             |
+| Size            | 16423 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 台湾变性人手术揭密
 
+## 正文 { data-search-exclude }
+
+
 由 [lavisage](https://lvbc.tw/cn/author/lavisage/ "发表人 lavisage") | 3 月 14, 2009 | [媒体报导](https://lvbc.tw/cn/category/%e5%aa%92%e4%bd%93%e6%8a%a5%e5%af%bc/)
 
 ![](https://lvbc.tw/wp-content/uploads/sites/2/2008/07/下載-1.jpg)
@@ -56,3 +59,29 @@
 - [脸型雕塑](https://lvbc.tw/cn/tag/%e8%84%b8%e5%9e%8b%e9%9b%95%e5%a1%91/)
 - [著作](https://lvbc.tw/cn/tag/%e8%91%97%e4%bd%9c-cn/)
 <!-- tcd_original_link https://lvbc.tw/cn/%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%80%A7%E4%BA%BA%E6%89%8B%E6%9C%AF%E6%8F%AD%E5%AF%86/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | lvbc_台湾变性人手术揭密_-_采新整形外科診所.md                             |
+| Size            | 8809 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

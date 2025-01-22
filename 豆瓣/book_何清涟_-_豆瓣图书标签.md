@@ -1,6 +1,9 @@
 # 何清涟相关图书
 
-## 豆瓣图书标签: 何清涟
+## 正文 { data-search-exclude }
+
+
+## 豆瓣图书标签: 何清涟 { data-search-exclude }
 
 -   [人口 : 中国的悬剑](https://book.douban.com/subject/2382200/ "人口")  
     ![](https://img1.doubanio.com/view/subject/s/public/s3403069.jpg)  
@@ -73,7 +76,7 @@
     8.8 (1252人评价)  
     2006年，《长尾理论》的作者克里斯·安德森在亚马逊网站上这样评价该书：“这可能是90年代最重要的一本书”，并且是“少有的一年比一年卖得好的书”。“尽管书…
 
-## 相关的标签
+## 相关的标签 { data-search-exclude }
 - [网特（汉奸）丛书](/tag/网特（汉奸）丛书) 
 - [何清漣](/tag/何清漣) 
 - [我们仍然在仰望星空](/tag/我们仍然在仰望星空) 
@@ -86,3 +89,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 
 <!-- tcd_original_link https://book.douban.com/tag/%E4%BD%95%E6%B8%85%E6%B6%9F?type=S -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件包含何清涟相关的图书信息和其豆瓣图书标签，展示了多本书籍的基本信息，包括书名、作者、出版社、出版时间及其平均评分等。这些图书均与社会、经济和文化主题相关，涉及对中国社会变迁、经济改革及性别认同的深刻分析。例如，《人口 : 中国的悬剑》深入探讨了中国明清以来的人口变化对社会发展的影响，而《纠正上帝的错误》则聚焦于变性人的经历与社会问题，揭示了多元性别的复杂现状。该文件旨在为读者提供关于何清涟及其相关书籍的全面视角，促进对中国现代性别和社会议题的理解。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | book_何清涟_-_豆瓣图书标签.md                             |
+| Size            | 6048 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 何清涟, 变性人, 中国社会变迁, 经济改革, 多元性别, 社会研究, 性别认同, 法律政策, 医疗资源, 书籍推荐                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

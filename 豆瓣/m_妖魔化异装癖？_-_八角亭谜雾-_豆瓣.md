@@ -1,5 +1,8 @@
 # 妖魔化异装癖？（八角亭谜雾）剧评
 
+## 正文 { data-search-exclude }
+
+
 这篇剧评可能有剧透
 
 根据警察调查出来的结果，丁团长患有抑郁症、异装癖和精神分裂症，这应该是通过心理医生得到的病历
@@ -16,7 +19,7 @@
 
 来自豆瓣App
 
-## 评论
+## 评论 { data-search-exclude }
 
 ### [不是土豪榕](https://www.douban.com/people/161282424 "不是土豪榕") 2021-10-22 21:26:13
 每一种精神疾病都有极端吧，丁团长或许就是极端的那个。 之所以迷恋，应该也是玄珍之前刻意接近他。
@@ -30,7 +33,7 @@
 ### [归去斜阳正浓](https://www.douban.com/people/192656866 "　归去斜阳正浓") 2021-10-22 22:01:28
 除了异装癖，剧里还特意加了一句，类似根据他从小的生活环境，比如被父暴打这种才造成了特殊的。
 
-## 来源信息
+## 来源信息 { data-search-exclude }
 - **作品**: [八角亭谜雾](https://movie.douban.com/subject/35307435/)
 - **导演**: 王小帅 / 花箐
 - **主演**: 段奕宏 / 郝蕾 / 祖峰
@@ -40,3 +43,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/13947648/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇剧评针对电视剧《八角亭谜雾》的角色丁团长进行了深度剖析，讨论了其异装癖和精神状况对剧情的影响。剧中揭示了丁团长面对抑郁症和精神分裂症等心理问题的复杂性。剧评提到，丁团长将剧中另一个角色玄珍视为“另一个自己”，并质疑剧本在心理疾病的设定是否合理，是否依赖专业心理学咨询。评论区反映出观众对剧中人物心理动机的不解，认为该角色的极端行为与他的成长经历，尤其是童年遭受的家庭暴力密切相关。整体上，作者对剧中的心理描写提出质疑，希望能够更准确地展现真实的精神疾病现象。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_妖魔化异装癖？_-_八角亭谜雾-_豆瓣.md                             |
+| Size            | 2986 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 张大嘴                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-10-13                                 |
+| Tags            | 电视剧, 剧评, 异装癖, 精神疾病, 心理健康, 八角亭谜雾, 抑郁症, 角色分析, 文化评论, 社会现象                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

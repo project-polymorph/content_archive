@@ -1,4 +1,7 @@
-## 跨性别支持组织声明
+# 跨性别支持组织声明
+
+## 正文 { data-search-exclude }
+
 
 **发布日期**: 03 四月 2024  
 **最近更新**: 03 四月 2024
@@ -35,7 +38,7 @@ Email: [joanne@tgr.org.hk](mailto:joanne@tgr.org.hk)
 
 ---
 
-## 跨越两代的性别鸿沟出版计划
+## 跨越两代的性别鸿沟出版计划 { data-search-exclude }
 
 **发布日期**: 21 七月 2022  
 **最近更新**: 21 七月 2022
@@ -64,7 +67,7 @@ Email: [joanne@tgr.org.hk](mailto:joanne@tgr.org.hk)
 
 ---
 
-## 《雌雄同歌》－跨性别 X 流行音乐 2.0
+## 《雌雄同歌》－跨性别 X 流行音乐 2.0 { data-search-exclude }
 
 **发布日期**: 03 三月 2022  
 **最近更新**: 23 三月 2022
@@ -109,7 +112,7 @@ MV Director: 楊適榕 Kitty Yeung
 
 ---
 
-## Women of Power 2021
+## Women of Power 2021 { data-search-exclude }
 
 **发布日期**: 03 十二月 2021  
 **最近更新**: 16 十二月 2021
@@ -132,7 +135,7 @@ The chairperson of TGR honored to be selected as one of the "Women of Power 2021
 
 ---
 
-## 机构声明：拒绝服务条款
+## 机构声明：拒绝服务条款 { data-search-exclude }
 
 **发布日期**: 08 十一月 2021  
 **最近更新**: 18 四月 2022
@@ -143,7 +146,7 @@ The chairperson of TGR honored to be selected as one of the "Women of Power 2021
 
 ---
 
-## 2021-10-21 台湾文化大学演讲
+## 2021-10-21 台湾文化大学演讲 { data-search-exclude }
 
 **发布日期**: 22 十月 2021  
 **最近更新**: 22 十月 2021
@@ -154,7 +157,7 @@ The chairperson of TGR honored to be selected as one of the "Women of Power 2021
 
 ---
 
-## The Heroines of My Life
+## The Heroines of My Life { data-search-exclude }
 
 **发布日期**: 18 八月 2021  
 **最近更新**: 18 八月 2021
@@ -167,3 +170,29 @@ The founder of TGR, Joanne Leung has been featured in a great blog "The Heroines
 
 [访问链接](https://theheroines.blogspot.com/2021/08/interview-with-joanne-leung.html)
 <!-- tcd_original_link https://www.tgr.org.hk/index.php/zh/database/announcement -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_組織公告_-_跨性別資源中心.md                             |
+| Size            | 10839 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

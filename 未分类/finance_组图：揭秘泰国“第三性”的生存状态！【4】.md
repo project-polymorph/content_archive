@@ -1,5 +1,8 @@
 # 组图：揭秘泰国“第三性”的生存状态！
 
+## 正文 { data-search-exclude }
+
+
 ![组图：揭秘泰国“第三性”的生存状态！](http://58.68.146.78/index/?cid=&catalogs=1004&keyword=变性人 舞女 第三性 Bar go-go bar go—go bar Bee Cascade&refer=)
 
 ###### 来源： [光明网](http://www.gmw.cn/)  
@@ -13,3 +16,29 @@ Scott非常清楚Coco是一名未完全接受变性手术的变性人（从生�
 
 _（责任编辑：薛白、乔雪峰)_
 <!-- tcd_original_link http://finance.people.com.cn/n/2013/0121/c1004-20270217-4.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | finance_组图：揭秘泰国“第三性”的生存状态！【4】.md                             |
+| Size            | 1790 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

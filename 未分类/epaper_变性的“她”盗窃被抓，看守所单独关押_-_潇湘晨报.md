@@ -1,5 +1,8 @@
 # 变性的“她”盗窃被抓，看守所单独关押
 
+## 正文 { data-search-exclude }
+
+
 因缺钱导致变性不彻底，“她”想通过盗窃攒钱再手术；目前已被取保候审
 
 ###### 2014年5月21日
@@ -34,7 +37,7 @@
 
 5月19日，桂英被取保候审，离开看守所。
 
-## 延伸阅读
+## 延伸阅读 { data-search-exclude }
 
 特殊嫌犯如何关押
 
@@ -59,3 +62,29 @@
 作者: 覃剑  
 版权: Copyright © 2001-2011 xxcb.cn All Rights Reserved  
 <!-- tcd_original_link http://epaper.xxcb.cn/XXCBB/html/2014-05/21/content_2782508.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | epaper_变性的“她”盗窃被抓，看守所单独关押_-_潇湘晨报.md                             |
+| Size            | 4303 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

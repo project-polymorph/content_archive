@@ -1,5 +1,8 @@
 # TRANSGÉNERO/TRANSEXUAL/GENERO FLUIDO Y LACTANCIA. INFORMACIÓN GENERAL
 
+## 正文 { data-search-exclude }
+
+
 **来源**: La Leche League International
 
 这是一个关于变性人、变性人或流动性人的故事。十个主要方面、医疗人员和其他人、跨性别者的角色。请查看最终的列表和定义。
@@ -67,3 +70,29 @@ Una persona es transgénero，不是跨性别者。跨性别者的形式不需�
 **作者**: Amaia Sarriegui, Veronica Garea, Lourdes Santaballa, Rocío Velásquez  
 **修订**: Amaia Sarriegui、Ana Txurruka
 <!-- tcd_original_link https://llli.org/zh/informacion-sobre-la-lactancia-materna-de-la-a-a-la-z/transgenero-transexual-genero-fluido-y-lactancia-informacion-general/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | llli_TRANSGÉNEROTRANSEXUALGENERO_FLUIDO_Y_LACTANCIA_.md                             |
+| Size            | 4420 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

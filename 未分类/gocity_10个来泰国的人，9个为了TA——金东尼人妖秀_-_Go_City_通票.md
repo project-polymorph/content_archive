@@ -1,5 +1,8 @@
 # 10个来泰国的人，9个为了TA——金东尼人妖秀
 
+## 正文 { data-search-exclude }
+
+
 **日期：** 2021年3月16日  
 **来源：** [Go City 通票博客](https://gocity.com.cn/blog/details/57477)  
 **标签：** 泰国，人妖秀，金东尼，旅游  
@@ -16,7 +19,7 @@
 
 ![金东尼人妖秀4](https://lvyou168.cn/upload/20210316/150533460.jpg)
 
-## 景点详情
+## 景点详情 { data-search-exclude }
 
 **正常票价：**  
 800泰铢（约合170人民币，持Go曼谷通票免费）
@@ -43,3 +46,29 @@ Go曼谷通票已推出**官方****中文网站**（[_https://gocity.com.cn/bang
 
 ![Go曼谷通票](https://lvyou168.cn/upload/20210316/152556680.png)
 <!-- tcd_original_link https://gocity.com.cn/blog/details/57477 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gocity_10个来泰国的人，9个为了TA——金东尼人妖秀_-_Go_City_通票.md                             |
+| Size            | 3280 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

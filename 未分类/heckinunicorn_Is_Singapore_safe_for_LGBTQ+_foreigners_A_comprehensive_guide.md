@@ -1,5 +1,8 @@
 # Is Singapore safe for LGBTQ+ foreigners? A comprehensive guide
 
+## 正文 { data-search-exclude }
+
+
 by Heckin’ Unicorn | Updated on October 14, 2023
 
 ![Is Singapore safe for LGBTQ+ foreigners? A comprehensive guide](//heckinunicorn.com/cdn/shop/articles/queer-merlion-is-singapore-safe-for-lgbt-foreigners-v2-optimised_345x345@2x.jpg?v=1637914991)
@@ -59,13 +62,13 @@ In general, LGBTQ+ rights are not officially recognised or protected in Singapor
 
 🏛
 
-## **No constitutional protection**
+## **No constitutional protection** { data-search-exclude }
 
 In 2014, the Court of Appeal (the highest court in Singapore) [ruled](https://www.straitstimes.com/singapore/courts-crime/court-of-appeal-rules-that-section-377a-that-criminalises-sex-between-men-is) that discrimination on the grounds of sexual orientation isn’t prohibited under the Constitution. This implies that laws in Singapore may discriminate on the basis of sexual orientation and still be upheld as constitutional. 
 
 👬
 
-## **Section 377A — sexual acts between men are illegal** 
+## **Section 377A — sexual acts between men are illegal**  { data-search-exclude }
 
 **Update: On 21 August 2022, Prime Minister Lee Hsien Loong has announced that the Singapore government will repeal s377A. [Read more](https://heckinunicorn.com/blogs/heckin-unicorn-blog/377a-will-be-repealed-but-whats-next)** 
 
@@ -83,7 +86,7 @@ No similar law exists for sexual acts between women.
 
 👭👬
 
-## **Women’s Charter — same-sex marriages are voided in Singapore** 
+## **Women’s Charter — same-sex marriages are voided in Singapore**  { data-search-exclude }
 
 **Update: On 21 August 2022, Prime Minister Lee Hsien Loong announced the government’s intention to ensure that marriage equality can never be achieved through constitutional challenges in court. Rather, the government seeks to ensure that any change to marriage will be done through parliament. It is yet unclear how this will be mechanically and legally achieved, and what impact it will have on marriage equality in the future.** 
 
@@ -93,7 +96,7 @@ Since same-sex marriages are voided, same-sex couples are administratively treat
 
 🏥
 
-## **Healthcare** 
+## **Healthcare**  { data-search-exclude }
 
 Singapore’s healthcare system is largely neutral towards LGBTQ+ individuals. The Singapore Medical Council’s Ethical Code and Ethical Guidelines, for example, forbid doctors from discriminating against patients on the grounds of sexual orientation ([page 21, B1.1](https://www.healthprofessionals.gov.sg/docs/librariesprovider2/guidelines/2016-smc-ethical-code-and-ethical-guidelines---%2813sep16%29.pdf)). 
 
@@ -103,7 +106,7 @@ If you plan to stay in Singapore long term and require medical transitioning sup
 
 💔
 
-## **HIV discrimination** 
+## **HIV discrimination**  { data-search-exclude }
 
 **Note:** it’s difficult to get current and explicit guidelines on this topic directly from the immigration authority in Singapore. This section is written based on statutes, news reports, and third party sources. 
 
@@ -143,7 +146,7 @@ Children under 21 who are already in Singapore through a [Dependent’s Pass](ht
 
 ⚠️
 
-## **“Conversion therapy” and anti-LGBTQ speech are legal** 
+## **“Conversion therapy” and anti-LGBTQ speech are legal**  { data-search-exclude }
 
 “Conversion therapy” practices [exist in Singapore](https://heckinunicorn.com/blogs/heckin-unicorn-blog/the-reality-of-conversion-therapy-in-singapore-lgbt-rights-in-singapore), and are legal. Medical professionals are anecdotally known to refer LGBTQ+ patients to “conversion therapy” practices — perhaps without knowledge that such practices are harmful. There are also organisations here that present themselves as pro-LGBTQ, but in reality promote or conduct “conversion therapy” practices — read [this article](https://heckinunicorn.com/blogs/heckin-unicorn-blog/the-reality-of-conversion-therapy-in-singapore-lgbt-rights-in-singapore) for more details. 
 
@@ -151,7 +154,7 @@ Anti-LGBTQ speech is also legal unless they encourage violence. It’s not uncom
 
 💬
 
-## **Censorship of LGBTQ+ representation**
+## **Censorship of LGBTQ+ representation** { data-search-exclude }
 
 **Update: On 21 August 2022, Prime Minister Lee Hsien Loong announced the government’s intention to retain all existing discriminatory policies, which include media censorship guidelines. LGBTQ+ identities will likely continue to be demonised and censored by the state.** 
 
@@ -163,7 +166,7 @@ Public schools in Singapore also [suppress](https://heckinunicorn.com/blogs/heck
 
 🏳️‍🌈
 
-## **No pride parades** 
+## **No pride parades**  { data-search-exclude }
 
 There are no pride parades in Singapore. Permits are typically required for public assemblies or processions, and police in Singapore have been known to [reject](https://en.wikipedia.org/wiki/LGBT_pride_events_in_Singapore#Nation.V_\(2005\)) [applications](https://www.straitstimes.com/singapore/police-turn-down-permit-application-for-pink-run-lgbt-event) for LGBTQ-focused ones. 
 
@@ -171,7 +174,7 @@ An annual pride protest called [Pink Dot](http://pinkdot.sg/) has been organised
 
 😔
 
-## **General social acceptance of LGBTQ+ individuals and safe spaces** 
+## **General social acceptance of LGBTQ+ individuals and safe spaces**  { data-search-exclude }
 
 Singapore is generally kept conservative through anti-LGBTQ regulations and institutionalised discrimination. However, younger folks tend to be more [accepting](https://www.todayonline.com/singapore/today-youth-survey-high-overall-acceptance-lgbtq-people-among-youth-family-members-harder-to-accept) of LGBTQ+ people. In general, anti-LGBTQ sentiments appear to be driven by either personal beliefs or ignorance. 
 
@@ -183,7 +186,7 @@ As far as we know, only [1 church](https://freecomchurch.org/) in Singapore is p
 
 ❤️
 
-## **LBGTQ+ support organisations** 
+## **LBGTQ+ support organisations**  { data-search-exclude }
 
 There are no state-driven LGBTQ+ support organisations in Singapore. However, many community-driven LGBTQ+ organisations have stepped up to provide support to queer folks here. 
 
@@ -220,7 +223,7 @@ Public schools follow a curriculum set by the government, and international scho
 
 🎒
 
-## **Public schools — pre-university** 
+## **Public schools — pre-university**  { data-search-exclude }
 
 Public schools in Singapore fiercely suppress LGBTQ+ identities. We’ve written an in-depth article about this, so please [read this article](https://heckinunicorn.com/blogs/heckin-unicorn-blog/how-schools-in-singapore-suppress-lgbtq-identities-lgbt-rights-in-singapore) if you plan to enrol in local public schools. 
 
@@ -238,7 +241,7 @@ If you’re a queer parent or have queer children, please be ready to provide yo
 
 🏫
 
-## **International schools — pre-university** 
+## **International schools — pre-university**  { data-search-exclude }
 
 International schools in Singapore are governed by the [Private Education Act](https://sso.agc.gov.sg/Act/PEA2009), which still gives the state some control over the schools’ curricula and staff. 
 
@@ -258,7 +261,7 @@ It’s worth noting that international schools cost much more than public school
 
 👨‍🎓️👩‍🎓🧑‍🎓
 
-## **Universities** 
+## **Universities**  { data-search-exclude }
 
 Universities in Singapore tend to be more LGBTQ-friendly than pre-university schools. Modules on gender and sexuality are also available in most universities (often taught by the humanities / arts faculties). 
 
@@ -268,7 +271,7 @@ There might also be safe spaces within university campuses in Singapore. The Uni
 
 🏨
 
-## **Student hostels** 
+## **Student hostels**  { data-search-exclude }
 
 If you plan to stay in a student hostel during your period of study, do note that most of them tend to adhere to gendered accommodation rules. 
 
@@ -286,7 +289,7 @@ Most LGBTQ+ discrimination here affect folks who stay in the country for a long 
 
 👩‍👩‍👦👨‍👨‍👧
 
-## **Legal recognition of children** 
+## **Legal recognition of children**  { data-search-exclude }
 
 With same-sex marriages voided, there are serious implications on how the state recognises the legal parent of a child. In general, the gestation mother (i.e. the woman who birthed the child) might be deemed as the default legal parent of the child. 
 
@@ -306,7 +309,7 @@ Given that the Manpower Ministry [allows](https://www.mom.gov.sg/passes-and-perm
 
 🎟️
 
-## **Dependent visa passes** 
+## **Dependent visa passes**  { data-search-exclude }
 
 Foreigners who enter Singapore to work through an [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass) or [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass) and earn at least S$6,000 per month may also apply for visa passes for their family members. 
 
@@ -332,7 +335,7 @@ To be honest, there doesn’t seem to be any good workarounds, and we don’t re
 
 🏢
 
-## **Company insurance coverage** 
+## **Company insurance coverage**  { data-search-exclude }
 
 Some companies (especially MNCs) provide insurance coverage and other benefits for expat employees and their families. However, since same-sex marriages are not officially recognised here, most companies’ insurance policies exclude same-sex families by default. On top of that, only the legally-recognised children of the employee will benefit from insurance policies that supposedly cover immediate family members. 
 
@@ -344,7 +347,7 @@ It’s also extremely uncommon for insurance policies to cover transgender medic
 
 😢
 
-## **Workplace discrimination** 
+## **Workplace discrimination**  { data-search-exclude }
 
 Workplace harassment of LGBTQ+ individuals is common in Singapore. A 2013–2014 census found, for instance, that 15% of LGBTQ+ individuals faced discrimination or bullying at work ([para F40](https://issuu.com/oogachaga/docs/uprreport2015_pdoc_2a)). And unless their employers have taken a clear stance against discrimination of all forms, most victims are reluctant to report such behaviours, for fear of further retaliation. 
 
@@ -354,7 +357,7 @@ We recommend speaking with your company to ask about their anti-discrimination p
 
 🏠
 
-## **Rental agreements** 
+## **Rental agreements**  { data-search-exclude }
 
 You’ll likely be renting a place throughout the duration of your work in Singapore. However, standard tenancy agreements put LGBTQ+ individuals at risk of eviction. 
 
@@ -394,9 +397,35 @@ In effect, the new Bill potentially increases the punishment for inciting violen
 
 ---
 
-## 1 comment
+## 1 comment { data-search-exclude }
 
 -   I appreciate the insightful and comprehensive guide on the safety of LGBTQ foreigners in Singapore. It’s crucial to be aware of local nuances, and your article provides valuable information that promotes a better understanding of the environment. Well-written and informative – thank you for shedding light on this important aspect for travelers.
     
     sgtamilan, December 5, 2023
 <!-- tcd_original_link https://heckinunicorn.com/blogs/heckin-unicorn-blog/is-singapore-safe-for-lgbtq-foreigners-a-comprehensive-guide?srsltid=AfmBOoqkxACf6yAWT8KyqnTgVr2gdYDSW5AXijODwuK49RfRpNOYarln -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | heckinunicorn_Is_Singapore_safe_for_LGBTQ+_foreigners_A_comprehensive_guide.md                             |
+| Size            | 42287 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

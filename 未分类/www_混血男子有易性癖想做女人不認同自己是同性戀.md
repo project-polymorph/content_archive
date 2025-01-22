@@ -1,5 +1,8 @@
 # 混血男子有易性癖想做女人 不認同自己是同性戀
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2006-2-23 01:09  
 **发布者**: [江小江](https://www.2girl.net/home.php?mod=space&uid=13911)  
 **来源**: 新浪网，2006-02-22 00:28:58  
@@ -38,3 +41,29 @@
 
 露露说：“做手术的钱现在不够了，但为了尽快进行手术，我可以卖肾赚钱；如果有单位愿意帮我，我手术后可以免费为其做宣传广告，让他们开发我的商业价值。”
 <!-- tcd_original_link https://www.2girl.net/article-513-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_混血男子有易性癖想做女人不認同自己是同性戀.md                             |
+| Size            | 6363 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

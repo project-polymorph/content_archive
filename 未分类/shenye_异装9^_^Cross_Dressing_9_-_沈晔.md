@@ -1,8 +1,11 @@
 # 异装9^_^Cross Dressing 9
 
+## 正文 { data-search-exclude }
+
+
 ![异装9^_^Cross Dressing 9](https://img2.artron.net/artist/A0261241/brt026124100131.jpg)
 
-## 作品信息
+## 作品信息 { data-search-exclude }
 
 ### [异装9^_^Cross Dressing](https://shenye.artron.net/works_detail_brt026124100131_all)
 - _创作年度：_2010年作
@@ -24,19 +27,19 @@
 - _作品尺寸：_30*20cm
 - _材质：_亚麻布面油画^_^Oil On Canvas
 
-## 创作年代
+## 创作年代 { data-search-exclude }
 2010年作
 
-## 尺寸
+## 尺寸 { data-search-exclude }
 60*40cm
 
-## 材质
+## 材质 { data-search-exclude }
 亚麻布面油画^_^Oil On Canvas
 
-## 所属系列
+## 所属系列 { data-search-exclude }
 异装 Cross Dressing 2008-2010
 
-## 作者信息
+## 作者信息 { data-search-exclude }
 
 ### [沈晔](https://shenye.artron.net/)
 ![沈晔](https://img3.artron.net/artist/A0261241/2012050309250127981.jpg)
@@ -44,12 +47,12 @@
 - 擅 长：油画
 - 毕业院校：其他学校
 
-## 最近展览
+## 最近展览 { data-search-exclude }
 “无色·无界”油画群  
 展览时间：2017.12.09 - 2017.12.12  
 展览地点：杭州滨江区信诚路817号世茂中心2007室
 
-## 最新作品
+## 最新作品 { data-search-exclude }
 
 ### [树小姐说 Miss Shu Said](https://shenye.artron.net/works_detail_brt026124100226)
 2012年创作  
@@ -67,7 +70,7 @@
 2013年创作  
 ![琥珀3^_^Amber3](https://img5.artron.net/artist/A0261241/brt026124100209.jpg)
 
-## 联系信息
+## 联系信息 { data-search-exclude }
 - 艺术经纪：张影  
   邮箱：[zhangying01@artron.net](mailto:zhangying01@artron.net)
 - 责任编辑：胡艺  
@@ -81,3 +84,29 @@
 Copyright Reserved 2000-2025  雅昌艺术网 版权所有  
 
 <!-- tcd_original_link https://shenye.artron.net/works_detail_brt026124100131_all -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | shenye_异装9^_^Cross_Dressing_9_-_沈晔.md                             |
+| Size            | 2971 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

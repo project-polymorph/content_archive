@@ -1,5 +1,8 @@
 # 韩国淑明女子大学首次录取跨性别学生，获得法院和大学的认可仍备受歧视
 
+## 正文 { data-search-exclude }
+
+
 **来源**: 韩民族日报  
 **时间**: 2020-02-03 16:39  
 **作者**: 姜载求
@@ -34,3 +37,29 @@
 - [韩军方针对服役期间变性军人做出强制退伍决定…](http://china.hani.co.kr/arti/politics/7645.html)
 - [韩陆军下士做“变性手术”后希望以女兵身份服役，或…](http://china.hani.co.kr/arti/politics/7621.html)
 <!-- tcd_original_link http://china.hani.co.kr/arti/politics/7682.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_韩国淑明女子大学首次录取跨性别学生，获得法院和大学的认可仍备_.md                             |
+| Size            | 6562 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

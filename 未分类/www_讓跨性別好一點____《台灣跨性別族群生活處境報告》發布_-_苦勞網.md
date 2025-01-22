@@ -1,5 +1,8 @@
 # 多一分理解，讓跨性別好一點 ──《台灣跨性別族群生活處境報告》發布
 
+## 正文 { data-search-exclude }
+
+
 「社運公佈欄」是一個開放的平台，內容不代表苦勞網立場。任何社運議題相關行動／記者會／活動／講座採訪通知與新聞稿發佈，歡迎寄至 [coolloud@gmail.com](mailto:coolloud@gmail.com)。
 
 **發布日期：** 2024/01/18
@@ -117,3 +120,29 @@
 
 最後，熱線秘書長杜思誠提到，目前變更法定性別的門檻過高，在本調查中僅有7.7%受訪者有變更法定性別，高達九成以上的受訪者都未變更法定性別；但日常生活有太多情境需要用到身分證件，小至超商領貨，大至就醫、投票，無法變更法定性別造成跨性別在生活上的處處困難，權益也受到很大的影響。此外，本調查更發現，無論跨性別者有沒有變更法定性別，外貌打扮、言行舉止都遭遇他人眼光的檢視和質疑。因此，如何讓大眾更正確認識與理解跨性別、如何營造友善職場與友善醫療，都有賴政府提出更具體的政策。關於性別友善空間（例如廁所、宿舍等）的討論與設置，在一些有的良好設計與規劃的實際案例上，是可以同時兼顧該空間本應就該具備的隱私、安全與衛生需求，而這的確更仰賴政府能縝密規畫出更多良好的實務範例，與提供更充足的社會溝通與對話，讓民眾在生活中實際體驗與理解到性別友善空間，可以讓人人都用的安全、自在與舒服。
 <!-- tcd_original_link https://www.coolloud.org.tw/node/98115 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_讓跨性別好一點____《台灣跨性別族群生活處境報告》發布_-_苦勞網.md                             |
+| Size            | 20665 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

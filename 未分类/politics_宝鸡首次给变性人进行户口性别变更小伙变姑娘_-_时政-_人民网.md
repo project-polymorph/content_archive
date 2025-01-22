@@ -1,5 +1,8 @@
 # 宝鸡首次给变性人进行户口性别变更 小伙变姑娘
 
+## 正文 { data-search-exclude }
+
+
 ##### 2013年07月09日09:46    
 来源：[西安晚报](http://news.xinhuanet.com/politics/2013-07/09/c_124979225.htm)  
 
@@ -17,3 +20,29 @@
 
 (来源:[西安晚报](http://news.xinhuanet.com/politics/2013-07/09/c_124979225.htm))
 <!-- tcd_original_link http://politics.people.com.cn/n/2013/0709/c70731-22129494.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | politics_宝鸡首次给变性人进行户口性别变更小伙变姑娘_-_时政-_人民网.md                             |
+| Size            | 2838 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

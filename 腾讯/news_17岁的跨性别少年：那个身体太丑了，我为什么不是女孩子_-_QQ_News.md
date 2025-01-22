@@ -1,5 +1,8 @@
 # 17岁的跨性别少年：那个身体太丑了，我为什么不是女孩子
 
+## 正文 { data-search-exclude }
+
+
 **来源**: [北青深一度](https://news.qq.com/omn/author/8QMc23Zc6o0avDbZ)  
 **时间**: 2020-07-02 19:50  
 **作者**: 记者/佟晓宇 实习记者/李晶晶 甘笠男  
@@ -24,7 +27,7 @@
 
 ---
 
-## 出走
+## 出走 { data-search-exclude }
 
 2017年春节刚过，正月初十晚上七点二十，距离苏州85公里的江阴早已进入了夜晚。车灯和路边小店的灯光下，行人的影子由长变短，再由短变长。
 
@@ -102,7 +105,7 @@
 
 ---
 
-## 逃亡
+## 逃亡 { data-search-exclude }
 
 此前，从没有人设想过黄晓迪的未来，就连他自己也没有，他的精力只够关注眼下的境况。
 
@@ -176,7 +179,7 @@
 
 ---
 
-## 噩梦
+## 噩梦 { data-search-exclude }
 
 被送回学校后，从晚上9点到凌晨5点，黄晓迪写了210封信。
 
@@ -296,7 +299,7 @@
 
 ---
 
-## 不惑
+## 不惑 { data-search-exclude }
 
 今年上半年，皮皮做了最后一次手术，基本完成了自身的性别转换。
 
@@ -328,7 +331,7 @@
 
 ---
 
-## 归途
+## 归途 { data-search-exclude }
 
 6月和黄晓迪见面的那几天，他总是低着头摆弄着手机。他说有回不完的消息，有各地媒体记者的采访，有QQ上群里跨性别朋友的交流，还有通过微博给他捐款的人。
 
@@ -400,3 +403,29 @@
 
 **免责声明**: 本内容来自腾讯平台创作者，不代表腾讯新闻或腾讯网的观点和立场。
 <!-- tcd_original_link https://news.qq.com/rain/a/20200702A0PUD100 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_17岁的跨性别少年：那个身体太丑了，我为什么不是女孩子_-_QQ_News.md                             |
+| Size            | 35218 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

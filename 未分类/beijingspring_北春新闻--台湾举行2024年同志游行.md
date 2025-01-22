@@ -1,5 +1,8 @@
 # 台湾举行2024年同志游行
 
+## 正文 { data-search-exclude }
+
+
 日期：10/26/2024  
 来源：网络  
 作者：网络  
@@ -42,3 +45,29 @@ E-Mail: bjs201022@gmail.com webmaster@bjzc.org manager@bjzc.org
 地址: BeijingSpring, P.O.Box520709, Flushing, NY11352 USA  
 电话：001-718-661-9977
 <!-- tcd_original_link http://beijingspring.com/bj2/2010/c8/mmdjhaovv/xw/lagx/20241026161610.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | beijingspring_北春新闻--台湾举行2024年同志游行.md                             |
+| Size            | 4466 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

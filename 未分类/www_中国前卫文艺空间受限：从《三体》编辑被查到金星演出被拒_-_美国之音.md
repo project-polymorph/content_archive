@@ -1,5 +1,8 @@
 # 中国前卫文艺空间受限：从《三体》编辑被查到金星演出被拒，多层禁忌遏制文化创新？
 
+## 正文 { data-search-exclude }
+
+
 ![资料照片：北京一家书店内的《三体》小说。(2024年2月19日)](https://gdb.voanews.com/3d527f29-76dc-422d-86fb-989fa90dc99e_w1023_r1_s.jpg)
 
 **时间**: 2024年11月2日 23:02  
@@ -108,3 +111,29 @@
 -   ![万圣节前夕上海气氛紧张：当局禁“角色扮演”加强维稳，闹市仍见“奇装异服”](https://gdb.voanews.com/0b2055c9-4943-41f1-a9f1-e282ff3ac3be_cx0_cy4_cw0_w100_r1.jpg)  
     #### 万圣节前夕上海气氛紧张：当局禁“角色扮演”加强维稳，闹市仍见“奇装异服”
 <!-- tcd_original_link https://www.voachinese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7843781.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_中国前卫文艺空间受限：从《三体》编辑被查到金星演出被拒_-_美国之音.md                             |
+| Size            | 13652 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

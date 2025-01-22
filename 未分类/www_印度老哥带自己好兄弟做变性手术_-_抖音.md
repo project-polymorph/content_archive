@@ -1,5 +1,8 @@
 # 印度老哥带自己好兄弟做变性手术，好兄弟直接变老婆
 
+## 正文 { data-search-exclude }
+
+
 真的是人善变人妻 我拿你当兄弟 从兄弟情慢慢变成了爱情 于是为了能得到他 三'#### 并希望他能去医院看看 但在对方的不断洗脑下 最终没多久就去医院做了体检 要求给自己的好兄弟做一场变性手术 随后印度老哥立马向好兄弟求婚 并且霸道的表示你现在已经是女人了 你必须和我结婚 你的家人以后不可能接受你了 还不如我们俩领证结婚 甚至还找好了愿意证婚的律师 起初好兄弟是不相信老哥的鬼话 刚开始好兄弟还十分害怕 在把这件事情告诉自己的父亲之后 父亲鼓励他向警方报警 此事一出 因为他们以后不仅要防火防盗防闺蜜 还得防自己的好兄弟 果然任何一件奇葩的事情 一出来就变成姐妹了
 
 - 发布时间：2024-06-24 09:36
@@ -10,7 +13,7 @@
 
 ![视频封面](//p3-pc-sign.douyinpic.com/image-cut-tos/696b6603514a550e04ef7bfc54fa3053~tplv-dy-resize-origshort-autoq-75:330.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_WEBPC_RELATED_AWEME&sc=cover&se=false&x-expires=2052219600&x-signature=XxHIa0Im7boitqXj0a04%2BMYxXBk%3D)
 
-## 评论区
+## 评论区 { data-search-exclude }
 
 - [玩游戏的小甜瓜](//www.douyin.com/user/MS4wLjABAAAARQwXru1nhp39g4btYUfaQS21HpuOfTOi5pKhGBcxDMOb6i9AdMyG-Qh7Vi8IPmfG)：
     - 现在呢？有可能他的表情就变成这个表情了
@@ -36,6 +39,32 @@
         - ![](https://p26-sign.douyinpic.com/tos-cn-i-p14lwwcsbr/da9ed4d71dc74aeebeed6a6025b47457~tplv-p14lwwcsbr-x2-q75-r:248:332:q75.image?lk3s=7b078dd2&x-expires=1736881200&x-signature=vYy0ZBLxZDhG1pFqYP5E7a90NOU%3D&from=2064092626&se=false&sc=thumb&biz_tag=aweme_comment&l=20250114213950624C4823C8A89E12B337)
         - 6月前 · 黑龙江
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 - [抖音](https://www.douyin.com)
 <!-- tcd_original_link https://www.douyin.com/video/7384001327556267301 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_印度老哥带自己好兄弟做变性手术_-_抖音.md                             |
+| Size            | 3971 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

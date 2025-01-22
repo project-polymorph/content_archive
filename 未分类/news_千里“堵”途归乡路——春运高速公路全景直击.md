@@ -1,5 +1,8 @@
 # 千里“堵”途归乡路——春运高速公路全景直击
 
+## 正文 { data-search-exclude }
+
+
 2015年02月17日 09:41:29 来源： 新华网
 
 ![](http://news.xinhuanet.com/local/2015-02/14/2213334552763761430_11n.jpg)
@@ -82,3 +85,29 @@
 
 Copyright © 2000 - 2016 XINHUANET.com　All Rights Reserved. 　制作单位：新华网 版权所有 [新华网](http://www.news.cn) | [关于我们](http://www.xinhuanet.com/aboutus.htm) | [联系我们](http://news.xinhuanet.com/way.htm) | [我要链接](http://www.xinhuanet.com/linktous.htm) | [版权声明](http://www.xinhuanet.com/xinhua_copyright.htm) | [技术服务中心](http://www.xinhuanet.com/jsfw/index.html)
 <!-- tcd_original_link http://news.xinhuanet.com/politics/2015-02/17/c_1114397891.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_千里“堵”途归乡路——春运高速公路全景直击.md                             |
+| Size            | 8106 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

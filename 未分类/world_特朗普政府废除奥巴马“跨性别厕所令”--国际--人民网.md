@@ -1,5 +1,8 @@
 # 特朗普政府废除奥巴马“跨性别厕所令”
 
+## 正文 { data-search-exclude }
+
+
 2017年02月23日11:26 | 来源：[国际在线](http://news.xinhuanet.com/world/2017-02/23/c_129493862.htm)
 
 ![](http://www.people.com.cn/mediafile/pic/20170223/1/16862860830926371737.jpg)
@@ -20,3 +23,29 @@
 
 (责编：可黎明（实习生）、常红)
 <!-- tcd_original_link http://world.people.com.cn/n1/2017/0223/c1002-29102874.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_特朗普政府废除奥巴马“跨性别厕所令”--国际--人民网.md                             |
+| Size            | 2396 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

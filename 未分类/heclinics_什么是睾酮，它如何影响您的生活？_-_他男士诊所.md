@@ -1,5 +1,8 @@
 # 什么是睾酮，它如何影响您的生活？
 
+## 正文 { data-search-exclude }
+
+
 ![曼谷 HE Clinic 睾酮治疗](https://heclinic-1fc69.kxcdn.com/wp-content/uploads/testosterone-at-HE-Clinic-Bangkok-1024x683.jpg)
 
 #### 什么是睾酮，它如何影响您的生活？
@@ -50,3 +53,29 @@ HE Clinic 是一家专门为男性服务的私人诊所，位于曼谷通罗区�
 
 © 2025 He Clinic for Men – 许可证号 10101012660 | [隐私政策](https://heclinics.com/zh-CN/privacy-policy/)
 <!-- tcd_original_link https://heclinics.com/zh-CN/what-is-testosterone/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | heclinics_什么是睾酮，它如何影响您的生活？_-_他男士诊所.md                             |
+| Size            | 3703 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

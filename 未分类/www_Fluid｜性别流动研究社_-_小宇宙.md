@@ -1,10 +1,13 @@
 # 洞见｜性别流动研究社
 
+## 正文 { data-search-exclude }
+
+
 ![洞见｜性别流动研究社](https://image.xyzcdn.net/FpTWGihdGp09LivrkDarYQPYixcT.jpg@small)
 
 151已订阅
 
-## 节目详情
+## 节目详情 { data-search-exclude }
 
 ### 单集更新
 
@@ -177,3 +180,29 @@ XG或汻是少有的能在2022年与出道即引发现象级流行潮的新生�
 
 fluid｜性别研究社以尊重为前提从性别视角解读社会问题，入门社会学&性别研究高中生，跨学科组合运用性别、性来研究身边有趣的现象。Kpop特辑正在更新中～
 <!-- tcd_original_link https://www.xiaoyuzhoufm.com/podcast/660e429c075257f6ffeaabb6 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Fluid｜性别流动研究社_-_小宇宙.md                             |
+| Size            | 10472 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

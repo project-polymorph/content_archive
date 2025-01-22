@@ -1,5 +1,8 @@
 # 泰国：走进“美丽拳王”的校园公益课堂
 
+## 正文 { data-search-exclude }
+
+
 李芒茫 拉亨  
 2017年02月10日15:06 | 来源：[新华网](http://news.xinhuanet.com/world/2017-02/10/c_129474713.htm)
 
@@ -17,3 +20,29 @@
 
 版权 © 1997-2021 by www.people.com.cn. all rights reserved
 <!-- tcd_original_link http://world.people.com.cn/n1/2017/0210/c1002-29072971.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_泰国：走进“美丽拳王”的校园公益课堂.md                             |
+| Size            | 1029 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

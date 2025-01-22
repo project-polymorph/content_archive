@@ -1,5 +1,8 @@
 # 可爱的男孩子
 
+## 正文 { data-search-exclude }
+
+
 ![可爱的男孩子](//i0.hdslb.com/bfs/archive/399948f0f6002e65e1bbc91037a8bd1e95f2109e.jpg@100w_100h_1c.webp)
 
 ---
@@ -308,3 +311,29 @@ QQ空间
 
 [客服](//www.bilibili.com/blackboard/help.html#%E5%B8%B8%E8%A7%81%E6%92%AD%E6%94%BE%E9%97%AE%E9%A2%98%E8%87%AA%E6%95%91%E6%96%B9%E6%B3%95 "帮助反馈")
 <!-- tcd_original_link https://www.bilibili.com/video/BV1fa4y1B7rk/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_可爱的男孩子_哔哩哔哩_-_Bilibili.md                             |
+| Size            | 4507 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

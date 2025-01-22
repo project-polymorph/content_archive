@@ -1,5 +1,8 @@
 # 变性手术后要吃激素吗
 
+## 正文 { data-search-exclude }
+
+
 _变性手术后要吃激素吗_，不要慌，看完这个你就知道了！
 
 ![](https://ecom.cdn.bcebos.com/ask-icon.svg)术后如何补充激素？  
@@ -35,3 +38,29 @@ _变性手术后要吃激素吗_，不要慌，看完这个你就知道了！
 
 正文内容由第三方提供，仅供参考。如有医疗需求，请务必前往正规医院就诊。
 <!-- tcd_original_link https://m.baidu.com/bh/m/detail/sv_13747541941762927257 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_变性手术后要吃激素吗.md                             |
+| Size            | 3886 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

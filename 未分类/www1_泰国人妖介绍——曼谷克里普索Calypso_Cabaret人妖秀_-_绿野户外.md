@@ -1,5 +1,8 @@
 # 泰国人妖介绍——曼谷克里普索Calypso Cabaret人妖秀
 
+## 正文 { data-search-exclude }
+
+
 ![Calypso Cabaret](http://bbs.lvye.com/common/cf/105200nvkhe8b8kczv393e.png)
 
 **来源:** 绿野户外网  
@@ -29,3 +32,29 @@
 - **小背包key** 发表于 2013-10-22 15:25:02: 泰国自由行私家向导——【泰度国际】，接待来自世界各地的泰国自由行爱好者！陪你一起发现泰国！像家人、像朋友一样陪伴你玩转泰国。  
 - **优易抗高原反应** 发表于 2015-03-30 10:10:55: 版主发几张照片给我们分享分享嘛，听着都想去，呵呵。
 <!-- tcd_original_link http://www1.lvye.cn/thread-833080-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www1_泰国人妖介绍——曼谷克里普索Calypso_Cabaret人妖秀_-_绿野户外.md                             |
+| Size            | 3256 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 变性艺人河莉秀：为了私生活我要改户口！（图）
 
+## 正文 { data-search-exclude }
+
+
 来源：中新网  
 时间：2002年12月05日 10:38  
 作者：未知  
@@ -27,3 +30,29 @@
 
 本网站所刊载信息，不代表中新社观点。 刊用本网站稿件，务经书面授权。
 <!-- tcd_original_link https://www.chinanews.com.cn/2002-12-05/26/250407.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文探讨了韩国变性艺人河莉秀为了私生活而申请更改户口的故事。河莉秀于2002年11月29日向法院提出了更改户口本上性别和姓名的申请，期望将户口本上的性别"男"更改为"女"，并把姓名"李庆烨"改为"李庆恩"。她提到该申请不仅是为了演艺事业，也是为了个人的私生活。法院将在两周内做出是否批准该申请的决定。文中还包括河莉秀的多段相关报道，进一步展示了她在演艺圈及社会生活中的影响和经历。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性艺人河莉秀：为了私生活我要改户口！（图）.md                             |
+| Size            | 2355 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2002-12-05                                 |
+| Tags            | 变性, 河莉秀, 演艺圈, 户口更改, 个人故事, 法律申请, 性别认同, 韩国, 新闻报道, 社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

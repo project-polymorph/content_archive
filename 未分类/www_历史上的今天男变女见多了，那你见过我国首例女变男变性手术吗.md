@@ -1,5 +1,8 @@
 # 我国首例女变男变性手术的历史
 
+## 正文 { data-search-exclude }
+
+
 大家都知道金星是男变女，那你知道我国第一例女变男的变性手术是什么时候诞生的吗？历史上的今天，1992年12月12日，我国著名整形外科专家何清濂教授，完成了我国首例女变男的变性手术。
 
 ![手术前](https://p0.ssl.img.360kuai.com/dmfd/__60/t01f93cd68d52670db4.webp)
@@ -27,3 +30,29 @@
 
 ![手术成功](https://p3.ssl.qhimgs0.com/dr/360_200_60/t114fa19f9621453bd63dffe6e7.png)
 <!-- tcd_original_link https://www.360kuai.com/pc/937ab2732a6aeade2?cota=3&kuai_so=1&sign=360_e39369d1&refer_scene=so_3 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_历史上的今天男变女见多了，那你见过我国首例女变男变性手术吗.md                             |
+| Size            | 1958 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

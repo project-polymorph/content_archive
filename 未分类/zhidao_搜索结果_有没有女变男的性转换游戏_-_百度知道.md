@@ -1,5 +1,8 @@
 # 关于女变男性转换手术与相关文化
 
+## 正文 { data-search-exclude }
+
+
 ---
 
 **来源**: 百度知道  
@@ -8,7 +11,7 @@
 
 ---
 
-## 问题
+## 问题 { data-search-exclude }
 
 有没有女变男的性转换游戏？
 
@@ -58,3 +61,29 @@
 **MTF或M2F**: Male to Female 男变女跨性人。  
 **Intersex**: 兼具两性性徵。
 <!-- tcd_original_link https://zhidao.baidu.com/index/?word=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A5%B3%E5%8F%98%E7%94%B7%E7%9A%84%E6%80%A7%E8%BD%AC%E6%8D%A2%E6%B8%B8%E6%88%8F&from=qb&samplow_val=354 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zhidao_搜索结果_有没有女变男的性转换游戏_-_百度知道.md                             |
+| Size            | 3280 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

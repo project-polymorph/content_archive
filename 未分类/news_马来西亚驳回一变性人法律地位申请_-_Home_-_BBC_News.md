@@ -1,5 +1,8 @@
 # 马来西亚驳回一变性人法律地位申请
 
+## 正文 { data-search-exclude }
+
+
 **来源：BBC 中文网**  
 **作者：BBC驻吉隆坡记者 肯特**  
 **发表时间：2004年11月05日 格林尼治标准时间15:23（北京时间 23:23）**
@@ -35,3 +38,29 @@ BBC中文网 - 产品与服务
 - RSS新闻传送  
 - [版权声明](http://news.bbc.co.uk/chinese/simp/hi/institutional/copyright/default.stm "版权声明")  
 <!-- tcd_original_link http://news.bbc.co.uk/chinese/simp/hi/newsid_3980000/newsid_3986200/3986249.stm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_马来西亚驳回一变性人法律地位申请_-_Home_-_BBC_News.md                             |
+| Size            | 2549 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

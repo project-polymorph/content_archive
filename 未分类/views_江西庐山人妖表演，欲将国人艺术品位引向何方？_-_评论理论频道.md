@@ -1,5 +1,8 @@
 # 江西庐山人妖表演，欲将国人艺术品位引向何方？
 
+## 正文 { data-search-exclude }
+
+
 **时间：** 2012年10月15日  
 **来源：** 荆楚网  
 **作者：** 李职贤
@@ -33,3 +36,29 @@
 - [庐山景区现人妖表演 游客百元可验"真身"(组图)](http://travel.ce.cn/jd/201210/12/t20121012_23748730.shtml)  
 - [庐山西海人妖表演百元可验"真身" 网友:景区也三俗了](http://www.ce.cn/celt/wyry/201210/11/t20121011_23745540.shtml)  
 <!-- tcd_original_link http://views.ce.cn/view/ent/201210/15/t20121015_23753726.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | views_江西庐山人妖表演，欲将国人艺术品位引向何方？_-_评论理论频道.md                             |
+| Size            | 4520 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

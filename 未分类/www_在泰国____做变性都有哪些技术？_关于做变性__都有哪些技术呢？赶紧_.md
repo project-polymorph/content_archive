@@ -1,5 +1,8 @@
 # 在泰国做变性都有哪些技术？
 
+## 正文 { data-search-exclude }
+
+
 在泰国🇹🇭做变性都有哪些技术？关于做变性⚧都有哪些技术呢？赶紧@你身边想要来泰国做变性的朋友哦 ！@一起来科普一下吧！  
 **标签**: #泰国变性手术 #泰国医美 #泰国隆胸 #泰国男变女手术  
 
@@ -24,3 +27,29 @@
 **作者**: 泰国IDL整形医院  
 **编辑**: N/A
 <!-- tcd_original_link https://www.youtube.com/watch?v=uLzruR98hCc -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_在泰国____做变性都有哪些技术？_关于做变性__都有哪些技术呢？赶紧_.md                             |
+| Size            | 1155 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

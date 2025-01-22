@@ -1,5 +1,8 @@
 # 跨性别者：巴基斯坦的公开秘密 Transgenders: Pakistan's Open Secret (2011)
 
+## 正文 { data-search-exclude }
+
+
 ![Transgenders: Pakistan's Open Secret](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2631103364.webp)
 
 **导演:** [Sharmeen Obaid-Chinoy](/subject_search?search_text=Sharmeen%20Obaid-Chinoy)  
@@ -48,3 +51,29 @@
 北京豆网科技有限公司  
 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie)
 <!-- tcd_original_link https://m.douban.com/movie/subject/35335959/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《跨性别者：巴基斯坦的公开秘密》是一部由Sharmeen Obaid-Chinoy执导的纪录片，深刻揭示了巴基斯坦变性人群体的生活现实。影片通过展示在经济首都卡拉奇的街头，许多变性人如何通过跳舞、唱歌、乞讨和卖淫谋生，描绘了他们因性别认同而被家庭抛弃后的艰辛生活。影片聚焦于三位变性人的故事：玛吉是一个梦想成为空姐的妓女；查哈特被中产阶级家庭遗弃，沦落街头乞讨；而萨娜作为卡拉奇最受欢迎的变性舞者却在经历了一次惨痛的轮奸后，不得不放弃她的舞蹈生涯。通过这些真实的故事，纪录片不仅反映出变性人所遭受的社会暴力，更展示了他们自我团结的力量和追求独立的希望。地方税务局的招聘广告为变性人提供了就业机会，体现了社会对这一群体的逐步接受。影片在展现绝望的同时，也传递了希望的火花。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别者：巴基斯坦的公开秘密-_电视剧-_豆瓣.md                             |
+| Size            | 3543 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Sharmeen Obaid-Chinoy                               |
+| Region          | 巴基斯坦                               |
+| Date            | 2011-00-00                                 |
+| Tags            | 跨性别, 纪录片, 巴基斯坦, 变性人, 社会问题, 性别认同, 家庭抛弃, 暴力受害者, 求生故事, 希望与奋斗                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 金星为爱坦白自己是变性人！恋人直呼受不了？应该改变成恋人想要的样子吗？
 
+## 正文 { data-search-exclude }
+
+
 来源: [喜剧大联盟](https://www.youtube.com/channel/UCD0Bbhm9fsbhVbjP8ptx1bw)  
 时间: 未提供  
 标签: #喜剧大联盟 #奇葩说  
@@ -12,7 +15,7 @@
 
 【欢迎订阅🤡喜剧大联盟🤡：](https://www.youtube.com/@SuperComedyLeague)  
 
-## 视频内容主要来自于各大综艺和明星工作室  
+## 视频内容主要来自于各大综艺和明星工作室   { data-search-exclude }
 ✔如有侵权请联系删除  
 
 ---  
@@ -31,3 +34,29 @@
 编辑: 未提供  
 参考资料: 未提供   
 <!-- tcd_original_link https://www.youtube.com/watch?v=OHI-8yuAOS0 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_金星为爱坦白自己是变性人！恋人直呼受不了？应该改变_..._-_YouTube.md                             |
+| Size            | 1466 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

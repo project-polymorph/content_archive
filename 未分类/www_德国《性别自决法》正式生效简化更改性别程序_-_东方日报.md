@@ -1,5 +1,8 @@
 # 德国《性别自决法》正式生效　简化更改性别程序
 
+## 正文 { data-search-exclude }
+
+
 ![示威活动](https://sb.scorecardresearch.com/p?c1=2&c2=17813110&cv=2.0&cj=1)
 
 “让女人发声”组织成员周五在德国首都柏林示威，一名成员举起一块标语牌，上面写著“《性别自决法》迫使撒谎”，批评德国正式生效的《性别自决法》。（图取自法新社）
@@ -48,7 +51,7 @@
 
 [Telegram](https://t.me/orientaldailynewsmalaysia)   
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 -   [德国防长访乌克兰　保证继续支援](https://www.orientaldaily.com.my/news/international/2025/01/14/705927)
 -   [德国时隔37年爆发口蹄疫　柏林动物园暂时关闭](https://www.orientaldaily.com.my/news/international/2025/01/12/705383)
@@ -57,3 +60,29 @@
 
 148 次转发
 <!-- tcd_original_link https://www.orientaldaily.com.my/news/international/2024/11/02/690335 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_德国《性别自决法》正式生效简化更改性别程序_-_东方日报.md                             |
+| Size            | 3793 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

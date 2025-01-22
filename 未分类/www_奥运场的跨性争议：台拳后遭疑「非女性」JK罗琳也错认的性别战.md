@@ -1,5 +1,8 @@
 # 奥运场的跨性争议：台拳后遭疑「非女性」JK罗琳也错认的性别战
 
+## 正文 { data-search-exclude }
+
+
 *来源：世界新闻网*  
 *时间：2024-08-01 07:06 ET*  
 *标签：跨性别、性别争议、体育运动*  
@@ -28,7 +31,7 @@ IOC发言人亚当斯（Mark Adams）受访表示：「每一位参赛的女子�
 
 JK罗琳曾在跨性别议题上引发巨大舆论风波，她坚信跨性别并不能真正改变生理性别、跨性别女性也无法真正经历生理女性的身体经验（诸如月经、怀孕），因此在公共厕所使用及跨性运动员参赛等问题上，罗琳向来坚持跨性别不能与生理女性一概而论，过去也因此卷入被控「仇跨」的争议。
 
-## 染色体、睾酮与性别分化差异
+## 染色体、睾酮与性别分化差异 { data-search-exclude }
 
 然而，一切关于跨性别能否上场的讨论，套在林郁婷的案例上却可能是天大的误会。尽管此次没有公开发言，林郁婷已在过去受访时澄清过「身分证开头数字是2」，并强调一直以来都是女儿身，可以确认她不曾有过跨性的经验。
 
@@ -56,3 +59,29 @@ JK罗琳曾在跨性别议题上引发巨大舆论风波，她坚信跨性别并
 
 而在此事引起轩然大波、以至于名人未分清状况便「参战」的背后，不仅凸显大众对跨性别的反射性敌意，也凸显人体天生的生理状态多种多样，其实并不只主流认定的二元性别分类，因此或许我们更该询问、思考的问题是，面对许多无法轻易被放进既定性别分类里的、活生生的人，个体与社会该如何调整才能两全其美？
 <!-- tcd_original_link https://www.worldjournal.com/wj/story/124146/8131527?from=wj_lastnews_story&zh-cn -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_奥运场的跨性争议：台拳后遭疑「非女性」JK罗琳也错认的性别战.md                             |
+| Size            | 9646 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

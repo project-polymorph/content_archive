@@ -1,5 +1,8 @@
 # 有异装癖的美少女你也喜欢吗？
 
+## 正文 { data-search-exclude }
+
+
 ![有异装癖的美少女你也喜欢吗？](https://rin.linovel.net/cover/20200424/103427_0_51db554f3c26b7d0fcd1b73b7acc9860.jpg!min300jpg)
 
 **标签**: [恋爱](/cat/3.html) [日常](/cat/6.html) [妹控](/cat/16.html) [伪娘](/cat/17.html)
@@ -12,13 +15,13 @@
 
 **[作品信息](javascript:;)**  **[目录(共9卷190章)](javascript:;)**  **[评论(共864条)](#commentBox)**
 
-## 简介
+## 简介 { data-search-exclude }
 
 薛世衍的父亲再婚，带回了个小他一岁的“弟弟”，他以长男的身份想要和“弟弟”打好关系，却总是被无视或冷眼相待。 一次意外，“弟弟”发现了薛世衍多年以前的女装黑历史，并以此为胁迫让他在两人独处的时候必须穿女装！ 怎么办？薛世衍遭遇了人生首次大危机！
 
 **[查看完整简介](javascript:;)**
 
-## 目录
+## 目录 { data-search-exclude }
 
 ![居然是结束了吗？](https://rin.linovel.net/vol/103427/21301_cfec547888e22152557f5853b3ec1aa0.jpg!min300jpg)
 
@@ -41,7 +44,7 @@
 
 **[查看完整目录](#catalog)**
 
-## 评论
+## 评论 { data-search-exclude }
 
 作者   ![头像](https://avatar.linovel.net/data/1009/1009001.jpg!min140jpg)[活动人偶](/user/info?id=1009001)  
 
@@ -75,3 +78,29 @@
 
 对于评论的后续大家可以随意讨论，想了解更多情节可以继续关注。
 <!-- tcd_original_link https://www.linovel.net/book/103427.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_有异装癖的美少女你也喜欢吗？_-_轻之文库.md                             |
+| Size            | 3074 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

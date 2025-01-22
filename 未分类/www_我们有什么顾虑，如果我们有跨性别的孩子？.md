@@ -1,5 +1,8 @@
 # 如果我们有跨性别的孩子，我们会有哪些顾虑？
 
+## 正文 { data-search-exclude }
+
+
 支持跨性别的孩子涉及理解、接受，并为他们在探索自己性别认同过程中提供爱和支持。
 
 这里有一些重要的步骤需要考虑：
@@ -73,3 +76,29 @@
 -   [变性手术](https://www.kamolhospital.com/blog/660/sex-change-operation)
 -   [猫眼/狐狸眼](https://www.kamolhospital.com/blog/550/cat-eyes-foxy-eyes)
 <!-- tcd_original_link https://www.kamolhospital.com/zh/blog/1502/what-are-our-concerns-if-we-have-transgender-children -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我们有什么顾虑，如果我们有跨性别的孩子？.md                             |
+| Size            | 4104 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

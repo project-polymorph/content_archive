@@ -1,5 +1,8 @@
 # 《卫报》书评：十大变性小说主人公
 
+## 正文 { data-search-exclude }
+
+
 来自: [coco](https://www.douban.com/people/75150181/)
 
 2014-02-14 14:42:04
@@ -33,3 +36,29 @@
 
 还有5本，看这里吧，从这里转的[http://t.cn/zQXwtv4](https://www.douban.com/link2/?url=http%3A%2F%2Ft.cn%2FzQXwtv4&link2key=f1e480d1d7)
 <!-- tcd_original_link https://m.douban.com/group/topic/49091602/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文档为《卫报》书评，介绍了十大变性小说的主人公，涉及多元性别主题的文学作品。这些作品探讨了性别认同与转换的复杂性和多样性，通过不同的叙述视角，反映了个体在性别认同过程中的挑战和社会对待性别的框架。文章依次详细介绍了弗吉尼亚•伍尔夫的《奥兰多》，描绘了主人公从男性变为女性的经历；奥维德的《变形记》，展示了多个变性或变形的故事；威尔•舍尔夫的《公鸡和公牛》，讽刺了性别的易变性；以及杰弗里•尤金尼德斯的《中性人》，讲述了一个阴阳人的成长故事，和戈尔•维达尔的《迈拉•布雷肯里奇》，其中主人公经历了一系列变性和社会身份的挑战。这些小说不仅具备文学价值，也为理解多元性别提供了深刻的社会文化镜头。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_《卫报》书评：十大变性小说主人公-_小组讨论_-_豆瓣.md                             |
+| Size            | 4395 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | coco                               |
+| Region          | 未知                               |
+| Date            | 2014-02-14                                 |
+| Tags            | 变性小说, 性别认同, 弗吉尼亚•伍尔夫, 奥维德, 杰弗里•尤金尼德斯, 威尔•舍尔夫, 社会性别, 探讨性别, 文学艺术, 多元性别                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 第54期文章選讀：反思粵劇反串文化
 
+## 正文 { data-search-exclude }
+
+
 来源：[女流網誌](https://nuliu.wordpress.com/)  
 时间：15 十二月, 2009  
 作者：陳澤蕾  
@@ -7,7 +10,7 @@
 
 《女流》，新婦女協進會創辦的一份女性主義雜誌，以多元化的內容，探討女性問題，開拓女性的言論和思考空間。
 
-## 反思粵劇反串文化
+## 反思粵劇反串文化 { data-search-exclude }
 
 何謂反串？作為戲曲術語，反串解作跨行當的演出。那麼行當又是甚麼呢？行當是戲曲表演發展的精緻化過程中，演員與戲劇角色之間的中介。這個中介是按演員所長而各有分工，一方面讓各種技藝更見精良，另一方面也讓觀眾可以在專行的演繹習慣中，盡快掌握戲劇角色的基本屬性，然後開始對其心理活動或表演技巧進行品評，從而得到欣賞的樂趣。行當藝術包括了大量符號，如：動作、唱腔、化妝、穿戴（即頭飾、盔帽和戲服），演員需要掌握行當藝術，再進而就不同戲劇角色設計獨特的表演方法。
 
@@ -80,3 +83,29 @@
 - [《女流》第45期 ‧文章選讀－專訪《陰道獨白》兩位年輕搞手](https://nuliu.wordpress.com/2007/08/23/%e3%80%8a%e5%a5%b3%e6%b5%81%e3%80%8b%e7%ac%ac45%e6%9c%9f-%e2%80%a7%e6%96%87%e7%ab%a0%e9%81%b8%e8%ae%80%ef%bc%8d%e5%b0%88%e8%a8%aa%e3%80%8a%e9%99%b0%e9%81%93%e7%8d%a8%e7%99%bd%e3%80%8b%e5%85%a9/)  
 - [《女流》座談會－－持火把的劇場工作者](https://nuliu.wordpress.com/2008/04/29/%e3%80%8a%e5%a5%b3%e6%b5%81%e3%80%8b%e5%ba%a7%e8%ab%87%e6%9c%83%ef%bc%8d%ef%bc%8d%e6%8c%81%e7%81%ab%e6%8a%8a%e7%9a%84%e5%8a%87%e5%a0%b4%e5%b7%a5%e4%bd%9c%e8%80%85/)  
 <!-- tcd_original_link https://nuliu.wordpress.com/2009/12/15/%E7%AC%AC54%E6%9C%9F%E6%96%87%E7%AB%A0%E9%81%B8%E8%AE%80%EF%BC%9A%E5%8F%8D%E6%80%9D%E7%B2%B5%E5%8A%87%E5%8F%8D%E4%B8%B2%E6%96%87%E5%8C%96/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | nuliu_第54期文章選讀：反思粵劇反串文化_-_《女流》網誌.md                             |
+| Size            | 10631 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

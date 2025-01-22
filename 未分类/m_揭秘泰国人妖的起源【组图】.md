@@ -1,5 +1,8 @@
 # 揭秘泰国人妖的起源【组图】
 
+## 正文 { data-search-exclude }
+
+
 ![](//rs2.huanqiucdn.cn/huanqiucdn/huanqiu/image/m/share.jpg)
 
 在泰国，几乎只有穷人家的孩子才会当人妖，看不到未来、穷慌了的父母，会把家里长相清秀的男孩当女孩养，寄望“她”长大後可以成为一棵养家的摇钱树，而“她”悲惨的命运，在两、三岁时就被决定了。面目清秀、漂亮的男孩，在七、八岁时就被送进人妖专门“培训”机构。
@@ -75,3 +78,29 @@
 
 (来源:华声在线)
 <!-- tcd_original_link https://m.huanqiu.com/article/9CaKrnJvBl7 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_揭秘泰国人妖的起源【组图】.md                             |
+| Size            | 6610 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

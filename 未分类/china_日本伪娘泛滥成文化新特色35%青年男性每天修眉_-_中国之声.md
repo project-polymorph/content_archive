@@ -1,5 +1,8 @@
 # 日本"伪娘"泛滥成文化新特色 35%青年男性每天修眉
 
+## 正文 { data-search-exclude }
+
+
 ![图片](http://www.cnr.cn/cs1/2013sjcs/images/b.gif)
 
 *时间：2012-08-14 13:11*  
@@ -22,3 +25,29 @@
 
 版权说明: 转载须经版权人授权并注明来源。联系电话：010-58607240
 <!-- tcd_original_link http://china.cnr.cn/guantianxia/201208/t20120814_510583356.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | china_日本伪娘泛滥成文化新特色35%青年男性每天修眉_-_中国之声.md                             |
+| Size            | 2497 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

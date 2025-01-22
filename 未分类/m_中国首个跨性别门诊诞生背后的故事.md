@@ -1,5 +1,8 @@
 # 中国首个跨性别门诊诞生背后的故事
 
+## 正文 { data-search-exclude }
+
+
 发表时间: 2024-06-28 16:43
 
 ![中国首个跨性别门诊诞生背后的故事](/cover/rZejp5rUl2aeapNnZg.jpg)
@@ -288,3 +291,29 @@ TA的爱人一直知道这个情况，也一直在鼓励TA。当TA再次向爱�
 
 我的想法其实很简单。人一辈子总还是希望实现点自己的价值，很热门、大家都在做的领域，不差我再去做了。但是总有一些大家不愿意做，但是又需要人去做的事情，我觉得我去做了就挺好的。
 <!-- tcd_original_link https://m.doqo.com/N/QxQNb.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_中国首个跨性别门诊诞生背后的故事.md                             |
+| Size            | 20273 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

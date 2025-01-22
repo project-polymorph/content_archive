@@ -1,5 +1,8 @@
 # 變性姐妹隆乳該選擇什麼尺寸？如何避免失敗？
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2019年7月4日  
 **来源**: [愛里](https://www.facebook.com/Allie1118)  
 **标签**: #愛里 #變性 #跨性別 #隆乳 #荷爾蒙 #手術 #術後按摩  
@@ -30,3 +33,29 @@
 
 此内容由Facebook提供，所有权归爱里所有。
 <!-- tcd_original_link https://www.facebook.com/Allie1118/videos/%E8%AE%8A%E6%80%A7%E5%A7%90%E5%A6%B9%E9%9A%86%E4%B9%B3%E8%A9%B2%E9%81%B8%E6%93%87%E4%BB%80%E9%BA%BC%E5%B0%BA%E5%AF%B8%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%B1%E6%95%97/387905535174159/?locale=zh_CN -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_變性姐妹隆乳該選擇什麼尺寸？如何避免失敗？_-_愛里_-_Facebook.md                             |
+| Size            | 2464 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,8 +1,11 @@
 # 中國跨女掀自殺潮：買激素比買毒藥難
 
+## 正文 { data-search-exclude }
+
+
 歡迎訂閱[**中文維基新聞廣播頻道**](//t.me/wikinews_zh_broadcast)！
 
-## 廣東跨性別女性為何接連自殺
+## 廣東跨性別女性為何接連自殺 { data-search-exclude }
 
 最新留言：在[10个月前](#c-Kitabc12345-20240310100300-廣東跨性別女性為何接連自殺)发布1条留言1人参与讨论
 
@@ -16,3 +19,29 @@
 
 检索自“[https://zh.wikinews.org/w/index.php?title=Talk:買激素比買毒藥難\_中國跨女掀自殺潮&oldid=245299](https://zh.wikinews.org/w/index.php?title=Talk:買激素比買毒藥難_中國跨女掀自殺潮&oldid=245299)”
 <!-- tcd_original_link https://zh.wikinews.org/wiki/Talk:%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_Talk買激素比買毒藥難中國跨女掀自殺潮.md                             |
+| Size            | 3485 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

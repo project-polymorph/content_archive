@@ -1,6 +1,9 @@
 # 瞧，变性人的婚姻生活
 
-## 我国112名变性人，54人已结婚
+## 正文 { data-search-exclude }
+
+
+## 我国112名变性人，54人已结婚 { data-search-exclude }
 
 2004-03-25 00:00:00  
 来源：许昌晨报  
@@ -12,13 +15,13 @@
 
 责任编辑：
 
-## 关键词
+## 关键词 { data-search-exclude }
 
 - 许昌晨报
 
-## 网友评论
+## 网友评论 { data-search-exclude }
 
-## 图片新闻
+## 图片新闻 { data-search-exclude }
 
 ![](http://www.21xc.com/pic/201903/26/858f4e29-2bd6-41bd-8809-281dd9be7ba3.png)  
 春风染色，桃花争俏  
@@ -32,11 +35,11 @@
 ![](http://www.21xc.com/pic/201903/25/d0506fa9-edab-4ba6-9195-5a64022f0222.png)  
 紫荆花开“满条红”  
 
-## 附件
+## 附件 { data-search-exclude }
 
 ![云梅](http://www.21xc.com/template/21xc/images/yunmei.png)  
 
-## 数字报
+## 数字报 { data-search-exclude }
 
 [![日报](http://www.21xc.com/template/21xc/quanss/images/ribao.jpg)](http://szb.21xc.com/ribao)  
 [![承包](http://www.21xc.com/template/21xc/quanss/images/chengbao.jpg)](http://szb.21xc.com/chenbao)  
@@ -47,3 +50,29 @@
 
 业务电话：0374-4399669　 值班电话：0374-4399669 邮箱：cn.21xc@foxmail.com
 <!-- tcd_original_link http://www.21xc.com/content/200403/25/c36003.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_瞧，变性人的婚姻生活_-_许昌网.md                             |
+| Size            | 9216 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

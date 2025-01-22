@@ -1,5 +1,8 @@
 # 重设性别想清楚
 
+## 正文 { data-search-exclude }
+
+
 **作者**: 大公报记者 陈惠芳  
 **日期**: 2018-12-17  
 **来源**: 大公网  
@@ -22,7 +25,33 @@
 
 “无论任何人也会有后悔的时候，要看看他们后悔什麼和后悔的原因。要在香港或美国合法做这个手术不应是一个轻率的过程，当中包括家庭医生、精神科医生、临床心理学家、外科医生等各方面的合作和评估，也让当事人充分了解和体验以另一性别生活。例如，其中之一个过程就是要服用处方的‘荷尔蒙替代疗程’，让身心去感受和适应另一个性别。”
 
-## 网友观点
+## 网友观点 { data-search-exclude }
 
 **0条评论**_文明上网理性发言，请遵守新闻评论服务协议_
 <!-- tcd_original_link https://www.takungpao.com/life/238151/2018/1217/221089.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_重设性别想清楚大公报记者陈惠芳_-_大公网.md                             |
+| Size            | 3569 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

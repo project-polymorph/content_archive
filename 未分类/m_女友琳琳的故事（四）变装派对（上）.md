@@ -1,5 +1,8 @@
 # 女友琳琳的故事（四）变装派对（上）
 
+## 正文 { data-search-exclude }
+
+
 **来源**: [肉文小说](//m.xhtk.net)  
 **作者**: qiyuan0911  
 **标签**: 多元性别、女友故事
@@ -36,3 +39,29 @@
 
 「玩德州扑克吧，正好小豪有一副筹码。Ｍ也一起来吧。」Ｐｒ笑着说道，便招呼小豪一起上楼。我和琳琳便也跟着上到了二楼。在二楼走廊的尽头房间里，一张看上去不常使用的长牌桌放在屋子的正中间，周围摆着几把椅子，似乎是专为德州扑克设计的。
 <!-- tcd_original_link http://m.xhtk.net/book_83058/70835_5.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_女友琳琳的故事（四）变装派对（上）.md                             |
+| Size            | 3554 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

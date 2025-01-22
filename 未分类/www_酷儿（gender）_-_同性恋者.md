@@ -1,5 +1,8 @@
 # 酷儿（gender）
 
+## 正文 { data-search-exclude }
+
+
 ![大图](https://www.seksediversiteit.nl/wp-content/uploads/2024/01/Woordenboek-socwet-14-1.jpg)
 
 总括性术语，指的是一切与主流社会在性取向方面偏离的事物， gender身份， gender表达和性特征被视为“正常”。
@@ -37,3 +40,29 @@
 标签： 酷儿，性取向，性别身份，性别表达  
 版权： © Seksediversiteit.nl
 <!-- tcd_original_link https://www.seksediversiteit.nl/zh-CN/woordenlijst/queer/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_酷儿（gender）_-_同性恋者.md                             |
+| Size            | 2053 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

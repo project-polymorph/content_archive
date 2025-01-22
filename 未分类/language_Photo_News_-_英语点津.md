@@ -1,6 +1,9 @@
 # 多元性别相关内容存档
 
-## [大理“同志”酒吧开业 志在防艾](http://www.chinadaily.com.cn/2009-12/01/content_9087471.htm)
+## 正文 { data-search-exclude }
+
+
+## [大理“同志”酒吧开业 志在防艾](http://www.chinadaily.com.cn/2009-12/01/content_9087471.htm) { data-search-exclude }
 
 2009-12-01 13:36 
 
@@ -10,7 +13,7 @@
 
 ---
 
-## [泰国变性手术新规“三思而后行”](http://www.chinadaily.com.cn/2009-11/27/content_9064849.htm)
+## [泰国变性手术新规“三思而后行”](http://www.chinadaily.com.cn/2009-11/27/content_9064849.htm) { data-search-exclude }
 
 2009-11-27 13:28 
 
@@ -18,7 +21,7 @@
 
 ---
 
-## [变性手术 sex change surgery](http://www.chinadaily.com.cn/2009-11/30/content_9079219.htm)
+## [变性手术 sex change surgery](http://www.chinadaily.com.cn/2009-11/30/content_9079219.htm) { data-search-exclude }
 
 2009-11-30 15:13 
 
@@ -34,3 +37,29 @@ Copyright 1995 - 2025 . All rights reserved. The content (including but not limi
 传真：8610-84883500  
 Email: language@chinadaily.com
 <!-- tcd_original_link https://language.chinadaily.com.cn/news/news_92.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | language_Photo_News_-_英语点津.md                             |
+| Size            | 1467 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

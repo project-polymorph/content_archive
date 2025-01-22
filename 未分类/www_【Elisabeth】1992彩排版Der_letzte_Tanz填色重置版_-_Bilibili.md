@@ -1,5 +1,8 @@
 # 【Elisabeth】1992彩排版Der letzte Tanz填色重置版
 
+## 正文 { data-search-exclude }
+
+
 ![图片](//i2.hdslb.com/bfs/archive/8171b522e23747e1164c5198b13aefff2a228a8d.jpg@100w_100h_1c.webp)
 
 ---
@@ -69,3 +72,29 @@
 
 版权声明：未经作者授权，禁止转载
 <!-- tcd_original_link https://www.bilibili.com/video/BV1B5s2ejEZv/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【Elisabeth】1992彩排版Der_letzte_Tanz填色重置版_-_Bilibili.md                             |
+| Size            | 1956 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

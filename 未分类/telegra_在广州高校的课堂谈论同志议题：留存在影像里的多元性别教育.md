@@ -1,5 +1,8 @@
 # 在广州高校的课堂谈论同志议题：留存在影像里的多元性别教育
 
+## 正文 { data-search-exclude }
+
+
 [崔乐](https://matters.news/@cuile595595/%E5%9C%A8%E5%B9%BF%E5%B7%9E%E9%AB%98%E6%A0%A1%E7%9A%84%E8%AF%BE%E5%A0%82%E8%B0%88%E8%AE%BA%E5%90%8C%E5%BF%97%E8%AE%AE%E9%A2%98-%E7%95%99%E5%AD%98%E5%9C%A8%E5%BD%B1%E5%83%8F%E9%87%8C%E7%9A%84%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%95%99%E8%82%B2-zdpuAnHYhKTKGSCmKTEgLaUdrhPp6uU8BX8ipzjo7RTGMWTvU)
 
 2013年6月，我在北京获得博士学位，7月来到广州的高校教书。到达广州的最初几天，正好赶上当地同志公益机构“同性恋亲友会”举办“认识同性恋”的主题分享活动。于是我去拜访了这家全国知名的同志机构。
@@ -54,3 +57,29 @@
 
 本文首发于缪斯夫人，2019年8月7日
 <!-- tcd_original_link https://telegra.ph/%E5%9C%A8%E5%B9%BF%E5%B7%9E%E9%AB%98%E6%A0%A1%E7%9A%84%E8%AF%BE%E5%A0%82%E8%B0%88%E8%AE%BA%E5%90%8C%E5%BF%97%E8%AE%AE%E9%A2%98%E7%95%99%E5%AD%98%E5%9C%A8%E5%BD%B1%E5%83%8F%E9%87%8C%E7%9A%84%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%95%99%E8%82%B2-07-29 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | telegra_在广州高校的课堂谈论同志议题：留存在影像里的多元性别教育.md                             |
+| Size            | 7346 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

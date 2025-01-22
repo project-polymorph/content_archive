@@ -1,5 +1,8 @@
 # 跨性別
 
+## 正文 { data-search-exclude }
+
+
 ![跨性別.](https://img3.doubanio.com/view/subject/s/public/s1640853.jpg "跨性別.")
 
 **作者:** [何春蕤編](/search/%E4%BD%95%E6%98%A5%E8%95%A4%E7%B7%A8)  
@@ -24,7 +27,7 @@
 - ![](https://img1.doubanio.com/f/shire/46e66a46baff206223e608c521bb3724536b03b6/pics/add-cart.gif) 已在[购书单](https://book.douban.com/cart)  
 - [分享到](#)   
 
-## 喜欢读"跨性別."的人也喜欢  · · · · · ·
+## 喜欢读"跨性別."的人也喜欢  · · · · · · { data-search-exclude }
 
 [靜寂工人](https://book.douban.com/subject/26895203/) 8.7  
 [后身体](https://book.douban.com/subject/1146064/) 8.1  
@@ -37,7 +40,7 @@
 [Sexuality in China](https://book.douban.com/subject/27192489/)  
 [污名](https://book.douban.com/subject/35948629/) 8.4  
 
-## 短评  · · · · · · ( [全部 7 条](https://book.douban.com/subject/1352874/comments/) )
+## 短评  · · · · · · ( [全部 7 条](https://book.douban.com/subject/1352874/comments/) ) { data-search-exclude }
 
 - ### 2 [陆离](https://www.douban.com/people/2571757/) [2013-05-19 22:17:34](/comment/682360128)
     
@@ -65,9 +68,9 @@
     
 > [更多短评 7 条](https://book.douban.com/subject/1352874/comments/)
 
-## 论坛  · · · · · ·
+## 论坛  · · · · · · { data-search-exclude }
 
-## 谁读这本书?  · · · · · ·
+## 谁读这本书?  · · · · · · { data-search-exclude }
 
 ![韩六女一李沅禧](https://img2.doubanio.com/icon/u274754498-1.jpg)  
 [韩六女一李沅禧](https://www.douban.com/people/274754498/)  
@@ -89,7 +92,7 @@
 > [31人读过](https://book.douban.com/subject/1352874/comments?status=P)  
 > [116人想读](https://book.douban.com/subject/1352874/comments?status=F)  
 
-## 二手市场  · · · · · ·
+## 二手市场  · · · · · · { data-search-exclude }
 
 - 有116人想读，手里有一本闲着?
 
@@ -99,3 +102,29 @@
 北京豆网科技有限公司  
 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book) · [图书馆合作](https://book.douban.com/library_invitation)  
 <!-- tcd_original_link https://m.douban.com/book/subject/1352874/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件为一本名为《跨性别》的书籍介绍，由何春蕤编撰，出版于2003年12月，出版社为巨流。书中探讨了跨性别性别认同的多样性和复杂性，旨在提升对跨性别者的理解和关注。此书在豆瓣上获得7.7的评分，评论中提到其对跨性别概念的深入剖析，以及对相关社会问题的思考。书中包含多个读者的短评，反映了对作品观点的不同理解和讨论。该书适合对跨性别话题有兴趣的读者，尤其是希望更深入了解跨性别者生活状况和感受的人士。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性別._-_图书-_豆瓣.md                             |
+| Size            | 4602 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 何春蕤                               |
+| Region          | 台湾                               |
+| Date            | 2003-12-08                                 |
+| Tags            | 跨性别, 性别研究, 性别认同, LGBTQ+, 社会学, 文艺, 生活故事, 性别平权, 跨文化, 医疗资源                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 泰国轻小说奇葩设定引关注 男主穿越变伪娘发展国家
 
+## 正文 { data-search-exclude }
+
+
 **来源:** [cnBeta.COM.TW](https://www.cnbeta.com.tw)  
 **时间:** 未注明  
 **标签:** 轻小说, 泰国, 伪娘, 异世界  
@@ -29,3 +32,29 @@
 - #### [迪士尼资深画师讲述创作《星战 x 卡尔文与霍布斯虎》漫画背后的故事](https://www.cnbeta.com.tw/articles/comic/590015.htm)  
   - **时间:** 2017-3-6 15:22
 <!-- tcd_original_link https://www.cnbeta.com.tw/articles/comic/776039.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国轻小说奇葩设定引关注男主穿越变伪娘发展国家-_同人漫画.md                             |
+| Size            | 2274 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

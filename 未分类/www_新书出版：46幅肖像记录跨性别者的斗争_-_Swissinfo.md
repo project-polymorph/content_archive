@@ -1,5 +1,8 @@
 # 新书出版：46幅肖像记录跨性别者的斗争
 
+## 正文 { data-search-exclude }
+
+
 ![电影院里身穿黑裙的Christina肖像](https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2020/11/04cba6e5fdb21eaef68f0dbb60a4dbe1-portrait-5-data.jpg?ver=76f1f5e3)
 
 Christina ：“如今很多人告诉我，他们在我身上找到了灵感的来源。” Noura Gauper
@@ -42,7 +45,7 @@ Christina ：“如今很多人告诉我，他们在我身上找到了灵感的�
 
 Lynn Bertholet ，ÉPICÈNE协会主席 Magali Girardin
 
-## 痛苦
+## 痛苦 { data-search-exclude }
 
 “我到了一个没有其他解决方案的阶段。因为我感觉太糟了，只能要么选择转换性别，要么选择结束生命，” Ryan解释道。他的故事不仅体现了跨性别认同背后的苦痛挣扎，还体现了那种努力摆脱桎梏、追求自我的勇气，因为对那些不符合社会规范的人，人们往往会投以冷眼，层层围观。
 
@@ -58,7 +61,7 @@ Ryan ：“我曾经的经历给了我其他男人所没有的敏感。” Noura
 
 ÉPICÈNE协会主席感叹道：“我们协会中的许多女性都在转换性别后失业了。”她说，医疗卫生系统在面对跨性别身份时也无能为力。“没有妇科医生知道如何为跨性别\*的女性进行妇科检查。”
 
-## 跨性别\*纪念日
+## 跨性别\*纪念日 { data-search-exclude }
 
 11月20日是跨性别\*纪念日，这是一个国际节日，旨在纪念那些因性别表达和/或性别认同，而遭到跨性别恐惧者迫害的人。纪念日始于1998年，当时一名非裔美国跨性别女性Rita Hester在美国遭到了谋杀。
 
@@ -66,7 +69,7 @@ Ryan ：“我曾经的经历给了我其他男人所没有的敏感。” Noura
 
 Lea ：“这表明问题在于我无法隐藏自己转换性别的事实。当一个人进行了性别转换，实际上你只能开诚布公。” Noura Gauper
 
-## 自由
+## 自由 { data-search-exclude }
 
 这个拍摄计划始于Bertholet与摄影师Noura Gauper的一次邂逅。Bertholet 解释说：“她为我拍摄了一组照片，拍摄期间她认可我是一个女人。她的态度和照片让我感到自信，我想向其他跨性别者提供同样的机会来获得这种体验。”
 
@@ -78,7 +81,7 @@ Lars ：“有趣的是，在我(作为火车售票员)的工作中，相较于�
 
 “我以前很讨厌自己的内在，好像睾丸激素在我体内有不良反应。现在我感到了平静，” Lea说。从头出发，放下心结，重获新生。分享过书中主人公的苦痛挣扎之后，读者会发现转换性别带来的强烈的自由感。Lars的伴侣在支持和陪伴他走过性别转换的过程之后说：“第一次，我感到你全身散发出幸福。”
 
-## 感受
+## 感受 { data-search-exclude }
 
 相爱的人也会经历这种转换。在恋爱关系中，如果一方转换性别，双方通常会分手。Lars和Irene却是例外：他们一起经历了这场冒险，从女同性恋关系转变为异性恋关系。Lars说：“重要的是，Irene能够陪我一起走完这段旅程。”
 
@@ -100,3 +103,29 @@ _\*__星号表示所有形式的身份转换_
 
 (樊桦，译自英语)
 <!-- tcd_original_link https://www.swissinfo.ch/chi/society/%E6%96%B0%E4%B9%A6%E5%87%BA%E7%89%88-46%E5%B9%85%E8%82%96%E5%83%8F%E8%AE%B0%E5%BD%95%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E6%96%97%E4%BA%89/46193702 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新书出版：46幅肖像记录跨性别者的斗争_-_Swissinfo.md                             |
+| Size            | 8929 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

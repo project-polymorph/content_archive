@@ -1,5 +1,8 @@
 # 什么性别认同障碍 哪些因素引起的？
 
+## 正文 { data-search-exclude }
+
+
 ### 来源：网络 2019-06-18 14:01 1181人浏览
 
 ![性别认同障碍](https://img.ydlcdn.com/file/2022/10/21/rbarc1mk0642xjqn.png)
@@ -16,11 +19,11 @@
 
 什么性别认同障碍 哪些因素引起的？
 
-## 先天因素
+## 先天因素 { data-search-exclude }
 
 其实少部分人之所以会出现性别认同障碍，很有可能是因为先天因素引起的，比如在胚胎或者是幼儿时期，女宝宝总是接受着过多的雄性激素的影响，而男宝宝总是接受着过多雌性激素的影响，所以当他们发展成人的时候就会出现男女性征的混乱，从而引起他们对于自己性别认知的障碍。
 
-## 后天因素
+## 后天因素 { data-search-exclude }
 
 后天因素引起的性别认知障碍是非常常见的，比如现在很多的人已经不再是重男轻女了，很多的爸爸妈妈都非常希望拥有一个漂亮的小女儿，但是自己怀孕生下来的孩子却是个男孩，但因为这种对于女儿的渴望就会使爸爸妈妈将这个男孩子当成女孩一样养，比如给他穿女孩子的衣服、为他布置一个女孩子的房间、给他取一个女孩子的名字等等，都会让这个男孩子觉得他其实就是个女孩子，只是因为某些地方和别人不同而被认为变态罢了。
 
@@ -60,3 +63,29 @@
 
 Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841号-2
 <!-- tcd_original_link https://m.ydl.com/toutiao/722 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_什么性别认同障碍哪些因素引起的？.md                             |
+| Size            | 3870 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

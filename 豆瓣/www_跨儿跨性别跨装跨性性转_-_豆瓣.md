@@ -1,5 +1,8 @@
 # 跨儿/跨性别/跨装/跨性/性转
 
+## 正文 { data-search-exclude }
+
+
 ![跨儿](https://img9.doubanio.com/view/elanor_image/raw/public/Q40Z9R7L.jpg)
 
 来自: [乐欢喜 (Vancouver)](https://www.douban.com/people/lehuanxi/)  
@@ -12,7 +15,7 @@
 
 可播放的影视 (16)
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![我将如何呼唤你](https://img3.doubanio.com/view/subject/l/public/s33803662.jpg)  
 [我将如何呼唤你](https://book.douban.com/subject/35325443/)  
@@ -21,7 +24,7 @@
 出版社: 湖南文艺出版社  
 出版年: 2021-3-1  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![午夜天鹅](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614297584.webp)  
 [午夜天鹅 ミッドナイトスワン](https://movie.douban.com/subject/34858550/)  
@@ -32,7 +35,7 @@
 制片国家/地区: 日本  
 年份: 2020  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![男儿王](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2623423561.webp)  
 [男儿王 男兒王](https://movie.douban.com/subject/30426596/)  
@@ -43,7 +46,7 @@
 制片国家/地区: 新加坡/马来西亚  
 年份: 2020  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![伪娘](https://img1.doubanio.com/view/subject/l/public/s6159719.jpg)  
 [伪娘](https://book.douban.com/subject/4944046/)  
@@ -51,7 +54,7 @@
 作者: 夜翔枫  
 出版年: 2009-12  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![男人在世](https://img9.doubanio.com/view/subject/l/public/s33834015.jpg)  
 [男人在世](https://book.douban.com/subject/35367326/)  
@@ -60,7 +63,7 @@
 出版社: 奇光出版  
 出版年: 2019-10-2  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![男妲](https://img9.doubanio.com/view/subject/l/public/s1991424.jpg)  
 [男妲](https://book.douban.com/subject/1962834/)  
@@ -69,7 +72,7 @@
 出版社: 联合文学  
 出版年: 2006.12.29  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![改變性別,是為了活出真實自我](https://img2.doubanio.com/view/subject/l/public/s33999511.jpg)  
 [改變性別,是為了活出真實自我](https://book.douban.com/subject/35553238/)  
@@ -78,7 +81,7 @@
 出版社: 時報  
 出版年: 2021-9-21  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![变性美人](https://img3.doubanio.com/view/subject/l/public/s23849512.jpg)  
 [变性美人](https://book.douban.com/subject/1128647/)  
@@ -87,7 +90,7 @@
 出版社: 时代文艺出版社  
 出版年: 2003-8-1  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![如果我是男生](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2417588492.webp)  
 [如果我是男生 Si j'étais un homme](https://movie.douban.com/subject/26949428/)  
@@ -98,7 +101,7 @@
 制片国家/地区: 法国/比利时  
 年份: 2017  
 
-## 来自：豆瓣同城
+## 来自：豆瓣同城 { data-search-exclude }
 
 ![长靴皇后](https://img1.doubanio.com/pview/drama_subject_poster/large/public/6faa86397badb3c.jpg)  
 [长靴皇后](https://www.douban.com/location/drama/20471204/)  
@@ -106,7 +109,7 @@
 类型: 音乐剧  
 导演: Jerry Mitchell/Kim Dong Yeon  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![男性的衰落](https://img2.doubanio.com/view/subject/l/public/s33630391.jpg)  
 [男性的衰落](https://book.douban.com/subject/35016930/)  
@@ -115,7 +118,7 @@
 出版社: 湖南文艺出版社  
 出版年: 2020-6  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![性别是流动的吗？](https://img3.doubanio.com/view/subject/l/public/s33708613.jpg)  
 [性别是流动的吗？](https://book.douban.com/subject/35184850/)  
@@ -124,7 +127,7 @@
 出版社: 中信出版集团  
 出版年: 2020-10  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![晓迪](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2660235996.webp)  
 [晓迪](https://movie.douban.com/subject/35465019/)  
@@ -135,7 +138,7 @@
 制片国家/地区: 中国大陆  
 年份: 2021  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![我裙子去哪儿了？](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2556045737.webp)  
 [我裙子去哪儿了？ 俺のスカート、どこ行った？](https://movie.douban.com/subject/30481876/)  
@@ -146,7 +149,7 @@
 制片国家/地区: 日本  
 年份: 2019  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![Life Beyond My Body](https://img1.doubanio.com/view/subject/l/public/s29885990.jpg)  
 [Life Beyond My Body](https://book.douban.com/subject/30342645/)  
@@ -155,7 +158,7 @@
 出版社: Transgress Press  
 出版年: 2016-11-14  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![爱上超模](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2390288450.webp)  
 [爱上超模 第三季](https://movie.douban.com/subject/26894571/)  
@@ -165,7 +168,7 @@
 制片国家/地区: 中国大陆  
 年份: 2016  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![圣安德鲁斯岛的阳光](https://img1.doubanio.com/view/subject/l/public/s28300748.jpg)  
 [圣安德鲁斯岛的阳光](https://book.douban.com/subject/26598788/)  
@@ -174,7 +177,7 @@
 出版社: 北京时代华文书局  
 出版年: 2015-9  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![刘婷：忘记她是他](https://img2.doubanio.com/cuphead/movie-static/pics/movie_default_large.png)  
 [刘婷：忘记她是他](https://movie.douban.com/subject/30463741/)  
@@ -185,7 +188,7 @@
 制片国家/地区: 中国大陆  
 年份: 2018  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![碧玉簪](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2615422956.webp)  
 [碧玉簪](https://movie.douban.com/subject/35158398/)  
@@ -196,7 +199,7 @@
 制片国家/地区: 中国大陆  
 年份: 2019  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![多元的性/别](https://img1.doubanio.com/view/subject/l/public/s24467930.jpg)  
 [多元的性/别](https://book.douban.com/subject/20389638/)  
@@ -205,7 +208,7 @@
 出版社: 山东人民出版社  
 出版年: 2012-11  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![性别多元：理论与实务研究](https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif)  
 [性别多元：理论与实务研究](https://book.douban.com/subject/19935968/)  
@@ -214,7 +217,7 @@
 出版社: 万有出版社  
 出版年: 2012-6  
 
-## 来自：豆瓣读书
+## 来自：豆瓣读书 { data-search-exclude }
 
 ![变性的困惑](https://img2.doubanio.com/view/subject/l/public/s33867991.jpg)  
 [变性的困惑](https://book.douban.com/subject/35386950/)  
@@ -223,7 +226,7 @@
 出版社: 天津人民出版社  
 出版年: 1995  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![黄金宝藏](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578570322.webp)  
 [黄金宝藏 Golden Treasure](https://movie.douban.com/subject/30306597/)  
@@ -234,7 +237,7 @@
 制片国家/地区: 蒙古  
 年份: 2016  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![萝拉朝着大海](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2572421562.webp)  
 [萝拉朝着大海 Lola vers la mer](https://movie.douban.com/subject/30465629/)  
@@ -245,7 +248,7 @@
 制片国家/地区: 比利时/法国  
 年份: 2019  
 
-## 来自：豆瓣电影
+## 来自：豆瓣电影 { data-search-exclude }
 
 ![笑傲江湖](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539584148.webp)  
 [笑傲江湖](https://movie.douban.com/subject/2294255/)  
@@ -256,3 +259,29 @@
 制片国家/地区: 中国香港  
 年份: 1996  
 <!-- tcd_original_link https://www.douban.com/doulist/46288735/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件名为《跨儿/跨性别/跨装/跨性/性转》，是一份关于跨性别及相关议题的文档。文件中包含了丰富的多元性别相关的内容，包括介绍和推荐的书籍、电影，以及跨性别社群的心理支持信息。文件提供了多部相关影视作品的链接和详细资料，例如电影《午夜天鹅》与书籍《我将如何呼唤你》，并列出其评分、作者及出版信息。文件的标签包括跨性别、性别流动、电影、文学、心理健康等，涵盖了多方面的性别议题与跨性别社群的生存状态，非常适合对多元性别现象感兴趣的读者进行深入了解。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨儿跨性别跨装跨性性转_-_豆瓣.md                             |
+| Size            | 8736 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 乐欢喜                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-10-31                                 |
+| Tags            | 跨性别, 性别认同, 心理健康, 生命故事, 电影, 文学, 社会现象, 经验分享, 法律政策, 生存现状                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

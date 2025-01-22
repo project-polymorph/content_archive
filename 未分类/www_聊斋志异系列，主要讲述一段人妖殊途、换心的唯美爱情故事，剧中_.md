@@ -1,5 +1,8 @@
 # 聊斋志异系列 - 美丽爱情故事
 
+## 正文 { data-search-exclude }
+
+
 聊斋志异系列，主要讲述一段人妖殊途、换心的唯美爱情故事，剧中几对痴男怨女，在真爱面前敢于舍弃一切，为爱不悔。
 
 - 标签: #刘恺威 #颖儿 #乔振宇 #白冰 #徐正曦 #茅子俊 #王雨 #戴君竹
@@ -25,3 +28,29 @@
 
 原来静公主，不仅是小唯的同源异心之人，也是人世间唯一拥有金凰心窍之人，金凰心窍乃世间奇物，不仅能治百毒，更有助妖成仙之奇效。因此除了小唯，众多野心勃勃的千年老妖都暗中紧盯着静公主的心。这其中就包括深爱公主却妖性突发的郑吉。
 <!-- tcd_original_link https://www.youtube.com/watch?v=h4IGa43vFlM -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_聊斋志异系列，主要讲述一段人妖殊途、换心的唯美爱情故事，剧中_.md                             |
+| Size            | 5034 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

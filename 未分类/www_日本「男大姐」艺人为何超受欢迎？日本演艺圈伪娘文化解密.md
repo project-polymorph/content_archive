@@ -1,5 +1,8 @@
 # 日本「男大姐」艺人为何超受欢迎？日本演艺圈伪娘文化解密
 
+## 正文 { data-search-exclude }
+
+
 **在拥有多元价值观的社会中，性别流动议题逐渐被重视。日本演艺圈盛行已久伪娘文化、以及多位活跃的男大姐（オネエ系）艺人都十分受欢迎，尽管经常被贴上谐星标签，但他们幽默的谈吐、展现的风度都让人喜爱，勇敢展现不受性别匡限的美丽。这篇就来介绍日本的伪娘、男大姐艺人文化！**
 
 [![](https://d1grca2t3zpuug.cloudfront.net/2022/01/otokonoko-870x455.jpg)](https://d1grca2t3zpuug.cloudfront.net/2022/01/otokonoko.jpg)
@@ -22,7 +25,7 @@
     -   [甜美名模「佐藤佳代」](#h9)
     -   [IG网美起家的「GENKING」（田中沙奈）](#h10)
 
-## **「男大姐」和「伪娘」有什么不同？**
+## **「男大姐」和「伪娘」有什么不同？** { data-search-exclude }
 
 ### **「伪娘」不等于「男大姐艺人」**
 
@@ -46,7 +49,7 @@
 
 不难看出日本人对伪娘文化的兴趣从二次元延伸到演艺圈小萤幕，早期日本电视台开始陆续启用男大姐艺人，他们雌雄莫辨的独特气质加上大胆言论、幽默的谈吐，在综艺节目中相当吸睛，常以搞笑谐星身份登场，逐渐获得观众喜爱；此外这些有着女性特质的男大姐艺人，在与男嘉宾对谈时往往能产生火花，又能从女性角度吐槽，也让女性观众非常有共鸣。如今日本演艺圈中的男大姐艺人遍及主持界、谐星、模特儿等，以下就来认识几位超人气的男大姐艺人！
 
-## **盘点7位超夯的日本男大姐艺人**
+## **盘点7位超夯的日本男大姐艺人** { data-search-exclude }
 
 日本演艺圈的男大姐艺人不少，不管是身着女装、或是曾做过变性手术，都十分大方的将自己的面貌展示在观众眼前，一路在演艺圈中拼搏到发光发热的历程也非常励志。
 
@@ -114,3 +117,29 @@ GENKING本名田中元辉，原本是经营[Instagram](https://www.instagram.com
 
 2022年01月12日更新
 <!-- tcd_original_link https://www.letsgojp.cn/archives/503461 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_日本「男大姐」艺人为何超受欢迎？日本演艺圈伪娘文化解密.md                             |
+| Size            | 11748 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

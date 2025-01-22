@@ -1,5 +1,8 @@
 # 当年最美“人妖皇后” 被中国富商娶回家，7年后过得怎么样？中国富豪回应网友:夫妻生活没问题！
 
+## 正文 { data-search-exclude }
+
+
 ![Your Studio有耳工作室](https://i.ytimg.com/an/FhktojBok7f7CD4ykaRKTA/featured_channel.jpg?v=5da4bb0d)
 
 舞台上这个美丽的女孩子叫妮莎，也是我们今天故事的主角。2014年她获得泰国蒂芬妮人妖选美皇后的桂冠，那一年她22岁，还是一名在校学生。因为长相酷似杨颖，所以她也被称为“泰国版AB”。选美比赛后她结识了一位中国富商鲍哥，2015年她与鲍哥喜结连理。当时舆论炸裂，以首位公开娶泰国“人妖皇后”的中国富商为标题大肆报道，不少人表示他们只是一时兴起，长久不了。这么多年过去了，他们还好吗？这期节目我们就来讲讲妮莎和鲍哥的故事。
@@ -20,3 +23,29 @@
 ### 版权信息
 - **频道**: Your Studio有耳工作室
 <!-- tcd_original_link https://www.youtube.com/watch?v=Y67AO9U6Mqw -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_当年最美“人妖皇后”_被中国富商娶回家，7年后过得怎么样？中国富豪_.md                             |
+| Size            | 1324 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

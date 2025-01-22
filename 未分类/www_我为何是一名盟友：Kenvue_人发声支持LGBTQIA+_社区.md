@@ -1,5 +1,8 @@
 # Kenvue 人发声支持 LGBTQIA+ 社区
 
+## 正文 { data-search-exclude }
+
+
 ![Kenvue_Logo_Black_RGB.svg](https://kenvue.brightspotcdn.com/e4/35/b2445d3748bca0d6a1d44907ff0e/kenvue-logo-black-rgb.svg)
 
 2023年6月26日
@@ -38,7 +41,7 @@ _Melissa Williams 和丈夫在冰岛享受午夜阳光。_
 
 我由此想到了同盟的重要性——怎样才能创造更具包容性的环境并教育他人报以理解？在与人交谈时，我尽量不去猜测对方的性取向或其伴侣的性别。（例如，我不会主动问起对方的“女朋友”或“男朋友”。）相反，我会要求或等待对方的暗示。我还试着积极分享人称代词，以此来促进形成具有包容性的氛围——我已经在电子邮件的页脚添加了我的人称代词，也会向他人解释这种做法如何有助于为 LGBTQIA+ 社区提供同盟情谊。
 
-## 在 Kenvue 庆祝骄傲节
+## 在 Kenvue 庆祝骄傲节 { data-search-exclude }
 
 ![Joe and Steven at New Hope Pride.jpg](https://kenvue.brightspotcdn.com/dims4/default/7a4fd21/2147483647/strip/true/crop/3657x2059+0+176/resize/1000x563!/quality/90/?url=https%3A%2F%2Fkenvue-production-kenvue.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F39%2F9cc8a0854b39add6843ce89e1eec%2Fjoe-and-steven-at-new-hope-pride.jpg)
 
@@ -52,3 +55,29 @@ _Melissa Williams 和丈夫在冰岛享受午夜阳光。_
 
 ### [你属于这里。Kenvue 为 LGBTQIA+ 团队成员庆祝并提供支持的 5 种实际方式](https://www.kenvue.com/zh-cn/kenvue-pride-month-employee-benefits)
 <!-- tcd_original_link https://www.kenvue.com/zh-cn/kenvue-lgbtqia-allies-on-allyship -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_我为何是一名盟友：Kenvue_人发声支持LGBTQIA+_社区.md                             |
+| Size            | 6250 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性取向和性别认同
 
+## 正文 { data-search-exclude }
+
+
 ![标题图片页模板5桌面](https://homeofva.org/wp-content/uploads/2022/06/HOME_HeroImage_couple-1_1440x600.jpg) ![标题图像页面模板 5 移动](https://homeofva.org/wp-content/uploads/2022/06/HOME_HeroImage_couple-1_M_414x400.jpg)
 
 ![蓝绿色 Swoosh 图形桌面](https://homeofva.org/wp-content/themes/responsive-starter-theme-master/img/HOME_Wave_1920px.png) ![蓝绿色 Swoosh 图案手机](https://homeofva.org/wp-content/themes/responsive-starter-theme-master/img/HOME_Wave_768px.png)
@@ -12,7 +15,7 @@
 
 [报告住房歧视](/zh/intake)
 
-## 歧视的例子可能包括
+## 歧视的例子可能包括 { data-search-exclude }
 
 - 房东在变性租户转型后开始对其收取不同的费用或制定规则和条件。
 - 区别对待，如物业经理向异性夫妇提供预约时间和租金优惠，然后避免向同性伴侣提供具体信息。
@@ -35,7 +38,7 @@ _为本次活动提供基础的工作得到了美国住房和城市发展部的�
 
 [联系我们](https://homeofva.org/fair-housing-complaint-form)
 
-## 探索其他受保护的类别：
+## 探索其他受保护的类别： { data-search-exclude }
 
 - [竞赛](https://homeofva.org/zh/get-help/fair-housing/race/)
 - [颜色](https://homeofva.org/zh/get-help/fair-housing/color/)
@@ -55,3 +58,29 @@ _为本次活动提供基础的工作得到了美国住房和城市发展部的�
 
 _本网站的所有者承诺提供无障碍访问和包容性服务，如果您遇到任何问题，请使用本网站上的联系表单进行报告。本网站使用 WP ADA Compliance Check 插件来提高可访问性。_
 <!-- tcd_original_link https://homeofva.org/zh/get-help/fair-housing/sexual-orientation-gender-identity/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | homeofva_性取向和性别认同.md                             |
+| Size            | 4643 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

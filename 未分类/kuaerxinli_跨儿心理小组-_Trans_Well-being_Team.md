@@ -1,5 +1,8 @@
 # 跨儿心理小组
 
+## 正文 { data-search-exclude }
+
+
 Trans Well-being Team
 
 ##### 一个专注于跨儿心理健康的公益团队改善跨儿的福祉，促进社会的性别多元平等
@@ -8,11 +11,11 @@ Trans Well-being Team
 
 [![咨询与热线](https://kuaerxinli.org/wp-content/uploads/elementor/thumbs/咨询与热线1-1-qdaeip007obp01wbs40go79nse0g4tkxynxe1nqu1s.jpg)](https://kuaerxinli.org/%e8%b7%a8%e5%84%bf%e5%bf%83%e7%90%86/%e5%92%a8%e8%af%a2%e4%b8%8e%e7%83%ad%e7%ba%bf/)
 
-## [咨询与热线](https://kuaerxinli.org/%e8%b7%a8%e5%84%bf%e5%bf%83%e7%90%86/%e5%92%a8%e8%af%a2%e4%b8%8e%e7%83%ad%e7%ba%bf/)
+## [咨询与热线](https://kuaerxinli.org/%e8%b7%a8%e5%84%bf%e5%bf%83%e7%90%86/%e5%92%a8%e8%af%a2%e4%b8%8e%e7%83%ad%e7%ba%bf/) { data-search-exclude }
 
 跨儿心理服务升级啦！心理热线实时服务，心理咨询提供补贴。
 
-## [跨儿微信群](https://kuaerxinli.org/wechat-group/)
+## [跨儿微信群](https://kuaerxinli.org/wechat-group/) { data-search-exclude }
 
 有一个地方，只有我们知道
 
@@ -20,11 +23,11 @@ Trans Well-being Team
 
 [![社群活动](https://kuaerxinli.org/wp-content/uploads/elementor/thumbs/frc-a7c1b4d403dd2a9ef4f6adf8bd445c1f-3-qdaeip007obp01wbs40go79nse0g4tkxynxe1nqu1s.jpeg)](https://kuaerxinli.org/category/%e7%a4%be%e7%be%a4%e6%b4%bb%e5%8a%a8/)
 
-## [社群活动](https://kuaerxinli.org/category/%e7%a4%be%e7%be%a4%e6%b4%bb%e5%8a%a8/)
+## [社群活动](https://kuaerxinli.org/category/%e7%a4%be%e7%be%a4%e6%b4%bb%e5%8a%a8/) { data-search-exclude }
 
 伙伴们，快来参加跨儿专属的社群活动吧~
 
-## [社群资源](https://kuaerxinli.org/category/%e7%a4%be%e7%be%a4%e8%b5%84%e6%ba%90/)
+## [社群资源](https://kuaerxinli.org/category/%e7%a4%be%e7%be%a4%e8%b5%84%e6%ba%90/) { data-search-exclude }
 
 跨儿友善心理工作者网络为您服务
 
@@ -32,7 +35,7 @@ Trans Well-being Team
 
 [![跨儿新闻报](https://kuaerxinli.org/wp-content/uploads/elementor/thumbs/frc-2b40a77ff19244462764ba8a380a294f-1-qdaeio260uaeofxoxllu3pi77052x4h7mj9wkds880.jpg)](https://kuaerxinli.org/category/trans-news/)
 
-## [跨儿新闻报](https://kuaerxinli.org/category/trans-news/)
+## [跨儿新闻报](https://kuaerxinli.org/category/trans-news/) { data-search-exclude }
 
 快来看看最新的全球跨儿新闻吧~
 
@@ -76,3 +79,29 @@ Trans Well-being Team
 
 [了解更多](https://kuaerxinli.org/%e6%89%80%e6%9c%89%e6%96%87%e7%ab%a0/)
 <!-- tcd_original_link https://kuaerxinli.org/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | kuaerxinli_跨儿心理小组-_Trans_Well-being_Team.md                             |
+| Size            | 4944 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

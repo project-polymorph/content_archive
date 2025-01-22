@@ -1,5 +1,8 @@
 # FtM.wiki - 跨性别男性资料库
 
+## 正文 { data-search-exclude }
+
+
 ![LOGO](favicon.png)
 
 欢迎来到 FtM.wiki。这里是一个或许可以给部分跨性别男性 (FtM) 群体提供帮助的地方。
@@ -20,13 +23,13 @@ FtM.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 本项目在编写过程中参考了诸多资料，在此一并致谢。
 
-## 声明
+## 声明 { data-search-exclude }
 
 如有希望长期参与 FtM.wiki 编辑工作请发送邮件至 [join@ftm.wiki](mailto:join@ftm.wiki)。
 
 目前 Project Trans 无法合规接收社区赞助，因此该维护工作无报酬。
 
-## 导读
+## 导读 { data-search-exclude }
 
 如果 **未取得诊断证明** 可以通过阅读 [精神科](https://ftm.wiki/zh-cn/psycho/ "精神科") 了解更多信息。
 
@@ -42,3 +45,29 @@ FtM.wiki 致力于成为一个免费开放且持续更新的跨性别知识整�
 
 更多跨性别男性 (FtM) 的站点可以从 [2345.LGBT](https://2345.LGBT) 获得。
 <!-- tcd_original_link https://ftm.wiki/zh-cn/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ftm_FtM.wiki.md                             |
+| Size            | 2389 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

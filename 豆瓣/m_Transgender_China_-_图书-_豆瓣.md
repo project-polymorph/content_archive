@@ -1,5 +1,8 @@
 # Transgender China
 
+## 正文 { data-search-exclude }
+
+
 ![Transgender China](https://img9.doubanio.com/view/subject/s/public/s29631866.jpg)
 
 **作者:** [Howard Chiang](https://www.douban.com/search/Howard%20Chiang)  
@@ -13,13 +16,13 @@
 豆瓣评分  
 [评价人数不足](https://book.douban.com/subject/22992802/comments)
 
-## 内容简介
+## 内容简介 { data-search-exclude }
 In the emerging field of queer Asian studies, scholars to date have paid scant attention to transgender issues. Meanwhile, despite its already sophisticated focus on gender non-conformity, Western queer studies exhibits an equally pressing problem: the conspicuous absence of empirical and theoretical investigations of transgenderism in Northeast Asian society and culture. This volume, under the editorship of Howard Chiang, responds to the convergence of these limitations. By bringing together experts with diverse disciplinary backgrounds in the China field, from cultural studies to history to musicology, Transgender China makes a timely intervention whereby emergent Sinologists explore previously untapped terrains—from the historical demise of enuchism to male cross-dressing shows in contemporary Taiwan—to inaugurate a subfield in Chinese transgender studies.
 
-## 作者简介
+## 作者简介 { data-search-exclude }
 Howard Chiang is Assistant Professor of Modern Chinese History at the University of Warwick, UK.
 
-## 喜欢读"Transgender China"的人也喜欢
+## 喜欢读"Transgender China"的人也喜欢 { data-search-exclude }
 ### [Sexuality in China](https://book.douban.com/subject/27192489/)
 ![Sexuality in China](https://img3.doubanio.com/view/subject/s/public/s29602462.jpg)
 
@@ -50,7 +53,7 @@ Howard Chiang is Assistant Professor of Modern Chinese History at the University
 ### [Epistemology of the Closet](https://book.douban.com/subject/2474827/) 9.4
 ![Epistemology of the Closet](https://img9.doubanio.com/view/subject/s/public/s3296286.jpg)
 
-## 短评  ( [全部 6 条](https://book.douban.com/subject/22992802/comments/) )
+## 短评  ( [全部 6 条](https://book.douban.com/subject/22992802/comments/) ) { data-search-exclude }
 
 ### 0 [Soo Yung](https://www.douban.com/people/christineM/) [2015-10-04 06:41:37](/comment/964160109)
 Not the book I want. 对于跨性恋这个话题，可以探讨的方向、范围很广，导致各章研究太分散，少了上下的承接。很明显的意识到自己对史学（中国历史上的跨性恋形象）、文学研究真的毫无兴趣，看作者那么费力的指出“太监不是third sex却始终扮演男性角色”简直让我忍俊不禁。至于儒释道、明清小说、白蛇传都是如何刻画跨性恋，总感觉和现代社会有些脱节，况且借儒释道的跨性概念来逃避世俗这个论点毫...
@@ -67,12 +70,38 @@ Not the book I want. 对于跨性恋这个话题，可以探讨的方向、范�
 ### 0 [惘随](https://www.douban.com/people/53132458/) [2016-11-15 16:10:35]
 Queer Asian Studies...
 
-## 论坛
+## 论坛 { data-search-exclude }
 (无相关内容)
 
-## 二手市场
+## 二手市场 { data-search-exclude }
 (无相关内容)
 
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/book/subject/22992802/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《Transgender China》是一本由霍华德·蔷（Howard Chiang）主持编辑的学术著作，发布于2012年12月11日，主要聚焦于跨性别在中国及东北亚社会与文化中的探讨。这本书集合了来自不同学科背景的专家，涵盖了文化研究、历史、音乐学等领域，致力于填补当前亚洲酷儿研究中对跨性别议题重视不足的空白。书中讨论了诸多重要话题，如历史悠久的太监现象、当代台湾的男性变装表演，以及跨性别研究在中国的发展等，展示了跨性别非传统性别表现的历史与现状，显著推动了中国跨性别研究的学术进程。该书由Palgrave Macmillan出版社出版, 共304页，ISBN为9780230340626。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_Transgender_China_-_图书-_豆瓣.md                             |
+| Size            | 5254 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 霍华德·蔷（Howard Chiang）                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-12-11                                 |
+| Tags            | 跨性别, 文化研究, 社会学, 历史, 性别研究, 太监现象, 性别非顺应性, 台湾, 东亚文化, 酷儿研究                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

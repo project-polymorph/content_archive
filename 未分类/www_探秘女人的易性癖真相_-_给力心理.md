@@ -1,6 +1,9 @@
 # 探秘女人的易性癖真相
 
-## 心理健康 · 11/29/2021
+## 正文 { data-search-exclude }
+
+
+## 心理健康 · 11/29/2021 { data-search-exclude }
 
 1. **临床特点**：女性易性癖指女子的极端男性化现象。在儿童时期，女孩就否认自己的性别，她给自己取男孩子的名字，完全着男装，对男孩的游戏感兴趣。到青春期时，她就寻找一切机会成为男子。与男性易性癖者相同，她以男性面目出现，在首次以男性身份在公众面前出现前并不需要事先演练。
 
@@ -16,3 +19,29 @@
 
 标签： [心理](https://m.geilixinli.com/wddoc/?tag=%e5%bf%83%e7%90%86) [抑郁](https://m.geilixinli.com/wddoc/?tag=%e6%8a%91%e9%83%81) [抑郁症](https://m.geilixinli.com/wddoc/?tag=%e6%8a%91%e9%83%81%e7%97%87) [病态心理](https://m.geilixinli.com/wddoc/?tag=%e7%97%85%e6%80%81%e5%bf%83%e7%90%86) [青少年](https://m.geilixinli.com/wddoc/?tag=%e9%9d%92%e5%b0%91%e5%b9%b4) [青春期](https://m.geilixinli.com/wddoc/?tag=%e9%9d%92%e6%98%a5%e6%9c%9f)
 <!-- tcd_original_link https://www.geilixinli.com/wddoc/?p=86755 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_探秘女人的易性癖真相_-_给力心理.md                             |
+| Size            | 2593 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

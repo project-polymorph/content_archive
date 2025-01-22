@@ -1,5 +1,8 @@
 # 高婷婷难圆女人梦 准变性人告医院败诉
 
+## 正文 { data-search-exclude }
+
+
 **时间**: 2004-09-22 14:32:42  
 **来源**: 千龙网-现代快报  
 **作者**: 宗一多 张波  
@@ -34,3 +37,29 @@ _0_条评论
 - [“半变性人”入女子监狱不老实 将被强行变性](http://www.chinacourt.org/article/detail/2013/12/id/1166659.shtml "“半变性人”入女子监狱不老实 将被强行变性")
 - [婚后变性者如何解除其婚姻关系](http://www.chinacourt.org/article/detail/2013/08/id/1054105.shtml "婚后变性者如何解除其婚姻关系")
 <!-- tcd_original_link https://www.chinacourt.org/article/detail/2004/09/id/133375.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_高婷婷难圆女人梦准变性人告医院败诉_-_中国法院网.md                             |
+| Size            | 4595 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

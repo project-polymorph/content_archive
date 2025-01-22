@@ -1,6 +1,9 @@
 # 從女變男的心路歷程：心境隨性別改變覓平靜
 
-## 先天的性別由出生的一刻已經決定，但出世為女兒身的Kerry，從小就覺得自己是男生，但因身邊的人都在提醒他「女生」的身份，令他覺得困擾。為了要避開他人的「閒言閒語」，他一直努力將自己的行為變得女性化，但卻令自己一直精神緊張。直到他在澳洲接受了性別重置手術，終可以自己真本性示人，從此心情亦變得平安靜。他希望澳洲政府在醫療或證件的更改上，可以更方便跨性別人士，令跨性別人士也可以無憂地「做自己」。
+## 正文 { data-search-exclude }
+
+
+## 先天的性別由出生的一刻已經決定，但出世為女兒身的Kerry，從小就覺得自己是男生，但因身邊的人都在提醒他「女生」的身份，令他覺得困擾。為了要避開他人的「閒言閒語」，他一直努力將自己的行為變得女性化，但卻令自己一直精神緊張。直到他在澳洲接受了性別重置手術，終可以自己真本性示人，從此心情亦變得平安靜。他希望澳洲政府在醫療或證件的更改上，可以更方便跨性別人士，令跨性別人士也可以無憂地「做自己」。 { data-search-exclude }
 
 ### 性小眾專訪：跨性別香港移民　細說從女變男的心路歷程 
 **時間**: 04 Mar 2022, 1:33 am  
@@ -143,3 +146,29 @@ Kerry指已有準備要單身一輩子，問到Kerry是否會擔心老年的生�
 
 **瀏覽更多最新時事資訊，請登上** [SBS 中文](https://www.sbs.com.au/chinese/chinese/zh-hant/about-sbs-chinese)
 <!-- tcd_original_link https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-transgender-in-australia/nwvg7nzxm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【從女變男的心路歷程】自小是緊張大師心境隨性別改變覓平靜.md                             |
+| Size            | 13327 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # E001-跨性别 at 新闻资料整理
 
+## 正文 { data-search-exclude }
+
+
 国立中央大学 性／别研究室 资料收集整理留存
 
 ### **女性的气馁**
@@ -256,3 +259,29 @@
 
 毕竟成年的重要意含之一，无非就是对于“成人”事务的能以平常心对待，什么时候我们社会整体对于“性”的强烈好奇，能够转变成见怪不怪的知道理解，那恐怕才是台湾真正成年的一刻。
 <!-- tcd_original_link https://sex.ncu.edu.tw/blognews/?cat=41%2F&paged=17 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sex_E001-跨性別at_新聞資料整理_-_中央大學性／別研究室.md                             |
+| Size            | 47285 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 也许变性手术才是张国荣唯一生存下去的路径
 
+## 正文 { data-search-exclude }
+
+
 **作者：元气星空Ix**  
 **时间：2024-06-01 20:07**  
 **来源：今日头条**  
@@ -20,7 +23,7 @@
 ![图片1](//p3-sign.toutiaoimg.com/tos-cn-i-ezhpy3drpa/afa9ddc45abe42279060150953826f5f~tplv-obj:414:558.image?_iz=97245&bid=15&from=post&gid=1800660500546564&lk3s=06827d14&x-expires=1744588800&x-signature=HVElfY2WeWT0SXbN2tue%2FKc8%2FFQ%3D)  
 ![图片2](//p3-sign.toutiaoimg.com/tos-cn-i-ezhpy3drpa/16de27ea8bd84ba4a6720a61539ac6c7~tplv-obj:308:440.image?_iz=97245&bid=15&from=post&gid=1800660500546564&lk3s=06827d14&x-expires=1744588800&x-signature=mSiXYhoANd510ZwZhju4R4fwKc0%3D)
 
-## 评论
+## 评论 { data-search-exclude }
 
 - **热爱生活的小一**  
   跨性别和同性恋概念都不一样  
@@ -39,3 +42,29 @@
 **标签**: 多元性别，张国荣，变性手术  
 **版权**: 此内容转载自今日头条，所有权归原作者所有。
 <!-- tcd_original_link https://www.toutiao.com/w/1800660500546564/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_也许变性手术才是张国荣唯一生存下去的路径！_都知道_..._-_今日头条.md                             |
+| Size            | 1864 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

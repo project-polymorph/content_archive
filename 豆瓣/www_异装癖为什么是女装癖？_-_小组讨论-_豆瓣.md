@@ -1,5 +1,8 @@
 # 异装癖为什么是女装癖？
 
+## 正文 { data-search-exclude }
+
+
 来自: [悠兰米](https://www.douban.com/people/263698320/)
 
 2024-10-25 19:09:30 山东
@@ -34,3 +37,29 @@
 
 (版权信息及其他内容省略)
 <!-- tcd_original_link https://www.douban.com/group/topic/312958873/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+这篇讨论来自豆瓣小组，由用户悠兰米于2024年10月25日在山东发起，探讨了对异装癖和性别装扮的社会认知和不同性别的社会接受程度。作者通过自己的观察与生活经历，提出了一个引人深思的问题：为什么男性穿女装的争议更大，而女性穿男装反而少有人提及；这是否反映了社会对性别角色的固定认知和偏见？文中提到一位短发女同学日常穿着不女性化，结果没有受到异装癖的标签，但男性的柔弱行为却被视为负面特征。作者对此进行了反思，并提出性别装扮背后的文化和社会影响。整篇讨论不仅涉及个人经历，也引发对性别表达的更广泛探讨，挑战了传统性别角色的法规和社会接受度。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_异装癖为什么是女装癖？_-_小组讨论-_豆瓣.md                             |
+| Size            | 1112 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 悠兰米                               |
+| Region          | 山东, 中国                               |
+| Date            | 2024-10-25                                 |
+| Tags            | 异装癖, 女装癖, 性别角色, 社会偏见, 性别表达, 中性风格, 文化探讨, 个人故事, 生活经历, 社会环境                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

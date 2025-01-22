@@ -1,5 +1,8 @@
 # 与青少年讨论跨性别问题
 
+## 正文 { data-search-exclude }
+
+
 ![](https://focf.org/sc/wp-content/uploads/sites/5/2022/08/.png)
 
 **问：我们十几岁的儿子和女儿在公立高中遇到了性别混淆的情况，这个时候我和我的配偶要如何与他们并肩作战？ 不管您相不相信，在过去的这一学年中，已经有几个这样的案例显露出来了。其中有一个是我女儿的密友，她现在认为自己是男孩，并希望能被看为男孩子。 从表面上看，我的孩子们试图对整个事情“冷处理”，但是我知道这使得他们陷入了不同方式的困境中。 尤其是我的儿子，似乎在与内心深处的一些愤怒斗争着。我们也想知道如何响应学校负责人，他们似乎在宣传这种改变是正常的，应该泰然处之。 你能帮助我们吗？**
@@ -35,3 +38,29 @@
 -   [如何帮助孩子建立自信心](https://focf.org/sc/blog/2025/01/11/ruhebangzhuhaizijianlizixinxin/)
 -   [如何与青春期孩子谈性](https://focf.org/sc/blog/2025/01/11/ruheyuqingchunqihaizitanxing/)
 <!-- tcd_original_link https://focf.org/sc/blog/aijia_magazine/discussingtransgenderwithteens/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | focf_与青少年讨论跨性別问题-_爱家华语网站.md                             |
+| Size            | 7170 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

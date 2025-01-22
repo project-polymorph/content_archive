@@ -1,5 +1,8 @@
 # 男性的衰落
 
+## 正文 { data-search-exclude }
+
+
 ![男性的衰落](https://img2.doubanio.com/view/subject/s/public/s33630391.jpg)
 
 作者: [\[英\]格雷森·佩里（Grayson Perry）](/author/4610468)  
@@ -22,7 +25,7 @@ ISBN: 9787540495664
 
 评价:
 
-## 内容简介  · · · · · · · ·
+## 内容简介  · · · · · · · · { data-search-exclude }
 
 “我希望，你选择打开这本书，是因为意识到我们需要质疑男子气概，意识到性别不平等深刻影响着我们每一个人，且阻碍着世界的进步。”
 
@@ -90,7 +93,7 @@ ISBN: 9787540495664
 
 ——维多利亚·希斯洛普（英国作家，《岛》作者）
 
-## 男性的衰落的创作者  · · · · · · · ·
+## 男性的衰落的创作者  · · · · · · · · { data-search-exclude }
 
 - ![格雷森·佩里](https://img9.doubanio.com/view/personage/m/public/9c3b909c51e2fb581d3cad8dec8f5bf6.jpg)
   [格雷森·佩里](https://book.douban.com/author/4610468/ "格雷森·佩里") 作者
@@ -101,7 +104,7 @@ ISBN: 9787540495664
 - ![许敏](https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png)
   [许敏](https://book.douban.com/author/4631973/ "许敏") 译者
 
-## 作者简介  · · · · · · · ·
+## 作者简介  · · · · · · · · { data-search-exclude }
 
 【作者】
 
@@ -135,7 +138,7 @@ ISBN: 9787540495664
 
 翻译爱好者，即将就读英国杜伦大学翻译硕士。
 
-## 目录  · · · · · · · ·
+## 目录  · · · · · · · · { data-search-exclude }
 
 不要没事找事！  
 第一章 和鱼聊一聊水的存在  
@@ -144,7 +147,7 @@ ISBN: 9787540495664
 第四章 客观保护壳  
 男人，坐下抗争权利！
 
-## 原文摘录  · · · · · ·  ( [全部](blockquotes) )
+## 原文摘录  · · · · · ·  ( [全部](blockquotes) ) { data-search-exclude }
 
 - 我们在异装癖集会上常常开玩笑说，如果一个异装癖伙伴开始经常穿裤子，他就真的开始认真对待女性角色，考虑去变性了，因为真正的女人大多数时间都穿休闲长裤，只有我们这些异装癖一天到晚穿裙子，以符合自己想象中的女性气质。 ([查看原文](https://book.douban.com/annotation/98173505/))
     
@@ -160,11 +163,11 @@ ISBN: 9787540495664
 
 ---
 
-## 丛书信息  · · · · · · · ·
+## 丛书信息  · · · · · · · · { data-search-exclude }
 
 [浦睿·女性主义](https://book.douban.com/series/66075)(共9册)， 这套丛书还有 《生而为女》《她们自己的文学》《傲慢的堡垒》《依然疯狂》《五四婚姻》等。
 
-## 喜欢读"男性的衰落"的人也喜欢的电子书  · · · · · · · ·
+## 喜欢读"男性的衰落"的人也喜欢的电子书  · · · · · · · · { data-search-exclude }
 
 [父权制与资本主义](https://read.douban.com/ebook/404681452/) 13.30元
 
@@ -176,7 +179,7 @@ ISBN: 9787540495664
 
 [回归故里](https://read.douban.com/ebook/157066794/) 14.99元
 
-## 喜欢读"男性的衰落"的人也喜欢  · · · · · · · ·
+## 喜欢读"男性的衰落"的人也喜欢  · · · · · · · · { data-search-exclude }
 
 [看不见的女人](https://book.douban.com/subject/35077364/) 7.4
 
@@ -198,7 +201,7 @@ ISBN: 9787540495664
 
 [被隱形的女性](https://book.douban.com/subject/35115455/) 9.1
 
-## 短评  · · · · · ·  ( [全部 1627 条](https://book.douban.com/subject/35016930/comments/) )
+## 短评  · · · · · ·  ( [全部 1627 条](https://book.douban.com/subject/35016930/comments/) ) { data-search-exclude }
 
 [热门](https://book.douban.com/subject/35016930/comments?sort=score) / [最新](https://book.douban.com/subject/35016930/comments?sort=time) /
 
@@ -222,7 +225,7 @@ ISBN: 9787540495664
     
     读过英文版，既然中文版出了那么就推荐一下。虽然有不少是 first world problem，但其实值得在座的男同学们都了解一下，这不是一本批判男性的书，而是用性别视角为男性解绑的书
     
-## 论坛  · · · · · · · ·
+## 论坛  · · · · · · · · { data-search-exclude }
 
 [请问格雷森佩里是否信仰宗教呢?](https://book.douban.com/subject/35016930/discussion/637484359/ "请问格雷森佩里是否信仰宗教呢?")  
 
@@ -242,3 +245,29 @@ ISBN: 9787540495664
 
 5 回应
 <!-- tcd_original_link https://m.douban.com/book/subject/35016930/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件介绍了由格雷森·佩里所著的《男性的衰落》，该书探讨了传统男子气概对男性心理健康的影响，以及性别角色在现代社会中造成的多重负担。格雷森·佩里通过自身的经历揭示，在英国，四十五岁以下男性最常见的死因是自杀，且男性自杀率是女性的两倍。他主张需要质疑传统的男性形象，以及这些观念如何对社会造成了深远的影响。书中提出，许多男性因受到社会期待而不得不压抑自己的情感，这种压抑对于个体和社会都造成了伤害。作者呼吁男性理解自己的脆弱，接受变化，从而让自己更幸福，并为社会贡献更多正能量。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_男性的衰落-_图书-_豆瓣.md                             |
+| Size            | 13268 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 格雷森·佩里（Grayson Perry）                               |
+| Region          | 英国                               |
+| Date            | 2020-06-01                                 |
+| Tags            | 男子气概, 性别研究, 心理健康, 自杀率, 男性角色, 社会期待, 性别不平等, 个人经历, 文化批评, 现代社会                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

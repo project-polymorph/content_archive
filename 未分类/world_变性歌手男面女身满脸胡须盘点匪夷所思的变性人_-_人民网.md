@@ -1,5 +1,8 @@
 # 变性歌手男面女身满脸胡须 盘点匪夷所思的变性人
 
+## 正文 { data-search-exclude }
+
+
 ##### 2014年05月27日14:19    
 来源：[河北新闻网](http://photo.hebnews.cn/2014-01/26/content_3752929.htm)
 
@@ -17,3 +20,29 @@ Conchita Wurst是比利时一名变性人歌手，近日他/她拍摄了一组�
 - [美国男子怀孕产子夫妻双方均为变性人](http://health.people.com.cn/n/2014/0217/c14739-24381137.html)
 - [美变性女子35年整容200余次【图】](http://health.people.com.cn/n/2014/0214/c14739-24363924.html)
 <!-- tcd_original_link http://world.people.com.cn/n/2014/0527/c1002-25071424.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_变性歌手男面女身满脸胡须盘点匪夷所思的变性人_-_人民网.md                             |
+| Size            | 1666 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

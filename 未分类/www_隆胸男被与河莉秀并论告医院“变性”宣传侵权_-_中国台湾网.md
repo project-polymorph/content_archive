@@ -1,5 +1,8 @@
 # 隆胸男被与河莉秀并论 告医院“变性”宣传侵权
 
+## 正文 { data-search-exclude }
+
+
 时间：2010-07-08 09:56  
 来源：武汉晚报
 
@@ -27,7 +30,7 @@
 
 她说，院方不存在侵权，协议文本等相关证据已交律师，将通过法律途径应对此事。(记者李锐 实习生胡越 潘佩通讯员方璨）
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 - [22岁男子变性不成功 与身份证不符成黑户(组图)](../201006/t20100630_1434056.htm)
 - [台一变性男子被要求服兵役 脱衣体检令其花容失色](../../../../taiwan/tw_SocialNews/201006/t20100606_1400967.htm)
@@ -51,3 +54,29 @@
 
 版权声明：本稿件为武汉晚报版权作品，转载请标明出处。
 <!-- tcd_original_link http://www.taiwan.cn/xwzx/dl/shh/201007/t20100708_1445331_1.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_隆胸男被与河莉秀并论告医院“变性”宣传侵权_-_中国台湾网.md                             |
+| Size            | 4016 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

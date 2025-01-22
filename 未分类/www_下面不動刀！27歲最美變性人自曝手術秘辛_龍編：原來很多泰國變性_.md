@@ -1,5 +1,8 @@
 # 下面不動刀！27歲最美變性人自曝手術秘辛
 
+## 正文 { data-search-exclude }
+
+
 **來源**: 東森娛樂  
 **時間**: 27歲變性人自曝手術秘辛  
 **完整影片**: [点击观看](https://bit.ly/2jYl7qr)  
@@ -36,3 +39,29 @@
 **注**:  
 如需进一步的信息请访问东森娱乐的Facebook页面。
 <!-- tcd_original_link https://www.facebook.com/ebcstar/videos/%E4%B8%8B%E9%9D%A2%E4%B8%8D%E5%8B%95%E5%88%8027%E6%AD%B2%E6%9C%80%E7%BE%8E%E8%AE%8A%E6%80%A7%E4%BA%BA%E8%87%AA%E6%9B%9D%E6%89%8B%E8%A1%93%E7%A7%98%E8%BE%9B/498024192602920/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_下面不動刀！27歲最美變性人自曝手術秘辛_龍編：原來很多泰國變性_.md                             |
+| Size            | 1480 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 性别认同障碍：男女之间，我是第三种性别
 
+## 正文 { data-search-exclude }
+
+
 ![这个问题不解决，「焦虑+抑郁」怎么治疗都不好](https://ossimg.xinli001.com/20230309/05a980bd248e7a99d4c3752fe6fbf6c8.jpeg?x-oss-process=image/resize,w_200/format,webp)
 
 谭素怡
@@ -154,3 +157,29 @@
 - 看了你的文章，打开了新世界的大门。。。 2020-11-10 回复：赞
 
 <!-- tcd_original_link https://m.xinli001.com/info/100463205 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性别认同障碍：男女之间，我是第三种性别_-_壹心理.md                             |
+| Size            | 10199 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

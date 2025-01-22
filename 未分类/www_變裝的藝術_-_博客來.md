@@ -1,8 +1,11 @@
 # 變裝的藝術
 
+## 正文 { data-search-exclude }
+
+
 ![變裝的藝術](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/090/40/0010904047.jpg&v=614b05c3k&w=348&h=348)
 
-## 內容簡介
+## 內容簡介 { data-search-exclude }
 
 **✶ 一顆令人目眩神迷的炸彈！ ✶ 炸開眼界，炸爛偏見 「只要社會完好無缺，變裝就會存在，抱持異見。」 ————  ◐ 了解變裝簡史必備的知識類圖文書 ◐ ———— 敢曝，敢言，敢做，敢當。美麗而挑釁。 「假髮從未看起來如此高，眼影也從未如此過分。」 「唯有像這樣美麗而廣博的書，才能向變裝歷史致敬。」 〖裸背精裝〗・〖全書螢光粉特別色印製〗・〖點綴燙金〗 LGBTQIA+ 、平權、藝術、時尚、流行文化研究必珍藏**
 
@@ -115,3 +118,29 @@
 **石牆暴動（節錄）**  
 便衣警察突襲石牆酒吧，要顧客迅速列隊，檢查他們的身分證，又闖進廁所視察是否有人違反任何針對變裝的法律。不久，突襲就因為顧客拒絕配合暴力的警察而難以繼續。被趕出酒吧的顧客擺出敢曝的姿勢來嘲諷警察，在酒吧外越聚越多的群眾鼓掌支持。當囚車抵達要載走被逮捕者時，繃緊的氣氛如泡沫般爆破，混亂隨之而起。人群開始扔各種唾手可得的東西，被逮捕者成功逃脫。從這裡開始，各種說法都有。據說扔向警察的各種「臨時導彈」有磚塊、高跟鞋，甚至還有汽油彈。有人讚嘆最先打警察的，是一位無名變裝皇后（用她的鞋子）；又有人說混亂的開端是史托米・德拉維利，警察是她打的，她一邊打，一邊問群眾：「你們怎麼不做點什麼？」無論煽動者是誰，這場僵局的影響是深遠的：它引發了一連六晚的示威，以及一場全球性的同志運動。石牆未必是首場酷兒動亂，不過它所發出的號召響遍世界。
 <!-- tcd_original_link https://www.books.com.tw/products/0010904047?srsltid=AfmBOopjGLrAKEbUkHL7Ui5bvN1ovreBO_OQeHCIX_4Z0jiO1TkMlQdA -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_變裝的藝術_-_博客來.md                             |
+| Size            | 6782 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,10 +1,13 @@
 # 变性小说推荐
 
+## 正文 { data-search-exclude }
+
+
 更新时间: 2025-01-21
 
 - ![变性](//piccn.ihuaben.com/pic/mark/default/6.jpg?x-oss-process=image/resize,w_200/format,webp)
 
-## 相关标签
+## 相关标签 { data-search-exclude }
 - [凹界世界](/category/aojieshijie/)
 - [王民](/category/wangmin/)
 - [王冬是男的](/category/wangdongshinande/)
@@ -16,7 +19,7 @@
 - [武魂](/category/wuhun/)
 - [塞尔号](/category/saierhao1/)
 
-## 小说列表
+## 小说列表 { data-search-exclude }
 
 - [![赛尔号之变性](//piccn.ihuaben.com/pic/book/202012/1317/1607851993085-y2LA273mS0_720-960.jpeg?x-oss-process=image/resize,w_210/format,webp)](//www.ihuaben.com/book/5156415.html)  
   ### [赛尔号之变性](//www.ihuaben.com/book/5156415.html)  
@@ -221,3 +224,29 @@
   标签：  
   ![](//piccn.ihuaben.com/pic/user/202304/2816/1682672019735-LJ3mM178K7_132-132.jpg?x-oss-process=image/resize,w_50/format,webp)  
 <!-- tcd_original_link https://www.ihuaben.com/category/bianxing1/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性小说排行榜.md                             |
+| Size            | 17947 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

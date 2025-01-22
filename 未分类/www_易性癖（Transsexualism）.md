@@ -1,5 +1,8 @@
 # 易性癖（Transsexualism）
 
+## 正文 { data-search-exclude }
+
+
 ![](/_upload/tpl/00/59/89/template89/images/main_02.jpg)
 
 发布时间： 2019-11-10  
@@ -17,3 +20,29 @@
 
 上海建桥学院 版权所有 | 学校地址：上海市浦东新区沪城环路1111号 | 邮编：201306
 <!-- tcd_original_link https://www.gench.edu.cn/xlhp/2019/1110/c2318a84124/page.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_易性癖（Transsexualism）.md                             |
+| Size            | 2712 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

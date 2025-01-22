@@ -1,5 +1,8 @@
 # 变性手术患者的心理分析及其护理 - 中华医学美学美容杂志
 
+## 正文 { data-search-exclude }
+
+
 **• 经验总结 •**
 
 **变性手术患者的心理分析及其护理**
@@ -55,3 +58,29 @@ DOI: [10.3760/cma.j.issn.1671-0290.2017.04.021](https://doi.org/10.3760/cma.j.is
 **版权归中华医学会所有**  
 未经授权，不得转载、摘编本刊文章，不得使用本刊的版式设计。
 <!-- tcd_original_link https://rs.yiigle.com/cmaid/1012706 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | rs_变性手术患者的心理分析及其护理-_中华医学美学美容杂志.md                             |
+| Size            | 7986 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

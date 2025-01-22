@@ -1,10 +1,13 @@
 # 克里丝汀·贝克
 
+## 正文 { data-search-exclude }
+
+
 ![克里丝汀·贝克](https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf2b144cc9cb17eca8065388f20?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_272)
 
 克里丝汀·贝克，原名克里斯多夫·贝克，退役的美国海豹突击队成员，成为了一位军事承包商。2011年退役后进行变性手术，改名为克丽丝汀·贝克，成为首位变性海豹突击队成员。
 
-## 目录
+## 目录 { data-search-exclude }
 
 1. [人物简介](#人物简介)
 2. [战场汉子](#战场汉子)
@@ -15,7 +18,7 @@
 7. [梦想](#梦想)
 8. [获得荣誉](#获得荣誉)
 
-## 人物简介
+## 人物简介 { data-search-exclude }
 
 一位参加过波斯尼亚、阿富汗和伊拉克战争、荣获多种勋章的美国海豹突击队成员在退役之后，为了实现自己梦想，退役后变性。
 
@@ -23,7 +26,7 @@
 
 美国海军官员在接受采访时证实，贝克曾以克里斯多夫·贝克的名字在海豹突击队服役，表现突出，曾荣获青铜星章和紫心勋章。 \[1\]
 
-## 战场汉子
+## 战场汉子 { data-search-exclude }
 
 1992年，克里斯廷·贝克在加利福尼亚州的海豹突击队基础训练中表现优异，成为佼佼者，从此加入美军精英的海豹突击队。
 
@@ -31,33 +34,33 @@
 
 在伊拉克战场上，贝克曾与英军一起参与巴士拉之战。可以说，从1992年参军到2011年退役，贝克在海豹服役20年，几乎参加了自上世纪90年代以来美军所有重大军事行动。 \[2\]
 
-## 退役变性
+## 退役变性 { data-search-exclude }
 
 2011年从部队退役后，两度离婚、育有两子的贝克接受变性手术，改名克丽丝汀・贝克，成为一名军事承包商。她开始公开穿女装，让更多人认识到她的新身份。
 
 贝克接受了荷尔蒙注射，美国老兵协会为她的治疗买单。她还接受了手臂、脸部和胸部激光除毛手术，让整形医生为她注射了胶原蛋白，好让皮肤看起来更像女性。
 
-## 出书自述
+## 出书自述 { data-search-exclude }
 
 克里斯汀·贝克在这本名为《勇士公主》(Warrior Princess)的书中透露，她在小时候就有着少女情怀，因此在20年的服役过程中，她一直都在为自己的性别而纠结不已。
 
 她在《战地公主》一书中写到了她的性别认同障碍问题，只是一直不为外人所知。
 
-## 支持反对
+## 支持反对 { data-search-exclude }
 
 自从需要伪装成阿富汗普什图族人潜入塔利班执行任务后，贝克开始找到了潜藏已久的渴望。她公开自己的“女儿心”，尽管家人一直很难接受她的新身份。
 
 但是，贝克的前海豹突击队的战友们支持她的转变。美军禁止变性人参军，贝克写这本书的一个目的就是针对这些问题。她希望能重返海豹担任训练员。 \[3\]
 
-## 相关报道
+## 相关报道 { data-search-exclude }
 
 20%变性者曾在军中服役，这一比例高出一般人群。军队却一直以“心理和医学原因”拒绝变性人服役。 \[4\]
 
-## 梦想
+## 梦想 { data-search-exclude }
 
 贝克的梦想是，希望在她身体完全接受女性荷尔蒙激素后，她能以女性身份，回到海豹突击队中训练那些希望加入海豹突击队的女性。
 
-## 获得荣誉
+## 获得荣誉 { data-search-exclude }
 
 贝克自24岁起开始在海豹突击队服役，直到2011年以海军二级军事长退役，他一直是队中楷模，服役期间赢得一枚勇士勋章和紫心勋章。他曾在世界多地服役，波黑、伊拉克和阿富汗战场都有他的足迹，还曾在刺杀本・拉登的海豹突击队第六分队服役。
 
@@ -72,3 +75,29 @@
 
 ![克里丝汀·贝克的概述图](https://bkimg.cdn.bcebos.com/pic/08f790529822720ee9198e457acb0a46f31fabbe?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536)
 <!-- tcd_original_link https://baike.baidu.com/item/%E5%85%8B%E9%87%8C%E4%B8%9D%E6%B1%80%C2%B7%E8%B4%9D%E5%85%8B/5820628 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | baike_克里丝汀·贝克_百度百科.md                             |
+| Size            | 4579 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

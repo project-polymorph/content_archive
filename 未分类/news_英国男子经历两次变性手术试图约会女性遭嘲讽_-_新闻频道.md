@@ -1,5 +1,8 @@
 # 英国男子经历两次变性手术 试图约会女性遭嘲讽
 
+## 正文 { data-search-exclude }
+
+
 发布时间: 2010年11月09日 04:15  
 来源：京华时报  
 
@@ -19,14 +22,14 @@
 
 凯恩正着手筹拍一部名为《变性错觉》的纪录片，通过自己的经历告诫世人，实施变性手术前一定要三思，必须先接受心理辅导。
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 - [\[组图\]泰国“美女”变性手术全过程](http://travel.cntv.cn/20101108/102857.shtml) 2010-11-8
 - [做男做女TA都成功 泰拳拳王变性后成选美皇后\[组图\]](http://news.cntv.cn/society/20101031/102072.shtml) 2010-10-31
 - [香港 变性女子 申请结婚未获注册 争婚权败诉](http://news.cntv.cn/map/20101006/100556.shtml) 2010-10-6
 - [患者看病“被女人”，医院“变性”真不赖](http://news.cntv.cn/society/20100825/100236.shtml) 2010-8-25
 
-## 热词推荐
+## 热词推荐 { data-search-exclude }
 
 - [变性手术](http://search.cntv.cn/netall/index.shtml?qtext=变性手术)
 - [凯恩](http://search.cntv.cn/netall/index.shtml?qtext=凯恩)
@@ -36,3 +39,29 @@
 
 责任编辑：汪蛟龙
 <!-- tcd_original_link http://news.cntv.cn/world/20101109/100413.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_英国男子经历两次变性手术试图约会女性遭嘲讽_-_新闻频道.md                             |
+| Size            | 2832 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

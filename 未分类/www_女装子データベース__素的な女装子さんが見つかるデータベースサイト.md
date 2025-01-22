@@ -1,12 +1,15 @@
 # 女装子数据档案馆
 
+## 正文 { data-search-exclude }
+
+
 女装子データベース（DB）へようこそ
 
 このサイトは女装子さんのプロフィールをデータベース化しているサイトです。 詳しくは「[女装子データベースとは](/info/entry_7)」をご覧ください。
 
 [DBへの登録申請はこちら](https://forms.gle/ZhE1XExSfV7mxTUGA)
 
-## 重要人物
+## 重要人物 { data-search-exclude }
 
 [![](https://www.josoweb.com/wp/wp-content/uploads/rino358a-320x180.jpg) 女装子DB 莉乃](https://www.josoweb.com/josoko-db/entry_103 "莉乃")  
 [![](https://www.josoweb.com/wp/wp-content/uploads/kazuclock_josou-320x180.jpg) 女装子DB kazu](https://www.josoweb.com/josoko-db/entry_100 "kazu")  
@@ -27,7 +30,7 @@
 [![](https://www.josoweb.com/wp/wp-content/uploads/maori_gid-320x180.jpg) 女装子DB まおり⚤結城真織](https://www.josoweb.com/josoko-db/entry_401 "まおり⚤結城真織")  
 [![](https://www.josoweb.com/wp/wp-content/uploads/yuuki0360401-320x180.jpg) 女装子DB ゆうき](https://www.josoweb.com/josoko-db/entry_216 "ゆうき")
 
-## 新着記事
+## 新着記事 { data-search-exclude }
 
 ### 【アンケート企画】2025年の抱負・目標（回答編）
 女装子さんへのアンケート企画、回答編です。今回は「2025年の抱負・目標」についてのアンケート結果を発表します。  
@@ -49,7 +52,7 @@
 *日付：2024.11.26*  
 [查看详情](https://www.josoweb.com/josoko-db/entry_474 "ずーみん🌙")
 
-## お知らせ
+## お知らせ { data-search-exclude }
 
 ### 女装子アンケート企画にあたり質問募集します
 女装子さんへのアンケート企画を考えています。そこで女装子さんに聞いて見たいことを大募集します。  
@@ -71,7 +74,7 @@
 *日付：2023.08.20*  
 [查看详情](https://www.josoweb.com/info/entry_262 "女装子データベース登録人数50名突破")
 
-## 女装Tips
+## 女装Tips { data-search-exclude }
 
 ### 【Amazonブラックフライデー】女装子さんへオススメのアイテム
 Amazonブラックフライデーセールが始まりました。このページでは女装子さんへオススメのセールアイテムをご紹介します。  
@@ -93,3 +96,29 @@ Twitter（X）で女装子さんを探す方法をご紹介。基本となる検
 *日付：2023.08.08*  
 [查看详情](https://www.josoweb.com/tips/entry_229 "女装子の輪を広げよう！女装子を見つける4つの方法（Twitter編）")
 <!-- tcd_original_link https://www.josoweb.com/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女装子データベース__素的な女装子さんが見つかるデータベースサイト.md                             |
+| Size            | 7900 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

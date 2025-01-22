@@ -1,5 +1,8 @@
 # 人妖
 
+## 正文 { data-search-exclude }
+
+
 ![人妖](https://img3.doubanio.com/view/subject/s/public/s3241823.jpg)
 
 **作者**: [(美)劳伦斯.桑德斯](https://www.douban.com/search/%E5%8A%B3%E4%BC%A6%E6%96%AF.%E6%A1%91%E5%BE%B7%E6%96%AF) / [劳伦斯·桑德斯](https://book.douban.com/author/4619573)  
@@ -20,13 +23,13 @@
 - ![](https://img1.doubanio.com/f/shire/46e66a46baff206223e608c521bb3724536b03b6/pics/add-cart.gif) 已在[购书单](https://book.douban.com/cart)  
 - [分享到](#)  
 
-## 人妖的创作者  
+## 人妖的创作者   { data-search-exclude }
 
 ![劳伦斯·桑德斯](https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png)  
 
 [劳伦斯·桑德斯](https://book.douban.com/author/4619573/ "劳伦斯·桑德斯") 作者  
 
-## 短评  ( [全部 3 条](https://book.douban.com/subject/3197723/comments/) )
+## 短评  ( [全部 3 条](https://book.douban.com/subject/3197723/comments/) ) { data-search-exclude }
 
 [热门](https://book.douban.com/subject/3197723/comments?sort=score) / [最新](https://book.douban.com/subject/3197723/comments?sort=time) /
 
@@ -41,11 +44,11 @@
 
 > [更多短评 3 条](https://book.douban.com/subject/3197723/comments/)
 
-## 在哪儿借这本书  
+## 在哪儿借这本书   { data-search-exclude }
 
 - [江阴市图书馆](https://www.douban.com/link2/?url=http%3A%2F%2Finterlib.jylib.cn%2Fopac%2Fwebsearch%2FbookSearch%3Ffilter%3D%2528isbn%253A7805511519%2529%26cmdACT%3Dlist%26xsl%3DBOOK_list.xsl%26col1%3Disbn%26val1%3D7805511519&subject=7805511519&type=borrow&library=10003&link2key=e19998d751)  
 
-## 二手市场  
+## 二手市场   { data-search-exclude }
 
 - 有6人想读，手里有一本闲着?  
 
@@ -53,3 +56,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book) · [图书馆合作](https://book.douban.com/library_invitation) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/book/subject/3197723/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《人妖》是1988年出版的一本小说，由美籍作家劳伦斯·桑德斯创作，故事情节引人入胜。这本书围绕着多元性别的主题展开，探讨了人妖这一特殊群体的内心世界与社会挣扎。书中描写的角色通过他们的过渡经历，生动地反映了多元性别人在当时社会环境中的成长与生存状态。这个故事不仅仅是一部小说，更是对多元性别话题的深刻剖析，为读者提供了更深入的理解和反思空间。书籍的评分显示评价人数不多，亦显示出其在同类作品中的独特性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_人妖-_图书-_豆瓣.md                             |
+| Size            | 3354 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 劳伦斯·桑德斯                               |
+| Region          | 美国                               |
+| Date            | 1988-01-01                                 |
+| Tags            | 人妖, 多元性别, 小说, 社会现实, 性别认同, 过渡经历, 个人故事, 文学作品, 劳伦斯·桑德斯, 山东友谊出版社                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

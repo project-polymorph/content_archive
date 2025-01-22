@@ -1,5 +1,8 @@
 # 拜登对跨性别人士的政策有内在矛盾
 
+## 正文 { data-search-exclude }
+
+
 日期：2021-04-20  
 作者：[Joe Carter](https://profile/joe-carter)  
 来源：[福音联盟英文网站](https://www.thegospelcoalition.org/article/the-radical-incoherence-of-bidens-transgender-policy/)  
@@ -86,3 +89,29 @@
 编辑：福音联盟  
 版权：© 2021 The Gospel Coalition. All rights reserved.
 <!-- tcd_original_link https://www.tgcchinese.org/article/the-radical-incoherence-of-bidens-transgender-policy -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_拜登对跨性别人士的政策有内在矛盾_-_福音联盟.md                             |
+| Size            | 13804 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

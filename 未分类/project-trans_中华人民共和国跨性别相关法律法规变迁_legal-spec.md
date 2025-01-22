@@ -1,5 +1,8 @@
 # 中华人民共和国跨性别相关法律法规变迁
 
+## 正文 { data-search-exclude }
+
+
 - [2001-01-01](https://github.com/mtf-wiki/legal-spec/commit/2001-01-01): 中国精神障碍分类及诊断标准（第三版）
 - [2002-09-04](https://github.com/mtf-wiki/legal-spec/commit/2002-09-04): 公治〔2002〕131 号 公安部三局关于公民实施变性手术后变更户口登记性别项目有关问题的批复
 - [2002-11-05](https://github.com/mtf-wiki/legal-spec/commit/2002-11-05): 关于公民实施变性手术后变更户口登记性别项目有关问题的通知
@@ -30,3 +33,29 @@
 - [2022-11-30](https://github.com/mtf-wiki/legal-spec/commit/2022-11-30): 药品网络销售禁止清单（第一版）
 - [2023-07-10](https://github.com/mtf-wiki/legal-spec/commit/2023-07-10): 国家药监局综合司关于《药品网络销售禁止清单（第一版）》有关问题的复函
 <!-- tcd_original_link https://project-trans.org/legal-spec/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | project-trans_中华人民共和国跨性别相关法律法规变迁_legal-spec.md                             |
+| Size            | 4235 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 国际不再恐同日：联合国难民署呼吁保护性少数难民免遭“虐待和侮辱”
 
+## 正文 { data-search-exclude }
+
+
 ![来自萨尔瓦多的性少数群体权益活动人士任命来自萨尔瓦多的性少数群体活动人士比安卡·罗德里格斯（Bianka Rodriguez）今天在5月17日“国际不再恐同日”到来之际，被任命为联合国难民署的首位“变性人高级支助者”。](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/17-05-21-UNHCR-Bianka-Rodriguez-trans-activist-LGBTI-Salvador.jpg/image1170x530cropped.jpg)
 
 © 难民署图片/Tito Herrera
@@ -24,7 +27,7 @@
 
 格兰迪表示，“每一位性少数群体人士都理应能够和平与安全地在自己的国家生活，难民署将继续为了这一目标而呼吁。在这一目标得以实现之前，我们需要各国慷慨接纳那些寻求庇护的人。难民署也将确保性少数群体难民能够获得他们所需要的支持，无论在世界的哪一个角落。”
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 - [国际不再恐同日](/zh/tags/guojibuzaikongtongri)
 
@@ -40,3 +43,29 @@
 
 5月17日是“国际不再恐同日”。联合国秘书长古特雷斯发表[致辞](https://www.un.org/sg/en/content/sg/statement/2020-05-17/secretary-generals-message-the-international-day-against-homophobia-biphobia-and-transphobia)，呼吁各地人民支持性少数群体自由、平等生活的权利。
 <!-- tcd_original_link https://news.un.org/zh/story/2021/05/1084182 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_国际不再恐同日：联合国难民署呼吁保护性少数难民免遭“虐待和侮辱”.md                             |
+| Size            | 4717 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

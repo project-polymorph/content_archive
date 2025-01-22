@@ -1,5 +1,8 @@
 # 男の娘 - 三個紅爆日本的偽娘，網民 ：可愛過女人！
 
+## 正文 { data-search-exclude }
+
+
 撰文：區嘉頌  
 出版：2018-03-16  
 更新：2018-06-10  
@@ -36,3 +39,29 @@ Opener 日本學會今日漢字【偽物】ni se mo no意思：假的東西
 今日日本  
 日本文化  
 <!-- tcd_original_link https://www.hk01.com/%E9%96%8B%E7%BD%90/168841/%E7%94%B7%E3%81%AE%E5%A8%98-%E4%B8%89%E5%80%8B%E7%B4%85%E7%88%86%E6%97%A5%E6%9C%AC%E7%9A%84%E5%81%BD%E5%A8%98-%E7%B6%B2%E6%B0%91-%E5%8F%AF%E6%84%9B%E9%81%8E%E5%A5%B3%E4%BA%BA -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【男の娘】三個紅爆日本的偽娘網民：可愛過女人！_-_香港01.md                             |
+| Size            | 2980 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

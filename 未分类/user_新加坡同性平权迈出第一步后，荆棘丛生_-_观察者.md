@@ -1,5 +1,8 @@
 # 新加坡同性平权迈出第一步后，荆棘丛生
 
+## 正文 { data-search-exclude }
+
+
 来源: 世界说  
 日期: 2022-08-30 20:40  
 
@@ -9,7 +12,7 @@
 
 尽管拟议废除377A无法弥补LGBTQ+人士在过去多年因其性取向而曾经遭受的歧视，但是这个缓慢而微小的进步，也意味着新加坡的性少数群体在平权方面获得了进展。这也自1997年在国会辩论377A的存废以来，政府首次给出了清晰的答案。
 
-## 反同：殖民主义的遗产
+## 反同：殖民主义的遗产 { data-search-exclude }
 
 377A是新加坡在英国殖民统治时期出台的一项法律，于1938年由殖民政府加入《刑法典》，此法条规定任何男性在公开场合或私下实施，或教唆实施，或促使或试图促使任何男性实施与另一男性的任何严重猥亵行为，应被判处监禁，刑期可长达2年。
 
@@ -35,7 +38,7 @@
 
 考虑到新加坡在性取向多元化发展上的过度保守，被国际社会诟病已久，有损作为发达国家开放包容的国际形象，总理李显龙在国庆演讲推动同性恋非罪化，具有清除殖民主义遗毒和展现国家进步形象的双重意义。
 
-## 亚洲粉红点
+## 亚洲粉红点 { data-search-exclude }
 
 同性恋能够在新加坡走上非罪化道路，与“粉红点 （Pink Dot SG）”运动十几年来的努力分不开。
 
@@ -57,7 +60,7 @@
 
 这种态度似乎也代表了大部分新加坡人——将个人生活与公共生活分开，不干涉个人，但也不在公共领域讨论此类话题。
 
-## 利益交织 保守底色难改
+## 利益交织 保守底色难改 { data-search-exclude }
 
 废除377A是否意味着新加坡在走向性取向以及家庭组成方式多元化的方向呢？答案是否定的。李显龙已经表示，废除377A的同时，新加坡将会修宪保护一男一女的婚姻定义。
 
@@ -95,3 +98,29 @@
 
 以上内容为用户在观察者网风闻社区上传并发布，仅代表发帖用户观点。发表于美国
 <!-- tcd_original_link https://user.guancha.cn/main/content?id=840434&s=fwtjgzwz -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | user_新加坡同性平权迈出第一步后，荆棘丛生_-_观察者.md                             |
+| Size            | 11867 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

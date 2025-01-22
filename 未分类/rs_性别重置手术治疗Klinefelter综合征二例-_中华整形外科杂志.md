@@ -1,5 +1,8 @@
 # 性别重置手术治疗Klinefelter综合征二例
 
+## 正文 { data-search-exclude }
+
+
 **•** 病例报告与文献综述 **•**
 
 **摘要**
@@ -27,7 +30,7 @@ DOI：10.3760/cma.j.issn.1009-4598.2018.08.018
 
 ![一系列性别重置手术以后，患者重拾自信，生活满意](https://rs.yiigle.com/8e5d8480-cc7d-45b6-81fb-951aaa2b170c)
 
-## 临床资料
+## 临床资料 { data-search-exclude }
 
 **例1：** 患者男，38岁，自幼出现女性化表现，并逐渐明显，爱与女性交往，喜欢穿女性服饰。25岁结婚至37岁离婚，一直未与妻子发生性关系，对男士有爱慕情感，对女性无兴趣，强烈要求性别改变，2008年9月以Klinefelter综合征收入院。检查：身高1.78 cm，四肢细长，无阴毛及腋毛，阴茎较短小，能正常勃起，勃起后长6 cm，双睾丸约1.5 cm×1.0 cm×0.5 cm，无压痛，阴囊内未及异常包块，直肠指诊可及前列腺，双侧乳房对称，平躺时可见乳腺组织发育。染色体核型分析为47，XXY，血睾丸酮0.38 ng/ml，血卵泡刺激素49.62 mlU/ml，催乳素16.53 ng/ml，黄体生成素13.5 mlU/ml。B型超声波检查：腹腔未见卵泡巢，前列腺隐约可见。染色体核型分析及性激素检查后，确诊为Klinefelter综合征。患者强烈要求成为女性，遂进行性别重置手术，性别选择为女性。
 
@@ -37,7 +40,7 @@ DOI：10.3760/cma.j.issn.1009-4598.2018.08.018
 
 行性别重置手术，性别选择为女性。手术方法同病例1，阴道上皮采用双侧阴股沟筋膜岛状瓣覆盖。切除的睾丸组织送病理检查，病理诊断：双侧睾丸间质纤维组织增生及玻璃变样，间质细胞空泡变，可见小量曲细精管，被覆支持细胞，部分支持细胞不成熟。后又施行了重睑术、隆鼻术、隆乳术。
 
-## 讨论
+## 讨论 { data-search-exclude }
 
 Klinefelter综合征的病因学是由于双亲之一的生殖细胞形成过程中发生了染色体的不分离或减数分裂，多了1条X染色体，形成了核型为47，XXY。在男性中发病率0.8%～2.0%。Klinefelter综合征47，XXY的染色体核型导致了患者多倾向于女性的基因。本组2例的雄性激素水平显著低于男性正常值，而雌激素显著高于男性正常水平，这就使患者具有了女性染色体和激素的物质基础，导致他们在性别选择上更倾向于女性，也是进行性别重置手术时选择女性的主要依据。
 
@@ -57,3 +60,29 @@ Klinefelter综合征的病因学是由于双亲之一的生殖细胞形成过程
 **通信作者：** 潘柏林，Email： [purlin_pan@sina.com](mailto:purlin_pan@sina.com)  
 **伦理证明：** 本研究已参考赫尔辛基宣言。
 <!-- tcd_original_link https://rs.yiigle.com/cmaid/1061672 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | rs_性别重置手术治疗Klinefelter综合征二例-_中华整形外科杂志.md                             |
+| Size            | 6161 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

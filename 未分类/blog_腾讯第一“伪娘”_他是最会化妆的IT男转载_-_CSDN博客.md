@@ -1,5 +1,8 @@
 # 腾讯第一“伪娘” 他是最会化妆的IT男
 
+## 正文 { data-search-exclude }
+
+
 ![腾讯第一“伪娘” 他是最会化妆的IT男](http://upload.chinaz.com/2016/1229/6361862092056981447332313.jpeg)
 
 ![腾讯第一“伪娘” 他是最会化妆的IT男](http://upload.chinaz.com/2016/1229/6361862092063221451845638.jpeg)
@@ -19,3 +22,29 @@
 
 有媒体采访称为“特立独行的长发男子”、“腾讯第一伪娘”，与“度娘”齐名。
 <!-- tcd_original_link https://blog.csdn.net/congbaba/article/details/53929958 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | blog_腾讯第一“伪娘”_他是最会化妆的IT男转载_-_CSDN博客.md                             |
+| Size            | 1400 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

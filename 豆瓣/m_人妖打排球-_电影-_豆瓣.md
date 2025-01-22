@@ -1,5 +1,8 @@
 # 人妖打排球 (豆瓣)
 
+## 正文 { data-search-exclude }
+
+
 ![人妖打排球海报](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2402952101.webp)
 
 **导演**: [翁乙](https://www.douban.com/personage/27527487/)  
@@ -71,3 +74,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/subject/1294084/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《人妖打排球》是一部由翁乙执导的泰国喜剧电影，改编自1996年泰国男子排球队取得冠军的真实故事。影片讲述了一支由变性人和同性恋者组成的业余排球队的奋斗历程。虽然队员的排球技艺备受赞誉，但他们的性别身份却引起了外界的广泛讨论和争议。剧情展示了队员之间的内部矛盾、外界的嘲讽与排斥，以及他们在追求自我价值和尊严过程中的坚持与努力。影片于2000年9月10日上映，并在第51届柏林国际电影节上获奖，受到观众的好评与争议。该电影不仅展现了运动员的拼搏精神，也深刻反映了LGBTQ群体的真实生存状态与社会认同问题。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_人妖打排球-_电影-_豆瓣.md                             |
+| Size            | 4702 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 翁乙                               |
+| Region          | 泰国                               |
+| Date            | 2000-09-10                                 |
+| Tags            | 人妖打排球, 变性人, 体育电影, 泰国电影, LGBTQ, 社会认同, 性别议题, 电影介绍, 真实故事, 柏林国际电影节                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

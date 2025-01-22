@@ -1,5 +1,8 @@
 # 非二元性别小组
 
+## 正文 { data-search-exclude }
+
+
 ![非二元性别](https://img3.doubanio.com/view/group/sqxs/public/0c43cbccc86ae17.webp)
 
 创建于2021-08-20     组长：[白树](https://www.douban.com/people/134136332/)     小组类型： [情感](/group/category?id=849)
@@ -30,7 +33,7 @@
 
 组员你好，发言前请先了解本组最新的发言规则。
 
-## 最近讨论
+## 最近讨论 { data-search-exclude }
 
 | 讨论 | 作者 | 回应 | 最后回应 |
 |------|------|------|----------|
@@ -40,7 +43,7 @@
 | [【视频分享】灵魂从来没有性别之分](https://www.douban.com/group/topic/312906715/ "【视频分享】灵魂从来没有性别之分") | [白树](https://www.douban.com/people/134136332/) | 0 | 10-24 13:29 |
 | [有正在或者未来打算从事科研工作的trans/非二元性别朋友吗](https://www.douban.com/group/topic/306252676/ "有正在或者未来打算从事科研工作的trans/非二元性别朋友吗") | [时祺](https://www.douban.com/people/194150196/) | 11 | 10-05 18:43 |
 
-## 友情小组
+## 友情小组 { data-search-exclude }
 
 - [性别厌恶者](https://www.douban.com/group/agender/) (329)
 - [跨性别分享社](https://www.douban.com/group/642538/) (3923)
@@ -49,3 +52,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司
 <!-- tcd_original_link https://m.douban.com/group/729666/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件介绍了在豆瓣平台上创建的“非二元性别小组”，该小组于2021年8月20日由组长白树发起，旨在为非二元性别群体的成员提供一个安全和支持的交流平台。小组的目的在于声明性别身份的不局限性，强调除了传统的男女性别，还有其他性别认同以及性别表达的方式。小组设定了发言规则，旨在维护社区的良好氛围，并严禁发布不当内容。此外，文件还列出了近期的讨论话题和相关链接，鼓励小组成员积极参与讨论。小组的标签包括性别认同、跨性别、其他性别、酷儿以及性别酷儿，旨在让更多人了解和支持非二元性别群体的多样性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_非二元性别小组_-_豆瓣.md                             |
+| Size            | 3672 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 白树（小组组长）                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-08-20                                 |
+| Tags            | 非二元性别, 豆瓣小组, 性别认同, 跨性别, 性别多样性, 酷儿, 社会支持, 性别表达, 发言规则, 小组讨论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

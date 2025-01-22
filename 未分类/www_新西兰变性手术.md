@@ -1,12 +1,15 @@
 # 新西兰变性手术
 
-## ![the post-surgery diet after a sex change operation](https://www.kamolhospital.com/uploads/blog/661/data/649980c8e0955.jpg)
+## 正文 { data-search-exclude }
 
-## 新西兰变性手术后的术后饮食是什么？
+
+## ![the post-surgery diet after a sex change operation](https://www.kamolhospital.com/uploads/blog/661/data/649980c8e0955.jpg) { data-search-exclude }
+
+## 新西兰变性手术后的术后饮食是什么？ { data-search-exclude }
 
 变性手术是最精致的美容治疗之一。因此，了解从饮食到其他预防措施的全部知识就成为当前最大的需要。
 
-## 新西兰变性手术 –
+## 新西兰变性手术 – { data-search-exclude }
 
 人们通常称之为性别重置手术（SRS）或性别重新确认手术，患者通过改变整体身体外观来获得性别认同。当跨性别者接受这种手术时，其身体部位在性别转变手术后的功能和外观都会有所不同。
 
@@ -14,7 +17,7 @@
 
 关于性别转换手术后或手术前稍作饮食调整的联系，人们常常关注两者之间的关联。
 
-## 嗯，有很深的联系。
+## 嗯，有很深的联系。 { data-search-exclude }
 
 采用正确和规定的饮食非常重要，因为新西兰变性手术后，人的身体会产生不同的反应，需要不同量的营养价值来保持健康并管理代谢需求。因此，手术后保持良好的饮食是必须的。
 
@@ -29,7 +32,33 @@
 
 注意：在将这些变化纳入日常生活之前，请务必与您的医疗提供者讨论。
 
-## 谁可以提供最好、安全的变性手术？
+## 谁可以提供最好、安全的变性手术？ { data-search-exclude }
 
 性别转换手术是一项复杂的医疗过程。因此，您应该咨询像咖蒙美容医院这样的领域专家。它是该地区领先的医院之一，能够帮助您在适当监督下寻求最佳治疗方案。 立即致电或发送电子邮件联系咖蒙美容医院团队！
 <!-- tcd_original_link https://www.kamolhospital.com/zh/blog/661/sex-change-operation-new-zealand -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_新西兰变性手术.md                             |
+| Size            | 2199 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 变性人是怎么补充激素的
 
+## 正文 { data-search-exclude }
+
+
 ![变性人是怎么补充激素的](//i1.hdslb.com/bfs/archive/54b97c0bcfee3b0d1fa2d8da535435a51ec62568.jpg@100w_100h_1c.webp)
 
 **来源:** 哔哩哔哩  
@@ -40,3 +43,29 @@
 
 **版权信息:** 本视频内容受版权保护，未经授权不得转载。
 <!-- tcd_original_link https://www.bilibili.com/video/BV15W4y1Z71Y/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人是怎么补充激素的_哔哩哔哩_-_bilibili.md                             |
+| Size            | 1896 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

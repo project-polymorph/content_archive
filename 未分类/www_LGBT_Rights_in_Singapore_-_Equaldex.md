@@ -1,6 +1,9 @@
 # LGBT Rights in Singapore
 
-## Homosexuality
+## 正文 { data-search-exclude }
+
+
+## Homosexuality { data-search-exclude }
 
 ⚢ **✔ Legal**
 
@@ -62,7 +65,7 @@
 
 💬 Join Equaldex's **[LGBTQ+ Discord](/discord)** to discuss LGBT rights and chat!
 
-## Public Opinion
+## Public Opinion { data-search-exclude }
 
 ### Support for LGBT people to be open about their sexual orientation or gender identity (2024)
 
@@ -361,7 +364,7 @@
 | Singapore  | 71.56%         | 5.49%      |
 | Study Avg. | 71.6%          | 9.2%       |
 
-## History
+## History { data-search-exclude }
 
 ### Homosexual activity in Singapore
 
@@ -547,7 +550,7 @@ The age of consent in Singapore is 16 for opposite-sex sexual activity, female-f
 
 Sources: [bbc.com/news/world-asia-62545577](https://www.bbc.com/news/world-asia-62545577)
 
-## LGBT Rights by District
+## LGBT Rights by District { data-search-exclude }
 
 View the LGBT laws in each individual district of Singapore.
 
@@ -580,9 +583,35 @@ View the LGBT laws in each individual district of Singapore.
 - ![Vietnam Flag](/media/flags/shiny/64/vietnam.png)
 #### LGBT Rights in Vietnam
 
-## Copyright Information
+## Copyright Information { data-search-exclude }
 
 Equaldex uses cookies. This site uses cookies to deliver and enhance the quality of its services and to analyze traffic.
 
 [Privacy Policy](/privacy) [Terms and conditions](/terms)
 <!-- tcd_original_link https://www.equaldex.com/region/singapore -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBT_Rights_in_Singapore_-_Equaldex.md                             |
+| Size            | 28337 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

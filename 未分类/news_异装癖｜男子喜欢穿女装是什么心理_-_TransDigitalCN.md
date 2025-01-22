@@ -1,6 +1,9 @@
 # 异装癖｜男子喜欢穿女装是什么心理?
 
-## 正文
+## 正文 { data-search-exclude }
+
+
+## 正文 { data-search-exclude }
 
 2019-02-11 13:53 来源: [璇紫教育咨询有限公司](https://www.sohu.com/?spm=smpc.content-abroad.content.1.1730981786860Nh7TU2j)
 
@@ -84,3 +87,29 @@
 
 本文由跨性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
 <!-- tcd_original_link https://news.transchinese.org/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB/www_%E5%BC%82%E8%A3%85%E7%99%96%EF%BD%9C%E7%94%B7%E5%AD%90%E5%96%9C%E6%AC%A2%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%98%AF%E4%BB%80%E4%B9%88%E5%BF%83%E7%90%86_-_%E6%90%9C%E7%8B%90/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_异装癖｜男子喜欢穿女装是什么心理_-_TransDigitalCN.md                             |
+| Size            | 9334 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

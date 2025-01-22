@@ -1,5 +1,8 @@
 # 变性手术泛滥成灾 中国变性首倡者呼吁刹车
 
+## 正文 { data-search-exclude }
+
+
 更新 2001-02-20 12:48 AM 人气 65
 
 标签: 多元性别, 变性手术
@@ -20,7 +23,7 @@
 
 被许多易性病患者视为“再生父亲”的何清濂说，希望有关卫生主管部门尽早制定我国变性手术的相关规范和标准，同时通过严格考核在全国范围内选定数家人才、技术、设备达标的医院作为变性手术的定点医院，以保证我国的变性手术健康发展。
 
-## 相关文章
+## 相关文章 { data-search-exclude }
 
 - [舞蹈家金星坦露绝对隐私](http://epochtimes.com/news/epochnews/newscontent.asp?ID=41123) (1/30/2001)     
 - [中国首例变性人告整形医院案被法院受理](http://epochtimes.com/news/epochnews/newscontent.asp?ID=38174) (1/22/2001)     
@@ -31,3 +34,29 @@
 
 “大纪元将选取精彩读者评论在全球报纸版面上刊登，请您与我们一起记录历史。” “大纪元保留删除脏话贴、下流话贴、攻击个人信仰贴等恶意留言的权利。”
 <!-- tcd_original_link https://www.epochtimes.com/gb/1/2/20/n49136.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性手术泛滥成灾中国变性首倡者呼吁刹车_大纪元.md                             |
+| Size            | 4279 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

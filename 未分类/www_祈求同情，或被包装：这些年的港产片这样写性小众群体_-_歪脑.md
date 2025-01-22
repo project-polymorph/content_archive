@@ -1,5 +1,8 @@
 # 祈求同情，或被包装：这些年的港产片这样写性小众群体
 
+## 正文 { data-search-exclude }
+
+
 关锦鹏曾在1998年拍过纪录片《男生女相》，用80分钟篇幅讲述华语电影在当代如何讲述、描绘性别，率先用西方酷儿文化(Queer Culture)视角讨论性别在电影中的呈现。但这之前，他用更私密、个人的角度，更见微知着地拍了另一部纪录片《念你如昔》，讲自己和母亲的关系。在其中他已算切切实实公开性取向——行内人大多早知道，他又借这部片向观众出柜。
 
 独立导演洪荣杰觉得，可能因为关锦鹏先这样做，之后酷儿导演们在工作领域是否出柜已不是问题，“但我在找演员和制作单位的时候，一定会告诉他们我为什么要拍这部戏，这对我来说很重要。”
@@ -12,13 +15,13 @@
 
 影评人易以闻说，多年来其实香港主流影视作品和观众眼光没变过。“同性恋和性小众群体在九十年代的银幕上要么就变态，要么就乞求同情，要么就被包装到符合异性恋审美和理念的极致，给异性恋观众一个幻觉，令他们以为自己能够接受LGBT。”
 
-## **讨论香港电影中的LGBT，离不开“任白”**
+## **讨论香港电影中的LGBT，离不开“任白”** { data-search-exclude }
 
 ![任白](https://shorthand.wainao.me/LGBTQ-in-Hongkong-Movies/assets/I7XYhzcvjc/fallback-1920x1080.jpeg)
 
 “任白”指的是香港粤剧名家任剑辉和白雪仙。（网络图片）
 
-## **被压抑、被接纳后，仍是异性恋的文本模样**
+## **被压抑、被接纳后，仍是异性恋的文本模样** { data-search-exclude }
 
 ![张彻电影作品中的姜大卫和狄龙](https://shorthand.wainao.me/LGBTQ-in-Hongkong-Movies/assets/D9xyplO4l4/-1200x1615.jpeg)
 
@@ -44,7 +47,7 @@
 
 ![《基佬四十》(1997)](https://shorthand.wainao.me/LGBTQ-in-Hongkong-Movies/assets/ofIkjhEw1c/-237x322.jpeg)
 
-## **如今港产片的性小众形象还在乞求同情**
+## **如今港产片的性小众形象还在乞求同情** { data-search-exclude }
 
 ![电影 《Forever 17》预告片片段。（视频来源：YouTube）](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -82,7 +85,7 @@
 
 《女人就是女人》没有主流电影公司支持，由监制牵线，精打细算筹集资金，用最简单的方法，最少的钱拍。孙明希一开始就知道本地几个大发行商想也不用想，制作完成后，监制找到“影意志”合作，只是找戏院上映并不容易。“我们必须要逐个礼拜甚至逐日计算自己的成绩，才可以在下个礼拜继续找到戏院上映，有时候会今天看看够不够数，明天还能继续开吗？后来所有亲友都被我骗去看了。也因为是题材冷门的独立电影，会被安排到不那么好的时段，没那么好的日子。”离开院线，团队自己再去联络小型场地，“希望大众可以多认识跨性别群体。”
 
-## **性别是一种介入**
+## **性别是一种介入** { data-search-exclude }
 
 ![导演李骏硕（图：天下一）](https://s3cdn.wainao.me/2020-11/Shorthand%20Articles/LiJunshuo.jpeg)
 
@@ -106,14 +109,40 @@
 
 孙明希对于将来，对于同龄的这一代人，有一些期待。
 
-## 标签
+## 标签 { data-search-exclude }
 - #LGBTQ
 - #香港
 
-## 版权
+## 版权 { data-search-exclude }
 - 文章来源：Wainao
 - 文章链接：[点击此处](https://shorthand.wainao.me/LGBTQ-in-Hongkong-Movies) 
 
-## 评论
+## 评论 { data-search-exclude }
 *无相关评论*
 <!-- tcd_original_link https://www.wainao.me/wainao-reads/lgbtq-in-hongkong-movies-20201116 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_祈求同情，或被包装：这些年的港产片这样写性小众群体_-_歪脑.md                             |
+| Size            | 18234 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

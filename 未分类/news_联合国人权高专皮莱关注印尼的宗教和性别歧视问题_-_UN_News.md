@@ -1,5 +1,8 @@
 # 联合国人权高专皮莱关注印尼的宗教和性别歧视问题
 
+## 正文 { data-search-exclude }
+
+
 ![人权高专皮莱](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2012/10/15788/image1170x530cropped.jpg)
 
 **时间**: 2012年11月13日
@@ -14,3 +17,29 @@
 
 皮莱指出，在印尼亚齐省推行的《伊斯兰教法》的严苛程度尤其令人忧虑。这项于２０１０年正式生效的新法律任意且强制施行残酷的处罚，其中包括对通奸犯处以鞭刑、甚至是乱石砸死。警方经常对发廊等人群聚集的公共场所进行扫荡，由此创造了一个恐吓和恐惧的环境。此外，有关警察暴力侵害同性恋、双性恋、变性和跨性别者权利的报道时有发生。她就此敦促当局加强对相关弱势群体的保护。
 <!-- tcd_original_link https://news.un.org/zh/story/2012/11/183412 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_联合国人权高专皮莱关注印尼的宗教和性别歧视问题_-_UN_News.md                             |
+| Size            | 2838 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

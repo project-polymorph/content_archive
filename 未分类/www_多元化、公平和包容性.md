@@ -1,5 +1,8 @@
 # 多元化、公平和包容性
 
+## 正文 { data-search-exclude }
+
+
 缔造一个公平和具有包容性的环境，让每一位都能有所作为
 
 ![多元化、公平和包容性](https://example.com/globalassets/2-assets/about/dei/diversity-equity-inclusion-hero.jpg?t=20211208045206)
@@ -8,7 +11,7 @@
 公平消除了隔阂并提供获得成功的机会  
 包容性让员工可以维持真实的自我
 
-## 首份多元化、公平和包容性报告（英文版本）
+## 首份多元化、公平和包容性报告（英文版本） { data-search-exclude }
 
 我们在第一份报告中彰显霸菱在多元化、公平和包容性策略方面取得的显著进展，以及我们的团队每天致力在霸菱培养公平和包容性文化所作出的努力。
 
@@ -32,7 +35,7 @@
 
 创造共同参与有关多元化、公平和包容性议题的机会，并在公司内外建立伙伴关系，以参与、推进和支持相关活动
 
-## 合作和承诺
+## 合作和承诺 { data-search-exclude }
 
 ![Institutional Limited Partners](https://example.com/globalassets/2-assets/about/dei/logos/institutional-limited-partners.png?t=20220418033628)  
 ![CEO Action for Diversity](https://example.com/globalassets/2-assets/about/dei/logos/ceo-action-for-diversity.png?t=20220418033628)  
@@ -68,7 +71,7 @@
 
 [了解更多](https://example.com/zh-cn/individual/about/our-people-remel-anno-barnieh)
 
-## 员工资源小组
+## 员工资源小组 { data-search-exclude }
 
 员工资源小组是由员工主导的团队，协助霸菱促进参与、发展和学习的机会，宣扬多元化和具包容性的企业文化。在以下的视频中，我们的团队将向大家分享霸菱的员工资源小组如何让他们在工作中真实地表现自我。
 
@@ -114,7 +117,7 @@
 
 [立即观看](https://example.com/zh-cn/individual/about/dei/barings-veterans-network)
 
-## 关于霸菱
+## 关于霸菱 { data-search-exclude }
 
 ### 就业机会
 
@@ -128,3 +131,29 @@
 
 [了解更多](https://example.com/zh-cn/individual/about/who-we-are)
 <!-- tcd_original_link https://www.barings.com/zh-cn/individual/about/diversity-equity-and-inclusion -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_多元化、公平和包容性.md                             |
+| Size            | 6827 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

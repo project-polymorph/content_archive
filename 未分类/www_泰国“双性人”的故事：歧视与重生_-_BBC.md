@@ -1,5 +1,8 @@
 # 泰国“双性人”的故事：歧视与重生
 
+## 正文 { data-search-exclude }
+
+
 ![Ambiguity](https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/DBF8/production/_113121365_intersex2.jpg.webp)
 
 图像来源，Rachaphon Riansiri/BBC Thai
@@ -22,7 +25,7 @@ EK之后开启了漫长的征途，并希望社会尊重他的心愿。
 -   [跨越性别的香港人：不能只用胸来决定男女](/zhongwen/simp/chinese-news-46450690)
 -   [台湾内政部首次承认跨性别婚姻登记](/zhongwen/simp/china/2013/08/130807_twn_transgender_marriage)
 
-## “被取消参赛资格”
+## “被取消参赛资格” { data-search-exclude }
 
 读高中时，EK的身体开始越来越壮，有了肌肉发达的体格。这种身体变化使他面对生活经验的改变。
 
@@ -34,7 +37,7 @@ EK之后开启了漫长的征途，并希望社会尊重他的心愿。
 
 测试显示EK有男性染色体，他因而被取消参赛资格。准备代表国家参赛的喜悦，瞬间变成了恐惧。
 
-## “混乱”
+## “混乱” { data-search-exclude }
 
 EK表示：“听到结果后，我感到有人把我的台拆了。我一生都是个女孩，而且我的女性生殖器也像其他女孩一样。” “但现在我是谁？我变成了什么？我感到困惑和尴尬。我把自己关了起来。”
 
@@ -54,7 +57,7 @@ EK被朋友和周围的人嘲弄，称他为“一个有断掉阴茎的人”。
 -   [记者来鸿：变性佳丽 怎样才算最美？](/zhongwen/simp/fooc-39104171)
 -   [英媒：金星的故事反映中国社会变化](/zhongwen/simp/press-review-38932824)
 
-## 新生活
+## 新生活 { data-search-exclude }
 
 EK决定搬到曼谷寻找新生活，并找到了一份工作。他以女性的身份申请了这份工作。在泰国，姓名通常以特定性别的词语开头，类似于先生，小姐或太太。这是官方认定的作法，因此若要在法律上更改，将会十分复杂。
 
@@ -64,7 +67,7 @@ EK决定搬到曼谷寻找新生活，并找到了一份工作。他以女性的
 
 他经受了三个月的孤立跟严格检视，直到他找到一份新工作，但EK又发现自己再次陷入困境。
 
-## “虚假身份”
+## “虚假身份” { data-search-exclude }
 
 “起初，一切都很好，但是几周后他们又发现我的“女性身份”。这次真是太恐怖了。为了满足他们的好奇心，一群男人压住我，往我的股沟看去。我为此沮丧万分。”
 
@@ -84,7 +87,7 @@ Play video, "I am neither man nor a woman (holding)", 节目全长 2,5402:54
 
 EK存了钱，并不久后开始经营一家小杂货店，同时还靠担任电工赚取额外收入。过着平顺的生活好几年。然而，有一天女友甚至连再见都没说就离开了他。
 
-## 危机
+## 危机 { data-search-exclude }
 
 “我很茫然。我对她做了什么了？她为什么这么突然离开我？我试图找她，但她的家人说他们对她的下落一无所知。我给她打了好多电话，但都徒劳。我找了整整一个星期。突然间，我强烈地感到，如果我无法有平顺的人生，我宁愿死去。”
 
@@ -100,7 +103,7 @@ EK决定自杀，但在过程中，他不小心让附近的提款机上发出警
 
 图像加注文字，在女子监狱中的生活使他得到了很好的照顾，他却被女囚们宠爱。
 
-## 监狱生活
+## 监狱生活 { data-search-exclude }
 
 在女子监狱中的生活使他得到了很好的照顾，他却被女囚们宠爱。EK第一次感到自己过着美好的生活。
 
@@ -114,7 +117,7 @@ EK决定回到监狱。他因此开始切断自动柜员机的电线，他再度
 
 但EK的计划失败了，他很快就被释放。
 
-## 出路
+## 出路 { data-search-exclude }
 
 在监狱中，E​​K参加了一个非政府组织（NGO）关于性别问题的讲座，并首次听到了“双性人”一词。在NGO团体的建议和帮助下，EK发现他能合法地放弃自己的女性称谓，并被视为男人。
 
@@ -130,7 +133,7 @@ EK花了5个月的时间来获取所需的相关证明文件。
 
 图像加注文字，在泰国，姓名通常以特定性别的词语开头，类似于先生，小姐或太太。若要在法律上更改，将会十分复杂。
 
-## “重磅炸弹”
+## “重磅炸弹” { data-search-exclude }
 
 6月24日上午，他一次又一次地检查申请文件，以确保没有任何遗漏。他前往出生地乌隆他尼（Udon Thani）的办事处，去正式登记更改他的性别称谓。
 
@@ -142,7 +145,7 @@ EK花了5个月的时间来获取所需的相关证明文件。
 
 EK因此必须回到老家，再尝试重新申请。
 
-## 认同
+## 认同 { data-search-exclude }
 
 第二天，EK与尚未“接受”其性别的母亲和一位老知己陪同，到了当地办公室。
 
@@ -170,7 +173,7 @@ EK因此必须回到老家，再尝试重新申请。
 -   马来西亚（_+60_）：生命线协会 _(03) 4265 7995_；_Befrienders (03) 7956 8145_
 -   英国（_+44_）：_BBC Action Line_ [www.bbc.co.uk/actionline](/actionline)；撒玛利亚会 _08457 90 90 90_
 
-## 更多相关内容
+## 更多相关内容 { data-search-exclude }
 
 -   ![泰国首位变性总理候选人期许带来更多平等。](https://ichef.bbci.co.uk/ace/ws/660/cpsprodpb/AC6F/production/_105934144_thaitransgender-afp.jpg.webp)
     
@@ -208,3 +211,29 @@ EK因此必须回到老家，再尝试重新申请。
     
     2017年2月22日
 <!-- tcd_original_link https://www.bbc.com/zhongwen/simp/world-53426775 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国“双性人”的故事：歧视与重生_-_BBC.md                             |
+| Size            | 12458 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

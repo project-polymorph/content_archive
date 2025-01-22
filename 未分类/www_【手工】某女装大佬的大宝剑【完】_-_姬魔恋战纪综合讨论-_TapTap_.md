@@ -1,5 +1,8 @@
 # 某女装大佬的大宝剑手工制作
 
+## 正文 { data-search-exclude }
+
+
 **来源**: TapTap 姬魔恋战纪论坛  
 **作者**: 时光丿曼凡  
 **时间**: 2018/04/12  
@@ -73,3 +76,29 @@ emmm
 
 以上为手工制作的内容及讨论。
 <!-- tcd_original_link https://www.taptap.cn/moment/15214117073715909 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【手工】某女装大佬的大宝剑【完】_-_姬魔恋战纪综合讨论-_TapTap_.md                             |
+| Size            | 2419 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

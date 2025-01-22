@@ -1,5 +1,8 @@
 # 泰国人妖表演那些事 人妖秀99%是中国游客
 
+## 正文 { data-search-exclude }
+
+
 ![人妖表演](https://thumb.vancdn.com/van/info/2013/02/0_201302200020281IjiJ_w750_da1a.jpg)
 
 **时间**: 2013-02-19  
@@ -74,3 +77,29 @@ The above picture comes from "网易博客"
 
 版权 © 2008-2025 VanPeople.com All Rights Reserved. 人在温哥华网 版权所有
 <!-- tcd_original_link https://info.vanpeople.com/240829.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | info_泰国人妖表演那些事人妖秀99%是中国游客_-_新闻资讯-_Vanpeople.md                             |
+| Size            | 11121 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

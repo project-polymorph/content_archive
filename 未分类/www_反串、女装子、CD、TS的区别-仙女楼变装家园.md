@@ -1,5 +1,8 @@
 # 女装子、变装、反串、CD、TS的区别
 
+## 正文 { data-search-exclude }
+
+
 ![](https://www.xiannvlou.cn/wp-content/uploads/QQ20140320200255.jpg)
 
 **本站公告：**沐楹商贸-仙女楼变装倡导 - 男扮女装大佬只是一种爱好，请勿过度沉迷！拒绝娘炮，传递正能量。 不良信息举报/投诉/投稿：2561250612@qq.com
@@ -30,3 +33,29 @@ CD和TS是完全对立的两种情况，因此要放到一起来说。CD是纯�
 
 转载请注明：[仙女楼变装家园](https://www.xiannvlou.cn/) » [女装子、变装、反串、女装子、CD、TS的区别](https://www.xiannvlou.cn/342.html)
 <!-- tcd_original_link https://www.xiannvlou.cn/342.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_反串、女装子、CD、TS的区别-仙女楼变装家园.md                             |
+| Size            | 5632 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

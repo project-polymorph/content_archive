@@ -1,5 +1,8 @@
 # 那些活在梦里的人
 
+## 正文 { data-search-exclude }
+
+
 ![](https://img9.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/29998-20211225034426)
 
 来自: [影志 (北京)](https://www.douban.com/people/tjz230/) 2007-02-19 14:34:14创建   2021-12-25 03:44:26更新
@@ -285,10 +288,10 @@
     > 评语： 用玉米粒当算盘籽，如何从成人的世界识别假笑……
     2014-10-25 00:19:08 
 
-## 这个片单的标签 
+## 这个片单的标签  { data-search-exclude }
 [电影](https://www.douban.com/tag/电影/?focus=doulist)
 
-## 最新留言 
+## 最新留言  { data-search-exclude }
 - [![[已注销]](https://img1.doubanio.com/icon/u39965642-60.jpg)](https://www.douban.com/people/atuzi/) [\[已注销\]](https://www.douban.com/people/atuzi/) 2011-11-26 07:58  
   [非常好的豆列，推荐加《波特小姐》 http://movie.douban.com/subject/1900121/](https://www.douban.com/doulist/29998/comments/#250272)  
 - [![阿巴厮](https://img1.doubanio.com/icon/up1078120-58.jpg)](https://www.douban.com/people/lion/) [阿巴厮](https://www.douban.com/people/lion/) 2008-02-23 17:07  
@@ -296,7 +299,7 @@
 - [![[已注销]](https://img1.doubanio.com/icon/user_normal.jpg)](https://www.douban.com/people/1099996/) [\[已注销\]](https://www.douban.com/people/1099996/) 2007-10-13 21:17  
   [这个梦有明确定义么 Stay里的ryan gosling也是吧](https://www.douban.com/doulist/29998/comments/#117476)  
 
-## 影志的其它豆列  
+## 影志的其它豆列   { data-search-exclude }
 - [【豆瓣高分纪录片/其它】(1/2)](https://www.douban.com/doulist/223273/)  (38616人关注)  
 - [★豆瓣高分电影榜★ （下）8.2-8.0分](https://www.douban.com/doulist/248893/)  (14783人关注)  
 - [【豆瓣冷门佳片】8.4-8分｜评分人数<5000](https://www.douban.com/doulist/249029/)  (10134人关注)  
@@ -305,3 +308,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/doulist/29998/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《那些活在梦里的人》是一个关于梦想与追求的多元性别相关影视作品推荐文档。文中提到了一些反映多元性别群体现状的经典电影，比如艾德·伍德（Ed Wood）和剪刀手爱德华（Edward Scissorhands），展示了主角们在社会边缘追求自我的不懈努力和冲突。这些影片不仅在情节上吸引人，更在评语中深入反映了多元性别群体在现实中的挣扎与梦想。文章中提到的影视作品皆具有特色，展示了不同角色与身份之间的紧张关系，并鼓励读者关注和理解多元性别群体的生活和追求。同时，文中还指出部分导演和主演的贡献，如蒂姆·波顿和约翰尼·德普，以及他们在这类电影中展现出的深厚情感和主题深度。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_【那些活在梦里的人】_-_豆瓣.md                             |
+| Size            | 19886 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 影志 (北京)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 电影推荐, 艾德·伍德, 剪刀手爱德华, 蒂姆·波顿, 约翰尼·德普, 梦想, 社会边缘, 自我探索, 性别表达                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

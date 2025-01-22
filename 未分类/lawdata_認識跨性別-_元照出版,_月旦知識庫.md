@@ -1,5 +1,8 @@
 # 認識跨性別
 
+## 正文 { data-search-exclude }
+
+
 ![月旦知識庫](/tw/File/Image/index-top_1.png)
 
 **作者**: [林彥慈](search_list.aspx?SearchKey=109871&type=AC&show_name=%e6%9e%97%e5%bd%a5%e6%85%88)、[王紫菡 (Tsu-Han Wang)](search_list.aspx?SearchKey=66218&type=AC&show_name=%e7%8e%8b%e7%b4%ab%e8%8f%a1)、[成令方](search_list.aspx?SearchKey=16027&type=AC&show_name=%e6%88%90%e4%bb%a4%e6%96%b9)
@@ -20,3 +23,29 @@
 ### 版权信息
 Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 <!-- tcd_original_link http://lawdata.com.tw/tw/detail.aspx?no=233106 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | lawdata_認識跨性別-_元照出版,_月旦知識庫.md                             |
+| Size            | 2303 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

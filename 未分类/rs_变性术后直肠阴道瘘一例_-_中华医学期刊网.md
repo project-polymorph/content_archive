@@ -1,5 +1,8 @@
 # 变性术后直肠阴道瘘一例 - 中华整形外科杂志
 
+## 正文 { data-search-exclude }
+
+
 ![](/imgsource.jspx?r=r/cms/zhzxwkzz/top_logo.png)
 
 **病例报告**
@@ -66,3 +69,29 @@ Chin J Plast Surg, 2009, 25(4): 307-307. DOI: [10.3760/cma.j.issn.1009-4598.2009
 
 下载全文PDF  
 <!-- tcd_original_link https://rs.yiigle.com/CN114453200904/198198.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | rs_变性术后直肠阴道瘘一例_-_中华医学期刊网.md                             |
+| Size            | 2171 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

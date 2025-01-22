@@ -1,5 +1,8 @@
 # 系列人物訪談：所以 ——「跨性別是什麼？」｜戴安娜
 
+## 正文 { data-search-exclude }
+
+
 由 zoeychung 在 週一, 2024-03-11 17:07 發表
 
 ![](https://hotline.org.tw/sites/hotline.org.tw/files/styles/width1140/public/field_insert_blog/72390C4F-29F9-4193-9D96-7D588BECE855.jpg?itok=7jVBd4xy)
@@ -44,3 +47,29 @@
 
 「我覺得這些一切都是神的安排，或許祂就是要我自己好好去面對自己的心，或許祂也不希望我動手術後若有後遺症，必須面對痛一輩子的結果，所以有了這樣的安排。」—— 此刻的戴安娜，已經解放牢裡的靈魂，並喜樂地感受身心靈的救贖。
 <!-- tcd_original_link https://hotline.org.tw/blog/3424 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hotline_系列人物訪談：所以——「跨性別是什麼？」｜戴安娜.md                             |
+| Size            | 5215 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

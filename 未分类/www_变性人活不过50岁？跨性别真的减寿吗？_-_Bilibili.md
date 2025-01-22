@@ -1,5 +1,8 @@
 # 变性后能活多久？2010年：变性人活不过40岁？2022年:变性人活不过50岁？跨性别真的减寿吗？
 
+## 正文 { data-search-exclude }
+
+
 ![变性后能活多久？2010年：变性人活不过40岁？2022年:变性人活不过50岁？跨性别真的减寿吗？](//i0.hdslb.com/bfs/archive/1fb77beb32cd77892ac9507ba608bbb33dd8f73a.jpg@518w_290h_1c_!web-video-share-cover.webp)
 
 来源: 哔哩哔哩  
@@ -31,3 +34,29 @@
 **版权声明:** 
 未经作者授权，禁止转载。
 <!-- tcd_original_link https://www.bilibili.com/video/BV11i4y1r7Nr/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性人活不过50岁？跨性别真的减寿吗？_-_Bilibili.md                             |
+| Size            | 1818 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

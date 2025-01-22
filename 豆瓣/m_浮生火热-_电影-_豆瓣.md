@@ -1,5 +1,8 @@
 # 浮生火热 Life Is Hot in Cracktown (2009)
 
+## 正文 { data-search-exclude }
+
+
 ![Life Is Hot in Cracktown](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534573239.webp)
 
 **导演:** [Buddy Giovinazzo](/subject_search?search_text=Buddy%20Giovinazzo)  
@@ -15,7 +18,7 @@
 豆瓣评分  
 暂无评分
 
-## 浮生火热的剧情简介
+## 浮生火热的剧情简介 { data-search-exclude }
 
 影片简介：  
 同一个地区，不同的人们，为着生活与生存而挣扎与忙碌：为了凑钱作变性手术，Marybeth整天需要作艰难而繁重的工作，期待和他那总爱小赌一把的爱人Benny结成真正夫妇；在welfare hotel做保安Manny需要同时在通宵充满毒品和娼妓的酒吧做他的第二份工作，才能勉强来保证养活自己的妻子和生病的孩子；10岁的Willy与姐姐，妈妈和暴躁的男朋友也住在这条街上，靠乞讨为生；街头浪子Romeo ，因为总抹不去兄弟被谋杀的伤痛，内疚于不能出现在案发现场的自己，而仇视和畏惧每个周围的人……四个故事发生在1993年，因为毒品的渗入，共同演绎生活翻天覆地的变化，用爱和救赎诠释希望。
@@ -27,7 +30,7 @@
 
 为了能够很好的诠释角色，凯丽·华盛顿专门走访变性者Valerie Spencer，聘请其作为自己的“角色”顾问，专门加入“变性者协会”，深入了解，与许多会员建立了深厚的友谊。“这样的经历非常重要，这帮助我从内心上把握很多细节，能够恰到好处的处理一些微妙的关系，让我从不同的角度体会另一个世界和另外一种社会关系。”凯丽谈到：“作为一个变行女人，我学到的是：我们不能认为她们是期待便成女人的男人，而应该把她们本身看做是女人，只不过身体的某些部位背叛了自己的女人。”
 
-## 浮生火热的演职员
+## 浮生火热的演职员 { data-search-exclude }
 
 - [巴迪·吉欧凡纳佐](https://www.douban.com/personage/27251010/ "巴迪·吉欧凡纳佐 Buddy Giovinazzo") 导演
 - [Eddie L. Fauria](https://www.douban.com/personage/27426608/ "Eddie L. Fauria Eddie L. Fauria") 演员
@@ -36,7 +39,7 @@
 - [Quddus](https://www.douban.com/personage/27386003/ "Quddus Quddus") 演员
 - [里奇·卡尼佩](https://www.douban.com/personage/27412563/ "里奇·卡尼佩 Ridge Canipe") 演员
 
-## 浮生火热的图片
+## 浮生火热的图片 { data-search-exclude }
 
 - ![图片](https://img3.doubanio.com/view/photo/sqxs/public/p2385543922.webp)
 - ![图片](https://img2.doubanio.com/view/photo/sqxs/public/p2385543921.webp)
@@ -44,7 +47,7 @@
 - ![图片](https://img9.doubanio.com/view/photo/sqxs/public/p2385543915.webp)
 - ![图片](https://img3.doubanio.com/view/photo/sqxs/public/p2385543913.webp)
 
-## 浮生火热的短评
+## 浮生火热的短评 { data-search-exclude }
 
 ### 1 [CharlesChou](https://www.douban.com/people/CharlesChou/) 看过 2013-04-07 14:18:49
 赤裸不加修饰，底层人民生活的惨烈度和天朝有得一拼。小男孩演技很神。四条线最后收束得都不够有力，只能说看得难受，但触不到为它拍手叫好的点。
@@ -61,12 +64,12 @@
 ### 5 [萬寧哥哥](https://www.douban.com/people/133571662/) 看过 2016-04-21 22:57:38
 看过隐约感到有些不适，布兰登罗斯打酱油算是，片中的几个黑人小混混真是人渣，开头的轮奸戏震撼到我了。
 
-## 讨论区 
+## 讨论区  { data-search-exclude }
 来自[米字路口](https://www.douban.com/people/245992505/)
 
 2024-09-15 00:47:46
 
-## 标签
+## 标签 { data-search-exclude }
 
 - [影讯&购票](https://movie.douban.com/cinema/nowplaying/)
 - [选电影](https://movie.douban.com/explore)
@@ -78,3 +81,29 @@
 
 © 2005－2025 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie)
 <!-- tcd_original_link https://m.douban.com/movie/subject/3077821/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《浮生火热》是一部由巴迪·吉欧凡纳佐执导的剧情电影，改编自他1993年出版的同名小说。影片讲述了在毒品肆虐的城市中，几位不同背景的人们为生存而挣扎的故事。故事围绕着几位角色展开，包括为变性手术而拼命工作的Marybeth，为养家糊口而在夜总会打工的Manny、靠乞讨为生的Willy和因兄弟被谋杀而不断内疚的流浪者Romeo。影片展示了他们各自的生活困境以及相互交织的命运，反映了毒品、贫困和生存希望等主题。凯丽·华盛顿在片中挑战自我，深入研究变性者的生活，以真实的视角诠释角色。影片的背景和人物选择凸显了社会底层人群的绝望与斗争，展示了残酷的生存环境下的爱与救赎。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_浮生火热-_电影-_豆瓣.md                             |
+| Size            | 6226 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 巴迪·吉欧凡纳佐                               |
+| Region          | 美国                               |
+| Date            | 2009                                 |
+| Tags            | 多元性别, 变性经历, 社会底层, 毒品问题, 生存斗争, 社会希望, 剧情电影, 爱与救赎, 社会关系, 角色深度分析                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

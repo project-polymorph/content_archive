@@ -1,5 +1,8 @@
 # 全国道德模范刘霆将做变性手术：希望社会能包容我
 
+## 正文 { data-search-exclude }
+
+
 ![Logo](../images/mian-logo.png)
 
 时间：2014-08-18 10:57:00  
@@ -14,7 +17,7 @@
 ![刘霆与河莉秀](http://i.guancha.cn/News/2014/08/18/635439555946259540.jpg)  
 8月14日，刘霆站在发布会现场，韩国“第一变性美女”河莉秀前来为他助阵加油。
 
-## 谈性别认识 “从小就认为自己是女孩儿”
+## 谈性别认识 “从小就认为自己是女孩儿” { data-search-exclude }
 
 记者：能谈下你的基本情况吗？  
 刘霆：我家在浙江省湖州市双林镇，我是家里的独子，今年28岁了。见过我的、听过我说话的，开始都会把我当作一个女的。从有性别意识开始，我就认为自己是个女孩儿。我的脸、声音、身形、做派、心思都像女生，可生理器官却是男的，身份证性别填着“男”，社会身份也是男的，这让我很难熬，既不能这样，也不能那样，不知道将来怎样，很迷茫。
@@ -33,7 +36,7 @@
 ![刘霆照顾母亲](http://i.guancha.cn/News/2014/08/18/635439557755550718.jpg)  
 刘霆照顾母亲
 
-## 谈现实挣扎：曾命令自己要像真正男生
+## 谈现实挣扎：曾命令自己要像真正男生 { data-search-exclude }
 
 记者：你身上的荣誉会给你带来冲突感吗？  
 刘霆：**何止是有冲突，简直是割裂，身体和心理的割裂，道德与自我的，这令我极度痛苦。** 
@@ -58,7 +61,7 @@
 ![刘霆女装照](http://i.guancha.cn/News/2014/08/18/635439556402404341.jpg)  
 刘霆女装照
 
-## 谈变性手术：为了做自己风险不是问题
+## 谈变性手术：为了做自己风险不是问题 { data-search-exclude }
 
 记者：你要接受手术变成女人的消息铺天盖地，感觉很高调？  
 刘霆：我从不看新闻，我就是要做真正的自己。为了母亲，为了做榜样，我一直坚持了8年才把自己解脱出来。
@@ -84,3 +87,29 @@
 **版权声明：请支持独立网站，转发请注明本文链接：[https://www.guancha.cn/society/2014_08_18_257625.shtml?web](https://www.guancha.cn/society/2014_08_18_257625.shtml?web)**  
 责任编辑: 张璐
 <!-- tcd_original_link https://www.guancha.cn/society/2014_08_18_257625.shtml?web -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_全国道德模范刘霆将做变性手术：希望社会能包容我_-_观察.md                             |
+| Size            | 8053 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

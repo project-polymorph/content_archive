@@ -1,5 +1,8 @@
 # 自行车和体育运动中的男女同性恋、双性恋和变性者
 
+## 正文 { data-search-exclude }
+
+
 发布日期: [2021 年 5 月 28 日](https://www.scienceinsport.com/sports-nutrition/zh/lgbtq-people-in-cycling-and-sport/)  
 更新日期: [2022 年 1 月 19 日](https://www.scienceinsport.com/sports-nutrition/zh/lgbtq-people-in-cycling-and-sport/)  
 标签: [自行车运动](https://www.scienceinsport.com/sports-nutrition/zh/category/sport/cycling/), [体育](https://www.scienceinsport.com/sports-nutrition/zh/category/sport/), [新闻](https://www.scienceinsport.com/sports-nutrition/zh/category/news/)  
@@ -35,7 +38,7 @@
 
 撰写人: 理查德-赫尔尼
 
-## 购买文章
+## 购买文章 { data-search-exclude }
 
 ![2021 年环法自行车赛：为西马-科皮加油问答](https://www.scienceinsport.com/sports-nutrition/wp-content/uploads/sites/3/2021/05/GLBL-Mountain-QA-825x510-1-150x150.jpg)
 
@@ -45,3 +48,29 @@
 
 [下一篇](https://www.scienceinsport.com/sports-nutrition/zh/science-in-sport-fuels-tour-21-for-third-year/)
 <!-- tcd_original_link https://www.scienceinsport.com/sports-nutrition/zh/lgbtq-people-in-cycling-and-sport/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_自行车和体育运动中的男女同性恋、双性恋和变性人_-_Science_In_Sport.md                             |
+| Size            | 6961 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

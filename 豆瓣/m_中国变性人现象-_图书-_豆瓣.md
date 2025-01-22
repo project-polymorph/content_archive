@@ -1,5 +1,8 @@
 # 中国"变性人"现象
 
+## 正文 { data-search-exclude }
+
+
 ![中国"变性人"现象](https://img1.doubanio.com/view/subject/s/public/s28963389.jpg)
 
 **作者**: [方刚](/search/%E6%96%B9%E5%88%9A)  
@@ -16,11 +19,11 @@
 - ![](https://img1.doubanio.com/f/shire/46e66a46baff206223e608c521bb3724536b03b6/pics/add-cart.gif) 已在[购书单](https://book.douban.com/cart)  
 - [分享到](#)   
 
-## 作者简介
+## 作者简介 { data-search-exclude }
 
 方刚，性与性别研究专家，著名性学家，性教育专家，北京林业大学性与性别研究所所长，应用心理学系副教授，硕士研究生导师。出版著作50多部，青少年性健康教育基地首席专家。 中国人民大学性社会学博士毕业。
 
-## 目录
+## 目录 { data-search-exclude }
 
 第1章：非同寻常的来信  
 第2章：冰冷的回忆（一）  
@@ -29,7 +32,7 @@
 第5章：冰冷的回忆（二）  
 第6章：变也忧愁  
 
-## 短评  · · · · · ·  ( [全部 2 条](https://book.douban.com/subject/1274954/comments/) )
+## 短评  · · · · · ·  ( [全部 2 条](https://book.douban.com/subject/1274954/comments/) ) { data-search-exclude }
 
 [热门](https://book.douban.com/subject/1274954/comments?sort=score) / [最新](https://book.douban.com/subject/1274954/comments?sort=time) /
 
@@ -41,14 +44,14 @@
     
     可说是90年代左近对于“变性”现象的一种综合阐述，但囿于时代、理论基础局限下的视角仍是难以避免。方刚书中介绍的很多现象、问题，虽然民间思想有解冻的裂隙，但林林总总仍萦绕。
 
-## 在哪儿借这本书
+## 在哪儿借这本书 { data-search-exclude }
 
 -   [上海市中心图书馆(8)](https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7805924945&subject=7805924945&type=borrow&library=10012&link2key=8ed1f15067)  
 -   [广州其他馆藏(1)](https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D7805924945%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&subject=7805924945&type=borrow&library=10023&link2key=8ed1f15067)
 
-## 论坛
+## 论坛 { data-search-exclude }
 
-## 谁读这本书?
+## 谁读这本书? { data-search-exclude }
 
 [![王一](https://img3.doubanio.com/icon/u2145908-22.jpg)](https://www.douban.com/people/2145908/)  
 [王一](https://www.douban.com/people/2145908/)  
@@ -68,7 +71,7 @@
 
 由Admaru提供的广告
 
-## 二手市场
+## 二手市场 { data-search-exclude }
 
 -   有24人想读，手里有一本闲着?  
 
@@ -77,3 +80,29 @@
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about)  
 <!-- tcd_original_link https://m.douban.com/book/subject/1274954/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本书《中國"變性人"現象》由著名性學家方剛撰寫，深入探讨了中国在上世纪八十年代的变性现象和性别认同问题。书中涉及多个层面的内容，包括变性人的个人故事、社会环境、医学手段和文化认知等，真实记录了性别少数群体的生存状态和心理历程。方刚结合大量当时的案例分析和调查结果，强调了社会保守主义对性变群体的影响，认为虽然政策逐步开放，但仍有许多隐蔽的痛苦存在。书中提到，变性手术在当时已经达到较高的技术水平，但由于社会意识形态的压制，很多人不得不面对无法表达自己的无奈与痛苦。此外，书中章节包括变性人的私人信件回忆等，给予了读者对这一现象更深层次的理解和思考。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_中国变性人现象-_图书-_豆瓣.md                             |
+| Size            | 5484 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 方刚                               |
+| Region          | 中国                               |
+| Date            | 1996-11-01                                 |
+| Tags            | 变性人, 性别认同, 方刚, 医疗资源, 社会存活现状, 八十年代, 性行为, 性教育, 法律政策, 性与性别研究                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

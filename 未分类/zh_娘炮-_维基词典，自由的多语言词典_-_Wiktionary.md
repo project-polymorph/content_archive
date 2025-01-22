@@ -1,6 +1,9 @@
 # 娘炮
 
-## 汉语
+## 正文 { data-search-exclude }
+
+
+## 汉语 { data-search-exclude }
 
 [正体](/wiki/%E6%AD%A3%E9%AB%94 "正体")/[繁体](/wiki/%E7%B9%81%E9%AB%94 "繁体") (**娘炮**/[娘砲](#漢語))
 
@@ -87,3 +90,29 @@
 -   [汉语贬义用语](/wiki/Category:%E6%BC%A2%E8%AA%9E%E8%B2%B6%E7%BE%A9%E7%94%A8%E8%AA%9E "Category:漢語貶義用語")
 -   [汉语冒犯用语](/wiki/Category:%E6%BC%A2%E8%AA%9E%E5%86%92%E7%8A%AF%E7%94%A8%E8%AA%9E "Category:漢語冒犯用語")
 <!-- tcd_original_link https://zh.wiktionary.org/zh-hans/%E5%A8%98%E7%82%AE -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_娘炮-_维基词典，自由的多语言词典_-_Wiktionary.md                             |
+| Size            | 6047 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 男孩别哭影评
 
+## 正文 { data-search-exclude }
+
+
 ![男孩别哭](https://img2.doubanio.com/icon/u1028103-1.jpg)
 
 　一部早在1999年完成的影片《男孩别哭》，尽管在国外获得了诸多奖项，也许因为它涉及了易性癖方面的内容而在国内一直没有受到关注。直到今年希拉里·斯旺克再次问鼎奥斯卡最佳女主角，而报端写着"二次问鼎"——才让许多喜欢《百万宝贝》的观众把聚光灯打向了《男孩别哭》。通俗点讲，《百万宝贝》是一个很正面的片子，尽管它有着一个许多人不能接受的结局，但不影响它一路风光。可我个人觉得《男孩别哭》是希拉里·斯旺克最好的作品。
@@ -24,3 +27,29 @@
 
 **版权**: © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=movie) · [移动应用](https://www.douban.com/doubanapp/) · [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/1007129/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+《男孩别哭》是一部反映性别认同和社会暴力的电影，讲述了一个年轻人布兰顿在追寻真实自我和爱情过程中的悲惨遭遇。故事基于真实事件，布兰顿身份的揭露引发了一场惨绝人寰的暴力事件，令人深思性别与社会接受度的关系。影片中对布兰顿与劳拉深厚情感的描绘，展现了对真实自我的渴望与社会残酷现实的冲突。在剖析这种冲突的过程中，影片探讨了性别认同、爱情、暴力与社会文化的复杂交织，尤其在1999年这个时间点上，性别多元性问题尚未得到广泛关注，因此影片的发布对提升社会对多元性别话题的认识有着重要意义。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_男孩别哭-_男孩别哭-_豆瓣.md                             |
+| Size            | 2886 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 暴力, 同性恋, 爱情, 悲剧, 社会文化, 真实事件, 多元性别, 电影评论, 社会接受度                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

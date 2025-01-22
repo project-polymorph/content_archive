@@ -1,5 +1,8 @@
 # 性转娘
 
+## 正文 { data-search-exclude }
+
+
 ![](//cf.mhgui.com/cpic/m/12478.jpg)_完结_
 
 **更新至：** 短篇  
@@ -36,3 +39,29 @@
 
 版权信息与其他标签等（未提供具体内容）
 <!-- tcd_original_link https://m.manhuagui.com/comic/12478/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_性转娘-_东云龙_-_看漫画.md                             |
+| Size            | 1028 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

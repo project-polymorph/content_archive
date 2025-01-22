@@ -1,5 +1,8 @@
 # 世界大不同：看看人妖学生罕见的生活
 
+## 正文 { data-search-exclude }
+
+
 ![央广网](http://www.cnr.cn/images2015/cnrlogo.jpg)
 
 2016-11-05 15:18:00 来源：上海热线
@@ -12,7 +15,7 @@
 
 关键词：人妖;人妖表演;她们;女婿;她
 
-## 相关阅读
+## 相关阅读 { data-search-exclude }
 
 ### [泰国人妖小姐的悲惨生活](http://www.cnr.cn/ent/tg/20160913/t20160913_523134506.shtml)
 
@@ -47,3 +50,29 @@
 [![](http://www.cnr.cn/images2015/images/bottom2016.png)](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040202120007)  
 [WAP版](http://m.cnr.cn/) | 客户端 央广网版权所有
 <!-- tcd_original_link http://www.cnr.cn/ent/gd/20161105/t20161105_523245706.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_世界大不同：看看人妖学生罕见的生活_-_央广网.md                             |
+| Size            | 2971 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

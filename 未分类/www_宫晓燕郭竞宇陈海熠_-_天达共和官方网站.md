@@ -1,5 +1,8 @@
 # 国际奥委会发布基于性别认同和性别差异的公平、包容、非歧视准则
 
+## 正文 { data-search-exclude }
+
+
 作者: 宫晓燕 郭竞宇 陈海熠
 
 ### 观点
@@ -172,13 +175,13 @@
 
 ![宫晓燕](http://fileapi.east-concord.com/tiandagonghe/image/2023/5/5/133277416756787389_0.png)
 
-## 宫晓燕
+## 宫晓燕 { data-search-exclude }
 
 文化体育部负责人
 
 联系方式: +86 10 6590 6639
 
-## 个人简介
+## 个人简介 { data-search-exclude }
 
 宫律师担任国际排球联合会审判庭副主席、世界游泳联合会法律委员会委员，曾作为巴黎奥运会以及东京奥运会中国体育代表团随团法律顾问，以及北京冬奥会中国体育代表团反兴奋剂工作专家。宫律师还担任多家体育单项协会、运动管理中心、俱乐部等的法律顾问，并为二十余个国际大型赛事提供专项法律服务。
     
@@ -208,3 +211,29 @@
 
 Copyright © 1998-2025 天达共和律师事务所 [京ICP备11012394号](http://beian.miit.gov.cn)
 <!-- tcd_original_link http://www.east-concord.com/zygd/Article/202111/ArticleContent_2598.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_宫晓燕郭竞宇陈海熠_-_天达共和官方网站.md                             |
+| Size            | 19071 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

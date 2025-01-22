@@ -1,5 +1,8 @@
 # 逆水寒手游转性别情况介绍
 
+## 正文 { data-search-exclude }
+
+
 作者：互联网  
 来源：腾蛇电竞  
 发布时间：2023-12-27 17:25:01  
@@ -33,7 +36,7 @@
 
 安卓版暂无下载 苹果版暂无下载  
 
-## 玩家评论
+## 玩家评论 { data-search-exclude }
 
 （1434条）
 
@@ -77,3 +80,29 @@ CX330–1000  来自于 九游APP 2024-12-07 16:53
 [《用户协议》](https://www.9game.cn/tpl/pc/app/legalnotice.html)  
 
 <!-- tcd_original_link https://www.9game.cn/nishuihan1/9606953.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_逆水寒手游转性别情况介绍.md                             |
+| Size            | 3809 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

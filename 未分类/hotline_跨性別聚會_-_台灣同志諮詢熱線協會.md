@@ -1,18 +1,21 @@
 # 跨性別聚會
 
+## 正文 { data-search-exclude }
+
+
 -   [我的孩子是跨性別](/pagegeneral/3489)
 -   [跨性別醫療資源](/pagegeneral/3244)
 -   [跨性別聚會](/pagegeneral/2843)
 
 ### 本會舉辦以下跨性別聚會活動：
 
-## [跨性別聚會](#aaa)
+## [跨性別聚會](#aaa) { data-search-exclude }
 
-## [跨性別同樂會](#bbb)
+## [跨性別同樂會](#bbb) { data-search-exclude }
 
-## [晃遊性／別系列講座](#)
+## [晃遊性／別系列講座](#) { data-search-exclude }
 
-## 【跨性別聚會】
+## 【跨性別聚會】 { data-search-exclude }
 
 ![跨性別聚會](https://hotline.org.tw/sites/hotline.org.tw/files/styles/width1140/public/field_insert_page_general/25398200_2593192510821456_3037855382126400154_o_small.png?itok=vE81XL3q)
 
@@ -41,7 +44,7 @@
 
 ※為保持聚會運行順暢，非跨、亦非親人或伴侶者謝絕參加。 ※報名請填寫聚會報名表。 ※請多加留意每場聚會報名截止日期，逾時不候。
 
-## 【跨性別同樂會】
+## 【跨性別同樂會】 { data-search-exclude }
 
 ![跨性別同樂會](https://hotline.org.tw/sites/hotline.org.tw/files/styles/width1140/public/field_insert_page_general/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%90%8C%E6%A8%82%E6%9C%83_%E5%B0%8F.png?itok=o-1Bn0bK)
 
@@ -60,7 +63,7 @@
 
 ※由於有非跨朋友參加，需有意外遇到熟人的心理準備 ※參加者請務必配合對外保密，除非明確取得對方同意，勿洩漏公布他人照片、稱呼、身分認同等隱私 ※請多加留意每場聚會報名截止日期，逾時不候。
 
-## 【晃遊性／別系列講座】
+## 【晃遊性／別系列講座】 { data-search-exclude }
 
 除了以上活動，今年本會也將舉辦多場【晃遊性╱別系列座談】（跨性別主題講座） 活動宣傳請密切注意官網更新喔～～
 
@@ -72,3 +75,29 @@
 
 [Facebook](/#facebook) [Twitter](/#twitter) [Line](/#line) [Email](/#email) [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fhotline.org.tw%2Fpagegeneral%2F2843&title=%E8%B7%A8%E6%80%A7%E5%88%A5%E8%81%9A%E6%9C%83)
 <!-- tcd_original_link https://hotline.org.tw/pagegeneral/2843 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | hotline_跨性別聚會_-_台灣同志諮詢熱線協會.md                             |
+| Size            | 4119 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

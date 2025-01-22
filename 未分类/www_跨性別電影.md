@@ -1,6 +1,9 @@
 # 跨性别电影
 
-## 2017 Close-Knit 当他们认真编织时
+## 正文 { data-search-exclude }
+
+
+## 2017 Close-Knit 当他们认真编织时 { data-search-exclude }
 
 **发佈:** 21 十月 2017  
 **最近更新:** 05 四月 2022  
@@ -19,7 +22,7 @@
 
 ---
 
-## 2015 Vergine Giurata 还我女儿身
+## 2015 Vergine Giurata 还我女儿身 { data-search-exclude }
 
 **发佈:** 01 一月 2015  
 **最近更新:** 05 四月 2022  
@@ -40,7 +43,7 @@
 
 ---
 
-## 2015 The Danish Girl 丹麦女孩
+## 2015 The Danish Girl 丹麦女孩 { data-search-exclude }
 
 **发佈:** 01 一月 2015  
 **最近更新:** 05 四月 2022  
@@ -61,7 +64,7 @@
 
 ---
 
-## 2014 The New Girlfriend 女朋友的女朋友
+## 2014 The New Girlfriend 女朋友的女朋友 { data-search-exclude }
 
 **发佈:** 01 一月 2014  
 **最近更新:** 05 四月 2022  
@@ -82,7 +85,7 @@
 
 ---
 
-## 2012 Naked Human Nature 赤裸人性
+## 2012 Naked Human Nature 赤裸人性 { data-search-exclude }
 
 **发佈:** 01 一月 2012  
 **最近更新:** 05 四月 2022  
@@ -108,7 +111,7 @@
 
 ---
 
-## 2012 Laurence Anyways 双面劳伦斯
+## 2012 Laurence Anyways 双面劳伦斯 { data-search-exclude }
 
 **发佈:** 01 一月 2012  
 **最近更新:** 05 四月 2022  
@@ -127,3 +130,29 @@
 那是1989年，弗蕾德相信她们这代人已可以接纳变性人了。只是无论弗蕾德还是劳伦斯，都要用近十年时间发现，真正手足无措的是他们自己。对劳伦斯来说，变性是令他在水底闭气30年终于呼吸的第一口氧气。然而劳伦斯只是决定了自己的性别，他没想过变性后的生活，更没有想过，要用十年时间来验证和生命中最重要的朋友/恋人——弗蕾德的感情。  
 **语言, 字幕:** 英语, 英语
 <!-- tcd_original_link https://www.tgr.org.hk/index.php/zh/media-library/trans-movies -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別電影.md                             |
+| Size            | 8947 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

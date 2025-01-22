@@ -1,6 +1,9 @@
 # TS与CD的网络含义及区别
 
-## 正文
+## 正文 { data-search-exclude }
+
+
+## 正文 { data-search-exclude }
 
 2024-10-17 10:45:26
 
@@ -36,7 +39,7 @@ TS和CD的主要区别在于它们对性别认同和表达的方式不同。TS�
 
 **责任编辑**：于浩淙 Hzx0176
 
-## 相关新闻
+## 相关新闻 { data-search-exclude }
 
 ### [Ts什么意思网络上 ts什么意思字母圈里做什么？](https://ent.china.com/movie/newszh/11005281/20241017/47393252.html)
 
@@ -52,3 +55,29 @@ TS和CD的主要区别在于它们对性别认同和表达的方式不同。TS�
 
 版权声明：中华网版权所有，未经授权不得转载。
 <!-- tcd_original_link https://ent.china.com/movie/newszh/11005281/20241017/47393236.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ent_ts什么网络含义什么意思ts和cd的区别是啥？_-_中华网娱乐.md                             |
+| Size            | 3449 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

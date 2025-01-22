@@ -1,5 +1,8 @@
 # 泰国最美变性人甜嫁富商男友
 
+## 正文 { data-search-exclude }
+
+
 #### 来源：联合早报  
 #### 更新：2023年2月5日 11:16 AM  
 #### 发布：2023年2月05日 10:59 AM  
@@ -36,3 +39,29 @@ Poyd在泰国拥有“最美变性人”称号。
 
 Poyd曾在访问中披露，自小已想做女人，长大以愈来愈抗拒当男人，并说过自己的“男性生殖器官让我觉得恶心”。17岁下定决心变性，她坦言手术过程非常痛苦︰“但想到可以变成女人就很开心，相较之下，一切都值得。”
 <!-- tcd_original_link https://www.zaobao.com.sg/entertainment/story20230205-1359893 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_泰国最美变性人甜嫁富商男友.md                             |
+| Size            | 2478 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

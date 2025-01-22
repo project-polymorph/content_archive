@@ -1,10 +1,13 @@
 # 跨性别%女装大佬
 
+## 正文 { data-search-exclude }
+
+
 ![跨性别%女装大佬](https://img9.doubanio.com/view/elanor_image/raw/public/Q1FI1UO4.jpg)
 
 来自: [葵·阿梅莉娅 (常熟)](https://www.douban.com/people/neko-hime/) 2020-05-18 13:17:01创建   2022-10-03 19:55:56更新
 
-## 电影推荐
+## 电影推荐 { data-search-exclude }
 
 ### [他是她 Il est elle](https://movie.douban.com/subject/35316033/)
 ![他是她 Il est elle](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2630023717.webp)
@@ -272,18 +275,44 @@
 
 --- 
 
-## 标签
+## 标签 { data-search-exclude }
 - 跨性别
 - 女装大佬
 
-## 版权
+## 版权 { data-search-exclude }
 © 2005－2024 douban.com, all rights reserved  
 北京豆网科技有限公司
 
 --- 
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 - [豆瓣](https://www.douban.com)
 - [豆瓣电影](https://movie.douban.com)
 - [豆瓣小组](https://www.douban.com/group)
 <!-- tcd_original_link https://m.douban.com/doulist/127493023/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件是关于跨性别和女装文化的探讨，收录了来自用户葵·阿梅莉娅在豆瓣平台上的一篇帖子。帖子中展示了一张跨性别女装大佬的图片，并包含了一系列与跨性别相关的电影推荐。这些电影涵盖了不同国度和文化中的跨性别主题，体现了多元性别的广泛探索，包括如《他是她 Il est elle》、《乐土 Joyland》、《午夜天鹅》等影片。每个推荐的影片后面都附有基本信息，如导演、主演以及评分，提供必要的观影参考。此外，文件还记录了创建和更新的日期，显示出该资料在社区中的活跃性和互动性。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别%女装大佬_-_豆瓣.md                             |
+| Size            | 9538 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 葵·阿梅莉娅 (常熟)                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-05-18                                 |
+| Tags            | 跨性别, 女装, 电影推荐, 生命故事, 文化探索, 社会现象, 多元性别, 豆瓣, 性别认同, 社群分享                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

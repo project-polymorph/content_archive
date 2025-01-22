@@ -1,5 +1,8 @@
 # 女神新戲將挑戰跨性別角色！史嘉蕾喬韓森參演傳記電影《Rub & Tug》，女扮男裝化身色情業大亨
 
+## 正文 { data-search-exclude }
+
+
 by [Ren](https://www.marieclaire.com.tw/author/27/Ren) - 2018/07/05更新
 
 ![女神新戲將挑戰跨性別角色！史嘉蕾喬韓森參演傳記電影《Rub & Tug》，女扮男裝化身色情業大亨](https://im.marieclaire.com.tw/s1200c675h100b0webp100/assets/mc/201807/5B3DFD895F35D1530789257.jpeg)
@@ -14,10 +17,36 @@ Dante Tex Gill在70年代經營非法按摩和色情業，儘管生理上是女�
 
 早先Jeffrey Tambor在《透明家庭》曾飾演一名喜歡男伴女裝的父親，Jared Leto也在《藥命俱樂部》化身變性愛滋病患者，而Felicity Huffman也因為在《窈窕老爸》中飾演由男變女的變性人後翻紅，因此究竟史嘉蕾喬韓森是否能勝任這次的角色，或許也得等到電影出來才能評價囉。
 
-## 標籤
+## 標籤 { data-search-exclude }
 - [#Dante Tex Gill](/tags/Dante%20Tex%20Gill "Dante Tex Gill")
 - [#Rub & Tug](/tags/Rub%20%26%20Tug "Rub & Tug")
 - [#史嘉蕾喬韓森](/tags/%E5%8F%B2%E5%98%89%E8%95%BE%E5%96%AC%E9%9F%93%E6%A3%AE "史嘉蕾喬韓森")
 - [#Scarlett Johansson](/tags/Scarlett%20Johansson "Scarlett Johansson")
 - [#跨性別](/tags/%E8%B7%A8%E6%80%A7%E5%88%A5 "跨性別")
 <!-- tcd_original_link https://www.marieclaire.com.tw/entertainment/movie/37501 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女神新戲將挑戰跨性別角色！史嘉蕾喬韓森參演傳記電影《Rub_&_Tug》.md                             |
+| Size            | 2101 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

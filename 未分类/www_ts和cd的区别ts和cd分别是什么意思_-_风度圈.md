@@ -1,5 +1,8 @@
 # ts和cd的区别 ts和cd分别是什么意思
 
+## 正文 { data-search-exclude }
+
+
 更新时间：2023-09-08 10:42:20
 
 ![ts和cd的区别 ts和cd分别是什么意思](/uploads/230908/1042204610-0.jpg)
@@ -14,3 +17,29 @@
 
 3、求解ts什么意思：TS是英文TransSexual的缩写，指对本身性别不认同不满意，希望通过手术改变性别者。很多人只是没有能力变性，或者正在积极准备着变性，或者服食一些雌性激素类药物，也有很多人则已经完成变性手术，而这后两类人就是我们常说的人妖，英语作：SHEMALE。
 <!-- tcd_original_link http://www.fengdu365.com/n/39785.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_ts和cd的区别ts和cd分别是什么意思_-_风度圈.md                             |
+| Size            | 1686 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

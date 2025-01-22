@@ -1,39 +1,42 @@
 # 跨越性別的高牆：跨性別者的生命紀實
 
-## 作者
+## 正文 { data-search-exclude }
+
+
+## 作者 { data-search-exclude }
 
 - 黃硯琳 (Yan-Lin Huang)
 
-## 指導教授
+## 指導教授 { data-search-exclude }
 
 - 林照真
 - 吳嘉苓
 
-## 日期
+## 日期 { data-search-exclude }
 
 - 2018 年 4 月 18 日
 
-## 學位
+## 學位 { data-search-exclude }
 
 碩士
 
-## 學院
+## 學院 { data-search-exclude }
 
 社會科學院
 
-## 來源
+## 來源 { data-search-exclude }
 
 [NTU Theses and Dissertations Repository](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/69808)
 
-## 版權
+## 版權 { data-search-exclude }
 
 有償授權
 
-## 摘要
+## 摘要 { data-search-exclude }
 
 隨著全球同志婚姻合法化浪潮開展，台灣社會對同性戀的故事已不再陌生，跨性別族群的聲音卻還未被聽見。過去台灣社會對跨性別的認識只停留在「變性人」、「變性手術」與「第三性公關」等名詞，並未真正深入理解這個少數族群的生命歷程、感情生活與生存困境。隨著資訊科技的發展，與性別理論的討論漸多，臺灣現今的跨性別族群已與10年前有極大的不同。新一代的跨性別者開始思考身體打造的意義，不再只是一味地複製傳統的性別刻板形象。本深度報導論文記錄臺灣21世紀跨性別族群的轉變，全篇報導訪問三十餘名跨性別者，以更貼近的角度，述說他們的生命故事。本深度報導論文從跨性別者的性別探索歷程談起，描述自小察覺性別不安的經驗、看待自己身體的感覺，以及跨性別的認同途徑。接著介紹跨性別者多樣化的身體打造工具，及其對跨性別者特有的意義。本深度報導論文同時也關注跨性別社群、跨性別者的親密關係，以及他們的職場經驗。透過不同面向，詳實呈現臺灣跨性別者的生命故事。
 
-## 目錄
+## 目錄 { data-search-exclude }
 
 - 致謝
 - 中文摘要
@@ -49,7 +52,7 @@
 - 報導企劃
 - 參考文獻
 
-## 關鍵詞
+## 關鍵詞 { data-search-exclude }
 
 - 跨性別者
 - 性別認同
@@ -58,7 +61,7 @@
 - 親密關係
 - 職場經驗
 
-## 參考資料
+## 參考資料 { data-search-exclude }
 
 ### 中文部分
 
@@ -75,3 +78,29 @@
 
 在 DSpace中的文件受版权保护，所有权利保留，除非另有说明。
 <!-- tcd_original_link https://tdr.lib.ntu.edu.tw/handle/123456789/69808?mode=full -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tdr_跨越性別的高牆：跨性別者的生命紀實.md                             |
+| Size            | 3421 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

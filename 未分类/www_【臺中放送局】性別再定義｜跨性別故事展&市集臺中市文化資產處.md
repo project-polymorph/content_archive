@@ -1,5 +1,8 @@
 # 臺中放送局性別再定義｜跨性別故事展&市集
 
+## 正文 { data-search-exclude }
+
+
 公告日期：2023-09-20 ｜ 點擊次數：195
 
 **🏳️‍⚧️ 性別再定義｜跨性別故事展**
@@ -34,3 +37,29 @@
 
 版权 © 2017臺中市文化資產處版權所有
 <!-- tcd_original_link https://www.tchac.taichung.gov.tw/information?uid=5&pid=5938 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【臺中放送局】性別再定義｜跨性別故事展&市集臺中市文化資產處.md                             |
+| Size            | 1708 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

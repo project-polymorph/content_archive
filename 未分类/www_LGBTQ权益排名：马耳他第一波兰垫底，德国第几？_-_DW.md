@@ -1,5 +1,8 @@
 # LGBTQ权益排名：马耳他第一 波兰垫底，德国第几？
 
+## 正文 { data-search-exclude }
+
+
 ![马耳他为同志平权举行的游行图像来源: Darrin Zammit Lupi/REUTERS](https://p.dw.com/p/4fzyj)
 
 （德国之声中文网）“这里对LGBTQ人士来说确实是一个很友好的地方，” 卡米莱里（Catherine Camilleri）谈起她的家乡马耳他 – 一个拥有52万居民的地中海小岛时说道。 LGBTQ代表：女同性恋（L）、男同性恋（G）、双性恋（B）、跨性别（T）和酷儿（Q: 非二元性别）人士。“我们很高兴有一个支持我们的政府。当然，如果你是LGBTQ人士，可能偶尔也会遇到这样那样的歧视。但在马耳他，正面的声音远远高过负面的。” 卡米莱里曾长期居住在美国，现在她在马耳他的戈佐岛（Gozo）为一家LGBTQ团体做义工。她对马耳他再次成为欧洲最具同性恋和跨性别者权益的国家感到高兴。
@@ -8,7 +11,7 @@
 
 ![性少数群体的世外桃源 – 马耳他戈佐岛上的姆贾尔市（Mgarr）风光图像来源: Bruno Coelho/Zoonar/picture alliance](https://www.example.com/image2)
 
-## 马耳他：禁止性倾向矫正治疗
+## 马耳他：禁止性倾向矫正治疗 { data-search-exclude }
 
 在性少数群体权益方面，马耳他多年来一直名列前茅，符合至少89%的要求标准。“LGBTQ社区在过去五六年里得到了蓬勃发展。马耳他的法律制定者在推动政策方面非常活跃。例如，马耳他是欧洲第一个禁止对同性恋者进行扭转疗法的国家，” 卡米莱里说道。虽然偶尔还是会收到一些恶意电子邮件或仇恨言行，但作为一个规模不大，且以天主教为传统的国家，马耳他成为LGBTQ人士自由生活之地还是很惊人的。
 
@@ -16,7 +19,7 @@
 
 ![社会在发生变化：2017年时，一些马耳他人仍在举行示威游行，反对同性婚姻图像来源: Reuters/D. Zammit Lupi](https://www.example.com/image3)
 
-## 波兰：仇视LGBTQ
+## 波兰：仇视LGBTQ { data-search-exclude }
 
 茱莉亚·卡塔（Julia Kata）对此给出了解释。卡塔是一位训练有素的心理学家，现在在波兰首都华沙一个跨性别组织（Trans-Fuzja）为跨性别者提供帮助。卡塔指出，波兰几乎没有为LGBTQ人群提供任何特殊法律保护。“我们没有反对仇恨言论的法律。我们的法律中有针对仇恨犯罪的处罚，但并不包括基于性取向、性别或身份的攻击 – 这些仅被视为普通违法行为。”与马耳他不同，在波兰歧视主要来自其（前）执政党法律与公正党（PiS）及其亲党媒体，卡塔说道。
 
@@ -26,7 +29,7 @@
 
 ![虽然华沙也有同志骄傲游行，但在社会接受方面，情况并不理想图像来源: Grzegorz Banaszak7Zuma/picture alliance](https://www.example.com/image4)
 
-## 欧洲：为跨性别者提供更多权利
+## 欧洲：为跨性别者提供更多权利 { data-search-exclude }
 
 总体来说，国际性少数群体联合会（ILGA）在欧洲看到了积极的发展趋势。“确实存在对跨性别群体的针对性攻击，但我们也看到一些国家和政府开始改革跨性别者权益保护法，比如德国。政界人士对性少数群体展现了更多理解，并决心推进改革进程，”该联合会官员胡根杜贝尔（Katrin Hugendubel）对德国之声表示。
 
@@ -36,7 +39,7 @@
 
 “这是我们看到的希望之光，这是积极的消息，” 胡根杜贝尔称赞道，多年来，她都在布鲁塞尔担任ILGA组织负责人。作为一个机构，人们不能对欧盟抱有太多期望，因为在家庭法律方面，欧盟没有管辖权，这是由成员国各自负责的领域。尽管欧盟反歧视指令已在工作场所适用，但欧盟成员国也阻止了将该指令扩展到其他领域的可能性。胡根杜贝尔认为，如果成员国展现政治意愿，欧盟还可以做得更多。
 
-## 柏林骄傲游行：反对仇恨、战争和歧视
+## 柏林骄傲游行：反对仇恨、战争和歧视 { data-search-exclude }
 
 ### 这个周六（7月23日）是本年度的柏林骄傲游行，也被称作克里斯托弗大街纪念日（CSD），主题是“在爱中团结”。DW带您回顾这个游行活动的历史。
 
@@ -86,3 +89,29 @@
 
 _© 2024年德国之声版权声明：本文所有内容受到著作权法保护，如无德国之声特别授权，不得擅自使用。任何不当行为都将导致追偿，并受到刑事追究。_
 <!-- tcd_original_link https://www.dw.com/zh/lgbtq%E6%9D%83%E7%9B%8A%E6%8E%92%E5%90%8D%E9%A9%AC%E8%80%B3%E4%BB%96%E7%AC%AC%E4%B8%80-%E6%B3%A2%E5%85%B0%E5%9E%AB%E5%BA%95%E5%BE%B7%E5%9B%BD%E7%AC%AC%E5%87%A0/a-69115041 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBTQ权益排名：马耳他第一波兰垫底，德国第几？_-_DW.md                             |
+| Size            | 10335 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

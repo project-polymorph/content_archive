@@ -1,5 +1,8 @@
 # 性別認同文獻回顧──以性別自我社會化模型來探討
 
+## 正文 { data-search-exclude }
+
+
 ### 作者 
 鄭穎澤(國立交通大學教育研究所教育心理學組碩士班研究生)
 
@@ -71,3 +74,29 @@
 ### 參考資料
 - [婦研縱橫-歷年期刊](https://gender.psc.ntu.edu.tw/history-issue/)
 <!-- tcd_original_link https://gender.psc.ntu.edu.tw/%E8%A7%80%E5%AF%9F%E8%A9%95%E4%BB%8B-%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E6%96%87%E7%8D%BB%E5%9B%9E%E9%A1%A7%E2%94%80%E2%94%80%E4%BB%A5%E6%80%A7%E5%88%A5%E8%87%AA%E6%88%91%E7%A4%BE%E6%9C%83%E5%8C%96/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | gender_觀察評介-性別認同文獻回顧____以性別自我社會化模型來探討.md                             |
+| Size            | 5474 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

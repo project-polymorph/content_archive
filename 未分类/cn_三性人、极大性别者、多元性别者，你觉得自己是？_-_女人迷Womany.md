@@ -1,12 +1,15 @@
 # 三性人、极大性别者、多元性别者，你觉得自己是？
 
+## 正文 { data-search-exclude }
+
+
 by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10/26 19.3K 8
 
 性别不是二元的，它是在光谱上一个移动的点点，甚至对少数的人而言，这个点还会移动！随着时间或情境，人可以感觉自己想当什么性别。
 
-## OUR STORY 我们的故事
+## OUR STORY 我们的故事 { data-search-exclude }
 
-## 艾克赛：我出生时是女孩，现在我是男孩
+## 艾克赛：我出生时是女孩，现在我是男孩 { data-search-exclude }
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down/https://castle.womany.net/images/content/pictures/117086/womany_03_1603682947-206683-0042-9897.jpg)
 
@@ -24,7 +27,7 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 
 是的，我的女性面向仍会存在，然而从长远的角度看来，我觉得这么做会让我最开心。我希望跨性别社区里的每一个人都能拥有快乐和爱，而且对自己的性别感到自在。
 
-## 三性人（Trigender）：具有／经历三种性别之人。
+## 三性人（Trigender）：具有／经历三种性别之人。 { data-search-exclude }
 
 这三种性别可以是二元化的性别或非二元化的性别。
 
@@ -32,11 +35,11 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 
 一个人不必平均地体验三种性别和／或以相同方式体验三种性别。
 
-## 多元性别者（Multigender／Polygender）：具有／经历多种性别之人。
+## 多元性别者（Multigender／Polygender）：具有／经历多种性别之人。 { data-search-exclude }
 
 一个人可以因为具有／体验未知或波动的性别种类而选择这种性别认同。
 
-## 泛性别者／全性别者（Pangender／omnigender）：
+## 泛性别者／全性别者（Pangender／omnigender）： { data-search-exclude }
 
 许多泛性别者／全性别者认为我们现今的性别知识是有限的，他们深信尚有我们未理解的性别，而且可能存在有无限多种性别。
 
@@ -52,7 +55,7 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 
 因为有这些潜在的问题，以下的性别标签于是被创造出来⋯⋯
 
-## 极大性别者（Maxigender）：
+## 极大性别者（Maxigender）： { data-search-exclude }
 
 极大性别者经历多种他们可拥有的性别，有时甚至是他们可拥有的所有性别。
 
@@ -98,11 +101,11 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 
 ![](https://cdn-images-1.medium.com/v2/resize:fit:1200/format:webp/1*sa0tpInnvSLaIwtqM-pC8A.png)
 
-## 非男非女（Aporagender）：
+## 非男非女（Aporagender）： { data-search-exclude }
 
 这是一种特定的性别认同，也是一个概括性用语，意指非二元化的性别，既不是男性也不是女性，亦非两性之间的任何其他性别，但是仍具有强烈且特定的性别感受。
 
-## 特异独行者（Maverique）：
+## 特异独行者（Maverique）： { data-search-exclude }
 
 拥有自主性别、完全独立于男女二元化性别以外之人。倘若性别是颜色，那么特异独行的性别就是黄色，不是来自于其他色彩的原色。
 
@@ -128,3 +131,29 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 
 一1992，麦田里播下了种籽……耕耘多年，麦田在摸索中成长，然后努力使自己成为一个以人文精神为主轴的出版体。从第一本文学小说到人文、历史、军事、生活。麦田继续生存、继续成长，希图得到众多读者对麦田出版的坚持认同，并成为读者阅读生活里的一个重要部分。
 <!-- tcd_original_link https://cn.womany.net/read/article/25518 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | cn_三性人、极大性别者、多元性别者，你觉得自己是？_-_女人迷Womany.md                             |
+| Size            | 9497 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

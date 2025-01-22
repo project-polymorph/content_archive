@@ -1,5 +1,8 @@
 # 穿越者全部性转恶堕成了魔物娘 小说大纲
 
+## 正文 { data-search-exclude }
+
+
 **标签：** R-18, 性转, 百合, 调教, 悪堕ち, TSF, 性転換, 中国语, 中文  
 **作者：** 我是希亚  
 **来源：** [Pixiv](https://www.pixiv.net/novel/show.php?id=14277446)  
@@ -179,3 +182,29 @@ MWG在得知了面壁者计划立即制订了破壁者计划，给前三位穿�
 
 苏越的身体被魔王占领，自己的精神被魔王植入了子宫，变成了受精卵，让魔王把她生下来。
 <!-- tcd_original_link https://huangsewenxue.com/txt/P%E7%AB%99%E8%B6%85%E5%85%A8%E5%90%88%E9%9B%8630000+%E6%9C%AC%E5%8A%A0%E4%B8%8A%E5%A4%A7%E9%87%8F%E7%BB%86%E5%88%86tag%E5%88%86%E7%B1%BB/%E5%A0%95%E8%90%BD%E7%B1%BBtag/%E6%81%B6%E5%A0%95/%E3%80%90%E6%88%91%E6%98%AF%E5%B8%8C%E4%BA%9A%E3%80%91%E7%A9%BF%E8%B6%8A%E8%80%85%E5%85%A8%E9%83%A8%E6%80%A7%E8%BD%AC%E6%81%B6%E5%A0%95%E6%88%90%E4%BA%86%E9%AD%94%E7%89%A9%E5%A8%98%20%E5%B0%8F%E8%AF%B4%E5%A4%A7%E7%BA%B2_txt/%E3%80%90%E6%88%91%E6%98%AF%E5%B8%8C%E4%BA%9A%E3%80%91%E7%A9%BF%E8%B6%8A%E8%80%85%E5%85%A8%E9%83%A8%E6%80%A7%E8%BD%AC%E6%81%B6%E5%A0%95%E6%88%90%E4%BA%86%E9%AD%94%E7%89%A9%E5%A8%98%20%E5%B0%8F%E8%AF%B4%E5%A4%A7%E7%BA%B2-1.txt -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | huangsewenxue_【我是希亚】穿越者全部性转恶堕成了魔物娘小说_..._-_黄色文学.md                             |
+| Size            | 15884 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

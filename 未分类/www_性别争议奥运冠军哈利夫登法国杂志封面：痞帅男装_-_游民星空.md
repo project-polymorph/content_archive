@@ -1,5 +1,8 @@
 # 性别争议奥运冠军哈利夫登法国杂志封面：痞帅男装
 
+## 正文 { data-search-exclude }
+
+
 2024-11-17 15:31:47 来源：游民星空 作者：心态良好的胖子 编辑：心态良好的胖子　浏览：11733
 
 此前引发巨大性别争议的奥运冠军阿尔及利亚女拳手哈利夫登上法国《M Le magazine du Monde》杂志封面。
@@ -34,3 +37,29 @@
 冀网文[2024]1963-004号  
 冀公网备13010202001538
 <!-- tcd_original_link https://www.gamersky.com/news/202411/1846353.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_性别争议奥运冠军哈利夫登法国杂志封面：痞帅男装_-_游民星空.md                             |
+| Size            | 1784 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

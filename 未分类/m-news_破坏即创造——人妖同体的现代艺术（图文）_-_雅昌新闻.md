@@ -1,5 +1,8 @@
 # 破坏即创造——人妖同体的现代艺术
 
+## 正文 { data-search-exclude }
+
+
 ![微信分享图](https://thumb.artron.net/Img/image?c=0&h=0&src=https%3A%2F%2Fwximg1.artimg.net%2Fnews%2F201107%2F2011073017535657645.jpg&w=600)
 
 **作者：刘骁纯**  
@@ -60,3 +63,29 @@
 
 注：本站上发表的所有内容，均为原作者的观点，不代表雅昌艺术网的立场，也不代表雅昌艺术网的价值判断。
 <!-- tcd_original_link https://m-news.artron.net/20120723/n180977.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m-news_破坏即创造——人妖同体的现代艺术（图文）_-_雅昌新闻.md                             |
+| Size            | 9989 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

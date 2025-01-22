@@ -1,12 +1,15 @@
 # 阴茎成形手术 / 下半身手术在泰国曼谷
 
+## 正文 { data-search-exclude }
+
+
 女性转男性性别肯定手术改变女性生殖器的外观，使其变为男性生殖器。这对跨性别男性有着深远而确认的影响，因为他们能够拥有他们所期望的身体：他们可以站立排尿，并且经过许多手术后可以实现勃起，将不再拥有阴道，如果进行了子宫切除术，也将不再有月经。
 
 打造新阴茎的主要方法有两种。这些方法包括将阴蒂改造为阴茎，或使用患者前臂或大腿的皮肤瓣来创建阴茎。通常，患者在接受任何一种手术之前，会至少服用男性激素一年。在手术过程中，外科医生还会进行阴道切除术，并且常常会同时进行子宫切除术。
 
 阴茎重建术是一种手术程序，在此过程中会创建一个阴茎。手术中，外科医生会从身体的捐赠部位（如手臂、大腿或腹部）取出一个或多个“皮瓣”及其他组织，然后用这些组织来形成阴茎和尿道。
 
-## 女性转男性性别确认手术-阴茎成形术
+## 女性转男性性别确认手术-阴茎成形术 { data-search-exclude }
 
 合适进行阴茎成形手术的候选人应具备以下条件:
 
@@ -23,17 +26,17 @@
 
 [查看更多Kamol医生的简介.](https://www.kamolhospital.com/doctor/1/drkamol-pansritum-md) 
 
-## 阴茎成形手术的好处包括：
+## 阴茎成形手术的好处包括： { data-search-exclude }
 
 - 患者很有可能在性行为中能够实现阴茎插入。
 - 阴茎的大小明显大于透过阴蒂成形术创造的阴茎，尽管敏感度明显较低。
 - 人们认为这种手术创造出更自然外观的生殖器。
 
-## 阴茎成形手术技术
+## 阴茎成形手术技术 { data-search-exclude }
 
 咖蒙整形医院提供以下阴茎成形术选项：
 
-## 1. 前外侧大腿皮瓣（ALT-阴茎成形术）
+## 1. 前外侧大腿皮瓣（ALT-阴茎成形术） { data-search-exclude }
 
 这是咖蒙医院的主要阴茎成形术选项。
 
@@ -102,7 +105,7 @@
 
 图三显示如何预备ALT手术 捐赠部位
 
-## ALT阴茎成形手术无尿道一体化
+## ALT阴茎成形手术无尿道一体化 { data-search-exclude }
 
 阴茎成形手术，也称为男性生殖器成形手术，是一种旨在为那些生来生殖器不明确、遭受过创伤性损伤或接受了性别重建手术的个体重建或构建功能性和美观的阴茎的手术。
 
@@ -140,7 +143,7 @@ ALT阴茎成形手术无尿道一体化通常包括以下步骤:
 
 ALT阴茎成形手术无尿道一体化是标准阴茎重建手术的一种变体，涉及在不整合尿道的情况下创建新阴茎。这种手术推荐给那些有医疗条件使得尿道难以连接到新阴茎的人，或对尿道整合不感兴趣的人。
 
-## 2. 咖蒙整形医院的阴茎成形手术替代方案
+## 2. 咖蒙整形医院的阴茎成形手术替代方案 { data-search-exclude }
 
 2.1 桡骨前臂自由皮瓣（RFF）：使用前臂前侧的皮肤来进行新阴茎的重建，这是一种显微外科技术。
 
@@ -195,7 +198,7 @@ ALT阴茎成形手术无尿道一体化是标准阴茎重建手术的一种变�
 
 图片 4：自体腓骨自由皮瓣
 
-## 2.3 肌皮神经背阔肌皮瓣技术
+## 2.3 肌皮神经背阔肌皮瓣技术 { data-search-exclude }
 
 岛状皮肤包含神经和血管被移动到生殖区域，以显微外科技术重建新阴茎。
 
@@ -222,7 +225,7 @@ ALT阴茎成形手术无尿道一体化是标准阴茎重建手术的一种变�
 
 图五:肌皮神经背阔肌(MLD)
 
-## 阴茎成形术中的尿道重建
+## 阴茎成形术中的尿道重建 { data-search-exclude }
 
 Kamol Cosmetic Hospital 目前提供三种新尿道重建选择，如下所示：
 
@@ -230,7 +233,7 @@ Kamol Cosmetic Hospital 目前提供三种新尿道重建选择，如下所示�
 2. 腹膜
 3. SCIP皮瓣
 
-## 不同阴茎成形术技术的比较
+## 不同阴茎成形术技术的比较 { data-search-exclude }
 
 | 皮瓣技术 | 新阴茎大小 | 捐赠部位 | 感觉 | 自我勃起能力 |
 |------|------|------|------|------|
@@ -239,7 +242,7 @@ Kamol Cosmetic Hospital 目前提供三种新尿道重建选择，如下所示�
 | 桡骨前臂 | 小至中等 | 前臂 | 有 | 不行 |
 | 腓骨 | 小 | 腿部 | 有 | 有 |
 
-## 阴茎成形术的准备
+## 阴茎成形术的准备 { data-search-exclude }
 
 1. 与外科医生进行咨询，讨论您的手术目标、健康状况和治疗方案。
 2. 在手术前至少两周停止吸烟和饮酒。
@@ -260,7 +263,7 @@ Kamol Cosmetic Hospital 目前提供三种新尿道重建选择，如下所示�
 5. **神经和血管损伤**：手术过程中可能损伤该区域的神经和血管，可能导致新建阴茎的敏感度降低或血流受阻。
 6. **未达到预期效果**：患者应对阴茎成形术的结果有现实的期望。在某些情况下，结果可能未达预期，可能需要额外手术以实现期望的效果。
 
-## 了解阴茎成形术
+## 了解阴茎成形术 { data-search-exclude }
 
 [![blog](/uploads/blog/1132/thumb-650a65fb3339e-image_highlight.jpg)](https://www.kamolhospital.com/blog/1132/how-to-prepare-for-phalloplasty-donor-site-2)
 
@@ -282,7 +285,7 @@ Detransitioning是指逆转性别转换的过程。在MtF（男性向女性）�
 
 [查看更多](https://www.kamolhospital.com/blogs/becoming-your-real-self)
 
-## 前外侧大腿（ALT）阴茎成形术的评价
+## 前外侧大腿（ALT）阴茎成形术的评价 { data-search-exclude }
 
 ![Phalloplasty](/uploads/flexible_module_item/4218/lg-649f88961267d-image.jpg)
 
@@ -328,11 +331,11 @@ Phalloplasty
 
 Phalloplasty
 
-## 影片: 阴茎成形术的见证
+## 影片: 阴茎成形术的见证 { data-search-exclude }
 
 [查看更多](https://www.youtube.com/@KamolHospital/videos)
 
-## 为什么咖蒙整形医院以阴茎成形术闻名？
+## 为什么咖蒙整形医院以阴茎成形术闻名？ { data-search-exclude }
 
 咖蒙整形医院成为阴茎成形术的热门选择有几个原因，包括其专业经验、先进设施、全面的术前和术后护理、以病人为中心的护理方法以及在性别肯定手术方面的卓越声誉。
 
@@ -377,3 +380,29 @@ Phalloplasty
 - [阴茎成形术](https://www.kamolhospital.com/service/32/phalloplasty)
 - [声音男性化手术（VMS）](https://www.kamolhospital.com/service/33/voice-masculinization-surgery-vms)
 <!-- tcd_original_link https://www.kamolhospital.com/zh/service/32/phalloplasty -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_阴茎成形手术.md                             |
+| Size            | 20691 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

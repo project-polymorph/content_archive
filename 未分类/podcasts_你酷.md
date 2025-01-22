@@ -1,9 +1,12 @@
 # 你酷 Podcast - 多元性别相关内容整理
 
-## 关于你酷
+## 正文 { data-search-exclude }
+
+
+## 关于你酷 { data-search-exclude }
 \[你酷\]是一档中文泛酷儿类亚文化闲谈节目，用Queer Eye探索社会文化的每一种可能。 Ta可能包括了社会学、心理学、亚文化、书影音、生活碎片、喜剧演员的未完成稿件、无执照咨询师的心情建议…… \[你酷\]其实并不只关注性别议题本身，但我们期待呈现出一种“必须得是酷儿才能做出来的节目风格”。 \[你酷\]可能是热烈的、高亢的、惊声尖笑的，也可能是深刻的、忧虑的、神经衰弱的。 如同彩虹没有固定的颜色，我们并不试图在色谱中找到确定的目的地，但我们希望坚定地成为一颗石头，它内核中的宝石闪烁着无定形的辉光。在不停奔涌的流淌中，向每一条河流致意，\[你酷\]期待与世界、与身边、与每一个人、与你，交汇、链接。因为，你本来就很酷。想要加入听友群的饱饱，可以在公众号【曲奇的线上小窝】发消息“想进听友群”进群。❤️ \[你酷\] UQER is AMORPHOUS.
 
-## 节目列表
+## 节目列表 { data-search-exclude }
 
 ### 1. \[你酷Air\]《道德浪女》：为关系打开新的可能性｜全新简中译本推荐
 - **播出时间**：12/20/2024
@@ -57,7 +60,7 @@
     - 播客的复盘与近期生活讨论
 - **时长**：1h 46m
 
-## 节目相关信息
+## 节目相关信息 { data-search-exclude }
 - **创造者**：酒标、曲奇
 - **活跃年份**：2K
 - **集数**：25
@@ -70,3 +73,29 @@
 
 以上是关于“你酷”播客的多元性别相关内容整理。
 <!-- tcd_original_link https://podcasts.apple.com/us/podcast/%E4%BD%A0%E9%85%B7/id1734977534 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_你酷.md                             |
+| Size            | 3712 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

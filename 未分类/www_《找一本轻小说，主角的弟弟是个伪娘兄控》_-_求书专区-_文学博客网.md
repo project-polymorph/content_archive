@@ -1,5 +1,8 @@
 # 找一本轻小说，主角的弟弟是个伪娘 兄控
 
+## 正文 { data-search-exclude }
+
+
 发表于 2016-11-7 08:26:58
 
 ![zzv_icon](template/zhanzhuai_feng/type/zzv_icon.png) 368 ![zzr_icon](template/zhanzhuai_feng/type/zzr_icon.png) 0
@@ -29,3 +32,29 @@
 
 ![weixin](template/zhanzhuai_feng/type/ft/weixin.jpg)
 <!-- tcd_original_link https://www.wxbkw.com/thread-101333-1-1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_《找一本轻小说，主角的弟弟是个伪娘兄控》_-_求书专区-_文学博客网.md                             |
+| Size            | 1879 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

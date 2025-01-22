@@ -1,5 +1,8 @@
 # 美国国防部颁布变性人服役新规
 
+## 正文 { data-search-exclude }
+
+
 2019年03月13日14:49 | 来源：[新华网](http://www.xinhuanet.com/world/2019-03/13/c_1124230375.htm)
 
 ![icon_type](/img/2020wbc/imgs/icon_type.png)_小字号_
@@ -34,3 +37,29 @@
 版权声明：  
 人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用 Copyright © 1997-2021 by www.people.com.cn. all rights reserved
 <!-- tcd_original_link http://world.people.com.cn/n1/2019/0313/c1002-30974352.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_美国国防部颁布变性人服役新规.md                             |
+| Size            | 2295 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

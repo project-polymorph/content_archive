@@ -1,8 +1,11 @@
 # 台灣跨性別前史：醫療、風俗誌與亞際遭逢 - 陳薇真
 
+## 正文 { data-search-exclude }
+
+
 ![台灣跨性別前史](https://cdn.readmoo.com/cover/79/6175h81_460x580.jpg?v=0)
 
-## 書籍資訊
+## 書籍資訊 { data-search-exclude }
 
 - **作者**： [陳薇真](https://readmoo.com/contributor/19880) 
 - **出版社**：[跨性別倡議站](https://readmoo.com/publisher/686) 
@@ -23,7 +26,7 @@
 
 **標籤**：[性別研究](https://readmoo.com/tag/性別研究) [變性手術](https://readmoo.com/tag/變性手術) [跨性別](https://readmoo.com/tag/跨性別) [經濟轉型](https://readmoo.com/tag/經濟轉型) [主體性](https://readmoo.com/tag/主體性)
 
-## 內容簡介
+## 內容簡介 { data-search-exclude }
 
 本書是遲來少數由主體書寫的跨性別研究，重溯解嚴後台灣社會運動風起雲湧——之前的社會過程，挖掘被婦運和同志所遺忘的生命存在，也建立台灣複數跨性別眾們的歷史感與主體性。
 
@@ -35,7 +38,7 @@
 
 陳薇真，1985年次，汐止人，現居台北中山區林森北路。東海大學哲學系畢，政治大學哲學研究所肄業。在千禧後流行音樂、獨立音樂與網路都會愛情流行出版物下長大。曾為低收入戶、無業、約聘建檔人員等，以及如髒話般的非政府組織。曾於國內文化研究年會、女學會年會等投稿多篇相關研討會論文，並投入跨性別政策、社群組織與文化倡導。聯絡：romacapri@gmail.com
 
-## 目錄列表
+## 目錄列表 { data-search-exclude }
 
 1.  目錄／前言
 2.  第一章：台灣變性醫療論述的性別維序現代性
@@ -67,7 +70,7 @@
 
 5.  附錄：「LGBT」的美國脈絡與台灣移植
 
-## 書評
+## 書評 { data-search-exclude }
 
 - 林君復 寫了書評：  
     作者對台灣跨性別前史的深入探討，有助於釐清「跨性別」相關概念傳入前在台灣社會不存在的普遍誤解。不過論述上較為學術化，學術概念的應用固然深化了論述，但可能令一些想了解小眾性/別群體的讀者望而卻步，如何平衡可讀性和專業性，是之後可以考慮改進的方向。此外，書中的錯別字和病句不少，電子書排版也太過「粗獷」，雖然了解此書是自主出版，作為完美主義者還是希望斟酌改善。
@@ -78,7 +81,7 @@
 - Tasha 寫了書評：  
     內容豐富，對於跨性別文化的演進有大綱式的闡述，不過此電子書的別字實在太多了，再版時應重新校閱。 
 
-## 劃線註記
+## 劃線註記 { data-search-exclude }
 
 - 1966年參與亞運會的女性運動員姚麗麗，因比賽首度需經由性染色體檢查被發現「非女性」而取消參賽資格，受到大幅報導，同年台大婦產科吳家鑄醫師進行生理矯正手術。
   
@@ -88,3 +91,29 @@
 
 - 利‧魯賓（Henry S. Rubin 1998）中，認為這些學術研究缺乏對變性人日常生活（everyday life of transsexual）的理解，並提倡現象學方法。
 <!-- tcd_original_link https://readmoo.com/book/210059569000101?srsltid=AfmBOor9zK8jr24Q4FcQnSS2UxeFZSxku6Z-J1frzYieFgVh4tQcZdaM -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | readmoo_台灣跨性別前史：醫療、風俗誌與亞際遭逢-_陳薇真_-_讀墨.md                             |
+| Size            | 6784 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

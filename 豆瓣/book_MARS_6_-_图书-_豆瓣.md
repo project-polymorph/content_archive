@@ -1,5 +1,8 @@
 # MARS 6
 
+## 正文 { data-search-exclude }
+
+
 ![MARS 6](https://img3.doubanio.com/view/subject/s/public/s2617087.jpg)
 
 出版社: Dong Li  
@@ -20,11 +23,11 @@ ISBN: 9789573466192
 -    ![](https://img1.doubanio.com/f/shire/46e66a46baff206223e608c521bb3724536b03b6/pics/add-cart.gif) 已在[购书单](https://book.douban.com/cart)  
 -   [分享到](#)   
 
-## 丛书信息
+## 丛书信息 { data-search-exclude }
 
 [MARS](https://book.douban.com/series/14162)(共16册)，这套丛书还有《MARS 8》《MARS 1》《MARS 4》《MARS 7》《MARS 10》等。
 
-## 喜欢读"MARS 6"的人也喜欢
+## 喜欢读"MARS 6"的人也喜欢 { data-search-exclude }
 
 [![](https://img2.doubanio.com/view/subject/s/public/s3231931.jpg)](https://book.douban.com/subject/3190183/)  
 [吸血少女 1](https://book.douban.com/subject/3190183/) 8.9  
@@ -56,7 +59,7 @@ ISBN: 9789573466192
 [![](https://img1.doubanio.com/view/subject/s/public/s3143419.jpg)](https://book.douban.com/subject/1467914/)  
 [幽遊白書 1](https://book.douban.com/subject/1467914/) 8.9  
 
-## 短评  · · · · · ·  
+## 短评  · · · · · ·   { data-search-exclude }
 
 [全部 5 条](https://book.douban.com/subject/2158825/comments/)  
 
@@ -79,3 +82,29 @@ ISBN: 9789573466192
 
 版权: © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=book)
 <!-- tcd_original_link https://book.douban.com/subject/2158825/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文件记录了关于漫画《MARS 6》的详细信息，包括出版信息、豆瓣评分和读者评论等。《MARS 6》是一本在2005年出版的漫画书，属于MARS系列丛书之一。该书的出版社为Dong Li，ISBN为9789573466192。书籍在豆瓣网站上获得了8.8的高分，反映出读者对其的普遍喜爱。此外，文件中还提供了其他人喜欢的相关书籍推荐，显示出《MARS 6》在读者中的影响力和相关性。短评部分包含了读者对书中角色及情节的不同看法，其中提到了情节的复杂性和角色之间关系的探讨。这本书通过丰富的情节和人物描写，可能涉及到多元性别的议题，引发读者对多样性的思考与讨论，是一步具有潜在探讨生存状态的文学作品。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | book_MARS_6_-_图书-_豆瓣.md                             |
+| Size            | 4503 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Dong Li                               |
+| Region          | 中国大陆                               |
+| Date            | 2005-01-01                                 |
+| Tags            | 漫画, MARS系列, 多元性别, 生命故事, 过渡经历, 社会环境, 读者评论, 豆瓣评分, 出版信息, 文学作品                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

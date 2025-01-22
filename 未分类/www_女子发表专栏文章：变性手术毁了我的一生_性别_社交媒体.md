@@ -1,5 +1,8 @@
 # 女子发表专栏文章：变性手术毁了我的一生
 
+## 正文 { data-search-exclude }
+
+
 ![女子发表专栏文章：变性手术毁了我的一生](https://i.epochtimes.com/assets/uploads/2023/05/id13988676-Transgender-600x400.jpeg)
 
 图为乔州国会众议员格林（右一）在反对年轻人变性手术的新闻发布会上，一位变性女士在发言。(Drew Angerer/Getty Images)
@@ -46,3 +49,29 @@
 
 责任编辑：宋佳怡
 <!-- tcd_original_link https://www.epochtimes.com/gb/23/5/5/n13988664.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_女子发表专栏文章：变性手术毁了我的一生_性别_社交媒体.md                             |
+| Size            | 4427 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

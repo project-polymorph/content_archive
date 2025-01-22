@@ -1,5 +1,8 @@
 # 世界上第一个变性人远比小雀斑妩媚（丹麦女孩）影评
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 今天要说的影片是两个丹麦女孩的故事。他们来自丹麦，起初他们是夫妻，两个人都是小有名气的画家，丈夫还算英俊，妻子貌美如花，两个人很幸福。
@@ -152,3 +155,29 @@
 ![丹麦女孩](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2264778990.webp)  
 [豆瓣链接](https://movie.douban.com/subject/3071604/)
 <!-- tcd_original_link https://m.douban.com/movie/review/9766871/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该影评探讨了电影《丹麦女孩》的故事，讲述了世界上第一位变性人莉莉·艾尔伯的真实经历。影片围绕莉莉与妻子格尔达·韦伯纳的复杂关系展开，描绘了莉莉从男性爱纳向女性莉莉转变的心路历程。故事发生在1926年丹麦，莉莉意识到自己男性身体内有一颗女性的心，在与妻子解除婚姻关系后，经历了六次变性手术，最终以49岁的年纪不幸去世。影评中着重分析了影片在艺术和叙事上的表现，指出了历史真实与电影改编之间的差异，尤其是对莉莉的描绘以及她妻子的承受与牺牲。影片中一系列细腻的情感变化和对社会性别认同的探索引发观众深思，同时也含有对女性角色的厚重刻画。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_世界上第一个变性人远比小雀斑妩媚-_丹麦女孩_-_豆瓣.md                             |
+| Size            | 14448 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 莉莉·艾尔伯, 丹麦女孩, 性别认同, 电影影评, 格尔达·韦伯纳, 家庭关系, 真实故事, 跨性别, 社会性别议题, 艺术表现, 历史人物                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

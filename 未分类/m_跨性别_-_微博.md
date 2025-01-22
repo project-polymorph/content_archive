@@ -1,6 +1,9 @@
 # 跨性别相关内容存档
 
-## 36岁的我终于把身份证由“女”改成了“男”！
+## 正文 { data-search-exclude }
+
+
+## 36岁的我终于把身份证由“女”改成了“男”！ { data-search-exclude }
 ![出色伙伴TrueSelf的微博视频](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png)
 ![证件照](https://wx2.sinaimg.cn/orj480/664772fbgy1hwnxvtw8a0j21hc0u077l.jpg)
 
@@ -10,7 +13,7 @@
 
 ---
 
-## 庆祝🎉社会性别为女
+## 庆祝🎉社会性别为女 { data-search-exclude }
 ![地点: 北京·北医三院](http://weibo.com/p/100101B2094654D66DA1FC4292)
 ![证件照](https://wx4.sinaimg.cn/orj360/82d1c22fly1hxekvbjqnkj21bz1bzwy2.jpg)
 
@@ -20,7 +23,7 @@
 
 ---
 
-## 跨性别教师称：因为课堂跨性别恐惧症
+## 跨性别教师称：因为课堂跨性别恐惧症 { data-search-exclude }
 ![来点石锤的微博视频](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png)
 ![教师](https://wx3.sinaimg.cn/orj480/007WUfPJgy1htik4ca7nyj30u01f4wsf.jpg)
 
@@ -30,7 +33,7 @@
 
 ---
 
-## 跨性别者激素替代治疗 HRT 一年分享
+## 跨性别者激素替代治疗 HRT 一年分享 { data-search-exclude }
 ![Renmo的微博视频](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png)
 ![治疗示例](https://wx2.sinaimg.cn/orj480/006yn3ONly1hndzt924nlj30u01hck11.jpg)
 
@@ -40,7 +43,7 @@
 
 ---
 
-## 国际跨性别现身日
+## 国际跨性别现身日 { data-search-exclude }
 ![谷语粱的微博视频](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png)
 ![活动宣传](https://wx1.sinaimg.cn/orj480/006hJ525gy1hob951w5xwj31401hdnn0.jpg)
 
@@ -50,7 +53,7 @@
 
 ---
 
-## 我妈竟然从小就发现我是跨性别？
+## 我妈竟然从小就发现我是跨性别？ { data-search-exclude }
 ![都市丽人菜的微博视频](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png)
 ![家庭故事](https://wx1.sinaimg.cn/orj480/0084XXRvgy1hayes2xiwdj31hc0u01kx.jpg)
 
@@ -60,14 +63,14 @@
 
 ---
 
-## 深圳跨性别案
+## 深圳跨性别案 { data-search-exclude }
 ![案件讨论](https://wx1.sinaimg.cn/orj360/4911870fly1hcz14oaq81j21l10wve81.jpg)
 
 - 话题标签: [#跨性别#](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B7%A8%E6%80%A7%E5%88%AB%23)
 
 ---
 
-## 国际跨性别现身日快乐
+## 国际跨性别现身日快乐 { data-search-exclude }
 ![活动海报](https://wx4.sinaimg.cn/orj360/68e80551ly1hcj8n91d0pj218g0p04cj.jpg)
 ![活动海报](https://wx2.sinaimg.cn/orj360/68e80551ly1hcj8n9a5zpj20v90uuju9.jpg)
 ![活动海报](https://wx2.sinaimg.cn/orj360/68e80551ly1hcj8na7nm7j20u021wgxt.jpg)
@@ -76,7 +79,7 @@
 
 ---
 
-## 专访：17岁女孩想变性
+## 专访：17岁女孩想变性 { data-search-exclude }
 ![心理教育分享](https://wx1.sinaimg.cn/orj480/008ncFloly1hxb6vuufpwj30u01hc0u6.jpg)
 
 - 播放次数: 58次
@@ -87,3 +90,29 @@
 
 以上是与跨性别相关的内容存档，包含视频、图片及标签，以供日后参考和研究。
 <!-- tcd_original_link https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B7%A8%E6%80%A7%E5%88%AB%23&isnewpage=1&luicode=10000011&lfid=1005052114691390 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别_-_微博.md                             |
+| Size            | 4692 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 「我們，就是靈魂找不到家」跨性別者小南的故事
 
+## 正文 { data-search-exclude }
+
+
 ![「我們，就是靈魂找不到家」跨性別者小南的故事](https://womany.net/cdn-cgi/image/w=1119,f=auto,fit=scale-down/https://castle.womany.net/images/articles/7232/womany_ying_mu_kuai_zhao_2015_04_14__xia_wu_9_19_11_1429017675-10074-8548.png)
 
 **來源**: 性別力 Gender Power  
@@ -69,7 +72,33 @@
 
 ![與身體的誠摯對話](https://womany.net/cdn-cgi/image/w=1200,fit=scale-down,f=auto/https://castle.womany.net/images/ad_items/21058/f9236aeb0952c86378592f55c81738d3.png)
 
-## 注意事項
+## 注意事項 { data-search-exclude }
 
 本網站中所有內容均由女人迷（吾思傳媒股份有限公司 / 統一編號 53099678）與其他權利人依法擁有其智慧財產權，若欲引用或轉載網站內容，或發現女人迷文章有侵權疑慮，[請來信與本公司相關部門人員接洽](mailto:content@womany.net)，我們會儘快回覆。
 <!-- tcd_original_link https://womany.net/read/article/7232 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | womany_「我們，就是靈魂找不到家」跨性別者小南的故事_-_女人迷.md                             |
+| Size            | 10442 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

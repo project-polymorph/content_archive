@@ -1,5 +1,8 @@
 # 艾米·古铁雷斯在采访中谈论她的性取向及其意义
 
+## 正文 { data-search-exclude }
+
+
 来源: Infobae  
 时间: 2022年3月19日 08:27 a.m. EST  
 
@@ -43,3 +46,29 @@
 
 标签: 艾米·古铁雷斯，同性恋，LGBT 社区，LGBT，秘鲁，秘鲁-新闻
 <!-- tcd_original_link https://www.infobae.com/cn/2022/03/19/amy-gutierrez-what-does-it-mean-to-be-pansexual/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_艾米·古铁雷斯：变性人意味着什么？_-_Infobae.md                             |
+| Size            | 4382 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

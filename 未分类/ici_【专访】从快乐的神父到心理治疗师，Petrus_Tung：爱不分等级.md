@@ -1,5 +1,8 @@
 # 【专访】从快乐的神父到心理治疗师，Petrus Tung：爱不分等级
 
+## 正文 { data-search-exclude }
+
+
 ![心理治疗师Petrus Tung。](https://images.radio-canada.ca/q_auto,w_1024/v1/ici-info/16x9/petrus-tung-2.jpeg)
 
 照片：Radio-Canada / submitted by Petrus Tung  
@@ -117,3 +120,29 @@ Petrus出生在马来西亚，是第三代华裔。
 
 照片：Radio-Canada / submitted by Petrus Tung
 <!-- tcd_original_link https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1899840/-%E4%B8%93%E8%AE%BF-%E4%BB%8E%E5%BF%AB%E4%B9%90%E7%9A%84%E7%A5%9E%E7%88%B6%E5%88%B0%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E5%B8%88-petrus-tung-%E7%88%B1%E4%B8%8D%E5%88%86%E7%AD%89%E7%BA%A7 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ici_【专访】从快乐的神父到心理治疗师，Petrus_Tung：爱不分等级.md                             |
+| Size            | 8892 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

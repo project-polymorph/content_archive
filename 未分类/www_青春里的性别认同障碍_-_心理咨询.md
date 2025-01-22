@@ -1,5 +1,8 @@
 # 青春里的性别认同障碍
 
+## 正文 { data-search-exclude }
+
+
 2018/3/22 9:00:00 编辑：心灵花园
 
 ![图片](http://www.xinlinghuayuan.com/Learning/UploadFiles_9559/201803/2018032117433296.jpg)
@@ -19,3 +22,29 @@
 - [对于想要“成人感”的孩子，父母可以这样做](http://www.xinlinghuayuan.com/Learning/qzjy/201803/Learning_20636.html "文章标题：对于想要“成人感”的孩子，父母可以这样做")
 - [正念助你成为好爸妈](http://www.xinlinghuayuan.com/Learning/qzjy/201803/Learning_20678.html "文章标题：正念助你成为好爸妈")
 <!-- tcd_original_link http://www.xinlinghuayuan.com/Learning/qzjy/201803/Learning_20657.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_青春里的性别认同障碍_-_心理咨询.md                             |
+| Size            | 3193 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

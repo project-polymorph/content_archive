@@ -1,5 +1,8 @@
 # 男娘街机 滑砖 | 官方中文 | NSZ | 原版
 
+## 正文 { data-search-exclude }
+
+
 ![000.jpg](/wp-content/uploads/pic/f1b6bde0e005f128c55dd8e5a7fea2d2.jpeg)
 
 ![0d89b430a3be74881cffcc32b3a31e6af61d3eb1e12727ad034b45803966bf8a.jpg](/wp-content/uploads/pic/5bbcd6fac72235b86494959d4d9ae008.jpeg)
@@ -14,7 +17,7 @@
 
 ![cecff60c47829378e9171279f2502c1aad652ea7aafc3aa9cdbfce27d8fd5fa4.jpg](/wp-content/uploads/pic/e2ddf5f231c940634a7f55b6c1d7fea0.jpeg)
 
-## 当您了解一系列 otokonoko 角色时，通过方块滑动关卡解开谜题！
+## 当您了解一系列 otokonoko 角色时，通过方块滑动关卡解开谜题！ { data-search-exclude }
 
 男孩们在 Otoko Cross: Pretty Boys Dropout 中回归，带来迄今为止最大规模、最大胆的参赛作品！《Otoko Cross：漂亮男孩辍学！》包含 45 个关卡的方块益智动作游戏！汇集了 9 个变装“otokonoko”角色，每个角色都有自己的背景故事等待发现，还有一系列越来越性感的服装等待解锁。
 
@@ -28,9 +31,35 @@
 - 赚取积分以换取新服装和背景图像。
 - 在增强的更衣室中组装定制立体模型！
 
-## 系统要求: 16.0.3
+## 系统要求: 16.0.3 { data-search-exclude }
 
 **标签：** [GAL游戏](https://www.phpzh.com/tag/gal%e6%b8%b8%e6%88%8f) | [益智游戏](https://www.phpzh.com/tag/%e7%9b%8a%e6%99%ba%e6%b8%b8%e6%88%8f) | [解谜探索](https://www.phpzh.com/tag/%e8%a7%a3%e8%b0%9c%e6%8e%a2%e7%b4%a2)
 
 本站作为网络服务提供者，对非法转载，盗版行为的发生不具备充分的监控能力，因此鼓励用户对网站上的作品进行全面监督，当版权拥有者提出侵权指控或出示版权声明时，本站会在第一时间对投诉举报进行核实审查，并按照相关法律规定及本网站相关规则对侵权作品采取下架、删除等相关法定义务措施。
 <!-- tcd_original_link https://www.phpzh.com/3027.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_男娘街机滑砖官方中文NSZ原版_-_素材分享站.md                             |
+| Size            | 2889 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

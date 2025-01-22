@@ -1,5 +1,8 @@
 # 從女廁來談跨性別運動
 
+## 正文 { data-search-exclude }
+
+
 文/台灣性別不明關懷協會創辦人 [吳芷儀](https://facebook.com/apjiyi)
 
 最近我在某次演講場合，台下有位女研究生提問：「我們女生因從小受到的教育關係，已經很習慣女廁只有女生了，如果有男人冒充跨性別女人進來，我們會很害怕，該怎麼解決？」這問題類似於日前美國德州休士頓選民以公投廢除了反歧視的《休士頓平權法》（Houston Equal Rights Ordinance, Hero）。反對派將Hero稱為「浴廁法令」（bathroom ordinance），認為這為任何聲稱自己為女性的男人，敞開了女性公共廁所等女性空間的大門，其中可能也包括「身著女裝」的性犯罪者。
@@ -12,7 +15,7 @@
 
 圖：性別友善廁所標誌
 
-## 跨性別女人也是女人
+## 跨性別女人也是女人 { data-search-exclude }
 
 我們常聽到「生理性別是男性，心理性別是女性。」這樣的描述來形容跨性別女人，這其實是非常簡化的說法，也容易被誤會攻擊，認為只要說：「我心理性別是女性，大家就得承認我是女人。」我想請讀者思考，什麼叫心理性別是女性？
 
@@ -24,7 +27,7 @@
 
 圖：女性是如何「出現」的？
 
-## 跨性別女人上女廁是種肯定
+## 跨性別女人上女廁是種肯定 { data-search-exclude }
 
 公部門官方可能會以為把跨性別女人丟到性別友善廁所是最佳解。殊不知，這在跨性別社群容易引起反彈，認為這是在隔離跨性別女人，貼標籤，是歧視。「為什麼要強迫我們上性別友善廁所？」即使有了性別友善廁所，順性別女人還是繼續上女廁，不會上性別友善廁所，反而是跨性別女人被邊緣化，加深對立。
 
@@ -34,7 +37,7 @@
 
 圖：性別友善廁所標誌
 
-## 性暴力是社會控制
+## 性暴力是社會控制 { data-search-exclude }
 
 性暴力是男人支配女人主要的力量，少數男人藉由性暴力的罪行，為多數男人謀取利益。利用女人對性暴力的恐懼，將女人打為性暴力下可能的受害者，男人這時就可以名正言順保護女人，同時女人對男人的需求也因此被強化。在這樣的社會氛圍下，跨性別女人常常被蒙上「性犯罪」等莫名冤屈，替順性別男人背黑鍋。
 
@@ -46,3 +49,29 @@
 
 註3：跨性別女人（Trans women）即男跨女跨性別者（Male-to-Female Transgender persons）。
 <!-- tcd_original_link https://www.istscare.org/cp-toilet/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_創辦人的話：從女廁來談跨性別運動.md                             |
+| Size            | 6611 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

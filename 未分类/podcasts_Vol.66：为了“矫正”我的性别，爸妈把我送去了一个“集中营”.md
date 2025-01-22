@@ -1,5 +1,8 @@
 # Vol.66：为了“矫正”我的性别，爸妈把我送去了一个“集中营”
 
+## 正文 { data-search-exclude }
+
+
 欢迎来到第66期《别任性》，这期的嘉宾叫小丽，一位跨性别女性。几年前因为跨性别身份，她被父母骗进了一家行为矫正的“教育机构”——湖南英高特励志教育学校。她将那个地方称为一个“集中营”。
 
 这是一个真实的《被抹去的男孩》的故事。
@@ -30,7 +33,7 @@ Tracklist：
 - Feist - Lost Dreams
 - Feist - Now At Last
 
-## Information
+## Information { data-search-exclude }
 
 - **Show**: [别任性｜Be A Dodo](https://podcasts.apple.com/gb/podcast/%E5%88%AB%E4%BB%BB%E6%80%A7-be-a-dodo/id1504822434)
 - **Frequency**: Every two months
@@ -42,3 +45,29 @@ Tracklist：
 
 ![别任性｜Be A Dodo](/assets/artwork/1x1.gif)
 <!-- tcd_original_link https://podcasts.apple.com/gb/podcast/vol-66-%E4%B8%BA%E4%BA%86-%E7%9F%AB%E6%AD%A3-%E6%88%91%E7%9A%84%E6%80%A7%E5%88%AB-%E7%88%B8%E5%A6%88%E6%8A%8A%E6%88%91%E9%80%81%E5%8E%BB%E4%BA%86%E4%B8%80%E4%B8%AA-%E9%9B%86%E4%B8%AD%E8%90%A5/id1504822434?i=1000488786898 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_Vol.66：为了“矫正”我的性别，爸妈把我送去了一个“集中营”.md                             |
+| Size            | 5257 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

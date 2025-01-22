@@ -1,8 +1,11 @@
 # 变性人何嫱参选“花儿朵朵” 只为展现女孩的美丽
 
+## 正文 { data-search-exclude }
+
+
 ![变性人何嫱参选“花儿朵朵”](https://static.hitv.com/w-pc/img/a49d610.png)
 
-## 花儿朵朵 2010
+## 花儿朵朵 2010 { data-search-exclude }
 
 ### 时间
 2010-05-11
@@ -30,3 +33,29 @@
 Copyright 2006-2025 mgtv.com Corporation, All Rights Reserved  
 Hunan Happy Sunshine Interactive Entertainment Media Co., Ltd. All Rights Reserved
 <!-- tcd_original_link https://www.mgtv.com/b/6565/3201220.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_综艺-热门节目大全-芒果TV.md                             |
+| Size            | 1787 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

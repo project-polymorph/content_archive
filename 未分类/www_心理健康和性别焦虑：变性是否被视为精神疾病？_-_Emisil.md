@@ -1,10 +1,13 @@
 # 心理健康和性别焦虑
 
+## 正文 { data-search-exclude }
+
+
 社会倾向于评判那些他们不理解的人。这就是为什么变性欲和同性恋长期以来被认为是精神疾病。此外，还有许多与变性有关的神话和误解。随着时间的推移和社会变得更加进步，尽管精神疾病和跨性别之间的关系仍然很密切，但对跨性别者的态度发生了巨大的变化。
 
 如何揭穿对跨性别者的所有误解？好吧，讨论这个话题可能会有所帮助，游离精神疾病与变性之间的相关性。让我们更多地了解跨性别者以及他们在心理健康问题上的经历——原因、可能的解决方案和误解。
 
-## 跨性别者是否被视为一种疾病？
+## 跨性别者是否被视为一种疾病？ { data-search-exclude }
 
 为了充分理解这个话题，我们需要了解跨性别者是一种精神疾病这一神话背后的原因。大多数跨性别男性都会经历性别不安，这在很大程度上导致了心理健康问题。身体不安会导致情绪困扰，因为出生时指定的性别与性别认同相冲突——简单来说，一个人对自己的身体感到不舒服。因此，性别不安可能会导致许多严重的心理健康问题，例如焦虑、恐慌、抑郁和自杀念头。因此，性别不安可能会导致心理健康问题，但它本身不能被视为精神疾病或障碍。请注意，并非所有 FTM 跨性别者都会经历性别焦虑症 - 每个跨性别者都会经历不同的通往真实自我的旅程，有些人在此过程中不会面临心理挑战。
 
@@ -12,7 +15,7 @@
 
 综上所述，性别不安和变性并不符合精神疾病的定义。尽管性别不安可能会导致一些心理问题，并且由于指定性别和性别认同的冲突，跨性别者可能容易患上严重的精神疾病，但并非所有跨性别者都遇到心理健康问题。
 
-## FTM 性别确认
+## FTM 性别确认 { data-search-exclude }
 
 在了解了导致心理健康与变性之间关联的原因后，一个自然的问题就出现了——肯定我的性别能治愈我的心理疾病吗？重要的是不要过分依赖性别肯定，并将其视为心理健康问题的解决方案。当然，性别肯定可以帮助你对自己的身体感到更舒服，但是，如果你正在治疗严重的精神疾病，你应该寻求专业人士的帮助。当你需要帮助时寻求帮助并没有什么尴尬的。此外，如果性别肯定不足以让你内心平​​静，你也不应该感到难过。请记住，我们每个人都有不同的通往真实自我的旅程，甚至更多 - 所有性别的人有时都会对自己的身体感觉不好。总而言之，找到有助于确认您的性别并让您的皮肤感觉美妙的东西非常重要。
 
@@ -20,7 +23,7 @@
 
 ![Trans gender affirmation](https://cdn.shopify.com/s/files/1/0576/8691/7295/files/Trans_gender_affirmation_480x480.jpg?v=1636095263)
 
-## 当你是变性人时如何应对精神疾病以及如何帮助你所爱的变性人？
+## 当你是变性人时如何应对精神疾病以及如何帮助你所爱的变性人？ { data-search-exclude }
 
 在这两种情况下——都要支持。如果您是遇到心理健康问题的人，请不要对自己严厉。请记住，精神疾病并不能定义你——你不仅仅是你的心理健康问题。如果亲人有精神问题，请陪伴在他们身边，让他们知道他们并不孤单。要知道你无法治愈它们，你甚至不应该尝试，但是，当你情绪低落时有人在你身边有助于克服比你想象的更多的困难。
 
@@ -43,3 +46,29 @@
 **时间：** 2024年10月25日  
 **标题：** [什么是运输包装机](https://www.emisil.com/zh/blogs/all-blog-posts/what-is-a-packer)
 <!-- tcd_original_link https://www.emisil.com/zh/blogs/all-blog-posts/mental-health-and-gender-dysphoria-is-being-transgender-considered-a-mental-illness?srsltid=AfmBOopOUAFUi_7MAgfaX9LDEVvWk_tL0YPgZWjhQk08Q3teUyRdaDgX -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_心理健康和性别焦虑：变性是否被视为精神疾病？_-_Emisil.md                             |
+| Size            | 5469 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

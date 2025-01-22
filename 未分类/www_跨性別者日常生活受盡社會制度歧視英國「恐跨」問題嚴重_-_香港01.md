@@ -1,5 +1,8 @@
 # 跨性別者日常生活受盡社會制度歧視　英國「恐跨」問題嚴重
 
+## 正文 { data-search-exclude }
+
+
 撰文：羅恩賜  
 出版：2016-01-15  
 更新：2016-03-11  
@@ -53,3 +56,29 @@
 * **來源**：香港01  
 * **相關鏈接**：[香港法律保障不足　變性跨性別人士被視作精神病](/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/2483/%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B%E4%BF%9D%E9%9A%9C%E4%B8%8D%E8%B6%B3-%E8%AE%8A%E6%80%A7%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E8%A2%AB%E8%A6%96%E4%BD%9C%E7%B2%BE%E7%A5%9E%E7%97%85)
 <!-- tcd_original_link https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/2295/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%8F%97%E7%9B%A1%E7%A4%BE%E6%9C%83%E5%88%B6%E5%BA%A6%E6%AD%A7%E8%A6%96-%E8%8B%B1%E5%9C%8B-%E6%81%90%E8%B7%A8-%E5%95%8F%E9%A1%8C%E5%9A%B4%E9%87%8D -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別者日常生活受盡社會制度歧視英國「恐跨」問題嚴重_-_香港01.md                             |
+| Size            | 6333 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,8 +1,11 @@
 # 陸穎魚／詩把我們日子強壯起來
 
+## 正文 { data-search-exclude }
+
+
 ![The Reporter Logo](https://www.twreporter.org/images/logo/logo-header.release.svg)
 
-## 【閱讀現場 X 詩生活】
+## 【閱讀現場 X 詩生活】 { data-search-exclude }
 
 陸穎魚／詩把我們日子強壯起來
 
@@ -63,3 +66,29 @@
 
 獨立的精神，是自由思想的條件。獨立的媒體，才能守護公共領域，讓自由的討論和真相浮現。
 <!-- tcd_original_link https://www.twreporter.org/a/bookreview-poem-make-us-strong -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_陸穎魚／詩把我們日子強壯起來-_報導者The_Reporter.md                             |
+| Size            | 5517 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

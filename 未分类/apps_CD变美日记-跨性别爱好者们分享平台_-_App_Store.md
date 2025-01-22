@@ -1,15 +1,18 @@
 # CD变美日记 - 跨性别爱好者们分享平台
 
+## 正文 { data-search-exclude }
+
+
 ![](/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif)
 
-## iPhone Screenshots
+## iPhone Screenshots { data-search-exclude }
 
 - ![](/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif)
 - ![](/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif)
 - ![](/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif)
 - ![](/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif)
 
-## Description
+## Description { data-search-exclude }
 
 CD变美日记APP，是一个专属于变装爱好者的温暖角落。这里是分享、交流与成长的空间，无论你是萌新还是大触，都能找到志同道合的朋友。
 
@@ -25,7 +28,7 @@ CD变美日记APP，是一个专属于变装爱好者的温暖角落。这里是
 
 下载CD变美日记APP，和圈内姐妹大胆做自己，开启属于你的个性之旅吧！
 
-## What’s New
+## What’s New { data-search-exclude }
 
 Version History
 
@@ -35,7 +38,7 @@ Version 1.4
 
 1、体验缺陷修复
 
-## App Privacy
+## App Privacy { data-search-exclude }
 
 See Details
 
@@ -63,7 +66,7 @@ The following data may be collected but it is not linked to your identity:
 
 Privacy practices may vary, for example, based on the features you use or your age. [Learn More](https://apps.apple.com/story/id1538632801)
 
-## Information
+## Information { data-search-exclude }
 
 - **Seller**: Qinzhou Zhengrui Tech Co., Ltd
 - **Size**: 204.7 MB
@@ -81,3 +84,29 @@ Privacy practices may vary, for example, based on the features you use or your a
 - [App Support](https://docs.qq.com/doc/DWmZIeFZUV0dUYUFu)
 - [Privacy Policy](https://h5.xsldate.com//webDetails.html?id=101273577374566449152)
 <!-- tcd_original_link https://apps.apple.com/nz/app/cd%E5%8F%98%E7%BE%8E%E6%97%A5%E8%AE%B0-%E8%B7%A8%E6%80%A7%E5%88%AB%E7%88%B1%E5%A5%BD%E8%80%85%E4%BB%AC%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/id6621211619 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | apps_CD变美日记-跨性别爱好者们分享平台_-_App_Store.md                             |
+| Size            | 3201 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

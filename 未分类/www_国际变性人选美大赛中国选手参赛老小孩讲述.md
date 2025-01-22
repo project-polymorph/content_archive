@@ -1,5 +1,8 @@
 # 国际变性人选美大赛 中国选手参赛
 
+## 正文 { data-search-exclude }
+
+
 **导语：**
 
 发表于2009年11月01号 16点 阅读 4303 评论4 点赞0 ©著作权归作者所有
@@ -38,13 +41,13 @@
 
 声明：以上内容仅用户个人行为，不代表本站（老小孩社区）观点，如有侵权或其他行为用户自己承担相关责任与本站无关。 
 
-## 本文作者
+## 本文作者 { data-search-exclude }
 
 [![](https://img1.oldkids.cn/static/portrait/3/38535.jpg)](/user/home.php?uid=15432)
 
-## [夏日飞雪](/user/home.php?uid=15432)
+## [夏日飞雪](/user/home.php?uid=15432) { data-search-exclude }
 
-## 评论
+## 评论 { data-search-exclude }
 
 ### 精选留言
 
@@ -52,3 +55,29 @@
 
 ©2017 老小孩网站版权所有 ｜ 沪ICP备08012383号 举报电话：021-64323922
 <!-- tcd_original_link http://www.oldkids.cn/blog/view.php?bid=100109 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国际变性人选美大赛中国选手参赛老小孩讲述.md                             |
+| Size            | 3676 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

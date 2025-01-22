@@ -1,5 +1,8 @@
 # 泰国2017变性皇后出炉！ "泰版Angelababy"夺后冠 
 
+## 正文 { data-search-exclude }
+
+
 ![Yoshi Rinrada](https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg)
 
 25日晚，2017泰国蒂芬妮变性选美皇后出炉，由新人演员Yoshi Rinrada（图中央）夺冠。
@@ -22,3 +25,29 @@
 
 标签：多元性别、变性、选美、泰国
 <!-- tcd_original_link https://world.huanqiu.com/article/9CaKrnK4UIg -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_泰国2017变性皇后出炉！_泰版Angelababy夺后冠_-_国际新闻.md                             |
+| Size            | 2208 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

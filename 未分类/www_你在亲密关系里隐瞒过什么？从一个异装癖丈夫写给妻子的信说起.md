@@ -1,5 +1,8 @@
 # 你在亲密关系里隐瞒过什么？从一个异装癖丈夫写给妻子的信说起
 
+## 正文 { data-search-exclude }
+
+
 一段亲密关系里，我们最常犯的错误就是定义并分类自己的特质，把能够被伴侣接纳和认可的特质归为一类，不能够被接纳和认可的归为另一类。
 
 [桃子笔记](https://a.jiemian.com/index.php?m=user&a=center&id=112655055) _·_ 2016年09月27日 02:45浏览 16.2w
@@ -132,3 +135,29 @@ _插图来自《卫报》、插画师Mario Sughi和Ilaria Ravinskij_
 
 [人间](https://www.jiemian.com/lists/26.html) | [婚姻与家庭](https://www.jiemian.com/tags/12639/1.html)
 <!-- tcd_original_link https://www.jiemian.com/article/864039.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_你在亲密关系里隐瞒过什么？从一个异装癖丈夫写给妻子的信说起.md                             |
+| Size            | 10508 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -1,5 +1,8 @@
 # 跨性别/性别小众平权
 
+## 正文 { data-search-exclude }
+
+
 ![电影](https://cdn.hk01.com/di/media/images/dw/20201124/407945321474166784189526.jpeg/nSO7BCsar_-v6KU6RG1M0E4ix3X-Qu4nYeFRnGHhUZw)
 
 **来源**: 香港01  
@@ -81,3 +84,29 @@
 [跨性别青年中学成长路 揭香港校园对性小众学生不公待遇](https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/848843/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B9%B4%E4%B8%AD%E5%AD%B8%E6%88%90%E9%95%B7%E8%B7%AF-%E6%8F%AD%E9%A6%99%E6%B8%AF%E6%A0%A1%E5%9C%92%E5%B0%8D%E6%80%A7%E5%B0%8F%E7%9C%BE%E5%AD%B8%E7%94%9F%E4%B8%8D%E5%85%AC%E5%BE%85%E9%81%87)  
 ![](https://social-reaction-api.hk01.com/static/images/social-reaction-like.png) ![](https://social-reaction-api.hk01.com/static/images/social-reaction-angry.png) ![](https://social-reaction-api.hk01.com/static/images/social-reaction-sad.png) 17
 <!-- tcd_original_link https://www.hk01.com/tag/5282 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_變性人平權_-_香港01.md                             |
+| Size            | 8014 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

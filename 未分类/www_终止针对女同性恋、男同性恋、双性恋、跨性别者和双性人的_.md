@@ -1,5 +1,8 @@
 # 终止针对女同性恋、男同性恋、双性恋、跨性别者和双性人 的暴力和歧视
 
+## 正文 { data-search-exclude }
+
+
 ![终止针对女同性恋、男同性恋、双性恋、跨性别者和双性人 的暴力和歧视](/images/default-source/departments/reproductive-health/thumbnails/lgbti-statement-thumbnail-zh.tmb-479v.png?Culture=zh&sfvrsn=e7b9239_9)
 
 [下载 (367.3 kB)](https://cdn.who.int/media/docs/default-source/reproductive-health/joint-lgbti-statement-zh.pdf?sfvrsn=d7411ba4_33&download=true)
@@ -14,7 +17,7 @@
 
 *虽然本声明仅提及了女同性恋、男同性恋、双性恋、跨性别者和双性人，但对声明的解读也应当涵盖因实际或他人认定的性取向、性别认同和性特征而遭受暴力和歧视的其他人，包括被唤作其他称呼者。
 
-## 世卫组织团队
+## 世卫组织团队 { data-search-exclude }
 
 Sexual and Reproductive Health and Research (SRH)
 
@@ -34,3 +37,29 @@ ILO, OHCHR, UNDP, UNESCO, UNFPA, UNHCR, UNICEF, UNODC, UN Women, WFP, WHO, UNAID
 
 [Español](https://www.who.int/es/publications/m/item/Joint_LGBTI_Statement)
 <!-- tcd_original_link https://www.who.int/zh/publications/m/item/Joint_LGBTI_Statement -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_终止针对女同性恋、男同性恋、双性恋、跨性别者和双性人的_.md                             |
+| Size            | 2939 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

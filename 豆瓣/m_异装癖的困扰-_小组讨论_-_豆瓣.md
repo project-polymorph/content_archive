@@ -1,5 +1,8 @@
 # 异装癖的困扰
 
+## 正文 { data-search-exclude }
+
+
 ![Icy](https://img2.doubanio.com/icon/up52091979-11.jpg)
 
 ### 来自: [Icy](https://www.douban.com/people/52091979/)
@@ -10,7 +13,7 @@
 
 ---
 
-## 评论
+## 评论 { data-search-exclude }
 
 - ![面目可憎了吗](https://img9.doubanio.com/icon/up157166502-6.jpg)  
   #### [面目可憎了吗](https://www.douban.com/people/157166502/) 2022-08-07 02:24:10 河南  
@@ -46,7 +49,33 @@
 
 ---
 
-## 你的回应
+## 你的回应 { data-search-exclude }
 
 回应请先 , 或 [注册](/accounts/register?reason=discuss)
 <!-- tcd_original_link https://m.douban.com/group/topic/272349016/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文讨论了有关异装癖者的心理困扰与社会认同，以及个人在穿着女装时所面临的挑战。来自山东的用户Icy分享了自己的经历，表达了对自己穿女装的不满，认为自己穿上女装难看，并寻求其他人对其困扰的看法。在评论区，其他用户给出了多样化的建议，例如鼓励Icy多尝试不同风格和款式，甚至提出要学习化妆。此外，用户们互相分享了自身的经历，传递出对个体选择的理解与支持。整体讨论表现出对异装癖者心理状态的关心，也反映了在追求自我表达中面临的社会压力和自我认同问题。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_异装癖的困扰-_小组讨论_-_豆瓣.md                             |
+| Size            | 2365 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | Icy                               |
+| Region          | 山东                               |
+| Date            | 2022-08-06                                 |
+| Tags            | 异装癖, 跨性别, 性别认同, 服装风格, 社会认同, 心理困扰, 支持与理解, 个体选择, 自我表达, 社区讨论                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

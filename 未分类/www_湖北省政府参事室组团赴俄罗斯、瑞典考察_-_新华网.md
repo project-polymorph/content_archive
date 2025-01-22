@@ -1,5 +1,8 @@
 # 湖北省政府参事室组团赴俄罗斯、瑞典考察
 
+## 正文 { data-search-exclude }
+
+
 **时间**：2012年11月22日 09:48:36  
 **来源**：[参事室网站](http://www.counsellor.gov.cn/Item/11011.aspx)  
 
@@ -11,7 +14,7 @@
 **版权**：Copyright © 2000 - 2013 XINHUANET.com All Rights Reserved.  
 **版权所有**：[点击查看](http://www.xinhuanet.com/copyright.htm)  
 
-## 延展阅读
+## 延展阅读 { data-search-exclude }
 
 - [多地调公积金政策](http://news.xinhuanet.com/fortune/2012-11/03/c_113592814.htm)  
 - [医生调查](http://news.xinhuanet.com/fortune/2012-11/03/c_113592800.htm)  
@@ -21,7 +24,7 @@
 ![山西“还债局长”重病住院 社会各界爱心集结点燃希望](http://news.xinhuanet.com/politics/2012-11/22/c_123985223.htm)  
 ![“数钱数到手抽筋”的公交点钞员](http://news.xinhuanet.com/politics/2012-11/22/c_123985199.htm)  
 
-## 新华要闻
+## 新华要闻 { data-search-exclude }
 
 - [胡锦涛会见俄罗斯国防部长](http://news.xinhuanet.com/politics/2012-11/21/c_113755759.htm) [视频](http://news.xinhuanet.com/video/2012-11/22/c_123985289.htm)  
 - [205名中央委员来自哪里 有何特点](http://news.xinhuanet.com/politics/2012-11/22/c_113757213.htm)  
@@ -39,3 +42,29 @@
 ![](http://www.xinhuanet.com/images/syicon/space.gif)  
 ![](http://www.xinhuanet.com/images/syicon/space.gif)  
 <!-- tcd_original_link http://www.xinhuanet.com/politics/2012-11/22/c_123985702.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_湖北省政府参事室组团赴俄罗斯、瑞典考察_-_新华网.md                             |
+| Size            | 4834 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

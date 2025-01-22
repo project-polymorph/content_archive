@@ -1,10 +1,13 @@
 # 跨性别资源中心 (Transgender Resource Center) 页面内容整理
 
+## 正文 { data-search-exclude }
+
+
 ![Transgender Resource Center Logo](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/348242393_923584635515449_3093192412061512321_n.jpg?stp=dst-jpg_fb50_s320x320_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=98mF95g2a_UQ7kNvgEfbxwh&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ARFQOLJpiq35UsNF1u5zpiQ&oh=00_AYDjUjHBFGBmBzvzXtqorGPjvOVS4tHa6DEzlWsV1SLRfQ&oe=678C3B14)
 
 ---
 
-## 基本信息
+## 基本信息 { data-search-exclude }
 
 - **组织名称**: 跨性别资源中心 (Transgender Resource Center)
 - **类型**: 非政府组织 (NGO)
@@ -13,7 +16,7 @@
 
 ---
 
-## 社交媒体
+## 社交媒体 { data-search-exclude }
 
 - **Facebook 页面**: [Transgender Resource Center](https://www.facebook.com/tgrhk)
 
@@ -22,7 +25,7 @@
 
 ---
 
-## 项目介绍
+## 项目介绍 { data-search-exclude }
 
 **「逆境同行：关怀和支援香港年长同志」**
 - **时间**: 2024
@@ -32,7 +35,7 @@
 
 ---
 
-## 相关链接
+## 相关链接 { data-search-exclude }
 
 - **晚同牵 Grey and Pride**: [Facebook](https://www.facebook.com/HKGayGrey?__cft__[0]=AZUdXz9GMsWHeh0WiAY0JwwcKTMjc5vKzePMZap5g31IHctwR98cDCZQAQBXxsRtxGPYzpGEHJqasXm_7ZMW2aoc7WiBPF-rcWIwzajdpTy1uZAJXtrVRXagbDf9ga99H4vHClLhRF0LA_FN1ze1IKHEDnW4A86u-KKWyb4mYhS7m6wEcigmUSpUs9f-ZPXavNu9hvhm3VQSoJDV-p57PeJW-t0y7MmJVevgv8z_k6gU8g&__tn__=-UC%2CP-y-R) 
 - **评论**: 
@@ -40,7 +43,7 @@
 
 ---
 
-## 图片集
+## 图片集 { data-search-exclude }
 
 ![Image](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/54436006_2173679996012311_6021350849693876224_n.jpg?stp=c429.0.942.942a_dst-jpg_s160x160_tt6&_nc_cat=106&ccb=1-7&_nc_sid=09d16d&_nc_ohc=MNQZs5czRBEQ7kNvgG19BRD&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AVcaWbnBtm14a8nKXqQuWxd&oh=00_AYDCXrLokfnX4sUxgifGEnPgT76S1XNig14Ggl0wkstGVQ&oe=67ADE845)
 
@@ -64,3 +67,29 @@
 
 *版权信息和其他标记未提供。* 
 <!-- tcd_original_link https://www.facebook.com/tgrhk/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Transgender_Resource_Center_跨性別資源中心_-_Facebook.md                             |
+| Size            | 5467 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

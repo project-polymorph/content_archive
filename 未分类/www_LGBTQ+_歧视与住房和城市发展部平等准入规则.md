@@ -1,12 +1,15 @@
 # LGBTQ+ 歧视与住房和城市发展部平等准入规则
 
+## 正文 { data-search-exclude }
+
+
 如果在任何住房交易或与住房有关的金融交易中遭遇住房歧视，被认定为 LGBTQ+ 的个人可以诉诸法律。根据第 13988 号行政令，联邦对住房方面性别歧视的保护已扩大到包括性取向和性别认同。2021 年 2 月 11 日，住房和城市发展部公平住房和平等机会办公室表示，他们将开始执行《公平住房法》，禁止基于性取向和性别认同的住房歧视。如果认为自己是 LGBTQ+ 并且在任何与住房有关的交易中受到歧视，现在可以向住房和城市发展部投诉。
 
 宾夕法尼亚州人际关系法》（PHRA）也将 "性别 "列为受保护的类别。宾夕法尼亚州人际关系委员会（PHRC）于 2018 年发布指导意见，指出《宾夕法尼亚州人际关系法》中的 "性别 "一词可能指出生时的性别分配、性取向、变性身份、性别转换、性别认同和/或性别表达，具体取决于案件的个别事实。
 
 宾夕法尼亚州的许多市镇都通过了反歧视法令，其中包括对那些被认定为 LGBTQ+ 的人的保护。请向您所在的市、镇或区咨询，了解您所在的具体地区有哪些保护措施。
 
-## 平等机会和性别认同规则
+## 平等机会和性别认同规则 { data-search-exclude }
 
 美国住房和城市发展部（HUD）于2012年发布了题为《不论性取向或性别认同，在HUD计划中平等获得住房》的法规。这些法规规定，接受住房和城市发展部资助或获得联邦住房管理局（FHA）承保贷款的住房提供者和联邦住房管理局贷款人必须确保平等获得住房，而不考虑实际或感知的性取向、性别认同或婚姻状况。2012 年住房和城市发展部 LGBT 规则适用于所有住房和城市发展部资助的计划，包括第 8 款（住房券）、公共住房、社区发展整笔赠款、艾滋病患者住房机会 (HOPWA)、老年人和残疾人支持性住房以及 FHA 承保贷款。该规定不适用于未获得住房和城市发展部资助的私人住房提供商。
 
@@ -21,7 +24,7 @@
 - [2016 年--社区规划和发展计划中与个人性别认同相符的平等机会](https://www.equalhousing.org/zh/resources/2016-equal-access-in-accordance-with-an-individuals-gender-identity-in-community-planning-and-development-programs/)
 - [2012 - 无论性取向或性别认同如何，均可平等获得住房和城市发展部计划中的住房](https://www.equalhousing.org/zh/resources/2012-equal-access-to-housing-in-hud-programs-regardless-of-sexual-orientation-or-gender-identity/)
 
-## 相关公平住房主题
+## 相关公平住房主题 { data-search-exclude }
 
 ![占用-家庭](https://www.equalhousing.org/wp-content/uploads/elementor/thumbs/Occupancy-Fam-qob752kmvg5ez8658igd8r735ly11luilmyxye80wo.jpg)
 
@@ -60,3 +63,29 @@
 - [隐私政策](https://www.equalhousing.org/zh/privacy-policy/)
 - 由认证 B 公司 Pixel Parlor 负责设计 [Pixel Parlor](https://pixelparlor.com/)
 <!-- tcd_original_link https://www.equalhousing.org/zh/fair-housing-topics/lgbtq-discrimination-and-hud-equal-access-rules/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_LGBTQ+_歧视与住房和城市发展部平等准入规则.md                             |
+| Size            | 6810 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

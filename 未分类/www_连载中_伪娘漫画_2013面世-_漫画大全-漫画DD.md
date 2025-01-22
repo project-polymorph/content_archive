@@ -1,6 +1,9 @@
 # 多元性别相关漫画存档（2013）
 
-## [女装日常](https://www.manhuacdn.com/manhua/8816) 
+## 正文 { data-search-exclude }
+
+
+## [女装日常](https://www.manhuacdn.com/manhua/8816)  { data-search-exclude }
 ![女装日常的封面图](https://media.manhuacdn.com/cartoon/8816_cover_gvjktbtq.jpg)
 - **作者:** [EMIRI](https://www.manhuacdn.com/author/5866)  
 - **连载状态:** 连载中  
@@ -9,7 +12,7 @@
 
 ---
 
-## [妹子和我换了身体](https://www.manhuacdn.com/manhua/8386) 
+## [妹子和我换了身体](https://www.manhuacdn.com/manhua/8386)  { data-search-exclude }
 ![妹子和我换了身体的封面图](https://media.manhuacdn.com/cartoon/8386_cover_dsaysqio.jpg)
 - **作者:** [みほりん。](https://www.manhuacdn.com/author/5661)  
 - **连载状态:** 连载中  
@@ -18,7 +21,7 @@
 
 ---
 
-## [Fetix!](https://www.manhuacdn.com/manhua/8287) 
+## [Fetix!](https://www.manhuacdn.com/manhua/8287)  { data-search-exclude }
 ![Fetix!的封面图](https://media.manhuacdn.com/cartoon/8287_cover_khivajsg.jpg)
 - **作者:** [几夜大黑堂](https://www.manhuacdn.com/author/5271)  
 - **连载状态:** 连载中  
@@ -27,7 +30,7 @@
 
 ---
 
-## [小智变妹后 夏日祭篇](https://www.manhuacdn.com/manhua/7492) 
+## [小智变妹后 夏日祭篇](https://www.manhuacdn.com/manhua/7492)  { data-search-exclude }
 ![小智变妹后 夏日祭篇的封面图](https://media.manhuacdn.com/cartoon/7492_cover_oztvdkyg.jpg)
 - **作者:** [三毛猫](https://www.manhuacdn.com/author/5207)  
 - **连载状态:** 连载中  
@@ -36,7 +39,7 @@
 
 ---
 
-## [女装少年 苍组](https://www.manhuacdn.com/manhua/6668) 
+## [女装少年 苍组](https://www.manhuacdn.com/manhua/6668)  { data-search-exclude }
 ![女装少年 苍组的封面图](https://media.manhuacdn.com/cartoon/6668_cover_ibrhqiin.jpg)
 - **作者:** [结城咲夜](https://www.manhuacdn.com/author/4768)  
 - **连载状态:** 连载中  
@@ -45,7 +48,7 @@
 
 ---
 
-## [我被变成妹了（Asuka Hybrid）](https://www.manhuacdn.com/manhua/6232) 
+## [我被变成妹了（Asuka Hybrid）](https://www.manhuacdn.com/manhua/6232)  { data-search-exclude }
 ![我被变成妹了（Asuka Hybrid）的封面图](https://media.manhuacdn.com/cartoon/6232_cover_okwyrmsk.jpg)
 - **作者:** [Ken+](https://www.manhuacdn.com/author/4549)  
 - **连载状态:** 连载中  
@@ -54,7 +57,7 @@
 
 ---
 
-## [转生少女图鉴](https://www.manhuacdn.com/manhua/6224) 
+## [转生少女图鉴](https://www.manhuacdn.com/manhua/6224)  { data-search-exclude }
 ![转生少女图鉴的封面图](https://media.manhuacdn.com/cartoon/6224_cover_fxmxjlgq.jpg)
 - **作者:** [お子様ランチ](https://www.manhuacdn.com/author/4545)  
 - **连载状态:** 连载中  
@@ -63,7 +66,7 @@
 
 ---
 
-## [穿女装弹吉他的我差点露馅](https://www.manhuacdn.com/manhua/5811) 
+## [穿女装弹吉他的我差点露馅](https://www.manhuacdn.com/manhua/5811)  { data-search-exclude }
 ![穿女装弹吉他的我差点露馅的封面图](https://media.manhuacdn.com/cartoon/5811_cover_ragzgzld.jpg)
 - **作者:** [真西まり](https://www.manhuacdn.com/author/4319)  
 - **连载状态:** 连载中  
@@ -72,7 +75,7 @@
 
 ---
 
-## [伪娘控](https://www.manhuacdn.com/manhua/5149) 
+## [伪娘控](https://www.manhuacdn.com/manhua/5149)  { data-search-exclude }
 ![伪娘控的封面图](https://media.manhuacdn.com/cartoon/5149_cover_yyybspic.jpg)
 - **作者:** [シュガー](https://www.manhuacdn.com/author/3923)  
 - **连载状态:** 连载中  
@@ -81,7 +84,7 @@
 
 ---
 
-## [不高兴的灰姑娘](https://www.manhuacdn.com/manhua/4964) 
+## [不高兴的灰姑娘](https://www.manhuacdn.com/manhua/4964)  { data-search-exclude }
 ![不高兴的灰姑娘的封面图](https://media.manhuacdn.com/cartoon/4964_cover_nhkurhfq.jpg)
 - **作者:** [村山涉](https://www.manhuacdn.com/author/1177)  
 - **连载状态:** 连载中  
@@ -90,10 +93,36 @@
 
 ---
 
-## [小望的野望](https://www.manhuacdn.com/manhua/4512) 
+## [小望的野望](https://www.manhuacdn.com/manhua/4512)  { data-search-exclude }
 ![小望的野望的封面图](https://media.manhuacdn.com/cartoon/4512_cover_mzqfcymh.jpg)
 - **作者:** [长月みそか](https://www.manhuacdn.com/author/3563)  
 - **连载状态:** 连载中  
 - **标签:** [伪娘](https://www.manhuacdn.com/manhua/list-c-60.html)  
 - **内容:** 初中生田尾望所属的少年棒球队，因为打输比赛而整队被处罚打扮成拉拉队辣妹替对方加油。小望穿上了女装，却意外地合适，使他面临了前所未有的心动体验，而这似乎比棒球更能让他热在其中……。
 <!-- tcd_original_link https://www.manhuadd.com/manhua/list-s-1-c-60-t-2013.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_连载中_伪娘漫画_2013面世-_漫画大全-漫画DD.md                             |
+| Size            | 7378 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

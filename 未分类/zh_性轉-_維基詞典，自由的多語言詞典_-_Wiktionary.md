@@ -1,6 +1,9 @@
 # 性轉 - 維基詞典
 
-## 漢語
+## 正文 { data-search-exclude }
+
+
+## 漢語 { data-search-exclude }
 
 **性轉**
 
@@ -48,3 +51,29 @@
 -   [漢語 性別](https://wiki/Category:%E6%BC%A2%E8%AA%9E_%E6%80%A7%E5%88%A5)
 -   [漢語 同人虛構](https://wiki/Category:%E6%BC%A2%E8%AA%9E_%E5%90%8C%E4%BA%BA%E8%99%9B%E6%A7%8B)
 <!-- tcd_original_link https://zh.wiktionary.org/zh-hant/%E6%80%A7%E8%BD%89 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_性轉-_維基詞典，自由的多語言詞典_-_Wiktionary.md                             |
+| Size            | 2335 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

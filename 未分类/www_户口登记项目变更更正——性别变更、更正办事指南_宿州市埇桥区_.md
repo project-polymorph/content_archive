@@ -1,5 +1,8 @@
 # 户口登记项目变更更正——性别变更、更正办事指南
 
+## 正文 { data-search-exclude }
+
+
 ![埇桥区人民政府](/group1/M00/07/E5/Cpc8Vl_1DSCAdpH4AABGg0Vr0hY699.png)
 
 您的位置：[首页](/index.html) > 栏杆镇人民政府 > [户籍管理领域](/grassroots/column/6623519?catId=1019031) > [户口登记项目变更更正](/grassroots/column/6623519?catId=1019081)
@@ -64,3 +67,29 @@
 联系邮箱：szyqxxzx@163.com  
 访问人次：_67457746_  
 <!-- tcd_original_link https://www.szyq.gov.cn/grassroots/6623519/149934961.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_户口登记项目变更更正——性别变更、更正办事指南_宿州市埇桥区_.md                             |
+| Size            | 2946 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

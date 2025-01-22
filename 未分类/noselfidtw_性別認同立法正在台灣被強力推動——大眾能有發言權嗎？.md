@@ -1,5 +1,8 @@
 # 性別認同立法正在台灣被強力推動——大眾能有發言權嗎？
 
+## 正文 { data-search-exclude }
+
+
 - 日期: 2021 年 10 月 14 日
 - 作者: [Jaclynn Joyce](/authors/jaclynn-joyce/)
 
@@ -118,3 +121,29 @@ _作者 Jaclynn Joyce，是一個出生在夏威夷目前定居台灣的博士�
 
 标签: [台灣](/regions/%e5%8f%b0%e7%81%a3/) [女性空間](/tags/%e5%a5%b3%e6%80%a7%e7%a9%ba%e9%96%93/) [性別登記](/tags/%e6%80%a7%e5%88%a5%e7%99%bb%e8%a8%98/) [言論思想自由](/tags/%e8%a8%80%e8%ab%96%e6%80%9d%e6%83%b3%e8%87%aa%e7%94%b1/)
 <!-- tcd_original_link https://noselfidtw.cc/post/gender-identity-legislation-is-being-pushed-through-in-taiwan-will-women-get-a-say/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | noselfidtw_性別認同立法正在台灣被強力推動——大眾能有發言權嗎？.md                             |
+| Size            | 16625 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

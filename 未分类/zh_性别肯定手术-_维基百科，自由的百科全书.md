@@ -1,12 +1,15 @@
 # 性别肯定手术
 
+## 正文 { data-search-exclude }
+
+
 维基百科中的医学内容**仅供参考**，并**不能**视作专业意见。如需获取医疗帮助或意见，请咨询专业人士。详见**[医学声明](https://zh.wikipedia.org/wiki/Wikipedia:%E5%8C%BB%E5%AD%A6%E5%A3%B0%E6%98%8E)**。
 
 **性别肯定手术**（英语：Gender-affirming surgery）是一种外科手术或一系列外科手术，其可以改变一个人的生理特征，使其符合个体所认同的性别。该手术也被称为**性别重置手术**（英语：**S**ex **R**eassignment **S**urgery）、**性别确认手术**（英语：**G**ender **C**onfirmation **S**urgery）、**变性手术**等。它是针对[跨性别](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5)人群的[性别不安](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E4%B8%8D%E5%AE%89)的治疗的一部分。
 
 [针对跨性别女性的性别肯定手术](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_%28%E7%94%B7%E8%B7%A8%E5%A5%B3%29)是指在解剖结构上构造典型的女性性别生理特征的手术，例如[阴道成形术](https://zh.wikipedia.org/wiki/%E9%98%B4%E9%81%93%E6%88%90%E5%BD%A2%E6%9C%AF)和[隆胸](https://zh.wikipedia.org/wiki/%E9%9A%86%E4%B9%B3)等，而[针对跨性别男性的性别肯定手术](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_%28%E5%A5%B3%E8%B7%A8%E7%94%B7%29)是指在解剖结构上构造典型的男性性别生理特征的手术，例如[阴茎成形术](https://en.wikipedia.org/wiki/Phalloplasty)和[乳房缩小术](https://zh.wikipedia.org/wiki/%E4%B9%B3%E6%88%BF%E7%BC%A9%E5%B0%8F%E6%9C%AF)。
 
-## 手术项目
+## 手术项目 { data-search-exclude }
 
 更多信息：[性别肯定手术 (男跨女)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_%28%E7%94%B7%E8%B7%A8%E5%A5%B3%29)和[性别肯定手术 (女跨男)](https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_%28%E5%A5%B3%E8%B7%A8%E7%94%B7%29)
 
@@ -14,7 +17,7 @@
 
 寻求手术的[跨性别男性](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E7%94%B7%E6%80%A7)和[其他出生时被指定为女性的人](https://zh.wikipedia.org/wiki/AFAB)可能会接受一项或多项男性化手术，其中包括[男性胸部重建](https://en.wikipedia.org/wiki/Male_chest_reconstruction)（英语：[Male chest reconstruction](https://en.wikipedia.org/wiki/Male_chest_reconstruction)）、[乳房缩小术](https://zh.wikipedia.org/wiki/%E4%B9%B3%E6%88%BF%E7%BC%A9%E5%B0%8F%E6%9C%AF)、[子宫切除术](https://zh.wikipedia.org/wiki/%E5%AD%90%E5%AE%AE%E5%88%87%E9%99%A4%E8%A1%93)和[卵巢切除术](https://en.wikipedia.org/wiki/Oophorectomy)。阴茎可以通过[阴茎成形术](https://en.wikipedia.org/wiki/Phalloplasty)(英语：[Phalloplasty](https://en.wikipedia.org/wiki/Phalloplasty))、[阴蒂释放术](https://en.wikipedia.org/wiki/Metoidoplasty)(英语：[Metoidoplasty](https://en.wikipedia.org/wiki/Metoidoplasty))来构建，[阴囊](https://zh.wikipedia.org/wiki/%E9%98%B4%E5%9B%8A)可以通过[阴囊成形术](https://en.wikipedia.org/wiki/Scrotoplasty)(英语：[Scrotoplasty](https://en.wikipedia.org/wiki/Scrotoplasty))来构建。
 
-## 历史
+## 历史 { data-search-exclude }
 
 人类寻求性别肯定手术的历史可以追溯到公元2世纪，历史上的著名人物有罗马皇帝[埃拉伽巴路](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E4%BC%BD%E5%B7%B4%E8%B7%AF%E6%96%AF)。[^1][^2]现代性别肯定手术起源于20世纪。[^1]
 
@@ -42,7 +45,7 @@
 
 继阴茎成形术之后，莱博维奇和劳布医生于1999年开发了针对跨性别男性的阴蒂释放术。[^30]阴蒂释放术被认为是阴茎成形术的一种变体，它的作用是从个体现有的阴蒂中创造出阴茎。这使得受术者可以有一个有感觉的阴茎头。阴茎释放术可以与阴茎成形术结合使用，以在多个阶段产生更大、更像顺性别男性的阴茎。[^30]
 
-## 手术之前
+## 手术之前 { data-search-exclude }
 
 ### 医学考虑
 
@@ -62,13 +65,13 @@
 
 当手术指派的性别与个人的性别认同不匹配时，可能会出现负面结果（包括创伤后应激障碍和自杀）。【41】【42】【43】有观点建议医生不要对儿童进行手术，除非他们年龄足够大，能够进行知情同意，这样才能为双性婴儿分配最适合他们的性别。【44】【45】
 
-## 手术之后
+## 手术之后 { data-search-exclude }
 
 目前的文献肯定对满足一定标准的适合的个体实施性别肯定手术的益处。尽管可能出现并发症，但这些并发症一般相对轻微。此外，针对跨性别群体实施的性别肯定手术与其它类似手术的并发症发生率没有明显差异。【31】
 
 已有研究显示，性别肯定手术的后悔率非常低，在0.3%～3.8%之间。其中后悔发生率最高的时期，手术技术和相关照护标准尚不完善。受术者后悔的情绪可能是暂时或永久的，可以分为社会性后悔（由家庭、宗教、社交或职业生活中的困难引起）、医疗性后悔（由长期的医疗并发症、不满意的手术结果或不充分的术前决策过程引起）和真正与性别相关的后悔（由医务人员对受术者的误诊，自身对性别认同探索不足等引起）。【31】
 
-## 参考文献
+## 参考文献 { data-search-exclude }
 
 1. ^ Smith, Shannon; Han, Justin. The trans-formation of gender confirming surgery: a brief history. The Journal of Urology. 2019-04-01, **201** (4S): e244. [S2CID 149966616](https://api.semanticscholar.org/CorpusID:149966616). [doi:10.1097/01.JU.0000555394.71572.8e](https://doi.org/10.1097%2F01.JU.0000555394.71572.8e) 
 2. **[^](#cite_ref-2 "跳转")** Goldberg, Abbie E.; Beemyn, Genny (编). Ancient and Medieval Times. The SAGE Encyclopedia of Trans Studies. SAGE Publishing. 2021: 32. [ISBN 9781544393810](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/9781544393810 "Special:网络书源/9781544393810"). 
@@ -102,7 +105,7 @@
 30. ^ Djordjevic, M.L.; Stanojevic, D.; Bizic, M.; Kojovic, V.; Majstorovic, M.; Vujovic, S.; et al. Metoidioplasty as a single stage sex reassignment surgery in female transsexuals: Belgrade experience. The Journal of Sexual Medicine. May 2009, **6** (5): 1306–13. 
 31. ^ Coleman, E.; Radix, A. E.; Bouman, W. P.; Brown, G. R.; de Vries, A. L. C.; Deutsch, M. B.; Ettner, R.; Fraser, L.; Goodman, M.; Green, J.; Hancock, A. B.; Johnson, T. W.; Karasic, D. H.; Knudson, G. A.; Leibowitz, S. F.; Meyer-Bahlburg, H. F. L.; Monstrey, S. J.; Motmans, J.; Nahata, L.; Nieder, T. O.; Reisner, S. L.; Richards, C.; Schechter, L. S.; Tangpricha, V.; Tishelman, A. C.; Van Trotsenburg, M. A. A.; Winter, S.; Ducheny, K.; Adams, N. J.; Adrián, T. M.; Allen, L. R.; Azul, D.; Bagga, H.; Başar, K.; Bathory, D. S.; Belinky, J. J.; Berg, D. R.; Berli, J. U.; Bluebond-Langner, R. O.; Bouman, M.-B.; Bowers, M. L.; Brassard, P. J.; Byrne, J.; Capitán, L.; Cargill, C. J.; Carswell, J. M.; Chang, S. C.; Chelvakumar, G.; Corneil, T.; Dalke, K. B.; De Cuypere, G.; de Vries, E.; Den Heijer, M.; Devor, A. H.; Dhejne, C.; D’Marco, A.; Edmiston, E. K.; Edwards-Leeper, L.; Ehrbar, R.; Ehrensaft, D.; Eisfeld, J.; Elaut, E.; Erickson-Schroth, L.; Feldman, J. L.; Fisher, A. D.; Garcia, M. M.; Gijs, L.; Green, S. E.; Hall, B. P.; Hardy, T. L. D.; Irwig, M. S.; Jacobs, L. A.; Janssen, A. C.; Johnson, K.; Klink, D. T.; Kreukels, B. P. C.; Kuper, L. E.; Kvach, E. J.; Malouf, M. A.; Massey, R.; Mazur, T.; McLachlan, C.; Morrison, S. D.; Mosser, S. W.; Neira, P. M.; Nygren, U.; Oates, J. M.; Obedin-Maliver, J.; Pagkalos, G.; Patton, J.; Phanuphak, N.; Rachlin, K.; Reed, T.; Rider, G. N.; Ristori, J.; Robbins-Cherry, S. A.; Roberts, S. A.; Rodriguez-Wallberg, K. A.; Rosenthal, S. M.; Sabir, K.; Safer, J. D.; Scheim, A. I.; Seal, L. J.; Sehoole, T. J.; Spencer, K.; St. Amand, C.; Steensma, T. D.; Strang, J. F.; Taylor, G. B.; Tilleman, K.; T’Sjoen, G. G.; Vala, L. N.; Van Mello, N. M.; Veale, J. F.; Vencill, J. A.; Vincent, B.; Wesp, L. M.; West, M. A.; Arcelus, J. Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. International Journal of Transgender Health. 2022-08-19, **23** (sup1): S1–S259. [doi:10.1080/26895269.2022.2100644](https://doi.org/10.1080%2F26895269.2022.2100644) 
 
-## 外部链接
+## 外部链接 { data-search-exclude }
 
 - [MtF.wiki](https://mtf.wiki)
 - [FtM.wiki](https://ftm.wiki)
@@ -112,3 +115,29 @@
 - （英文）[琳·康维](https://zh.wikipedia.org/wiki/%E7%90%B3%C2%B7%E5%BA%B7%E7%B6%AD)对SRS全面介绍之页面](http://ai.eecs.umich.edu/people/conway/TS/SRS.html)
 - （英文）[TS Roadmap上的阴道成形术资讯](http://www.tsroadmap.com/physical/vaginoplasty/)
 <!-- tcd_original_link https://zh.wikipedia.org/zh-hans/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E8%A1%93 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_性别肯定手术-_维基百科，自由的百科全书.md                             |
+| Size            | 24803 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

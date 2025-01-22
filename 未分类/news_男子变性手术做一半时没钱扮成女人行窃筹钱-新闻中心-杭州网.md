@@ -1,5 +1,8 @@
 # 男子变性手术做一半时没钱 扮成女人行窃筹钱
 
+## 正文 { data-search-exclude }
+
+
 ![杭州网](../../../images/attachement/gif/site2/20110704/b8ac6f87bfff0f7bae5e0b.gif)
 
 **来源：** 京华时报  
@@ -51,3 +54,29 @@
 
 增值电信业务经营许可证：[浙B2-20110366](http://www.miibeian.gov.cn/) | 信息网络传播视听节目许可证：1105105 | 网络文化经营许可:[浙网文\[2012\]0867-091号](http://www.hangzhou.com.cn/extra/images/zwwjyxkz.jpg) | 工信部备案号：浙ICP备11041366号-1
 <!-- tcd_original_link https://news.hangzhou.com.cn/shxw/content/2013-01/31/content_4590148.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_男子变性手术做一半时没钱扮成女人行窃筹钱-新闻中心-杭州网.md                             |
+| Size            | 3674 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

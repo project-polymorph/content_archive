@@ -1,5 +1,8 @@
 # 德国「性别自决」法案生效 一年可「变性」一次
 
+## 正文 { data-search-exclude }
+
+
 ![德国「性别自决」法案生效。](https://image.stheadline.com/f/680p0/0x0/100/none/253a46ed68d1efa3bc970dbe98bb4a8b/stheadline/inewsmedia/20241103/_2024110316185714245.jpg)
 
 当地时间11月1日，德国「性别自决」法案（Selbstbestimmungsgesetz）生效。德国人将可于当天起，自由更改官方记录上的姓名和性别，甚至可以一年更改一次。更改性别毋须医疗证明、司法命令或任何报告。目前，当局已接获至少1200份申请。自称女性的跨性别者，可自由出入女厕，女更衣室，女浴室等公共设施。
@@ -42,7 +45,7 @@
 
 德国环保组织「最后一代」（Last Generation）成员佩内洛普称，他心理上是一名女性，但警方及法官每次都将他关入男子监狱，让他感到很不舒服。
 
-## 反对声音此起彼落
+## 反对声音此起彼落 { data-search-exclude }
 
 有报道指，该法案会牵涉到身份证件，并影响政府行政，警方查案等。
 
@@ -50,3 +53,29 @@
 
 亦有德国网民担忧，强奸犯会否利用「变性」，出入女性更衣室等地方，而感受被骚扰的女性甚至不能尖叫，因为会面临罚款。
 <!-- tcd_original_link https://std.stheadline.com/sc/realtime/article/2033351/%E5%8D%B3%E6%99%82-%E5%9C%8B%E9%9A%9B-%E5%BE%B7%E5%9C%8B-%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA-%E6%B3%95%E6%A1%88%E7%94%9F%E6%95%88-%E4%B8%80%E5%B9%B4%E5%8F%AF-%E8%AE%8A%E6%80%A7-%E4%B8%80%E6%AC%A1 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | std_德国「性别自决」法案生效一年可「变性」一次_-_星島日報.md                             |
+| Size            | 5908 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

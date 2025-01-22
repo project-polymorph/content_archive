@@ -1,5 +1,8 @@
 # 香港唯一公開出櫃雙性人！細細老師：孩子的性別，該由孩子決定
 
+## 正文 { data-search-exclude }
+
+
 ![香港唯一公開出櫃雙性人！細細老師：孩子的性別，該由孩子決定](https://womany.net/cdn-cgi/image/w=1119,f=auto,fit=scale-down/https://castle.womany.net/images/articles/16712/womany_xi_1_1537165897-2380-0282.png)
 
 性別力 Gender Power
@@ -18,7 +21,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/77700/womany_xi_1_1537164982-2377-3334.png) 圖片來源：G 點電視
 
-## **手術床上的白老鼠**
+## **手術床上的白老鼠** { data-search-exclude }
 
 出生的那一刻，就決定了細細老師悲痛的大半生。醫生發現細細老師的陰莖比其他初生嬰兒細小，加上尿道出口位於會陰，因此無法由性器官判斷其性別。不過，由於細細老師是家中第一位出生的孩子，父母決定將這個嬰兒養育成將來能傳宗接代的男生——即使這位男生並不「正常」。
 
@@ -30,7 +33,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/77701/womany_xi_2_1537165421-2377-9903.jpg) 這個溫柔的笑容是細細老師的標記（圖為 2015 年香港同志遊行）
 
-## 如果非要為「她」定下一個性別身份⋯⋯
+## 如果非要為「她」定下一個性別身份⋯⋯ { data-search-exclude }
 
 直至三十多歲時的一次身體檢查中，醫生才發現細細老師體內擁有發育不完全的女性內生殖系統；另一方面，在各種身體因素的影響下，若不把男性生殖器官切除的話，更會因雄激素過高而引發癌症。雖然細細老師曾經對「男性」這個身份有所質疑，但畢竟以這個身分活了數十年，突然要「改變性別」生活，也令她不懂面對，更一度因此出現自殺念頭。
 
@@ -40,7 +43,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/77702/womany_xi_3_1537165436-2380-4974.jpg) 細細老師自傳《性別告白 — 當我提筆寫「他」》
 
-## 小時候完成手術，更能忘記痛苦？
+## 小時候完成手術，更能忘記痛苦？ { data-search-exclude }
 
 「沒有證據可以證明這件事——這是一個天大的謊言。小時候做過的手術，我到現在仍然歷歷在目。」平日談吐淡定的細細老師激動地糾正。她希望大家知道，童年陰影是一生都無法磨滅的。身體遭到摧殘，無法如常人般上學交友，內心經常天人交戰——這些烙印不會隨著年月而從雙性孩子的身心消失。細細老師更比喻說：「我小時候曾被狗咬，現在看到小狗也會覺得牠像巨人！」被狗咬的童年陰影已如此深刻，更何況二十多次手術以及長年被同學排擠的痛苦？
 
@@ -48,7 +51,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=600,h=500,fit=scale-down,f=auto/https://womany.net/cdn-cgi/image/w=600,h=500,fit=scale-down,f=auto/https://castle.womany.net/images/ad_items/21020/b73e5057b87dc441b6421348c3505a9e.png)
 
-## 孩子性別由孩子決定
+## 孩子性別由孩子決定 { data-search-exclude }
 
 根據國際人權公約「禁止殘酷對待條約」，聯合國強烈要求各成員國盡快禁止任何對雙性人的不人道對待，終止施予未成年雙性人的性器官修訂手術。細細老師補充，必須在合適的年齡（最低 13 歲，最好 16 歲）和根據小朋友的性別意識來決定性別的方向。香港是簽訂條約的地區之一，港府有責任完成立法。
 
@@ -58,7 +61,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/77703/womany_xi_4_1537165552-2380-0089.jpg) 細細老師在 2017 年書展中公開地向媽媽說出心底話
 
-## 被歧視和欺凌的「怪物」
+## 被歧視和欺凌的「怪物」 { data-search-exclude }
 
 根據國際數字，每五千個新生嬰兒就有一個雙性人；香港絕不只一位雙性人，但卻只有一位公開出櫃的雙性人。可以想像到，相比起同性戀者、雙性戀者和跨性別，雙性人是更受壓迫的一群。
 
@@ -68,7 +71,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=600,h=500,fit=scale-down,f=auto/https://womany.net/cdn-cgi/image/w=600,h=500,fit=scale-down,f=auto/https://castle.womany.net/images/ad_items/21021/9cf70c725be5b0120f546f25bd6f4a49.png)
 
-## 勤力而溫柔的平權運動者
+## 勤力而溫柔的平權運動者 { data-search-exclude }
 
 細細老師完成切除男性性器官手術後，反思她前半生的痛苦。她希望雙性人的權益得到社會關注，於是毅然決定孤身踏上這尋找平權之路。雖然身兼註冊中醫師，社工和臨床催眠治療師三個專業身份的她，起初也曾因擔心公開出櫃會令客人質疑她的專業，而選擇只以「關心雙性人的醫生」的身份參與平權，但後來為了帶來更大的影響，她也鼓起勇氣成為香港首個公開出櫃的雙性人。
 
@@ -78,7 +81,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 ![](https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/77704/womany_xi_5_1537165664-2377-4290.jpg) 細細老師出席大小活動，讓公眾認識雙性人（圖為 2015 年國際不再恐同日）
 
-## 推動公民教育還是爭取立法？Why not both？
+## 推動公民教育還是爭取立法？Why not both？ { data-search-exclude }
 
 細細老師這些年來不斷見報和出席大小活動，無非都是希望讓更多人接觸和認識到有血有肉的雙性人，讓他們聽聽雙性人的故事，從而令小朋友不再因為世間的價值觀而受到傷害，父母不再因孩子感到羞恥。當中細細老師最希望的，是向家長和醫生團體分享，因為他們是雙性人最早接觸到的一方；其次是社工團體，因為他們走在最前線，有機會接觸到求助的雙性人個案。細細老師認為，如能做好公民教育，根本不需要透過立法去保障小眾權益。
 
@@ -102,3 +105,29 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 
 由女同學社於2008年創辦，是香港首個為同志社群服務的網上電視台，現發展成一個文字與影像結合的同志媒體。為小眾發聲、重掌媒體中的話語權是Ｇ點電視的核心理念。網站　臉書　影片
 <!-- tcd_original_link https://womany.net/read/article/16712 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | womany_香港唯一公開出櫃雙性人！細細老師：孩子的性別，該由孩子決定.md                             |
+| Size            | 13183 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

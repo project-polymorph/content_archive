@@ -1,5 +1,8 @@
 # 教育機構：師生與同儕 – 跨性別 Transgender
 
+## 正文 { data-search-exclude }
+
+
 ![021012](https://transgender.taipei/wp-content/uploads/2021/10/021012.png)
 
 ![日常生活 Mobile Ol](https://transgender.taipei/wp-content/uploads/2021/10/日常生活_mobile_ol.jpg)
@@ -20,3 +23,29 @@
 
 [下一篇醫療資源：生理與心理](https://transgender.taipei/life/%e9%86%ab%e7%99%82-%e5%bf%83%e7%90%86-%e9%86%ab%e7%99%82%e8%b3%87%e6%ba%90/)
 <!-- tcd_original_link https://transgender.taipei/life/%E6%95%99%E8%82%B2-%E5%AD%B8%E6%A0%A1-%E6%80%A7%E5%B9%B3%E8%B3%87%E6%BA%90/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | transgender_教育機構：師生與同儕_-_跨性別Transgender.md                             |
+| Size            | 2161 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

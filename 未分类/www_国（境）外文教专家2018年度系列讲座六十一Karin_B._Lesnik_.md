@@ -1,14 +1,17 @@
 # 国（境）外文教专家2018年度系列讲座六十一:Karin B. Lesnik-Oberstein教授讲座
 
+## 正文 { data-search-exclude }
+
+
 时间：2018-05-10 浏览：3017
 
-## 一、主讲人简介
+## 一、主讲人简介 { data-search-exclude }
 
 ![卡琳•莱斯尼克-奥伯斯坦](/_upload/article/images/ca/32/b7491d0e4e48ab46064df44dceb6/9bf274d1-e499-43fa-9d02-e2e02ee28c6c.png)
 
 卡琳•莱斯尼克-奥伯斯坦（Karín B. Lesnik-Oberstein）教授，雷丁大学国际童年研究中心主任及儿童文学硕士学位点负责人，儿童文学批评研究领域领军人物；著有《儿童文学批评与虚构的儿童》《有自己的孩子：生产技术与童年的文化构建》，发表论文50余篇，主编论文集多部；在儿童文学研究的学科构建方面做了大量工作，其研究具有典型的跨学科性质和国际视野。
 
-## 二、讲座安排
+## 二、讲座安排 { data-search-exclude }
 
 高水平儿童文学学科建设聘请国际名师特色项目，每场英文讲座现场均有中文翻译。
 
@@ -58,3 +61,29 @@
 文学与新闻传播学院  
 2018年5月10日
 <!-- tcd_original_link http://www.ouc.edu.cn/_t65/2018/0514/c13698a191042/pagem.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_国（境）外文教专家2018年度系列讲座六十一Karin_B._Lesnik_.md                             |
+| Size            | 2915 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

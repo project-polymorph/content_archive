@@ -1,5 +1,8 @@
 # 药娘是谁?激素变异自我阉割被困在男性躯壳里的女人
 
+## 正文 { data-search-exclude }
+
+
 **时间**：1/8/2021, 7:33:43 AM  
 **来源**：[葱头胖友圈](superpyq.com)  
 **标签**：跨性别、药娘、性别认同、激素、社会问题  
@@ -60,7 +63,7 @@
 
 我们可以试着去体会那些药娘们的无力感和挫败感，但必须指出，在没有专业医师指导下随意吃药和自切睾丸都是非常危险的行为，是不理性的做法。 
 
-## 抱团取暖
+## 抱团取暖 { data-search-exclude }
 
 相较于被更多人所认知和理解的同性恋群体，药娘这一群体隐秘和边缘得多，她们在大众视野的边缘处生存与抗争，找寻着一抹亮光。 之前，在百度贴吧里搜索“药娘”两个字，会出现一个发帖数接近两百万的“药娘吧”，里面有近十万人保持常年活跃，已经形成了一个突出的亚文化领域。
 
@@ -87,3 +90,29 @@
 
 **免责声明**：非本网注明原创的信息，皆为程序自动获取自网络，目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责； 如果页面侵犯到您的权益，请发送邮件至hello@congtou.ca， 并提供相关证明(版权证明、身份证明、以及侵权链接)， 我们将很快删除。
 <!-- tcd_original_link https://superpyq.com/article/5ff8674bc37be814918a901a -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | superpyq_药娘是谁激素变异自我阉割被困在男性躯壳里的女人_-_葱头胖友圈.md                             |
+| Size            | 12263 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

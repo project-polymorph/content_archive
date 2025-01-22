@@ -1,5 +1,8 @@
 # 当男人婆遇上人妖（当海南遇上潮州）影评
 
+## 正文 { data-search-exclude }
+
+
 这篇影评可能有剧透
 
 一会看这部电影，是因为在网络播放器的一个网站里，里面有大量关于“潮汕”的东西，偶然就看到了这部带有“潮州”字样的电影，本来不抱太多希望的，却越看越觉得有意思。这部片实际是新加坡电影。我看过的新加坡电影不多，但印象很多，上一部看的新加坡电影叫《小鞋子》，另外还有一部《小孩不笨》，都挺好。
@@ -37,3 +40,29 @@
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [关于豆瓣](https://www.douban.com/about) | [在豆瓣工作](https://www.douban.com/jobs) | [联系我们](https://www.douban.com/about?topic=contactus) | [法律声明](https://www.douban.com/about/legal) | [帮助中心](https://help.douban.com/?app=movie) | [移动应用](https://www.douban.com/doubanapp/) | [豆瓣广告](https://www.douban.com/partner/)
 <!-- tcd_original_link https://m.douban.com/movie/review/5202300/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+本文为对电影《当海南遇上潮州》的影评，探讨了影片中复杂的性别认同与情感关系。影片讲述了男主角海南仔与女主角潮州妹在性别与爱情上的纠葛，以及他们在社会期待与个人认同之间的挣扎。通过幽默的剧情，影片描绘了海南仔和潮州妹在家庭和社会中的角色挑战，揭示了其真实的自我以及对彼此的情感。在电影中，海南仔虽然是女性身体，但其内心却有着男性的身份认同，而潮州妹则在身体与心理的身份上同样呈现出复杂的性别混合。这种身份的交错在剧情中引发了一系列冲突与喜剧效果，同时也促使观众思考性取向、社会接纳度等重要话题。影评者还反思了自身成长过程中对于性别认同和恋爱关系的理解，提出对性别多样性的尊重。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_当男人婆遇上人妖-_当海南遇上潮州_-_豆瓣.md                             |
+| Size            | 7278 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | 未知                               |
+| Region          | 新加坡                               |
+| Date            | 2010-12-03                                 |
+| Tags            | 电影影评, 性别认同, 爱情, 多元性别, 社会接纳, 幽默喜剧, 潮州文化, 个人成长, 电影分析, 性取向                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

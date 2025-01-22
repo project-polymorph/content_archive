@@ -1,5 +1,8 @@
 # 人权观察敦促中国禁止对LGBT群体的强制性转变治疗
 
+## 正文 { data-search-exclude }
+
+
 ![国际人权组织“人权观察”敦促中国政府禁止公立医院和私人诊所提供“同性恋转化治疗”](https://gdb.voanews.com/eb6fb4f7-e2d2-4206-8b67-793fe8b93395_w1023_r1_s.jpg)
 
 **时间**: 2017年11月16日 03:39  
@@ -24,10 +27,36 @@
 
 报告称，中国心理学会2001年已将“同性恋”从精神病分类与诊断标准中正式排除。中国2013年制定的精神卫生法规定，精神障碍的诊断与治疗应遵循诊断标准。根据该法，既然同性吸引并非精神障碍，转化治疗应属非法。不过，中国当局还未采取积极措施，禁止健康医护机构或医务人员提供转化治疗，例如发出不得实施转化治疗的明确指示、检查医疗机构是否违规实施转化治疗以及对违规者进行处罚等。
 
-## 相关内容
+## 相关内容 { data-search-exclude }
 
 ![人权观察促中国政府禁止同性恋转化治疗](https://gdb.voanews.com/eb6fb4f7-e2d2-4206-8b67-793fe8b93395_w100_r1.jpg)  
 ![人权观察促中国政府禁止同性恋转化治疗](https://gdb.voanews.com/eb6fb4f7-e2d2-4206-8b67-793fe8b93395_w144_r1.jpg)  
 
 [人权观察促中国政府禁止同性恋转化治疗](https://www.voachinese.com/a/hrw-lgbt-rights-china-20171115/4115768.html)
 <!-- tcd_original_link https://www.voachinese.com/a/human-rights-china-lgbt-people-therapy-20171115/4116523.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_人权观察敦促中国禁止对LGBT群体的强制性转变治疗_-_美国之音.md                             |
+| Size            | 3021 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

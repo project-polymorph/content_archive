@@ -1,5 +1,8 @@
 # 国际不再恐惧同性恋、跨性别与双性恋日
 
+## 正文 { data-search-exclude }
+
+
 ![本页使用了标题或全文手工转换](//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png)
 
 ![巴西国民会议宫为2022年国际不再恐同日点亮彩虹旗颜色](//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Congresso_Iluminado_-_Dia_Internacional_de_Combate_%C3%A0_LGBTIfobia.jpg/220px-Congresso_Iluminado_-_Dia_Internacional_de_Combate_%C3%A0_LGBTIfobia.jpg)
@@ -12,7 +15,7 @@
 
 国际不再恐同日的创始人成立了IDAHO委员会，在不同国家进行活动，旨在游说各国政府正式承认5月17日“国际不再恐同日”。2009年，大会正式纳入反对[跨性别恐惧症](https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%81%90%E6%87%BC%E7%97%87)[^9]；2015年纳入反制[双性恋恐惧症](https://zh.wikipedia.org/wiki/%E9%9B%99%E6%80%A7%E6%88%80%E6%81%90%E6%87%BC%E7%97%87)[^10]，并将官网改名为：国际不再恐惧同性恋、跨性别与双性恋日。
 
-## 历史
+## 历史 { data-search-exclude }
 
 ![国际不再恐同日创始人——Louis-Georges Tin](//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Louis_Georges_Tin.jpg/220px-Louis_Georges_Tin.jpg)
 
@@ -22,7 +25,7 @@
 -   2005年，“第一届国际反恐惧同性恋日”香港区游行于5月16日成功举行，有350名支持同志平权的朋友参与。
 -   2006年，“国际LGBT人权会议”（International Conference on LGBT Community Human Rights）在加拿大[蒙特利尔](https://zh.wikipedia.org/wiki/%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94)召开，会议发布《[蒙特利尔宣言](https://zh.wikipedia.org/w/index.php?title=%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E5%AE%A3%E8%A8%80&action=edit&redlink=1)（英语：[Declaration of Montreal](https://en.wikipedia.org/wiki/Declaration_of_Montreal)）》，号召世界各国将每年5月17日作为“国际不再恐同日”，以唤醒人们关注因为恐惧同性恋、歧视性倾向而产生的一切生理和精神暴力以及不公平对待。2006年经网上659人次投票更改中文译名为“国际不再恐同日”，以更清晰表达希望社会不再出现对同性恋的恐惧之愿景[^11]。
 
-## 参见
+## 参见 { data-search-exclude }
 
 -   ![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nuvola_LGBT_flag.svg/28px-Nuvola_LGBT_flag.svg.png)[LGBT主题](https://zh.wikipedia.org/wiki/Portal:LGBT)
 -   ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/18px-Disclogo1.svg.png)[歧视主题](https://zh.wikipedia.org/wiki/Portal:%E6%AD%A7%E8%A7%86)
@@ -31,7 +34,7 @@
 -   [LGBT迫害](https://zh.wikipedia.org/wiki/LGBT%E8%BF%AB%E5%AE%B3)
 -   [骄傲游行](https://zh.wikipedia.org/wiki/%E9%A9%95%E5%82%B2%E9%81%8A%E8%A1%8C)
 
-## 参考资料
+## 参考资料 { data-search-exclude }
 
 1.  [Congresso tem projeção em homenagem à bandeira LGBTQIA+](https://www.poder360.com.br/brasil/congresso-tem-projecao-em-homenagem-a-bandeira-lgbtqia/). Poder360. 2022-05-17 \[2022-05-18\]. （原始内容[存档](https://web.archive.org/web/20220518055856/https://www.poder360.com.br/brasil/congresso-tem-projecao-em-homenagem-a-bandeira-lgbtqia/)于2022-05-18） （巴西葡萄牙语）。
 2.  [「國際不再恐同日」表決同婚專法 這個名稱很長的節日怎麼來的？](https://www.rti.org.tw/news/view/id/2021009). Rti 中央广播电台. \[2022-11-05\]. （原始内容[存档](https://web.archive.org/web/20221105121240/https://www.rti.org.tw/news/view/id/2021009)于2022-11-05） （中文（台湾））。
@@ -45,7 +48,7 @@
 10.  [International Day against Homophobia, Transphobia, and Biphobia](https://web.archive.org/web/20150702044007/http://dayagainsthomophobia.org/what-is-may-17th/). IDAHOT. \[2015-05-17\]. （[原始内容](http://dayagainsthomophobia.org/what-is-may-17th/)存档于2015-07-02）。
 11.  [i d a h o h k @ 2 0 0 6](https://web.archive.org/web/20180828043757/http://idahohk.org/2006/). \[2013-05-17\]. （[原始内容](http://idahohk.org/2006/)存档于2018-08-28）。
 
-## 外部链接
+## 外部链接 { data-search-exclude }
 
 [维基共享资源](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E5%85%B1%E4%BA%AB%E8%B5%84%E6%BA%90)上的相关多媒体资源：[国际不再恐惧同性恋、跨性别与双性恋日](https://commons.wikimedia.org/wiki/Category:International_Day_Against_Homophobia,_Biphobia_and_Transphobia)
 
@@ -62,3 +65,29 @@
 
 [分类:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT%E6%96%87%E5%8C%96) · [分类:LGBT事件](https://zh.wikipedia.org/wiki/Category:LGBT%E4%BA%8B%E4%BB%B6)
 <!-- tcd_original_link https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E9%9A%9B%E4%B8%8D%E5%86%8D%E6%81%90%E6%87%BC%E5%90%8C%E6%80%A7%E6%88%80%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%A5%E8%88%87%E9%9B%99%E6%80%A7%E6%88%80%E6%97%A5 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | zh_国际不再恐惧同性恋、跨性别与双性恋日-_维基百科.md                             |
+| Size            | 10539 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

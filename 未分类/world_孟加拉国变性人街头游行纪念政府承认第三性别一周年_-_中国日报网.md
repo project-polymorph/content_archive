@@ -1,5 +1,8 @@
 # 孟加拉国变性人街头游行 纪念政府承认第三性别一周年
 
+## 正文 { data-search-exclude }
+
+
 ![孟加拉国变性人街头游行 纪念政府承认第三性别一周年](../../img/attachement/jpg/site1/20141111/0013729e431915cb97cf35.jpg)
 
 孟加拉国变性人团体成员及支持者参加首次变性人游行活动。（图片来源：东方IC）
@@ -13,3 +16,29 @@
 中国日报网版权说明：凡注明来源为“中国日报网：XXX（署名）”，除与中国日报网签署内容授权协议的网站外，其他任何网站或单位未经允许禁止转载、使用，违者必究。如需使用，请与010-84883777联系；凡本网注明“来源：XXX（非中国日报网）”的作品均转载自其它媒体，目的在于传播更多信息，其他媒体如需转载，请与稿件来源方联系，如产生任何问题与本网无关。  
 版权保护：本网登载的内容（包括文字、图片、多媒体资讯等）版权属中国日报网（中报国际文化传媒（北京）有限公司）独家所有使用。未经中国日报网事先协议授权，禁止转载使用。给中国日报网提意见：contact@chinadaily.com.cn
 <!-- tcd_original_link https://world.chinadaily.com.cn/2014-11/11/content_18895956.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_孟加拉国变性人街头游行纪念政府承认第三性别一周年_-_中国日报网.md                             |
+| Size            | 1752 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

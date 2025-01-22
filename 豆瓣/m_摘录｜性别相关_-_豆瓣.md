@@ -1,5 +1,8 @@
 # 摘录｜性别相关
 
+## 正文 { data-search-exclude }
+
+
 ![图片](https://img1.doubanio.com/view/elanor_image/raw/public/7R7TU7SP.jpg)
 
 来自: [illion洋 (北京)](https://www.douban.com/people/165385841/) 2021-11-21 15:51:41 创建    2023-05-29 08:01:23 更新
@@ -8,7 +11,7 @@
 
 来自：豆瓣广播
 
-## Enlightening的广播：
+## Enlightening的广播： { data-search-exclude }
 
 2022-01-29 08:39:35 [回复](javascript: void 0;)
 
@@ -16,7 +19,7 @@
 
 来自：豆瓣广播
 
-## Enlightening的广播：
+## Enlightening的广播： { data-search-exclude }
 
 2021-12-04 11:07:09 [回复](javascript: void 0;)
 
@@ -70,12 +73,38 @@
 
 --- 
 
-## 这个豆列的标签
+## 这个豆列的标签 { data-search-exclude }
 
-## illion洋的其它豆列 
+## illion洋的其它豆列  { data-search-exclude }
 -   [摘录 | 语言学习](https://www.douban.com/doulist/156639043/)  (1人关注)
 -   [漫画](https://www.douban.com/doulist/160246451/)
 -   [我的收藏](https://www.douban.com/doulist/59249302/)
 -   [恐怖故事](https://www.douban.com/doulist/158072140/)
 -   [摘录｜电影榜单/清单/资讯/年度总结](https://www.douban.com/doulist/146002823/)  (2人关注)
 <!-- tcd_original_link https://m.douban.com/doulist/146896175/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+该文件是来自豆瓣的一个综合性别相关摘录，包含多种与多元性别相关的文本和讨论。文件内涵盖了跨性别男性的生命故事，详细描述了其在性别认同上的挣扎与成长。例如，作者在小学时期因生理性别和心理性别不符而感到困惑，并面临上厕所时的尴尬和恐惧。同时，还有对J.K.罗琳文章的反思，指出其内容可能对跨性别社群的权利产生误导影响。此外，一个名为‘自己的怀疑和保留意义的豆瓣帖子汇总’的部分，探讨了LGBTQ+群体在性别认知上的波动与不安。这些内容通过个人经历和公共讨论，揭示了多元性别者在生活中遇到的种种现实问题和心理挑战。
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_摘录｜性别相关_-_豆瓣.md                             |
+| Size            | 3997 bytes                           |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Author          | illion洋                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 生活故事, 心理挣扎, J.K.罗琳, 社会讨论, LGBTQ+, 豆瓣, 医疗资源, 法律政策                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
