@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《女装大佬，在线打脸》是由作家少女春宵创作的一部网络小说，属于快穿文系列，讲述了一名绝美女装疯批攻击者与身份尊贵的黑白受之间的复杂情感故事。在故事中，主角宋嫣经历了一系列转变，从死去到通过系统绑定穿越至血族世界，他的身份与境遇随之发生巨大变化。故事展现了血族世界的奇幻与性感元素，描绘了主角从猎人到血族君主的成长历程，深刻探索了性别认同与自我认同的主题。此作品以其丰富的情节和多元的角色设定，吸引了大量读者，成为多元性别文学的一部分。在文中包含对复仇和爱情的描写，同时也融入了一些社会与性别意识的探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬，在线打脸_少女春宵【完结+番外】_-_52书库.md                             |
 | Size            | 1301 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.52shuku.vip/chongsheng/am/h5CO.html](https://www.52shuku.vip/chongsheng/am/h5CO.html)                       |
+| Author          | 少女春宵                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女装大佬, 少女春宵, 快穿文, 血族, 性别认同, 身份认同, 复仇, 网络小说, 多元性别, 文学创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

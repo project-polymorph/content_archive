@@ -50,8 +50,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_能看懂《河边的错误》的人多少有点疯子的成分在里头_-_豆瓣.md                             |
 | Size            | 2863 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15512243/](https://m.douban.com/movie/review/15512243/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-10-21                                 |

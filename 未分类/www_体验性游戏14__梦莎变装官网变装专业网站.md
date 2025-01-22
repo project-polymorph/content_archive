@@ -116,7 +116,7 @@ Copyright © 2013-2024 梦莎变装 变装 梦莎天使 反串 伪娘 CD变装 �
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于梦莎变装官网的内容，旨在为变装爱好者提供专业的变装资源和故事分享。页面展示了多个相关链接，包括变装小说、变性手术、变装技巧等主题的文章，展示了变装文化下的多元故事与经历。文件中提到的会员专享内容可能含有更深入的变装技巧与性别表达的探讨。同时，包含了一些关于变装的推荐阅读，这些链接指向的文章探讨了变装和变性的现实经验、技巧与社会认知，展示了变装世界的广泛性与多样性。例如，推荐的“男性使用荷尔蒙身体女性化变化对比图”一文可以帮助人们理解性别转换过程中的身体变化。总体而言，该文件是一个与变装及多元性别表适密切相关的资源集，适合变装及多元文化的研究者和爱好者查阅。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -127,12 +127,12 @@ Copyright © 2013-2024 梦莎变装 变装 梦莎天使 反串 伪娘 CD变装 �
 |-----------------|----------------------------------------|
 | Filename        | www_体验性游戏14__梦莎变装官网变装专业网站.md                             |
 | Size            | 8738 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cdts8.com/sm-xiao-shuo/23916.html](https://www.cdts8.com/sm-xiao-shuo/23916.html)                       |
+| Author          | admin                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-03-10                                 |
+| Tags            | 变装, 多元性别, 变性, 性别表达, 梦莎变装, 变装技巧, 会员专享, 小说, 社会认知, 变性手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

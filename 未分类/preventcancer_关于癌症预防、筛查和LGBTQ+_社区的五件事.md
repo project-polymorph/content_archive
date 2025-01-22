@@ -58,8 +58,8 @@ ___预防癌症基金会___ [网站](https://preventcancer.org/zh)
 |-----------------|----------------------------------------|
 | Filename        | preventcancer_关于癌症预防、筛查和LGBTQ+_社区的五件事.md                             |
 | Size            | 6902 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://preventcancer.org/zh/article/five-things-to-know-about-cancer-prevention-screening-and-the-lgbtq-community/](https://preventcancer.org/zh/article/five-things-to-know-about-cancer-prevention-screening-and-the-lgbtq-community/)                       |
 | Author          | 预防癌症基金会                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

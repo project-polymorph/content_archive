@@ -55,7 +55,7 @@ PURPOSE 2试验的更多详细数据将在未来的会议上公布。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了吉利德科学在中国日报网发布的最新研究成果，表明一年给药两次的来那帕韦（Lenacapavir）在艾滋病预防方面的有效性。这项研究涉及跨性别者和非二元性别者，相关数据表明该药物能显著降低HIV感染率，几乎达到接近终结艾滋病流行的目标。来自多个国家的2180名参与者中，仅有2例HIV感染，显示出来那帕韦在预防HIV方面具有88%的有效性。研究还指出，目前在中国艾滋病的暴露前预防（PrEP）尚处于推广阶段，公众对相关知识的了解和接受程度需要进一步提高。该药物的成功应用有望改善全球高风险人群的健康状况，并激励推动艾滋病相关药物的入市审批流程。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@ PURPOSE 2试验的更多详细数据将在未来的会议上公布。
 |-----------------|----------------------------------------|
 | Filename        | world_艾滋病流行有望接近终结_-_中国日报网.md                             |
 | Size            | 6780 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://world.chinadaily.com.cn/a/202409/14/WS66e61dd6a310a792b3abc5fd.html](https://world.chinadaily.com.cn/a/202409/14/WS66e61dd6a310a792b3abc5fd.html)                       |
+| Author          | 中国日报网                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-09-14                                 |
+| Tags            | 艾滋病, 来那帕韦, HIV预防, 跨性别者, 非二元性别者, 处于研究阶段的药物, 公卫政策, 医疗资源, 临床试验, 传播策略                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

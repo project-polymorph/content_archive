@@ -80,8 +80,8 @@
 |-----------------|----------------------------------------|
 | Filename        | dhs_LGBTQ_+-卫生保健中心.md                             |
 | Size            | 4343 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dhs.lacounty.gov/zh-CN/%E4%BF%9D%E5%81%A5%E4%B8%AD%E5%BF%83/%E6%82%A3%E8%80%85%E4%BF%A1%E6%81%AF/%E4%B8%BA%E6%82%A8%E7%9A%84%E8%AE%BF%E9%97%AE%E5%81%9A%E5%87%86%E5%A4%87/LGBTQ/](https://dhs.lacounty.gov/zh-CN/%E4%BF%9D%E5%81%A5%E4%B8%AD%E5%BF%83/%E6%82%A3%E8%80%85%E4%BF%A1%E6%81%AF/%E4%B8%BA%E6%82%A8%E7%9A%84%E8%AE%BF%E9%97%AE%E5%81%9A%E5%87%86%E5%A4%87/LGBTQ/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

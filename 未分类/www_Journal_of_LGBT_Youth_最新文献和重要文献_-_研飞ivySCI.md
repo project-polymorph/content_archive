@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于多元性别相关研究文章的汇总，主要整理了《Journal of LGBT Youth》期刊中最新且重要的研究文献。这些文章涵盖了多样性别群体的健康状况、教育背景、社会正义、心理健康需求等多个方面，展示了性别少数群体在大学校园内的生存状况与需求。其中包括对跨性别及多元性别大学生健康互动的研究、亚裔美国年轻人对教育研究的看法等，涉及的主题丰富多样，反映了性别少数群体在社会中面临的挑战与机遇。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_Journal_of_LGBT_Youth_最新文献和重要文献_-_研飞ivySCI.md                             |
 | Size            | 3466 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ivysci.com/journals/1936-1653/articles?type=reading](https://www.ivysci.com/journals/1936-1653/articles?type=reading)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-12-28                                 |
+| Tags            | 多元性别, 性别少数群体, 跨性别, 大学生, 心理健康, 社会正义, 教育研究, 文学研究, 健康互动, 亚裔美国人                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

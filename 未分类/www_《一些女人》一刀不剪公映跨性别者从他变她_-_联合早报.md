@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《一些女人》是一部关于跨性别者的长篇纪录片，由黄倩仪执导，她也是新加坡首位跨性别女导演。电影围绕几位跨性别女性的个人经历，特别是大学生卢深的故事展现了他们在社会中所面临的挑战与挣扎。卢深从小便感受到与生理性别的不一致，她在与母亲的沟通中获得支持，尽管一开始母亲曾表示失望。影片重点讨论了性别认同、家庭关系和社会接受度等复杂议题。黄倩仪希望通过此片让更多人理解跨性别者的处境，打破对这一群体的误解与偏见。该影片于2022年分别在新加坡国际电影节和当地影院公映，引起了社会的广泛关注和讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《一些女人》一刀不剪公映跨性别者从他变她_-_联合早报.md                             |
 | Size            | 4520 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.zaobao.com.sg/entertainment/story20220322-1254754](https://www.zaobao.com.sg/entertainment/story20220322-1254754)                       |
+| Author          | 李亦筠，来源: 联合早报                               |
+| Region          | 新加坡                               |
+| Date            | 2022-03-22                                 |
+| Tags            | 跨性别者, 纪录片, 性别认同, 卢深, 黄倩仪, 社会接受度, 家庭关系, 酷儿历史, 新加坡国际电影节, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

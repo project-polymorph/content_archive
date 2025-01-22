@@ -144,7 +144,7 @@ cnm为什么没有伪娘 X all这个选项 ![](images/post/smile/smallface/face0
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于伪娘普及率的调查结果的讨论，汇集了不同用户在茶馆中的评论和对伪娘文化的看法。文章起源于南+ South Plus 网站，于2017年10月14日至2017年10月18日期间更新。讨论中涉及了伪娘这一形象，及其在二次元文化中的受欢迎程度。评论部分展示了用户对伪娘、扶她以及百合等文化元素的多样态度，包括赞同、喜爱甚至反对的声音，揭示了当前年轻人对性别表达多样性的接受度和偏好。文件的内容反映了社交媒体平台上活跃的讨论氛围，内容提供了对伪娘文化的引入、接受与拒绝的多元视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -155,12 +155,12 @@ cnm为什么没有伪娘 X all这个选项 ![](images/post/smile/smallface/face0
 |-----------------|----------------------------------------|
 | Filename        | www_关于伪娘普及率的调查茶馆南+_South_Plus_-_powered_by_Pu!mdHd.md                             |
 | Size            | 5062 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.south-plus.net/simple/index.php?t335623_2.html](https://www.south-plus.net/simple/index.php?t335623_2.html)                       |
+| Author          | 南+ South Plus                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-10-14                                 |
+| Tags            | 伪娘, 扶她, 百合, 性别表达, 文化讨论, 社交媒体, 年轻人, 二次元, 性别认同, 网络评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

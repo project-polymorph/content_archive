@@ -105,8 +105,8 @@ Aparicio-García, M. E., et al. (2018). Health and well-being of cisgender, tran
 |-----------------|----------------------------------------|
 | Filename        | ndltd_非二元性別者之性別認同歷程：敘事研究.md                             |
 | Size            | 4712 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112NCUE0464002%22.&searchmode=basic](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112NCUE0464002%22.&searchmode=basic)                       |
 | Author          | 吴礼瑋                               |
 | Region          | 台湾                               |
 | Date            | 2024-01-05                                 |

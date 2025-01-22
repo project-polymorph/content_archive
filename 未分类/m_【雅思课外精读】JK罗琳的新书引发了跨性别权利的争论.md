@@ -32,8 +32,8 @@ JK Rowling has once again come under fire from transgender rights activists, thi
 |-----------------|----------------------------------------|
 | Filename        | m_【雅思课外精读】JK罗琳的新书引发了跨性别权利的争论.md                             |
 | Size            | 500 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.beijing.gedu.org/contents/2909/361881.html](https://m.beijing.gedu.org/contents/2909/361881.html)                       |
 | Author          | 环球教育                               |
 | Region          | 未知                               |
 | Date            | 2021-10-15                                 |

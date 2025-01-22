@@ -73,8 +73,8 @@
 |-----------------|----------------------------------------|
 | Filename        | language_All_Good_Things《所有美好的东西》精讲之六_2__-_英语点津.md                             |
 | Size            | 7763 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://language.chinadaily.com.cn/auvideo/2011-12/02/content_14200976_2.htm](https://language.chinadaily.com.cn/auvideo/2011-12/02/content_14200976_2.htm)                       |
 | Author          | 陈丹妮                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-12-02                                 |

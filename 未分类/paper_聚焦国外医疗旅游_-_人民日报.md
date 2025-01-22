@@ -80,8 +80,8 @@
 |-----------------|----------------------------------------|
 | Filename        | paper_聚焦国外医疗旅游_-_人民日报.md                             |
 | Size            | 5874 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://paper.people.com.cn/rmwz/html/2011-09/01/content_920363.htm?div=-1](http://paper.people.com.cn/rmwz/html/2011-09/01/content_920363.htm?div=-1)                       |
 | Author          | 余易安                               |
 | Region          | 中国                               |
 | Date            | 2011-09-01                                 |

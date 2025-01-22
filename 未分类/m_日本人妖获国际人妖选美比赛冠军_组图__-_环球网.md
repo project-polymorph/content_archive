@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_日本人妖获国际人妖选美比赛冠军_组图__-_环球网.md                             |
 | Size            | 1146 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huanqiu.com/article/9CaKrnJmBj1](https://m.huanqiu.com/article/9CaKrnJmBj1)                       |
 | Author          | 环球时报驻日本特约记者赵学亮、环球网记者杨虹                               |
 | Region          | 日本                               |
 | Date            | 2009-11-02                                 |

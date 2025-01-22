@@ -180,7 +180,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了性别作为一种社会建构的概念，强调尽管生物学因素如生殖器官和染色体存在，性别的理解和定义主要受到社会、文化和历史的影响。文中讨论了几个关键观点，包括性别的定义如何受社会期望影响、性别划分面临的双重标准以及这些观念在医疗和法律框架中的体现。作者举例说明了如整容手术、性别确认手术及其对个体的社会与政治意义等情况，强调性别是如何在政治、社会和文化中被其他力量构建和解读的。此外，文件提到了一些理论学者如琼·斯科特和朱迪思·巴特勒对性别构建话语的贡献和视角，指出性别不仅是生物学意义上的划分，更是深深嵌入社会因素和思想中的构建结果。最后，作者警示，讨论性别作为社会建构的问题并非单纯的生物学或医学问题，而是关乎社会公正和权力关系的重大政治问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -191,12 +191,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_97_–_性别是一种社会建构.md                             |
 | Size            | 20829 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.seksediversiteit.nl/zh-CN/misvattingen/h097/](https://www.seksediversiteit.nl/zh-CN/misvattingen/h097/)                       |
+| Author          | 米里亚姆·范德哈夫                               |
+| Region          | 未知                               |
+| Date            | 2023-12-27                                 |
+| Tags            | 性别建构, 生物学影响, 文化差异, 历史变迁, 性别双标, 医疗资源, 法律政策, 社会不平等, 性别认同, 性别理论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

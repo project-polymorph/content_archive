@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本视频《香港态度》由细细老师主持，聚焦于双性人群体的生存现状及挑战，传达了双性人与变性人的不同，并深入探讨双性人在社会中的边缘化以及对性别认同的误解。细细老师勇敢分享了自身经历，旨在消除对双性人的偏见，并呼吁社会更加包容与理解。同时，视频通过真实的案例和细腻的表达，让观众更直观地理解双性人的苦楚与诉求，强调性别多样性的重要性，以及每个人都有权利为自我发声。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《香港態度》細細老師｜雙性人不是變性人_-_YouTube.md                             |
 | Size            | 1279 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=2Rk6fz2X5PM](https://www.youtube.com/watch?v=2Rk6fz2X5PM)                       |
+| Author          | 细细老师                               |
+| Region          | 香港                               |
+| Date            | 2019-01-16                                 |
+| Tags            | 双性人, 性别认同, 性别多样性, 平权, 社会包容, LGBTI, 生存现状, 真实故事, 变性人, 公共讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

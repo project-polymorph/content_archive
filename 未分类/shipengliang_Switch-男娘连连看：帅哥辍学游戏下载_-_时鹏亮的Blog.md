@@ -57,9 +57,9 @@ ID信息：
 
 ## 游戏截图 { data-search-exclude }
 
-![](//pic.shipengliang.com/NS/010035501BC98000-1.jpg)
-![](//pic.shipengliang.com/NS/010035501BC98000-2.jpg)
-![](//pic.shipengliang.com/NS/010035501BC98000-3.jpg)
+![](https://pic.shipengliang.com/NS/010035501BC98000-1.jpg)
+![](https://pic.shipengliang.com/NS/010035501BC98000-2.jpg)
+![](https://pic.shipengliang.com/NS/010035501BC98000-3.jpg)
 
 ![男娘连连看：帅哥辍学-1 游戏截图](https://pic.shipengliang.com/NS/010035501BC98000-1.jpg)
 
@@ -97,8 +97,8 @@ All resources come from the network, this site does not participate in any dump 
 |-----------------|----------------------------------------|
 | Filename        | shipengliang_Switch-男娘连连看：帅哥辍学游戏下载_-_时鹏亮的Blog.md                             |
 | Size            | 5371 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shipengliang.com/download/switch/switch-%E7%94%B7%E5%A8%98%E8%BF%9E%E8%BF%9E%E7%9C%8B%EF%BC%9A%E5%B8%85%E5%93%A5%E8%BE%8D%E5%AD%A6-%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD.html](https://shipengliang.com/download/switch/switch-%E7%94%B7%E5%A8%98%E8%BF%9E%E8%BF%9E%E7%9C%8B%EF%BC%9A%E5%B8%85%E5%93%A5%E8%BE%8D%E5%AD%A6-%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD.html)                       |
 | Author          | 时鹏亮                               |
 | Region          | 未知                               |
 | Date            | 2023-09-01                                 |

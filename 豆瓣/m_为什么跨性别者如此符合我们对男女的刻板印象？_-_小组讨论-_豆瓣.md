@@ -75,8 +75,8 @@ Spotify上有个podcast叫“等下”，主播是几个跨性别者，推荐给
 |-----------------|----------------------------------------|
 | Filename        | m_为什么跨性别者如此符合我们对男女的刻板印象？_-_小组讨论-_豆瓣.md                             |
 | Size            | 3994 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/253345407/](https://m.douban.com/group/topic/253345407/)                       |
 | Author          | Farewell                               |
 | Region          | 内蒙古                               |
 | Date            | 2021-11-20                                 |

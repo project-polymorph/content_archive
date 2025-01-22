@@ -71,7 +71,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起在漳州发生的特殊案件，一名同性爱好者男扮女装，并携带匕首与过路男性进行亲吻互动，涉嫌卖淫或抢劫。文章详细描述了案件的经过，包括该男子的扮相、目击者的报警和后来的警方处理。被捕的男子承认自己是一名同性恋者，表示男扮女装是为了寻求刺激，而不是为了卖淫。他以‘一次50元’的价格与男性玩亲吻，称如果对方是他喜欢的人则不收费。文章还通过男子的供述讲述了他的家庭背景与心理挣扎，揭示出他因婚姻破裂和背叛经历而选择这种生活方式。最后，警方对案件的法律定性表达了部分争议，强调这是一起特殊的同性恋案件。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -82,12 +82,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zzpd_漳州一同性恋男扮女装带匕首找过路男性玩亲嘴.md                             |
 | Size            | 4434 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://zzpd.fjsen.com/2013-12/06/content_13101883_all.htm](http://zzpd.fjsen.com/2013-12/06/content_13101883_all.htm)                       |
+| Author          | 海峡导报记者 廖珍妹                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-12-06                                 |
+| Tags            | 同性恋, 男扮女装, 法律问题, 心理健康, 生活经历, 社会现象, 亲吻交易, 漳州, 刺激体验, 案件报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

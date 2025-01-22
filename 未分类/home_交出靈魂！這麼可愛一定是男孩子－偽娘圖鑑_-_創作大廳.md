@@ -157,8 +157,8 @@
 |-----------------|----------------------------------------|
 | Filename        | home_交出靈魂！這麼可愛一定是男孩子－偽娘圖鑑_-_創作大廳.md                             |
 | Size            | 9952 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://home.gamer.com.tw/artwork.php?sn=3621200](https://home.gamer.com.tw/artwork.php?sn=3621200)                       |
 | Author          | 来梓                               |
 | Region          | 台湾                               |
 | Date            | 2017-06-25                                 |

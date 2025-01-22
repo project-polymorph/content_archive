@@ -28,8 +28,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_日本最美变性人走红盘点全球变性人的坎坷故事_13__-_时政频道.md                             |
 | Size            | 1578 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://china.chinadaily.com.cn/shizheng/2015-03/18/content_19838582_13.htm](http://china.chinadaily.com.cn/shizheng/2015-03/18/content_19838582_13.htm)                       |
 | Author          | 光明网                               |
 | Region          | 未知                               |
 | Date            | 2015-03-18                                 |

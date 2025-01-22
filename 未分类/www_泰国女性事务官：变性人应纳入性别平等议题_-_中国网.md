@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于泰国女性事务官珀桑·帕波玛在2013年5月30日接受采访的内容。她提到，变性人群体应被纳入性别平等的讨论当中。在东亚地区，自1995年第四次世界妇女大会以来，性别平等事业尽管有所进步，但仍然面临许多不平等的挑战。会议的召开旨在分享各国在性别平等方面的经验，特别是在保护变性人群体的法律草案方面，珀桑提到泰国已经在草拟相关法律，法律草案中包含对变性人的保护措施，尽管这些法律还未正式颁布。她强调要消除社会对变性人的偏见，让她们能在教育、就业等方面享有平等待遇，同时指出在某些行业仍存在歧视现象。通过媒体和法律的改善，泰国在吸纳变性人参与社会方面取得了一定的成就。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国女性事务官：变性人应纳入性别平等议题_-_中国网.md                             |
 | Size            | 4294 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.china.com.cn/fangtan/2013-05/30/content_28978702.htm](http://www.china.com.cn/fangtan/2013-05/30/content_28978702.htm)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2013-05-30                                 |
+| Tags            | 变性人, 性别平等, 泰国, 女性事务, 社会发展, 法律政策, 东亚地区, 性别歧视, 就业平等, 教育权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -125,8 +125,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_全部短评-_图书寂寞之井-_豆瓣.md                             |
 | Size            | 9582 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/30460243/comments/](https://book.douban.com/subject/30460243/comments/)                       |
 | Author          | 拉德克利夫·霍尔                               |
 | Region          | 未知                               |
 | Date            | 2019-03-01                                 |

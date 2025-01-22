@@ -222,7 +222,7 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章详细探讨了跨性别女性的定义与特点，指出跨性别女性是指出生时被指定为男性但性别认同为女性的人。文章分析了跨性别女性所经历的各种挑战，包括性别不安、社会歧视、以及在日常生活中可能面临的暴力和仇恨犯罪等问题。内容中提到，跨性别女性可能会经历性别转换，包括接受性别肯定激素治疗及进行性别肯定手术，旨在帮助她们减轻性别不安带来的痛苦。此外，文章阐述了跨性别女性与顺性别女性在身份、特征以及社会地位上的差异，强调跨性别女性特别是在少数族裔背景下所承受的双重歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -233,12 +233,12 @@ Mela Habijan（梅拉·哈比扬），2020年[全球跨性别小姐](https://zh.
 |-----------------|----------------------------------------|
 | Filename        | zh_跨性别女性-_维基百科，自由的百科全书.md                             |
 | Size            | 37263 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-hans/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7](https://zh.wikipedia.org/zh-hans/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7)                       |
+| Author          | 维基百科编辑团队                               |
+| Region          | 全球                               |
+| Date            | 2020-02-26                                 |
+| Tags            | 跨性别女性, 性别认同, 性别不安, 性别转换, 跨性别, 健康医疗, 社会歧视, 性别肯定手术, 性别肯定激素治疗, 少数族裔, 暴力, 仇恨犯罪                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

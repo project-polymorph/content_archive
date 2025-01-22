@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该视频由黄大谦于2016年发布，强调了如何以幽默与自信的方式展现"娘炮"文化。通过生动的语言和直率的表达，他传递了对这一文化的理解与认同。内容主要围绕自我认同以及社会对多元性别的看法，鼓励观众在生活中接受更宽容的性别表现。视频下方的评论区也反映出观众们对于这一话题的关注，讨论热烈，说明这一主题在当代社会的关注度。通过提供实用的技巧与生活建议，黄大谦希望能帮助大家建立自信，勇敢做自己。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_如何當一個娘炮_-_YouTube.md                             |
 | Size            | 904 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=WD9Dk5C5Nkw](https://www.youtube.com/watch?v=WD9Dk5C5Nkw)                       |
+| Author          | 黄大谦                               |
+| Region          | 台湾                               |
+| Date            | 2016-06-29                                 |
+| Tags            | 多元性别, 娘炮, 性别表现, 自我认同, 社会接受度, 生活技巧, 幽默教育, 性别文化, 视频, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

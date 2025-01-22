@@ -107,8 +107,8 @@
 |-----------------|----------------------------------------|
 | Filename        | readmoo_台灣跨性別前史：醫療、風俗誌與亞際遭逢-_陳薇真_-_讀墨.md                             |
 | Size            | 6784 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://readmoo.com/book/210059569000101?srsltid=AfmBOor9zK8jr24Q4FcQnSS2UxeFZSxku6Z-J1frzYieFgVh4tQcZdaM](https://readmoo.com/book/210059569000101?srsltid=AfmBOor9zK8jr24Q4FcQnSS2UxeFZSxku6Z-J1frzYieFgVh4tQcZdaM)                       |
 | Author          | 陳薇真                               |
 | Region          | 台灣                               |
 | Date            | 2016-06-16                                 |

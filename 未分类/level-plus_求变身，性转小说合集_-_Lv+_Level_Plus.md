@@ -73,8 +73,8 @@ tgfuns上面的一个合集被曝了，求合集资源，多谢各位大佬。�
 |-----------------|----------------------------------------|
 | Filename        | level-plus_求变身，性转小说合集_-_Lv+_Level_Plus.md                             |
 | Size            | 1844 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://level-plus.net/simple/index.php?t668891.html](https://level-plus.net/simple/index.php?t668891.html)                       |
 | Author          | hearxin                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-11-20                                 |

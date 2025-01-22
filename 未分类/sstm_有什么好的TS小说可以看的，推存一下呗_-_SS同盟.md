@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sstm_有什么好的TS小说可以看的，推存一下呗_-_SS同盟.md                             |
 | Size            | 1502 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sstm.moe/topic/182240-%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84ts%E5%B0%8F%E8%AF%B4%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9A%84%EF%BC%8C%E6%8E%A8%E5%AD%98%E4%B8%80%E4%B8%8B%E5%91%97/](https://sstm.moe/topic/182240-%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84ts%E5%B0%8F%E8%AF%B4%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9A%84%EF%BC%8C%E6%8E%A8%E5%AD%98%E4%B8%80%E4%B8%8B%E5%91%97/)                       |
 | Author          | TSlabi520, Shiroce                               |
 | Region          | 未知                               |
 | Date            | 2017-06-22                                 |

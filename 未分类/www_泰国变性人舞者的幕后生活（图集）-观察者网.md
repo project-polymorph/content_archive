@@ -126,7 +126,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章通过一组图片展示了泰国变性人舞者在后台的生活和准备工作。文章指出，泰国是一个对变性人相对包容的国家，舞者们在舞台上展现了优雅与魅力，而在后台，他们与普通人无异，过着多彩的生活。文章描述了舞者们在演出前的签到、化妆、换衣服以及相互帮助的场景。一些舞者在演出前进行祈祷，师傅也在教导新手如何化妆，整个准备过程体现了舞者们为了90分钟的演出所付出的努力与用心。这些精彩的幕后瞬间展现了变性人舞者的真实生活和艰辛而美丽的艺术追求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -137,12 +137,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国变性人舞者的幕后生活（图集）-观察者网.md                             |
 | Size            | 4824 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/Neighbors/2013_12_23_194712.shtml](https://www.guancha.cn/Neighbors/2013_12_23_194712.shtml)                       |
+| Author          | 环球网                               |
+| Region          | 泰国                               |
+| Date            | 2013-12-23                                 |
+| Tags            | 泰国, 变性人, 舞者, 人妖, 艺术表演, 生活方式, 社会包容, 后台生活, 文化观察, 角色扮演                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

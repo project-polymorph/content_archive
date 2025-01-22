@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | std_德国「性别自决」法案生效一年可「变性」一次_-_星島日報.md                             |
 | Size            | 5908 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://std.stheadline.com/sc/realtime/article/2033351/%E5%8D%B3%E6%99%82-%E5%9C%8B%E9%9A%9B-%E5%BE%B7%E5%9C%8B-%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA-%E6%B3%95%E6%A1%88%E7%94%9F%E6%95%88-%E4%B8%80%E5%B9%B4%E5%8F%AF-%E8%AE%8A%E6%80%A7-%E4%B8%80%E6%AC%A1](https://std.stheadline.com/sc/realtime/article/2033351/%E5%8D%B3%E6%99%82-%E5%9C%8B%E9%9A%9B-%E5%BE%B7%E5%9C%8B-%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA-%E6%B3%95%E6%A1%88%E7%94%9F%E6%95%88-%E4%B8%80%E5%B9%B4%E5%8F%AF-%E8%AE%8A%E6%80%A7-%E4%B8%80%E6%AC%A1)                       |
 | Author          | 未知                               |
 | Region          | 德国                               |
 | Date            | 2024-11-01                                 |

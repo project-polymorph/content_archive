@@ -107,8 +107,8 @@ _2，https://www.vice.com/en/article/k7a8wy/a-new-bollywood-movie-plays-into-tra
 |-----------------|----------------------------------------|
 | Filename        | m_宝莱坞拍了一部跨性别题材电影，却激怒了一批真正的跨性别者_-_全知识.md                             |
 | Size            | 9046 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.allhistory.com/ah/article/5fa7db637bf619410c47fb8c](https://m.allhistory.com/ah/article/5fa7db637bf619410c47fb8c)                       |
 | Author          | 全知识                               |
 | Region          | 印度                               |
 | Date            | 2020-11-08                                 |

@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是YouTube视频《化妆、隆胸，但我不觉得自己是女生…》的Markdown记录，作者为汪欣蕾Lacey，上传时间为2024年4月21日。视频主要探讨了关于性别认同和身体表达之间的复杂关系，尽管该作者进行了化妆和隆胸等身体变更，但她表示自己内心并不认同为女性。这反映了多元性别个体在自我认同和社会期待之间的挣扎。视频中还包含了一些相关内容的链接，涉及跨性别者的经历、性别认同的形成等议题，具有一定的启发性和讨论价值。该视频的观看次数达50,064次，评论数为62条，显示出观众对于这一话题的关注和参与。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_化妝、隆胸，但我不覺得自己是女生…_-_YouTube.md                             |
 | Size            | 1270 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=JHe5uxVtRXk](https://www.youtube.com/watch?v=JHe5uxVtRXk)                       |
+| Author          | 汪欣蕾Lacey                               |
+| Region          | 未知                               |
+| Date            | 2024-04-21                                 |
+| Tags            | 多元性别, 性别认同, 跨性别, 身体表达, 自我认同, 变性经历, 社会期待, 医学手术, 性别平等, 个人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

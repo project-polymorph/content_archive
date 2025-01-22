@@ -21,7 +21,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文标题为《英母子双双变性欲成世界首对变性父女（组图）》，主要讨论了一对来自英国的母子二人都进行了变性手术，成为世界上首对变性父女的故事。文章开头提到，时间为2017年01月21日，信息来源于环球网。故事的主角埃里克于2015年向家人坦白了自己的性取向，并于2016年2月进行了睾丸植入手术，该年他还计划于2月进行上半身手术，切除乳房。此故事在多元性别主题下强调了个人的变性经历，并提供了变换性别过程中的医疗手术信息。此案的突出处在于母子二人共同经历变性，反映了社会对多元性别身份的逐步接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -32,12 +32,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_英母子双双变性欲成世界首对变性父女（组图）【3】.md                             |
 | Size            | 667 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n1/2017/0121/c1002-29039763-3.html](http://world.people.com.cn/n1/2017/0121/c1002-29039763-3.html)                       |
+| Author          | 环球网                               |
+| Region          | 英国                               |
+| Date            | 2017-01-21                                 |
+| Tags            | 变性, 多元性别, 性别认同, 医疗手术, 性取向, 变性经历, 社会接受, 母子关系, 性别转换, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

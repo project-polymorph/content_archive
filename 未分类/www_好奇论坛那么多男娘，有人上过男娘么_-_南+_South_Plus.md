@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自好奇论坛的讨论，讨论了关于男娘（伪娘）的体验和感受。作者分享了其与男娘的互动经历，包括玩游戏、用红包打发对方等。文件包含用户的评论，探讨了对男娘的魅力、外观与生理特征之间的矛盾，以及人们在面对男娘时的心理变化。讨论中，一些用户对男娘的身体特征表达了挣扎和困惑，认为线下与线上形象存在巨大差异，使得面对现实中的男娘时，预期与感受出现落差。此外，评论也反映了社会中对男娘的看法，以及潜藏的性别认同与性需求的交织。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_好奇论坛那么多男娘，有人上过男娘么_-_南+_South_Plus.md                             |
 | Size            | 4347 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.summer-plus.net/simple/index.php?t2022432.html](https://www.summer-plus.net/simple/index.php?t2022432.html)                       |
+| Author          | 111221121                               |
+| Region          | 未知                               |
+| Date            | 2023-12-01                                 |
+| Tags            | 男娘, 伪娘, 性别认同, 性别表达, 社交经验, 线上讨论, 真实体验, 社会现状, 性别多元, 跨性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

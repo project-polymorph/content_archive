@@ -202,7 +202,7 @@ na, ich denke nicht das sich jeder cd schminkt. ich sehe den unterschied zwische
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关的定义与讨论，作者AJR于2007年11月13日创作。文中详细阐述了几种多元性别相关的术语：**Crossdresser**、**Transvestit**和**Transsexuell**。这三者的基本区别在于服装风格及是否进行身体转变。Crossdresser指的是穿着女性服装但保持男性外观的人，通常不化妆；Transvestit则追求更加完美的女性形象，可能会使用化妆、假发等；而Transsexuell则涉及到身体上的手术变性，包括激素治疗和性别重建手术。作者在讨论中提到，德语缺乏一个合适的词来描述只穿女性衣物的男性，因此很多人使用Crossdresser一词。由于德国文化中的用词问题，讨论和辩论显得尤为重要。文中还涉及了一些相关的讨论和观点，旨在加深对这些概念的理解和辨析。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -213,12 +213,12 @@ na, ich denke nicht das sich jeder cd schminkt. ich sehe den unterschied zwische
 |-----------------|----------------------------------------|
 | Filename        | www_Definition_CD,_TV,_TS_-_Strumpfhosen-Forum.md                             |
 | Size            | 14385 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.strumpfhose.net/xf/threads/definition-cd-tv-ts.11843/](https://www.strumpfhose.net/xf/threads/definition-cd-tv-ts.11843/)                       |
+| Author          | AJR                               |
+| Region          | 未知                               |
+| Date            | 2007-11-13                                 |
+| Tags            | 多元性别, Crossdresser, Transvestit, Transsexuell, 性别认同, 性别表达, 服装文化, 社会认知, 性别差异, 性别理论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

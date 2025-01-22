@@ -90,7 +90,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容探讨了中国男扮女装网红的现象，通过TikTok平台展示了这些网红的精彩瞬间和流行趋势。文中提到了多位网红及其受欢迎的视频作品，包括男扮女装的视频和其他相关戏剧表演，反映了当代网络文化中性别流动性与表现的多样性。文件包含多个视频的观看数据、点赞数和评论数，展示了这些男扮女装网红在社交媒体上获得的影响力和受欢迎程度。此外，还提供了一些与男扮女装相关的文化背景和社会接受度的信息，使读者能够更好地理解这一现象的社会意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,12 +101,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男扮女装的中国网红_-_TikTok.md                             |
 | Size            | 4692 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tiktok.com/discover/%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BA%A2](https://www.tiktok.com/discover/%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BA%A2)                       |
+| Author          | moneykuan8                               |
+| Region          | 中国                               |
+| Date            | 2025-01-13                                 |
+| Tags            | 男扮女装, 中国网红, 女装视频, 社交媒体现象, TikTok, 性别流动性, 网络文化, 时尚, 戏剧表演, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

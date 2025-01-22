@@ -129,8 +129,8 @@ Gael Garcia Bernal 加艾尔加西亚般奴
 |-----------------|----------------------------------------|
 | Filename        | baike_人妖打擂台_百度百科.md                             |
 | Size            | 5431 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E6%89%93%E6%93%82%E5%8F%B0/12684534](https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E6%89%93%E6%93%82%E5%8F%B0/12684534)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2004-04-09                                 |

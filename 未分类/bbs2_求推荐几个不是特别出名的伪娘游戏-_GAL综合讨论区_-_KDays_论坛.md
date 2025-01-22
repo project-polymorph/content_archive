@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bbs2_求推荐几个不是特别出名的伪娘游戏-_GAL综合讨论区_-_KDays_论坛.md                             |
 | Size            | 947 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs2.kdays.net/read/86444?uid=183168&page=1](https://bbs2.kdays.net/read/86444?uid=183168&page=1)                       |
 | Author          | qaz741wsd86                               |
 | Region          | 未知                               |
 | Date            | 2022-09-12                                 |

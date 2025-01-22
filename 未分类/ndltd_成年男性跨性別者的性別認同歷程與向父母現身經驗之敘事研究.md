@@ -135,8 +135,8 @@ The purpose of this research is to reveal the process of gender identity of adul
 |-----------------|----------------------------------------|
 | Filename        | ndltd_成年男性跨性別者的性別認同歷程與向父母現身經驗之敘事研究.md                             |
 | Size            | 7145 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ndltd.ncl.edu.tw/r/a52a97](https://ndltd.ncl.edu.tw/r/a52a97)                       |
 | Author          | 林以珊 / LIN, YI-SHAN                               |
 | Region          | 台湾                               |
 | Date            | 2018-01-17                                 |

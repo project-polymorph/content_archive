@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一起美国发生的致命大规模枪击事件，该事件造成5人遇难，涉及一名自称性别认同为非二元的枪手。文章详细描述了此事件引发的网络假讯息的泛滥，尤其是在推特等社交平台上，以此为契机的反LGBTQ言论的增加。警方在公布凶嫌身份前，网络上便有人开始揣测其性别身份，而在凶手身份被证实后，某些右翼人士通过社交媒体传播关于枪手的错误信息，助长了一波反跨性别的舆论。维权人士则对此表示担忧，认为这些假讯息将可能造成更广泛的负面影响，尤其是在多个州陆续通过限制性别重置相关法案的背景下。文章中还提到，自马斯克收购推特以来，仇恨言论的数量急剧增加，并且引入的新认证机制使得假讯息的传播变得更为容易。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_非二元性别者犯下5死枪案美推特反LGBTQ假讯息激增_-_RFI.md                             |
 | Size            | 2537 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rfi.fr/cn/%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/20230412-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E8%80%85%E7%8A%AF%E4%B8%8B5%E6%AD%BB%E6%9E%AA%E6%A1%88-%E7%BE%8E%E6%8E%A8%E7%89%B9%E5%8F%8Dlgbtq%E5%81%87%E8%AE%AF%E6%81%AF%E6%BF%80%E5%A2%9E](https://www.rfi.fr/cn/%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/20230412-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E8%80%85%E7%8A%AF%E4%B8%8B5%E6%AD%BB%E6%9E%AA%E6%A1%88-%E7%BE%8E%E6%8E%A8%E7%89%B9%E5%8F%8Dlgbtq%E5%81%87%E8%AE%AF%E6%81%AF%E6%BF%80%E5%A2%9E)                       |
+| Author          | 法新社                               |
+| Region          | 美国                               |
+| Date            | 2023-12-04                                 |
+| Tags            | 非二元性别, 枪击事件, 反LGBTQ言论, 假讯息, 社交媒体, 推特, 维权运动, 性别认同, 跨性别问题, 法案与政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

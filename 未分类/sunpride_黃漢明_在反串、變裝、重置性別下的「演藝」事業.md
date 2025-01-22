@@ -77,8 +77,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sunpride_黃漢明_在反串、變裝、重置性別下的「演藝」事業.md                             |
 | Size            | 6560 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://sunpride.hk/zh/%E9%BB%83%E6%BC%A2%E6%98%8E-%E5%9C%A8%E5%8F%8D%E4%B8%B2%E3%80%81%E8%AE%8A%E8%A3%9D%E3%80%81%E9%87%8D%E7%BD%AE%E6%80%A7%E5%88%A5%E4%B8%8B%E7%9A%84%E3%80%8C%E6%BC%94%E8%97%9D%E3%80%8D%E4%BA%8B/](http://sunpride.hk/zh/%E9%BB%83%E6%BC%A2%E6%98%8E-%E5%9C%A8%E5%8F%8D%E4%B8%B2%E3%80%81%E8%AE%8A%E8%A3%9D%E3%80%81%E9%87%8D%E7%BD%AE%E6%80%A7%E5%88%A5%E4%B8%8B%E7%9A%84%E3%80%8C%E6%BC%94%E8%97%9D%E3%80%8D%E4%BA%8B/)                       |
 | Author          | 黄汉明                               |
 | Region          | 未知                               |
 | Date            | 2021-09-13                                 |

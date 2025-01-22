@@ -133,8 +133,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_第三性别_百度百科.md                             |
 | Size            | 9557 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E7%AC%AC%E4%B8%89%E6%80%A7%E5%88%AB/1734506](https://baike.baidu.com/item/%E7%AC%AC%E4%B8%89%E6%80%A7%E5%88%AB/1734506)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

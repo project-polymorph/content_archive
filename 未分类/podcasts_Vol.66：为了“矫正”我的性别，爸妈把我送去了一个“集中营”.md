@@ -63,8 +63,8 @@ Tracklist：
 |-----------------|----------------------------------------|
 | Filename        | podcasts_Vol.66：为了“矫正”我的性别，爸妈把我送去了一个“集中营”.md                             |
 | Size            | 5257 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/gb/podcast/vol-66-%E4%B8%BA%E4%BA%86-%E7%9F%AB%E6%AD%A3-%E6%88%91%E7%9A%84%E6%80%A7%E5%88%AB-%E7%88%B8%E5%A6%88%E6%8A%8A%E6%88%91%E9%80%81%E5%8E%BB%E4%BA%86%E4%B8%80%E4%B8%AA-%E9%9B%86%E4%B8%AD%E8%90%A5/id1504822434?i=1000488786898](https://podcasts.apple.com/gb/podcast/vol-66-%E4%B8%BA%E4%BA%86-%E7%9F%AB%E6%AD%A3-%E6%88%91%E7%9A%84%E6%80%A7%E5%88%AB-%E7%88%B8%E5%A6%88%E6%8A%8A%E6%88%91%E9%80%81%E5%8E%BB%E4%BA%86%E4%B8%80%E4%B8%AA-%E9%9B%86%E4%B8%AD%E8%90%A5/id1504822434?i=1000488786898)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2020-08-21                                 |

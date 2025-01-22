@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ste_大脑、心智与教育研究中心王臣博士在Acta_Psychologica发表学术论文.md                             |
 | Size            | 1694 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://ste.usx.edu.cn/info/1020/7764.htm](http://ste.usx.edu.cn/info/1020/7764.htm)                       |
 | Author          | 王臣博士、聂伊姿                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-04-22                                 |

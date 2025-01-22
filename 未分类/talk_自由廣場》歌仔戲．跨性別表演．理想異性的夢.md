@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | talk_自由廣場》歌仔戲．跨性別表演．理想異性的夢.md                             |
 | Size            | 2882 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://talk.ltn.com.tw/article/paper/1417037](https://talk.ltn.com.tw/article/paper/1417037)                       |
 | Author          | 林榮淑                               |
 | Region          | 台湾                               |
 | Date            | 2020-12-05                                 |

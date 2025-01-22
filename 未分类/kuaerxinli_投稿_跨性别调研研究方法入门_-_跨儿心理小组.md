@@ -232,8 +232,8 @@
 |-----------------|----------------------------------------|
 | Filename        | kuaerxinli_投稿_跨性别调研研究方法入门_-_跨儿心理小组.md                             |
 | Size            | 20596 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://kuaerxinli.org/%E8%B7%A8%E5%84%BF%E5%BF%83%E7%90%86/1395](https://kuaerxinli.org/%E8%B7%A8%E5%84%BF%E5%BF%83%E7%90%86/1395)                       |
 | Author          | QQ平台“跨性别相关bot”                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-08-01                                 |

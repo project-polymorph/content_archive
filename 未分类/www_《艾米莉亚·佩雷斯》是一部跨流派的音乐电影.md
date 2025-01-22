@@ -43,7 +43,7 @@ _《艾米莉亚·佩雷斯》将于 1 月 7 日晚上 30:XNUMX 在玛莎葡萄�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《艾米莉亚·佩雷斯》是一部由雅克·奥迪亚执导的音乐电影，讲述了一位年轻女性律师丽塔·莫拉·卡斯特罗（由佐伊·索尔达娜饰）与一位墨西哥贩毒集团头目胡安（由卡拉·索菲亚·加斯康饰）的故事，后者渴望通过变性来实现自我。影片融合了歌剧、音乐剧和犯罪题材，展现了丽塔帮助胡安伪造死亡以获取新身份的复杂历程。在这个过程中，影片深入探讨了性别认同、爱与欲望的主题，并通过三位女性的交织命运与情感冲突展现了更深层次的社会现象和个人挣扎。影片特点在于其音乐、演技与舞蹈的完美融合，同时获得了戛纳电影节的赞誉。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@ _《艾米莉亚·佩雷斯》将于 1 月 7 日晚上 30:XNUMX 在玛莎葡萄�
 |-----------------|----------------------------------------|
 | Filename        | www_《艾米莉亚·佩雷斯》是一部跨流派的音乐电影.md                             |
 | Size            | 4272 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mvtimes.com/zh-CN/2024/10/29/emilia-perez-film-musical-genre-bender/](https://www.mvtimes.com/zh-CN/2024/10/29/emilia-perez-film-musical-genre-bender/)                       |
+| Author          | MV Times News Corp.                               |
+| Region          | 美国                               |
+| Date            | 2025-01-12                                 |
+| Tags            | 多元性别, 变性, 音乐电影, 性别认同, 犯罪题材, 社会现象, 女性角色, 电影分析, 心理探讨, 情感冲突                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

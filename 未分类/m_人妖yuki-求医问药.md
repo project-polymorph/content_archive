@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖yuki-求医问药.md                             |
 | Size            | 3393 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.120ask.com/qywy/question/636947.htm](http://m.120ask.com/qywy/question/636947.htm)                       |
 | Author          | 人妖yuki                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

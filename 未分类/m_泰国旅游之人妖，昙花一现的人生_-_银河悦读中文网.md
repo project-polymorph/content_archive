@@ -96,8 +96,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国旅游之人妖，昙花一现的人生_-_银河悦读中文网.md                             |
 | Size            | 8084 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.yinheyuedu.com/article/detail/13822](http://m.yinheyuedu.com/article/detail/13822)                       |
 | Author          | 安广禄                               |
 | Region          | 泰国                               |
 | Date            | 2019-01-01                                 |

@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文献详细探讨了与变性相关的心理健康问题，尤其聚焦于易性病（性别认同障碍）患者所面临的困境和挑战。文中提到台湾变性人林国华的自杀事件，强调了变性者在社会接受度不足的情况下所承受的巨大心理压力。文章指出，变性过程虽然是许多易性病患者的梦想，然而，他们往往对变性后的生活准备不足，可能会经历更加复杂的心理问题。文中提到的心理冲突与家庭教育的影响，为读者理解性别认同与心理健康之间的复杂关系提供了深刻的见解。还对儿童性别意识的培养提出重要建议，以减少未来可能出现的身份认同危机。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zibomhc_变性的背后-_心理科普_-_淄博市精神卫生中心.md                             |
 | Size            | 3192 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://zibomhc.com/wap/wiki/show-468.html](http://zibomhc.com/wap/wiki/show-468.html)                       |
+| Author          | 淄博市精神卫生中心                               |
+| Region          | 中国大陆                               |
+| Date            | 2008-10-10                                 |
+| Tags            | 变性, 易性病, 心理健康, 社会接受, 生存现状, 变性过程, 性别认同, 家庭教育, 精神卫生, 自杀事件                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -103,7 +103,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件详细讲述了新加坡在废除377A法案后的复杂背景与后果。377A法是新加坡在殖民时期设立的针对同性恋行为的法律，直到2022年该法案才被宣布废除。新加坡总理李显龙在国庆演讲中表示，废除该法案是为了符合社会风尚和进步，尽管此举无法完全消除对LGBTQ+群体的历史歧视。文章中详细讲述了377A的历史，包括其由英国殖民时代引入的背景，以及1970年代以来对该法的法律挑战和社会争论。此外，文章也提到“粉红点”运动在推动社会接纳同性恋方面的努力。尽管政府宣布废除377A，但李显龙表示不会承认同性婚姻，从而反映出新加坡社会在接受多元性别问题终究仍处于保守状态。文件探讨了这些变化背后的社会、法律和文化因素，并指出新加坡在未来对待性取向多元化的可能态度和挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -114,12 +114,12 @@
 |-----------------|----------------------------------------|
 | Filename        | user_新加坡同性平权迈出第一步后，荆棘丛生_-_观察者.md                             |
 | Size            | 11867 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://user.guancha.cn/main/content?id=840434&s=fwtjgzwz](https://user.guancha.cn/main/content?id=840434&s=fwtjgzwz)                       |
+| Author          | 观察者网                               |
+| Region          | 新加坡                               |
+| Date            | 2022-08-30                                 |
+| Tags            | 新加坡, 同性恋, 377A法案, 平权, 法律, 社会, 文化, 粉红点, LGBTQ+, 历史                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

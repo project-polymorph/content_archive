@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要介绍了一款名为《男の娘になぁれ！》的模拟类手机游戏，发布于九游平台。游戏的核心玩法是将街上的男性角色转变为伪娘，玩家通过点击聚集在目标男性身边的妖精来完成变身过程。游戏特色在于丰富的角色图鉴以及多样的可爱角色，玩家需要在不同的时间和场合寻找目标男性，并通过满足特定条件来收集稀有角色。这款游戏不仅展现了对多元性别文化的趣味探索，也在评论中引起了许多玩家的热烈讨论与期待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男の娘になぁれ！下载_-_九游.md                             |
 | Size            | 2603 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.9game.cn/nn1/](https://www.9game.cn/nn1/)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 游戏介绍, 多元性别, 伪娘, 模拟游戏, 玩家评论, 图鉴收集, 男性角色, 妖精, 可爱风格, 九游平台                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

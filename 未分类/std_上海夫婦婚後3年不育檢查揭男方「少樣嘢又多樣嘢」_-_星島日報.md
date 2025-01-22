@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | std_上海夫婦婚後3年不育檢查揭男方「少樣嘢又多樣嘢」_-_星島日報.md                             |
 | Size            | 2425 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://std.stheadline.com/realtime/article/2030591/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E4%B8%8A%E6%B5%B7%E5%A4%AB%E5%A9%A6%E5%A9%9A%E5%BE%8C3%E5%B9%B4%E4%B8%8D%E8%82%B2-%E6%AA%A2%E6%9F%A5%E6%8F%AD%E7%94%B7%E6%96%B9-%E5%B0%91%E6%A8%A3%E5%98%A2%E5%8F%88%E5%A4%9A%E6%A8%A3%E5%98%A2](https://std.stheadline.com/realtime/article/2030591/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E4%B8%8A%E6%B5%B7%E5%A4%AB%E5%A9%A6%E5%A9%9A%E5%BE%8C3%E5%B9%B4%E4%B8%8D%E8%82%B2-%E6%AA%A2%E6%9F%A5%E6%8F%AD%E7%94%B7%E6%96%B9-%E5%B0%91%E6%A8%A3%E5%98%A2%E5%8F%88%E5%A4%9A%E6%A8%A3%E5%98%A2)                       |
 | Author          | 星岛日报                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-10-20                                 |

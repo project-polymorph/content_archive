@@ -84,8 +84,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cn_国产伪娘（TS、CD）集中营.md                             |
 | Size            | 5170 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.tgstat.com/channel/@guochanweiniang](https://cn.tgstat.com/channel/@guochanweiniang)                       |
 | Author          | 未知                               |
 | Region          | 中国                               |
 | Date            | 2023-12-31                                 |

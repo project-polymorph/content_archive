@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别者在桃园国际机场通关时所遭遇的困难以及相关性别认同的问题。文章主要叙述了吴伊婷的亲身经历，她在出境时因护照性别与外貌不符而受到海关人员的质疑和刁难。吴伊婷及其他性别团体在记者会上呼吁政府要提高对多元性别的认识，并要求在身份证件上增设第三种性别选项，以改善跨性别者的处境。其讨论指出，跨性别者在日常生活中经常面临因性别不明而产生的困扰，强调了性别多元化的必要性和迫切性。文章最后提到，社会各界应当关注和推动对跨性别者权利的尊重和认可。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別機場通關遭刁難籲自由換證、增男女以外選項.md                             |
 | Size            | 4595 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.coolloud.org.tw/node/77462](https://www.coolloud.org.tw/node/77462)                       |
+| Author          | 陳逸婷                               |
+| Region          | 台湾                               |
+| Date            | 2014-02-19                                 |
+| Tags            | 跨性别, 性别认同, 人权, 歧视, 医疗资源, 法律政策, 社会环境, 性别多元化, 陈述经验, 政府政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

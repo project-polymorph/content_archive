@@ -73,8 +73,8 @@
 |-----------------|----------------------------------------|
 | Filename        | telegra_在广州高校的课堂谈论同志议题：留存在影像里的多元性别教育.md                             |
 | Size            | 7346 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://telegra.ph/%E5%9C%A8%E5%B9%BF%E5%B7%9E%E9%AB%98%E6%A0%A1%E7%9A%84%E8%AF%BE%E5%A0%82%E8%B0%88%E8%AE%BA%E5%90%8C%E5%BF%97%E8%AE%AE%E9%A2%98%E7%95%99%E5%AD%98%E5%9C%A8%E5%BD%B1%E5%83%8F%E9%87%8C%E7%9A%84%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%95%99%E8%82%B2-07-29](https://telegra.ph/%E5%9C%A8%E5%B9%BF%E5%B7%9E%E9%AB%98%E6%A0%A1%E7%9A%84%E8%AF%BE%E5%A0%82%E8%B0%88%E8%AE%BA%E5%90%8C%E5%BF%97%E8%AE%AE%E9%A2%98%E7%95%99%E5%AD%98%E5%9C%A8%E5%BD%B1%E5%83%8F%E9%87%8C%E7%9A%84%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%95%99%E8%82%B2-07-29)                       |
 | Author          | 崔乐                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-08-07                                 |

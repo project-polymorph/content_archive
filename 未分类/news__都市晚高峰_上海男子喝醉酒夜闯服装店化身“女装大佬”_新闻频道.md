@@ -37,8 +37,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news__都市晚高峰_上海男子喝醉酒夜闯服装店化身“女装大佬”_新闻频道.md                             |
 | Size            | 692 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.cctv.com/2019/10/24/VIDE7yADyZKGZswAgPR2s8Rs191024.shtml](http://news.cctv.com/2019/10/24/VIDE7yADyZKGZswAgPR2s8Rs191024.shtml)                       |
 | Author          | 央视网                               |
 | Region          | 上海, 中国                               |
 | Date            | 2019-10-24                                 |

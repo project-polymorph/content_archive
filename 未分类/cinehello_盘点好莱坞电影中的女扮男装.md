@@ -186,8 +186,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cinehello_盘点好莱坞电影中的女扮男装.md                             |
 | Size            | 7461 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cinehello.com/stream/144925/](https://cinehello.com/stream/144925/)                       |
 | Author          | FunHouse影视特效化妆                               |
 | Region          | 未知                               |
 | Date            | 2022-05-14                                 |

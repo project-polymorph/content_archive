@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了泰国与菲律宾之间的人妖文化现象，标题为《泰国大战菲律宾人妖》，主要通过社交媒体平台Facebook上的一段视频进行展示和讨论。作者Hot 431在2024年3月6日发布了该内容，内容明确了这个文化现象涉及的两国，以及不同的表达形式，包括生活故事、表演、和更广泛的社会议题，强调了人妖群体在这两个国家的独特地位和表现。该文件收录了一些相关视频和评论，提供了一些观众互动和反馈的情况，进一步展示了网络文化中关于该主题的多样性和复杂性。不同的标签包括“泰国”、“菲律宾”、“人妖”等，反映出现时的文化交流与社会现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国大战菲律宾人妖！__By_Hot_431_-_Facebook.md                             |
 | Size            | 2999 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/61557094583259/videos/%E6%B3%B0%E5%9B%BD%E5%A4%A7%E6%88%98%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BA%BA%E5%A6%96/423776573543536/?locale=ms_MY](https://www.facebook.com/61557094583259/videos/%E6%B3%B0%E5%9B%BD%E5%A4%A7%E6%88%98%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BA%BA%E5%A6%96/423776573543536/?locale=ms_MY)                       |
+| Author          | Hot 431                               |
+| Region          | 未知                               |
+| Date            | 2024-03-06                                 |
+| Tags            | 泰国, 菲律宾, 人妖, 视频, 社交媒体, 文化现象, 生活故事, 社会议题, 表演艺术, 网络文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

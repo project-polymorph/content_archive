@@ -34,7 +34,7 @@ DOI: 2d3lzegmd9/2452691
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了变性人在法律和社会层面上面临的挑战，特别是涉及他们结婚时的性别识别问题。具体提到，变性人需要通过变性手术才能更改身份证上的性别，这使得他们在结婚时必须以法律上承认的性别身份进行。这一过程不仅反映了变性人在法律体系内的困境，也突出强调了法律对变性人家庭生活的影响。文中同时提到，虽然法律规定不够明确和宽松，但一些社会和文化角度的讨论也可能影响变性人的婚姻选择和性别认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@ DOI: 2d3lzegmd9/2452691
 |-----------------|----------------------------------------|
 | Filename        | www_由“变性人结婚”所想到的_-_期刊网.md                             |
 | Size            | 1827 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.qikanchina.com/thesis/detail/2452691](https://www.qikanchina.com/thesis/detail/2452691)                       |
+| Author          | admin                               |
+| Region          | 未知                               |
+| Date            | 2019-10-05                                 |
+| Tags            | 变性人, 婚姻法律, 性别认同, 社会文化, 医疗资源, 变性手术, 法律政策, 婚姻平权, 个人故事, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

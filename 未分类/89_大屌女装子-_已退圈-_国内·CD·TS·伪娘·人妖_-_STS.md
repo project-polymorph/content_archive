@@ -68,8 +68,8 @@ her name, plz
 |-----------------|----------------------------------------|
 | Filename        | 89_大屌女装子-_已退圈-_国内·CD·TS·伪娘·人妖_-_STS.md                             |
 | Size            | 1920 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://89.208.253.109/forum.php?mod=viewthread&tid=9247&extra=page%3D1](https://89.208.253.109/forum.php?mod=viewthread&tid=9247&extra=page%3D1)                       |
 | Author          | 3q21                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-06-15                                 |

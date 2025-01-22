@@ -98,8 +98,8 @@
 |-----------------|----------------------------------------|
 | Filename        | read1read_動漫盤點那些以性轉為主題的番劇.md                             |
 | Size            | 2659 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://read1read.com/article/36383](https://read1read.com/article/36383)                       |
 | Author          | 动漫资讯                               |
 | Region          | 未知                               |
 | Date            | 2023-03-22                                 |

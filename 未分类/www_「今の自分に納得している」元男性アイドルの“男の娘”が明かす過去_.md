@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了杉本陣的生平故事，他是一位曾经的男性偶像，在成为YouTuber后，开始女装并接受自己的性别认同。他在文中分享了女装的起源，以及自己个人成长中的挣扎和转变。他提到，在中学时代一直想要看起来更阳刚，但在经历了生活中的改变后，他开始接受自我并探索‘男的娘’的身份。经过一段时间的女装体验，他不仅发现了自我认同的快乐，也逐渐意识到自己的性取向并不受性别的局限。他接受了自己所处的社会角色，虽然偶尔遇到误解，但他对当前的自我感到满意。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,12 +68,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_「今の自分に納得している」元男性アイドルの“男の娘”が明かす過去_.md                             |
 | Size            | 8219 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.oricon.co.jp/special/60932/](https://www.oricon.co.jp/special/60932/)                       |
+| Author          | 杉本陣                               |
+| Region          | 日本                               |
+| Date            | 2022-11-02                                 |
+| Tags            | 男性偶像, 女装, 自我认同, YouTuber, 性别认同, 社交媒体, 性取向, 成长故事, 心理健康, LGBTQ+                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

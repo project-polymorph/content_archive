@@ -43,8 +43,8 @@ vivian前次恋情的失败让她开始压抑自己的感情，只能通过着�
 |-----------------|----------------------------------------|
 | Filename        | www_异装癖的女人和男人心理_-_搜狐.md                             |
 | Size            | 4085 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://www.sohu.com/a/139087322_104333](https://www.sohu.com/a/139087322_104333)                       |
 | Author          | 郭利方心理咨询                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-05-08                                 |

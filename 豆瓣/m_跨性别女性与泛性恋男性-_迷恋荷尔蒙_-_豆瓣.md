@@ -96,8 +96,8 @@ Barry表露的心声亦清楚地告诉我们，他不是一些观众定义的所
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别女性与泛性恋男性-_迷恋荷尔蒙_-_豆瓣.md                             |
 | Size            | 11959 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/3001942/](https://m.douban.com/movie/review/3001942/)                       |
 | Author          | 冉笛                               |
 | Region          | 美国 / 加拿大                               |
 | Date            | 未知                                 |

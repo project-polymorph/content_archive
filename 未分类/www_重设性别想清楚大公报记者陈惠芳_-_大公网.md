@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由大公报记者陈惠芳撰写，深入探讨香港跨性别者面临的挑战与问题。文章通过临床心理学家甄梓竣的访谈，揭示了跨性别者在香港社会中的生存现状和心理健康状态。文章指出，尽管香港是一个开放的国际都市，但对于性小众群体的接受度仍然有限，许多跨性别者在生活和工作中遭受困扰与歧视。甄心理学家强调，跨性别者的求诊通常是在遭受暴力或心理困扰之后，辅导的目标是帮助他们找到正确生活的方向，而非强迫改变性别认同。文章也描述了跨性别者的变性过程，包括就医程序和心理评估，并深刻反映了社会歧视对这一群体造成的影响。同时，心理学家对跨性别者自杀事件表示关注，认为接受与尊重是解决问题的关键。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_重设性别想清楚大公报记者陈惠芳_-_大公网.md                             |
 | Size            | 3569 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.takungpao.com/life/238151/2018/1217/221089.html](https://www.takungpao.com/life/238151/2018/1217/221089.html)                       |
+| Author          | 大公报记者 陈惠芳                               |
+| Region          | 香港                               |
+| Date            | 2018-12-17                                 |
+| Tags            | 跨性别, 性别认同, 心理健康, 社会歧视, 生命故事, 医疗资源, 香港, 报道, 心理辅导, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

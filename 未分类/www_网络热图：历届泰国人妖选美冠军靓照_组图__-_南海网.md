@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该网页内容来源于腾讯网，介绍了历届泰国人妖选美比赛的冠军照片。文章以图片形式展示了多位泰国人妖选美冠军的靓照，强调了这一特殊文化现象在泰国社会中的存在与影响。特别是2006年，人妖选美冠军Ratravee Jiraprapakul的照片引人注目，显示出她的美丽和多元性别文化的魅力。作品通过精美的图片展示了人妖选美这一艺术与社会现象，同时也传达了泰国在接受和庆祝多元性别方面所表现出的独特态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_网络热图：历届泰国人妖选美冠军靓照_组图__-_南海网.md                             |
 | Size            | 1146 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.hinews.cn/news/system/2007/01/10/010066463_04.shtml](http://www.hinews.cn/news/system/2007/01/10/010066463_04.shtml)                       |
+| Author          | 腾讯网                               |
+| Region          | 泰国                               |
+| Date            | 2007-01-10                                 |
+| Tags            | 人妖选美, 多元性别, 泰国文化, 选美比赛, Ratravee Jiraprapakul, 视觉艺术, 社会现象, 网络热图, 性别认同, 文化表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

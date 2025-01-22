@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《妻子的背叛伪娘小说排行榜》为指南性质的内容，汇集了与伪娘题材相关的多部轻小说推荐，包括《请叫我女装大佬》和《女装佳人养成日记》等。这些小说大多为原生幻想类和搞笑吐槽类型，让人能够感受到轻松和幽默的氛围。文中不仅提供了小说的基本信息，还提到了相关的伪娘语音小说、伪娘网站小说及伪娘变小说等丰富的内容。此外，还涉及动漫中的伪娘角色以及伪娘修仙小说的推荐，展现了伪娘文化的多样性。该资料适用于对伪娘题材感兴趣的读者，尤其是希望寻找相关阅读资料的人群，构成了一个良好的小说和文化资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_妻子的背叛伪娘小说排行榜_-_起点中文.md                             |
 | Size            | 3334 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.qidian.com/ask/tqbosxaskrhfo](https://www.qidian.com/ask/tqbosxaskrhfo)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 伪娘, 轻小说, 女装大佬, 原生幻想, 搞笑小说, 动漫角色, 修仙小说, 文学推荐, 文化研究, 幽默作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

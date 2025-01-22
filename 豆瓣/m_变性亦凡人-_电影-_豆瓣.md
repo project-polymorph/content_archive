@@ -79,8 +79,8 @@ IMDb: tt6977248
 |-----------------|----------------------------------------|
 | Filename        | m_变性亦凡人-_电影-_豆瓣.md                             |
 | Size            | 3980 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/subject/26868373/](https://m.douban.com/movie/subject/26868373/)                       |
 | Author          | 未知                               |
 | Region          | 瑞典                               |
 | Date            | 2015-01-01                                 |

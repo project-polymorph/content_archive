@@ -69,8 +69,8 @@ __版權：__ 本站所刊載之圖文內容等版權皆屬原廠商或原作者
 |-----------------|----------------------------------------|
 | Filename        | forum_【定義】偽娘、男の娘、人妖_-_巴哈姆特.md                             |
 | Size            | 5944 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://forum.gamer.com.tw/C.php?bsn=60552&snA=15](https://forum.gamer.com.tw/C.php?bsn=60552&snA=15)                       |
 | Author          | 冰の羽翼 (full9box)                               |
 | Region          | 台湾                               |
 | Date            | 2011-12-04                                 |

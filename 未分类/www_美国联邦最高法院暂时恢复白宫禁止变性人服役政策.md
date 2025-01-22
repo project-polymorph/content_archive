@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国联邦最高法院于2019年1月22日作出的裁定，允许特朗普政府重新实施禁止大多数变性人在军队服役的政策。报道详细介绍了此判决的背景，包括2016年美国允许公开变性身份的军人服役政策的起源，以及特朗普于2017年实施的禁止变性人服役的命令所引发的法律诉讼。这一裁定被认为是对变性人权利的重大影响，涉及到民权组织通过法律手段反对这一政策的情况。文中还引用了国会众议长佩洛西对禁令的强烈反对及相关人物的意见，指出此政策可能对变性人及其合法权益造成的伤害。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美国联邦最高法院暂时恢复白宫禁止变性人服役政策.md                             |
 | Size            | 2144 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2019-01/23/c_1124031004.htm](http://www.xinhuanet.com/world/2019-01/23/c_1124031004.htm)                       |
+| Author          | 新华社                               |
+| Region          | 美国                               |
+| Date            | 2019-01-22                                 |
+| Tags            | 变性人, 美国联邦最高法院, 军事政策, 法治, 特朗普政府, 同性恋权利, 民权, 跨性别者, 社会政策, 军队服役                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

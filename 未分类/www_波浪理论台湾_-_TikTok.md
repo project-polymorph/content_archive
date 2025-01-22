@@ -220,7 +220,7 @@ Discover videos related to **波浪理论 台湾** on TikTok. Last updated 2025-
 **Comments:** 0  
 [View on TikTok](https://www.tiktok.com/@sz.c83/video/7419887143151095047)
 
-![75 Likes, TikTok video from ꧁ৡ Jeff Yuan ৡ꧂ (@jeffyuan1212): “中華民國傳國玉璽，只有合法政權才會正式擁有的國家玉璽 #傳國玉璽 #政權 #血統 #正宗”. 原聲 - ꧁ৡ Jeff Yuan ৡ꧂.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[75 Likes, TikTok video from ꧁ৡ Jeff Yuan ৡ꧂ (@jeffyuan1212): “中華民國傳國玉璽，只有合法政權才會正式擁有的國家玉璽 #傳國玉璽 #政權 #血統 #正宗”. 原聲 - ꧁ৡ Jeff Yuan ৡ꧂.]
 
 **Video Title:** 中華民國傳國玉璽，只有合法政權才會正式擁有的國家玉璽  
 **Author:** jeffyuan1212  
@@ -229,7 +229,7 @@ Discover videos related to **波浪理论 台湾** on TikTok. Last updated 2025-
 **Tags:** #傳國玉璽 #政權 #血統 #正宗  
 [View on TikTok](https://www.tiktok.com/@jeffyuan1212/video/7256298477368560902)
 
-![143 Likes, 36 Comments. TikTok video from 秦朝玄鳥（大一統） (@tanyuxi61): “寒國人抹黑本省人民進黨😅#寒國人 #民進黨 #ecfa #兩岸經貿 #抖音熱評”. 原创音乐 - 秦朝玄鳥（大一統）.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[143 Likes, 36 Comments. TikTok video from 秦朝玄鳥（大一統） (@tanyuxi61): “寒國人抹黑本省人民進黨😅#寒國人 #民進黨 #ecfa #兩岸經貿 #抖音熱評”. 原创音乐 - 秦朝玄鳥（大一統）.]
 
 **Video Title:** 寒國人抹黑本省人民進黨  
 **Author:** tanyuxi61  
@@ -256,7 +256,7 @@ Discover videos related to **波浪理论 台湾** on TikTok. Last updated 2025-
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于在TikTok上与台湾相关的多个视频的汇总，内容涉及波浪理论及其在台湾的影响，以及与台湾政治、文化相关的多元议题。视频内容包括台湾省企业的介绍、马龙访台的反响、对习近平言论的分析等，涉及多种政治评论和社会现象的反思。这些视频中的评论和点赞数显示出公众对这些话题的讨论热度和关注点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -267,12 +267,12 @@ Discover videos related to **波浪理论 台湾** on TikTok. Last updated 2025-
 |-----------------|----------------------------------------|
 | Filename        | www_波浪理论台湾_-_TikTok.md                             |
 | Size            | 23634 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tiktok.com/discover/%E6%B3%A2%E6%B5%AA%E7%90%86%E8%AE%BA-%E5%8F%B0%E6%B9%BE](https://www.tiktok.com/discover/%E6%B3%A2%E6%B5%AA%E7%90%86%E8%AE%BA-%E5%8F%B0%E6%B9%BE)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2025-01-20                                 |
+| Tags            | 波浪理论, TikTok, 视频汇总, 台湾企业, 马龙访台, 政治评论, 社会现象, 习近平, 文化影响, 多元议题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

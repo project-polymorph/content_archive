@@ -76,7 +76,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为勾颜在Twitter上的推文档案，记录了作者自2019年加入Twitter以来在社交媒体上的动态与互动。勾颜是一名拥有86.9K粉丝的用户，内容主要围绕性别与性取向话题，特别是关于性实践的讨论，倡导开放的对话与交流。通过多条推文，勾颜分享了她对‘pegging’（一种性行为）的个人感受和讨论希望，以及与追随者互动的内容。此外，文件中包含了关于她参与和组织团购的信息，显示了在特定社群中进行活动的商业元素。推文的内容丰富而多样，不仅展现了个体生活的多样性，也反映了LGBTQ+社群在公共社交空间的存在与声音。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,12 +87,12 @@
 |-----------------|----------------------------------------|
 | Filename        | x_勾颜_@gouyan6___X.md                             |
 | Size            | 2999 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://x.com/gouyan6](https://x.com/gouyan6)                       |
+| Author          | 勾颜 (@gouyan6)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别, 性取向, pegging, 团购, 社交媒体, 个人分享, 性实践, 性教育, LGBTQ+                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

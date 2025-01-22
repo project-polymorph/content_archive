@@ -29,7 +29,7 @@ Dante Tex Gill在70年代經營非法按摩和色情業，儘管生理上是女�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了史嘉蕾·乔韩森（Scarlett Johansson）将要在传记电影《Rub & Tug》中扮演跨性别角色Dante 'Tex' Gill的消息。Dante Tex Gill于70年代经营非法按摩和色情业，生理上是女性，但她的外表和穿着均为男性；她在影片中的感情核心是与女友Cynthia的关系。文章提到史嘉蕾·乔韩森的选择引发了一些争议，公众认为她不应当扮演这样的角色，优先权应归属于跨性别演员。文章还比较提到了一些历史上由非跨性别演员饰演的跨性别角色。整体上，文章引发了对于跨性别角色扮演的社会讨论，对这一主题的敏感性进行了探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@ Dante Tex Gill在70年代經營非法按摩和色情業，儘管生理上是女�
 |-----------------|----------------------------------------|
 | Filename        | www_女神新戲將挑戰跨性別角色！史嘉蕾喬韓森參演傳記電影《Rub_&_Tug》.md                             |
 | Size            | 2101 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.marieclaire.com.tw/entertainment/movie/37501](https://www.marieclaire.com.tw/entertainment/movie/37501)                       |
+| Author          | Ren                               |
+| Region          | 台湾                               |
+| Date            | 2018-07-05                                 |
+| Tags            | 跨性别, 史嘉蕾乔韩森, Scarlett Johansson, Dante Tex Gill, Rub & Tug, 性别角色, 时尚业, 电影, 争议, 社会评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

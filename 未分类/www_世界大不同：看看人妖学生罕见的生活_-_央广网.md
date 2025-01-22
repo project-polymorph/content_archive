@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在泰国的"人妖"（跨性别者或变性人）学生的生活，指出尽管这一群体在泰国的主流社会中并不完全被接受，但仍然能够在学校和商业环境中找到一席之地。文章提到，根据不完全统计，从20世纪90年代起，泰国的人妖数量已超过2万。在学校，有人妖学生的存在，而在商场，也有他们的身影。虽然人妖的生活经历了许多挑战，例如经济困境和社会认同问题，但在一些场合，社会较低的歧视程度使得他们的生活相对宽松。文章的背景音乐为央广网提供，关心生存现状的人妖个体及其家庭的故事，并揭示了他们的生计来源常常是来自经济较为拮据的家庭。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_世界大不同：看看人妖学生罕见的生活_-_央广网.md                             |
 | Size            | 2971 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.cnr.cn/ent/gd/20161105/t20161105_523245706.shtml](http://www.cnr.cn/ent/gd/20161105/t20161105_523245706.shtml)                       |
+| Author          | 央广网                               |
+| Region          | 泰国                               |
+| Date            | 2016-11-05                                 |
+| Tags            | 人妖, 跨性别, 变性, 性别认同, 社会接纳, 生活故事, 经济困境, 校园生活, 医疗资源, 社会现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

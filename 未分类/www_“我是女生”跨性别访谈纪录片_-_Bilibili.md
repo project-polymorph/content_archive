@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//i0.hdslb.com/bfs/archive/bac9eac6a30a0254f7757bf7d3de216208ac1d74.jpg@100w_100h_1c.webp)
+![](https://i0.hdslb.com/bfs/archive/bac9eac6a30a0254f7757bf7d3de216208ac1d74.jpg@100w_100h_1c.webp)
 
 **观看次数**: 6.1万  
 **评论数**: 693  
@@ -12,7 +12,7 @@
 
 “我是女生”跨性别访谈纪录片
 
-![](//i1.hdslb.com/bfs/face/61535a8a0c4c3b834dd9e8b27bba0778fe457a3e.jpg@96w.webp)关注
+![](https://i1.hdslb.com/bfs/face/61535a8a0c4c3b834dd9e8b27bba0778fe457a3e.jpg@96w.webp)关注
 
 正在缓冲...
 
@@ -61,7 +61,7 @@
 - 跨性别
 - 人生感言
 
-![](//i1.hdslb.com/bfs/face/61535a8a0c4c3b834dd9e8b27bba0778fe457a3e.jpg@96w_96h_1c_1s_!web-avatar.webp)  
+![](https://i1.hdslb.com/bfs/face/61535a8a0c4c3b834dd9e8b27bba0778fe457a3e.jpg@96w_96h_1c_1s_!web-avatar.webp)  
 **作者**: [混乱的鱼](https://space.bilibili.com/344945155)  
 **关注**: 5883  
 
@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+“我是女生”跨性别访谈纪录片是一部记录跨性别者生活与心路历程的视频访谈。该纪录片通过真实的声音与日常的分享，让观众深入了解跨性别者的生活状态与情感体验。视频中，作者分享了自己的长期转变过程及所经历的种种挑战，旨在通过细腻的描绘让更多的人理解和接纳多元性别的存在。纪录片不仅涉及个人故事，还反映了跨性别群体在社会中面临的压力与期待。观众在评论区中积极互动，表达自己的感受和对生活的思考，形成了一种积极的交流氛围。该纪录片旨在促进对跨性别问题的关注和讨论，鼓励更多人分享自己的故事与经验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“我是女生”跨性别访谈纪录片_-_Bilibili.md                             |
 | Size            | 1852 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1Jv41117e7/](https://www.bilibili.com/video/BV1Jv41117e7/)                       |
+| Author          | 混乱的鱼                               |
+| Region          | 未知                               |
+| Date            | 2020-08-31                                 |
+| Tags            | 跨性别, 生活, 情感, 自制, 访谈, 人生感言, VLOG, 生活记录, 女生, 人性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

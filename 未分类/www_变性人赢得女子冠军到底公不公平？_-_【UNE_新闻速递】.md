@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一名变性女性选手在国际自行车联盟举办的场地自行车世界锦标赛中赢得金牌所引发的争议。文章简要介绍了这位来自南卡罗来纳州查尔斯顿学院的哲学系助理教授麦金农的比赛成绩，以及她在社交网络上发表的获奖感言。同时，铜牌选手瓦格纳因结果不满，在网上表达了她对变性选手参赛公平性的质疑，引发了关于跨性别运动员参与体育竞技的广泛争论。支持与反对的声音交织，作者引用了不同人士的观点，探讨了生理性别与生理优势之间的复杂关系和国际奥委会及国际自行车联盟对跨性别运动员比赛资格的规定，提出了对竞技体育公平性的深刻思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性人赢得女子冠军到底公不公平？_-_【UNE_新闻速递】.md                             |
 | Size            | 4298 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.unecne.com/archives/63535](https://www.unecne.com/archives/63535)                       |
+| Author          | 庞可阳                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 女子运动, 体育公平, 大师赛, 跨性别运动员, 麦金农, LGBT权益, 体育争议, 法律政策, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

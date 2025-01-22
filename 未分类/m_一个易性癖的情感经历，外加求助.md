@@ -88,8 +88,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_一个易性癖的情感经历，外加求助.md                             |
 | Size            | 6914 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.acfun.cn/v/?ac=2318698](https://m.acfun.cn/v/?ac=2318698)                       |
 | Author          | 孙eggs                               |
 | Region          | 未知                               |
 | Date            | 2015-11-10                                 |

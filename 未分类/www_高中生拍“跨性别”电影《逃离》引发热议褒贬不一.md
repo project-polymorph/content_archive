@@ -69,7 +69,7 @@ Copyright © 2014-2024 观察者 All rights reserved。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一部由北京市人大附中高中生自制的跨性别题材电影《逃离》。影片通过讲述一名跨性别高中生张望安的故事，深刻探讨了性别认同的问题和跨性别者在社会中的生存现状。该电影由37名学生自办剧组，经过艰苦创作完成，反映了年轻一代对性别意识的觉醒和对性少数群体的理解与支持。电影以张望安的内心挣扎为主线，揭示了他在自我认同与社会期望之间的两难。文章还提及了组织者与参与者与跨性别者的互动，以及拍摄过程中的挑战与创作动机，展现了学生对于性教育认知的自发探索及社会对性少数群体的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,12 +80,12 @@ Copyright © 2014-2024 观察者 All rights reserved。
 |-----------------|----------------------------------------|
 | Filename        | www_高中生拍“跨性别”电影《逃离》引发热议褒贬不一.md                             |
 | Size            | 6179 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/society/2017_07_24_419641.shtml?web](https://www.guancha.cn/society/2017_07_24_419641.shtml?web)                       |
+| Author          | 北京青年报                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-07-24                                 |
+| Tags            | 跨性别, 高中生, 电影, 性少数群体, 自发性教育, 社会讨论, 性别认同, 年轻人, 文化创作, 性教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

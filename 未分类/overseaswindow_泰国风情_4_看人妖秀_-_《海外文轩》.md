@@ -85,8 +85,8 @@
 |-----------------|----------------------------------------|
 | Filename        | overseaswindow_泰国风情_4_看人妖秀_-_《海外文轩》.md                             |
 | Size            | 8103 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://overseaswindow.com/home/nodebody/5218/477](https://overseaswindow.com/home/nodebody/5218/477)                       |
 | Author          | 在水一方                               |
 | Region          | 泰国                               |
 | Date            | 2012-09-25                                 |

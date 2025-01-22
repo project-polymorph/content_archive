@@ -63,7 +63,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了曾被评为“全国道德模范”的刘霆变性手术后的经历与感受。刘霆在经历了充满挑战的生活后，于2014年成功完成了从男性到女性的转变，取名刘婷。文章详细描述了刘婷的背景故事，包括她在照顾母亲的过程中如何努力学习及回报社会的经历。同时，报道对刘婷变性手术的过程、术后恢复及心态变化进行了深入的访谈，刘婷在谈及手术后的感受时说道：“以前很难受，像从身体里抽走了一部分。做了手术才感觉到我真的完整了。”此外，文章还讨论了时关刘婷如何规划自己的未来，包括修改身份证件的程序、对爱情的期待、以及未来可能的文学创作和影视事业。通过刘婷的故事，文章传达出对多元性别群体理解和支持的呼声。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_道德模范刘霆变性后穿短裙受访称术后感觉自己完整了_-_China.org.md                             |
 | Size            | 5958 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.china.org.cn/chinese/2015-04/08/content_35268312.htm](http://www.china.org.cn/chinese/2015-04/08/content_35268312.htm)                       |
+| Author          | 京华时报                               |
+| Region          | 中国                               |
+| Date            | 2015-04-08                                 |
+| Tags            | 道德模范, 变性手术, 女性, 刘霆, 刘婷, 身心完整, 多元性别, 社会支持, 人生故事, 媒体采访                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

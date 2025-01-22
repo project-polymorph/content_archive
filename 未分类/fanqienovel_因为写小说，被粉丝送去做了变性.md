@@ -261,8 +261,8 @@
 |-----------------|----------------------------------------|
 | Filename        | fanqienovel_因为写小说，被粉丝送去做了变性.md                             |
 | Size            | 17446 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://fanqienovel.com/page/7234495130168724541](https://fanqienovel.com/page/7234495130168724541)                       |
 | Author          | 三岁不爱吃糖                               |
 | Region          | 中国大陆                               |
 | Date            | 2025-01-20                                 |

@@ -50,7 +50,7 @@ Email: caiyong@shsmu.edu.cn
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为上海交通大学公共卫生学院的专家蔡泳的档案，详细介绍了其教育背景、研究方向及成就。蔡泳教授目前从事与流行病学、卫生统计学、社区健康和慢性病预防相关的研究，曾获得多项国内外科研资助，特别是在生殖健康和艾滋病防治方面的研究成果颇丰。同时，他指导了多项大学生研究项目，并在国际著名学术期刊上发表了大量论文，影响因子总和超过100分。文中罗列了其主持的科研项目及部分重要的学术论文的信息，这些研究都与性别多样性、社区健康及行为医学有关，反映了其在多元性别健康领域的贡献，是了解该领域发展动态的重要资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@ Email: caiyong@shsmu.edu.cn
 |-----------------|----------------------------------------|
 | Filename        | www_蔡泳-上海交通大学公共卫生学院.md                             |
 | Size            | 4376 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.shsmu.edu.cn/sph/info/1048/1219.htm](https://www.shsmu.edu.cn/sph/info/1048/1219.htm)                       |
+| Author          | 蔡泳                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 流行病学, 社区健康, 艾滋病预防, 生殖健康, 公共卫生, 跨性别研究, 健康教育, 统计学, 科研项目                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该视频是《初識啦阿博》的第二集，主持人曾博恩邀请跨性别者爱里进行对话，探讨跨性别、变装和异装癖之间的区别。节目的内容结合了轻松幽默的氛围与深刻的社会话题，旨在为观众提供对多元性别的理解与认识。视频的首播时间为2024年8月1日，观看次数已超过58万，显示出较强的影响力和关注度。此外，博恩还推广了他即将举行的巡演活动，并提供了相关的预购信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【_初識啦阿博】EP2｜跨性別者ft._愛里‪@AllieAllie‬_-_YouTube.md                             |
 | Size            | 1799 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=8WlSlkw2JCo](https://www.youtube.com/watch?v=8WlSlkw2JCo)                       |
+| Author          | 曾博恩                               |
+| Region          | 未知                               |
+| Date            | 2024-08-01                                 |
+| Tags            | 跨性别, 变装, 异装癖, 生命故事, 社会讨论, 性别多样性, 视频访谈, 文化表达, 幽默娱乐,  LGBTQ+                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

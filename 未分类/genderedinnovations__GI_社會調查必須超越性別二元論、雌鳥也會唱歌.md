@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | genderedinnovations__GI_社會調查必須超越性別二元論、雌鳥也會唱歌.md                             |
 | Size            | 2038 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://genderedinnovations.taiwan-gist.net/Community/283.html](http://genderedinnovations.taiwan-gist.net/Community/283.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2018-03-26                                 |

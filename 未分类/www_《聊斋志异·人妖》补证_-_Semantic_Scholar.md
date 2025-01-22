@@ -21,7 +21,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是对《聊斋志异》中《人妖》一篇的补充资料，主要由汉云撰写。文中引用了著名的注家吕湛恩对《人妖》篇的说明，指出其背后与明代的一桩刑事案件有着密切关系。文本分析了桑冲、李家湾和榆次县之间的关系，并记述了桑冲掌握的邪术以及他的易容技巧，进一步探讨了其如何变身为女性形象以欺骗他人。随着分析的深入，汉云借助陆粲的《庚已编》卷九中有关《人妖公案》的细节来加强其论证，指出蒲松龄作品中流露出的对人妖现象的深刻观察。从中可以看出历史背景下的性别角色、社会期望与个人经历之间的复杂互动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -32,12 +32,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《聊斋志异·人妖》补证_-_Semantic_Scholar.md                             |
 | Size            | 1310 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.semanticscholar.org/paper/%E3%80%8A%E8%81%8A%E6%96%8B%E5%BF%97%E5%BC%82%C2%B7%E4%BA%BA%E5%A6%96%E3%80%8B%E8%A1%A5%E8%AF%81-%E6%B1%89%E4%BA%91/a1935dc46c2fb0c2fc1df7d10dff9c91fb3205a4](https://www.semanticscholar.org/paper/%E3%80%8A%E8%81%8A%E6%96%8B%E5%BF%97%E5%BC%82%C2%B7%E4%BA%BA%E5%A6%96%E3%80%8B%E8%A1%A5%E8%AF%81-%E6%B1%89%E4%BA%91/a1935dc46c2fb0c2fc1df7d10dff9c91fb3205a4)                       |
+| Author          | 汉云                               |
+| Region          | 中国大陆                               |
+| Date            | 1993-01-01                                 |
+| Tags            | 多元性别, 性别角色, 文化研究, 历史文献, 《聊斋志异》, 明代案件, 文学分析, 社会性别, 人妖现象, 文本补证                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

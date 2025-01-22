@@ -62,8 +62,8 @@ IP属地: 湖南
 |-----------------|----------------------------------------|
 | Filename        | a_曝光泰国人妖“女”学生日常生活_-_爱卡汽车.md                             |
 | Size            | 2589 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://a.xcar.com.cn/bbs/thread-10558706-0-2.html](https://a.xcar.com.cn/bbs/thread-10558706-0-2.html)                       |
 | Author          | csgglove1                               |
 | Region          | 泰国                               |
 | Date            | 2009-09-17                                 |

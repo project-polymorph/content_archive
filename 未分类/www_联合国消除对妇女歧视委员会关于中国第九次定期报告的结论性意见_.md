@@ -606,7 +606,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为联合国消除对妇女歧视委员会关于中国第九次定期报告的结论性意见，主要涵盖了委员会对中国在性别平等及妇女权利方面所做工作的评估和建议。报告指出，自2014年审议以来，中国在立法及政策框架方面取得了一些积极进展，例如修订《妇女权益保障法》及颁布《民法典》，并赞扬政府在消除性别歧视及推动法律改革方面的努力。同时，报告也指出了各类存在的问题，包括对歧视妇女的法律定义不完善，以及基层妇女在司法程序中面临的性别偏见和经济障碍。委员会还提出了针对COVID-19疫情的应对措施及对妇女权利的保护建议，并对《妇女发展纲要》的实施情况进行了评估。整体上，该文件反映了有关提高妇女地位及性别平等的主要议题，是对中国特色性别权利发展的全面审视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -617,12 +617,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_联合国消除对妇女歧视委员会关于中国第九次定期报告的结论性意见_.md                             |
 | Size            | 57922 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.csosew.org/%E8%81%94%E5%90%88%E5%9B%BD%E6%B6%88%E9%99%A4%E5%AF%B9%E5%A6%87%E5%A5%B3%E6%AD%A7%E8%A7%86%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%AE%9A%E6%9C%9F/](https://www.csosew.org/%E8%81%94%E5%90%88%E5%9B%BD%E6%B6%88%E9%99%A4%E5%AF%B9%E5%A6%87%E5%A5%B3%E6%AD%A7%E8%A7%86%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%AE%9A%E6%9C%9F/)                       |
+| Author          | 联合国消除对妇女歧视委员会                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-01                                 |
+| Tags            | 性别平等, 妇女权益, 法律框架, 联合国, 妇女发展纲要, 法律政策, 社会环境, 歧视, COVID-19, 社会保障                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

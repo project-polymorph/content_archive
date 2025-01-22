@@ -87,7 +87,7 @@ Copyright © 2021  Airiti Inc.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《性别岛读：台湾性别文学的跨世纪革命暗语》是一本集体撰写的台湾性别文学史著作，汇聚了多位作家与学者的见解，探讨了性别作为权力的根源以及文学在社会革新中的重要作用。书中提到，从传统的性别观念到现代性别平权运动，文文学在这过程中起到了关键性的角色。这本书不仅反映了过去百年台湾性别运动的历史，还描绘了当代性别意识的变化，呈现出多个时代中的性别文学生态。内容涵盖了从女鬼到女人、从同志到酷儿等多样的性别现象，深刻揭示了性别与文化、历史的交织关系。书中的21位作家学者各自贡献独特的视角，共同描绘了一幅丰富多彩的性别文学地图，旨在为每一位探寻自我的人提供灵感与启示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -98,12 +98,12 @@ Copyright © 2021  Airiti Inc.
 |-----------------|----------------------------------------|
 | Filename        | www_性別島讀：臺灣性別文學的跨世紀革命暗語_-_華藝電子書.md                             |
 | Size            | 5351 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.airitibooks.com/Detail/Detail?PublicationID=P20220614077](https://www.airitibooks.com/Detail/Detail?PublicationID=P20220614077)                       |
+| Author          | 谢宜安、陈彦伃、巴代、洪郁如、吴佩珍 等                               |
+| Region          | 台湾                               |
+| Date            | 2021-01-01                                 |
+| Tags            | 性别文学, 台湾文化, 社会运动, 平权, 文学评论, 性别流动, 文学生态, 历史研究, 反抗意识, 女性主义                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

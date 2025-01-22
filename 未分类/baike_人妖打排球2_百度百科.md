@@ -160,8 +160,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_人妖打排球2_百度百科.md                             |
 | Size            | 9651 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E6%89%93%E6%8E%92%E7%90%832/3644777](https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E6%89%93%E6%8E%92%E7%90%832/3644777)                       |
 | Author          | 翁乙                               |
 | Region          | 泰国                               |
 | Date            | 2003-03-07                                 |

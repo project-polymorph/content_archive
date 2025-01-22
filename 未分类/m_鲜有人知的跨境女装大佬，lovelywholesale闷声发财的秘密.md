@@ -125,8 +125,8 @@ Bianca Anastasia，一位来自巴塞罗那的西班牙网红，曾经是一名�
 |-----------------|----------------------------------------|
 | Filename        | m_鲜有人知的跨境女装大佬，lovelywholesale闷声发财的秘密.md                             |
 | Size            | 9763 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.cifnews.com/article/152586](https://m.cifnews.com/article/152586)                       |
 | Author          | 网红营销Bella                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-12-07                                 |

@@ -35,8 +35,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_这部充斥着同性恋、恋童癖和异装癖的片子，拍的也太动人了吧_-_豆瓣.md                             |
 | Size            | 8098 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/8481441/](https://m.douban.com/movie/review/8481441/)                       |
 | Author          | 拒绝情绪的河流                               |
 | Region          | 西班牙                               |
 | Date            | 2004-03-19                                 |

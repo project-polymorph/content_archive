@@ -75,8 +75,8 @@ De Vries 等细心地发现，关于青春期抑制（12 岁）和跨性别激�
 |-----------------|----------------------------------------|
 | Filename        | pediatr_青少年变性人：一个有争议的话题-_丁香园_-_儿科.md                             |
 | Size            | 7323 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://pediatr.dxy.cn/article/93964](http://pediatr.dxy.cn/article/93964)                       |
 | Author          | pheonix925                               |
 | Region          | 未知                               |
 | Date            | 2014-12-11                                 |

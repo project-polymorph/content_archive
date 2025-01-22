@@ -52,7 +52,7 @@ Bernadette 告诉另外一位异装妖姬，“我不懂，郊区就像一堵丑
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是来自BBC的一篇关于2016年澳大利亚同性婚姻公投的新闻报道，详细记录了当时的政治博弈和公众舆论。澳大利亚政府计划举行全民公投，询问选民是否支持修改婚姻法以允许同性伴侣结婚，这一提议引起了广泛的争议。文中提到，执政党希望通过公投来让选民决定，而反对党则认为这将浪费资金并可能引发社会分裂。同时，文章还回顾了澳大利亚同性恋权利的发展历史，如1994年至1997年间各州的同性恋合法化进程。同志社区对公投的看法不一，有人期待变革，有人则担心可能的仇同宣传会对年轻同性恋者造成伤害。整篇报道不仅回顾了历史，也反映了目前社会对平权的不同声音与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@ Bernadette 告诉另外一位异装妖姬，“我不懂，郊区就像一堵丑
 |-----------------|----------------------------------------|
 | Filename        | www_记者来鸿：澳大利亚同性婚姻公投博弈_-_BBC.md                             |
 | Size            | 4780 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/simp/fooc/2016/10/161020_fooc_australia_sam-sex_marrige](https://www.bbc.com/zhongwen/simp/fooc/2016/10/161020_fooc_australia_sam-sex_marrige)                       |
+| Author          | BBC                               |
+| Region          | 澳大利亚                               |
+| Date            | 2016-10-20                                 |
+| Tags            | 同性婚姻, 公投, 澳大利亚, 平权运动, 政治博弈, 同志权利, 社会变革, 法律政策, 民意调查, 反对仇恨                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -27,8 +27,8 @@
 
 ## 参见 { data-search-exclude }
 
--   ![](//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nuvola_LGBT_flag.svg/28px-Nuvola_LGBT_flag.svg.png)[LGBT主题](https://zh.wikipedia.org/wiki/Portal:LGBT)
--   ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/18px-Disclogo1.svg.png)[歧视主题](https://zh.wikipedia.org/wiki/Portal:%E6%AD%A7%E8%A7%86)
+-   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nuvola_LGBT_flag.svg/28px-Nuvola_LGBT_flag.svg.png)[LGBT主题](https://zh.wikipedia.org/wiki/Portal:LGBT)
+-   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Disclogo1.svg/18px-Disclogo1.svg.png)[歧视主题](https://zh.wikipedia.org/wiki/Portal:%E6%AD%A7%E8%A7%86)
 
 -   [同性恋恐惧症](https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80%E6%81%90%E6%87%BC%E7%97%87)
 -   [LGBT迫害](https://zh.wikipedia.org/wiki/LGBT%E8%BF%AB%E5%AE%B3)
@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要介绍了国际不再恐惧同性恋、跨性别与双性恋日（IDAHOTB），一个每年在5月17日纪念的国际性别平权活动。该日的设立旨在唤醒公众关注对同性恋、跨性别者与双性恋者的恐惧和歧视所带来的暴力与不公。在文中提到，1990年，世界卫生组织将同性恋从国际疾病分类中删除，此后成为LGBT群体争取权益的重要节点。文中还回顾了这一纪念日的发展历程，包括加拿大发起的全国不再恐同日、以及创始人路易斯—乔治·汀的努力。文章详细描述了国际不再恐同日的历史背景、庆祝活动，以及推动性别平等的全球性影响，强调了每年的纪念日不仅是对过去斗争的纪念，也是在推动社会接受与包容进行中的重要标志。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,12 +81,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_国际不再恐惧同性恋、跨性别与双性恋日-_维基百科.md                             |
 | Size            | 10539 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E9%9A%9B%E4%B8%8D%E5%86%8D%E6%81%90%E6%87%BC%E5%90%8C%E6%80%A7%E6%88%80%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%A5%E8%88%87%E9%9B%99%E6%80%A7%E6%88%80%E6%97%A5](https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E9%9A%9B%E4%B8%8D%E5%86%8D%E6%81%90%E6%87%BC%E5%90%8C%E6%80%A7%E6%88%80%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%A5%E8%88%87%E9%9B%99%E6%80%A7%E6%88%80%E6%97%A5)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 国际不再恐惧同性恋、跨性别与双性恋日, LGBT权利, 反歧视运动, 性别平权, 同性恋, 双性恋, 跨性别者, 世界卫生组织, 性别认同, 社会公正                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

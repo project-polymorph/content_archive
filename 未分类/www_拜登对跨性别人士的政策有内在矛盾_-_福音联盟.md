@@ -94,7 +94,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了拜登总统在2021年4月发布的有关跨性别人士在美国军队中服役的政策，指出这一政策存在内在矛盾。拜登总统的行政命令撤销了特朗普总统的备忘录，允许跨性别人士公开服役，但文章分析了这一政策的潜在问题，包括对于军事训练、医疗费用的影响，以及对未来跨性别人士数量的预期变化。作者认为，拜登的政策在一定程度上忽视了2016年以来对跨性别议题的深入研究和社会态度变化，强调了非医学变性的跨性别身份也应被认可。依据兰德公司2016年的研究，文中探讨了将跨性别人士的定义局限于已经完成医学变性的人对法律和军队政策的潜在影响，得出这一政策可能会导致性别歧视，且在未来会对部队战备和训练产生负面影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -105,12 +105,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_拜登对跨性别人士的政策有内在矛盾_-_福音联盟.md                             |
 | Size            | 13804 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tgcchinese.org/article/the-radical-incoherence-of-bidens-transgender-policy](https://www.tgcchinese.org/article/the-radical-incoherence-of-bidens-transgender-policy)                       |
+| Author          | Joe Carter                               |
+| Region          | 美国                               |
+| Date            | 2021-04-20                                 |
+| Tags            | 跨性别政策, 拜登政府, 美国军队, 性别认同, 医疗费用, 军队训练, 法律政策, 社会环境, LGBT运动, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

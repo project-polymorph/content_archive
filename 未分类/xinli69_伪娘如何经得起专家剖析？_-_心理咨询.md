@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕伪娘这一概念展开，讲述了一个名为刘著的男孩如何在生活与舞台上以女子形象出现，受到大众关注。文章探讨了易性癖的心理特征及其与生理性别的关系，引用了河南省精神病医院心理科主任陈佐明教授的观点，指出易性癖不是精神疾病，而是一种身份认同障碍。教授通过刘著的案例阐述了易性癖者与同性恋者的区别，并提及了变性手术作为易性癖的治疗方法。文章还讨论了易性癖产生的可能原因，包括童年经历和生物因素，以及在传统社会中对性别认知的影响。总之，文中提供了有关伪娘现象、易性癖特征及相关心理学观点的深入讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | xinli69_伪娘如何经得起专家剖析？_-_心理咨询.md                             |
 | Size            | 6404 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://xinli69.com/article/81269](https://xinli69.com/article/81269)                       |
+| Author          | 张华仙                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-04-17                                 |
+| Tags            | 伪娘, 刘著, 易性癖, 性别认同, 心理咨询, 性心理障碍, 变性手术, 身份认同, 公共舆论, 社会认知                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

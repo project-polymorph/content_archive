@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_贾宝玉是全球文学史上最具性缩力的男主-_小组讨论_-_豆瓣.md                             |
 | Size            | 1594 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/310619630/](https://m.douban.com/group/topic/310619630/)                       |
 | Author          | 高调官宣姐                               |
 | Region          | 重庆                               |
 | Date            | 2024-08-29                                 |

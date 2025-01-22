@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了易性癖（又称变换性别癖或性别转换症）的症状、治疗方法及其心理因素。易性癖是一种性别身份识别障碍，患者常常对自己生理上的性别感到不满，表现出希望变换性别的强烈愿望。文中提到，易性癖可能与患者童年时期的生活经历有关，比如家庭对性别的期待与认知。此文详细阐述了易性癖的行为表现、心理状态及其治疗方法，包括支持性心理治疗、认知领悟疗法、疏导疗法和变性手术。尤其提到在诊断和治疗时，需与同性恋和异装癖加以区别。最后强调了心理治疗在治疗过程中的重要性，因为变性手术只能提供有限的心理平衡，且需谨慎对待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_易性癖的症状治疗方法临床表现预防用药【蜘蛛网疾病百科】.md                             |
 | Size            | 4229 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.iweeeb.com/w/%E6%98%93%E6%80%A7%E7%99%96](http://www.iweeeb.com/w/%E6%98%93%E6%80%A7%E7%99%96)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 易性癖, 变换性别癖, 性别身份识别障碍, 心理治疗, 认知疗法, 疏导疗法, 变性手术, 性别转换症, 性别心理, 医学百科                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -105,8 +105,8 @@ DIY，彩绘脸谱，道具服装，不开口说话你一定认不出来这是�
 |-----------------|----------------------------------------|
 | Filename        | baike_变装派对_百度百科.md                             |
 | Size            | 4643 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E5%8F%98%E8%A3%85%E6%B4%BE%E5%AF%B9/10221696](https://baike.baidu.com/item/%E5%8F%98%E8%A3%85%E6%B4%BE%E5%AF%B9/10221696)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

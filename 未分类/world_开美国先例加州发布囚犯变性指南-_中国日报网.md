@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国加州于2015年10月21日实施的新的囚犯变性指南，成为美国首个为变性治疗提供正规管道的州。这项决策回应了之前有两名囚犯在申请变性手术时被否决，并由跨性别法律中心进行控告。加州政府同意提供荷尔蒙治疗和手术的相关费用，并设立了一个由医疗与心理健康专业人士组成的委员会，以评估囚犯的变性申请。这项政策的实施，不仅为囚犯提供了更好的医疗保障，也为其他州提供了一个示范案例，确保狱中跨性别者在需要时能够获得必要的照护。文件详细介绍了相关法律背景、所涉及的囚犯案例及新规范的实施细节。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_开美国先例加州发布囚犯变性指南-_中国日报网.md                             |
 | Size            | 1921 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.chinadaily.com.cn/2015-10/22/content_22257364.htm](http://world.chinadaily.com.cn/2015-10/22/content_22257364.htm)                       |
+| Author          | 信莲                               |
+| Region          | 美国                               |
+| Date            | 2015-10-22                                 |
+| Tags            | 加州, 囚犯, 变性, 跨性别, 医疗资源, 法律政策, 社会环境, 人权, 医学指南, 心理评估                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

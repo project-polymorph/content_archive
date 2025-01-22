@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了名为“女装大佬”的博主在2018年11月20日进行的第二次直播的录像。作者在视频中首次尝试直播，分享了自己日常生活的一部分，尽管内容与之前的直播类似，但他仍决定将其保留下来，与观众进行互动。博主以"小郡主"为名，在视频中展示了他的萌妹子形象，吸引了许多观众的关注，他希望通过直播与粉丝建立更紧密的联系。文件中提供了多个视频播放选项以及与观众互动的呼吁，显示出其生活分享的日常化和社交化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬第一次直播的录像第二弹，不知道有人看没有？_-_Bilibili.md                             |
 | Size            | 1726 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av36414256/](https://www.bilibili.com/video/av36414256/)                       |
+| Author          | 结城丶玖兰槿                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-11-20                                 |
+| Tags            | 女装, 直播, 生活记录, 萌妹子, 社交平台, 大佬文化, 视频分享, 网络文化, 个人经历, 日常分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

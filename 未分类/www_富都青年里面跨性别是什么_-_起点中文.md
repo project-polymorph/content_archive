@@ -63,7 +63,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自《起点中文网》，探讨了电影《富都青年》中关于跨性别的主题。文中指出，影片中的某个角色展现了与传统性别认知不一致的性别认同，可能反映生理性别与心理性别的不一致，或行为表现超越常规性别界定。该文件还提到《富都青年》中相关的音乐和评分信息，提供了对电影的多面理解。同时，文中还包含了一些相关作品的推荐，呈现时代背景下的青年文化和性别议题对话。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_富都青年里面跨性别是什么_-_起点中文.md                             |
 | Size            | 2213 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.qidian.com/ask/qlwtubpqbtu](https://www.qidian.com/ask/qlwtubpqbtu)                       |
+| Author          | 起点中文网                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-09-26                                 |
+| Tags            | 跨性别, 性别认同, 电影, 富都青年, 青春文学, 青年文化, 性别议题, 社会认知, 影视作品, 音乐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

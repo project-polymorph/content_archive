@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | topick_【身份證變性】合資格改變性徵者即日起可申請改性別_-_TOPick.md                             |
 | Size            | 2390 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://topick.hket.com/article/3736614/%E3%80%90%E8%BA%AB%E4%BB%BD%E8%AD%89%E8%AE%8A%E6%80%A7%E3%80%91%E5%90%88%E8%B3%87%E6%A0%BC%E6%94%B9%E8%AE%8A%E6%80%A7%E5%BE%B5%E8%80%85%E3%80%80%E5%8D%B3%E6%97%A5%E8%B5%B7%E5%8F%AF%E7%94%B3%E8%AB%8B%E6%94%B9%E6%80%A7%E5%88%A5](https://topick.hket.com/article/3736614/%E3%80%90%E8%BA%AB%E4%BB%BD%E8%AD%89%E8%AE%8A%E6%80%A7%E3%80%91%E5%90%88%E8%B3%87%E6%A0%BC%E6%94%B9%E8%AE%8A%E6%80%A7%E5%BE%B5%E8%80%85%E3%80%80%E5%8D%B3%E6%97%A5%E8%B5%B7%E5%8F%AF%E7%94%B3%E8%AB%8B%E6%94%B9%E6%80%A7%E5%88%A5)                       |
 | Author          | 陳展棋                               |
 | Region          | 香港                               |
 | Date            | 2024-04-03                                 |

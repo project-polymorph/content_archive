@@ -34,8 +34,8 @@ Email: languagetips@chinadaily.com.cn
 |-----------------|----------------------------------------|
 | Filename        | language_热词_中国日报网英语点津_Language_Tips_1.md                             |
 | Size            | 719 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://language.chinadaily.com.cn/news_hotwords_263.html](https://language.chinadaily.com.cn/news_hotwords_263.html)                       |
 | Author          | 中国日报网                               |
 | Region          | 未知                               |
 | Date            | 2009-11-30                                 |

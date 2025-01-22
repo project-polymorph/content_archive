@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了来自美国纽约的46岁跨性别女性蒂芙尼·托马斯在女子自行车赛中获得冠军的故事。文章中提到，蒂芙尼获得冠军后感到自己宛如一位“超级英雄”，这不仅彰显了她在体育领域的成就，还传达了跨性别者在追求梦想过程中所经历的挑战和胜利。文章配有蒂芙尼的照片，显示了她在比赛中的瞬间，进一步增强了故事的真实性和感染力。此内容旨在展示跨性别女性在社会不同领域中的突出表现，尤其是在传统上被视为男性主导的体育领域。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,12 +38,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美国纽约46岁的“跨性别女性”蒂芙尼·托马斯获得女子自行车赛冠军.md                             |
 | Size            | 739 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1dM4y187hP/](https://www.bilibili.com/video/BV1dM4y187hP/)                       |
+| Author          | 哔哩哔哩                               |
+| Region          | 美国                               |
+| Date            | 2023-04-30                                 |
+| Tags            | 跨性别, 女子自行车赛, 体育成就, 蒂芙尼·托马斯, 相关报道, 社会性别, 平权运动, 性别认同, 女性体育, 超级英雄                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

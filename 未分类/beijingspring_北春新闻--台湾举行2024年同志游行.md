@@ -61,8 +61,8 @@ E-Mail: bjs201022@gmail.com webmaster@bjzc.org manager@bjzc.org
 |-----------------|----------------------------------------|
 | Filename        | beijingspring_北春新闻--台湾举行2024年同志游行.md                             |
 | Size            | 4466 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://beijingspring.com/bj2/2010/c8/mmdjhaovv/xw/lagx/20241026161610.htm](http://beijingspring.com/bj2/2010/c8/mmdjhaovv/xw/lagx/20241026161610.htm)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2024-10-26                                 |

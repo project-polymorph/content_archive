@@ -143,7 +143,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文通过调查分析了跨性别女性人群的心理特征及相关行为，旨在为更好地理解和帮助这一群体提供基础数据。研究采用滚雪球抽样方法于2016年1月至2017年10月间在山东省开展，共收集160份有效问卷。调查结果显示，参与者的年龄范围从19岁到44岁，绝大部分为汉族，且大多数未婚，文化程度普遍较高。调查还发现，74.4%的参与者性取向选择男性，并有相当比例的人群存在无保护性行为，显示出感染艾滋病的潜在风险。心理性别方面，51.2%为完全女性心理性别者，48.8%则为心理性别模糊者。研究建议针对跨性别女性人群开展宣传教育、心理干预和HIV检测等措施，以降低其感染风险并改善生活状态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -154,12 +154,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别女性人群心理特征及相关行为分析_-_中国公共卫生.md                             |
 | Size            | 13723 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.zgggws.com/article/doi/10.11847/zgggws1118684](https://www.zgggws.com/article/doi/10.11847/zgggws1118684)                       |
+| Author          | 吕翠霞, 张晓菲, 傅继华                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-11-30                                 |
+| Tags            | 跨性别女性, 心理特征, 行为分析, 艾滋病风险, 社会调查, 性取向, 性行为, 变性手术, HIV检测, 心理性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

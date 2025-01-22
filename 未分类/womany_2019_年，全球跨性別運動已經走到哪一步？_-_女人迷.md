@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了2019年全球跨性别运动的发展和现状，特别关注台湾及其周边国家，如尼泊尔、日本和香港。文章详细描述了跨性别者在法律和社会环境中的处境，特别是在同性婚姻合法化之后，跨性别者权利仍需进一步保障。作者提到，各国在性别登记方面的转变，特别是尼泊尔开放的第三性别选项，以及台湾跨性别权利的发展历史，包括2008年取消器官重建手术的规定。作品还描述了香港的法律实践和社会态度，以及跨性别者面临的歧视和挑战。通过国际论坛，各国的跨性别倡导者分享了各自的经验与困境，彰显出跨性别运动的全球性和多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -94,12 +94,12 @@
 |-----------------|----------------------------------------|
 | Filename        | womany_2019_年，全球跨性別運動已經走到哪一步？_-_女人迷.md                             |
 | Size            | 9545 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://womany.net/read/article/22150](https://womany.net/read/article/22150)                       |
+| Author          | 伴侶盟 TAPCPR                               |
+| Region          | 台湾                               |
+| Date            | 2019-12-02                                 |
+| Tags            | 跨性别运动, LGBT权利, 性别认同, 社会歧视, 法律政策, 性别登记, 台湾 LGBT, 国际论坛, 跨性别者权利, 性别友善空间                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

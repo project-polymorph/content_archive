@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+左崴崴是一位跨性别者，出生于1986年，来自中国湖北省武汉市。她是一名男扮女装的车模与舞者，经过隆胸手术以实现她对女性形象的追求。左崴崴的生活经历颇具挑战性，早年失去母亲，生活由祖母照顾，之后经历了多次的家庭变迁。在17岁时，她失去了祖母，开始独立谋生。在职业生涯中，左崴崴选择了男扮女装的表演，走遍多个城市如福建、上海和洛阳，为了更贴合女性形象，她在表演时选择了较小的鞋码，导致她健康出现问题。她的隆胸手术在2006年成功，但在2010年，她因医院未经同意公开其身份而提起诉讼。左崴崴的故事反映了跨性别者在追求认同与权力保护方面所面临的困境，她的经历引发了关于跨性别者权利与社会认同的深刻讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_左崴崴-_維基百科，自由的百科全書.md                             |
 | Size            | 5412 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/wiki/%E5%B7%A6%E5%B4%B4%E5%B4%B4](https://zh.wikipedia.org/wiki/%E5%B7%A6%E5%B4%B4%E5%B4%B4)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 生命故事, 医疗美容, 权利维权, 法律诉讼, 社会认同, 男扮女装, 湖北, 车模, 舞者                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

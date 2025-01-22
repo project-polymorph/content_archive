@@ -126,7 +126,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于多元性别主题的变装小说推荐列表。内容包含了多部变装相关的小说及其简要介绍，例如小说的标题、作者、观看人数和标签。推荐的小说有《盗笔：变装找天真，竟被小哥强吻》、《萝莉变装》、《二爷的变身系统》、《变装大佬闯男关》等。这些作品多以变装为主题，展现了流行文化与多元性别的交融，反映了当代年轻人的生活态度和价值观，包含了多样的角色关系与情感描写。文中也提及了各作品的链接和封面图，使人能够直观地获取作品的信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -137,12 +137,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_好看的变装小说.md                             |
 | Size            | 8103 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ihuaben.com/juese/%E5%8F%98%E8%A3%85/](https://www.ihuaben.com/juese/%E5%8F%98%E8%A3%85/)                       |
+| Author          | 梦见起灵等                               |
+| Region          | 中国大陆                               |
+| Date            | 2025-01-22                                 |
+| Tags            | 变装小说, 多元性别, 生命故事, 情感体验, 文学创作, 变装文化, 网友推荐, 网络文学, 现代青春, 小说推荐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

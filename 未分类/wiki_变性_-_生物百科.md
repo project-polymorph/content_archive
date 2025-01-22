@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要讨论了变性（易性病）的生物学基础和心理特征，探讨了变性患者在生物学性别与心理性别之间的矛盾，对变性手术的历史和现状进行了详细说明。文件指出，变性现象受到多种因素影响，包括遗传、内分泌、外生殖器特征、环境及心理因素。作者介绍了易性病的临床表现，强调了诊断的复杂性和需要谨慎的态度。文件还提供了变性手术在中国的发展历史，提到了我国的两例首次公开报道的变性手术案例，以及相关的社会心理背景。最后，文件呼吁对易性病的更多研究与理解，指出患者所经历的心理痛苦和社会歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,12 +80,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wiki_变性_-_生物百科.md                             |
 | Size            | 17619 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wiki.bioguider.com/doc-view-5326.html](https://wiki.bioguider.com/doc-view-5326.html)                       |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 易性病, 性别认同, 心理健康, 医疗资源, 变性手术, 社会歧视, 性别研究, 临床表现, 生物学基础                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

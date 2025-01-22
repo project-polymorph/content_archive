@@ -177,8 +177,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_阉割、变性……被困在男人躯壳中的“药娘”_-_澎湃新闻.md                             |
 | Size            | 7760 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.thepaper.cn/newsDetail_forward_14338990](https://www.thepaper.cn/newsDetail_forward_14338990)                       |
 | Author          | 澎湃新闻                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

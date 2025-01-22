@@ -161,8 +161,8 @@ LGBTG、变性手术，不但在成为一种政治风潮，还在成为一种“
 |-----------------|----------------------------------------|
 | Filename        | m_丁香园又在鼓吹将孩子培养成同性恋！_-_红色文化网.md                             |
 | Size            | 11847 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.hswh.org.cn/wzzx/llyd/zz/2023-05-25/81946.html](https://m.hswh.org.cn/wzzx/llyd/zz/2023-05-25/81946.html)                       |
 | Author          | 申鹏                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-05-25                                 |

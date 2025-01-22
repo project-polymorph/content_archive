@@ -46,7 +46,7 @@ WSJ原文在此：[閱讀原文](https://reurl.cc/ky4nkq)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国前总统川普可能成立一委员会，意在汰除不符合其领导标准的现役高阶指挥官。该委员会主要由退役将领组成，将评估现役三星及四星将领的军事实力和领导能力。川普的这一决定是基于其对军队多元化和支持跨性别人士从军的反对立场，报导中提到他可能会进行一系列清洗措施，包括取消关于多元文化的训练。文中分析了此举可能对美军的军事实力造成的影响，并引述了相关专家对该提议的看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ WSJ原文在此：[閱讀原文](https://reurl.cc/ky4nkq)
 |-----------------|----------------------------------------|
 | Filename        | www__新聞__WSJ：川普可能成立委員會提將領汰除名單-_看板Military.md                             |
 | Size            | 4270 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ptt.cc/bbs/Military/M.1731481306.A.95E.html](https://www.ptt.cc/bbs/Military/M.1731481306.A.95E.html)                       |
+| Author          | peterlee97 (瑋美絕倫迷)                               |
+| Region          | 美国                               |
+| Date            | 2024-11-13                                 |
+| Tags            | 军队政策, 多元性别, 川普, 领导能力, 高阶将领, 军队多元化, 跨性别人士, 社会环境, 法律政策, 军事报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

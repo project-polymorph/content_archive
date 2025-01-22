@@ -51,8 +51,8 @@ Copyright © 2009-2025 AME Publishing Company. All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | emed_变性患者的泌尿系统疾病管理-AME专题.md                             |
 | Size            | 7163 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://emed.amegroups.cn/topic/501](http://emed.amegroups.cn/topic/501)                       |
 | Author          | AME Publishing Company                               |
 | Region          | 未知                               |
 | Date            | 2020-04-01                                 |

@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人在非洲遭遇的性别歧视问题。文章以一位变性人的亲身体验为基础，讲述了她在非洲因性别身份被拒绝认可的经历，导致她们不得不离开家乡，寻求外国庇护。文中提到她们心中始终惦记着自己的家乡，这突出了一种文化和身份认同的挣扎。这个故事为读者提供了一个深入的视角，让人们了解到在某些社会中，性别身份认同所面临的残酷现实。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性人与歧视：“在非洲，他们不承认我的性别身份”_-_BBC_英伦网.md                             |
 | Size            | 1098 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/ukchina/simp/54694944](https://www.bbc.com/ukchina/simp/54694944)                       |
+| Author          | BBC 英伦网                               |
+| Region          | 非洲                               |
+| Date            | 2020-10-26                                 |
+| Tags            | 变性人, 性别歧视, 身份认同, 庇护, 人权, 社会环境, 移民经历, 文化冲突, 生存现状, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细记录了一起引起广泛关注的强奸案件，该案件的特别之处在于受害者小刘的双性人身份。在去年3月，小刘被两名男子轮奸，事后警方的调查揭示了小刘的生物学性别与社会性别之间的复杂关系。经过法院审理，最终采纳了按社会性别认定为女性的观点，判定两名被告犯强奸罪。案件的法律争论主要围绕生物性别与社会性别的定义，法院认为小刘在社会生活中表现为女性，其性自主权应受到法律保护。此外，文章还提供了对该案的法律分析，探讨了法律如何能够更好地保护性少数群体的权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【司法案例】首例强奸“双性人”案宣判_-_隆安律师事务所-.md                             |
 | Size            | 5519 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.longanlaw.com/legals/6359.html/](https://www.longanlaw.com/legals/6359.html/)                       |
+| Author          | 隆安律师事务所                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-08-06                                 |
+| Tags            | 双性人, 强奸案, 性别法律, 社会性别, 生物性别, 法律案例, 身份认同, 性自主权, 法院判决, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

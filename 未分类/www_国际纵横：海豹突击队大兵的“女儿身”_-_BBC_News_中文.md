@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了克里斯·贝克（Chris Beck）的故事，他是一名在美国海军海豹突击队服役二十年的退役军人。在这篇报道中，贝克透露自己在内心深处一直认为自己是女性，尽管他的身体是男性。2013年，他在退役后选择了公开自己的性别认同，改名为克里斯汀（Kristin）。贝克在动态中表示：“我从此摘下所有面具，让世人知道我的真实身份是女人。”他描述了自己在军队中的经历以及对性别认同的挣扎，包括他在保守家庭环境中长大的隐秘生活，以及经历过的两次婚姻。此外，贝克呼吁对军队中变性人的政策进行修改，以允许他们在完成变性后继续穿军装。文章通过贝克的故事，展现了跨性别者在军事环境中的挑战与勇气，并探讨了对变性人理解与支持的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_国际纵横：海豹突击队大兵的“女儿身”_-_BBC_News_中文.md                             |
 | Size            | 4373 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/simp/world_outlook/2013/08/130803_world_outlook_seal_transgender](https://www.bbc.com/zhongwen/simp/world_outlook/2013/08/130803_world_outlook_seal_transgender)                       |
+| Author          | 斯图尔特•休斯（Stuart Hughes）                               |
+| Region          | 美国                               |
+| Date            | 2013-08-02                                 |
+| Tags            | 跨性别, 海豹突击队, 变性经历, 性别认同, 军队政策, 心理健康, 个人故事, 社会接纳, 法律与权利, 女性身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

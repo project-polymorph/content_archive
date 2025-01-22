@@ -70,7 +70,7 @@ Copyright © 2008-2019 泰国天使之家变性人网站 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了女性化激素治疗的目标与过程，特别是对于变性女性所采取的激素治疗方案。女性化激素治疗旨在促进女性第二性征的发育，抑制男性第二性征的表达。内容涵盖了激素的种类，主要有雌激素、抗雄激素和孕激素等，分别讲解其作用、用法及可能的副作用。雌激素是治疗的核心，通常使用的包括17β-雌二醇，而抗雄激素如安体舒通和5-α还原酶抑制剂则有助于抑制男性化特征的表现。文章还提到，孕激素在激素治疗中的作用和可能的效果，指出关于孕激素的研究仍存在较大空白。此外，文本提供了详细的治疗方法、剂量建议及风险评估，丰富了对性别确认治疗的全貌了解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,12 +81,12 @@ Copyright © 2008-2019 泰国天使之家变性人网站 版权所有
 |-----------------|----------------------------------------|
 | Filename        | www_女性化激素治疗_泰国天使之家.md                             |
 | Size            | 8896 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.transgender-thailand.org/shiguanzhishi/391.html](http://www.transgender-thailand.org/shiguanzhishi/391.html)                       |
+| Author          | 泰国天使之家                               |
+| Region          | 泰国                               |
+| Date            | 2020-05-20                                 |
+| Tags            | 女性化激素治疗, 变性女性, 激素治疗, 雌激素, 抗雄激素, 孕激素, 性别确认, 医疗资源, 健康经验分享, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

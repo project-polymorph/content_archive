@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于一位来自北京的男子与泰国“人妖皇后”结婚8年后反思和感受的报道。文章深入探讨了这段婚姻的细节以及男子在这段时间内的心理变化。通过这篇报道，读者可以了解到涉及跨性别与性别多样性的个人故事，以及对特殊关系的社会认知和接受度的讨论。内容既包括个人的反思，也涉及社会对类似关系的看法，呈现了多元性别背景下的复杂情感和社会挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_8年前，那个娶了泰国“人妖皇后”的北京男子，现在后悔了吗？_-_网易.md                             |
 | Size            | 4135 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.163.com/v/video/VJDPSTOH9.html](https://www.163.com/v/video/VJDPSTOH9.html)                       |
+| Author          | 网易                               |
+| Region          | 四川                               |
+| Date            | 2024-10-17                                 |
+| Tags            | 多元性别, 人妖皇后, 跨性别, 社会反思, 个人故事, 婚姻, 社会接受度, 性别多样性, 心理变化, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

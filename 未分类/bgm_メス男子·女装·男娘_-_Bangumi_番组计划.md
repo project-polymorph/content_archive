@@ -281,8 +281,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bgm_メス男子·女装·男娘_-_Bangumi_番组计划.md                             |
 | Size            | 7222 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bgm.tv/index/50037](https://bgm.tv/index/50037)                       |
 | Author          | 芋魔人X                               |
 | Region          | 未知                               |
 | Date            | 2023-11-23                                 |

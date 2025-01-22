@@ -98,8 +98,8 @@
 |-----------------|----------------------------------------|
 | Filename        | chinese_获得性和陪伴的批发跨性别泛性旗_-_Alibaba.md                             |
 | Size            | 5919 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinese.alibaba.com/wholesale/transgender-pansexual-flag.html](https://chinese.alibaba.com/wholesale/transgender-pansexual-flag.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

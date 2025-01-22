@@ -80,8 +80,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_国际变性人选美大赛_百度百科.md                             |
 | Size            | 8217 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E5%8F%98%E6%80%A7%E4%BA%BA%E9%80%89%E7%BE%8E%E5%A4%A7%E8%B5%9B/5374558](https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E5%8F%98%E6%80%A7%E4%BA%BA%E9%80%89%E7%BE%8E%E5%A4%A7%E8%B5%9B/5374558)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2004-01-01                                 |

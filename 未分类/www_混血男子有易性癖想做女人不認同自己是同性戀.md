@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫露露的中俄混血男子的故事，他从小就有着女性的认同感，渴望转变为女性以实现自我价值。露露描述了他的生活经历，包括与性别认同相关的困惑，以及他在成长过程中对于性别的自我审视。尽管露露与一名女性的经历使他感受到自我认同，但他始终不认同自己是个同性恋者。他的故事充满了对变性手术的渴望和对真爱的追求，透露出社会对于性别认同和性取向的复杂问题。露露的梦想不仅是实现身体上的转变，还希望能成为贤妻良母，有一个完整的家庭和真实的爱情。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_混血男子有易性癖想做女人不認同自己是同性戀.md                             |
 | Size            | 6363 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.2girl.net/article-513-1.html](https://www.2girl.net/article-513-1.html)                       |
+| Author          | 江小江                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-02-23                                 |
+| Tags            | 多元性别, 易性癖, 性别认同, 变性手术, 个人故事, 生存现状, 性取向, 情感故事, 社会环境, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

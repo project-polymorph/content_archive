@@ -218,7 +218,7 @@ Yahoo奇摩新聞深度報導獨家帶你關心更多在角落的聲音，首波
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是Yahoo奇摩新聞对跨性别者生活状态的深入报道，展示了跨性别者在台湾面临的种种挑战与困境。文中提到的个案，比如男跨女的宇萱，因为无法提供适合的医疗证明，因此在申请性别变更时遭到拒绝，导致其在日常生活中面临诸多不便，例如在银行开户等。文章还探讨了跨性别者在社会中的生存困境，如何在法律政策的空白地带寻求生存空间，此外，涉及关于跨性别手术的社会讨论与法律辩论，以及相关的医疗指引和性别认同的重要性。该文还包含了多个小节，强调了跨性别者的美丽与哀愁，进一步扩大了对跨性别问题的理解与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -229,12 +229,12 @@ Yahoo奇摩新聞深度報導獨家帶你關心更多在角落的聲音，首波
 |-----------------|----------------------------------------|
 | Filename        | tw_「跨」不過的難關：跨性別者的美麗與哀愁_-_Yahoo奇摩新聞.md                             |
 | Size            | 12636 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://tw.news.yahoo.com/topic/transgender/](https://tw.news.yahoo.com/topic/transgender/)                       |
+| Author          | Yahoo奇摩新聞                               |
+| Region          | 台湾                               |
+| Date            | 2022-01-20                                 |
+| Tags            | 跨性别, 性别认同, 法律政策, 医疗资源, 社会环境, 个人故事, LGBT, 新闻报道, 生存状态, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_补佳乐价格多少钱，一般药店有售吗.md                             |
 | Size            | 2477 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.360lj.com/drugguide/fuke/29142.html](https://m.360lj.com/drugguide/fuke/29142.html)                       |
 | Author          | 小吴                               |
 | Region          | 未知                               |
 | Date            | 2023-02-07                                 |

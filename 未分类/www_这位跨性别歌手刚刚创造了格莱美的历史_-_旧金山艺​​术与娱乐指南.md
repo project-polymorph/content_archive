@@ -64,7 +64,7 @@ _美联社对这篇报道也有贡献。_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了金·佩特拉斯和山姆·史密斯在2023年格莱美奖颁奖典礼上获得最佳流行二人组/组合合作奖的历史性时刻。这是金·佩特拉斯成为第一位获得这一奖项的跨性别女性。新闻详细描述了颁奖典礼的场景和金·佩特拉斯在领奖时的感人演讲，她感谢了支持她的跨性别先驱和自己的母亲。在演讲中，佩特拉斯表达了对已故制片人苏菲的敬意，表明她对跨性别社区的感激之情。此外，文章还提到其他获奖者，如碧昂丝，并探讨了LGBTQ+社区在音乐界的重要性及其历史。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@ _美联社对这篇报道也有贡献。_
 |-----------------|----------------------------------------|
 | Filename        | www_这位跨性别歌手刚刚创造了格莱美的历史_-_旧金山艺​​术与娱乐指南.md                             |
 | Size            | 5622 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.t1mobile.com/music/this-trans-singer-just-made-grammy-history](https://www.t1mobile.com/music/this-trans-singer-just-made-grammy-history)                       |
+| Author          | 艾丁·瓦齐里                               |
+| Region          | 美国                               |
+| Date            | 2023-02-05                                 |
+| Tags            | 跨性别, 格莱美奖, 音乐史, LGBTQ+权利, 金·佩特拉斯, 山姆·史密斯, 颁奖典礼, 影响力, 社会接受度, 音乐成就                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

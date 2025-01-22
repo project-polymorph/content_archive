@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hk_易建聯被爆嫖變性人疑似本尊社交網突發文：Fake_News！.md                             |
 | Size            | 2560 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hk.on.cc/hk/bkn/cnt/entertainment/20241022/bkn-20241022200138954-1022_00862_001.html](https://hk.on.cc/hk/bkn/cnt/entertainment/20241022/bkn-20241022200138954-1022_00862_001.html)                       |
 | Author          | 未知                               |
 | Region          | 香港                               |
 | Date            | 2024-10-22                                 |

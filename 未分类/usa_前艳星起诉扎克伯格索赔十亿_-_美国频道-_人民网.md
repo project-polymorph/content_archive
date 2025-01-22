@@ -43,7 +43,7 @@ Paree现年41岁。1993年，她前往洛杉矶发展自己的色情电影事业
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了前艳星Paree La’Tiejira（巴黎女郎）于2016年在德克萨斯州对马克·扎克伯格及其创办的脸书（Facebook）提起的诉讼。在起诉中，Paree指控脸书上有人散播关于她的虚假信息，称她是一个男人，并声称这些虚假信息对她的色情演艺事业造成了严重的负面影响。她提到自己在脸书上遭遇了言语侮辱和死亡威胁，而脸书并未采取有效的保护措施。诉讼索赔金额高达十亿美元，Paree早在2009年对另一家成人娱乐公司也曾提出过类似的诉讼并胜诉，确认了她的生理性别为女性。此事件引发了社会对性别认同和网络暴力的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@ Paree现年41岁。1993年，她前往洛杉矶发展自己的色情电影事业
 |-----------------|----------------------------------------|
 | Filename        | usa_前艳星起诉扎克伯格索赔十亿_-_美国频道-_人民网.md                             |
 | Size            | 3260 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://usa.people.com.cn/n1/2016/0825/c241376-28666098.html](http://usa.people.com.cn/n1/2016/0825/c241376-28666098.html)                       |
+| Author          | 人民网-美国频道                               |
+| Region          | 美国                               |
+| Date            | 2016-08-25                                 |
+| Tags            | 性别认同, 网络暴力, 性别歧视, 诉讼, 虚假信息, 前艳星, 社交媒体, 精神伤害, 色情演艺事业, 性别权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -135,7 +135,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是由作者奶绿撰写的一篇与多元性别相关的分享文章，内容主要围绕作者的个人经历和对多元性别文化的热爱。作者在社交媒体上分享了自己的生活，特别是参与男娘比赛的趣事，表现出对这一身份的自豪和对社交活动的投入。文本中还包含了一些图片和评论，展现出作者与网友之间的互动，反映了多元性别社群的温暖与活力。文章末尾提到了一些法律和社会环境因素，但更多的是对个人经历的展现。整体而言，这是一篇充满生活气息和个人感悟的帖子，适合想了解多元性别话题和个人经历的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -146,12 +146,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【男+伪娘男娘女装】警告⚠️_请小心的点进来哦！第……九篇？.md                             |
 | Size            | 4371 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.snow-plus.net/simple/index.php?t2369023.html](https://www.snow-plus.net/simple/index.php?t2369023.html)                       |
+| Author          | 奶绿                               |
+| Region          | 未知                               |
+| Date            | 2024-11-14                                 |
+| Tags            | 多元性别, 男娘, 女装, 个人经历, 社交媒体, 生活分享, 社区互动, 法律政策, 身体转变, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

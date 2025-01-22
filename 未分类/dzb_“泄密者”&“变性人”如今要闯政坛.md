@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | dzb_“泄密者”&“变性人”如今要闯政坛.md                             |
 | Size            | 5603 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dzb.whb.cn/html/2018-01/18/content_629591.html](https://dzb.whb.cn/html/2018-01/18/content_629591.html)                       |
 | Author          | 陆益峰                               |
 | Region          | 美国                               |
 | Date            | 2018-01-18                                 |

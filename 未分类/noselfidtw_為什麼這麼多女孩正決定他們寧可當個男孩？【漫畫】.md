@@ -70,8 +70,8 @@ Youtube 上找得到的紀錄片：
 |-----------------|----------------------------------------|
 | Filename        | noselfidtw_為什麼這麼多女孩正決定他們寧可當個男孩？【漫畫】.md                             |
 | Size            | 2148 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://noselfidtw.cc/post/reality-girl/](https://noselfidtw.cc/post/reality-girl/)                       |
 | Author          | Reality Girl                               |
 | Region          | 未知                               |
 | Date            | 2022-09-12                                 |

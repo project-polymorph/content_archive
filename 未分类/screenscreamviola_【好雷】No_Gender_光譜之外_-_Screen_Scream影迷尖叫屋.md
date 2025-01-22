@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | screenscreamviola_【好雷】No_Gender_光譜之外_-_Screen_Scream影迷尖叫屋.md                             |
 | Size            | 2386 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://screenscreamviola.blogspot.com/2019/08/no-gender.html](http://screenscreamviola.blogspot.com/2019/08/no-gender.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2019-08-30                                 |

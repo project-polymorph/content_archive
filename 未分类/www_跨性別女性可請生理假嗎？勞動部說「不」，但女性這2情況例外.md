@@ -73,7 +73,7 @@ by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了关于跨性别女性在职场中请生理假的问题，强调在性别平权的背景下，尽管女性享有一定的请假权利，但跨性别女性是否能够享有此权利来请生理假则存在着法律和社会的争议。文章中指出，台灣的性別工作平等法允许女性因生理期而请假，但根据劳动部的解释，已登记为女性的跨性别者并不具备生理假资格，因为她们不再经历月经。此外，文件还探讨了停经妇女和因医疗原因切除子宫的女性的请假资格，以及相关的法律解释和具体例子，呈现出当前法律环境中对跨性别女性的生理假政策的复杂性与局限性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@ by [Ching](https://www.518.com.tw/articles/author/2) 2022-02-15
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別女性可請生理假嗎？勞動部說「不」，但女性這2情況例外.md                             |
 | Size            | 5628 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.518.com.tw/article/1539](https://www.518.com.tw/article/1539)                       |
+| Author          | Ching                               |
+| Region          | 台湾                               |
+| Date            | 2022-02-15                                 |
+| Tags            | 生理假规定, 跨性别, 男跨女, 生理假, 停经, 切除子宫, 切除卵巢, 跨性别者, 性别平权, 职场权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

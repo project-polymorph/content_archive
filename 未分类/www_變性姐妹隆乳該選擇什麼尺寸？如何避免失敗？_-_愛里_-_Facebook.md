@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由变性姐妹爱里所撰写，主要探讨了变性女性在选择隆胸手术时应考虑的尺寸选项，并提供了避免手术失败的实用建议。文章分享了对于荷尔蒙治疗（HRT）的必要性，以及术后的护理与按摩技巧，帮助读者更好地应对隆胸手术后的恢复过程。文中提到，如果没有进行荷尔蒙治疗，有可能会被医院拒绝接纳手术，这一提醒对变性姐妹来说尤为重要。针对如何选择适合自己的隆胸尺寸，文中也给出了个人见解，显示了个人经验分享的价值。文章吸引了大量交互评论与点赞，表明社区对于此类话题的关注和参与度.
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變性姐妹隆乳該選擇什麼尺寸？如何避免失敗？_-_愛里_-_Facebook.md                             |
 | Size            | 2464 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/Allie1118/videos/%E8%AE%8A%E6%80%A7%E5%A7%90%E5%A6%B9%E9%9A%86%E4%B9%B3%E8%A9%B2%E9%81%B8%E6%93%87%E4%BB%80%E9%BA%BC%E5%B0%BA%E5%AF%B8%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%B1%E6%95%97/387905535174159/?locale=zh_CN](https://www.facebook.com/Allie1118/videos/%E8%AE%8A%E6%80%A7%E5%A7%90%E5%A6%B9%E9%9A%86%E4%B9%B3%E8%A9%B2%E9%81%B8%E6%93%87%E4%BB%80%E9%BA%BC%E5%B0%BA%E5%AF%B8%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%B1%E6%95%97/387905535174159/?locale=zh_CN)                       |
+| Author          | 愛里                               |
+| Region          | 未知                               |
+| Date            | 2019-07-04                                 |
+| Tags            | 变性, 姐妹, 隆乳, 跨性别, 荷尔蒙, 手术, 术后护理, 经验分享, 社群互动, 生活故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

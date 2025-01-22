@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | qnck_“女装子”一族风靡日本--舆情频道_-_青年参考.md                             |
 | Size            | 5356 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://qnck.cyol.com/content/2009-08/18/content_2811513.htm](http://qnck.cyol.com/content/2009-08/18/content_2811513.htm)                       |
 | Author          | 吴逸若                               |
 | Region          | 日本                               |
 | Date            | 2009-08-18                                 |

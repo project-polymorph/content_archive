@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一段关于泰国芭堤雅三叶草酒店的旅游攻略，具体内容涉及如何从当地换钱和通过双条车前往中天海滩，此外还包括纳歌海鲜市场的相关信息和教学。视频时长为19分钟46秒，由YouTube提供，包含用户评论和参考资料。虽然该文件主要聚焦于旅游主题，但由于旅游的多元性别友好性，属于多元性别相关内容的一部分。该资料是为寻求关于芭堤雅的旅游建议或经历分享的人们所准备的。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_柄嫂換錢，坐雙條去中天海灘，納歌海鮮市場全教學。_-_YouTube.md                             |
 | Size            | 774 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=nywpCpkckAY](https://www.youtube.com/watch?v=nywpCpkckAY)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 旅游, 泰国, 芭堤雅, 酒店, 海鲜市场, 视频教程, 用户评论, 攻略, 经验分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

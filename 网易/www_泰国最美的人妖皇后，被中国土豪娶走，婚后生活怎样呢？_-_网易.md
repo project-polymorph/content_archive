@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一位泰国的美丽人妖皇后与一位中国土豪的婚后生活，讨论了他们的爱情故事及婚后的生活细节，体现了跨文化与跨性别的特殊婚姻关系。文章插入了有关该人妖皇后的生活照片，并通过评论的方式让读者参与讨论，反映了公众对该话题的关注与多元的看法。此话题涉及对多元性别者在现代社会中的存在与接受度的探讨，以及在文化差异下的亲密关系的构建，是社会对多元性别认知与接纳的重要表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国最美的人妖皇后，被中国土豪娶走，婚后生活怎样呢？_-_网易.md                             |
 | Size            | 4228 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.163.com/v/video/VC0V55SCN.html](https://www.163.com/v/video/VC0V55SCN.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-01-02                                 |
+| Tags            | 泰国人妖, 婚姻生活, 跨性别, 社会文化, 人妖皇后, 爱情故事, 多元文化, 性别认同, 公众讨论, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

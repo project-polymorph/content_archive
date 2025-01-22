@@ -72,8 +72,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_《女孩》影评：一部关于变性舞者的聪明、勇敢的戏剧_-_豆瓣.md                             |
 | Size            | 3696 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15368330/](https://m.douban.com/movie/review/15368330/)                       |
 | Author          | 几何乡                               |
 | Region          | 比利时                               |
 | Date            | 2018-05-12                                 |

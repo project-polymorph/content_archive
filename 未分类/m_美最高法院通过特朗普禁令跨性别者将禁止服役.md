@@ -31,8 +31,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_美最高法院通过特朗普禁令跨性别者将禁止服役.md                             |
 | Size            | 1171 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.cnr.cn/news/20190123/t20190123_524490818.html](http://m.cnr.cn/news/20190123/t20190123_524490818.html)                       |
 | Author          | 海外网                               |
 | Region          | 美国                               |
 | Date            | 2019-01-22                                 |

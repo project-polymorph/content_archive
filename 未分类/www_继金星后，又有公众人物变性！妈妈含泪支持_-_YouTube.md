@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本视频来自YouTube，讲述了刘霆与刘婷的故事，刘婷是继金星后公开跨性别身份的另一位公众人物。2005年，刘霆因‘背母上学’而感动中国，成为道德模范。然而，刘霆在2015年决定进行性别重置手术，成为刘婷。视频内容探讨了她从刘霆到刘婷的过渡经历，以及她与家人，特别是母亲的关系变迁。刘婷在手术后的生活状态，以及她的父亲是否最终接受了她的身份都是视频关注的重点。视频也包括对刘婷外貌变化的讨论，并引发观众的期望和担忧。视频由‘Your Studio’发布，评论与点赞显示出观众对该话题的热议与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_继金星后，又有公众人物变性！妈妈含泪支持_-_YouTube.md                             |
 | Size            | 1541 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=wCVT2DSEnvw](https://www.youtube.com/watch?v=wCVT2DSEnvw)                       |
+| Author          | Your Studio有耳工作室                               |
+| Region          | 未知                               |
+| Date            | 2021-11-06                                 |
+| Tags            | 变性, 跨性别, 公众人物, 性别重置, 生命故事, 过渡经历, 家人接受, 社会关注, 性别认同, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《穿上女装去上学》是由作者熠熠熠创作的一部校园类耽美小说，讲述了主角叶世秋穿越到一个耽美文世界后的奇妙冒险故事。叶世秋在校园中巧妙地选择穿上女装，凭借其出众的外表和聪明才智，成功引起了众多男生的注意。故事的主线围绕着他与各路美男的搞笑日常以及面临的种种挑战展开，呈现了一幅多姿多彩的青春校园生活。该作品为连载状态，最后更新于2024年11月17日，属于爱情、校园和穿书类型的融合作品，风格轻松幽默。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《穿上女装去上学_穿书_》最新章节_-_笔趣阁.md                             |
 | Size            | 1593 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.dafengdagengren.com/499_499663/](https://www.dafengdagengren.com/499_499663/)                       |
+| Author          | 熠熠熠                               |
+| Region          | 未知                               |
+| Date            | 2024-11-17                                 |
+| Tags            | 小说, 耽美, 校园, 穿书, 女装, 青春, 爱情, 连载, 文艺, 搞笑                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

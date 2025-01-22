@@ -173,8 +173,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_妻子亲自送丈夫去做变性手术，这是爱吗？_-_丹麦女孩-_豆瓣.md                             |
 | Size            | 9320 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/10058893/](https://m.douban.com/movie/review/10058893/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

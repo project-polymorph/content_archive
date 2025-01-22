@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了一款名为《Otoko Cross: Pretty Boys Dropout》的方块滑动益智游戏，游戏中包含九个变装“otokonoko”角色，玩家需要在45个关卡中通过匹配颜色的方块来解锁角色及其背景故事。文件中展示了多张游戏截图及角色介绍，强调了游戏的挑战性和趣味性。用户还可以通过赚取积分解锁新服装和背景，提升游戏的个性化体验。文末提到网站作为网络服务提供者的版权政策，鼓励用户对盗版行为进行监督和举报。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男娘街机滑砖官方中文NSZ原版_-_素材分享站.md                             |
 | Size            | 2889 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.phpzh.com/3027.html](https://www.phpzh.com/3027.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | otokonoko, 男娘, 方块滑动游戏, 益智游戏, 解谜探索, 变装角色, 挑战模式, 游戏截图, 自定义立体模型, 版权政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

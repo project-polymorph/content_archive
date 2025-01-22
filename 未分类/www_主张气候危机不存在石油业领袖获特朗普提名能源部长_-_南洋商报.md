@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一位石油行业领袖的提名事宜，该领袖主张气候危机不存在，这一提名由美国前总统特朗普提出。文章指出，能源部长的任命在社会各界引发了广泛关注与争议。虽然文件的具体信息（如作者、来源和发布日期）不明确，但它反映了当前社会对气候变化与能源政策的重大分歧，尤其是在政治环境急剧变化的背景下。作者未提供更多的个人观点，文章似乎主要基于对事实的陈述，缺乏深入的分析与探讨。整体来看，这篇文章与环境保护和气候变化的讨论息息相关，尤其是在多元性别和社会公平所涉及的环境政策和科学态度方面可能间接影响的层面。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_主张气候危机不存在石油业领袖获特朗普提名能源部长_-_南洋商报.md                             |
 | Size            | 707 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.enanyang.my/%E5%9B%BD%E9%99%85/%E4%B8%BB%E5%BC%A0%E6%B0%94%E5%80%99%E5%8D%B1%E6%9C%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%9F%B3%E6%B2%B9%E4%B8%9A%E9%A2%86%E8%A2%96%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E8%83%BD%E6%BA%90%E9%83%A8%E9%95%BF](https://www.enanyang.my/%E5%9B%BD%E9%99%85/%E4%B8%BB%E5%BC%A0%E6%B0%94%E5%80%99%E5%8D%B1%E6%9C%BA%E4%B8%8D%E5%AD%98%E5%9C%A8-%E7%9F%B3%E6%B2%B9%E4%B8%9A%E9%A2%86%E8%A2%96%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E8%83%BD%E6%BA%90%E9%83%A8%E9%95%BF)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 气候危机, 石油业, 特朗普, 能源部长, 政治提名, 环境政策, 社会争议, 科学态度, 多元性别, 社会公平                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_女友琳琳的故事（四）变装派对（上）.md                             |
 | Size            | 3554 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.xhtk.net/book_83058/70835_5.html](http://m.xhtk.net/book_83058/70835_5.html)                       |
 | Author          | qiyuan0911                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

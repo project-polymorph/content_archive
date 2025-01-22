@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了药娘这一概念以及男孩与女孩之间的生理和心理差异。文章通过对几位作者的评论进行整理，呈现出对药娘的各种看法与争议。作者haha指出，药娘的存在表明男孩在某种程度上展现出比女孩更为可爱的特质。随后，部分评论者分别就药物对性别表现的影响、性别认同的社会认知，及一些对药娘概念的批评进行了交流。例如，作者小心弹小JJ提到，男孩与女孩之间确实有区别，反映出社会对于性别表达的复杂视角。而作者扶她扶她在评论中则轻松地表示：“只要有洞，没什么关系的吧”，展示了对性别流动性的开放态度。整篇讨论不仅揭示了当代社会对性别认知的分歧，更为不同的性别表达提供了一个发声的平台。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_自从看了药娘，我发现男孩子比女孩子还萌_-_北+_North_Plus.md                             |
 | Size            | 1137 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.white-plus.net/simple/index.php?t265107_3.html](https://www.white-plus.net/simple/index.php?t265107_3.html)                       |
+| Author          | haha                               |
+| Region          | 未知                               |
+| Date            | 2016-11-14                                 |
+| Tags            | 药娘, 性别, 评论, 男孩, 女孩, 性别认同, 多元性别, 社会认知, 性别表达, 药物影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

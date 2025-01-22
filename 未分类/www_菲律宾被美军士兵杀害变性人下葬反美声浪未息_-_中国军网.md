@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了菲律宾变性人杰弗里·劳德在被美军士兵杀害后下葬的事件，并描述了随之而来的反美抗议浪潮。劳德于2014年10月11日在菲律宾北部的一个酒吧与美军士兵佩伯顿相识，随后被发现死于酒店的浴室里。尽管佩伯顿因谋杀被控，但却在美方的保护下未能接受公正的审判，引起了菲律宾民众的愤怒。文章指出，劳德被杀案重燃了菲律宾民众对美国军事驻扎的反感，民众在劳德的葬礼上呼吁为其伸张正义，同时还有组织了全球行动日的示威游行，抗议美国军事存在及其对菲律宾法律的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_菲律宾被美军士兵杀害变性人下葬反美声浪未息_-_中国军网.md                             |
 | Size            | 2610 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.81.cn/gjzx/2014-10/24/content_6195379.htm](http://www.81.cn/gjzx/2014-10/24/content_6195379.htm)                       |
+| Author          | 张明                               |
+| Region          | 菲律宾                               |
+| Date            | 2014-10-24                                 |
+| Tags            | 菲律宾, 变性人, 反美抗议, 杰弗里·劳德, 美军士兵, 谋杀案, 社会运动, 法律问题, 军事基地, 民权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

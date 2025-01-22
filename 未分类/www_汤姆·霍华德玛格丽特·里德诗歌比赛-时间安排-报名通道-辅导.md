@@ -195,7 +195,7 @@ Gail Thomas，《不被相信的女人》，传统诗歌
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件主要介绍了汤姆·霍华德/玛格丽特·里德诗歌比赛的相关信息，包括比赛的背景、主办方、参赛须知以及评委简介。汤姆·霍华德/玛格丽特·里德诗歌比赛是由"获奖作家"主办，旨在为诗歌爱好者提供展示才华的平台。文件详细介绍了比赛的参赛要求、时间安排及奖项设置，包括一等奖和荣誉奖等的奖金。此外，评委团成员包括了多位与酷儿及跨性别文学相关的诗人和艺术家，他们的作品涉及生活、身份、暴力等主题。文件中提到的比赛时间为每年4月15日至9月30日，旨在激励更多作家参与到多样性的创作中，尤其是对多元性别相关的作品的鼓励与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -206,12 +206,12 @@ Gail Thomas，《不被相信的女人》，传统诗歌
 |-----------------|----------------------------------------|
 | Filename        | www_汤姆·霍华德玛格丽特·里德诗歌比赛-时间安排-报名通道-辅导.md                             |
 | Size            | 8503 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hanlin.com/thmr](https://www.hanlin.com/thmr)                       |
+| Author          | WinningWriters                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 诗歌比赛, 汤姆·霍华德, 玛格丽特·里德, 酷儿文学, 跨性别文学, 参赛须知, 奖项设置, 评委团, 诗歌创作, 文学赛事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

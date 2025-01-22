@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了台中的一场跨性别故事展与市集，主题为"性别再定义"。展览旨在展现跨性别与非二元性别者勇敢地重新定义自己的性别认同，通过真实的故事让公众看到多样的性别表现。展览的目标不仅是展示个体的经历，还希望改变参观者对性别的认知，打破传统性别框架，促进性别友善的理念。展览时间为2023年9月26日至10月1日，地点在台中放送局，并且相关的市集活动也将在同一时间段内举行。文章还包含主办单位和指导单位的信息，以及活动的联系方式和社交媒体链接，使得公众更方便了解事件的更多细节。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【臺中放送局】性別再定義｜跨性別故事展&市集臺中市文化資產處.md                             |
 | Size            | 1708 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tchac.taichung.gov.tw/information?uid=5&pid=5938](https://www.tchac.taichung.gov.tw/information?uid=5&pid=5938)                       |
+| Author          | 台中市文化资产处                               |
+| Region          | 台湾                               |
+| Date            | 2023-09-20                                 |
+| Tags            | 跨性别, 性别认同, 故事展, 市集, 性别再定义, 台中, 性别友善, 社会创新, 文化活动, 同志社区                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

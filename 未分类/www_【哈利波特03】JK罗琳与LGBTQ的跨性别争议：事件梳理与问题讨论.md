@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了JK罗琳与跨性别问题之间的争议，着重分析了罗琳在社交媒体上发表的关于性别的言论如何影响了她作为文化偶像的形象。文章回顾了相关事件的时间线，包括2019年声援反跨性别人士玛雅的事件，以及2020年关于“来月经的人”是否是“女人”的争论。文中探讨了性别和性别认同的建构性，性别本质主义的观点，以及两个群体之间因权利、语言和社会建构产生的纷争。主播们力求提供一个温和的对话与讨论空间，引导听众理解不同群体的观点和需求。文章还引用了大量参考资料，并鼓励听众使用不同的平台收听节目。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -106,12 +106,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【哈利波特03】JK罗琳与LGBTQ的跨性别争议：事件梳理与问题讨论.md                             |
 | Size            | 5896 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xiaoyuzhoufm.com/episode/625ba52d493ea2f504a55a98](https://www.xiaoyuzhoufm.com/episode/625ba52d493ea2f504a55a98)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | JK罗琳, 跨性别, 性别争议, 文化偶像, 性别认同, 社会讨论, 性别本质主义, 性与性别的建构, LGBTQ, 性别平权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

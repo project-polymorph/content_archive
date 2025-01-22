@@ -106,8 +106,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_异性恋能被“掰弯”吗？_-_壹心理.md                             |
 | Size            | 13332 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.xinli001.com/info/100317250](https://m.xinli001.com/info/100317250)                       |
 | Author          | 唐映红 | 壹心理专栏作者                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-04-26                                 |

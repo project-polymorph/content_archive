@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | shequ_异装癖：穿出另一种性别.doc_-_豆丁.md                             |
 | Size            | 1397 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shequ.docin.com/p-79108377.html&symptom=1334](https://shequ.docin.com/p-79108377.html&symptom=1334)                       |
 | Author          | cmlang                               |
 | Region          | 未知                               |
 | Date            | 2010-09-11                                 |

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//lain.bgm.tv/pic/icon/l/000/00/05/559.jpg)
+![](https://lain.bgm.tv/pic/icon/l/000/00/05/559.jpg)
 
 不管乃们是伪娘、基佬丶还是神马玩意儿。 大胆的来探讨吧！
 
@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bgm_二次元伪娘基佬收留的地方丶_-_Bangumi_番组计划.md                             |
 | Size            | 2288 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bgm.tv/group/jwn](https://bgm.tv/group/jwn)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2010-11-22                                 |

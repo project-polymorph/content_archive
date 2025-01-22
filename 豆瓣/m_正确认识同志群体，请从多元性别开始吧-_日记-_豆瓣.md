@@ -92,8 +92,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_正确认识同志群体，请从多元性别开始吧-_日记-_豆瓣.md                             |
 | Size            | 8153 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/699071414/](https://m.douban.com/note/699071414/)                       |
 | Author          | 下大垅                               |
 | Region          | 台湾                               |
 | Date            | 2018-12-05                                 |

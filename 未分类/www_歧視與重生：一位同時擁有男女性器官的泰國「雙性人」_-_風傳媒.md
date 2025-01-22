@@ -67,7 +67,7 @@ EK決定搬到曼谷尋找新生活，並找到了一份工作。他以女性的
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了EK的真实故事，他是一位在出生时就具有男性和女性生殖器的泰国「双性人」。文章详细描述了EK自出生以来的生活经历，他以女性身份生活，却在成长过程中逐渐意识到自己的真实性别认同。他回忆起上学时和其他男孩玩耍的情景，以及对自己性别身份的困惑。高中期间，EK在田径比赛中表现出色，但因有人要求他「证明性别」，而被取消了参赛资格，这使他感到极度痛苦和困扰。为了寻求新生，他决定搬到曼谷，但依然面临着被同事孤立和性别身份的困扰。尽管EK努力追求自己真实的性别认同，但社会对性别的限制和歧视依然在困扰着他。文章探讨了有关性别认同、双性人遇到的社会挑战以及对性别身份的坚持，充分揭示了在泰国，双性人所经历的文化和社会歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,12 +78,12 @@ EK決定搬到曼谷尋找新生活，並找到了一份工作。他以女性的
 |-----------------|----------------------------------------|
 | Filename        | www_歧視與重生：一位同時擁有男女性器官的泰國「雙性人」_-_風傳媒.md                             |
 | Size            | 3999 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.storm.mg/article/2861423](https://www.storm.mg/article/2861423)                       |
+| Author          | BBC News 中文                               |
+| Region          | 泰国                               |
+| Date            | 2020-07-17                                 |
+| Tags            | 双性人, 性别认同, 性别歧视, LGBT, 生命故事, 医疗资源, 法律政策, 社会环境, 真实记录, 性别统计                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

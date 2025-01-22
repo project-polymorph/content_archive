@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | comic_女装男子に思わず告白したら付き合うことになりました_-_pixivコミック.md                             |
 | Size            | 1553 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://comic.pixiv.net/works/6376?srsltid=AfmBOorCbT553Dkt7AGnCdQcyFa-nMsPeMhMcu8McuX4s_G6GZOt5x5G](https://comic.pixiv.net/works/6376?srsltid=AfmBOorCbT553Dkt7AGnCdQcyFa-nMsPeMhMcu8McuX4s_G6GZOt5x5G)                       |
 | Author          | 荻原春                               |
 | Region          | 未知                               |
 | Date            | 2020-02-11                                 |

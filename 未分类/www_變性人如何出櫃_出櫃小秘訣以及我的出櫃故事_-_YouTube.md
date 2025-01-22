@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部YouTube视频的描述，具有指导性质，分享了变性人在出柜过程中的一些实用小秘诀和个人经历。视频由作者照镜照镜子制作，于2019年8月11日发布，观看次数达到21,436次。在视频中，作者详细讲述了出柜的不同阶段以及特定的出柜小技巧，如如何迎接亲友的反应，建议在出柜前的准备工作等。该文件不仅包含视频的时间戳与关键时刻，还附上了相关的社交媒体链接，便于观众进一步了解作者及其分享的内容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,12 +68,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變性人如何出櫃_出櫃小秘訣以及我的出櫃故事_-_YouTube.md                             |
 | Size            | 2100 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=8RLyr_RtOFA](https://www.youtube.com/watch?v=8RLyr_RtOFA)                       |
+| Author          | 照鏡照鏡子                               |
+| Region          | 未知                               |
+| Date            | 2019-08-11                                 |
+| Tags            | 变性, 跨性别, 出柜, 出柜秘籍, 生命故事, 性别认同, 情感分享, 社会支持, 性别多元, 个人经验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_刘小策跨性别？虽然有时候乍一看会分不清，但是他没说过自己_..._-_豆瓣.md                             |
 | Size            | 1991 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/132206639/](https://m.douban.com/doulist/132206639/)                       |
 | Author          | 巴啦啦小膜仙                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-10-10                                 |

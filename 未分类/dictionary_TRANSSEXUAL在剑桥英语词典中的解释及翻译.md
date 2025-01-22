@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![TRANSSEXUAL](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)
+[TRANSSEXUAL]
 
 ## transsexual { data-search-exclude }
 ### adjective
@@ -64,8 +64,8 @@ a transsexual [person](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%
 |-----------------|----------------------------------------|
 | Filename        | dictionary_TRANSSEXUAL在剑桥英语词典中的解释及翻译.md                             |
 | Size            | 6157 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/transsexual](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/transsexual)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

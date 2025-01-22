@@ -104,8 +104,8 @@
 |-----------------|----------------------------------------|
 | Filename        | chuangye_泰国权威变性手术医生——_潘皮斯麦.md                             |
 | Size            | 6554 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://chuangye.xunjk.com/chuangye/2022/1104/278328.html](http://chuangye.xunjk.com/chuangye/2022/1104/278328.html)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2022-11-04                                 |

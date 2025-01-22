@@ -139,7 +139,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人的内心世界，通过两个真实故事反映了变性手术对个体的影响与人生选择。第一位主人公老李，在58岁时决定进行变性手术，虽然被医生初次拒绝，但他向医生展示了他坚定的决心，最终获得了手术。老李希望通过手术解除男性身份的束缚，他强调变性不是为了同性恋，而是为了实现自己内心的真实自我。第二位主人公小丽，是一名年轻的警察，她通过手术与她的女友结婚，人生幸福美满。文章通过赵主任的观点指出，变性手术不仅是身体的改变，更是每个人追求梦想与真实自我的过程。两位主人公的故事，反映了社会对变性人群体的不同视角及理解，强调了每个人的梦想都值得被尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -150,12 +150,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_走进变性人的内心世界.md                             |
 | Size            | 8391 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cn-healthcare.com/articlewm/20211122/wap-content-1287334.html](https://www.cn-healthcare.com/articlewm/20211122/wap-content-1287334.html)                       |
+| Author          | 陈郑礼                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-11-22                                 |
+| Tags            | 变性手术, 变性人, 故事, 医疗资源, 心理健康, 人生故事, 过渡经历, 性别认同, 社会环境, 人性光辉                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | rs_Klinefelter综合征伴发易性癖一例报告-_中华神经科杂志.md                             |
 | Size            | 22690 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rs.yiigle.com/cmaid/699154](https://rs.yiigle.com/cmaid/699154)                       |
 | Author          | 高谦, 刘连沛                               |
 | Region          | 中国大陆                               |
 | Date            | 1995-06-01                                 |

@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | paper_泰国最完美的“人妖”（百态）_-_人民日报.md                             |
 | Size            | 7412 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://paper.people.com.cn/hqrw/html/2006-09/01/content_11293325.htm](http://paper.people.com.cn/hqrw/html/2006-09/01/content_11293325.htm)                       |
 | Author          | 刘歌                               |
 | Region          | 泰国                               |
 | Date            | 2006-09-01                                 |

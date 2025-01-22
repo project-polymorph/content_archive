@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件汇集了多篇关于多元性别和女性主义主题的文章，讨论了现代女性的身份与经历，以及性别认同的多样性。内容包括新一代女性主义者的挑战、跨性别女孩的接受过程、以及女性在社会中的角色等。文章中提到，女性群体正处于一种新的解离状态，这种状态影响着她们对自我的认知和社会互动。此外，也提到了音乐人、二次元女性玩家等生活的方方面面，展现出多元文化下女性的独特视角与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,12 +111,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_文章_-_BIE_别的.md                             |
 | Size            | 4353 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.biede.com/girl-cat/article/](https://www.biede.com/girl-cat/article/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女性主义, 多元性别, 解离, 跨性别, 音乐人, 女性角色, 社会身份, 二次元文化, 承认与接受, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

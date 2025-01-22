@@ -32,7 +32,7 @@ Tomo 去了日本，入讀一家模特兒學校，已經一年。所有同學皆
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《跨性别系列之八：Tomo (男跨女) 的故事：生活篇》，讲述了跨性别者Tomo的生活经历和心路历程。Tomo在日本的一所模特儿学校学习，与同学们和睦相处，大家都认可她作为女孩的身份，给予她支持与鼓励。然而，当她与几位日本同事前往杜拜旅行时，却被拒入境，原因在于该国对性别认同的保守态度。尽管遭遇挫折，Tomo并未表现出对这种不公平待遇的愤怒，她认为人们需要时间去理解和接受不同的性别与性向。在面对社会的偏见时，Tomo的故事反映了许多跨性别者的真实经历与内心挣扎，展现出对自己身份的坚定认同与对社会的宽容态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@ Tomo 去了日本，入讀一家模特兒學校，已經一年。所有同學皆
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別系列之八：Tomo__男跨女__的故事：生活篇.md                             |
 | Size            | 1964 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=U2mHATkFpas](https://www.youtube.com/watch?v=U2mHATkFpas)                       |
+| Author          | Transcendence Hong Kong                               |
+| Region          | 香港                               |
+| Date            | 2016-04-01                                 |
+| Tags            | 跨性别, 男跨女, 以真实故事反映多元性别, 社会接纳, 性别认同, 旅行经历, 个人故事, 文化差异, 心理支持, 跨文化理解                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

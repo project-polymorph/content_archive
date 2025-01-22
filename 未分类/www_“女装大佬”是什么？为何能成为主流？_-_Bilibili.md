@@ -12,45 +12,45 @@
 
 还记得《华人街探案2》中王宝强、刘昊然、肖央的护士三人组吗？反正拾部君当时在电影院看到此情此景，是感受到了前所未有的辣眼睛，特别是王宝强这个受到铁骑男青睐的男人。
 
-![](//i0.hdslb.com/bfs/article/a161448ec77b8d0cd5e199805e59e9c18cfec190.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/a161448ec77b8d0cd5e199805e59e9c18cfec190.jpg@1192w.webp)
 
 然后拾部君也是翻了一下相关的贴吧，果不其然，大佬们惹不起惹不起！图片也就不贴出来了，有兴趣的小伙伴也是可以去浏览一波。
 
-![](//i0.hdslb.com/bfs/article/79779a2aa05f9bf8b4ecee87244c085f38943241.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/79779a2aa05f9bf8b4ecee87244c085f38943241.jpg@1192w.webp)
 
 更让人头皮发痒的是，以前一本正经的知乎也是上架了各种“女装大佬”照片，以上说明了什么？这就告诉了我们这样的反串装扮除了我们认知的噱头之外，还真的有一拨人是喜欢上穿女装的。
 
-![](//i0.hdslb.com/bfs/article/8011d937b39256789e74bb0035e39b945a82ddc8.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/8011d937b39256789e74bb0035e39b945a82ddc8.jpg@1192w.webp)
 
 说到男扮女装，在前不久就有这么一条消息说日本一高中生“Elmon_0715”在推特上晒出了自己的女装照片。说到这里还是没什么问题的，但是够来这位大佬继续在推特上说自己的同学竟然认出了他本人！而且是根据大佬身后的背景认出人来得！我说你是进去他家多少次！最让认意想不到的是这名认出了大佬真实身份之后，还要大佬和他交往不然就讲此事公诸于世！惊喜不惊喜！意外不意外！开心不开心啊！
 
-![](//i0.hdslb.com/bfs/article/e61675d72c6d181f8b93b1a658d14ddb51f8ec0e.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/e61675d72c6d181f8b93b1a658d14ddb51f8ec0e.jpg@1192w.webp)
 
 卡哇伊呢！怪不得“童鞋”你也心动了！看完心动女生。我们接下来再看看当时这位童鞋与大佬的聊天记录吧。
 
-![](//i0.hdslb.com/bfs/article/7577acbde5bd4c9f5d64842a7bc6e1ff4d3aa72d.jpg@640w_1638h.webp)
+![](https://i0.hdslb.com/bfs/article/7577acbde5bd4c9f5d64842a7bc6e1ff4d3aa72d.jpg@640w_1638h.webp)
 
 拾部君也不知道这个应征交往的童鞋是男是女的，女生还好说，喜欢有这样爱好男朋友也还好，但是如果这位童鞋是男的话，真的为这个“知男而上”点赞啊有木有，童鞋真会玩啊有木有！
 
-![](//i0.hdslb.com/bfs/article/fa8b9a670a630035a39bec2b837d2cd53328d766.jpg@910w_832h.webp)
+![](https://i0.hdslb.com/bfs/article/fa8b9a670a630035a39bec2b837d2cd53328d766.jpg@910w_832h.webp)
 
 果然灰常之可爱~~~的男孩子，怪不得你童鞋喜欢上你了！嘿嘿嘿
 
-![](//i0.hdslb.com/bfs/article/82cac37ff15246e0269909fdeeb87af5f68799c4.jpg@570w_818h.webp)
+![](https://i0.hdslb.com/bfs/article/82cac37ff15246e0269909fdeeb87af5f68799c4.jpg@570w_818h.webp)
 
 女跟男的就没有什么特别的，自然法则嘛。男男组合的话，感觉就像一下漫画情节一样，让你猝不及防，防不胜防。
 
-![](//i0.hdslb.com/bfs/article/d7f4d7a0197e5bb995c6cfdc5a4107747d920bcb.jpg@1128w_1518h.webp)
+![](https://i0.hdslb.com/bfs/article/d7f4d7a0197e5bb995c6cfdc5a4107747d920bcb.jpg@1128w_1518h.webp)
 
 那为什么越来越多人喜欢穿女装扮女人呢？拾部君告诉你真的是有可以追溯的！“鲁迅”先生是这么说的：“我们中国的最伟大最长久而且最普遍的艺术也就是男人扮女人”。
 
-![](//i0.hdslb.com/bfs/article/10c58dd18201a0f300e54965bdda8830b087e6e7.jpg@572w_774h.webp)
+![](https://i0.hdslb.com/bfs/article/10c58dd18201a0f300e54965bdda8830b087e6e7.jpg@572w_774h.webp)
 
 有的小伙伴会说，拾部君别再拿鲁迅来骗我了，这个梗我已经不再相信了！但是，今天拾部君真心是没有骗你，真的是鲁迅先生说的。。。鲁迅文杂·杂文集·伪自由书中最艺术的国家确实有这么一句话。
 
-![](//i0.hdslb.com/bfs/article/28dbbda19b1f18fdf8ff2d8dbec01775772f4c62.jpg@1092w_504h.webp)
+![](https://i0.hdslb.com/bfs/article/28dbbda19b1f18fdf8ff2d8dbec01775772f4c62.jpg@1092w_504h.webp)
 
-![](//i0.hdslb.com/bfs/article/3b12d0b9795f0ac8e3e467287785ff7a6036645f.jpg@736w_644h.webp)
+![](https://i0.hdslb.com/bfs/article/3b12d0b9795f0ac8e3e467287785ff7a6036645f.jpg@736w_644h.webp)
 
 是吧没有骗你吧！
 
@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了“女装大佬”这一文化现象的兴起及其背后的社会心理。文章首先定义了“女装大佬”一词，并提到其在早期被称为“伪娘”，指出现代媒体如短视频平台和综艺节目逐渐将此类角色带入公众视野，形成新的文化潮流。作者通过多个例子，比如《华人街探案2》中的男扮女装情节，以及社交媒体上关于“女装大佬”的热议，分析了这一现象的社会接受度变化，强调了社会对反串装扮的逐渐包容。同时，文中还引用鲁迅的观点，讨论女性角色在男性表演中的历史根源，并质疑这一现象能否单纯视为艺术表现，背后是否还有更复杂的性别认同问题。整体上，文章旨在引发读者对性别表达和社会认同的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“女装大佬”是什么？为何能成为主流？_-_Bilibili.md                             |
 | Size            | 4700 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/read/cv498748/](https://www.bilibili.com/read/cv498748/)                       |
+| Author          | 拾部TV                               |
+| Region          | 未知                               |
+| Date            | 2018-05-20                                 |
+| Tags            | 女装大佬, 文化现象, 性别认同, 反串, 社会心理, 鲁迅, 媒体影响, 性别表达, 网络文化, 艺术表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

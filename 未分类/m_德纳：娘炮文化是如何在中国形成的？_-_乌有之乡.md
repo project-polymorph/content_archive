@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_德纳：娘炮文化是如何在中国形成的？_-_乌有之乡.md                             |
 | Size            | 3922 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.wyzxwk.com/content.php?classid=14&id=498605](http://m.wyzxwk.com/content.php?classid=14&id=498605)                       |
 | Author          | 德纳                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-10-08                                 |

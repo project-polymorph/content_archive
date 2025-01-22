@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了唐代的“娘炮”现象，指代男性外表柔弱且举止文雅的风尚，表现为穿着女性服装或具有女性特征的男性角色。这一现象在社会开放和文化多元的唐代尤为常见，特别是在一些历史人物，如武则天的男宠身上有所体现。文章分析了这种现象的历史背景，指出它反映了当时女性在社会中的低位与地位的追求，并以此为契机探讨了审美标准的变化。从积极的审美追求到主流社会对这种现象的逐渐摒弃，丝毫不减唐代人们对于美的多元理解及表现。最终，作者总结了这一现象对当今性别认知及平等的启示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_唐代的'娘炮'现象：从美学追求到性别角色转变的历史探索_-_SG讲故事.md                             |
 | Size            | 2565 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jgushi.com/archives/151285](http://www.jgushi.com/archives/151285)                       |
+| Author          | saigege                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 唐代, 娘炮, 性别角色, 美学, 文化交流, 女性服装, 历史现象, 性别认知, 审美标准, 社会地位                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

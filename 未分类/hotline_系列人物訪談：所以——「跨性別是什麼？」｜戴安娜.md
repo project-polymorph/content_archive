@@ -63,8 +63,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hotline_系列人物訪談：所以——「跨性別是什麼？」｜戴安娜.md                             |
 | Size            | 5215 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hotline.org.tw/blog/3424](https://hotline.org.tw/blog/3424)                       |
 | Author          | zoeychung                               |
 | Region          | 台湾                               |
 | Date            | 2024-03-11                                 |

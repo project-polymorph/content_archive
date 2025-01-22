@@ -95,8 +95,8 @@ Trans Well-being Team
 |-----------------|----------------------------------------|
 | Filename        | kuaerxinli_跨儿心理小组-_Trans_Well-being_Team.md                             |
 | Size            | 4944 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://kuaerxinli.org/](https://kuaerxinli.org/)                       |
 | Author          | 跨儿心理团队                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-08-22                                 |

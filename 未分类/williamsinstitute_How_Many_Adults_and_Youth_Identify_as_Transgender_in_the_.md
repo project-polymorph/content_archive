@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一项关于美国跨性别成年人和青少年人口的研究，发布于2022年6月，由威廉斯研究所的研究者Jody L. Herman、Andrew R. Flores和Kathryn K. O’Neill主笔。研究使用了来自CDC的行为风险因素监测系统（BRFSS）和青少年风险行为监测系统（YRBS）等数据，估算了在美国及其各州（包括哥伦比亚特区）自我认同为跨性别的个体数量。结果显示，年龄在13岁及以上的群体中有约1.6百万自我认同为跨性别，其中约1.3百万为成年人，300,000为青少年。该研究还指出，跨性别个体的年龄普遍偏年轻，尤其是青少年群体，自我认同为跨性别的比例高达18%。文中提到的跨性别个体人数与种族和地区分布的相关数据也表明，拉丁裔跨性别个体的比例相对更高。此外，研究还发现，自我认同为跨性别的成年人与青少年在年龄结构和种族分布上与美国总体人口基本相似。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@
 |-----------------|----------------------------------------|
 | Filename        | williamsinstitute_How_Many_Adults_and_Youth_Identify_as_Transgender_in_the_.md                             |
 | Size            | 5473 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/](https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/)                       |
+| Author          | Jody L. Herman、Andrew R. Flores、Kathryn K. O’Neill（威廉斯研究所）                               |
+| Region          | 美国                               |
+| Date            | 2022-06-01                                 |
+| Tags            | 跨性别, 青少年, 成年人, 性别认同, 美国, 社会统计, 医疗资源, 法律政策, 生存现状, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

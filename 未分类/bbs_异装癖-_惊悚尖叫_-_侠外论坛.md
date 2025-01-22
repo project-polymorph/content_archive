@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bbs_异装癖-_惊悚尖叫_-_侠外论坛.md                             |
 | Size            | 6390 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.xiawai.com/thread204952p1v1](https://bbs.xiawai.com/thread204952p1v1)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-12-21                                 |

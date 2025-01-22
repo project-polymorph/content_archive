@@ -47,7 +47,7 @@ This information is AI generated and may return results that are not relevant. I
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了药娘（跨性别女性，服用激素以实现女性化过程）最佳用药时间的问题，分享了一些健康养生知识，以帮助提升药娘的生活质量。文本中涉及健康用药的建议，并结合了相关的TikTok视频，展示了与用药安全、儿童用药误区等方面的内容，以便读者能够更加清楚地了解在转型过程中激素用药的适宜时机。文件提供了一些药娘在药物使用方面的指导，帮助她们更好地管理和优化自己的健康。数据更新于2025年1月20日，提供了适用于药娘的实用信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@ This information is AI generated and may return results that are not relevant. I
 |-----------------|----------------------------------------|
 | Filename        | www_药娘什么时候开始吃药最好_-_TikTok.md                             |
 | Size            | 4016 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tiktok.com/discover/%E8%8D%AF%E5%A8%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%90%83%E8%8D%AF%E6%9C%80%E5%A5%BD](https://www.tiktok.com/discover/%E8%8D%AF%E5%A8%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%90%83%E8%8D%AF%E6%9C%80%E5%A5%BD)                       |
+| Author          | TikTok用户                               |
+| Region          | 未知                               |
+| Date            | 2025-01-20                                 |
+| Tags            | 药娘, 最佳用药时间, 健康养生知识, 用药建议, 跨性别, 激素治疗, 生活质量, 药物安全, 儿童用药误区, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -115,8 +115,8 @@ ISBN: 9787542629630
 |-----------------|----------------------------------------|
 | Filename        | m_消解性别-_图书-_豆瓣.md                             |
 | Size            | 5222 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/4091025/](https://m.douban.com/book/subject/4091025/)                       |
 | Author          | 朱迪斯·巴特勒                               |
 | Region          | 美国                               |
 | Date            | 2009-11-01                                 |

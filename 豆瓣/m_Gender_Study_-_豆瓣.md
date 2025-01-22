@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Gender_Study_-_豆瓣.md                             |
 | Size            | 1808 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/132289994/](https://m.douban.com/doulist/132289994/)                       |
 | Author          | Bye (北京)                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-10-13                                 |

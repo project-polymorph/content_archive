@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖之恋》是一部2020年出色的古装奇幻剧，讲述了姜子牙辅佐西周武王讨伐商纣王，消灭狐妖妲己的奇幻故事。剧情充满了神话色彩，呈现了三界之间恩怨情仇的错综复杂。故事中，姜子牙的师父元始天尊传授修道之法，却因野鸡精和狐狸精的误会而引发了一系列冲突。与此同时，妲己的命运与纣王紧密相连，而姜子牙则因法力大增而成为了对抗商纣的重要力量。全剧探讨了仇恨与真情、善与恶之间的纠葛，以及在权力斗争中角色的转变。主演包括陈键锋、张馨予等，导演为王伟廷、杨健武。这部剧集通过奇幻的情节设置，映射了多层次的性别以及社会关系，展现了对多元性别话题的隐含讨论、以及角色身份的流动性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www___ENGSUB___2020年出色古装奇幻剧《人妖之恋》第01集_-_YouTube.md                             |
 | Size            | 1951 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=baEU9wP9pFw&pp=ygUNI-WmlumdiOacieaDhQ%3D%3D](https://www.youtube.com/watch?v=baEU9wP9pFw&pp=ygUNI-WmlumdiOacieaDhQ%3D%3D)                       |
+| Author          | ROSE TV                               |
+| Region          | 未知                               |
+| Date            | 2020-10-02                                 |
+| Tags            | 古装剧, 奇幻剧, 性别认同, 妖精, 姜子牙, 妲己, 电视剧, 武王, 商纣王, 剧情分析                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

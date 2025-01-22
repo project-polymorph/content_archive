@@ -73,8 +73,8 @@ BL的集大成之作！
 |-----------------|----------------------------------------|
 | Filename        | m_love×love伪娘-_电影-_豆瓣.md                             |
 | Size            | 3848 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/subject/26668592/](https://m.douban.com/movie/subject/26668592/)                       |
 | Author          | 未知                               |
 | Region          | 日本                               |
 | Date            | 2014-04-18                                 |

@@ -109,7 +109,7 @@ Copyright 喜漫漫画 ©2024
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《宅圈的女装男子》是一部围绕宅圈文化展开的漫画作品，讲述了在这一独特社群中，一名男性角色以女装形象出现，探索其与周围人群的互动与认同。本作品包含多章节，每个章节都展示了女装男子的生活片段，与其他角色的交流，以及他们在宅圈中所面临的各种挑战和快乐。漫画通过生动的插图和曲折的情节，反映了当代年轻人在自我表达与社交关系中的复杂心理，特别是在多元性别视角下的探索与实践。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -120,12 +120,12 @@ Copyright 喜漫漫画 ©2024
 |-----------------|----------------------------------------|
 | Filename        | www_宅圈的女裝男子_-_喜漫漫画.md                             |
 | Size            | 5657 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.favcomic.com/comic/detail/939832435703685120](https://www.favcomic.com/comic/detail/939832435703685120)                       |
+| Author          | 茶畑ヴァエ                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-01-01                                 |
+| Tags            | 女装男子, 宅圈文化, 漫画, 多元性别, 社交互动, 自我认同, 生活故事, 青年文化, 都市生活, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

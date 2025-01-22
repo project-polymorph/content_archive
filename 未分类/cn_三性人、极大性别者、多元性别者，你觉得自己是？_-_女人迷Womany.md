@@ -147,8 +147,8 @@ by [麦田出版](https://www.womany.net/authors/ryenews?ref=s_a_author) 2020/10
 |-----------------|----------------------------------------|
 | Filename        | cn_三性人、极大性别者、多元性别者，你觉得自己是？_-_女人迷Womany.md                             |
 | Size            | 9497 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.womany.net/read/article/25518](https://cn.womany.net/read/article/25518)                       |
 | Author          | 麦田出版                               |
 | Region          | 未知                               |
 | Date            | 2020-10-26                                 |

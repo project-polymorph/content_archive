@@ -74,8 +74,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_德国《性别自决》法案生效，一年可“变性”一次-_星岛环球网.md                             |
 | Size            | 3382 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.stnn.cc/c/2024-11-03/3932011.shtml](https://m.stnn.cc/c/2024-11-03/3932011.shtml)                       |
 | Author          | 星岛环球网                               |
 | Region          | 德国                               |
 | Date            | 2024-11-01                                 |

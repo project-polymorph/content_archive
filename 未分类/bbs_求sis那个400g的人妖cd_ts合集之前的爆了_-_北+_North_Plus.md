@@ -345,8 +345,8 @@ Mark
 |-----------------|----------------------------------------|
 | Filename        | bbs_求sis那个400g的人妖cd_ts合集之前的爆了_-_北+_North_Plus.md                             |
 | Size            | 6057 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.north-plus.net/simple/index.php?t518486.html.html](https://bbs.north-plus.net/simple/index.php?t518486.html.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2019-03-11                                 |

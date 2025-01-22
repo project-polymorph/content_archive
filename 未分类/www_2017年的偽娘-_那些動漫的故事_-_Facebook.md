@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了2017年伪娘文化在网络社交平台上的反映，尤其是通过Facebook页面《那些动漫的故事》的一个帖子进行深入分析。文件中包含了一组关于伪娘这一亚文化现象的评论，这些评论大多是围绕动漫角色的性别认同展开的，展示了观众对角色性别的误解与讨论。评论区中，用户们对于玛露露库的性别持有不同看法，有人认为他是男性，而其他人则显得困惑或对此表示惊讶。此外，该文件也记录了社交媒体用户对于伪娘文化的反应，显示出这一文化在年轻人中的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_2017年的偽娘-_那些動漫的故事_-_Facebook.md                             |
 | Size            | 1184 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/anime.lfatw/posts/2017%E5%B9%B4%E7%9A%84%E5%81%BD%E5%A8%98/392229671195618/](https://www.facebook.com/anime.lfatw/posts/2017%E5%B9%B4%E7%9A%84%E5%81%BD%E5%A8%98/392229671195618/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2017-01-01                                 |
+| Tags            | 伪娘, 动漫角色, 性别认同, 社交媒体, Facebook, 评论分析, 年轻人的文化, 亚文化现象, 网络交流, 性别多元性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

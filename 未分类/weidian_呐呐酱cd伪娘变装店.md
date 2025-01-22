@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于名为“呐呐酱cd伪娘变装店”的在线商店，主要提供伪娘变装相关的产品，包括服装、配件等，旨在为多元性别群体提供支持与表达。文件中提到，店铺的商品质量良好，用户反馈积极，且设有最低消费金额以享受部分地区包邮的服务。文中还展示了一些新品的图片，表明该商店定期更新产品。此外，文件中有关于客户评论的信息，描述用户的购物体验。由于是以电子商务平台的形式呈现该内容，因此也有营销与推广的元素。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@
 |-----------------|----------------------------------------|
 | Filename        | weidian_呐呐酱cd伪娘变装店.md                             |
 | Size            | 3353 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://weidian.com/?userid=958341712](https://weidian.com/?userid=958341712)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 多元性别, 服装店, 在线购物, 用户评价, 产品展示, 变装文化, 性别表达, 电子商务                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

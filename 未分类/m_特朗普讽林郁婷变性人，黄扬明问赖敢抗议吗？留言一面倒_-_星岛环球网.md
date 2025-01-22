@@ -34,8 +34,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_特朗普讽林郁婷变性人，黄扬明问赖敢抗议吗？留言一面倒_-_星岛环球网.md                             |
 | Size            | 2040 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.stnn.cc/c/2024-08-19/3914355.shtml](https://m.stnn.cc/c/2024-08-19/3914355.shtml)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-08-19                                 |

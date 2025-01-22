@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_探秘泰国清迈人妖表演台前幕后.md                             |
 | Size            | 4426 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huanqiu.com/gallery/9CaKrnQgLZl](https://m.huanqiu.com/gallery/9CaKrnQgLZl)                       |
 | Author          | qinxian                               |
 | Region          | 泰国清迈                               |
 | Date            | 2012-09-08                                 |

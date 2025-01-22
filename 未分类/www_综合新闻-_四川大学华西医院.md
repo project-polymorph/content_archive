@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为四川大学华西医院发布的综合新闻，涵盖了医院内发生的一系列医疗相关活动与事件。文件中包括2011年药师抗菌药物合理应用培训、四川省免疫学会理事会议、庆祝建党90周年的征文比赛、医院假肢矫形专业的课程认证，以及呼吸内科党支部的慈善活动等。此外，文件还包含了呼吸病学组副组长的当选、医院检验科质量管理体系培训、营养研究指导及著名教授的讣告。所有新闻均在2011年6月28日发布，体现了医院在医疗、教育和社会责任方面的积极参与和贡献。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,12 +99,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_综合新闻-_四川大学华西医院.md                             |
 | Size            | 5764 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.wchscu.cn/comprehensive/p/2214.html](http://www.wchscu.cn/comprehensive/p/2214.html)                       |
+| Author          | 四川大学华西医院                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-06-28                                 |
+| Tags            | 四川大学华西医院, 医疗新闻, 药物合理应用, 免疫学会议, 征文比赛, 假肢矫形, 呼吸科, 质量管理培训, 营养咨询, 人物讣告                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了已故香港著名歌手张国荣的性别认同与心理健康问题，认为变性手术可能是他解决痛苦和苦恼的唯一方法。文章提到张国荣作为双性恋者所经历的内心挣扎以及社会文化对同性恋的排斥，表达了对其抑郁症和生活困境的理解与怜悯。文章中提到，虽然知道张国荣与唐鹤德的关系可以使他感到幸福，但并未提及他在其文化背景下对变性手术的认知和选择，留下了人们的思考。评论区的讨论进一步丰富了这个话题，涉及跨性别与同性恋的区别，并表达了对张国荣的怀念与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_也许变性手术才是张国荣唯一生存下去的路径！_都知道_..._-_今日头条.md                             |
 | Size            | 1864 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.toutiao.com/w/1800660500546564/](https://www.toutiao.com/w/1800660500546564/)                       |
+| Author          | 元气星空Ix                               |
+| Region          | 未知                               |
+| Date            | 2024-06-01                                 |
+| Tags            | 多元性别, 张国荣, 变性手术, 双性恋, 抑郁症, 心理健康, 香港文化, 社会接受度, 性别认同, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

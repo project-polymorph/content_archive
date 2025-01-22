@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了泰德威律师事务所的公众利益和平等权利（PIER）部门，致力于处理民权诉讼、歧视问题和法律改革，尤其是为LGBT群体及其他少数群体的权利而争取。在文件中，详细描述了该部门的服务范围，包括民事诉讼、儿童保护、性别歧视和移民问题。强调了该律所对多元性和非歧视政策的承诺，并列举了多个典型案例，显示了其在促进社会公平和正义方面的努力。该资料还提到该部门的目标不仅在于提供法律支持，同时也希望通过提高公众意识来推动社会变革。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_公众利益和平等权利-_泰德威律师事务所.md                             |
 | Size            | 4061 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tannerdewitt.com/zh-hans/practice-areas/public-interest-and-equal-rights/](https://www.tannerdewitt.com/zh-hans/practice-areas/public-interest-and-equal-rights/)                       |
+| Author          | 泰德威律师事务所                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 公众利益, 平等权利, 民权诉讼, 歧视问题, LGBT权益, 法律改革, 儿童保护, 性别歧视, 移民权利, 法律案例, 社会公平, 多元化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

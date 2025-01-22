@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bangumi_图书标签_女装大佬_2019_年_-_Bangumi_番组计划.md                             |
 | Size            | 1400 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bangumi.tv/book/tag/%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC/airtime/2019](https://bangumi.tv/book/tag/%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC/airtime/2019)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2019-01-01                                 |

@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_28岁两性畸形人性别难辨无法办身份证户籍_图__-_新闻-_搜狐.md                             |
 | Size            | 5472 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.sohu.com/20050119/n224006553.shtml](https://news.sohu.com/20050119/n224006553.shtml)                       |
 | Author          | 四川新闻网实习记者 郑永嘉                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-01-19                                 |

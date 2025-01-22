@@ -94,8 +94,8 @@
 |-----------------|----------------------------------------|
 | Filename        | tdr_跨越性別的高牆：跨性別者的生命紀實.md                             |
 | Size            | 3421 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://tdr.lib.ntu.edu.tw/handle/123456789/69808?mode=full](https://tdr.lib.ntu.edu.tw/handle/123456789/69808?mode=full)                       |
 | Author          | 黃硯琳 (Yan-Lin Huang)                               |
 | Region          | 台湾                               |
 | Date            | 2018-04-18                                 |

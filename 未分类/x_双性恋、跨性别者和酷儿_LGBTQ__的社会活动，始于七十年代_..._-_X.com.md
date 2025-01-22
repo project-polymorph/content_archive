@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细记录了多元性别与骄傲活动的历史与现状，特别关注了自1970年代以来一直在进行的LGBTQ+社会活动。这些活动旨在庆祝女同性恋、男同性恋、双性恋、跨性别者和酷儿群体的权利与骄傲。文章中提到的是台湾最近举办的第22届同志骄傲游行，主办方称此次活动吸引了约18万人参与，体现了社会对多元性别群体的接受和支持。副总统萧美琴的到场及总统赖清德在社交媒体上的评论，更加突显了从政府层面对LGBTQ+群体的认可与支持。文章中特别提到骄傲游行不仅是承载骄傲的庆祝活动，更是反映历史变迁和社会环境的重要时刻，警示人们关注社会公平和正义的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | x_双性恋、跨性别者和酷儿_LGBTQ__的社会活动，始于七十年代_..._-_X.com.md                             |
 | Size            | 1293 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://x.com/JessieJ012345/status/1850971000529187021](https://x.com/JessieJ012345/status/1850971000529187021)                       |
+| Author          | Jessie J                               |
+| Region          | 台湾                               |
+| Date            | 2024-10-28                                 |
+| Tags            | 多元性别, 骄傲游行, LGBTQ, 社会活动, 历史, 台湾, 副总统萧美琴, 总统赖清德, 同志权利, 社会公平                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

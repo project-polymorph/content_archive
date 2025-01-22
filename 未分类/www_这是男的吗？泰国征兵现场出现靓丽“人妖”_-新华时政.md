@@ -52,7 +52,7 @@ Copyright XINHUANET.com All Rights Reserved. 制作单位：新华网 [版权所
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文标题为《这是男的吗？泰国征兵现场出现靓丽“人妖”》，发布于2015年4月9日。文章通过描述在泰国南邦府兵役抽签现场出现的一位白衣美艳的“人妖”来引发对多元性别群体的关注。该人物20岁，拥有令人惊艳的外貌，照片中表现出其大长腿、瓜子脸以及白皙的皮肤，甚至被评论为“各种把真女人逼死的节奏”。文章配有多张图片展示这位“人妖”的风貌，并且提到其日常生活的美照被广为传播，进一步引起社会对跨性别者的关注。通过这篇报道，读者可以看到泰国社会对性别表达的包容度，同时也反映出对于多元性别身份的社会认知与接受程度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@ Copyright XINHUANET.com All Rights Reserved. 制作单位：新华网 [版权所
 |-----------------|----------------------------------------|
 | Filename        | www_这是男的吗？泰国征兵现场出现靓丽“人妖”_-新华时政.md                             |
 | Size            | 2414 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/mil/2015-04/09/c_127672079_8.htm](http://www.xinhuanet.com/mil/2015-04/09/c_127672079_8.htm)                       |
+| Author          | 杨茹                               |
+| Region          | 泰国                               |
+| Date            | 2015-04-09                                 |
+| Tags            | 跨性别, 人妖, 多元性别, 社会报道, 征兵, 泰国, 性别表达, 媒体观察, 生活照, 军队                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

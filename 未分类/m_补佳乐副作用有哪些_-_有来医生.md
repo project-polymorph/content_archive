@@ -44,8 +44,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_补佳乐副作用有哪些_-_有来医生.md                             |
 | Size            | 1573 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.youlai.cn/video/article/8669028ha8.html](https://m.youlai.cn/video/article/8669028ha8.html)                       |
 | Author          | 陈頔，有来医生                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-02-05                                 |

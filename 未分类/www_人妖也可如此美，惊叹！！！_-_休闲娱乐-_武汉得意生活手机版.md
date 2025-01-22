@@ -103,7 +103,7 @@ _发表于 2010-7-5 11:06_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一位名叫Poy的泰国变性女性，她在17岁时进行了变性手术，并在19岁时荣获了泰国帕提亚著名的Miss Tiffany人妖选美比赛的头衔。文章详细描述了Poy的个人背景，包括她的真实姓名、出生日期、信仰和籍贯。还分享了与她相关的美丽照片，展示了Poy的成长经历及她在泰国社会的受欢迎程度。文章发布在武汉的生活消费社区，并通过网友的评论反映了人们对她美丽的赞叹和讨论。这一记录不仅反映了个体的跨性别经历，也在一定程度上揭示了社会对变性人的美学认知和关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -114,12 +114,12 @@ _发表于 2010-7-5 11:06_
 |-----------------|----------------------------------------|
 | Filename        | www_人妖也可如此美，惊叹！！！_-_休闲娱乐-_武汉得意生活手机版.md                             |
 | Size            | 3375 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.deyi.com/thread-467411-1-1.html](http://www.deyi.com/thread-467411-1-1.html)                       |
+| Author          | 青岛大姨                               |
+| Region          | 武汉，中国                               |
+| Date            | 2010-07-05                                 |
+| Tags            | 多元性别, 变性人, 泰国, 人妖, Miss Tiffany, 个体故事, 跨性别经历, 社会认可, 美丽, 性别变迁                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

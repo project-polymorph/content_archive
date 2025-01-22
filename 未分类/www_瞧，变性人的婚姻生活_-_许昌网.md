@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了变性人章琳的婚姻生活与经历，聚焦于社会对变性人婚姻的关注与认可。文章通过章琳的故事展示了变性人在寻求爱情与家庭生活方面的挑战与努力。章琳，在进行变性手术后，于2004年领取了结婚证，成为众多变性人中追求婚姻生活的代表之一。除了她的例子，文章还提到了其他几位变性人的生活故事，比如在婚姻中如何面对家庭与社会的压力，如何通过医疗手段实现生育愿望，诸如人工授精等。文章通过对比不同变性人的经历，探讨了变性人群体的婚姻现状，以及在当代中国对变性人婚姻与家庭的逐步接受。此外，报道中提到的相关法律与社会环境，也为变性人权利的保障与婚姻自由提供了一定的背景信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_瞧，变性人的婚姻生活_-_许昌网.md                             |
 | Size            | 9216 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.21xc.com/content/200403/25/c36003.html](http://www.21xc.com/content/200403/25/c36003.html)                       |
+| Author          | 许昌晨报                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-03-25                                 |
+| Tags            | 变性人, 婚姻生活, 社会接受, 医疗故事, 法律政策, 人工授精, 生育权利, 性别认同, 真实记录, 婚姻平权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

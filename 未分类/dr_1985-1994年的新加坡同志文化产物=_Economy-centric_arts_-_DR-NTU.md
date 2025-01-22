@@ -62,8 +62,8 @@ Items in DR-NTU are protected by copyright, with all rights reserved, unless oth
 |-----------------|----------------------------------------|
 | Filename        | dr_1985-1994年的新加坡同志文化产物=_Economy-centric_arts_-_DR-NTU.md                             |
 | Size            | 3853 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dr.ntu.edu.sg/handle/10356/62288](https://dr.ntu.edu.sg/handle/10356/62288)                       |
 | Author          | 陈贤馥（Chan, Denis Xian Fu）                               |
 | Region          | 新加坡                               |
 | Date            | 2015-01-01                                 |

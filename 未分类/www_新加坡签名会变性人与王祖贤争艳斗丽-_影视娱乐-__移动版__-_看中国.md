@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要报道了2001年在新加坡举行的首映会和签名会，女主角王祖贤出席，变性人演员也参加其中，共同争艳。王祖贤穿着黑色宽松长裙，展现出与以往形象截然不同的姿态，吸引了众多影迷的关注。导演杨凡在活动中介绍了其拍摄的本地电影《三画二郎情》，并邀请了三名变性人演员出席，令现场气氛热烈。影迷们积极参与，争取与偶像合照的机会，王祖贤则表现得亲切自然，现场气氛十分融洽。此活动吸引了近百名影迷到场，因《游园惊梦》是王祖贤的告别演出，场面极为热闹。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_新加坡签名会变性人与王祖贤争艳斗丽-_影视娱乐-__移动版__-_看中国.md                             |
 | Size            | 2054 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.secretchina.com/news/gb/2001/10/17/104484.html](https://www.secretchina.com/news/gb/2001/10/17/104484.html)                       |
+| Author          | 看中国                               |
+| Region          | 新加坡                               |
+| Date            | 2001-10-17                                 |
+| Tags            | 王祖贤, 变性人, 新加坡, 影视娱乐, 签名会, 首映会, 杨凡, 电影, 公众活动, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

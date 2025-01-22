@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件整理了“跨性别资源中心（Transgender Resource Center）”的页面内容，提供了该中心的基本信息、社交媒体链接、项目介绍及相关链接。该中心是一家位于香港的非政府组织，致力于支持跨性别群体，推动社会认同与包容。文件中提到的项目‘逆境同行：关怀和支援香港年长同志’旨在提高公众对年长同志及受爱滋病影响人士的认识与支持，创建一个更加包容的环境。此外，还提供了组织的联系方式和社交媒体信息，包括其Facebook页面链接。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,12 +83,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_Transgender_Resource_Center_跨性別資源中心_-_Facebook.md                             |
 | Size            | 5467 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/tgrhk/](https://www.facebook.com/tgrhk/)                       |
+| Author          | 跨性别资源中心 (Transgender Resource Center)                               |
+| Region          | 香港                               |
+| Date            | 2024-01-01                                 |
+| Tags            | 跨性别, 资源中心, 香港, 非政府组织, 年长同志, 爱滋病, 社会支持, 项目介绍, 公共意识, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别勇士：从圣女贞德到丹尼斯·罗德曼创造历史_-_豆瓣.md                             |
 | Size            | 4372 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/16183170/](https://m.douban.com/book/review/16183170/)                       |
 | Author          | 莱斯利·费恩伯格                               |
 | Region          | 美国                               |
 | Date            | 1997-06-30                                 |

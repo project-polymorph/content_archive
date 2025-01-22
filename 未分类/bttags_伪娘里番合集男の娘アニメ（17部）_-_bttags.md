@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bttags_伪娘里番合集男の娘アニメ（17部）_-_bttags.md                             |
 | Size            | 1908 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bttags.cyou/movie/5fbf52cc2a3d6704c6011ae1](https://bttags.cyou/movie/5fbf52cc2a3d6704c6011ae1)                       |
 | Author          | 伪娘                               |
 | Region          | 日本                               |
 | Date            | 2020-01-01                                 |

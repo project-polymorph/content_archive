@@ -28,7 +28,7 @@ DOI：10.3969/j.issn.1001-8565.2001.05.013
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性术的伦理学思考，分析了变性术对患者的心理需求与医学界的关注，指出变性术在满足异性癖患者性别转换心理需求的同时，由于其创伤性、致残性和不可逆性，引发了医学和社会多方面的问题。作者舒玲华与李文刚强调，医学界应对此持慎重态度，谨慎对待这一手术的伦理问题。文章发表于2001年的《中国医学伦理学》期刊，涉及的关键词包括变性术和医学伦理，因此是一个对跨性别者及相关研究有重要参考意义的文献。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@ DOI：10.3969/j.issn.1001-8565.2001.05.013
 |-----------------|----------------------------------------|
 | Filename        | wk_变性术的伦理学思考_-_百度文库.md                             |
 | Size            | 877 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wk.baidu.com/view/5eedfa3231126edb6f1a10e0](https://wk.baidu.com/view/5eedfa3231126edb6f1a10e0)                       |
+| Author          | 舒玲华，李文刚                               |
+| Region          | 中国大陆                               |
+| Date            | 2001-05-01                                 |
+| Tags            | 变性术, 医学伦理, 异性癖, 心理需求, 手术风险, 社会问题, 跨性别, 医学界, 伦理学, 治疗手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

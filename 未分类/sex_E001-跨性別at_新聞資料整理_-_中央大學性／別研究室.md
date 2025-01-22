@@ -275,8 +275,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sex_E001-跨性別at_新聞資料整理_-_中央大學性／別研究室.md                             |
 | Size            | 47285 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sex.ncu.edu.tw/blognews/?cat=41%2F&paged=17](https://sex.ncu.edu.tw/blognews/?cat=41%2F&paged=17)                       |
 | Author          | 国立中央大学性别研究室                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

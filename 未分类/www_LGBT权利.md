@@ -118,7 +118,7 @@ Human Right Watch defends the rights of people in 90 countries worldwide, spotli
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了全球范围内LGBT群体面临的严重人权问题，包括因性取向和性别认同遭受的歧视、暴力、酷刑等侵害。内容中提到，人权观察对此问题的关注及努力，特别是记录和揭露相关人权侵犯事件的重要性。在文件中指出，性取向和性别认同是个人自我认同的核心部分，因此不应导致任何形式的歧视或暴力。同时强调，跨性别人士、同性恋、双性恋等群体的权利，应通过法律和政策得到维护和保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -129,12 +129,12 @@ Human Right Watch defends the rights of people in 90 countries worldwide, spotli
 |-----------------|----------------------------------------|
 | Filename        | www_LGBT权利.md                             |
 | Size            | 8006 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hrw.org/zh-hans/topic/lgbtquanli](https://www.hrw.org/zh-hans/topic/lgbtquanli)                       |
+| Author          | 人权观察                               |
+| Region          | 全球                               |
+| Date            | 2024-08-07                                 |
+| Tags            | LGBT权利, 性别认同, 人权, 歧视, 暴力, 跨性别, 同性恋, 社会运动, 法律政策, 全球观察                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

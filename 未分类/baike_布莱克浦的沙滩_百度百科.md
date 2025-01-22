@@ -86,8 +86,8 @@ Steven Arnold参演的影视作品
 |-----------------|----------------------------------------|
 | Filename        | baike_布莱克浦的沙滩_百度百科.md                             |
 | Size            | 3568 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E5%B8%83%E8%8E%B1%E5%85%8B%E6%B5%A6%E7%9A%84%E6%B2%99%E6%BB%A9/63016647](https://baike.baidu.com/item/%E5%B8%83%E8%8E%B1%E5%85%8B%E6%B5%A6%E7%9A%84%E6%B2%99%E6%BB%A9/63016647)                       |
 | Author          | Karlton Parris                               |
 | Region          | 英国                               |
 | Date            | 2021-01-01                                 |

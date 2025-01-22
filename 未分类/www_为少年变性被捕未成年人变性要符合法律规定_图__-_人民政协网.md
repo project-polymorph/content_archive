@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起涉及未成年人变性手术的法律案件。声明指出，未经父母同意，实施变性手术的行为是违法的。文章详细描述了一名15岁少年小楠在没有得到父母许可的情况下，瞒着父母独自前往成都进行变性手术的经过。小楠在变性手术医生的指导下，承认了自己在未成年情况下进行手术的行为，最终导致其父亲发觉并报警。文章强调了近年来变性手术在社会中的逐渐被接受及其所面临的法律限制，尤其是涉及未成年人的情况。此外，讨论了法律对变性手术施行的相关法规和条件，以及该事件对社会的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_为少年变性被捕未成年人变性要符合法律规定_图__-_人民政协网.md                             |
 | Size            | 2172 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.rmzxb.com.cn/c/2015-09-25/587392.shtml](http://www.rmzxb.com.cn/c/2015-09-25/587392.shtml)                       |
+| Author          | 中国网                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-09-25                                 |
+| Tags            | 未成年人, 变性手术, 法律规定, 社会新闻, 医学伦理, 变性观念, 家庭干预, 青少年问题, 安全隐患, 健康权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

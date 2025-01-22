@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ccj_田聚群.md                             |
 | Size            | 6924 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ccj.pku.edu.cn/Search/search?fd0=AU&op0=AND&kw0=%E7%94%B0%E8%81%9A%E7%BE%A4](https://ccj.pku.edu.cn/Search/search?fd0=AU&op0=AND&kw0=%E7%94%B0%E8%81%9A%E7%BE%A4)                       |
 | Author          | 田聚群                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

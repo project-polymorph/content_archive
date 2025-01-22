@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于性别烦躁症（GD）与生理和心理男性化之间关系的系统评价研究。研究指出，该症状与多种精神疾病有关，但其因果关系尚不明确。同时，GD个体相较于非GD个体在生理和心理特征上表现出男性化倾向，比如自闭症谱系障碍、惯用左手、2D：4D比例等与雄激素相关的索引表现。文章回顾了相关的原创研究，并探讨了性别烦躁症与其它身份障碍的关联，认为GD可能与自闭症特征间接引发的焦虑和自我认知质疑有关。这项研究采用了系统综述的方法，整合了多项经验发现，具有重要的学术和实用意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性别烦躁和变性身份与生理和心理男性化有关：系统评价支持的发现_.md                             |
 | Size            | 3059 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1347290221819088896/t](https://www.x-mol.com/paper/1347290221819088896/t)                       |
+| Author          | Edward Dutton, Guy Madison                               |
+| Region          | 未知                               |
+| Date            | 2020-08-13                                 |
+| Tags            | 性别烦躁症, 变性身份, 生理男性化, 心理男性化, 自闭症谱系障碍, 身份障碍, 雄激素, 心理健康, 系统评价, 精神疾病                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

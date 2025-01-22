@@ -254,7 +254,7 @@
 - [柯南之变装在酒厂](https://book.qq.com/so/柯南之变装在酒厂)
 - [温水煮甜心](https://book.qq.com/book-detail/26003442)
 
-![](//qqreader-site-1252317822.file.myqcloud.com/qq-pc/static/img/q-qrcode.e88b14c.png)
+![](https://qqreader-site-1252317822.file.myqcloud.com/qq-pc/static/img/q-qrcode.e88b14c.png)
 
 QQ阅读手机版
 
@@ -293,8 +293,8 @@ QQ阅读小说网
 |-----------------|----------------------------------------|
 | Filename        | ubook_变装cd小说_-_QQ阅读.md                             |
 | Size            | 23191 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ubook.reader.qq.com/ask/keyword/clwzenycos](https://ubook.reader.qq.com/ask/keyword/clwzenycos)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-06-20                                 |

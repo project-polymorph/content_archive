@@ -59,7 +59,7 @@ E-mail:wuximhc@126.com
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位母亲对于女儿同性恋身份的困惑与寻求心理咨询的故事。案例中的女儿小悦因为与同班女孩恋爱而感到痛苦，导致情绪失常和抑郁。文中对同性恋的心理分析提供了背景知识，解释了同性恋的起源、心理发展与社会影响等。更深入地探讨了性取向的相关理论，分析了生物学、心理学和社会因素对同性恋形成的影响。最后，专家对家长如何理解和接纳孩子的性取向提出了建议，强调应该放弃改变孩子性取向的想法，并关注其人格发展与幸福感的培养。此文不仅为家长提供专业如何指导，还解释了咨询的目的不在于改变性取向，而是理解和接纳，帮助孩子建立自信与归属感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@ E-mail:wuximhc@126.com
 |-----------------|----------------------------------------|
 | Filename        | www_新闻中心.md                             |
 | Size            | 10219 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.wuximhc.com/news.asp?act=show&fid=2&cid=5&tid=1366](http://www.wuximhc.com/news.asp?act=show&fid=2&cid=5&tid=1366)                       |
+| Author          | 江南晚报 / 无锡市精神卫生中心                               |
+| Region          | 中国                               |
+| Date            | 2015-01-13                                 |
+| Tags            | 同性恋, 性取向, 心理咨询, 家庭教育, 青少年心理, 性别认同, 社会接受, 心理健康, 性少数群体, 成长案例                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

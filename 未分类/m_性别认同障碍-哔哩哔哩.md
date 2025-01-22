@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性别认同障碍-哔哩哔哩.md                             |
 | Size            | 3593 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.bilibili.com/search?keyword=%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8D&from_source=article](https://m.bilibili.com/search?keyword=%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8D&from_source=article)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

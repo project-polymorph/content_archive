@@ -157,8 +157,8 @@ _伪娘_是一个多义词，您可以选择查看以下义项（共2个义项�
 |-----------------|----------------------------------------|
 | Filename        | baike_伪娘_网络流行词__搜狗百科.md                             |
 | Size            | 5856 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v70877.htm](https://baike.sogou.com/v70877.htm)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

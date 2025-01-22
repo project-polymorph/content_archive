@@ -157,8 +157,8 @@ Gwen还讨论了她的私生活，尽管她说大多数变性人都不喜欢被�
 |-----------------|----------------------------------------|
 | Filename        | m_我是一名变性女人，无下限提问，现在开始.md                             |
 | Size            | 7088 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.cmt.com.cn/detail/1282485.html](https://m.cmt.com.cn/detail/1282485.html)                       |
 | Author          | 佚名                               |
 | Region          | 美国                               |
 | Date            | 2017-01-22                                 |

@@ -19,7 +19,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了性别平等教育中为何纳入多元性别的概念，并提供了相关法律依据与教育目标。根据2017年8月10日的新闻稿，教育部指出，多元性别是社会现状，教师在课程中纳入多元性别概念是为了让学校师生能够尊重和善待不同性别及性别认同者，进而保障每位学生的受教权。文中提及，《性别平等教育法》第18条规定教材内容应平衡反映不同性别的历史贡献与生活经验，并需破除性别偏见，展现多元价值，因此性别平等教育需反映多元性别观念，达成“更多认识、不再歧视”的教育目标。整体上，此文件强调了教育界在推动性别平等及尊重性别差异方面的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -30,12 +30,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_問與答__性別平等教育中為何納入多元之性別概念？.md                             |
 | Size            | 1062 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gender.edu.tw/web/index.php/m1/m1_03_03_c?sid=20](https://www.gender.edu.tw/web/index.php/m1/m1_03_03_c?sid=20)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2017-08-10                                 |
+| Tags            | 性别平等教育, 多元性别, 教育法, 社会现状, 性别特质, 性别认同, 教师责任, 尊重差异, 学生受教权, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

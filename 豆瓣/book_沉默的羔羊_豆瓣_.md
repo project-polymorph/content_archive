@@ -89,8 +89,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_沉默的羔羊_豆瓣_.md                             |
 | Size            | 4637 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/2053133//](https://book.douban.com/subject/2053133//)                       |
 | Author          | 托马斯·哈里斯                               |
 | Region          | 美国                               |
 | Date            | 2007-03-01                                 |

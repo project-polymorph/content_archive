@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一则关于全新III级电影《人妖阿发痴人三部曲 1/3》的介绍，影片讲述了阿发，一位香港男人，逃避过去而选择在异乡生存的故事。为了救赎自我，阿发放弃自尊，成为人妖。影片中，阿发结识了舞娘阿妙和脱衣舞男阿瓜，与他们建立了非常特殊的友谊，使阿发获得了一种独特的快乐。然而，随着情节的发展，一场突如其来的变故迫使阿发做出极端抉择，这让他再度面临自我认知与抉择的考验。该影片深入反映了多元性别群体的心理与生存状态，并探讨了自我认同与社会接纳之间的复杂关系。影片的导演是罗守耀，主演包括林上、麦芷谊及Aphirak CHAIYASIT等。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_全新III級電影《人妖阿發痴人三部曲13》_2月24日搶先收看_-_YouTube.md                             |
 | Size            | 1413 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=axQGb5XoIcU](https://www.youtube.com/watch?v=axQGb5XoIcU)                       |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 2019-12-18                                 |
+| Tags            | 电影, 人妖, 阿发, 多元性别, 生命故事, 香港电影, 自我认同, 心理挣扎, 社会接纳, 剧情片                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

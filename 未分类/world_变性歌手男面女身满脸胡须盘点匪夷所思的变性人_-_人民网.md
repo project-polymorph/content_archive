@@ -25,7 +25,7 @@ Conchita Wurst是比利时一名变性人歌手，近日他/她拍摄了一组�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一位独特的变性人歌手Conchita Wurst（本名Tom Neuwirth）的故事。他是一位比利时歌手，以其特殊的形象和音乐风格为公众所熟知。文章中指出，Conchita在2006年首次公开表演，但在后来的几年里他却淡出了视野，直到2011年他以Conchita Wurst的身份重新出现在公众面前，成为一个知名的易装癖舞台人物。文章附带了一些关于Conchita的相关图片和过去的媒体报道，包括关于变性人和社会议题的讨论，展示了变性人在社会中的一些面貌与挑战。文中提到Conchita的名字在德语中的含义，以及他在音乐界的成就和影响。这些故事不仅反映了个人的成长和挑战，也在某种程度上揭示了社会对变性人群体的接受度和偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@ Conchita Wurst是比利时一名变性人歌手，近日他/她拍摄了一组�
 |-----------------|----------------------------------------|
 | Filename        | world_变性歌手男面女身满脸胡须盘点匪夷所思的变性人_-_人民网.md                             |
 | Size            | 1666 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2014/0527/c1002-25071424.html](http://world.people.com.cn/n/2014/0527/c1002-25071424.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-05-27                                 |
+| Tags            | 变性人, Conchita Wurst, 歌手, 性别多元, 易装癖, 社会接受度, 性别认同, 音乐, 媒体报道, 人物故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

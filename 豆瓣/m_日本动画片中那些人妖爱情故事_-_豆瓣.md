@@ -146,8 +146,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_日本动画片中那些人妖爱情故事_-_豆瓣.md                             |
 | Size            | 5225 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/2783278/](https://m.douban.com/doulist/2783278/)                       |
 | Author          | 在减肥的许老师                               |
 | Region          | 未知                               |
 | Date            | 2013-08-22                                 |

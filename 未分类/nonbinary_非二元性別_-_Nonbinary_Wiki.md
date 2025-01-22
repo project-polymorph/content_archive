@@ -184,8 +184,8 @@ _See main article: [Nonbinary gender in fiction](https://nonbinary.wiki/wiki/Non
 |-----------------|----------------------------------------|
 | Filename        | nonbinary_非二元性別_-_Nonbinary_Wiki.md                             |
 | Size            | 23711 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nonbinary.wiki/wiki/Nonbinary/zh-tw](https://nonbinary.wiki/wiki/Nonbinary/zh-tw)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

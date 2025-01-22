@@ -15,7 +15,7 @@
 
 ### 提到的作品
 
-- ![](//bookcover.yuewen.com/qdbimg/349573/1911369/180) [国色芳华](https://www.qdmm.com/book/1911369/)  
+- ![](https://bookcover.yuewen.com/qdbimg/349573/1911369/180) [国色芳华](https://www.qdmm.com/book/1911369/)  
   意千重·古代言情  
   【杨紫、李现主演同名电视剧原著】这是一个奢靡开放的朝代，世人皆爱牡丹，一掷千金。她叫牡丹，人如其名，更有一手培育稀世牡丹的技能，只可惜被人当做了草。幸亏她经得风吹经得雨打，经得严寒酷暑。于是，她的人生注定艳丽风流。
 
@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_北医三院刘烨跨性别_-_起点中文.md                             |
 | Size            | 1882 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.qidian.com/ask/qurxaamiqgt](https://m.qidian.com/ask/qurxaamiqgt)                       |
 | Author          | 偶然动情                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-08-26                                 |

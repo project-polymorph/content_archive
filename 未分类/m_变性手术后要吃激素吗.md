@@ -54,8 +54,8 @@ _变性手术后要吃激素吗_，不要慌，看完这个你就知道了！
 |-----------------|----------------------------------------|
 | Filename        | m_变性手术后要吃激素吗.md                             |
 | Size            | 3886 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.baidu.com/bh/m/detail/sv_13747541941762927257](https://m.baidu.com/bh/m/detail/sv_13747541941762927257)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

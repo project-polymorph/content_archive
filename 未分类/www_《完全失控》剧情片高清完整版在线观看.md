@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《完全失控》是一部1997年上映的香港剧情片，影片由侯永财导演，讲述了两个关于变态心理的故事，聚焦于性别认同与死亡的主题。第一个故事描绘了一位易性癖男性因爱而自杀的悲惨结局，他在得知爱人的心意无法改变后，选择了结束自己。第二个故事则围绕一位恋尸的女性展开，尽管她深爱着死亡与尸体，但最终却无法承受自己的爱人选择自杀的痛苦。两段故事通过极端的情感描绘了特殊人群在社会中面临的孤立和绝望，也尝试探讨这些被边缘化个体是否能够找到尊重与幸福。电影通过真实且不加修饰的故事情节，令观众反思当今社会中对多元性别者的接受与包容程度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《完全失控》剧情片高清完整版在线观看.md                             |
 | Size            | 7702 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.6ha.net/index.php/vod/detail/id/13992.html](https://www.6ha.net/index.php/vod/detail/id/13992.html)                       |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 1997-10-10                                 |
+| Tags            | 完全失控, 剧情片, 心理剧, 易性癖, 恋尸, 死亡情节, 悲剧, 多元性别, 社会现象, 香港电影                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

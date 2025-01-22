@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一组关于泰国变性人的私密照片，展示了多位变性人的美丽形象。配有的照片展现了变性人在不同场合的风采，强调了她们的自信和魅力。此外，文章可能还涉及对泰国变性人群体的社会接受度和文化背景的讨论，反映了这一群体在社会中的地位以及生活状态。整体内容致力于提升公众对变性人群体的了解与尊重，打破性别刻板印象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_组图：泰国最美变性人私照【3】_-_人民网-国际频道.md                             |
 | Size            | 1139 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2012/1128/c1002-19723864-3.html](http://world.people.com.cn/n/2012/1128/c1002-19723864-3.html)                       |
+| Author          | 光明网                               |
+| Region          | 泰国                               |
+| Date            | 2012-11-28                                 |
+| Tags            | 变性人, 泰国文化, 生活摄影, 社会接受度, 多元性别, 性别认同, 女性形象, 生活方式, 性别表现, 公共讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

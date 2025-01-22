@@ -44,8 +44,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_两“不男不女”患者同日做变性手术各得其“性”-变性-浙江在线-国内新闻.md                             |
 | Size            | 3435 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://china.zjol.com.cn/05china/system/2007/08/25/008737563.shtml](https://china.zjol.com.cn/05china/system/2007/08/25/008737563.shtml)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-08-25                                 |

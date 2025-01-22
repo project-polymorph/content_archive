@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_哪个国家做变性手术最好韩国整容医院好吗.md                             |
 | Size            | 1377 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.verybeaut.com/forums/show/13239](https://m.verybeaut.com/forums/show/13239)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2016-10-01                                 |

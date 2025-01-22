@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位英国顶尖女律师山姆·卡内（Sam Kane）的变性经历。她在1992年经历婚姻破裂后，决定接受变性手术，并于1997年完成了转变，成为萨蔓莎（Samantha）。然而，成为女性后的生活让她感到失望和枯燥，七年后她决定变回男性身份。此后，她又进行了两次手术，最终以巴尔斯·康斯尔（Bar Council）的身份接受自己的身份。文件中详细描绘了她在变性过程中的心理挣扎与对性别认同的思考，以及她与家人、工作之间的矛盾与挑战。她在经历了多次身份的转换后，依然坚定选择做自己，并表达了对女性身份的坚强认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_英顶尖律师花费86万元变性3次称男人生活更容易_-_中文资讯.md                             |
 | Size            | 4008 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.chinadaily.com.cn/2017-04/07/content_28830978.htm](http://world.chinadaily.com.cn/2017-04/07/content_28830978.htm)                       |
+| Author          | 冯煊                               |
+| Region          | 未知                               |
+| Date            | 2017-04-07                                 |
+| Tags            | 变性, 性别认同, 心理挣扎, 变性手术, 英国, 律师, 女性身份, 社会压力, 个体经历, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

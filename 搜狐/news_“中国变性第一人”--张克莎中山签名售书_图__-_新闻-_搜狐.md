@@ -53,8 +53,8 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. [版权所有](https://www.
 |-----------------|----------------------------------------|
 | Filename        | news_“中国变性第一人”--张克莎中山签名售书_图__-_新闻-_搜狐.md                             |
 | Size            | 3964 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/58/37/news214643758.shtml](http://news.sohu.com/58/37/news214643758.shtml)                       |
 | Author          | 储德武，李柳婷                               |
 | Region          | 中国大陆                               |
 | Date            | 2003-10-20                                 |

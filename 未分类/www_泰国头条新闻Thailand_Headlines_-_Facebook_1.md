@@ -25,7 +25,7 @@ All reactions:
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了在泰国曼谷发生的“百妖大战”，这是由人妖自发组织的一场活动，目的是驱逐被认为的不受欢迎的菲律宾人，并且展现人妖群体的团结与力量。文章提到人妖在此次活动中被视为民族英雄，相对比之下，则是负面形象的洋人群体，文章中提及了他们最近在外的争议行为。通过这样的叙述，文件反映了泰国社会对于多元性别群体的复杂态度以及社会中存在的种族和文化冲突。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@ All reactions:
 |-----------------|----------------------------------------|
 | Filename        | www_泰国头条新闻Thailand_Headlines_-_Facebook_1.md                             |
 | Size            | 1048 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=1015801996715191&id=100048562003107&set=a.601755051453223](https://www.facebook.com/photo.php?fbid=1015801996715191&id=100048562003107&set=a.601755051453223)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 泰国, 人妖, 百妖大战, 社会新闻, 多元性别, 文化冲突, 曼谷, 菲律宾, 民族英雄, 人妖组织                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

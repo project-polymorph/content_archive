@@ -111,8 +111,8 @@
 |-----------------|----------------------------------------|
 | Filename        | chinacd_cd,TS,变装,变身,第三性,人妖,伪娘_第20_页_-_变装小说.md                             |
 | Size            | 6096 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinacd.wordpress.com/page/20/](https://chinacd.wordpress.com/page/20/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

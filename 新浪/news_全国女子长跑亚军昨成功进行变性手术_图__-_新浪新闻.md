@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了全国女子长跑亚军田娟成功实施变性手术的事件。手术在西南医院进行，由泌尿科专家主刀，手术历时四小时，过程顺利，专家表示手术后田娟将有可能具备男性性功能，但因为医学原因，未来无法生育。报道中提到田娟在手术前感到很大压力，尤其是来自网上评论的负面声音，同时也表达了希望身边的人能够理解她的期望。文章详述了手术的技术细节及其对田娟生理和心理的影响，并提到这种情况在国内体育界并非孤例，且有可能推动体育比赛对参赛者进行染色体检查。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_全国女子长跑亚军昨成功进行变性手术_图__-_新浪新闻.md                             |
 | Size            | 4461 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://news.sina.com.cn/s/2006-04-19/05079656702.shtml](http://news.sina.com.cn/s/2006-04-19/05079656702.shtml)                       |
+| Author          | 周婷婷                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-04-19                                 |
+| Tags            | 变性手术, 田娟, 运动员, 社会关注, 男性生理特征, 性别认同, 泌尿科手术, 心理压力, 体育界, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

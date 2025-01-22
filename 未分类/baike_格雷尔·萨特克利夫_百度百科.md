@@ -177,8 +177,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_格雷尔·萨特克利夫_百度百科.md                             |
 | Size            | 11090 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E6%A0%BC%E9%9B%B7%E5%B0%94%C2%B7%E8%90%A8%E7%89%B9%E5%85%8B%E5%88%A9%E5%A4%AB/7437445](https://baike.baidu.com/item/%E6%A0%BC%E9%9B%B7%E5%B0%94%C2%B7%E8%90%A8%E7%89%B9%E5%85%8B%E5%88%A9%E5%A4%AB/7437445)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

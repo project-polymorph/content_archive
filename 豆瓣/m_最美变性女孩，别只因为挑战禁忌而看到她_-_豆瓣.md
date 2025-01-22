@@ -339,8 +339,8 @@ Lara是有现实原型的，一位名叫Nora的舞蹈家。
 |-----------------|----------------------------------------|
 | Filename        | m_最美变性女孩，别只因为挑战禁忌而看到她_-_豆瓣.md                             |
 | Size            | 13379 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/12623926/](https://m.douban.com/movie/review/12623926/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

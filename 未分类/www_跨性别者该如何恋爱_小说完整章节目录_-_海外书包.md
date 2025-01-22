@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于跨性别者的小说完整章节目录，题为《跨性别者该如何恋爱》。该小说探索了跨性别群体在爱情和人际关系中的复杂经历，主题涉及情感的真实与挑战。目录中列出了多个章节，每个章节围绕不同的角色与情节展开，倾向于揭示跨性别者在恋爱中所面临的不同问题与内心世界。通过系列事件的描述，书中探讨了个人身份的认同、情感的联系以及社会对跨性别者的看法等议题。该作品不仅是文学创作，也为读者提供了对多元性别群体生活现状的理解，特别是在恋爱与人际关系方面的独特视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别者该如何恋爱_小说完整章节目录_-_海外书包.md                             |
 | Size            | 1142 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.haiwaishubao.com/index/25146/](https://www.haiwaishubao.com/index/25146/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 恋爱, 小说, 人际关系, 性别认同, 情感, 文学创作, 社会问题, 生存现状, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -48,7 +48,7 @@ Pauline在去年11月才宣布加入Mahachon党，现在她在总理候选人中
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了泰国候选人Pauline Ngarmpring的故事，她希望成为泰国历史上第一位跨性别总理。Pauline曾是一个孩子的父亲，并曾在体育界担任高管。目前，她代表Mahachon党参与总理竞选，并倡导更多来自性多样社区的人士参与政治。文章提到，她希望自己的参选能够提升边缘群体的政治代表性，还介绍了她的政党的相关政策，包括推进人权和合法化性工作。尽管泰国对性别转换有一定的接受度，Pauline知道，她可能无法成为总理，但希望能为下一代人铺平道路。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@ Pauline在去年11月才宣布加入Mahachon党，现在她在总理候选人中
 |-----------------|----------------------------------------|
 | Filename        | www_首位跨性别的总理？泰国性多样团体参与大选_SBS_Chinese.md                             |
 | Size            | 2873 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.sbs.com.au/language/chinese/zh-hans/article/we-are-equal-thai-party-candidate-aims-to-be-first-transgender-prime-minister/s3zng5uox](https://www.sbs.com.au/language/chinese/zh-hans/article/we-are-equal-thai-party-candidate-aims-to-be-first-transgender-prime-minister/s3zng5uox)                       |
+| Author          | Yu Xia                               |
+| Region          | 泰国                               |
+| Date            | 2019-02-15                                 |
+| Tags            | 跨性别, 总理候选人, Pauline Ngarmpring, 性多样性, 政治参与, 人权, Mahachon党, 泰国大选, 边缘群体, 性工作合法化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

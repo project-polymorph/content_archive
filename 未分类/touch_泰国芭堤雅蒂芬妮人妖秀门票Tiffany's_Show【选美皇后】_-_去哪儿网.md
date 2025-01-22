@@ -11,9 +11,9 @@
 
 ![供应商说卖点](https://s.qunarzz.com/vacation_react/detail/d_sellingPoint_header.png)
 
-- ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_1.png) 缤纷景点东南亚首个真正的人妖秀表演，选秀举办地
-- ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_2.png) 丰富玩乐去泰国必看的表演之一
-- ![](//s.qunarzz.com/vacation_react/detail/d_sellingPoint_3.png) 贴心赠送场场爆棚，个个美艳，享受视听盛宴
+- ![](https://s.qunarzz.com/vacation_react/detail/d_sellingPoint_1.png) 缤纷景点东南亚首个真正的人妖秀表演，选秀举办地
+- ![](https://s.qunarzz.com/vacation_react/detail/d_sellingPoint_2.png) 丰富玩乐去泰国必看的表演之一
+- ![](https://s.qunarzz.com/vacation_react/detail/d_sellingPoint_3.png) 贴心赠送场场爆棚，个个美艳，享受视听盛宴
 
 ## 套餐选择 { data-search-exclude }
 
@@ -121,8 +121,8 @@
 |-----------------|----------------------------------------|
 | Filename        | touch_泰国芭堤雅蒂芬妮人妖秀门票Tiffany's_Show【选美皇后】_-_去哪儿网.md                             |
 | Size            | 4777 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://touch.dujia.qunar.com/p/detail?id=1133660815&tid=3973557385&et=gonglue_ddy_country&bd_source=travel_touch](https://touch.dujia.qunar.com/p/detail?id=1133660815&tid=3973557385&et=gonglue_ddy_country&bd_source=travel_touch)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

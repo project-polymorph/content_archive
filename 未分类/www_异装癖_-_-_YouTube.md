@@ -79,7 +79,7 @@ Shorts
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件整理了一系列与异装癖相关的YouTube视频及访谈内容，探讨异装癖的不同面向，其中包括个体的生活故事、心理学视角、时尚搭配以及社会对异装癖的认知等。文件中列出了多个视频，内容涵盖从异装癖者的真实访谈到心理健康的讨论，及相关时尚搭配短视频，展示了异装癖在现代社会中的多样性和复杂性。视频包括了异装癖者的故事，如一位男士在与妻子交流自己的异装经历，以及对异装癖的心理分析。此外，本文件还包括公众人物的相关事件和讨论，反映异装癖在公众和媒体中的表现和接受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -90,12 +90,12 @@ Shorts
 |-----------------|----------------------------------------|
 | Filename        | www_异装癖_-_-_YouTube.md                             |
 | Size            | 3259 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/hashtag/%E5%BC%82%E8%A3%85%E7%99%96](https://www.youtube.com/hashtag/%E5%BC%82%E8%A3%85%E7%99%96)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异装癖, 跨性别, 心理健康, 生活故事, 视频访谈, 社会认知, 时尚搭配, 个体经历, 文化表达, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -169,7 +169,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位名为李凯丽（化名）的男变女变性人的生命故事，细腻而深刻地展示了她在变性过程中的内心挣扎与社会压力。李凯丽在14岁时发现自己对性别认同的困惑，在父亲的忽视和家庭变故中，她悄悄开始服用雌性激素，渴望能通过手术改变自己的性别。最终，在没有家人的支持下，她前往泰国接受变性手术。然而，手术后的生活并没有她所设想的那样美好，她遭遇了身份认同的问题，乃至于在职业选择和人际关系中都感受到巨大的压力。尤其是她在工作中遭遇的性侵犯，更加深了她的痛苦与无助。李凯丽的经历揭示了变性人在人生道路上所面临的复杂情感与现实挑战，同时也反映了社会对性别多样性认同的不理解与歧视。她希望借此故事提醒其他人，在做出人生重大决定前，务必考虑后果。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -180,12 +180,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男变女变性人的故事_-_在线情感咨询-帮助您挽回TA.md                             |
 | Size            | 6213 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.520qg.com/info-7-51682-0.html](https://www.520qg.com/info-7-51682-0.html)                       |
+| Author          | 李凯丽（化名）                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-02-13                                 |
+| Tags            | 男变女, 变性人, 性别认同, 心理健康, 生命故事, 性别多样性, 社会压力, 自我认知, 性侵犯, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

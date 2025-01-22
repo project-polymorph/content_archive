@@ -287,8 +287,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_片类【禁恋异色】_-_豆瓣.md                             |
 | Size            | 13680 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/674554/](https://m.douban.com/doulist/674554/)                       |
 | Author          | 黑暗之光                               |
 | Region          | 未知                               |
 | Date            | 2020-04-11                                 |

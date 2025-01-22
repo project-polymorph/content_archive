@@ -39,8 +39,8 @@ Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 |-----------------|----------------------------------------|
 | Filename        | lawdata_認識跨性別-_元照出版,_月旦知識庫.md                             |
 | Size            | 2303 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://lawdata.com.tw/tw/detail.aspx?no=233106](http://lawdata.com.tw/tw/detail.aspx?no=233106)                       |
 | Author          | 林彥慈、王紫菡、成令方                               |
 | Region          | 台湾                               |
 | Date            | 2015-05-01                                 |

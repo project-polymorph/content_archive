@@ -73,7 +73,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为对书籍《不可逆转的伤害：引诱我们女儿的跨性别热潮》的书评，详细探讨了西方社会中跨性别在青少年尤其是少女中迅速蔓延的现象。作者Sharon James通过多种案例研究，揭示了跨性别潮流背后的文化、社会和心理因素，指出这一现象对家庭、父母及年轻女性的潜在伤害。文中提到的书籍原作者亚比该·夏勒（Abigail Shrier）对性别焦虑症的增加进行了深入调查，并对教育工作者、心理治疗师及网络红人等角色的影响进行了批判，强调父母在这些变革下的困惑和无助。书中还讨论了社交媒体对青少年心理身份认同的影响，以及如何有效应对这一意识形态的挑战。文章最后提供了对家长的建议，呼吁他们关注并抵制有害意识形态对孩子的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_引诱我们女儿的跨性别热潮_-_福音联盟.md                             |
 | Size            | 9551 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tgcchinese.org/review/irreversible-damage-abigail-shrier](https://www.tgcchinese.org/review/irreversible-damage-abigail-shrier)                       |
+| Author          | Sharon James                               |
+| Region          | 未知                               |
+| Date            | 2023-08-15                                 |
+| Tags            | 书评, 跨性别, 性别认同, 青春期, 教育体系, 社会心理, 网络文化, 家庭关系, 医疗伦理, 女性主义                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

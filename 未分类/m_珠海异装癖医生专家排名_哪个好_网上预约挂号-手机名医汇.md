@@ -110,8 +110,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_珠海异装癖医生专家排名_哪个好_网上预约挂号-手机名医汇.md                             |
 | Size            | 3599 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.mingyihui.net/yisheng/jb_YiZhuangPi_ZhuHai.html](https://m.mingyihui.net/yisheng/jb_YiZhuangPi_ZhuHai.html)                       |
 | Author          | 名医汇                               |
 | Region          | 珠海, 中国                               |
 | Date            | 2023-01-01                                 |

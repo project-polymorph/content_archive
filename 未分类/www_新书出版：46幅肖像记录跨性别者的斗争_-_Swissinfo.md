@@ -108,7 +108,7 @@ _\*__星号表示所有形式的身份转换_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报告了一本新书的出版，书名为《跨性别*》，该书通过46幅肖像记录跨性别者的斗争与境遇。文章内容详细介绍了书中各位跨性别者的故事与心理历程，强调了跨性别者所面对的歧视、痛苦及求生的勇气。通过这些生动的故事，书籍力图揭示跨性别者的真实经历以及在社会中所遭遇的种种困难。作者凯蒂·罗米引用跨性别者的亲身言论，如Ryan的痛苦挣扎，以及Lynn Bertholet所强调的跨性别者面临的社会接受度的低下。文件中提到的观察反映了跨性别者在工作、医疗及社交等领域的困境，特别是在跨性别纪念日的背景下，强调了社会对跨性别者的关注及即将需要的变革。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,12 +119,12 @@ _\*__星号表示所有形式的身份转换_
 |-----------------|----------------------------------------|
 | Filename        | www_新书出版：46幅肖像记录跨性别者的斗争_-_Swissinfo.md                             |
 | Size            | 8929 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.swissinfo.ch/chi/society/%E6%96%B0%E4%B9%A6%E5%87%BA%E7%89%88-46%E5%B9%85%E8%82%96%E5%83%8F%E8%AE%B0%E5%BD%95%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E6%96%97%E4%BA%89/46193702](https://www.swissinfo.ch/chi/society/%E6%96%B0%E4%B9%A6%E5%87%BA%E7%89%88-46%E5%B9%85%E8%82%96%E5%83%8F%E8%AE%B0%E5%BD%95%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E6%96%97%E4%BA%89/46193702)                       |
+| Author          | 凯蒂·罗米                               |
+| Region          | 未知                               |
+| Date            | 2020-12-20                                 |
+| Tags            | 跨性别, 肖像, 斗争, 痛苦, 社会接受度, 医疗资源, 歧视, 性别认同, 跨性别恐惧, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

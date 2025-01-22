@@ -73,7 +73,7 @@ E-mail: chinatoday@263.net
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了变性手术专家夏兆骥教授的职业生涯和在变性手术领域的贡献。文章首先回顾了性别转换症的发病率并指出，夏教授在中国率先开展了变性手术，尤其强调了1992年7月14日成功实施的首例男女性器官互换手术，该手术历时19小时，创造了医学史上的重要里程碑。夏教授分享了他在手术和医治易性癖患者过程中的经验，强调了患者的心理状态和社会对变性人群的理解和支持的重要性。通过病人的真实经历，文章探讨了变性手术背后的伦理、法律和社会问题，以及夏教授对变性人群的关爱和建议，例如手术前需进行的心理评估和严格的文件审核。此外，夏教授对于手术风险的认知和术后支持也在文中得到了说明。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -84,12 +84,12 @@ E-mail: chinatoday@263.net
 |-----------------|----------------------------------------|
 | Filename        | www_变性手术专家夏兆骥教授_-_China_today.md                             |
 | Size            | 10942 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.chinatoday.com.cn/china/20024/bianxing.htm](http://www.chinatoday.com.cn/china/20024/bianxing.htm)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 夏兆骥, 性别转换, 易性癖, 医学整形, 手术成功案例, 心理治疗, 社会支持, 医学伦理, 变性人群                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

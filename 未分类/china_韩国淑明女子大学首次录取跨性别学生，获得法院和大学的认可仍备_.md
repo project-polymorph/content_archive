@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_韩国淑明女子大学首次录取跨性别学生，获得法院和大学的认可仍备_.md                             |
 | Size            | 6562 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://china.hani.co.kr/arti/politics/7682.html](http://china.hani.co.kr/arti/politics/7682.html)                       |
 | Author          | 姜载求                               |
 | Region          | 韩国                               |
 | Date            | 2020-02-03                                 |

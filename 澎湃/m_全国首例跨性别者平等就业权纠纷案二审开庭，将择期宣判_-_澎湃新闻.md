@@ -62,8 +62,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_全国首例跨性别者平等就业权纠纷案二审开庭，将择期宣判_-_澎湃新闻.md                             |
 | Size            | 4203 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_7600904](https://m.thepaper.cn/newsDetail_forward_7600904)                       |
 | Author          | 澎湃新闻                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-05-28                                 |

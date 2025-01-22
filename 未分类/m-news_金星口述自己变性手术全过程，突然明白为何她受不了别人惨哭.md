@@ -151,8 +151,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m-news_金星口述自己变性手术全过程，突然明白为何她受不了别人惨哭.md                             |
 | Size            | 16871 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m-news.artron.net/news/20240125/n767052.html](https://m-news.artron.net/news/20240125/n767052.html)                       |
 | Author          | 艺术联盟                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-06-29                                 |

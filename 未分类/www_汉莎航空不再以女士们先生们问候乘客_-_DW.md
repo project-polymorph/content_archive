@@ -80,7 +80,7 @@ Remaining Time -0:00
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了汉莎航空即将实施的性别中立问候语，正式宣布不再以传统的‘女士们，先生们’问候乘客，转而采用‘亲爱的乘客’、‘早上好’等性别中立的表达。这一政策不仅适用于汉莎航空，还将推广至其旗下的其他航空公司，如奥地利航空和瑞士航空。汉莎公司的发言人表示，这项举措反映了公司在多样化道路上的坚定立场，旨在为所有性别认同的乘客营造一个更具包容性的环境。同时，相关专家指出，这虽然是一个象征性的改变，但更重要的是，企业应对性别不平等和歧视采取实质性行动，推动真正的性别平等。文章中提到，越来越多的机构和公司在推动性别包容，联合国和欧盟也在倡导使用性别中立的词汇，目的在于消除潜在的偏见和歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,12 +91,12 @@ Remaining Time -0:00
 |-----------------|----------------------------------------|
 | Filename        | www_汉莎航空不再以女士们先生们问候乘客_-_DW.md                             |
 | Size            | 4699 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.dw.com/zh/%E6%B1%89%E8%8E%8E%E8%88%AA%E7%A9%BA%E4%B8%8D%E5%86%8D%E4%BB%A5%E5%A5%B3%E5%A3%AB%E4%BB%AC-%E5%85%88%E7%94%9F%E4%BB%AC%E9%97%AE%E5%80%99%E4%B9%98%E5%AE%A2/a-58263884](https://www.dw.com/zh/%E6%B1%89%E8%8E%8E%E8%88%AA%E7%A9%BA%E4%B8%8D%E5%86%8D%E4%BB%A5%E5%A5%B3%E5%A3%AB%E4%BB%AC-%E5%85%88%E7%94%9F%E4%BB%AC%E9%97%AE%E5%80%99%E4%B9%98%E5%AE%A2/a-58263884)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-07-14                                 |
+| Tags            | 性别中立, 汉莎航空, 多元性别, 性别包容, 航空公司, 企业文化, 性别平等, 社会政策, 包容性语言, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_日本伪娘泛滥成文化新特色35%青年男性每天修眉_-_中国之声.md                             |
 | Size            | 2497 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://china.cnr.cn/guantianxia/201208/t20120814_510583356.shtml](http://china.cnr.cn/guantianxia/201208/t20120814_510583356.shtml)                       |
 | Author          | 中国广播网                               |
 | Region          | 日本                               |
 | Date            | 2012-08-14                                 |

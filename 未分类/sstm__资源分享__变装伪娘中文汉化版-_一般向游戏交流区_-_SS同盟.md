@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sstm__资源分享__变装伪娘中文汉化版-_一般向游戏交流区_-_SS同盟.md                             |
 | Size            | 2347 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sstm.moe/topic/112744-%E5%8F%98%E8%A3%85%E4%BC%AA%E5%A8%98%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96%E7%89%88/](https://sstm.moe/topic/112744-%E5%8F%98%E8%A3%85%E4%BC%AA%E5%A8%98%E4%B8%AD%E6%96%87%E6%B1%89%E5%8C%96%E7%89%88/)                       |
 | Author          | 扑家汉化组                               |
 | Region          | 未知                               |
 | Date            | 2015-10-26                                 |

@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_就回家_-_豆瓣.md                             |
 | Size            | 1571 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/4031496/](https://m.douban.com/doulist/4031496/)                       |
 | Author          | allstar霸天虎                               |
 | Region          | 未知                               |
 | Date            | 2014-05-10                                 |

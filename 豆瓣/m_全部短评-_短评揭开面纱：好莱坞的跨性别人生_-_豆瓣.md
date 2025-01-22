@@ -139,8 +139,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_全部短评-_短评揭开面纱：好莱坞的跨性别人生_-_豆瓣.md                             |
 | Size            | 9421 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/subject/34907415/comments](https://m.douban.com/movie/subject/34907415/comments)                       |
 | Author          | 豆瓣网友                               |
 | Region          | 美国                               |
 | Date            | 2020-01-27                                 |

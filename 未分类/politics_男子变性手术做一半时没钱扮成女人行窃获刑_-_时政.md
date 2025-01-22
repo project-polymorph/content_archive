@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | politics_男子变性手术做一半时没钱扮成女人行窃获刑_-_时政.md                             |
 | Size            | 1448 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://politics.people.com.cn/n/2013/0131/c70731-20383703.html](http://politics.people.com.cn/n/2013/0131/c70731-20383703.html)                       |
 | Author          | 京华时报                               |
 | Region          | 中国大陆                               |
 | Date            | 2013-01-31                                 |

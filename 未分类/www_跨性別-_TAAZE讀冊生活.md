@@ -81,7 +81,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档收录了与跨性别相关的书籍和资料，主要分为书籍列表部分和相关搜索部分。文中提供了多本涉及跨性别主题的书籍，部分书籍包括《性别多元宇宙：跨性别生命故事集》《台灣跨性别前史》等，详细说明每本书的出版日期、作者和出版社。这些书籍涵盖了性别认同、跨性别者的真实故事以及更多关于跨性别者生存现状的相关议题。文件鼓励读者通过链接获取这些书籍，并为强化对跨性别议题的关注提供了丰富的资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,12 +92,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別-_TAAZE讀冊生活.md                             |
 | Size            | 6823 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E8%B7%A8%E6%80%A7%E5%88%A5&srsltid=AfmBOoqlChPnp584r2eLWmwy0h-HiUVdCd6q191P3YxP27qMf4OKJNR8](https://www.taaze.tw/rwd_searchResult.html?keyType%5B%5D=0&keyword%5B%5D=%E8%B7%A8%E6%80%A7%E5%88%A5&srsltid=AfmBOoqlChPnp584r2eLWmwy0h-HiUVdCd6q191P3YxP27qMf4OKJNR8)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 书籍推荐, 生命故事, 法律政策, 医疗资源, 社会环境, 真实记录, 文学艺术, 性别多元化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

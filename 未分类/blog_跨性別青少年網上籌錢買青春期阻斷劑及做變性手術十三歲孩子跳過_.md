@@ -88,8 +88,8 @@ Photo by Taylor Deas-Melesh on Unsplash
 |-----------------|----------------------------------------|
 | Filename        | blog_跨性別青少年網上籌錢買青春期阻斷劑及做變性手術十三歲孩子跳過_.md                             |
 | Size            | 9697 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.scs.org.hk/2022/02/21/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E7%B6%B2%E4%B8%8A%E7%B1%8C%E9%8C%A2%E8%B2%B7%E9%9D%92%E6%98%A5%E6%9C%9F%E9%98%BB%E6%96%B7%E5%8A%91%E5%8F%8A%E5%81%9A%E8%AE%8A%E6%80%A7%E6%89%8B/](https://blog.scs.org.hk/2022/02/21/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E7%B6%B2%E4%B8%8A%E7%B1%8C%E9%8C%A2%E8%B2%B7%E9%9D%92%E6%98%A5%E6%9C%9F%E9%98%BB%E6%96%B7%E5%8A%91%E5%8F%8A%E5%81%9A%E8%AE%8A%E6%80%A7%E6%89%8B/)                       |
 | Author          | 梁海欣（项目干事）                               |
 | Region          | 香港                               |
 | Date            | 2022-02-21                                 |

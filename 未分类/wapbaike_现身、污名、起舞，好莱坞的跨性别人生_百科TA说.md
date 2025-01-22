@@ -281,7 +281,9 @@ GLAAD媒体主管尼克·亚当斯（Nick Adams）说，现实生活中确实有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于好莱坞跨性别人生的研究与探讨，揭示了跨性别者在电影行业中所面临的挑战与偏见。通过对跨性别特征的呈现及其在大众文化中的反映，文章分析了好莱坞如何通过角色塑造影响大众对跨性别者的认知。文中指出，许多跨性别角色在电影中仍被塑造成戏谑或怪诞的形象，且经常由顺性别男性演员扮演。这种现象不仅传递了对跨性别者的误解，还产生了社会偏见。
+
+文章提到纪录片《揭开面纱：好莱坞的跨性别人生》，通过多位跨性别电影人的视角，展示了好莱坞经典电影中跨性别者的呈现及其历史背景。作者通过多个具体例子讨论了性别认同、社会接受度和跨性别者生存现状等问题，并强调了正面展现跨性别角色在推动社会变革中的重要性。此外，文章还考虑到跨性别者在求职与生活中的困难，指出好莱坞应承担起教育公众的责任，以改善这种情况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -292,12 +294,12 @@ GLAAD媒体主管尼克·亚当斯（Nick Adams）说，现实生活中确实有
 |-----------------|----------------------------------------|
 | Filename        | wapbaike_现身、污名、起舞，好莱坞的跨性别人生_百科TA说.md                             |
 | Size            | 15631 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wapbaike.baidu.com/tashuo/browse/content?id=82c735fad6e0692a5af719d3](https://wapbaike.baidu.com/tashuo/browse/content?id=82c735fad6e0692a5af719d3)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 好莱坞, 影视文化, 社会偏见, 性别认同, 纪录片, 性别表现, 跨性别者经历, 媒体表现, 社会变革                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

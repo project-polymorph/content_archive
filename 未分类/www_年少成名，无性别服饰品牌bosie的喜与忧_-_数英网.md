@@ -229,7 +229,7 @@ Bosie创始人刘光耀曾这样宣明：
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了无性别服饰品牌bosie的崛起及其对性别平等的贡献。文中首先回顾了服装设计历史中的性别角色问题，引用了山本耀司的观点，提出质疑‘谁决定了男人和女人的着装应该不一样？’。通过讲述bosie的创建和发展历程，分析了该品牌如何通过无性别主义设计模糊性别着装的界限，并迅速在市场上获得认可。文章进一步探讨了社会文化变革下消费者对无性别服饰的需求，以及品牌如何在设计理念、产品定位和市场营销上与时俱进，为不同性别和年龄的消费者提供更多选择。同时，bosie通过独特的设计风格和个性化的表达，回应了年轻一代摆脱性别标签的需求，展现了现代社会对性别认同的更广泛理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -240,12 +240,12 @@ Bosie创始人刘光耀曾这样宣明：
 |-----------------|----------------------------------------|
 | Filename        | www_年少成名，无性别服饰品牌bosie的喜与忧_-_数英网.md                             |
 | Size            | 23921 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.digitaling.com/articles/892912.html](https://www.digitaling.com/articles/892912.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-02-16                                 |
+| Tags            | 无性别服饰, 性别平等, 时尚设计, 品牌发展, 社会文化变革, 消费者需求, 产品设计, 市场营销, 个性化表达, 青年文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

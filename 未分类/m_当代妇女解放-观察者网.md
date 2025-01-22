@@ -82,8 +82,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_当代妇女解放-观察者网.md                             |
 | Size            | 3341 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.guancha.cn/dangdaifunvjiefang](https://m.guancha.cn/dangdaifunvjiefang)                       |
 | Author          | 观察者网                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-03-08                                 |

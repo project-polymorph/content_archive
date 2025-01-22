@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_忽男忽女_-_豆瓣.md                             |
 | Size            | 9500 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/7432553/](https://m.douban.com/movie/review/7432553/)                       |
 | Author          | 布宜諾斯                               |
 | Region          | 美国                               |
 | Date            | 1953-09-30                                 |

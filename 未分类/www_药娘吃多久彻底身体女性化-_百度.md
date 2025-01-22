@@ -75,7 +75,7 @@ _版权归原作者所有。_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了药娘（即长期服用激素药物的变性女性）在身体女性化过程中的经验与影响。主要讨论了药物的服用周期、效果及可能的身体变化，依托实际案例和访谈进行了深入剖析。此外，文中还有关于相关视频和讨论的集合，反映了药娘群体在社会中的现状与挑战，包括来自医疗、法律和心理层面的支持与困境。该主题旨在提升公众对药娘群体的认知及理解，推动对其更为人性化的关注与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,12 +86,12 @@ _版权归原作者所有。_
 |-----------------|----------------------------------------|
 | Filename        | www_药娘吃多久彻底身体女性化-_百度.md                             |
 | Size            | 4009 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&from=1086k&src=https%3A%2F%2Fm.baidu.com%2Fsf%3Fpd%3Dvideo%26word%3D%E8%8D%AF%E5%A8%98%E5%90%83%E5%A4%9A%E4%B9%85%E5%BD%BB%E5%BA%95%E8%BA%AB%E4%BD%93%E5%A5%B3%E6%80%A7%E5%8C%96%26tn%3Dvsearch%26sa%3Dvs_rs_video%26lid%3D10402248648411364906%26ms%3D1%26atn%3Dindex&sa=vs_rs_video&word=%E8%8D%AF%E5%A8%98%E5%90%83%E5%A4%9A%E4%B9%85%E5%BD%BB%E5%BA%95%E8%BA%AB%E4%BD%93%E5%A5%B3%E6%80%A7%E5%8C%96&atn=index&ms=1&rsf=undefined](https://www.baidu.com/sf/vsearch?pd=video&tn=vsearch&from=1086k&src=https%3A%2F%2Fm.baidu.com%2Fsf%3Fpd%3Dvideo%26word%3D%E8%8D%AF%E5%A8%98%E5%90%83%E5%A4%9A%E4%B9%85%E5%BD%BB%E5%BA%95%E8%BA%AB%E4%BD%93%E5%A5%B3%E6%80%A7%E5%8C%96%26tn%3Dvsearch%26sa%3Dvs_rs_video%26lid%3D10402248648411364906%26ms%3D1%26atn%3Dindex&sa=vs_rs_video&word=%E8%8D%AF%E5%A8%98%E5%90%83%E5%A4%9A%E4%B9%85%E5%BD%BB%E5%BA%95%E8%BA%AB%E4%BD%93%E5%A5%B3%E6%80%A7%E5%8C%96&atn=index&ms=1&rsf=undefined)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 药娘, 身体女性化, 激素疗法, 多元性别, 性别认同, 生命故事, 社会现状, 医疗资源, 视频分享, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

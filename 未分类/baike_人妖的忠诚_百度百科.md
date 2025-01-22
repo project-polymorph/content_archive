@@ -124,8 +124,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_人妖的忠诚_百度百科.md                             |
 | Size            | 7344 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E7%9A%84%E5%BF%A0%E8%AF%9A/14593686](https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E7%9A%84%E5%BF%A0%E8%AF%9A/14593686)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

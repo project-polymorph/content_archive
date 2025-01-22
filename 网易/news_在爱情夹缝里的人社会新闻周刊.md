@@ -89,7 +89,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为社会新闻周刊的一篇报道，着重讨论了变性人在社会中的经历与挑战，揭示了从歧视到逐步接纳的社会演变。文章开头指出，变性人逐渐能够在公众面前发声，例举了变性人雷莫的悲剧故事，讲述了他因为社会压力和内心挣扎而选择自杀。这一案例为文章增添了情感深度，让读者对变性人所经历的心理痛苦有更深入的了解。同时，在对变性人的描写中，提及了金星等知名变性人的故事，展现了变性个体的坚强与追求理想的决心。文章还探讨了变性所面临的社会和伦理问题，例如变性人的婚姻状况及对社会传统道德的挑战。整篇报道通过多个变性人的故事，呈现了他们在寻求身份认同和社会接纳中的挣扎与努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,12 +100,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_在爱情夹缝里的人社会新闻周刊.md                             |
 | Size            | 11734 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://news.163.com/special/b/bianxing040930.html](http://news.163.com/special/b/bianxing040930.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-09-30                                 |
+| Tags            | 变性人, 社会接纳, 生活故事, 心理健康, 人权, 性别认同, 社会新闻, 伦理问题, 个人经历, 法律问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

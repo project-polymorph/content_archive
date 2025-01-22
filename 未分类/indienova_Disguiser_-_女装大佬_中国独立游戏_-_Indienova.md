@@ -163,8 +163,8 @@ _邮箱：_**qx18917917172@gmail.com**
 |-----------------|----------------------------------------|
 | Filename        | indienova_Disguiser_-_女装大佬_中国独立游戏_-_Indienova.md                             |
 | Size            | 4314 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://indienova.com/g/disguiser](https://indienova.com/g/disguiser)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

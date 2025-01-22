@@ -21,7 +21,7 @@ Copyright © 2000 - 2025 XINHUANET.com All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了丹麦议会卫生委员会于2016年5月31日的决定，即将“想变性”或“跨性别”这一精神状态从丹麦卫生部《临床疾病指南》中移除，认为把它视为精神疾病是不恰当的。文章提到了心理上无法认同自身生理性别的个体，并强调他们有转变生理性别的需求方式，如手术或变装。它还引用了卫生委员会副主席弗莱明·默勒·莫滕森的话，以及对丹麦艺术家莉莉·易贝（埃纳尔·韦格纳）的历史背景的介绍。莉莉·易贝被认为是首位成功接受变性手术的女性，并提及了可能影响的法律法规变化及未来世界卫生组织的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -32,12 +32,12 @@ Copyright © 2000 - 2025 XINHUANET.com All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_“想变性”在丹麦不再是病_-_新华网.md                             |
 | Size            | 1566 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2016-06/03/c_129036441.htm](http://www.xinhuanet.com/world/2016-06/03/c_129036441.htm)                       |
+| Author          | 新华社                               |
+| Region          | 丹麦                               |
+| Date            | 2016-06-03                                 |
+| Tags            | 性别, 跨性别, 变性, 丹麦, 莉莉·易贝, 埃纳尔·韦格纳, 精神疾病, 卫生政策, 性别认同, 世界卫生组织                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -136,8 +136,8 @@ Petrus出生在马来西亚，是第三代华裔。
 |-----------------|----------------------------------------|
 | Filename        | ici_【专访】从快乐的神父到心理治疗师，Petrus_Tung：爱不分等级.md                             |
 | Size            | 8892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1899840/-%E4%B8%93%E8%AE%BF-%E4%BB%8E%E5%BF%AB%E4%B9%90%E7%9A%84%E7%A5%9E%E7%88%B6%E5%88%B0%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E5%B8%88-petrus-tung-%E7%88%B1%E4%B8%8D%E5%88%86%E7%AD%89%E7%BA%A7](https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1899840/-%E4%B8%93%E8%AE%BF-%E4%BB%8E%E5%BF%AB%E4%B9%90%E7%9A%84%E7%A5%9E%E7%88%B6%E5%88%B0%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E5%B8%88-petrus-tung-%E7%88%B1%E4%B8%8D%E5%88%86%E7%AD%89%E7%BA%A7)                       |
 | Author          | Yan Liang                               |
 | Region          | 加拿大                               |
 | Date            | 2022-07-21                                 |

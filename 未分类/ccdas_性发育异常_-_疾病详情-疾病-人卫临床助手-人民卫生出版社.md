@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ccdas_性发育异常_-_疾病详情-疾病-人卫临床助手-人民卫生出版社.md                             |
 | Size            | 4400 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ccdas.pmphai.com/appdisease/toPcDetail?sessionId=&knowledgeLibPrefix=disease&id=14348](https://ccdas.pmphai.com/appdisease/toPcDetail?sessionId=&knowledgeLibPrefix=disease&id=14348)                       |
 | Author          | 田秦杰; 葛秦生                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

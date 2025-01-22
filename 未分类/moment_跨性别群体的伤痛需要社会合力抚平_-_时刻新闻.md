@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | moment_跨性别群体的伤痛需要社会合力抚平_-_时刻新闻.md                             |
 | Size            | 4357 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://moment.rednet.cn/content/2021/11/06/10370904.html](https://moment.rednet.cn/content/2021/11/06/10370904.html)                       |
 | Author          | 吴雨林（湖南师范大学）                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-11-06                                 |

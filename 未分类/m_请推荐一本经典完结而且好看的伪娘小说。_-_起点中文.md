@@ -58,8 +58,8 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 |-----------------|----------------------------------------|
 | Filename        | m_请推荐一本经典完结而且好看的伪娘小说。_-_起点中文.md                             |
 | Size            | 1961 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.qidian.com/ask/qurwzvxcl](https://m.qidian.com/ask/qurwzvxcl)                       |
 | Author          | 白衣煮茶                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-09-13                                 |

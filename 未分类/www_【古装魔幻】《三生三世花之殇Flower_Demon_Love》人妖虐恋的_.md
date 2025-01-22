@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇解析古装魔幻剧《三生三世花之殇 Flower Demon Love》的文章，探讨了剧中人妖之间的虐恋关系及其悲惨命运。文章引用了多位作者的观点，认为这一故事呈现了多元性别群体面临的复杂情感和社会压力。故事的背景设定在多个转世的情境中，探讨了爱与痛苦交织的主题，展示了人妖在各种文化和社会环境中的生存状态与挑战。文章还附有视频链接供读者进一步了解这一主题，并讨论了该剧在观众中的反响和影响。虽然作者等信息尚不明确，但通过对剧集的深入分析，揭示了这一作品对多元性别及其相关议题的重要性和影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【古装魔幻】《三生三世花之殇Flower_Demon_Love》人妖虐恋的_.md                             |
 | Size            | 1037 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=_0T4V-q5Xwc](https://www.youtube.com/watch?v=_0T4V-q5Xwc)                       |
+| Author          | 金泊含 / 沐岚 / 梁俊一                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 古装, 魔幻, 人妖, 虐恋, 多元性别, 视频分析, 剧集探讨, 文化反思, 情感困扰, 社会压力                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

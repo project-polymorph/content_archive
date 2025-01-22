@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国人妖投怀送抱邀开房乘机洗劫中国游客财物_图__-_环球网.md                             |
 | Size            | 2699 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huanqiu.com/article/9CaKrnJV1uC](https://m.huanqiu.com/article/9CaKrnJV1uC)                       |
 | Author          | 环球网                               |
 | Region          | 中国                               |
 | Date            | 2023-04-26                                 |

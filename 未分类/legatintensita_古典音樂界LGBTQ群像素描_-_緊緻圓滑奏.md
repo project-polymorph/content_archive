@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | legatintensita_古典音樂界LGBTQ群像素描_-_緊緻圓滑奏.md                             |
 | Size            | 14248 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://legatintensita.wordpress.com/2020/06/30/musician-lgbtq/](https://legatintensita.wordpress.com/2020/06/30/musician-lgbtq/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2020-06-30                                 |

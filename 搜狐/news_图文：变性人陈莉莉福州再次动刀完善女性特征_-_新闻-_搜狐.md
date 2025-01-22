@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_图文：变性人陈莉莉福州再次动刀完善女性特征_-_新闻-_搜狐.md                             |
 | Size            | 1236 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.sohu.com/20051201/n227636422.shtml](https://news.sohu.com/20051201/n227636422.shtml)                       |
 | Author          | 搜狐新闻中心                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-12-01                                 |

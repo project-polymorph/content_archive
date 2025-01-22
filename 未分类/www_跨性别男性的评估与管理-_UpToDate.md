@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《跨性别男性的评估与管理》旨在为医护人员提供跨性别男性的评估和管理的相关信息，包括对性别认同和出生性别不一致的理解。文章介绍了不同的治疗选择，比如激素治疗和性别确认手术，以及心理支持与社会转型的重要性。文件中提到，跨性别者的管理应遵循世界跨性别健康专业协会（WPATH）及其他医学机构的最新指南，以确保患者获得专业评估和治疗。指南强调了多学科团队合作的重要性，建议医疗人员与心理健康专业人士共同做出治疗决策。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别男性的评估与管理-_UpToDate.md                             |
 | Size            | 6102 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management](https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management)                       |
+| Author          | Vin Tangpricha, MD, PhD, Joshua D Safer, MD, FACP, FACE                               |
+| Region          | 未知                               |
+| Date            | 2023-06-30                                 |
+| Tags            | 跨性别, 性别认同, 激素治疗, 性别确认手术, 医学指南, 心理支持, 社会转型, 多学科团队, 医疗资源, 跨性别男性的评估                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -89,8 +89,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_9_-_读书笔记-_魁拔之书-_豆瓣.md                             |
 | Size            | 6503 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/annotation/19057954/](https://book.douban.com/annotation/19057954/)                       |
 | Author          | 伊谢尔伦的风                               |
 | Region          | 未知                               |
 | Date            | 2012-06-18                                 |

@@ -197,8 +197,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_对T_友好的普及：性别与性别认同-_日记-_豆瓣.md                             |
 | Size            | 25200 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/770194874/](https://m.douban.com/note/770194874/)                       |
 | Author          | ding 🏳️‍⚧️🌈                               |
 | Region          | 未知                               |
 | Date            | 2020-07-10                                 |

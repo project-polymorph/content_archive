@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_意大利通过同性权益法案，但LGBT团体还是不开心-_日记-_豆瓣.md                             |
 | Size            | 5110 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/541749260/](https://m.douban.com/note/541749260/)                       |
 | Author          | 环境卫士小飞熊                               |
 | Region          | 意大利                               |
 | Date            | 2016-02-26                                 |

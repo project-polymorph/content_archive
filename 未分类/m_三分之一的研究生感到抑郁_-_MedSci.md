@@ -47,8 +47,8 @@ Evans 等人称，该研究最大的局限是，焦虑和抑郁的学生可能�
 |-----------------|----------------------------------------|
 | Filename        | m_三分之一的研究生感到抑郁_-_MedSci.md                             |
 | Size            | 3191 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.medsci.cn/article/show_article.do?id=c4d4133861e6](https://m.medsci.cn/article/show_article.do?id=c4d4133861e6)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2018-03-30                                 |

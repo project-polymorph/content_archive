@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了新西兰变性举重运动员劳蕾尔·哈伯德参加东京奥运会女子举重比赛的争议。文章指出哈伯德是奥运会历史上第一位以变性身份参赛的选手，她将与中国运动员李雯雯同级别比赛，引发了对性别公平性及运动员竞争力的广泛讨论。文中提到哈伯德以往在男子身份下的举重成绩，并分析了国际奥委会的相关规定，指出虽然哈伯德在比赛前12个月内的睾酮水平符合规定，但其生理优势仍然可能影响公平性。此外，文章还提及了举重界对此事件的反响，包括来自澳大利亚和美国举重协会的不同观点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男人变女人不公平！奥运会第一位变性选手参加女子举重将和中国_.md                             |
 | Size            | 2820 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=389658](https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=389658)                       |
+| Author          | 上观奥运报道组                               |
+| Region          | 中国                               |
+| Date            | 2021-07-26                                 |
+| Tags            | 变性运动员, 东京奥运会, 劳蕾尔·哈伯德, 李雯雯, 女子举重, 性别公平, 国际奥委会, 体育争议, 跨性别, 运动员竞赛                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

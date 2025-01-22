@@ -34,8 +34,8 @@ Powered by **SP Project** v1.0 © 2010-2019 Time 0.002176 second(s),query:2 Gzip
 |-----------------|----------------------------------------|
 | Filename        | bbs__RPG汉化_性转幻想少女战记：TFFN！精修完整汉化版+全CG_1.2G_.md                             |
 | Size            | 491 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.north-plus.net/simple/index.php?t846003.html](https://bbs.north-plus.net/simple/index.php?t846003.html)                       |
 | Author          | 45135790                               |
 | Region          | 未知                               |
 | Date            | 2020-06-09                                 |

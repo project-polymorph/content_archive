@@ -27,8 +27,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_“泰国最美变性人”私照曝光身材凹凸有致_-_海外网.md                             |
 | Size            | 1014 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.haiwainet.cn/n/2016/0401/c3541083-29796215-21.html](http://news.haiwainet.cn/n/2016/0401/c3541083-29796215-21.html)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2016-04-01                                 |

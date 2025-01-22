@@ -87,8 +87,8 @@ Sky，（微博:三号技师sky， ins:skycc）上海 MEDUSA 派对组织者，D
 |-----------------|----------------------------------------|
 | Filename        | fanchaoliuclub_变装皇后_-_反潮流俱乐部.md                             |
 | Size            | 3359 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://fanchaoliuclub.fireside.fm/dragqueen](https://fanchaoliuclub.fireside.fm/dragqueen)                       |
 | Author          | 反潮流俱乐部（声动活泼）                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-02-03                                 |

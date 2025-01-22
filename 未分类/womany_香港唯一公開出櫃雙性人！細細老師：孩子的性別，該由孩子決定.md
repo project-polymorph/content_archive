@@ -110,7 +110,7 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了香港唯一公开出柜的双性人细细老师的生命故事与经历。细细老师通过自身故事传达对双性人群体的关注和对社会的呼吁。她自幼接受多次手术以符合传统性别角色，但随着年龄增长，她开始质疑自己的性别身份。细细老师描述了她在医疗和家庭中的挣扎，以及长期的身心创伤。最终，她勇敢地切除了男性生殖器官，并真实地以女性身份生活。她认为性别不应被固化，而是应该由个人自己选择。同时，她呼吁社会对双性人群体的理解与接纳，认为孩子的性别应由他们自己决定。不仅如此，细细老师还关注双性人家庭的痛苦，希望通过她的经历促使社会对双性人及其家庭的更多关怀。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -121,12 +121,12 @@ by [Ｇ點電視](https://womany.net/authors/gdottvntxs?ref=s_a_author) 2018/09/
 |-----------------|----------------------------------------|
 | Filename        | womany_香港唯一公開出櫃雙性人！細細老師：孩子的性別，該由孩子決定.md                             |
 | Size            | 13183 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://womany.net/read/article/16712](https://womany.net/read/article/16712)                       |
+| Author          | G点电视                               |
+| Region          | 香港                               |
+| Date            | 2018-09-17                                 |
+| Tags            | 双性人, 性别认同, 性别平权, 个人经历, 医疗经历, 家庭背景, 法律权益, 社会支持, 性别教育, 香港                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

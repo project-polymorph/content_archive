@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细探讨了易性癖（Transsexualism）的定义、背景与影响。易性癖是指个体心理上否定自己的性别，认为与外生殖器的性别存在相反需求，同时追求生理上的性别变化。该群体通常渴望通过变性手术实现其内心认同的性别，但并非所有跨性别者都属于易性癖者。文章指出，易性癖的形成原因并不明确，传统观点认为与幼年经历和生物学因素有关。作者还提到，易性癖者在生理性别上的不满及其普遍心理状态，强调了社会对于这一群体的认知问题，并讨论了其生理心理特征和社会误解带来的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_易性癖（Transsexualism）.md                             |
 | Size            | 2712 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gench.edu.cn/xlhp/2019/1110/c2318a84124/page.htm](https://www.gench.edu.cn/xlhp/2019/1110/c2318a84124/page.htm)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-11-10                                 |
+| Tags            | 易性癖, 跨性别, 性别认同, 变性手术, 心理因素, 社会偏见, 医学研究, 法律政策, 社会环境, 性别教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

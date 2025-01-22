@@ -81,8 +81,8 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 |-----------------|----------------------------------------|
 | Filename        | m_有没有关于男性跨性别者的小说推荐？_-_起点中文.md                             |
 | Size            | 4349 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.qidian.com/ask/qycyciqbpyc](https://m.qidian.com/ask/qycyciqbpyc)                       |
 | Author          | 羽翼                               |
 | Region          | 未知                               |
 | Date            | 2023-10-24                                 |

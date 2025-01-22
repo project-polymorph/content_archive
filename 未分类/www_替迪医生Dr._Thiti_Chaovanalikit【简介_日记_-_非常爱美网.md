@@ -91,7 +91,7 @@ Copyright © 2008-2025 非常爱美®
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了替迪医生Dr. Thiti Chaovanalikit的专业背景和手术项目。他是泰国康民医院的整形外科主任，专长于变性手术、轮廓整形和眼部整形等。文章详细描述了替迪医生的教育背景、荣誉资质，特别是其在变性手术领域的成果，例如其手术效果与敏感度的提升及结肠移植手术的卓越表现。替迪医生被誉为泰国变性之父彼里差医生的门生，具有丰富的临床经验，并且在技术上处于领先地位。此外，文中还提到替迪医生的坐诊时间和手术价格参考，提供了对潜在病人的重要信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,12 +102,12 @@ Copyright © 2008-2025 非常爱美®
 |-----------------|----------------------------------------|
 | Filename        | www_替迪医生Dr._Thiti_Chaovanalikit【简介_日记_-_非常爱美网.md                             |
 | Size            | 3225 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.verym.com/zhuanjia/10683.html](http://www.verym.com/zhuanjia/10683.html)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 替迪医生, 变性手术, 整形外科, 医疗资源, 人生故事, 手术效果, 敏感度提升, 泰国康民医院, 医疗经验, 手术价格                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

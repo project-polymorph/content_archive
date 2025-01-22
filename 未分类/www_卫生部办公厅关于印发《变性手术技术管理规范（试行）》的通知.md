@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是由卫生部办公厅发布的关于《变性手术技术管理规范（试行）》的通知，旨在加强对变性手术技术的审核和临床应用管理，以保障医疗质量和安全。通知中提到，为进一步落实《医疗技术临床应用管理办法》，卫生部组织制定了相关的管理规范，并要求各省、自治区和直辖市的卫生部门遵照执行。该文件的重要性在于其为变性手术提供了官方的技术管理标准，促进了医疗服务方面的透明度与规范性，为多元性别群体的医疗权益提供了一定的法律支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_卫生部办公厅关于印发《变性手术技术管理规范（试行）》的通知.md                             |
 | Size            | 948 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.haolvshi.com.cn/flfgk/52228.html](https://www.haolvshi.com.cn/flfgk/52228.html)                       |
+| Author          | 卫生部                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-11-13                                 |
+| Tags            | 变性手术, 医疗规范, 技术管理, 政策通知, 卫生部, 临床应用, 医疗质量, 性别认同, 多元性别, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

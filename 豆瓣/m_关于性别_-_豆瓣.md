@@ -120,8 +120,8 @@ rt仅为楼主个人感悟 譬如很多奶奶辈妈妈辈的女性究其一生�
 |-----------------|----------------------------------------|
 | Filename        | m_关于性别_-_豆瓣.md                             |
 | Size            | 3463 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/150744067/](https://m.douban.com/doulist/150744067/)                       |
 | Author          | 已注销 (北京)                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-06-11                                 |

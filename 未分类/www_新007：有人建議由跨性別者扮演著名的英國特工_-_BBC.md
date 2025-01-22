@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了英国导演多米尼克·韦斯特（Dominic West）在媒体上提议由跨性别者汉纳·格拉芙（Hannah Graf）来接替丹尼尔·克雷格（Daniel Craig）扮演007这一著名特工角色的建议。韦斯特认为这样的人选能够为经典角色带来新的视角和动力，尤其是考虑到格拉芙作为军中最高军衔的跨性别军官的背景。文章还总结了公众对这一提议的反应，包括支持与批评，探讨了跨性别者在传统性别角色中的表现以及性别认同的多样性。参与评论的还有格拉芙本人及其他知名演员，讨论了无论是历史经典角色还是现代电影，是否应当打破传统性别角色的束缚。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_新007：有人建議由跨性別者扮演著名的英國特工_-_BBC.md                             |
 | Size            | 3771 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/trad/uk-46681054](https://www.bbc.com/zhongwen/trad/uk-46681054)                       |
+| Author          | 未知                               |
+| Region          | 英国                               |
+| Date            | 2018-12-25                                 |
+| Tags            | 007, 跨性别, 汉纳·格拉芙, 性别认同, 多米尼克·韦斯特, 公众反应, 媒体报道, 性别角色, 电影文化, 社会讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | forum_RE【情報】CDTS友善商店分享-_偽娘向上委員會_-_巴哈姆特.md                             |
 | Size            | 1887 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://forum.gamer.com.tw/Co.php?bsn=60552&sn=31954](https://forum.gamer.com.tw/Co.php?bsn=60552&sn=31954)                       |
 | Author          | 雪之王女‧F‧巧可奈                               |
 | Region          | 台湾                               |
 | Date            | 2020-02-07                                 |

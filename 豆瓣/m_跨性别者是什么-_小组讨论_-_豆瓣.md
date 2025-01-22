@@ -67,8 +67,8 @@ RT
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别者是什么-_小组讨论_-_豆瓣.md                             |
 | Size            | 2951 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/group/topic/168165018/](https://m.douban.com/group/topic/168165018/)                       |
 | Author          | 明明可可爱爱                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-03-18                                 |

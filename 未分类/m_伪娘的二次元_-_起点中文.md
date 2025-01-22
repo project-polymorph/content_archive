@@ -72,8 +72,8 @@ Copyright © 2002-2025 www.qidian.com All Rights Reserved 版权所有 上海玄
 |-----------------|----------------------------------------|
 | Filename        | m_伪娘的二次元_-_起点中文.md                             |
 | Size            | 4757 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.qidian.com/book/1013796085/](https://m.qidian.com/book/1013796085/)                       |
 | Author          | 星音的小梦                               |
 | Region          | 未知                               |
 | Date            | 2019-01-11                                 |

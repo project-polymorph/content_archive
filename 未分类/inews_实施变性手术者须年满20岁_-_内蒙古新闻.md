@@ -54,8 +54,8 @@
 |-----------------|----------------------------------------|
 | Filename        | inews_实施变性手术者须年满20岁_-_内蒙古新闻.md                             |
 | Size            | 2541 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://inews.nmgnews.com.cn/system/2009/11/21/010327243_04.shtml](https://inews.nmgnews.com.cn/system/2009/11/21/010327243_04.shtml)                       |
 | Author          | 内蒙古新闻网                               |
 | Region          | 内蒙古, 中国                               |
 | Date            | 2009-11-21                                 |

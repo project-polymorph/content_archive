@@ -81,7 +81,7 @@ emmm
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一位手工爱好者在制作某款以《姬魔恋战纪》为主题的女装大佬道具——大宝剑的过程与经验分享。作者时光丿曼凡于2018年4月12日在TapTap论坛发布了这篇文章，详细描述了从最初的构思到制作过程中遇到的困难，分享了自己的创意和制作材料，以及工具的选择。文章中包含了一些图片，以展示制作过程，读者可以看到制作的半成品和模型图。作者还记录了与网友的互动评论，反映了社区中同好者对手工制作的热情和支持。此外，文中提到的具体材料如雪糕棒和竹棍体现了适合学生及初学者的DIY精神，这对于追求个性和创造力的多元性别群体来说尤为重要。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,12 +92,12 @@ emmm
 |-----------------|----------------------------------------|
 | Filename        | www_【手工】某女装大佬的大宝剑【完】_-_姬魔恋战纪综合讨论-_TapTap_.md                             |
 | Size            | 2419 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.taptap.cn/moment/15214117073715909](https://www.taptap.cn/moment/15214117073715909)                       |
+| Author          | 时光丿曼凡                               |
+| Region          | 未知                               |
+| Date            | 2018-04-12                                 |
+| Tags            | 手工制作, 道具制作, 姬魔恋战纪, 女装大佬, 二次元, GalGame, 美少女, DIY, 网友评论, 互动交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

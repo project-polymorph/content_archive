@@ -152,7 +152,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件是关于2020年骄傲月的报道，旨在提高公众对LGBTQ群体的关注，以及呼吁消除社会偏见的全面性讨论。文件提到每年六月是LGBTQ群体的重要时刻，期间会举行骄傲游行庆典，庆祝多元性和支持平权运动。施普林格·自然出版公司为回应这一重要活动，推出了涵盖100多项LGBTQ前沿研究的专题内容，免费开放至2020年7月1日。该文件包含了多个章节的摘要，分别探讨了区域性酷儿节、女同运动员的媒体报道、日本LGBT群体的经历等重要主题。例如，关于媒体对女同运动员的报道分析显示，虽然报道数量极少，但是在对出柜的报道上有了积极的转变。这些研究帮助理解了LGBTQ社群的生存现状和文化认同，同时也展示了不同群体在社会中的地位与面临的问题。此外，文件提供了对未来LGBTQ权利框架的展望，强调了平等权利所面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -163,12 +163,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_爱不止一种颜色_Springer_Nature_骄傲月_-_领研网.md                             |
 | Size            | 17565 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.linkresearcher.com/careers/c1a071f9-49ee-4cbc-ad06-25186e85d459](https://www.linkresearcher.com/careers/c1a071f9-49ee-4cbc-ad06-25186e85d459)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-06-08                                 |
+| Tags            | LGBTQ, 骄傲月, 平权运动, 跨性别者, 同性恋者, 多元性别, 社会偏见, 文化认同, 媒体报道, 区域性活动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

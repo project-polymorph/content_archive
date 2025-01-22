@@ -60,7 +60,11 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了近年来青少年“性别不安”(Gender Dysphoria)病例在西方国家激增的现象，尤其是近十年来数据所显示的趋势变化。作者罗显亮指出，过去十年美国和英国的病例比例增长显著，社交媒体被许多专家视为成因之一。文章详细回顾了“性别不安”的定义及其症状表现，探讨了过去与现在患者的不同特点，并提出了对青少年身份认同的深刻反思。
+
+文中分析称：“性别不安”病徵通常在儿童早期显现，并在青春期时可能恶化。但现今的病例大多是在青春期开始显露，并且以女孩为主，反映出社会变化对性别认同的影响。另外，文章也提到了一些“跨性别网红”的现象，他们通过社交媒体影响年轻人的性别认同，加剧了青少年性别焦虑的问题。
+
+作者呼吁父母应关注孩子的心理健康，与他们进行更多的沟通以了解真实的困惑和挑战。同时指出，支持和理解至关重要，但在面对当今多元、复杂的性别议题时，父母需要有明确的指导和价值观，以免孩子误入歧途。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +75,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【網路足跡】跨性別網紅_-_多倫多短宣中心.md                             |
 | Size            | 7968 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.torontostm.com/2023/07/29/%E3%80%90%E7%B6%B2%E8%B7%AF%E8%B6%B3%E8%B7%A1%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%A5%E7%B6%B2%E7%B4%85/](https://www.torontostm.com/2023/07/29/%E3%80%90%E7%B6%B2%E8%B7%AF%E8%B6%B3%E8%B7%A1%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%A5%E7%B6%B2%E7%B4%85/)                       |
+| Author          | 罗显亮                               |
+| Region          | 加拿大多伦多                               |
+| Date            | 2023-07-29                                 |
+| Tags            | 多元性别, 跨性别, 性别不安, 青少年, 社交媒体影响, 心理健康, 法律政策, 家庭教育, 性别认同, 性别转型                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -70,8 +70,8 @@ ID：pjw-documentary
 |-----------------|----------------------------------------|
 | Filename        | m_这部纪录片，呈现了中国LGBT族群的抗争_-_澎湃新闻.md                             |
 | Size            | 6230 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_7931257](https://m.thepaper.cn/newsDetail_forward_7931257)                       |
 | Author          | Louis Hothothot                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

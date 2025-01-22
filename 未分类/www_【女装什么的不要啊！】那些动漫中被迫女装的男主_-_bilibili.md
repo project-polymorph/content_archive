@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文标题为《女装什么的不要啊！那些动漫中被迫女装的男主》，通过分析与讨论一系列在动漫中被迫女装的男性角色，探讨了社会文化背景下的性别表现和性别认同的复杂性。文章中提到这些角色在故事情节中的被迫女装不仅是剧情发展的需要，也反映了社会对性别角色的固有偏见与期待。作者通过举例说明了这些角色的各种反应以及它们在观众中引发的讨论，而这一现象在现代动漫中愈加普遍，引发了关于性别和身份的深思。此外，文章也涉及到对这一现象的批评与思考，认为动漫中的性别表现应该更加多元化，尊重角色的主体性与个性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,12 +88,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【女装什么的不要啊！】那些动漫中被迫女装的男主_-_bilibili.md                             |
 | Size            | 2716 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av970308100/](https://www.bilibili.com/video/av970308100/)                       |
+| Author          | 疾行神侠                               |
+| Region          | 未知                               |
+| Date            | 2020-11-17                                 |
+| Tags            | 动漫, 女装, 伪娘, 男扮女装, 动漫杂谈, 性别认同, 性别表现, 文化分析, 社会平等, 角色研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

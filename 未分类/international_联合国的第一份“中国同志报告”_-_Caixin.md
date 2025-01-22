@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | international_联合国的第一份“中国同志报告”_-_Caixin.md                             |
 | Size            | 3366 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://international.caixin.com/2014-08-15/100717388.html](https://international.caixin.com/2014-08-15/100717388.html)                       |
 | Author          | 邵希                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-08-15                                 |

@@ -63,7 +63,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文深入解析了剧本杀行业中“反串”现象的含义及其在游戏中的应用。反串，指玩家在剧本杀中扮演与自己实际性别相反的角色，这种性别互换增加了游戏的趣味性和挑战性，让参与者在角色理解和表演能力上得到锻炼。反串多见于非情感剧本，强调推理过程，能够帮助平衡游戏中的性别角色配置。该文还讨论了反串过程中的挑战，如角色的深度理解与演绎能力，以及增强了游戏的社交互动性。通过清晰的结构和丰富的实例，本文希望推动对反串这一独特玩法的理解与欣赏。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_剧本杀行业术语深入解析反串在剧本杀中的含义_-_红鼠游戏.md                             |
 | Size            | 3923 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.9602e.com/article/v1043733.html](http://www.9602e.com/article/v1043733.html)                       |
+| Author          | 红鼠网                               |
+| Region          | 未知                               |
+| Date            | 2024-10-23                                 |
+| Tags            | 剧本杀, 反串, 角色扮演, 性别互换, 社交游戏, 表演能力, 游戏体验, 玩家互动, 推理, 文化现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

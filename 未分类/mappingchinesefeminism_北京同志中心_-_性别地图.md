@@ -91,8 +91,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mappingchinesefeminism_北京同志中心_-_性别地图.md                             |
 | Size            | 4243 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mappingchinesefeminism.com/organizations/%E5%8C%97%E4%BA%AC%E5%90%8C%E5%BF%97%E4%B8%AD%E5%BF%83/](https://mappingchinesefeminism.com/organizations/%E5%8C%97%E4%BA%AC%E5%90%8C%E5%BF%97%E4%B8%AD%E5%BF%83/)                       |
 | Author          | 北京同志中心                               |
 | Region          | 北京，中国                               |
 | Date            | 未知                                 |

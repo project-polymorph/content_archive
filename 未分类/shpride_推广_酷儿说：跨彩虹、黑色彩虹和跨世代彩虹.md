@@ -40,8 +40,8 @@ Queer Talks酷儿讲座在歌德学院（文化教育系）举办了三个彩虹
 |-----------------|----------------------------------------|
 | Filename        | shpride_推广_酷儿说：跨彩虹、黑色彩虹和跨世代彩虹.md                             |
 | Size            | 3386 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shpride.com/2021/07/06/qt-2/?lang=zh](https://shpride.com/2021/07/06/qt-2/?lang=zh)                       |
 | Author          | 上海骄傲节                               |
 | Region          | 中国                               |
 | Date            | 2021-06-26                                 |

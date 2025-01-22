@@ -32,8 +32,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_香港大学设“性别友善洗手间”_方便跨性别人士_-_国内新闻.md                             |
 | Size            | 997 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://china.huanqiu.com/article/9CaKrnJXpsV](https://china.huanqiu.com/article/9CaKrnJXpsV)                       |
 | Author          | 中新网，编辑：zhangjinjin                               |
 | Region          | 香港                               |
 | Date            | 2016-09-01                                 |

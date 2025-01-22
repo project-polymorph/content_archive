@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![兔蕾斯](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN8XA8AAksBZG7LpHYAAAAASUVORK5CYII=)
+[兔蕾斯]
 
 **时间**: 2024年10月18日晚上  
 **来源**: [Rabbit Lace官方YouTube频道](https://www.youtube.com/channel/UCoansJiD1wPYzjxwWa6N6yA)  
@@ -46,7 +46,7 @@ QQ粉丝群：169891184
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件记录了兔蕾斯于2024年10月18日晚上进行的一场直播的详细信息。直播的时间范围是晚上8点至12点，共有59次观看，直播者兔蕾斯在虎牙直播平台活动，其官方频道提供了包括抖音号、QQ粉丝群在内的多种联系信息，鼓励粉丝与其互动。文件中包含了直播的音乐列表，涵盖了多种风格的歌曲，增添了直播的娱乐氛围。兔蕾斯的直播内容可能包括对多元性别的支持与倡导，展示了生动多彩的二次元文化，并向观众推荐积极参与互动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ QQ粉丝群：169891184
 |-----------------|----------------------------------------|
 | Filename        | www_【兔蕾斯】2024年10月18日晚上直播-_Part_B_-_YouTube.md                             |
 | Size            | 2517 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=0G7rdvIax7w](https://www.youtube.com/watch?v=0G7rdvIax7w)                       |
+| Author          | 兔蕾斯                               |
+| Region          | 未知                               |
+| Date            | 2024-10-18                                 |
+| Tags            | 兔蕾斯, 直播, 虎牙直播, 二次元文化, 互动, 伪娘, 女装大佬, 多元性别, 社交媒体, 音乐推荐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

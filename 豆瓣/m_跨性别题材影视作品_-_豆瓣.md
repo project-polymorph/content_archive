@@ -330,8 +330,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别题材影视作品_-_豆瓣.md                             |
 | Size            | 13302 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/doulist/138047360/](https://m.douban.com/doulist/138047360/)                       |
 | Author          | Homura (上海)                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-04-04                                 |

@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | silvernoelle_TS_-_银龙诺艾尔SilverNoelle.md                             |
 | Size            | 2239 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://silvernoelle.com/tag/ts/](https://silvernoelle.com/tag/ts/)                       |
 | Author          | 银龙诺艾尔 SilverNoelle                               |
 | Region          | 未知                               |
 | Date            | 2024-12-10                                 |

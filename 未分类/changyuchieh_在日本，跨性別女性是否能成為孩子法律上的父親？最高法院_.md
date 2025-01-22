@@ -153,8 +153,8 @@ A 接受採訪時則表示，這次的案子她最重視的是完成孩子們認
 |-----------------|----------------------------------------|
 | Filename        | changyuchieh_在日本，跨性別女性是否能成為孩子法律上的父親？最高法院_.md                             |
 | Size            | 15652 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://changyuchieh.com/2022/08/20/transgender-parent/](https://changyuchieh.com/2022/08/20/transgender-parent/)                       |
 | Author          | 石川カオリ                               |
 | Region          | 日本                               |
 | Date            | 2024-06-21                                 |

@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bangumi_Akiba_So读过的图书_跨性别_2__-_Bangumi_番组计划.md                             |
 | Size            | 1758 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bangumi.tv/book/list/akibaso/collect?tag=%E8%B7%A8%E6%80%A7%E5%88%AB](https://bangumi.tv/book/list/akibaso/collect?tag=%E8%B7%A8%E6%80%A7%E5%88%AB)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2023-03-12                                 |

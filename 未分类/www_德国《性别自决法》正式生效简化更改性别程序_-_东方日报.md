@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了德国《性别自决法》的正式生效以及该法如何简化更改法定性别的程序。根据新法律，个体只需提交简单申请即可变更姓名或法定性别，而无需提供心理报告或法院判决。这项法律被视为提升LGBTQ群体权利的历史性一步。法案受到的支持与反对都引发了广泛的社会讨论，支持者认为能够更好地保障跨性别者的权利，而反对者则担忧可能造成对女性和女孩安全的威胁。该文件还包括了一些公众的看法和相关人士的评论，以及关于申请程序的详细信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_德国《性别自决法》正式生效简化更改性别程序_-_东方日报.md                             |
 | Size            | 3793 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.orientaldaily.com.my/news/international/2024/11/02/690335](https://www.orientaldaily.com.my/news/international/2024/11/02/690335)                       |
+| Author          | 东方日报                               |
+| Region          | 德国                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 德国, 性别自决法, LGBTQ, 跨性别, 法律政策, 社会环境, 妇女权利, 心理健康, 法律变更, 政府政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

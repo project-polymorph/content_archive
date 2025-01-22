@@ -135,8 +135,8 @@ H CUP的后绑绳，很牢固呀~（莫丽斯搜索 “假胸”）
 |-----------------|----------------------------------------|
 | Filename        | m_No.3（正片二）【伪街日常】夜外滩，小跑车_-_豆瓣.md                             |
 | Size            | 5099 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/665863803/](https://m.douban.com/note/665863803/)                       |
 | Author          | 莫丽斯molis                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-04-16                                 |

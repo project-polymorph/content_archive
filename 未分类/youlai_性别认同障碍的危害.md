@@ -38,7 +38,7 @@ Copyright ©2025 北京纵横无双科技有限公司 All rights reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了性别认同障碍的危害，强调这是被视为心理疾病的一种状态，许多患者特别是在青春期会出现性别焦虑的症状。内容详细描述了性别认同障碍对个人的情感和心理健康造成的影响，指出了患者对自身性别的不认同和焦虑，同时也探讨了这一心理状态对家庭及社会的影响。文章提到性别认同障碍有多种叫法如性别焦虑症、性别不安等，强调了个体如何通过穿着、化妆、激素治疗及外科手术等方式来表达自己的性别认同。文中还附有相关视频内容，深入解析了性别认同障碍这一复杂问题，并提供了一些相关资源链接供读者进一步了解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@ Copyright ©2025 北京纵横无双科技有限公司 All rights reserved
 |-----------------|----------------------------------------|
 | Filename        | youlai_性别认同障碍的危害.md                             |
 | Size            | 1649 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://youlai.cn/video/article/079371UfJl.html](https://youlai.cn/video/article/079371UfJl.html)                       |
+| Author          | 燕利娟，长春市心理医院主任医师                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-04-09                                 |
+| Tags            | 性别认同, 性别障碍, 心理健康, 性别焦虑, 社会问题, 医师建议, 心理疾病, 青少年心理, 性别研究, 生活现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -62,8 +62,8 @@
 |-----------------|----------------------------------------|
 | Filename        | history_华西都市报—“我希望社会能包容我”.md                             |
 | Size            | 4443 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://history.thecover.cn/shtml/hxdsb/20140819/232229.shtml](https://history.thecover.cn/shtml/hxdsb/20140819/232229.shtml)                       |
 | Author          | 华西都市报                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-08-19                                 |

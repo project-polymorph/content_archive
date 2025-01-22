@@ -207,8 +207,8 @@
 |-----------------|----------------------------------------|
 | Filename        | summer-plus_伪娘是我一生的爱！！！茶馆南+_South_Plus.md                             |
 | Size            | 3648 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://summer-plus.net/simple/index.php?t1266075.html](https://summer-plus.net/simple/index.php?t1266075.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2021-09-18                                 |

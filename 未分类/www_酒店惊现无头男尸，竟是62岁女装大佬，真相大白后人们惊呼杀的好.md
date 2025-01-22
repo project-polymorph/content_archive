@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一起引人关注的事件：在酒店发生的无头男尸案，最终揭露出死者是一位62岁的女装大佬。文章通过视频及图片展示了事件的背景与经过，强调了社会对多元性别群体的偏见与误解，及人们对这一事件的惊讶反应。同时，作者在文中探讨了社会对女性形象和多元性别身份的看法，阐述了在这一背景下，如何引发了对性别认同和社会公正的反思。通过对事件的解析，读者得以更加理解多元性别群体在社会生活中的处境与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_酒店惊现无头男尸，竟是62岁女装大佬，真相大白后人们惊呼杀的好.md                             |
 | Size            | 719 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=47kz9CRbPUo](https://www.youtube.com/watch?v=47kz9CRbPUo)                       |
+| Author          | 瑞子Astor                               |
+| Region          | 未知                               |
+| Date            | 2024-10-13                                 |
+| Tags            | 多元性别, 性别认同, 女装大佬, 媒体报道, 社会偏见, 人权, 法律环境, 性别多样性, 社会反思, 真实事件                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

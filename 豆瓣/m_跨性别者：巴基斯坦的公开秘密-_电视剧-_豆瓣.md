@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别者：巴基斯坦的公开秘密-_电视剧-_豆瓣.md                             |
 | Size            | 3543 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/subject/35335959/](https://m.douban.com/movie/subject/35335959/)                       |
 | Author          | Sharmeen Obaid-Chinoy                               |
 | Region          | 巴基斯坦                               |
 | Date            | 2011-00-00                                 |

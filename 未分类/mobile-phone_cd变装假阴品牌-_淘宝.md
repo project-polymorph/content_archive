@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mobile-phone_cd变装假阴品牌-_淘宝.md                             |
 | Size            | 4183 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mobile-phone.taobao.com/chanpin/1ef6d9c2341de94b15178c6aa0c529d9.html](https://mobile-phone.taobao.com/chanpin/1ef6d9c2341de94b15178c6aa0c529d9.html)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2025-01-14                                 |

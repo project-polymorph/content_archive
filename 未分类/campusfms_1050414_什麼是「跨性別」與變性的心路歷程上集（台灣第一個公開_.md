@@ -53,8 +53,8 @@ Copyright © 2021 National Open University All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | campusfms_1050414_什麼是「跨性別」與變性的心路歷程上集（台灣第一個公開_.md                             |
 | Size            | 1154 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://campusfms.nou.edu.tw/media/4795](https://campusfms.nou.edu.tw/media/4795)                       |
 | Author          | 龙芳瑜                               |
 | Region          | 台湾                               |
 | Date            | 2016-04-14                                 |

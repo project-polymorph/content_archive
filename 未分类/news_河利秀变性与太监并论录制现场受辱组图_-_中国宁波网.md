@@ -98,8 +98,8 @@ All Rights Reserved**
 |-----------------|----------------------------------------|
 | Filename        | news_河利秀变性与太监并论录制现场受辱组图_-_中国宁波网.md                             |
 | Size            | 9042 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.cnnb.com.cn/system/2005/01/21/001025735.shtml](http://news.cnnb.com.cn/system/2005/01/21/001025735.shtml)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2005-01-21                                 |

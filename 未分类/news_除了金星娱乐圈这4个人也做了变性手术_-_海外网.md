@@ -56,8 +56,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_除了金星娱乐圈这4个人也做了变性手术_-_海外网.md                             |
 | Size            | 1393 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.haiwainet.cn/n/2016/1108/c3541083-30483987.html](http://news.haiwainet.cn/n/2016/1108/c3541083-30483987.html)                       |
 | Author          | 张婷婷                               |
 | Region          | 台湾                               |
 | Date            | 2016-11-08                                 |

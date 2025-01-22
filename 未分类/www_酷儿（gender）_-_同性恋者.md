@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文基于对“酷儿（gender）”一词及其演变的阐述，详细解释了这一术语的历史、现代用法以及它所涵盖的多元性别和性取向等方面。酷儿最初是一个贬义的词汇，但近年来已经被许多性别和性向群体重新定义并赋予了积极的意义，成为了一个包容性和自我认同的术语。文中指出，酷儿不仅仅是对性取向的描述，其中还包括对性别身份和性别特征的多样性理解。文章同时提醒读者在使用这一术语时应尊重个体的偏好和上下文，表明并不是所有人都接受该词汇。今年的文末，提供了原作者的链接，旨在加强信息的透明度与可追溯性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_酷儿（gender）_-_同性恋者.md                             |
 | Size            | 2053 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.seksediversiteit.nl/zh-CN/woordenlijst/queer/](https://www.seksediversiteit.nl/zh-CN/woordenlijst/queer/)                       |
+| Author          | 米里亚姆·范德哈夫                               |
+| Region          | 未知                               |
+| Date            | 2024-01-05                                 |
+| Tags            | 酷儿, 性取向, 性别身份, 性别表达, 性别特征, 同性恋者, 多元性别, 性别流动性, 自我认同, 包容性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

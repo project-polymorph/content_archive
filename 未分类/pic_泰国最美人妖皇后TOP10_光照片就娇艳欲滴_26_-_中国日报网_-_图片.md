@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | pic_泰国最美人妖皇后TOP10_光照片就娇艳欲滴_26_-_中国日报网_-_图片.md                             |
 | Size            | 1938 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://pic.chinadaily.com.cn/2015-06/26/content_21111565_26.htm](https://pic.chinadaily.com.cn/2015-06/26/content_21111565_26.htm)                       |
 | Author          | 中国日报网                               |
 | Region          | 中国                               |
 | Date            | 2015-06-26                                 |

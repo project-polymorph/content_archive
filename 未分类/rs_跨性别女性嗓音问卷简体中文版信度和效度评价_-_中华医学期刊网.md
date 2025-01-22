@@ -71,8 +71,8 @@ TWVQ-SC具有良好的信度和效度，可作为跨性别女性嗓音自我评�
 |-----------------|----------------------------------------|
 | Filename        | rs_跨性别女性嗓音问卷简体中文版信度和效度评价_-_中华医学期刊网.md                             |
 | Size            | 3828 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rs.yiigle.com/CN115330202211/1433573.htm](https://rs.yiigle.com/CN115330202211/1433573.htm)                       |
 | Author          | 王路, 张嘉禾, 王晨希, 张祥, 丁惠君, 靳雨锟, 胡荣庆, 张庆丰, 陈臻                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-11-07                                 |

@@ -10,7 +10,7 @@
 
 正所谓宇宙浩瀚，而我们只是一颗小尘埃，世界的奇妙之处，真是让我们无法想象，在大部分人的认知中，人类只分为男人和女人，性别只有男和女两种，但是随着社会交流的开放，出现了很多对性别认知模糊的人公开自己的困惑，他们同时具有男性和女性的生殖器官，成为人们口中的另类。那么这种情况是什么原因造成的呢？为什么会出现双性人，很多人都对此感到困惑。下面我来为大家解惑，并为拥有两种性别的人们杜绝歧视。
 
-![](//image.healthjd.com/da/jfs/t1/178718/7/6442/1081955/60b21692Ef15c850f/ee00853b0a0be869.jpg)
+![](https://image.healthjd.com/da/jfs/t1/178718/7/6442/1081955/60b21692Ef15c850f/ee00853b0a0be869.jpg)
 
 ### **一、[两性畸形](https://cont.jd.com/wiki/disease/43801266107392?activityCode=54061292337152)的概述**
 
@@ -34,7 +34,7 @@
 
 女性假两性畸形的患者，在体内的生殖腺是卵巢，在外生殖器看起来却像男性生殖器，同样会被误认为当做男孩子来养，有的女性还会长出喉结与胡须，性激素的分泌量与后天的环境也是有很大关系的。
 
-![](//image.healthjd.com/da/jfs/t1/182615/37/5660/537166/60b2169dE87e97ea6/a2eaf0d5143a57e5.jpg)
+![](https://image.healthjd.com/da/jfs/t1/182615/37/5660/537166/60b2169dE87e97ea6/a2eaf0d5143a57e5.jpg)
 
 其实，人类体内本身就存在着两种性激素，每个女性体内都会分泌微量的雄性激素，而每个男性体内也会分泌微量的雌性激素，这与后天生活中所接触的食物与化学用品有关，只要分泌量在正常范围内，就是一个完美的人类。
 
@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由泌尿外科陆巍所撰写，详细探讨了两性畸形的概念、成因和性别判别方式。两性畸形乃是胚胎发育过程中性染色体分配出现问题的结果，分为真两性畸形和假两性畸形两种类型。真两性畸形患者同时具有男性和女性的生殖器官，并且体内分泌男性和女性激素。假两性畸形则分为男性假两性畸形和女性假两性畸形，前者体内呈现男性特征却外观看似女性，后者外表现为男性生殖器但体内仍为卵巢。文章强调两性畸形患者的生理现象常常被误解，呼吁社会对这些患者给予关心与理解，而不是歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_两性畸形的概述，怎样判别两性畸形的性别_-_JD.com.md                             |
 | Size            | 4298 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/pccontent/231459](https://www.jd.com/pccontent/231459)                       |
+| Author          | 泌尿外科陆巍                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 两性畸形, 性别认同, 真两性畸形, 假两性畸形, 生理特征, 社会环境, 激素分泌, 医学科普, 性别歧视, 人权呼声                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

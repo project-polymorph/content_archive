@@ -55,8 +55,8 @@ ___(责编：覃博雅、邓志慧)___
 |-----------------|----------------------------------------|
 | Filename        | hm_香港终身法院裁定变性人有权以新性别结婚.md                             |
 | Size            | 2778 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://hm.people.com.cn/n/2013/0513/c42272-21466235.html](http://hm.people.com.cn/n/2013/0513/c42272-21466235.html)                       |
 | Author          | 人民网-港澳频道                               |
 | Region          | 香港                               |
 | Date            | 2013-05-13                                 |

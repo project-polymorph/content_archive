@@ -46,8 +46,8 @@ A生于泰国中产阶层家庭，“她”当人妖不是为了赚钱，而是�
 |-----------------|----------------------------------------|
 | Filename        | info_图片故事泰国人妖的学生生活大曝光_-_无忧资讯.md                             |
 | Size            | 3490 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://info.51.ca/articles/179775](https://info.51.ca/articles/179775)                       |
 | Author          | 无忧资讯                               |
 | Region          | 泰国                               |
 | Date            | 2009-08-23                                 |

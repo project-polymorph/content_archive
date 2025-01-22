@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在泰国进行变性手术的多种技术。它提供了关于手术方法的科普信息，旨在帮助有意前往泰国进行变性手术的朋友了解不同的手术选择。文件中提到的标签包括：泰国变性手术、泰国医美、泰国隆胸，以及男变女手术等。内容提及泰国IDL整形医院，并附有视频链接，以及观看和点赞数据，显示出此主题的广泛关注。该文件还附带了一张视频缩略图，展示了与变性手术有关的内容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_在泰国____做变性都有哪些技术？_关于做变性__都有哪些技术呢？赶紧_.md                             |
 | Size            | 1155 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=uLzruR98hCc](https://www.youtube.com/watch?v=uLzruR98hCc)                       |
+| Author          | 泰国IDL整形医院                               |
+| Region          | 泰国                               |
+| Date            | 2023-10-11                                 |
+| Tags            | 变性手术, 泰国医疗, 性别认同, 医疗资源, 整形手术, 社会接受度, 跨性别, 男变女手术, 女性化手术, 医疗经验分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

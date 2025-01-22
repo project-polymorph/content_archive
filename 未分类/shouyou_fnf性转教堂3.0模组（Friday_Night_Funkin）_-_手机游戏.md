@@ -90,8 +90,8 @@ fnf性转教堂3.0模组是周五夜放克教堂模组的全新版本，模组�
 |-----------------|----------------------------------------|
 | Filename        | shouyou_fnf性转教堂3.0模组（Friday_Night_Funkin）_-_手机游戏.md                             |
 | Size            | 3697 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://shouyou.kuai8.com/game/478276.html](http://shouyou.kuai8.com/game/478276.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-06-05                                 |

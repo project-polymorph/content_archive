@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档报道了美国前总统唐纳德·川普针对副总统贺锦丽的反跨性别广告指控，广告内容被视为极具煽动性，旨在激起选民的恐惧情绪。广告通过女性旁白指控贺锦丽支持用纳税人的钱为囚犯进行变性手术，并由川普亲自认可该信息。报道分析了非营利组织TransLash Media的执行长Imara Jones对广告的批评，认为其妖魔化跨性别议题，可能引发更多的同情和反感。同时，专家也指出此广告可能对未表态的选民吸引力有限，反而可能削弱川普的选情优势。文中提到的调查结果显示，跨性别议题并非选民关注的首要问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | tw_川普祭出反跨性別廣告指控賀錦麗助囚犯變性.md                             |
 | Size            | 2033 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://tw.nextapple.com/international/20241030/71E459AAC872D6B8D421379ECD18658B](https://tw.nextapple.com/international/20241030/71E459AAC872D6B8D421379ECD18658B)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-10-30                                 |
+| Tags            | 跨性别, 川普, 广告, 贺锦丽, 政治 propaganda, 文化战争, 选民情绪, 医疗需求, 非营利组织, 社会问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

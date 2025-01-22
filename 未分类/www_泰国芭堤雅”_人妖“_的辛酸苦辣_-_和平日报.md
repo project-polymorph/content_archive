@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国芭堤雅的人妖文化及其相关经历。芭堤雅作为一个著名的旅游胜地，以其美丽的风景和人妖表演而吸引游客。人妖多来自贫穷家庭，自小接受女性化教育，并通过服用女性荷尔蒙药物进行身体上的转变，经过多年的训练后成为表演者。尽管她们在演出中展现出极高的艺术水平和吸引力，但实际生活中，人妖仍然受到社会的歧视与经济压力，许多人选择出卖色相来维持生计。文章还描述了人妖表演的壮观与艺术性，以及其中涉及的社会问题，展现了人妖这一群体的复杂性质和艰辛生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国芭堤雅”_人妖“_的辛酸苦辣_-_和平日报.md                             |
 | Size            | 5275 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hepingribao.id/home/2015/12/06/%E6%B3%B0%E5%9B%BD%E8%8A%AD%E5%A0%A4%E9%9B%85-%E4%BA%BA%E5%A6%96-%E7%9A%84%E8%BE%9B%E9%85%B8%E8%8B%A6%E8%BE%A3/](https://www.hepingribao.id/home/2015/12/06/%E6%B3%B0%E5%9B%BD%E8%8A%AD%E5%A0%A4%E9%9B%85-%E4%BA%BA%E5%A6%96-%E7%9A%84%E8%BE%9B%E9%85%B8%E8%8B%A6%E8%BE%A3/)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 人妖, 芭堤雅, 性别多元, 表演艺术, 女性化训练, 社会歧视, 经济压迫, 生命故事, 新闻报道, 文化观察                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

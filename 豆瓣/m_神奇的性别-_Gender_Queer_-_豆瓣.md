@@ -52,8 +52,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_神奇的性别-_Gender_Queer_-_豆瓣.md                             |
 | Size            | 9888 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/14403182/](https://m.douban.com/book/review/14403182/)                       |
 | Author          | Maia Kobabe                               |
 | Region          | 美国                               |
 | Date            | 2019-05-28                                 |

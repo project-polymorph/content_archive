@@ -120,7 +120,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了男娘（男性伪娘）里番（成人动画）在近年数量减少的问题，发帖人表达了对这一现象的失望和无奈，同时也分享了对剧情更丰富的男娘里番的渴望。帖子中的讨论内容包含了对里番质量的批评，用户普遍认为现有的男娘里番已经无法满足他们的需求，并讨论了代替选择，比如3D动画和漫画。此外，帖子还包含了关于制作者对市场的反应及用户期待之间的矛盾，反映出多元性别文化在娱乐产业中的边缘化和挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,12 +131,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男娘里番越来越少了，我好难受啊茶馆南+_South_Plus.md                             |
 | Size            | 3703 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.snow-plus.net/simple/index.php?t850654.html](https://www.snow-plus.net/simple/index.php?t850654.html)                       |
+| Author          | 南+ South Plus                               |
+| Region          | 未知                               |
+| Date            | 2020-06-13                                 |
+| Tags            | 男娘, 里番, 成人动画, 多元性别, 文化讨论, 用户体验, 性别表现, 日本动画, 市场变化, 网络社区                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

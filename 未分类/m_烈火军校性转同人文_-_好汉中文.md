@@ -91,8 +91,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_烈火军校性转同人文_-_好汉中文.md                             |
 | Size            | 3899 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.china-yantai.net/info_oqgi/](https://m.china-yantai.net/info_oqgi/)                       |
 | Author          | 风同学                               |
 | Region          | 未知                               |
 | Date            | 2024-01-13                                 |

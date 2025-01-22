@@ -138,7 +138,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章是对台湾首位跨性别部长唐凤的专访。唐凤以其杰出技术才能与社会参与而闻名。她曾用青少年的身份经历与突破，为跨性别群体发声，并在科技与公共政策领域脱颖而出。文章详细介绍了她的成长历程，性别认同的探索，以及如何将人性与科技结合的追求。唐凤将自我的人生主题定义为“站在每一边”，表达了对不同生活经验的理解和尊重。文中包括她在“太阳花运动”中的贡献，以及对政府与民间沟通桥梁的角色的阐述，显示出她在数字政策和社会的交汇处所做的努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -149,12 +149,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_台湾首位跨性别部长唐凤：我的母题，是和每个人站在一起_-_歪脑.md                             |
 | Size            | 13456 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wainao.me/wainao-reads/audrey-tang-takes-all-sides-10082020](https://www.wainao.me/wainao-reads/audrey-tang-takes-all-sides-10082020)                       |
+| Author          | 许佳琦                               |
+| Region          | 台湾                               |
+| Date            | 2020-10-09                                 |
+| Tags            | 跨性别, 唐凤, 社会运动, 数字政府, LGBTQ+, 个人经历, 雇佣平权, 性别认同, 台湾, 公共政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

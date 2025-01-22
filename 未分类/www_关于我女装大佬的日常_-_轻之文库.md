@@ -54,7 +54,7 @@ Copyright 2021 轻之文库. All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件名为《关于我女装大佬的日常》，主要讲述了一位男生在校园生活中的日常经历，其文字风格幽默且具有自嘲意味。文章开头以夸张的方式引入，提到主角自信地表达自己的性别身份，挑逗性并带有戏谑感。文件展示了校园内的生活琐事、人与人之间的互动及对于性别角色的探索与反思，通过主角的视角，呈现了一种有趣且具挑战性的多元性别认同。内容长度为5073字，属于连载类型，更新时间为2021年9月1日，吸引了少量读者的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@ Copyright 2021 轻之文库. All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_关于我女装大佬的日常_-_轻之文库.md                             |
 | Size            | 1622 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.linovel.net/book/121556.html](https://www.linovel.net/book/121556.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-09-01                                 |
+| Tags            | 女装大佬, 校园生活, 性别认同, 多元性别, 幽默文学, 小说连载, 生活故事, 青春戏谑, 文化表达, 性别探索                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -126,8 +126,8 @@
 |-----------------|----------------------------------------|
 | Filename        | blog_谈谈周围人对男同性恋存在的幻想与误解_-_白熊阿丸的小屋.md                             |
 | Size            | 17106 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.bxaw.name/archives/Misconceptions-Regarding-the-Existence-of-Gay-Individuals-Amongst-Those-Around-Us.html](https://blog.bxaw.name/archives/Misconceptions-Regarding-the-Existence-of-Gay-Individuals-Amongst-Those-Around-Us.html)                       |
 | Author          | 白熊阿丸                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

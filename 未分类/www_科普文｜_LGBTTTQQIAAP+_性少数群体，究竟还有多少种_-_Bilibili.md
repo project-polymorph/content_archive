@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//i2.hdslb.com/bfs/face/76672192bc82f2d722edf58e6d9d0d8afcf749ad.jpg@96w_96h_1c_1s.webp)
+![](https://i2.hdslb.com/bfs/face/76672192bc82f2d722edf58e6d9d0d8afcf749ad.jpg@96w_96h_1c_1s.webp)
 
 **作者**: 开挖掘机的舒克  
 **时间**: 2017年09月16日 15:46  
@@ -14,7 +14,7 @@
 
 看到LGBTQ＋
 
-![](//i0.hdslb.com/bfs/article/802b48f1d66b4f17509f1712271efed57089ae39.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/802b48f1d66b4f17509f1712271efed57089ae39.jpg@1192w.webp)
 
 如果你一脸黑人问号  
 
@@ -34,7 +34,7 @@
 
 也该恶补几个专业名词重新感受一下这个世界人类的多样性
 
-![](//i0.hdslb.com/bfs/article/19ffaa43566af80828a914b95bd4d795340581a9.jpg@.webp)
+![](https://i0.hdslb.com/bfs/article/19ffaa43566af80828a914b95bd4d795340581a9.jpg@.webp)
 
 **&nbsp;**
 
@@ -74,11 +74,11 @@
 
 人们经常使用LGBTQ来表示“LGBTTTQQIAA &nbsp;
 
-![](//i0.hdslb.com/bfs/article/c93a550ea0760cb9a96f7881e69fc928b997f286.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/c93a550ea0760cb9a96f7881e69fc928b997f286.jpg@1192w.webp)
 
 ”中包含的所有社区：
 
-![](//i0.hdslb.com/bfs/article/f1a1a67ac4f66556ee239834dcbff9407a8e7e3a.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/f1a1a67ac4f66556ee239834dcbff9407a8e7e3a.jpg@1192w.webp)
 
 &nbsp;
 
@@ -130,7 +130,7 @@ LGBTQ是性少数群体社区中比较常用的术语， 你可能也听到用�
 
 今天想做女人了
 
-![](//i0.hdslb.com/bfs/article/408163988d2eb421d29e66d26bfa1f922a92c494.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/408163988d2eb421d29e66d26bfa1f922a92c494.jpg@1192w.webp)
 
 **Lesbian**／女同志
 
@@ -228,7 +228,7 @@ LGBTQ是性少数群体社区中比较常用的术语， 你可能也听到用�
 
 &nbsp;
 
-![](//i0.hdslb.com/bfs/article/edeadb387ec877d7f7614be66569c10389e4bfa8.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/edeadb387ec877d7f7614be66569c10389e4bfa8.jpg@1192w.webp)
 
 **Pansexual** 泛性恋
 
@@ -272,7 +272,7 @@ LGBTQ是性少数群体社区中比较常用的术语， 你可能也听到用�
 
 &nbsp;
 
-![](//i0.hdslb.com/bfs/article/78fc7c99268c00c5cf7fd298bdd3991bedaac00e.jpg@1192w.webp)
+![](https://i0.hdslb.com/bfs/article/78fc7c99268c00c5cf7fd298bdd3991bedaac00e.jpg@1192w.webp)
 
 **&nbsp;**
 
@@ -290,7 +290,7 @@ LGBTQ是性少数群体社区中比较常用的术语， 你可能也听到用�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自于哔哩哔哩，作者为开挖掘机的舒克，发布时间为2017年09月16日，围绕"LGBTTTQQIAAP+"这一性少数群体分类展开科学普及。文中详细说明了不同性别及性取向的定义，包括女同志（Lesbian）、男同志（Gay）、双性恋（Bisexual）、跨性别者（Transgender）、变性人（Transsexual）、双灵人（Two-Spirited）、酷儿（Queer）等多种身份，强调性别认同可以是流动变化的，满足多样性人群的不同需求。此外，文章还提到了一些对于性别认同探索中的个体，以及相关的社会文化背景，鼓励人们理解和接纳性别光谱的多样性。文章用图文并茂的方式对这些名词进行了合理归纳和解释，使读者对于性少数群体有更为全面的认识。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -301,12 +301,12 @@ LGBTQ是性少数群体社区中比较常用的术语， 你可能也听到用�
 |-----------------|----------------------------------------|
 | Filename        | www_科普文｜_LGBTTTQQIAAP+_性少数群体，究竟还有多少种_-_Bilibili.md                             |
 | Size            | 8271 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/read/cv13353/](https://www.bilibili.com/read/cv13353/)                       |
+| Author          | 开挖掘机的舒克                               |
+| Region          | 未知                               |
+| Date            | 2017-09-16                                 |
+| Tags            | LGBTTTQQIAAP+, 科普, 性别光谱, 性少数群体, 女同志, 男同志, 双性恋, 跨性别者, 变性人, 酷儿, 双灵人, 无性恋者                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

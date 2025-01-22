@@ -73,8 +73,8 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | std_网红伪娘罗大美被绑架撕票案3疑犯落网证熟人作案_-_星島日報.md                             |
 | Size            | 5567 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://std.stheadline.com/sc/realtime/article/1959006/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E7%B6%B2%E7%B4%85%E5%81%BD%E5%A8%98%E7%BE%85%E5%A4%A7%E7%BE%8E%E8%A2%AB%E7%B6%81%E6%9E%B6%E6%92%95%E7%A5%A8%E6%A1%88-3%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2%E8%AD%89%E7%86%9F%E4%BA%BA%E4%BD%9C%E6%A1%88](https://std.stheadline.com/sc/realtime/article/1959006/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E7%B6%B2%E7%B4%85%E5%81%BD%E5%A8%98%E7%BE%85%E5%A4%A7%E7%BE%8E%E8%A2%AB%E7%B6%81%E6%9E%B6%E6%92%95%E7%A5%A8%E6%A1%88-3%E7%96%91%E7%8A%AF%E8%90%BD%E7%B6%B2%E8%AD%89%E7%86%9F%E4%BA%BA%E4%BD%9C%E6%A1%88)                       |
 | Author          | 星岛日报                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-10-20                                 |

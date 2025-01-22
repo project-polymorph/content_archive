@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细揭秘了在泰国进行变性手术的全过程，通过生动的图文结合展示了手术的各个阶段，确保读者对变性人的手术经历有更加直观的了解。内容涉及手术准备、实施过程以及术后恢复等方面，透露出手术对于变性人的生活质量提升的重要性，同时也反映出社会对性别认同的逐渐重视。文中提到的‘泰国人妖’作为社会文化现象，受到了多方面的关注，并且该手术在泰国的普及也引发了广泛的讨论与思考。手术的细节被细致描绘，帮助人们更深入地理解变性者的真实体验与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“泰国人妖”手术变性全过程揭秘（组图）_-_国际滚动新闻-_东南网.md                             |
 | Size            | 1508 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.fjsen.com/i/2011-05/31/content_4711335_3.htm](http://www.fjsen.com/i/2011-05/31/content_4711335_3.htm)                       |
+| Author          | 人民网                               |
+| Region          | 泰国                               |
+| Date            | 2011-05-31                                 |
+| Tags            | 变性手术, 泰国人妖, 生命故事, 医疗资源, 性别认同, 手术经历, 社会文化, 性别多元性, 性别转换, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

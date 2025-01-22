@@ -84,7 +84,7 @@ Bernadette 告诉另外一位异装妖姬，“我不懂，郊区就像一堵丑
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇来自BBC新闻的报道，详细介绍了澳大利亚同性婚姻公投的政治博弈。文章由BBC墨瑟（Phil Mercer）撰写，并发自悉尼。文中提到，澳大利亚的执政党与反对党关于同性婚姻的立场截然不同，执政党倾向于通过全民公投让选民决定是否修改法律以允许同性伴侣结婚，而工党则认为公投浪费资源，主张由议员直接投票。报道引用了1994年电影《沙漠妖姬》中的变性人Bernadette的话，反映出澳大利亚在同性恋平权方面的重要历史和现实挑战。尽管调查显示多数澳大利亚人支持同性婚姻，反对全民公投的声音也表明这样的投票可能会引发社会分裂和仇恨。文章还提到，抗争同性婚姻平权的运动在悉尼的同性恋狂欢节上获得了广泛关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -95,12 +95,12 @@ Bernadette 告诉另外一位异装妖姬，“我不懂，郊区就像一堵丑
 |-----------------|----------------------------------------|
 | Filename        | www_记者来鸿：澳大利亚同性婚姻公投博弈-_BBC_英伦网.md                             |
 | Size            | 5671 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/ukchina/simp/fooc/2016/10/161020_fooc_australia_sam-sex_marrige](https://www.bbc.com/ukchina/simp/fooc/2016/10/161020_fooc_australia_sam-sex_marrige)                       |
+| Author          | BBC墨瑟（Phil Mercer）                               |
+| Region          | 澳大利亚                               |
+| Date            | 2016-10-20                                 |
+| Tags            | 同性婚姻, 公投, 平权, 法律改革, 社会运动, 同志权益, 文化历史, 媒体报道, 政治博弈, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

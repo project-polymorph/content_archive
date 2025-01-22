@@ -70,7 +70,7 @@ May 14, 2024
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档详细探讨了性别焦虑症的症状与病因，定义了性别焦虑的概念，并指出其对个体的影响。性别焦虑是指因个体的性别认同与出生时被赋予的性别或身体性别特征不同而感到的不适或困扰，尤其在跨性别者或多元性别者中更为常见。文中列举了性别焦虑的多种症状，包括对身体第一性征和第二性征的强烈不满感以及想要被视为另一个性别的愿望等。此外，文中还探讨了性别焦虑可能带来的并发症，如焦虑、抑郁、社交困难等，以及寻求治疗时可能面临的障碍和挑战。通过参照美国精神病学协会的诊疗手册，文档强调了确诊性别焦虑的重要性，以帮助患者获得所需的医疗支持和心理健康服务。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,12 +81,12 @@ May 14, 2024
 |-----------------|----------------------------------------|
 | Filename        | www_性别焦虑症-_症状与病因-_妙佑医疗国际.md                             |
 | Size            | 5290 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/symptoms-causes/syc-20475255](https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/symptoms-causes/syc-20475255)                       |
+| Author          | 妙佑医疗国际                               |
+| Region          | 未知                               |
+| Date            | 2024-05-14                                 |
+| Tags            | 性别焦虑, 跨性别, 多元性别, 精神健康, 医疗资源, 性别认同, 心理健康, 症状, 并发症, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

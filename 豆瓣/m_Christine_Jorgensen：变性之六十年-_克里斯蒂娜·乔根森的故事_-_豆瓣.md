@@ -35,8 +35,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Christine_Jorgensen：变性之六十年-_克里斯蒂娜·乔根森的故事_-_豆瓣.md                             |
 | Size            | 1414 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/7993948/](https://m.douban.com/movie/review/7993948/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 1970-10-29                                 |

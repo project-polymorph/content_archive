@@ -94,8 +94,8 @@ Mais， après environ 14 ans au pouvoir， la meilleure comparaison est peut-ê
 |-----------------|----------------------------------------|
 | Filename        | context_跨性别-_Traduction_en_français_-_exemples_chinois__Reverso_Context_1.md                             |
 | Size            | 4088 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://context.reverso.net/traduction/chinois-francais/%E8%B7%A8%E6%80%A7%E5%88%AB](https://context.reverso.net/traduction/chinois-francais/%E8%B7%A8%E6%80%A7%E5%88%AB)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

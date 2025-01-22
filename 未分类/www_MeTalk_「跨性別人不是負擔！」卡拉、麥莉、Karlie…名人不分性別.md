@@ -39,7 +39,7 @@ This content can also be viewed on the site it [originates](https://www.instagra
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别者在社会中的支持与倡导，并提到了名人对跨性别者权益的支持，如卡拉·迪乐芬妮和麦莉·希拉等人在社交平台上公开发表对跨性别社群的支持言论，传达出跨性别者也是人类的一部分、他们的权益应受到尊重的观点。文章中提到的LGBT（女同性恋者、男同性恋者、双性恋者与跨性别者）的缩写，反映了对所有非异性恋者的广泛包含。最近，美国总统在社交媒体上发表支持跨性别者的政策言论，引发了全球的关注和讨论，进一步提升了人们对跨性别者权益的关注度。文章还包含了一些名人Instagram的内容，展现了他们在支持跨性别者的行动中所发挥的影响力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@ This content can also be viewed on the site it [originates](https://www.instagra
 |-----------------|----------------------------------------|
 | Filename        | www_MeTalk_「跨性別人不是負擔！」卡拉、麥莉、Karlie…名人不分性別.md                             |
 | Size            | 2218 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.vogue.com.tw/vogueme/content-35008](https://www.vogue.com.tw/vogueme/content-35008)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别者支持, LGBT, 社会倡导, 名人支持, 跨性别权利, 彩虹旗, Miley Cyrus, Cara Delevingne, Karlie Kloss, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

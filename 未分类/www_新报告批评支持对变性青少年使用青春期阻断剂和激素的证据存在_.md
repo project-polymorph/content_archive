@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章讨论了一份新发布的《卡斯审查报告》（The Cass Review），该报告对变性青少年使用青春期阻断剂和激素的医疗证据提出了批评。文章指出，卡斯审查的结果显示，关于使用青春期阻断剂和荷尔蒙治疗儿童和青少年性别认同困扰的证据极为不足，因此呼吁采取更为全面的护理方法。文章涵盖了多位专家对此问题的看法，揭示了当前医疗指南与实证证据之间的脱节，以及不同医学协会对待这一问题的分歧。值得注意的是，尽管存在大量的反对声音，美国的性别医学协会依然支持现有的治疗模式。这篇文章同时也引述了媒体对于报告的不同反响，以及对此问题的趋势性担忧，强调了医疗界在这一议题上的复杂性和多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_新报告批评支持对变性青少年使用青春期阻断剂和激素的证据存在_.md                             |
 | Size            | 5038 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cnbeta.com.tw/articles/science/1432150.htm](https://www.cnbeta.com.tw/articles/science/1432150.htm)                       |
+| Author          | 未知                               |
+| Region          | 英国                               |
+| Date            | 2024-05-23                                 |
+| Tags            | 变性青少年, 青春期阻断剂, 性别认同, 医疗证据, 法律政策, 社会环境, 卡斯审查报告, 性别医疗, 医学协会, 性别平权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

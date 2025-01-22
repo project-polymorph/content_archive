@@ -57,7 +57,7 @@ TMA最近在BL市场上面有点受冷，据说前段时间的BL片卖的不佳�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了日本成人娱乐圈中的一位伪娘女优橘芹那，及其即将于12月发售的新片「女装男娘COSPLAY 橘芹那」。文中提到，橘芹那以其独特的性别表现和对COSPLAY的热爱而受到关注。文章描述了橘芹那的背景，包括她独特的身体特征和对变装文化的参与。同时，该新片的内容与风格引发了市场的期待，作者还提到该片可能涵盖COSPLAY名家角色。文末附有关于版权的说明，指出该作品使用知识共享协议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,12 +68,12 @@ TMA最近在BL市场上面有点受冷，据说前段时间的BL片卖的不佳�
 |-----------------|----------------------------------------|
 | Filename        | www_橘芹那加盟TMA，伪娘新片「女装男娘COSPLAY_橘芹那」12月发售！.md                             |
 | Size            | 2667 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jpbeta.cc/2012/10/aikb-011-in-2012-12/](https://www.jpbeta.cc/2012/10/aikb-011-in-2012-12/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 伪娘, COSPLAY, 成人娱乐, 橘芹那, 日本文化, 变装, 性别表现, 影视作品, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

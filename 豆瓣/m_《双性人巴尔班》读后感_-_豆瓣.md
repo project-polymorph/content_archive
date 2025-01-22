@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_《双性人巴尔班》读后感_-_豆瓣.md                             |
 | Size            | 3669 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/14632890/](https://m.douban.com/book/review/14632890/)                       |
 | Author          | 奶茶鱼                               |
 | Region          | 未知                               |
 | Date            | 2019-04-01                                 |

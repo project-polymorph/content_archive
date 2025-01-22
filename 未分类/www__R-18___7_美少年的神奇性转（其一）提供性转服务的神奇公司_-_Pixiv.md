@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《美少年的神奇性转（其一）提供性转服务的神奇公司》是一篇关于飞梦公司推出的奇幻服务的小说，讲述了一个可以在短时间内自由小幅度改变身体构造的生物技术。该技术旨在帮助用户体验更高、更快、更强的状态。文中通过虚构的公司及其产品，探讨了性别转化与人类身体的可能性，对多元性别的想象和讨论具有一定的深度。作者通过生动的描写和引人入胜的情节，展示了一个充满奇幻色彩的世界，意图引发读者对性别与身份认同的思考。在这种奇妙的设定中，故事挑起了人们对性别流动性和社会规范的反思，是否只有单一性别才能定义一个人。作品的语言简练，情节紧凑，呈现了多元性别文化的丰富性与复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__R-18___7_美少年的神奇性转（其一）提供性转服务的神奇公司_-_Pixiv.md                             |
 | Size            | 1191 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pixiv.net/novel/show.php?id=17733368](https://www.pixiv.net/novel/show.php?id=17733368)                       |
+| Author          | 逝者夜卫                               |
+| Region          | 未知                               |
+| Date            | 2022-06-06                                 |
+| Tags            | 性转, 多元性别, 虚构世界, 飞梦公司, 生物技术, 性别流动性, 身份认同, 奇幻文学, 创意写作, 文化讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

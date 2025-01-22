@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_男跨性别者一定迷恋男权文化对女性身体规训后的样子吗？_-_翠丝-_豆瓣.md                             |
 | Size            | 2166 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/10038509/](https://m.douban.com/movie/review/10038509/)                       |
 | Author          | 偏执狂                               |
 | Region          | 中国香港                               |
 | Date            | 2019-03-25                                 |

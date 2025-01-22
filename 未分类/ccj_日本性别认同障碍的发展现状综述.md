@@ -68,8 +68,8 @@ GB/T 7714
 |-----------------|----------------------------------------|
 | Filename        | ccj_日本性别认同障碍的发展现状综述.md                             |
 | Size            | 2949 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://ccj.pku.edu.cn/article/info?id=215339127](http://ccj.pku.edu.cn/article/info?id=215339127)                       |
 | Author          | 周宇, 李毅, 中塚幹也                               |
 | Region          | 日本                               |
 | Date            | 2017-11-01                                 |

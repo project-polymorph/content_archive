@@ -47,8 +47,8 @@ Ep0 制作人员名单：
 |-----------------|----------------------------------------|
 | Filename        | podcasts_Loạt_Podcast_E2_TALK_–_Apple_Podcasts.md                             |
 | Size            | 2663 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/us/podcast/e2-talk/id1724764042?l=vi](https://podcasts.apple.com/us/podcast/e2-talk/id1724764042?l=vi)                       |
 | Author          | E2 Project/橙柚橙                               |
 | Region          | 未知                               |
 | Date            | 2024-12-01                                 |

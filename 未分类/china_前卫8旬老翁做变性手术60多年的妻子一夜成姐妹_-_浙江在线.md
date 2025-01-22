@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_前卫8旬老翁做变性手术60多年的妻子一夜成姐妹_-_浙江在线.md                             |
 | Size            | 2581 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://china.zjol.com.cn/05china/system/2004/06/02/002867804.shtml](http://china.zjol.com.cn/05china/system/2004/06/02/002867804.shtml)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2004-06-02                                 |

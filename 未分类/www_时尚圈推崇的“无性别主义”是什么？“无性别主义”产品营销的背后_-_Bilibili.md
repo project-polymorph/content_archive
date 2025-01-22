@@ -579,7 +579,7 @@ Evie-香港-2群副群主:
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了无性别主义在时尚界的崛起及其背后的市场营销策略。文章由冷芸时尚博士撰写，结合多位时尚圈人士的观点，尤其是Evie-香港-2群副群主，对无性别主义的定义和流行趋势进行了深入分析。无性别主义被认为是打破性别刻板印象的重要体现，参与者讨论了如何理解该概念，强调无性别不仅仅限于穿着的选择，也包括性别认同与社会建构的复杂性。此外，文件中还提到一些代表性品牌和人物，比如YSL与山本耀司，以及影视演员如蒂尔达·斯文顿和Erza Miller，这些都在无性别主义的文化内涵上有着重要意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -590,12 +590,12 @@ Evie-香港-2群副群主:
 |-----------------|----------------------------------------|
 | Filename        | www_时尚圈推崇的“无性别主义”是什么？“无性别主义”产品营销的背后_-_Bilibili.md                             |
 | Size            | 28462 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/read/cv3014369/](https://www.bilibili.com/read/cv3014369/)                       |
+| Author          | 冷芸时尚博士                               |
+| Region          | 香港                               |
+| Date            | 2019-07-06                                 |
+| Tags            | 无性别主义, 时尚文化, 市场营销, 性别认同, 多元性别, 身体政治, 社会建构, 设计理念, 品牌分析, 性别模糊性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

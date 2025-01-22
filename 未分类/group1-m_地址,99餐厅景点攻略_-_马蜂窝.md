@@ -114,8 +114,8 @@ V7MM+96Q, Pa Tong, Kathu District, Phuket 83150, Thailand
 |-----------------|----------------------------------------|
 | Filename        | group1-m_地址,99餐厅景点攻略_-_马蜂窝.md                             |
 | Size            | 4892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://group1-m.mafengwo.cn/poi/3233.html](https://group1-m.mafengwo.cn/poi/3233.html)                       |
 | Author          | 马蜂窝攻略组                               |
 | Region          | 泰国普吉岛                               |
 | Date            | 2024-02-19                                 |

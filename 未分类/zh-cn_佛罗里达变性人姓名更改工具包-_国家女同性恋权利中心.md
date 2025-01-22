@@ -59,7 +59,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是由国家女同性恋权利中心提供的佛罗里达州变性人姓名更改工具包，旨在为跨性别者提供指导，以便他们能够顺利修改身份证件上的姓名与性别，以符合其新的法定身份。在文件中，包含了如何进行姓名更改所需的步骤和相关法律信息，以及提供支持与资源的组织链接，如平等佛罗里达、奥兰多骄傲出柜、南方法律顾问有限公司等。这些组织致力于为LGBTQ社区提供支持，推动平等和权利保护。
+
+该工具包还包括了一些重要的资源和组织，支持跨性别者在法律和社会上获得应有的权利，帮助他们在变性过渡中获取必要的法律支持，确保他们的身份证明能够反映其真实的性别与身份。文件最后提到了一些与该主题相关的重要资源与组织，进一步阐述了如何在佛罗里达州获得跨性别者权益的保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh-cn_佛罗里达变性人姓名更改工具包-_国家女同性恋权利中心.md                             |
 | Size            | 3143 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh-cn.nclrights.org/get-help/resource/florida-transgender-name-change-kit/](https://zh-cn.nclrights.org/get-help/resource/florida-transgender-name-change-kit/)                       |
+| Author          | 国家女同性恋权利中心                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别者, 姓名更改, 法律指南, LGBTQ权益, 佛罗里达州, 医疗资源, 社会支持, 性别认同, 变性人, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

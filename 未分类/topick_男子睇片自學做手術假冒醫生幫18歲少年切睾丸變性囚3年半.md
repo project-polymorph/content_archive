@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | topick_男子睇片自學做手術假冒醫生幫18歲少年切睾丸變性囚3年半.md                             |
 | Size            | 3870 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://topick.hket.com/article/2166068/%E7%94%B7%E5%AD%90%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8%E5%81%9A%E6%89%8B%E8%A1%93%E5%81%87%E5%86%92%E9%86%AB%E7%94%9F%E3%80%80%E5%B9%AB18%E6%AD%B2%E5%B0%91%E5%B9%B4%E5%88%87%E7%9D%BE%E4%B8%B8%E8%AE%8A%E6%80%A7%E5%9B%9A3%E5%B9%B4%E5%8D%8A](https://topick.hket.com/article/2166068/%E7%94%B7%E5%AD%90%E7%9D%87%E7%89%87%E8%87%AA%E5%AD%B8%E5%81%9A%E6%89%8B%E8%A1%93%E5%81%87%E5%86%92%E9%86%AB%E7%94%9F%E3%80%80%E5%B9%AB18%E6%AD%B2%E5%B0%91%E5%B9%B4%E5%88%87%E7%9D%BE%E4%B8%B8%E8%AE%8A%E6%80%A7%E5%9B%9A3%E5%B9%B4%E5%8D%8A)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-09-21                                 |

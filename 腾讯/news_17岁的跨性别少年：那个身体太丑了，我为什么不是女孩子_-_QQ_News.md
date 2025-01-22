@@ -419,8 +419,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_17岁的跨性别少年：那个身体太丑了，我为什么不是女孩子_-_QQ_News.md                             |
 | Size            | 35218 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20200702A0PUD100](https://news.qq.com/rain/a/20200702A0PUD100)                       |
 | Author          | 记者/佟晓宇 实习记者/李晶晶 甘笠男                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-07-02                                 |

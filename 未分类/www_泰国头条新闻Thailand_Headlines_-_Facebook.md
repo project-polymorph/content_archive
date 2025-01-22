@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国街头近期发生的人妖与洋人之间的冲突事件，特别是人妖自发组织的“曼谷百妖大战”。人妖们在这场活动中试图捍卫自身的尊严和地位，成为泰国人民心目中的民族英雄。而洋人在事件后遭到广泛指责，报道中提及洋人自普吉岛事件以来的负面形象，使其成为街头争议的焦点。作者通过对事件的生动描述，展现了泰国社会对于性别多元化的复杂态度，以及公众对于这些社会现象的反应和看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国头条新闻Thailand_Headlines_-_Facebook.md                             |
 | Size            | 1021 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=1015801996715191&id=100048562003107&set=a.601755051453223](https://www.facebook.com/photo.php?fbid=1015801996715191&id=100048562003107&set=a.601755051453223)                       |
+| Author          | 泰国头条新闻                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 泰国社会, 人妖文化, 性别多元, 社会现象, 媒体报道, 公共事件, 民族英雄, 性别认同, 文化冲突, 社会动态                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

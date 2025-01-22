@@ -58,7 +58,7 @@ _关注《当今大马》[WhatsApp频道](https://mk.my/whatsapp) 随时接收�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了在马来西亚砂拉越一则引发争议的新闻。公正党顾问安华在古晋国际机场受到一群变性人的迎接，然而这一幕被当地英文报纸《东方时报》报道后，引起了公正党高层的不满。他们认为这样的报道贬低了安华的形象，指责媒体的做法低劣。报告中引用了公正党候选人黄锦河和副主席阿兹敏阿里的言论，表达了对媒体报道的不满，并提到不少人士质疑这一事件的真实性，认为可能是敌对政治势力所策划。此外，报道称《东方时报》坚称其报道内容属实，并没有恶意。此次事件反映了马来西亚政治中的复杂性和对多元性别的态度，以及媒体报道对公众认知的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,12 +69,12 @@ _关注《当今大马》[WhatsApp频道](https://mk.my/whatsapp) 随时接收�
 |-----------------|----------------------------------------|
 | Filename        | www_公正党不满砂报章报道br指变性人持布条迎接安华.md                             |
 | Size            | 3055 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.malaysiakini.com/news/51139](https://www.malaysiakini.com/news/51139)                       |
+| Author          | 未知                               |
+| Region          | 马来西亚                               |
+| Date            | 2006-05-16                                 |
+| Tags            | 变性人, 马来西亚政治, 公正党, 安华, 媒体争议, 性别多元, 东马新闻, 社交局势, 社会支持, 政治反弹                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

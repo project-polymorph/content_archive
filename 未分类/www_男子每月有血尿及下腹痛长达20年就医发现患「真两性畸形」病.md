@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一名四川男子因尿道发育异常，长达20年经历周期性血尿和下腹疼痛的真实故事。随着症状的持续，患者在2022年最终被诊断出患有罕见病例“真两性畸形”。文章详细叙述了患者的痛苦经历，包括在住院期间误诊为急性阑尾炎，直到经过多次检查才揭示出其体内同时存在男性和女性的性腺及生殖器官。对他来说，原本以为是血尿的情况竟然是女性月经，医生指出他的雄激素水平偏低，因此不具备生育能力。经过咨询后，他选择移除女性生殖器官，康复出院。这种情况揭示了医疗领域对多元性别的理解还需加强，同时也引发了对性别与生殖健康的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男子每月有血尿及下腹痛长达20年就医发现患「真两性畸形」病.md                             |
 | Size            | 3588 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.fintv.hk/Zhcn/video/watch/354625](https://www.fintv.hk/Zhcn/video/watch/354625)                       |
+| Author          | 现代电视                               |
+| Region          | 中国四川                               |
+| Date            | 2022-07-07                                 |
+| Tags            | 真两性畸形, 性别身份, 生殖健康, 医疗经历, 法律政策, 社会环境, 男性健康, 月经, 健康故事, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

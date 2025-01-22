@@ -51,7 +51,7 @@ Ying Yang, Jing Liu, Xiaomei Qi. Inflammation after breast augmentation by injec
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一例男性易性癖患者在接受注射式隆乳手术后发生感染的案例。该病例由四位作者共同撰写，归属于中华乳腺病杂志的电子版。文件中详细介绍了患者的手术经过以及术后感染的情况，并提供了多张术前术后的对比照片，展示了患者面临的健康问题。文中提及了易性转化癖的相关健康风险，以及医院在处理此类医疗事件时采取的措施，包括详细的术后护理与应对感染的策略。同时，还引用了诸多相关的文献，以支持研究结论。该研究为相关医疗领域提供了重要的参考，尤其是在男性易性癖患者的医护管理方面。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@ Ying Yang, Jing Liu, Xiaomei Qi. Inflammation after breast augmentation by injec
 |-----------------|----------------------------------------|
 | Filename        | zhrxbzz_男性易性癖患者注射式隆乳术后感染一例_-_中华乳腺病杂志_电子版_.md                             |
 | Size            | 4238 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhrxbzz.cma-cmc.com.cn/CN/10.3877/cma.j.issn.1674-0807.2018.05.013](https://zhrxbzz.cma-cmc.com.cn/CN/10.3877/cma.j.issn.1674-0807.2018.05.013)                       |
+| Author          | 杨英, 刘静, 齐小梅, 颜贤惠                               |
+| Region          | 重庆, 中国                               |
+| Date            | 2018-10-01                                 |
+| Tags            | 男性易性癖, 注射式隆乳, 术后感染, 生存现状, 医疗资源, 健康问题, 医学研究, 中华乳腺病杂志, 案例分析, 医疗管理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

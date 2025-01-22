@@ -174,7 +174,7 @@ Facebook 於 2014 年給用戶設置了 56 個性別選項，其中就包括非�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了日本音乐人宇多田光公开自我认同为非二元性别者的过程，强调了减少性别二元标签对身份和行为的影响。宇多田光提出，性别不仅仅是男性或女性的简单二分，而是一个复杂的谱系。她的公开声明引起了广泛讨论，尤其是对于传统性别观念的挑战。文章探讨了科学研究如何证实性别并非二元分类，并分析了社会对性别的认知如何影响儿童的发展。文中提到全球范围内对于非二元性别的支持逐渐增加，以及许多文化中正涌现出非二元性别的趋势。作者呼吁采用性别中立的语言来促进理解和包容，同时强调每个人都有权决定怎样定义自己的性别。文章最后提到，无论他人的性别认同如何，我们都应破除性别刻板印象，并追求自由的生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -185,12 +185,12 @@ Facebook 於 2014 年給用戶設置了 56 個性別選項，其中就包括非�
 |-----------------|----------------------------------------|
 | Filename        | womany_宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界_-_女人迷.md                             |
 | Size            | 14150 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://womany.net/read/article/27468](https://womany.net/read/article/27468)                       |
+| Author          | KnowYourself                               |
+| Region          | 台湾                               |
+| Date            | 2021-07-26                                 |
+| Tags            | 非二元性别, 宇多田光, 性别认同, 性别二元论, 性别多样性, 社会性别, 性别刻板印象, 公平与包容, 研究统计, 文化趋势                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

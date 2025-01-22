@@ -66,8 +66,8 @@
 |-----------------|----------------------------------------|
 | Filename        | summer-plus__RPG汉化__性转的幻想少女战记：TFFN！精修完整汉化版_多空1.2_G_.md                             |
 | Size            | 3221 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://summer-plus.net/simple/index.php?t2020361.html](https://summer-plus.net/simple/index.php?t2020361.html)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-11-29                                 |

@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一位特殊的跨性别女性的故事。她曾是一位男孩，因战斗受伤后被迫进行变性手术。故事通过她与周围人关系的变化，详细描述了她的过渡经历以及她如何适应新的身份。主人公拥有出众的外貌，却因为性取向的原因拒绝了众多男性的追求。她的性取向倾向于女性，尽管身体上已经转变为女性。故事通过她与一位同事的私密对话，揭示了她的过往和心路历程，表现了她面对自我身份的挣扎和接受，展现了跨性别者在社会中的现状和挑战，也引发了对性别认同和社会偏见的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__伪娘_药娘记一位特殊的“女孩”_-_xuezhaoの小説-_pixiv.md                             |
 | Size            | 9843 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pixiv.net/novel/show.php?id=13303009](https://www.pixiv.net/novel/show.php?id=13303009)                       |
+| Author          | xuezhao                               |
+| Region          | 未知                               |
+| Date            | 2020-07-11                                 |
+| Tags            | 跨性别, 变性经历, 性别认同, 同性恋, 生命故事, 社会偏见, 文学艺术, 心理健康, 性别多样性, 女性经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

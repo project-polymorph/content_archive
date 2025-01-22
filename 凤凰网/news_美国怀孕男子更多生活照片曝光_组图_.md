@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自凤凰网，报道了美国一位怀孕男子比提的生活照片与故事。比提在变性手术后与恋人南茜结婚，并为帮助南茜解决不孕问题而怀上了孩子。文章中提到，比提原为女性，经过变性手术后怀孕，成为第一位在美怀孕的变性男性。文章包括了比提和南茜的生活照片，以及对于他们未来孩子的期待。这则新闻不仅关注了比提的个人经历，也反映了多元性别人士的生存现状及家庭生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_美国怀孕男子更多生活照片曝光_组图_.md                             |
 | Size            | 1624 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml](https://news.ifeng.com/photo/society/200804/0407_1400_478267_3.shtml)                       |
+| Author          | 凤凰资讯                               |
+| Region          | 美国                               |
+| Date            | 2008-04-07                                 |
+| Tags            | 变性, 同性恋, 多元性别, 怀孕男子, 生育权利, 性别认同, 家庭生活, 媒体报道, 社会接受度, 个案研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | games_女装大佬-动态-西山居游戏中心.md                             |
 | Size            | 2794 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://games.xoyo.com/content/dynamic/?id=5b0e4da44ddac556f587671a](https://games.xoyo.com/content/dynamic/?id=5b0e4da44ddac556f587671a)                       |
 | Author          | 女装大佬                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-05-30                                 |

@@ -105,8 +105,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_这乱世，不被忽悠才是真本事.md                             |
 | Size            | 9558 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_21029751](https://m.thepaper.cn/newsDetail_forward_21029751)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

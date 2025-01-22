@@ -103,7 +103,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为刘以翎撰写，记录了一名跨性别政治异见者在中国面临的困境与挑战。作者讲述了其在跨性别身份认同、精神健康与家庭暴力间的艰辛历程，具体描绘了个人经历与国家制度对跨性别者的压迫。文中还提及了2022年乌鲁木齐火灾对LGBT群体的影响以及随之而来的中国政府对跨性别者的进一步攻击，包括药品的禁售和社会舆论的扭曲。作者的故事不仅揭示了极权政府如何对跨性别者进行系统性歧视和迫害，同时也展现了其为呼吁人权与自由而开展的抗争，表达了对未来的希望与坚定信念。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -114,12 +114,12 @@
 |-----------------|----------------------------------------|
 | Filename        | yibaochina_刘以翎_赌上生命的踽踽万里并非孤立无援——一名跨性别_.md                             |
 | Size            | 11734 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://yibaochina.com/?p=249487](https://yibaochina.com/?p=249487)                       |
+| Author          | 刘以翎                               |
+| Region          | 瑞士                               |
+| Date            | 2023-02-10                                 |
+| Tags            | 跨性别, 人权, 政治异见, 精神健康, 家庭暴力, 性别认同, 社会压迫, 法律政策, 抗争经历, LGBTQ+                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

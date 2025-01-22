@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖的爱情故事-_会更好的_-_豆瓣.md                             |
 | Size            | 2379 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/5582250/](https://m.douban.com/movie/review/5582250/)                       |
 | Author          | 毛毛毛毛毛多多                               |
 | Region          | 泰国                               |
 | Date            | 2012-02-14                                 |

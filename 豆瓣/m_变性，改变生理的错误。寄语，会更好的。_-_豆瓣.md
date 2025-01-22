@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性，改变生理的错误。寄语，会更好的。_-_豆瓣.md                             |
 | Size            | 2605 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/43596256/](https://m.douban.com/doulist/43596256/)                       |
 | Author          | 灰蓝 (成都)                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-01-19                                 |

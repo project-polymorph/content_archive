@@ -52,14 +52,14 @@
 
 10. 如果您是跨性别者，是否愿意留下您的联系方式，方便我们后续联系您进行一些访谈
 
-![](//s1.wenjuan.com/assets/images/logo/circle-blue-dog.svg) 问卷网 提供支持
+![](https://s1.wenjuan.com/assets/images/logo/circle-blue-dog.svg) 问卷网 提供支持
 <!-- tcd_original_link https://www.wenjuan.com/s/BzuiYvZ?test=1&share_device=baiying -->
 
 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了社会对跨性别者的看法，围绕着一项问卷调查的结果进行讨论。问卷内容涵盖了个人性别、年龄、性取向等基本信息，并针对公众对跨性别者的认知与态度进行了详细询问。通过这些问题，调查旨在了解人们是否听说过跨性别者这一概念、对跨性别者是否持有误解，以及他们在社会环境中的接受度。例如，问卷询问了对跨性别人士使用厕所的看法，以及大众对跨性别宣传的态度，可见该调查试图揭示社会对于跨性别人群的接纳程度及可能存在的偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_社会对跨性别者的看法_-_问卷网.md                             |
 | Size            | 1666 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wenjuan.com/s/BzuiYvZ?test=1&share_device=baiying](https://www.wenjuan.com/s/BzuiYvZ?test=1&share_device=baiying)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别者, 社会认同, 性别认同, 心理性别, 问卷调查, 公众态度, 性别歧视, 社会接受度, 厕所争议, 跨性别权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -86,8 +86,8 @@ Una persona es transgénero，不是跨性别者。跨性别者的形式不需�
 |-----------------|----------------------------------------|
 | Filename        | llli_TRANSGÉNEROTRANSEXUALGENERO_FLUIDO_Y_LACTANCIA_.md                             |
 | Size            | 4420 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://llli.org/zh/informacion-sobre-la-lactancia-materna-de-la-a-a-la-z/transgenero-transexual-genero-fluido-y-lactancia-informacion-general/](https://llli.org/zh/informacion-sobre-la-lactancia-materna-de-la-a-a-la-z/transgenero-transexual-genero-fluido-y-lactancia-informacion-general/)                       |
 | Author          | Amaia Sarriegui, Veronica Garea, Lourdes Santaballa, Rocío Velásquez                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

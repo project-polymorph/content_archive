@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件来自美国之音，主要报道国际人权组织“人权观察”对中国政府施压，要求禁止针对LGBT群体的强制性转变治疗。报道详细描述了转变治疗的残酷性和非人道性，包括对患者的非自愿拘禁、电击和强迫用药等，以及诸多受访者的痛苦经历。尽管中国在1997年已正式将同性恋去除出精神疾病名单，但此类转变治疗依然在一些家庭和医疗机构中存在。人权观察的报告认为，因缺乏法律保障，许多受害者不愿意寻求法律帮助，这些现象反映出中国LGBT群体面临的社会压力与根深蒂固的歧视问题。文中还提到中国心理学会早已将同性恋去除出精神疾病分类，并指出目前法律并未有效禁止转换治疗的实施。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_人权观察敦促中国禁止对LGBT群体的强制性转变治疗_-_美国之音.md                             |
 | Size            | 3021 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.voachinese.com/a/human-rights-china-lgbt-people-therapy-20171115/4116523.html](https://www.voachinese.com/a/human-rights-china-lgbt-people-therapy-20171115/4116523.html)                       |
+| Author          | 美国之音                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-11-16                                 |
+| Tags            | LGBT, 人权观察, 转变治疗, 同性恋, 双性恋, 变性者, 法律问题, 医疗虐待, 心理健康, 社会歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

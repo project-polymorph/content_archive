@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了郭德纲与于谦在德云社成立25周年庆典上提到的一个引发讨论的话题，关于高峰是否进行了变性手术。文中包括了郭德纲的节目片段和幽默言辞，以及对这一话题的调侃与引申，显示了德云社在表演艺术领域的影响力和幽默风格。此内容以具有娱乐性和争议性为特点，吸引了观众的注意。同时，文中链接了其它相关视频，展示了德云社的艺术特色。内容涉及生命故事与过渡经历的讨论，但也包裹在轻松搞笑的表演中，反映出多元性别话题在社会中的多样化表达。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_留在泰国当娘娘了！！！《做手术》郭德纲于谦德云社成立25周年庆典.md                             |
 | Size            | 1045 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=MyOpEPrBoL8](https://www.youtube.com/watch?v=MyOpEPrBoL8)                       |
+| Author          | 郭德纲、于谦，德云社                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 郭德纲, 于谦, 高峰, 德云社, 变性手术, 喜剧表演, 综艺节目, 性别流动, 幽默, 文化现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

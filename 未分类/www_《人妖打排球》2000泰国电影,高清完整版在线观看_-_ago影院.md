@@ -19,7 +19,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖打排球》是一部2000年上映的泰国电影，围绕一支由同性恋者和变性人组成的业余男子排球队展开。影片讲述了这支球队在比赛中取得成功的过程，虽然他们展示了卓越的技术和团队精神，但更令人关注的是他们的身份性别。球队在赛季赛事中表现尤为出色，晋级总决赛的过程中，面临内部矛盾、外界的嘲讽以及排球协会的压力等诸多挑战。电影深入探讨了身份、性别和社会接纳等复杂的议题，展现了队员们在赛场与日常生活中所经历的困难与坚持，体现了他们对排球的热爱与不屈的精神。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -30,12 +30,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《人妖打排球》2000泰国电影,高清完整版在线观看_-_ago影院.md                             |
 | Size            | 1527 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.agoyy.com/film/92456](https://www.agoyy.com/film/92456)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2000-01-01                                 |
+| Tags            | 电影, 多元性别, 排球, 泰国电影, 同性恋, 变性人, 身份认同, 社会接纳, 体育竞技, 性别议题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

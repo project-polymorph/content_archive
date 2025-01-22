@@ -121,8 +121,8 @@
 |-----------------|----------------------------------------|
 | Filename        | transgender_看見跨性別藝文展高雄場.md                             |
 | Size            | 7847 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transgender.tapcpr.org/%E7%9C%8B%E8%A6%8B%E8%B7%A8%E6%80%A7%E5%88%A5%E8%97%9D%E6%96%87%E5%B1%95%E9%AB%98%E9%9B%84%E5%A0%B4](https://transgender.tapcpr.org/%E7%9C%8B%E8%A6%8B%E8%B7%A8%E6%80%A7%E5%88%A5%E8%97%9D%E6%96%87%E5%B1%95%E9%AB%98%E9%9B%84%E5%A0%B4)                       |
 | Author          | 台湾伴侣权益推动联盟、鸚鵡螺餐酒馆等                               |
 | Region          | 台湾                               |
 | Date            | 2023-03-24                                 |

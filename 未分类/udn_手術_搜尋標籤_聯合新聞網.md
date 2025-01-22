@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件包含了多元性别相关的医疗信息存档，主要探讨了未成年人的性别手术问题以及与医疗照护相关的性别差异。文中提到，卫福部为营造性平友善的就医环境，制定了「LGBT+民众医疗照护参考指引」，允许12至18岁的未成年人在经过专业团队评估后进行性别手术。作者提到的政策旨在提高医疗服务质量，消除在医疗体系中对LGBT+群体的歧视和偏见。此外，文件中还包含一则关于颈椎病的医疗报告，虽然不直接与多元性别相关，但反映了医疗信息综合性的重要性。最后，文中呼吁评估医疗服务对不同性别群体的照护需求，并提供性别适应的最新研究与支持资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | udn_手術_搜尋標籤_聯合新聞網.md                             |
 | Size            | 2134 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://udn.com/search/tagging/2/%E6%89%8B%E8%A1%93](https://udn.com/search/tagging/2/%E6%89%8B%E8%A1%93)                       |
+| Author          | 联合新闻网                               |
+| Region          | 台湾                               |
+| Date            | 2025-01-13                                 |
+| Tags            | 多元性别, 性别手术, LGBT+, 医疗照护, 性别适应, 卫福部, 医疗政策, 健康问题, 性别医疗, 社会平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

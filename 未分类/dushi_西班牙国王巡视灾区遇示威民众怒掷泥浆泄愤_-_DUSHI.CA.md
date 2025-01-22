@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | dushi_西班牙国王巡视灾区遇示威民众怒掷泥浆泄愤_-_DUSHI.CA.md                             |
 | Size            | 5892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E7%8E%8B%E5%B7%A1%E8%A7%86%E7%81%BE%E5%8C%BA%E9%81%87%E7%A4%BA%E5%A8%81-%E6%B0%91%E4%BC%97%E6%80%92%E6%8E%B7%E6%B3%A5%E6%B5%86%E6%B3%84%E6%84%A4/](https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E7%8E%8B%E5%B7%A1%E8%A7%86%E7%81%BE%E5%8C%BA%E9%81%87%E7%A4%BA%E5%A8%81-%E6%B0%91%E4%BC%97%E6%80%92%E6%8E%B7%E6%B3%A5%E6%B5%86%E6%B3%84%E6%84%A4/)                       |
 | Author          | 未知                               |
 | Region          | 西班牙                               |
 | Date            | 2024-11-01                                 |

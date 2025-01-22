@@ -74,7 +74,7 @@ We would also like to express our support for the unity of Turkish LGBT comrades
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《声援土耳其跨性别性工作者被杀案 – 午夜蓝》，其内容围绕2016年8月8日土耳其跨性别性工作者兼社运人士Hande Kader被杀害的事件进行深入探讨与呼吁。文件中描述了当日午夜蓝及其他团体在土耳其领事馆前示威，旨在要求土耳其政府对该案件进行公正处理。在文中，详细讲述了Kader遭受的暴行，包括她在被杀前的性侵，以及她的尸体被焚烧的事实。此事件发生在土耳其政治动荡的背景下，反映出酷儿群体在社会不安全与制度压迫中的脆弱地位。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,12 +85,12 @@ We would also like to express our support for the unity of Turkish LGBT comrades
 |-----------------|----------------------------------------|
 | Filename        | www_聲援土耳其跨性別性工作者被殺案_-_午夜藍.md                             |
 | Size            | 9612 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.mnbhk.org/?p=420](http://www.mnbhk.org/?p=420)                       |
+| Author          | 午夜蓝及相关团体                               |
+| Region          | 香港                               |
+| Date            | 2016-08-23                                 |
+| Tags            | 跨性别, 性工作者, 土耳其, 性别平权, 社会运动, 死亡案例, 示威活动, 仇恨犯罪, 香港, 国际声援                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

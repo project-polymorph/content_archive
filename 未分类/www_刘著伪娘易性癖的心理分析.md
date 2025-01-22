@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要分析了刘著这一名为‘著姐’的男生在生活和舞台表现中是如何颠覆传统性别认知的。刘著因穿着女性服饰和化妆引起了公众的广泛关注，其父母对此早有察觉并对他的性别认同表示理解与担忧。文章明确区分了‘伪娘’与易性癖，指出易性癖是一种心理现象，而并非单纯的行为表现。文中提到，在中国，易性癖仍被视为心理障碍，但在西方如法国早已被剔除出精神疾病名单。易性癖与性别认同的复杂关系，以及对变性手术的不同看法，更是引发了社会的讨论。此外，文章还探讨了易性癖的成因，其中包括家庭教育和生物学因素。文章强调伪娘并不等于同性恋，且对性心理的理解需要细致区分。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_刘著伪娘易性癖的心理分析.md                             |
 | Size            | 6111 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.huiyn.com/%E5%88%98%E8%91%97%E4%BC%AA%E5%A8%98%E6%98%93%E6%80%A7%E7%99%96%E7%9A%84%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90/](https://www.huiyn.com/%E5%88%98%E8%91%97%E4%BC%AA%E5%A8%98%E6%98%93%E6%80%A7%E7%99%96%E7%9A%84%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 易性癖, 心理常识, 性心理, 性别认同, 伪娘, 生理与心理性别, 变性手术, 社会认知, 文化差异, 性别教育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -83,8 +83,8 @@ RLE 与其他性别肯定步骤是一定程度上相辅相成的 -- HRT 会让�
 |-----------------|----------------------------------------|
 | Filename        | rle_男性倾向跨性别者的RLE_-_RLE.wiki.md                             |
 | Size            | 2877 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rle.wiki/fashion/ftm/](https://rle.wiki/fashion/ftm/)                       |
 | Author          | 航                               |
 | Region          | 未知                               |
 | Date            | 2024-04-18                                 |

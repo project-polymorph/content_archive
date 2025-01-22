@@ -217,8 +217,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_得知儿子是穿女装的跨性别者，妈妈亲自为他化妆_吴楠专栏_-_豆瓣.md                             |
 | Size            | 23578 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/803302364/](https://m.douban.com/note/803302364/)                       |
 | Author          | 吴楠                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-05-21                                 |

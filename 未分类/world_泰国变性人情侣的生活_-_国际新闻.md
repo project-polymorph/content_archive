@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了来自泰国的变性人情侣的生活故事，深刻反映了她们在情感和社会认同方面的冲突与融合。两位主角优兰达与荣纳吉在工作中相识，虽然年龄上存在差距，但两人在性格和想法上互相吸引，逐渐建立起深厚的感情。尽管外部环境中充满阻碍，荣纳吉仍感受到优兰达温和与幽默的一面带来的温暖与支持。文章展示了泰国文化中性别认同的多元性与包容性，体现了社会对变性人群体的理解与接纳，也为读者提供了对变性人生活的深入观察。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_泰国变性人情侣的生活_-_国际新闻.md                             |
 | Size            | 1095 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://world.huanqiu.com/article/9CaKrnJI5vg](https://world.huanqiu.com/article/9CaKrnJI5vg)                       |
+| Author          | 程红恩                               |
+| Region          | 泰国                               |
+| Date            | 2015-02-24                                 |
+| Tags            | 变性人, 情侣故事, 泰国文化, 性别认同, 多元性别, 情感经历, 社会认同, 生活记录, 新闻报道, 程红恩                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

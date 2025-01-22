@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了变性手术（性别确认手术）的基本概念、术语及其社会文化背景。变性手术，即性别重置手术，旨在将现存的生理性别特征转变为与个体自我认同的性别相符的特征。文章详细解释了变性手术的不同名称（如 SRS、GRS）及其所涉及的各类手术，例如乳房切除和阴道成形术等。术语的演变反映了医疗领域在性别确认和变性人群中的语言使用上逐渐向尊重与包容的方向变化。此外，文章强调进行此类手术的前期心理评估和后期护理的重要性，以及并非所有变性人都选择或有权获得这种医疗干预的事实。作者还提及，变性手术的决定往往是性别确认过程中至关重要的步骤，但每个人的经历和选择都是独特的。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性手术.md                             |
 | Size            | 2882 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.seksediversiteit.nl/zh-CN/woordenlijst/sex-reassignment-surgery/](https://www.seksediversiteit.nl/zh-CN/woordenlijst/sex-reassignment-surgery/)                       |
+| Author          | 米里亚姆·范德哈夫                               |
+| Region          | 未知                               |
+| Date            | 2024-01-05                                 |
+| Tags            | 变性手术, 性别确认手术, SRS, 性别重置手术, 性别重置治疗, 医疗干预, 心理评估, 术后护理, 文化影响, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

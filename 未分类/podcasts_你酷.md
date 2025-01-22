@@ -89,8 +89,8 @@
 |-----------------|----------------------------------------|
 | Filename        | podcasts_你酷.md                             |
 | Size            | 3712 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/us/podcast/%E4%BD%A0%E9%85%B7/id1734977534](https://podcasts.apple.com/us/podcast/%E4%BD%A0%E9%85%B7/id1734977534)                       |
 | Author          | 酒标、曲奇                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-12-20                                 |

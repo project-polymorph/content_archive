@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_温州人吴朝晖担任浙江大学校长_人事_温州网.md                             |
 | Size            | 3530 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.66wz.com/system/2015/03/26/104397240.shtml](https://news.66wz.com/system/2015/03/26/104397240.shtml)                       |
 | Author          | 温州新闻网                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-03-26                                 |

@@ -37,8 +37,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_新西兰43岁变性人将征战东京奥运会_-_中青在线.md                             |
 | Size            | 1636 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.cyol.com/gb/articles/2021-06/22/content_3PaK9sz9M.html](http://news.cyol.com/gb/articles/2021-06/22/content_3PaK9sz9M.html)                       |
 | Author          | 郭磊 卢怀谦                               |
 | Region          | 新西兰                               |
 | Date            | 2021-06-22                                 |

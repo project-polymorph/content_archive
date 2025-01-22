@@ -137,8 +137,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_witch103_-_微博.md                             |
 | Size            | 9493 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.weibo.cn/u/7494833629?luicode=10000011&lfid=1005057621518452&featurecode=sinanews20170424](https://m.weibo.cn/u/7494833629?luicode=10000011&lfid=1005057621518452&featurecode=sinanews20170424)                       |
 | Author          | 微博用户 @witch103                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-01-01                                 |

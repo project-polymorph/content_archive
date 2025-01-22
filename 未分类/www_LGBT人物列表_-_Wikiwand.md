@@ -91,7 +91,7 @@ LGBT人物列表的收录准则为：
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一份关于LGBT人物的列表，包含了多个地区和历史时期的公开身份人物的介绍与整理。文件中详细阐述了同性恋这一身份认同的历史背景，提到这个词汇及相关认同在十九世纪才在欧洲出现，随后传入日本及华人地区。文件中还涉及了LGBT人物的收录标准，包括按姓氏、艺名或文化相关的名称排序，以及对公开身份的定义。文中强调了社会对LGBT的态度如何影响人们公开身份的意愿，讨论了公开与隐私权之间的斗争，以及进行公开的风险和跨性别、双性恋等身份的多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,12 +102,12 @@ LGBT人物列表的收录准则为：
 |-----------------|----------------------------------------|
 | Filename        | www_LGBT人物列表_-_Wikiwand.md                             |
 | Size            | 15332 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wikiwand.com/zh-sg/articles/LGBT%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8](https://www.wikiwand.com/zh-sg/articles/LGBT%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | LGBT, 性别多样性, 身份认同, 历史人物, 亚裔LGBT, 人物列表, 跨性别, 双性恋, 社会态度, 公开与隐私权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

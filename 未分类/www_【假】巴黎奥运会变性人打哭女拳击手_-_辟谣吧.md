@@ -7,7 +7,7 @@
 
 “变性人拳手打哭生理女运动员，震惊世界！”？
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2021/11/RLight.png)
 
@@ -15,13 +15,13 @@
 
 **【来源及背景】**中英文媒体自媒体都出现巴黎奥运会女子拳击赛中，变性人46秒打哭意大利女拳击手的爆炸性新闻：
 
-![中英文媒体自媒体都出现巴黎奥运会女子拳击赛中，变性人46秒打哭意大利女拳击手的爆炸性新闻：](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[中英文媒体自媒体都出现巴黎奥运会女子拳击赛中，变性人46秒打哭意大利女拳击手的爆炸性新闻：]
 
 ![中英文媒体自媒体都出现巴黎奥运会女子拳击赛中，变性人46秒打哭意大利女拳击手的爆炸性新闻：](https://www.piyaoba.org/wp-content/uploads/2024/08/标题.png)
 
 马斯克，JK·罗琳等国外著名反“变性”人士也宣称男人不能参与女子竞技，这是让全世界看女人被打。
 
-![Musk，JK Rowlings等国外著名反“变性”人士也宣称男人不能参与女子竞技，这是让全世界看女人被打。](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[Musk，JK Rowlings等国外著名反“变性”人士也宣称男人不能参与女子竞技，这是让全世界看女人被打。]
 
 ![Musk，JK Rowlings等国外著名反“变性”人士也宣称男人不能参与女子竞技，这是让全世界看女人被打。](https://www.piyaoba.org/wp-content/uploads/2024/08/马斯克.jpeg)
 
@@ -41,7 +41,7 @@
 
 这些变性人参加拳击的“愤慨”是关于阿尔及利亚运动员Imane Khelif（哈利夫）。8月1日奥运会66公斤级女子拳击第二轮比赛中，仅仅46秒，哈利夫的对手意大利女拳击手Angela Carini在受到两次重击后就放弃了比赛。弃赛后Carini拒绝和哈利夫握手，在赛场上痛哭，表示和哈利夫比赛不公平。
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2024/08/现场.jpeg)
 
@@ -65,7 +65,7 @@ IBA腐败到了什么程度？2016年里约奥运会，从奥运会前的选拔�
 
 所以，你觉得IBA这种连用了什么性别检测方法都得高度保密的“XX不是女人”的说法，能可信吗？哈利夫参赛争议暴发后，国际奥组委发布的声明也怼了IBA：
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2024/08/声明.png)
 
@@ -75,7 +75,7 @@ IBA自己的会议记录显示禁哈利夫是IBA领导先做的决定，然后�
 
 8月2号，弃赛的Carini接受意大利媒体采访时对哈利夫表达了歉意，承认既然奥组委认为哈利夫有参赛资格，她就尊重，之前在赛场痛哭是因为自己的奥运梦中止，不是针对哈利夫。
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2024/08/歉意.png)
 
@@ -89,7 +89,7 @@ IBA自己的会议记录显示禁哈利夫是IBA领导先做的决定，然后�
 
 也是出于这种担忧，有些国际体育协会对女性运动员有睾酮水平规定。成年男性睾酮水平一般在每升10-35纳摩尔，女性一般是0-3。国际田径有**部分赛事女性运动员睾酮水平必须低于每升5纳摩尔的规定**。该规定被很多人认为是针对南非运动员Caster Semenya。
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2024/08/特殊.jpeg)
 
@@ -101,7 +101,7 @@ Semenya的情况非常特殊，她是间性人，虽然有XY染色体，但因�
 
 国际田径如今规定400，800，1500三项赛事女子选手睾酮必须低于**每升5纳摩尔**。这三项恰好是Semenya最常参加的项目，所以被认为是专门针对她。可Semenya在伦敦奥运会与前一年的世锦赛，都没跑过俄罗斯运动员Mariya Savinova。间性人身份加上较高的睾酮，却让Semenya备受质疑，甚至有人认为她是不认真比赛才输掉奥运金牌。其实Semenya过去只有一次跑出过比Savinova奥运800米更好的成绩。颇为讽刺的是，看着不像女人的Semenya被人指责不公平竞赛，可最后却是看着很女人的两位俄罗斯运动员，伦敦奥运会女子800米金牌得主Savinova与铜牌得主Guliyev被查出使用兴奋剂。
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2024/08/颁奖.png)
 
@@ -111,7 +111,7 @@ Semenya身上，更多是我们自认为对性别、激素的了解，远超实�
 
 **而突然被卷入“不是女人”的舆论风暴的哈利夫、林郁婷，都根本不存在睾酮超标。**
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[图片]
 
 ![](https://www.piyaoba.org/wp-content/uploads/2024/08/两位拳手.jpeg)
 
@@ -136,7 +136,7 @@ Semenya身上，更多是我们自认为对性别、激素的了解，远超实�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了在巴黎奥运会女子拳击赛中，关于变性运动员是否参赛的争议性话题。报道提到一名名为Imane Khelif的阿尔及利亚女性运动员在比赛中受到了媒体的错误报道，误称其为变性人，且相关的谣言引发了广泛关注。文中分析了媒体对这一事件的报道以及一些公众人物的反应，包括马斯克、JK·罗琳等人的观点，认为这是对女性运动员的不公。作者强调了一些说法如何与美国政治挂钩，指责基于意识形态的不实指控，并介绍了国际拳击协会(IBA)在性别鉴定中的不当做法，指出了该协会缺乏透明度与公信力。还提及了其他因性别问题而遭遇困境的运动员案例，探讨了运动员在性别与公平竞赛中面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -147,12 +147,12 @@ Semenya身上，更多是我们自认为对性别、激素的了解，远超实�
 |-----------------|----------------------------------------|
 | Filename        | www_【假】巴黎奥运会变性人打哭女拳击手_-_辟谣吧.md                             |
 | Size            | 14973 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.piyaoba.org/olympics-sports-trans-boxer/](https://www.piyaoba.org/olympics-sports-trans-boxer/)                       |
+| Author          | Y博的科普园                               |
+| Region          | 未知                               |
+| Date            | 2024-08-07                                 |
+| Tags            | 变性人, 女子拳击, 巴黎奥运会, 运动员, 性别争议, 媒体报道, 国际拳击协会, 法律政策, 社会环境, 舆论风暴                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

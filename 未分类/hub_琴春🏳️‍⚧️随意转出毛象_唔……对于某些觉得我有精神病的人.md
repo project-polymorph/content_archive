@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hub_琴春🏳️‍⚧️随意转出毛象_唔……对于某些觉得我有精神病的人.md                             |
 | Size            | 2912 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hub.mtf.party/@vxst/107387560220081998](https://hub.mtf.party/@vxst/107387560220081998)                       |
 | Author          | 琴春🏳️‍⚧️随意转出毛象                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-11-24                                 |

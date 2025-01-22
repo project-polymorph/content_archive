@@ -233,7 +233,7 @@ _在 Emisil，我们的目标是创造超现实的打包机和其他产品，帮
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细探讨了 FTM （女变男）跨性别者在过渡过程中常见的底层烦躁（即臀部烦躁症）的相关问题，包括其症状、类型及应对策略。文中首先定义了性别不安的概念，尤其强调了生殖器的性别不匹配感对心理健康的影响。这种不安常常表现为身体症状如生殖器不适和情感症状如焦虑和抑郁。情绪困扰不仅影响个人的社交关系，还可能导致更深层次的心理健康问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -244,12 +244,12 @@ _在 Emisil，我们的目标是创造超现实的打包机和其他产品，帮
 |-----------------|----------------------------------------|
 | Filename        | www_FTM_底层不安：如何处理、缓解和感到支持_-_Emisil.md                             |
 | Size            | 20649 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.emisil.com/zh/blogs/all-blog-posts/ftm-bottom-dysphoria-how-to-deal-alleviate-and-feel-supported-html-how-to-deal-with-dysphoria?srsltid=AfmBOooBsRqTA-zk1ycfp0SW3911SOZzv8av7Hf_u4GC7HS5jm3FEwQL](https://www.emisil.com/zh/blogs/all-blog-posts/ftm-bottom-dysphoria-how-to-deal-alleviate-and-feel-supported-html-how-to-deal-with-dysphoria?srsltid=AfmBOooBsRqTA-zk1ycfp0SW3911SOZzv8av7Hf_u4GC7HS5jm3FEwQL)                       |
+| Author          | Emisil                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | FTM, 跨性别, 性别不安, 阴茎成形术, 性别认同, 心理健康, 情绪支持, 医疗资源, 性别转变, 跨性别者经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

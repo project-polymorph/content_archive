@@ -81,8 +81,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hitomi_男娘温迪X超乳巨根罗莎莉亚（贱兔汉化组）_by_ahrdkl__Hitomi.la.md                             |
 | Size            | 2163 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hitomi.la/cg/%E7%94%B7%E5%A8%98%E6%B8%A9%E8%BF%AAx%E8%B6%85%E4%B9%B3%E5%B7%A8%E6%A0%B9%E7%BD%97%E8%8E%8E%E8%8E%89%E4%BA%9A-%EF%BC%88%E8%B4%B1%E5%85%94%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%89-%E4%B8%AD%E6%96%87-3012300.html](https://hitomi.la/cg/%E7%94%B7%E5%A8%98%E6%B8%A9%E8%BF%AAx%E8%B6%85%E4%B9%B3%E5%B7%A8%E6%A0%B9%E7%BD%97%E8%8E%8E%E8%8E%89%E4%BA%9A-%EF%BC%88%E8%B4%B1%E5%85%94%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%89-%E4%B8%AD%E6%96%87-3012300.html)                       |
 | Author          | ahrdkl                               |
 | Region          | 未知                               |
 | Date            | 2024-08-05                                 |

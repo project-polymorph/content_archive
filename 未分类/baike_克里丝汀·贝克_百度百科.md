@@ -91,8 +91,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_克里丝汀·贝克_百度百科.md                             |
 | Size            | 4579 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E5%85%8B%E9%87%8C%E4%B8%9D%E6%B1%80%C2%B7%E8%B4%9D%E5%85%8B/5820628](https://baike.baidu.com/item/%E5%85%8B%E9%87%8C%E4%B8%9D%E6%B1%80%C2%B7%E8%B4%9D%E5%85%8B/5820628)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

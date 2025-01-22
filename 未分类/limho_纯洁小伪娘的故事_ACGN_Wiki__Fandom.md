@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | limho_纯洁小伪娘的故事_ACGN_Wiki__Fandom.md                             |
 | Size            | 957 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://limho.fandom.com/zh/wiki/%E7%BA%AF%E6%B4%81%E5%B0%8F%E4%BC%AA%E5%A8%98%E7%9A%84%E6%95%85%E4%BA%8B?variant=zh-cn](https://limho.fandom.com/zh/wiki/%E7%BA%AF%E6%B4%81%E5%B0%8F%E4%BC%AA%E5%A8%98%E7%9A%84%E6%95%85%E4%BA%8B?variant=zh-cn)                       |
 | Author          | ウロ                               |
 | Region          | 日本国                               |
 | Date            | 未知                                 |

@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细探讨了变性手术的全过程，包括手术如何帮助男性和女性之间进行性别互换的相关解读。作者从造成变性的生理和心理角度讨论了变性人的经历和他们在社会中的存活现状。此外，文章还涉及变性手术的复杂性和面临的挑战，如心理准备、经济支出以及医疗资源的获取等。通过结合自身经历和案例，文章试图为读者提供一种对性别变更过程的全面理解。文中提到的各项资料和信息旨在帮助读者更好地理解变性人的困境与需求，并推动对性别多元性别的认知与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_揭秘变性手术全过程：男女性别如何互换？变性人到底有多难？_-_Bilibili.md                             |
 | Size            | 1857 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1Q24y12757/](https://www.bilibili.com/video/BV1Q24y12757/)                       |
+| Author          | 茶茶不急                               |
+| Region          | 未知                               |
+| Date            | 2022-11-15                                 |
+| Tags            | 变性手术, 性别互换, 变性人经历, 医疗资源, 心理准备, 经济支出, 社会认知, 性别身份, 生活现状, 科学科普                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

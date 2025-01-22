@@ -255,8 +255,8 @@
 |-----------------|----------------------------------------|
 | Filename        | nacr_加州民主党立法禁止父母干预孩子变性_父亲痛失监护权.md                             |
 | Size            | 45436 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nacr.info/WordPress/index.php/2024/07/29/california-democrats-introduce-legislation-to-ban-parental-interference-in-childrens-transgenderism/](https://nacr.info/WordPress/index.php/2024/07/29/california-democrats-introduce-legislation-to-ban-parental-interference-in-childrens-transgenderism/)                       |
 | Author          | Victoria / 加州家庭理事会                               |
 | Region          | 美国                               |
 | Date            | 2024-07-29                                 |

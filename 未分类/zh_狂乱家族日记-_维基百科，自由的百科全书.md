@@ -438,7 +438,7 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《狂乱家族日记》是日日日创作的一部轻小说，该小说于2005年至2011年期间在Fami通文库出版，包含15卷本的主要故事和9卷的番外篇。小说有着丰富的角色设定和复杂的家族关系，通过“狂乱家族日记”的形式展现出家族成员之间的互动和心理变化。故事背景设定在一个充满科幻元素的世界，在千年前一个名为‘阎祸’的存在留下预言，提示其后代将带来绝望。因此，依据DNA鉴定，多个可能是‘阎祸子孙’的人被集合在同一家庭中，共同生活。这个家族的日常生活和他们的超常经历构成了小说的核心。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -449,12 +449,12 @@ Oasis(オアシス)（声优：[水树奈奈](https://zh.wikipedia.org/wiki/%E6%
 |-----------------|----------------------------------------|
 | Filename        | zh_狂乱家族日记-_维基百科，自由的百科全书.md                             |
 | Size            | 44774 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-cn/%E7%8B%82%E4%BA%82%E5%AE%B6%E6%97%8F%E6%97%A5%E8%A8%98](https://zh.wikipedia.org/zh-cn/%E7%8B%82%E4%BA%82%E5%AE%B6%E6%97%8F%E6%97%A5%E8%A8%98)                       |
+| Author          | 日日日                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 轻小说, 狂乱家族日记, 日日日, 科幻, 日本文学, 家庭, 角色扮演, 个体与社会, 超常现象, 情感发展                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

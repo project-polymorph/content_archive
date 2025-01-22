@@ -316,7 +316,7 @@ QQ空间
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件记录了有关一个名为《可爱的男孩子》的视频内容，视频由作者桐倚呀在哔哩哔哩平台发布。视频展示了一位穿着女装的男孩，以可爱的形象引起观众的关注，反映出当代多元性别表现及其在网络文化中的影响。文件中附有视频封面和相关的观看设置说明，提供了对视频的多种播放选项。文件结构应用了Markdown格式，内容清晰易读，意图在于让观众传达对多元性别的理解和包容。同时，文件也提供了社交媒体及平台分享链接，方便用户互动与交流。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -327,12 +327,12 @@ QQ空间
 |-----------------|----------------------------------------|
 | Filename        | www_可爱的男孩子_哔哩哔哩_-_Bilibili.md                             |
 | Size            | 4507 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1fa4y1B7rk/](https://www.bilibili.com/video/BV1fa4y1B7rk/)                       |
+| Author          | 桐倚呀                               |
+| Region          | 未知                               |
+| Date            | 2023-12-28                                 |
+| Tags            | 可爱的男孩子, 女装, 伪娘, 女装大佬, Ts, 网络文化, 多元性别, 视频分享, 哔哩哔哩, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

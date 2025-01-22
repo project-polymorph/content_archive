@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了台湾一起涉及跨性别者的职场歧视案例，主角妞妞于2019年在求职过程中因要求使用女厕而遭到拒绝，最终被公司不录用。这个事件引发了关于性别认同和职场平等的法律诉讼。伴盟跨性别资讯平台的律师团队协助妞妞向台北市劳动局提出性别歧视申诉，经过调查，劳动局裁定公司违反《性别工作平等法》，对其处以罚款30万元。尽管公司对处罚提出异议并提起诉讼，结果法院确认了劳动局的裁定，支持了跨性别者依自我性别认同生活的权利。此案被视为跨性别者权益的一次重要胜利，并为未来类似案件提供了法律依据。同时，网络上对判决结果的争议反映出社会对跨性别者权益保护的不同看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | transgender_跨性別職場歧視妞妞案_-_台灣伴侶權益推動聯盟.md                             |
 | Size            | 4231 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transgender.tapcpr.org/archives/1588](https://transgender.tapcpr.org/archives/1588)                       |
+| Author          | 台湾伴侣权益推动联盟                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 职场歧视, 性别认同, 法律案例, 性别工作平等法, 社会正义, 性别平等, 妞妞案, 人权保护, 台湾社会                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

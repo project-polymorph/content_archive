@@ -39,8 +39,8 @@ Copyright(c) 2003-Present [Metamedia Technology](https://www.mm.co.th/)
 |-----------------|----------------------------------------|
 | Filename        | dict_人妖_แปลว่าอะไร_ดูความหมาย_ตัวอย่างประโยค_หมายความว่า_พจนานุกรม_.md                             |
 | Size            | 1093 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dict.longdo.com/mobile/?search=%2A%E4%BA%BA%E5%A6%96%2A](https://dict.longdo.com/mobile/?search=%2A%E4%BA%BA%E5%A6%96%2A)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

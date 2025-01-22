@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名用户在直播过程中展示自己的游戏角色，角色形象为男娘，配以女装风格。作者在视频中以轻松幽默的方式，与观众进行互动，分享了自己的游戏体验及角色塑造的乐趣。同时，评论区也反映出观众对这一形象的惊喜与赞赏，包含了一些调侃与鼓励的评论。视频是通过虎牙直播平台发布，内容时长约1分21秒，以720P、1080P、360P等清晰度提供观看，适合喜欢玩角色扮演游戏的用户观看。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我在游戏里捏了自己2__男娘_女装_-_虎牙直播.md                             |
 | Size            | 1345 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.huya.com/video/play/1013037520.html](https://www.huya.com/video/play/1013037520.html)                       |
+| Author          | 邪神Karasu                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-09-12                                 |
+| Tags            | 男娘, 女装, 游戏角色, 虎牙直播, 生命故事, 社群互动, 文化表达, 直播分享, 角色扮演, 社区评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

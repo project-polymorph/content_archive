@@ -69,7 +69,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由董牧孜于2020年9月2日发表在《新京报书评周刊》，标题为《在“当代花木兰”遍地的时代，女性崛起了吗？》。文章探讨了现代社会中女性的崛起及其所面临的挑战，分析了女性在生产力和消费市场中所扮演的重要角色，以及社会对女性身份的认知与期待的变化。通过回顾西方女性主义理论，董牧孜指出，尽管当代女性获得了前所未有的自由，特别是在消费前景上，但依然受到深层的社会压迫和自我厌恶的影响。他引用上野千鹤子的观点，讨论了‘厌女症’的存在和影响，强调了女性群体内部的自我压抑。在文章的结尾，董牧孜提到当代女性在追求独立与自我认同上所经历的种种困境，虽然是个‘她经济’的时代，真正的社会性别平等依然面临历史遗留问题的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,12 +80,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_董牧孜：在“当代花木兰”遍地的时代，女性崛起了吗？_-_中国智库网.md                             |
 | Size            | 13887 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.chinathinktanks.org.cn/content/detail?id=fb7clq34&pt=1](https://www.chinathinktanks.org.cn/content/detail?id=fb7clq34&pt=1)                       |
+| Author          | 董牧孜                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-09-02                                 |
+| Tags            | 女性主义, 性别研究, 社会变迁, 女性崛起, 消费主义, 厌女症, 自我认同, 平权运动, 性别理论, 当代女性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

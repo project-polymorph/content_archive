@@ -175,8 +175,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_片想い原文摘录_-_book.douban.com_-_豆瓣.md                             |
 | Size            | 16367 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/3420243/blockquotes?sort=score&start=20](https://book.douban.com/subject/3420243/blockquotes?sort=score&start=20)                       |
 | Author          | 守夜                               |
 | Region          | 未知                               |
 | Date            | 2011-04-18                                 |

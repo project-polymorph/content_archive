@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | shinhopple73_ニューハーフ・女装子最新情報_»二次元_ふたなり画像.md                             |
 | Size            | 2220 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shinhopple73.rssing.com/index.php](https://shinhopple73.rssing.com/index.php)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

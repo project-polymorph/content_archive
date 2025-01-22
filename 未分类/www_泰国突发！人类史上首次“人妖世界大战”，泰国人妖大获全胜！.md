@@ -252,7 +252,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了2024年3月4日发生在曼谷的一场引人注目的暴力事件，涉及泰国跨性别者进行的群体斗殴。事件起源于两名泰国变性人在餐厅遇到先前发生过冲突的菲律宾变性人，随后冲突升级为广泛的街头斗殴，参与者多达上百人。随着事态的发展，泰国变性人团结一致，试图为受伤的同胞复仇，最终警方介入控制了局面。该事件被当地媒体重点报道，并引发社会各界的广泛关注，泰国人妖圈甚至将每年3月4日定为“泰国人妖光荣日”，以纪念这场事件。文章通过夸张的叙述和生动的细节描绘，展示了在泰国变性人群体内的复杂情感与社会动态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -263,12 +263,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国突发！人类史上首次“人妖世界大战”，泰国人妖大获全胜！.md                             |
 | Size            | 14629 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.thaiheadlines.com/147552/](https://www.thaiheadlines.com/147552/)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2024-03-06                                 |
+| Tags            | 变性人, 跨性别者, 社会冲突, 人妖, 泰国, 群体斗殴, LGBT, 文化现象, 媒体报道, 法律与社会                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

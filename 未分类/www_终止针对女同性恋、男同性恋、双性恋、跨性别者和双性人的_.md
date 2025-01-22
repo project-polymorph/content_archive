@@ -42,7 +42,7 @@ ILO, OHCHR, UNDP, UNESCO, UNFPA, UNHCR, UNICEF, UNODC, UN Women, WFP, WHO, UNAID
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是联合国机构针对全球各年龄段的女同性恋、男同性恋、双性恋、跨性别者和双性人（统称为LGBTI）发布的声明，旨在呼吁各国政府采取紧急行动，终止对以上群体的暴力和歧视。声明中指出，每个人都有权生活在没有暴力和迫害的环境中，并强调国际人权法对保护人权的重大意义。文件详细描述了全球LGBTI人群面临的普遍人权侵犯现象，并呼吁各国政府责任、社区和社会各界的广泛参与。这份声明凸显了人权的普遍性，主张文化、宗教和社会态度不能成为侵犯任何群体人权的理由。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@ ILO, OHCHR, UNDP, UNESCO, UNFPA, UNHCR, UNICEF, UNODC, UN Women, WFP, WHO, UNAID
 |-----------------|----------------------------------------|
 | Filename        | www_终止针对女同性恋、男同性恋、双性恋、跨性别者和双性人的_.md                             |
 | Size            | 2939 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.who.int/zh/publications/m/item/Joint_LGBTI_Statement](https://www.who.int/zh/publications/m/item/Joint_LGBTI_Statement)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | LGBTI权利, 人权, 暴力, 歧视, 国际人权法, 社区参与, 文化多样性, 社会正义, 跨性别者, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -45,8 +45,8 @@ LGBTQ 运动旨在促进和保护 LGBTQ 权利以及 LGBTQ 平等。作为一个
 |-----------------|----------------------------------------|
 | Filename        | ishr_同志权.md                             |
 | Size            | 3117 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ishr.ch/zh-hans/%E5%85%B3%E4%BA%8E%E4%BA%BA%E6%9D%83/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E6%9D%83/%E5%90%8C%E5%BF%97%E6%9D%83/](https://ishr.ch/zh-hans/%E5%85%B3%E4%BA%8E%E4%BA%BA%E6%9D%83/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E6%9D%83/%E5%90%8C%E5%BF%97%E6%9D%83/)                       |
 | Author          | 国际人权服务社                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

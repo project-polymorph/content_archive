@@ -54,8 +54,8 @@ BBC中文网 - 产品与服务
 |-----------------|----------------------------------------|
 | Filename        | news_马来西亚驳回一变性人法律地位申请_-_Home_-_BBC_News.md                             |
 | Size            | 2549 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.bbc.co.uk/chinese/simp/hi/newsid_3980000/newsid_3986200/3986249.stm](http://news.bbc.co.uk/chinese/simp/hi/newsid_3980000/newsid_3986200/3986249.stm)                       |
 | Author          | 肯特，BBC驻吉隆坡记者                               |
 | Region          | 马来西亚                               |
 | Date            | 2004-11-05                                 |

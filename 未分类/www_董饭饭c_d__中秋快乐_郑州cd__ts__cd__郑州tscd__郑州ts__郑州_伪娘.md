@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了董饭饭c d在2022年9月9日中秋节期间发布的祝福信息，通过社交媒体平台Instagram分享的内容。投稿中附带了两张作者的照片，展现了他在节日庆祝活动中的欢乐气氛与个人风格。文中标签涉及到郑州地区的CD（跨性别者）、TS（变性者）、伪娘等多元性别相关主题。尽管内容简单，但通过个人的节日祝福展现了多元性别群体的日常生活和社会参与。作者的社交媒体互动记录显示了此帖子的受欢迎程度，点赞数为5，评论数达到122万，反映出其在圈子内的影响力与认可度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_董饭饭c_d__中秋快乐_郑州cd__ts__cd__郑州tscd__郑州ts__郑州_伪娘.md                             |
 | Size            | 1676 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.instagram.com/p/CiSFRD_OF3t/](https://www.instagram.com/p/CiSFRD_OF3t/)                       |
+| Author          | 董饭饭c d                               |
+| Region          | 郑州                               |
+| Date            | 2022-09-09                                 |
+| Tags            | 中秋节, 多元性别, 伪娘, 跨性别者, 变性者, 社交媒体, Instagram, 节日祝福, 郑州, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

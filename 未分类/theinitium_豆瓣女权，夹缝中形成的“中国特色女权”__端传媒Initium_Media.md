@@ -164,8 +164,8 @@
 |-----------------|----------------------------------------|
 | Filename        | theinitium_豆瓣女权，夹缝中形成的“中国特色女权”__端传媒Initium_Media.md                             |
 | Size            | 26132 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://theinitium.com/zh-hans/opinion/20210308-opinion-china-douban-feminism-awakens-or-failure](https://theinitium.com/zh-hans/opinion/20210308-opinion-china-douban-feminism-awakens-or-failure)                       |
 | Author          | 啡卡                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-03-08                                 |

@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了位于法国斯特拉斯堡的欧洲人权法院的功能与重要性，特别是其如何保障公民的基本人权。文章以2001年10月2日的一个案例为切入点，讲述了8名英国居民因机场噪音向英国政府提起诉讼的经过，他们在经过本国法院的多次挑战后，最终在欧洲人权法院获得了胜诉，获得了经济赔偿。文章进一步分析了欧洲人权法院的受理条件与程序，指出该法院专门受理涉及政府与公民之间的人权案件，并通过此机制增强了公民对抗国家权力的能力。人权法院裁定的影响力也被强调，许多国家的法律和政策因其判决而发生了变化，比如有关变性和同性恋的法律承认问题。文中提到，尽管案件量大但真正受理的数量很少，法官们在处理案件时秉持独立公正的立场，促进了欧洲人权的进步和法律的变革。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_凌驾于欧盟各国之上的人权法院.md                             |
 | Size            | 8895 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.procedurallaw.cn/info/1013/6181.htm](http://www.procedurallaw.cn/info/1013/6181.htm)                       |
+| Author          | 李永君                               |
+| Region          | 欧洲                               |
+| Date            | 2001-10-02                                 |
+| Tags            | 欧洲人权法院, 人权保障, 法律政策, 公民权利, 案例分析, 噪音污染, 司法改革, 变性人法律, 同性恋权利, 诉讼机制                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_丹麦女孩_-_豆瓣.md                             |
 | Size            | 3202 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15092128/](https://m.douban.com/movie/review/15092128/)                       |
 | Author          | 阿璃茉                               |
 | Region          | 未知                               |
 | Date            | 2015-09-05                                 |

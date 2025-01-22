@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件讨论了女性假两性畸形的激素替代疗法。文章指出，女性假两性畸形的个体在遗传和性腺上被认定为女性，但由于外生殖器的异常，使得性别认同变得困难。常见的女性假两性畸形是先天性肾上腺皮质增生症，这是由于21-羟化酶缺陷所导致的肾上腺皮质增生。该疾病会影响激素的合成，导致高雄激素血症。文件提到了一种治疗方式，即使用氢化可的松，剂量依体表面积计算，且需分两次服用。此文件是从《实用妇产科诊断和治疗技术》中摘录的内容，提供了医疗上的专业信息，显示了如何通过激素替代疗法帮助这一群体改善生理状况和康复过程。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__治疗_第六节女性假两性畸形的激素替代疗法_-_天山医学院.md                             |
 | Size            | 1290 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tsu.tw/xiyi/871039.html](https://www.tsu.tw/xiyi/871039.html)                       |
+| Author          | 石一复                               |
+| Region          | 未知                               |
+| Date            | 2013-10-01                                 |
+| Tags            | 女性假两性畸形, 激素替代疗法, 先天性疾病, 性别认同, 医疗资源, 生殖健康, 妇产科知识, 肾上腺皮质增生, 高雄激素血症, 专业医疗指导                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

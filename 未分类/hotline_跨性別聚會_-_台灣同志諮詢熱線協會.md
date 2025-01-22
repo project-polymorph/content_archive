@@ -91,8 +91,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hotline_跨性別聚會_-_台灣同志諮詢熱線協會.md                             |
 | Size            | 4119 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hotline.org.tw/pagegeneral/2843](https://hotline.org.tw/pagegeneral/2843)                       |
 | Author          | 台湾同志咨询热线协会                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

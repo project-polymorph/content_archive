@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件标题为《在蒙古争取平等的游行》，记录了在蒙古首都举行的骄傲游行以及其他平等与骄傲周活动的情况。文章描述了骄傲游行中人们的欢庆场面，包括合唱团的表演和彩虹旗的飘扬，这些都象征着蒙古社会活动家和人权捍卫者多年来的不懈努力。文中提到，活动为期一周，包括讲故事工作坊、LGBT中心开放日和电影节等项目，旨在提高LGBTIQ+人群的可见度和社会支持。 文章还揭示了蒙古LGBTIQ+人群面临的多重挑战，如缺乏可见度、医疗污名和社会歧视等，同时强调了蒙古LGBT中心在保护和支持该人群方面的重要作用。通过与法律和政府部门的合作，中心正在努力提升社会对LGBTIQ+人群的理解，并推动法律保护的提升。活动的开展得到了联合国和其他国际组织的支持，以期促进更公平的生活环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_在蒙古争取平等的游行_-_UN_Free_&_Equal.md                             |
 | Size            | 8074 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.unfe.org/zh/zh/updates/marching-towards-equality-in-mongolia](https://www.unfe.org/zh/zh/updates/marching-towards-equality-in-mongolia)                       |
+| Author          | 未知                               |
+| Region          | 蒙古                               |
+| Date            | 2023-06-01                                 |
+| Tags            | 骄傲游行, LGBTQ+, 平等与权益, 社会活动, 人权捍卫, 蒙古, 医疗资源, 法律政策, 心理健康支持, 社会变化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

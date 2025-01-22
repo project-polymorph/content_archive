@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | gender-equality_111-1性別意識培力活動-不合群的身體，塞不下標準的人.md                             |
 | Size            | 5886 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://gender-equality.cmu.edu.tw/zh-hant/node/290](https://gender-equality.cmu.edu.tw/zh-hant/node/290)                       |
 | Author          | 台湾同志咨询热线社群发展部林昱君                               |
 | Region          | 台湾                               |
 | Date            | 2023-02-03                                 |

@@ -114,8 +114,8 @@ cross-dresstrans-sexuality
 |-----------------|----------------------------------------|
 | Filename        | bbs_现在CDTS都用什么交友软件呀？_-_南+_South_Plus.md                             |
 | Size            | 1792 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.summer-plus.net/simple/index.php?t1486788.html](https://bbs.summer-plus.net/simple/index.php?t1486788.html)                       |
 | Author          | 南+ South Plus                               |
 | Region          | 未知                               |
 | Date            | 2022-05-25                                 |

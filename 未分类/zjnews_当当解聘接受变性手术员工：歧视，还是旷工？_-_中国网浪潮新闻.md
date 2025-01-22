@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了2020年当当网解聘一位接受变性手术员工的事件，分析了这一案件中的法律争议与社会反响。文章指出，当事人在进行手术时并未提前请假，导致公司以‘旷工’为由解除劳动合同，而法院经过审理认为雇主未能提供明确的请假规定，最终驳回了当当的解雇请求。事件引发了公众对于职场歧视及劳动法律的广泛讨论。文章强调了在职场中对于请假流程的重视，特别是在职务关键的情况下，同时也呼吁社会对于性别多样性的包容与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zjnews_当当解聘接受变性手术员工：歧视，还是旷工？_-_中国网浪潮新闻.md                             |
 | Size            | 5095 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://zjnews.china.com.cn/yuanchuan/2020-07-06/235427.html](http://zjnews.china.com.cn/yuanchuan/2020-07-06/235427.html)                       |
+| Author          | 澎湃新闻                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-07-06                                 |
+| Tags            | 变性手术, 劳动争议, 职场歧视, 法律政策, 性别认同, 社会环境, 媒体报道, 员工权益, 请假规定, 变性人权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

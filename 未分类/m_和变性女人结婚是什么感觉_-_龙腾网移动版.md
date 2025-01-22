@@ -66,8 +66,8 @@ Dale Bewan:
 |-----------------|----------------------------------------|
 | Filename        | m_和变性女人结婚是什么感觉_-_龙腾网移动版.md                             |
 | Size            | 8418 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.ltaaa.cn/article/38294](http://m.ltaaa.cn/article/38294)                       |
 | Author          | zgsdta2008                               |
 | Region          | 未知                               |
 | Date            | 2022-08-12                                 |

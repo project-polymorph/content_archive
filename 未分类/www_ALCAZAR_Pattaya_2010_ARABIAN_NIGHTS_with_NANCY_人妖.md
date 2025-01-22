@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了2010年ALCAZAR Pattaya剧场中的表演《阿拉伯之夜》，主要演员为人妖NANCY。该表演以其华丽的服装及精彩的舞蹈而闻名，是该剧场的一项标志性节目。文中包含了视频链接，观众可以通过YouTube观看完整的表演，视频时长为3分14秒。此外，文档中提到表演的标签，包括‘人妖’、‘表演’、‘Pattaya’、‘ALCAZAR’以及‘阿拉伯之夜’，这些标签帮助观众快速了解视频的内容分类。由于涉及到多元性别相关的表演艺术，该资料对这些艺术表现形式的研究和理解具有一定的参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_ALCAZAR_Pattaya_2010_ARABIAN_NIGHTS_with_NANCY_人妖.md                             |
 | Size            | 673 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=yc-SR3V1duY](https://www.youtube.com/watch?v=yc-SR3V1duY)                       |
+| Author          | ALCAZAR Pattaya                               |
+| Region          | 泰国                               |
+| Date            | 2010-01-01                                 |
+| Tags            | 人妖, 表演, Pattaya, ALCAZAR, 阿拉伯之夜, 艺术, 文化, 娱乐, 视频, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

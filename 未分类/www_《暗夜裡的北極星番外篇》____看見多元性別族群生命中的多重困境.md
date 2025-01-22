@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《暗夜裡的北極星番外篇》是一部深入探讨多元性别族群面临的复杂困境和挑战的作品。作者通过讲述小颐（化名）的生活故事，揭示了这一群体在家庭、社会以及个人层面遭受的重重压力与歧视，包括性别暴力及严重的心理创伤。文中提到，多元性别者常常面临来自家庭的压制与控制，特别是在成长阶段，如何在主流社会的性别规范下找到自我认同，是一个艰难的挑战。此外，作品还讨论了社会对于多元性别身份的偏见如何影响个体的心理健康，以及在遭受暴力和歧视时，求助机制的缺失和家庭环境的压迫感。最后，作品呼吁社会对多元性别群体应有更多的包容与理解，以创建一个更加友好和支持的环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,12 +96,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《暗夜裡的北極星番外篇》____看見多元性別族群生命中的多重困境.md                             |
 | Size            | 9863 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.goh.org.tw/perspectives/the-dilemma-of-gender-diverse-groups/](https://www.goh.org.tw/perspectives/the-dilemma-of-gender-diverse-groups/)                       |
+| Author          | 勵馨基金會                               |
+| Region          | 台湾                               |
+| Date            | 2024-07-01                                 |
+| Tags            | 多重歧視性別暴力防治, LGBT, LGBTQA+, 多元性別, 性别暴力, 性少数群体, 心理健康, 社会歧视, 家庭支持, 斗争与抵抗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -84,8 +84,8 @@ Sissy和Tomboy是不同的，要区分开来。后者指的是男孩似的女孩
 |-----------------|----------------------------------------|
 | Filename        | baike_娘炮_百度百科.md                             |
 | Size            | 7957 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E5%A8%98%E7%82%AE/5580795](https://baike.baidu.com/item/%E5%A8%98%E7%82%AE/5580795)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

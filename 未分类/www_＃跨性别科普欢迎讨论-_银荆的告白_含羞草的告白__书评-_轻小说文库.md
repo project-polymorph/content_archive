@@ -168,7 +168,7 @@ Copyright (c) 2015 [www.wenku8.com](http://www.wenku8.com). All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于跨性别群体相关知识的科普文章，作者与跨性别者有着丰富的交流经验，旨在帮助读者了解跨性别的现状及其背景。文章指出，跨性别在中国已经合法化，性别重置手术（SRS）已被纳入整形外科的业务范围内，同时引用了世卫组织对跨性别问题的态度变化，本文强调了性别认同与性别表达的平等权利，呼吁社会应对跨性别者更加友好和包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -179,12 +179,12 @@ Copyright (c) 2015 [www.wenku8.com](http://www.wenku8.com). All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_＃跨性别科普欢迎讨论-_银荆的告白_含羞草的告白__书评-_轻小说文库.md                             |
 | Size            | 11030 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wenku8.net/modules/article/reviewshow.php?rid=282368&page=1&charset=gbk](https://www.wenku8.net/modules/article/reviewshow.php?rid=282368&page=1&charset=gbk)                       |
+| Author          | М.Девятаев                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-06-07                                 |
+| Tags            | 多元性别, 跨性别, 性别重置手术, 性别认同, 医学资源, 社会政策, 心理健康, 同性恋, 法律与权利, 社区支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

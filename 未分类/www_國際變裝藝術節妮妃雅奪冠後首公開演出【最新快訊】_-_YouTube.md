@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件记录了2024年5月25日国际变装艺术节上，来自台湾的妮妃雅在获胜后首次公开演出。文件详细描述了她在这一活动中的表现及其重要性，包含了来自台视的报道，并引起了观众的极大关注。妮妃雅是美国实境节目《鲁保罗变装皇后秀》的冠军，在演出中展示了其独特的风格和音乐才华，同时也接受了媒体的采访。这场活动不仅是她个人职业生涯的一个里程碑，也是多元性别和变装艺术在中文文化语境中的一次重要展现。文件中还包括相关的视频链接，观看次数和观众反馈等信息，反映了其在社区中的影响力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_國際變裝藝術節妮妃雅奪冠後首公開演出【最新快訊】_-_YouTube.md                             |
 | Size            | 1368 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=g_Gk4ef4PgM](https://www.youtube.com/watch?v=g_Gk4ef4PgM)                       |
+| Author          | 曹子涵                               |
+| Region          | 台湾                               |
+| Date            | 2024-05-25                                 |
+| Tags            | 多元性别, 变装艺术, 国际变装艺术节, 妮妃雅, 鲁保罗变装皇后秀, 公开演出, 媒体采访, 艺术表演, 社交媒体, 文化影响力                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_中國富豪娶泰國人妖皇后，婚後豪擲500萬為愛移居泰國_-_YouTube.md                             |
 | Size            | 1315 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.youtube.com/watch?v=QNqL1G9Qc34](https://m.youtube.com/watch?v=QNqL1G9Qc34)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2023-08-17                                 |

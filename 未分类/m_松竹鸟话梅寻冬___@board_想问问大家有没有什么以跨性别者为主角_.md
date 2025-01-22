@@ -128,8 +128,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_松竹鸟话梅寻冬___@board_想问问大家有没有什么以跨性别者为主角_.md                             |
 | Size            | 6299 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.cmx.im/@luxiawurenshiyi/108289769571403895](https://m.cmx.im/@luxiawurenshiyi/108289769571403895)                       |
 | Author          | 松竹鸟话梅寻冬                               |
 | Region          | 未知                               |
 | Date            | 2022-05-12                                 |

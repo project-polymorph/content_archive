@@ -135,8 +135,8 @@ WPATH 指南对 SRS 在术前的 HRT 和 RLE 时长上有着严格的规定，�
 |-----------------|----------------------------------------|
 | Filename        | ftm_性别重置手术概论_-_FtM.wiki.md                             |
 | Size            | 8563 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ftm.wiki/zh-cn/srs/overview/](https://ftm.wiki/zh-cn/srs/overview/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-07-23                                 |

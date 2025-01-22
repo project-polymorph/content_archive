@@ -334,7 +334,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文揭示了艾比，一位以女装大佬身份走红的网络人物，声称自己完成变性手术的故事及其背后引发的争议。艾比在社交媒体上通过变性这一标签吸引了大量粉丝，但其真正的变性情况受到质疑，主要基于她的年龄（尚未满20岁）和在手术后的身体恢复能力。文中提及，变性并非易事，而艾比的举动被认为是对真正跨性别者的误解和伤害。文章进一步探讨了跨性别者，特别是药娘群体所面临的社会压力与医疗风险，包括长期服药带来的生理心理负担，以及社会对这一群体的偏见和物化现象。作者通过多个实例，展示了药娘在追求性别认同与社会认同过程中可能遭遇的痛苦与代价。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -345,12 +345,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_深度揭秘：成为一名药娘的代价_-_浪迹情感.md                             |
 | Size            | 10114 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.langji520.com/lianai/qita/21122.html](http://www.langji520.com/lianai/qita/21122.html)                       |
+| Author          | 编辑                               |
+| Region          | 未知                               |
+| Date            | 2021-04-08                                 |
+| Tags            | 药娘, 变性手术, 艾比, 跨性别者, 社交媒体, LGBT, 性别认同, 医疗风险, 心理健康, 社会偏见                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -63,7 +63,7 @@ Shutterstock/達志影像
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了通过虚拟现实（VR）技术体验性别转换对性别认同的影响。研究表明，参与者在体验性别转换后，男性受试者对自己男性化的评价降低，女性亦然，表明性别认同在‘交换身体’的过程中会出现不稳定。研究者通过VR技术提供了一个沉浸式的体验，使得参与者能够在第一人称视角下体验异性身体，借此观察性别认同与感知的交互关系。这项研究引发了对于性别意识的深入思考，尤其是在给定身体之外的自我认知如何受到影响。研究结果显示，性别认同不仅是生理的，也受到外部环境的影响，进而可能在治疗性别焦虑等方面提供新思路。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@ Shutterstock/達志影像
 |-----------------|----------------------------------------|
 | Filename        | www_透過VR_體驗「性轉」！研究：性別認同比想像中容易被左右_-_INSIDE.md                             |
 | Size            | 5338 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.inside.com.tw/article/22071-experiencing-the-illusion-of-having-an-opposite-sex-body-in-virtual-reality-can-shift-aspects-of-gender-identity](https://www.inside.com.tw/article/22071-experiencing-the-illusion-of-having-an-opposite-sex-body-in-virtual-reality-can-shift-aspects-of-gender-identity)                       |
+| Author          | MindyLi                               |
+| Region          | 台湾                               |
+| Date            | 2020-12-27                                 |
+| Tags            | 性别认同, 虚拟现实, 跨性别, 心理学, 性别体验, 性别焦虑, 沉浸式体验, 社会化过程, 身体认知, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

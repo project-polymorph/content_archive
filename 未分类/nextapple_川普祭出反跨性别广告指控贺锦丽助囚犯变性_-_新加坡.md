@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | nextapple_川普祭出反跨性别广告指控贺锦丽助囚犯变性_-_新加坡.md                             |
 | Size            | 1997 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nextapple.sg/international/20241030/71E459AAC872D6B8D421379ECD18658B](https://nextapple.sg/international/20241030/71E459AAC872D6B8D421379ECD18658B)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2025-01-21                                 |

@@ -135,7 +135,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含关于多部与跨性别主题相关的电影的详细信息，其中包括影片的发布信息、导演、演员、故事简介、语言和字幕等。文件中列出的电影包括《当他们认真编织时》、《还我女儿身》、《丹麦女孩》、《女朋友的女朋友》、《赤裸人性》和《双面劳伦斯》。每部电影都探讨了不同的跨性别经历和相关的社会问题。例如，《当他们认真编织时》讲述了一个小女孩与其舅舅的跨性别伴侣之间的温情故事；《还我女儿身》则描绘了一名阿尔巴尼亚女孩如何通过发誓成为男性来获得身份的艰辛历程。其他电影同样围绕着身份认同、社会接受度等主题展开，呈现了丰富的跨性别文化和生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -146,12 +146,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別電影.md                             |
 | Size            | 8947 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tgr.org.hk/index.php/zh/media-library/trans-movies](https://www.tgr.org.hk/index.php/zh/media-library/trans-movies)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2012-01-01                                 |
+| Tags            | 跨性别电影, 多元性别, 社会接受度, 身份认同, 变性经历, 电影推荐, 生命故事, 文化表达, 法律与社会环境, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -28,7 +28,7 @@ poy是泰国著名变性女艺人，17岁成功变性成美女，让众多男人
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了泰国著名变性女艺人poy的私人照片，她在17岁成功进行变性手术，成为了令人瞩目的美女。poy于2004年获得‘国际小姐’的头衔，并在泰国及东南亚的演艺圈中备受瞩目，拥有众多粉丝。文章中配以多张poy的照片，展示了她的演艺生活和变性的成功之路。文中提到她的美貌让许多男性倾心，并且她在泰国享有极高的人气。该文章通过这些细节传递出变性人在社会中的生存现状和个人成就。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@ poy是泰国著名变性女艺人，17岁成功变性成美女，让众多男人
 |-----------------|----------------------------------------|
 | Filename        | www_组图：泰国最美人妖私房照曝光17岁变性成男人宠儿_-_商洛之窗.md                             |
 | Size            | 1256 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.slrbs.com/shishang/sszx/2010-12-24/23611.html](http://www.slrbs.com/shishang/sszx/2010-12-24/23611.html)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2010-12-24                                 |
+| Tags            | 变性, 泰国, 艺人, poy, 国际小姐, 娱乐圈, 时尚, 私人照片, 美女, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

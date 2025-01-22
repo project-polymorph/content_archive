@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了一部韩国悬疑片的情节，涉及一个人物通过整容和变性重塑自我的故事。文章通过讲述一名男性朋友在手术后变为女性的过程，描绘了其身边朋友对这场变化的羡慕与难以接受。影视作品通过悬疑元素探讨了身份认同、社会接受度以及性别流动性等多元性别议题，使得观众在观看的同时产生深思。此外，文章提及了相关的社会反响，吸引了观众对性别与身份相关性的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | open_昔日发小整容变性，摇身一变成了女朋友，这部韩国悬疑片绝了.md                             |
 | Size            | 1644 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://open.163.com/movie/2021/11/C/0/CGNUA67BC_TGNUA67C0.html](https://open.163.com/movie/2021/11/C/0/CGNUA67BC_TGNUA67C0.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 整容, 变性, 悬疑片, 身份认同, 社会接受度, 性别流动性, 生命故事, 影视作品, 热门评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了跨性别者在英国所面临的社会制度歧视问题，特别是在医疗、执法、教育等领域的现状。撰文者指出，跨性别人士的生活面临着严重的歧视，影响了他们的事业、收入和心理健康。文章引用了下议院平等委员会的调查报告，报告中提到，英国有约65万人存在性别不一致，他们在社会生活中遭遇的偏见和歧视与几十年前的同性恋者情况相似。此外，文章还介绍了跨性别者在医疗系统中的困境，例如普通科医生对跨性别问题的无知，导致跨性别者往往无法获得及时和适当的医疗支持。报告建议多项政策改革，以更好地为跨性别者提供平等待遇，并提升社会对跨性别问题的认知。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別者日常生活受盡社會制度歧視英國「恐跨」問題嚴重_-_香港01.md                             |
 | Size            | 6333 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/2295/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%8F%97%E7%9B%A1%E7%A4%BE%E6%9C%83%E5%88%B6%E5%BA%A6%E6%AD%A7%E8%A6%96-%E8%8B%B1%E5%9C%8B-%E6%81%90%E8%B7%A8-%E5%95%8F%E9%A1%8C%E5%9A%B4%E9%87%8D](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/2295/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E5%8F%97%E7%9B%A1%E7%A4%BE%E6%9C%83%E5%88%B6%E5%BA%A6%E6%AD%A7%E8%A6%96-%E8%8B%B1%E5%9C%8B-%E6%81%90%E8%B7%A8-%E5%95%8F%E9%A1%8C%E5%9A%B4%E9%87%8D)                       |
+| Author          | 羅恩賜                               |
+| Region          | 香港                               |
+| Date            | 2016-01-15                                 |
+| Tags            | 跨性别, 制度化歧视, 性别歧视, 医疗平等, 社会改革, 性别认同, 心理健康, 新闻报道, 法律政策, LGBT权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

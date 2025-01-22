@@ -220,8 +220,8 @@ CDT 档案卡
 |-----------------|----------------------------------------|
 | Filename        | chinadigitaltimes_UltraViolet_紫外｜转载：跨性别者的中国历史.md                             |
 | Size            | 37640 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinadigitaltimes.net/chinese/707243.html](https://chinadigitaltimes.net/chinese/707243.html)                       |
 | Author          | UltraViolet 紫外                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-04-24                                 |

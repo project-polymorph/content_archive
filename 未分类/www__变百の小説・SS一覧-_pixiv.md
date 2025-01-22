@@ -89,7 +89,7 @@ Potentially sensitive contents will not be featured in the list.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于在pixiv上发布的变百（性别转换）小说的汇总，包括103部相关作品。文件中包含多个小说作品的链接、封面图以及作者信息。其中包括作品如《萝莉救世主每天都想在末世榨汁修罗场中活下去》，以及若干章节，这些作品涉及变身百合、性转等元素，反映了变百文化的多样性和创意。这些小说主要以日本原创为主题，部分使用中文发布，并在中国的二次元文化圈内受到欢迎。相关的标签有剧情发展、跨性别角色描绘等，展现了小说的多重性别表达。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,12 +100,12 @@ Potentially sensitive contents will not be featured in the list.
 |-----------------|----------------------------------------|
 | Filename        | www__变百の小説・SS一覧-_pixiv.md                             |
 | Size            | 9677 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pixiv.net/tags/%E5%8F%98%E7%99%BE/novels](https://www.pixiv.net/tags/%E5%8F%98%E7%99%BE/novels)                       |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 变百, 性别转换, 性转, 小说, 百合, pixiv, 创造性写作, 二次元文化,  japanese works, 跨性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

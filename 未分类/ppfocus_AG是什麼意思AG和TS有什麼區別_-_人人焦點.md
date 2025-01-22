@@ -69,8 +69,8 @@ AG 全稱Autogynephilia，這一概念由一位加拿大性學家RAY提出。臺
 |-----------------|----------------------------------------|
 | Filename        | ppfocus_AG是什麼意思AG和TS有什麼區別_-_人人焦點.md                             |
 | Size            | 4892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://ppfocus.com/0/fafecab48.html](https://ppfocus.com/0/fafecab48.html)                       |
 | Author          | 偽娘                               |
 | Region          | 台湾                               |
 | Date            | 2021-03-02                                 |

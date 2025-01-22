@@ -56,8 +56,8 @@ Copyright © 2005 Sohu.com Inc. All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | news_孕妇乘上公交车竟然无人让座位-搜狐新闻中心.md                             |
 | Size            | 1437 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.sohu.com/20051005/n227127809.shtml](https://news.sohu.com/20051005/n227127809.shtml)                       |
 | Author          | 《新民晚报》                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-10-05                                 |

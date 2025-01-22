@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由财新周刊发布，讲述了在2014年12月底，北京市一家咖啡馆举办的“多元性别”话题分享会。在此次分享会上，聚集了来自各个性别取向的参与者，包括同性恋、双性恋、泛性恋、跨性别和酷儿等。文中提到性学专家李银河对网络上对其性别认同的评论进行了回应，并引入了跨性别这一概念，讲述了她和伴侣的故事，强调生理性别和性别认同的区别。李银河的伴侣为生理女性，但其性别认同为男性，这也是文中讨论的跨性别定义之一。文章还介绍了与这一话题相关的其他重要讨论和李银河的思想，如有关婚姻法的解释和社会对多元性别的认知等。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | weekly_讲述多元性别_-_财新周刊-_Caixin.md                             |
 | Size            | 2151 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://weekly.caixin.com/m/2015-01-09/100772666.html](https://weekly.caixin.com/m/2015-01-09/100772666.html)                       |
+| Author          | 姚家怡（实习），财新周刊                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-01-12                                 |
+| Tags            | 多元性别, 跨性别, 性别认同, 性别多样性, 性学, 李银河, 社会话题, 媒体报道, 生命故事, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

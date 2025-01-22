@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_异装癖的困扰-_小组讨论_-_豆瓣.md                             |
 | Size            | 2365 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/272349016/](https://m.douban.com/group/topic/272349016/)                       |
 | Author          | Icy                               |
 | Region          | 山东                               |
 | Date            | 2022-08-06                                 |

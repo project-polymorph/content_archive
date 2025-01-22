@@ -73,8 +73,8 @@
 |-----------------|----------------------------------------|
 | Filename        | politics_长沙看守所收押首例变性嫌疑人安排其住单人间_-_时政-_人民网.md                             |
 | Size            | 4270 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://politics.people.com.cn/n/2014/0521/c1001-25044722.html](http://politics.people.com.cn/n/2014/0521/c1001-25044722.html)                       |
 | Author          | 人民网                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-05-21                                 |

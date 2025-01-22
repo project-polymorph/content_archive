@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了中国著名的变性艺术家金星在2006年瑞士国际舞蹈节STEPS 10#的演出。金星不仅是一位卓越的舞蹈家，还在艺术领域内开创了现代舞团。她的演出为舞蹈节增添了光彩，吸引了来自各国的舞蹈爱好者。文中详细描绘了金星的个人成长历程，从她在沈阳军区前进歌舞团学习舞蹈，到1985年获奖以及后续在美国和比利时的学术交流与艺术创造。此外，金星在1995年接受了变性手术，并在1998年成立了金星现代舞团，成为中国内地惟一的私人现代舞团。在舞蹈节上，金星和她的团队演出了脍炙人口的作品，并组织了世界舞蹈日活动，邀请观众参与舞蹈的快乐与美好。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_中国最著名变性艺术家-金星-来瑞演出_-_Swissinfo.md                             |
 | Size            | 5203 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.swissinfo.ch/chi/culture/%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%91%97%E5%90%8D%E5%8F%98%E6%80%A7%E8%89%BA%E6%9C%AF%E5%AE%B6-%E9%87%91%E6%98%9F-%E6%9D%A5%E7%91%9E%E6%BC%94%E5%87%BA/5145150](https://www.swissinfo.ch/chi/culture/%E4%B8%AD%E5%9B%BD%E6%9C%80%E8%91%97%E5%90%8D%E5%8F%98%E6%80%A7%E8%89%BA%E6%9C%AF%E5%AE%B6-%E9%87%91%E6%98%9F-%E6%9D%A5%E7%91%9E%E6%BC%94%E5%87%BA/5145150)                       |
+| Author          | 刘婷                               |
+| Region          | 中国                               |
+| Date            | 2006-04-26                                 |
+| Tags            | 金星, 变性艺术家, 现代舞, 舞蹈节, 瑞士, 艺术, 文化交流, 生命故事, 舞蹈团, 医疗经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

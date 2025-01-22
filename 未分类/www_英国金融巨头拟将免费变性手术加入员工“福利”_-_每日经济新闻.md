@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了英国劳埃德银行集团计划将变性手术纳入员工医疗保险福利的消息，这是英国首家为员工提供变性手术福利的雇主。随着社会对性别认同问题的关注增加，劳埃德集团的此项举措旨在增强对员工精神和心理健康的重视，并为面临性别焦虑症的员工提供支持。报道中提到，英国接受变性手术的费用约为1万英镑（约合9.4万元人民币），而精神健康方面的支持及心理咨询也是相关举措的一部分。这样的变革不仅帮助了公司内部约3000名性别少数群体员工，也反映出社会对多元性别议题的逐渐包容与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_英国金融巨头拟将免费变性手术加入员工“福利”_-_每日经济新闻.md                             |
 | Size            | 2227 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.nbd.com.cn/articles/2016-05-09/1003542.html](https://www.nbd.com.cn/articles/2016-05-09/1003542.html)                       |
+| Author          | 未知                               |
+| Region          | 英国                               |
+| Date            | 2016-05-09                                 |
+| Tags            | 变性手术, 员工福利, 医疗保险, 性别焦虑, 劳埃德银行, 心理健康, 多元性别, 性别认同, 社会包容, 性别少数群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

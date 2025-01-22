@@ -123,7 +123,7 @@ Copyright ©评美帮网 2015 - 2025 Powered By [60394.com](https://www.60394.co
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一个多元性别相关的整形美容医生档案，主要收录了在整形美容行业工作的一系列医生信息。文中列出多位医生的专业背景和擅长领域，例如蒋中川和武金山的变性手术经验及其注射美容技术。每位医生的简介包含其医术水平、服务态度、亲和度及综合得分等信息，旨在为需要整形美容服务的顾客提供详细的参考。文末也提供了网站的版权声明和用途说明，强调了信息的真实性与自身网站的价值观。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -134,12 +134,12 @@ Copyright ©评美帮网 2015 - 2025 Powered By [60394.com](https://www.60394.co
 |-----------------|----------------------------------------|
 | Filename        | www_北京执业医师-_整形医生_-_评美帮.md                             |
 | Size            | 7629 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pingmeibang.com/item-list-catid-11.html](https://www.pingmeibang.com/item-list-catid-11.html)                       |
+| Author          | 评美帮整形美容中心                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 整形美容, 医师档案, 多元性别, 美容手术, 变性手术, 整形外科, 医学美容, 医疗资源, 医生简介, 患者参考                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

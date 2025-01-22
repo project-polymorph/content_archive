@@ -72,7 +72,7 @@ UC网盘： [UC链接](https://drive.uc.cn/s/45b9926f41704)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一款名为《伪娘后宫》的日式成人视觉小说（ADV），该游戏在Steam平台上发布，内容涉及多元性别及性别表达。游戏中的主角将会与几个伪娘角色互动，他们各具特色，从文静到小恶魔风格，致力于提供丰富的服务体验。作者在文章中以轻松的语调介绍了这款作品，并附带了游戏的购买链接与相关截图。虽然内容的性质引起了争议，但其在ACG文化圈中的影响力不容忽视。文末附有相关下载链接、评论区和相关游戏的推荐，表明该作品与众多其他游戏有着广泛的联系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,12 +83,12 @@ UC网盘： [UC链接](https://drive.uc.cn/s/45b9926f41704)
 |-----------------|----------------------------------------|
 | Filename        | www_【日式ADV中文】伪娘后宫steam官中版【新作630M】_-_ACG港湾.md                             |
 | Size            | 2681 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.acggw.me/23567.html](https://www.acggw.me/23567.html)                       |
+| Author          | 三次郎                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 日式游戏, 视觉小说, 伪娘, 多元性别, 成人游戏, Steam, ACG文化, 游戏评论, 游戏联结, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

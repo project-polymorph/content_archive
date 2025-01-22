@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章记录了跨性别资源中心黄埔会址于2017年12月31日的开幕仪式。文章中提到，该中心在成立九周年之际，得到了来自于社会人士和麦棨诺医生的支持，标志着其落户社区的重要一步。开幕活动面对跨性别人士在香港社会中身心上的困扰及法律的种种挑战，期望通过新中心打破边缘与主流之间的隔阂，创造一个更加包容的环境。文章还提供了活动的时间、主办方和相关链接，以及人们对这一活动的参与情况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別資源中心黃埔會址開幕_-_Facebook.md                             |
 | Size            | 2033 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/events/transgender-resource-center-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%B3%87%E6%BA%90%E4%B8%AD%E5%BF%83-transgender-resource-center-new-location-ope/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%B3%87%E6%BA%90%E4%B8%AD%E5%BF%83%E9%BB%83%E5%9F%94%E6%9C%83%E5%9D%80%E9%96%8B%E5%B9%95/134125363938903/](https://www.facebook.com/events/transgender-resource-center-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%B3%87%E6%BA%90%E4%B8%AD%E5%BF%83-transgender-resource-center-new-location-ope/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%B3%87%E6%BA%90%E4%B8%AD%E5%BF%83%E9%BB%83%E5%9F%94%E6%9C%83%E5%9D%80%E9%96%8B%E5%B9%95/134125363938903/)                       |
+| Author          | 跨性别资源中心                               |
+| Region          | 香港                               |
+| Date            | 2017-12-31                                 |
+| Tags            | 跨性别, 资源中心, 社会支持, 法律问题, 生命故事, 社群活动, 人权, 跨性别权益, 社会包容, 性别承认制度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

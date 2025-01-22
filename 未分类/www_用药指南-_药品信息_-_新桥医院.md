@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是来自新桥医院的用药指南，主要介绍了西医治疗阳痿的药物选择和使用注意事项。文章指出，阳痿的药物治疗通常较少被采用，因为某些药物可能会对性兴奋和阴茎勃起造成影响。文中详细列出了几类药物的使用方法，包括激素类药物、辅助药物、封闭疗法以及穴位注射。特别强调了激素类药物和辅助治疗药物不能长期使用的潜在风险，比如抑制自身性激素分泌和可能导致前列腺肥大等不良后果。因此，建议这些药物的使用应在医生的指导下进行。文件末尾包含了版权信息、技术支持和短信服务的相关内容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_用药指南-_药品信息_-_新桥医院.md                             |
 | Size            | 1555 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xqhospital.com.cn/drug/drug0601.asp?id=147](https://www.xqhospital.com.cn/drug/drug0601.asp?id=147)                       |
+| Author          | 陆军军医大学第二附属医院                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 阳痿, 药物治疗, 性健康, 激素类药物, 辅助药物, 医疗指南, 新桥医院, 生理健康, 性功能障碍, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

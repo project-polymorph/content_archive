@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论的是电影《洛基恐怖秀》这一经典cult片，详细介绍了影片的情节、角色和文化背景。故事围绕一对年轻情侣布莱德和珍妮，他们在暴风雨中寻求避难，意外地被卷入了一场古堡的异装行为的狂欢中。古堡主人福特博士是一个自称来自变性星球的异装癖角色，展现了变性与性别多元的主题。我在文件中分享了影片中博士演唱的经典歌曲《sweet transvestite》的片段。这部电影因其独特的叙事和多样的角色受到了广泛的赞誉和8.0的豆瓣评分。该文件还包含了一些与影片相关的标签，如"影视", "洛基恐怖秀"等，突显其对多元性别文化的影响和重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【孔雀电影】豆瓣8.0_洛基恐怖秀——cult片鼻祖，一场异装癖的盛大_.md                             |
 | Size            | 1558 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1Ut411N7Jt/](https://www.bilibili.com/video/BV1Ut411N7Jt/)                       |
+| Author          | pikok                               |
+| Region          | 未知                               |
+| Date            | 2019-08-08                                 |
+| Tags            | 洛基恐怖秀, 异装癖, cult片, 多元性别, 电影, 影视杂谈, 暑期挑战, 经典电影, 影片解说, 文化影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

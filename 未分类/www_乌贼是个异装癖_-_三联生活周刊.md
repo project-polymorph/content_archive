@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文《乌贼是个异装癖》刊登于2005年第5期三联生活周刊，详细探讨了澳大利亚巨乌贼的一种独特行为：雄乌贼通过男扮女装来提升繁殖的成功率。随着每年冬天交配季节的来临，雄乌贼会为了争夺雌乌贼的注意展开激烈竞争。文章描述了在这种竞争中，一些雄乌贼通过改变外貌，伪装成雌乌贼成功混入竞争行列，从而增加自己的交配机会。研究数据表明，在62例雄乌贼中，有30只成功逃避了对手的注意，甚至2只成功留下了后代。对比这类动物的变装能力，文章指出它们的快速变化真让人类感到惭愧：仅需15分钟，它们便能完成十次以上的外观变换。本文不仅阐述了这一生物行为，同时也隐喻着性别角色与社会期待的复杂关系，是多元性别议题下一个有趣的视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -95,12 +95,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_乌贼是个异装癖_-_三联生活周刊.md                             |
 | Size            | 4417 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.lifeweek.com.cn/2005/0201/10940.shtml](https://www.lifeweek.com.cn/2005/0201/10940.shtml)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2005-02-01                                 |
+| Tags            | 多元性别, 异装癖, 生物行为, 雄性竞争, 乌贼, 交配行为, 社会角色, 性别认同, 科学研究, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

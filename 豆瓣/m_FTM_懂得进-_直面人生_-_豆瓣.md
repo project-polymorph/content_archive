@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_FTM_懂得进-_直面人生_-_豆瓣.md                             |
 | Size            | 1203 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/12687685/](https://m.douban.com/movie/review/12687685/)                       |
 | Author          | Man                               |
 | Region          | 英国                               |
 | Date            | 2014-10-06                                 |

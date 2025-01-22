@@ -137,8 +137,8 @@ _作者 Jaclynn Joyce，是一個出生在夏威夷目前定居台灣的博士�
 |-----------------|----------------------------------------|
 | Filename        | noselfidtw_性別認同立法正在台灣被強力推動——大眾能有發言權嗎？.md                             |
 | Size            | 16625 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://noselfidtw.cc/post/gender-identity-legislation-is-being-pushed-through-in-taiwan-will-women-get-a-say/](https://noselfidtw.cc/post/gender-identity-legislation-is-being-pushed-through-in-taiwan-will-women-get-a-say/)                       |
 | Author          | Jaclynn Joyce                               |
 | Region          | 台湾                               |
 | Date            | 2021-10-14                                 |

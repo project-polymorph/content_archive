@@ -145,8 +145,8 @@ Photo by [Aziz Acharki](https://unsplash.com/photos/M2iEigqVbFM) on [Unsplash](h
 |-----------------|----------------------------------------|
 | Filename        | beauty-upgrade_跨性別者：錯位的靈魂，性別認同的美麗與哀愁_-_Beauty_Upgrade.md                             |
 | Size            | 12258 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://beauty-upgrade.tw/57714](https://beauty-upgrade.tw/57714)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了马来西亚政府考虑禁止跨性别者进入清真寺的提议，此举引发了跨性别活动份子和人权组织的强烈反对与担忧。跨性别活动人士指出，这样的禁令表明马来西亚对宗教的容忍度逐渐降低，并加剧了社会对跨性别群体的偏见与歧视。文章引用了知名的跨性别活动家尼莎阿尤的言论，她强调这样的做法侵犯了跨性别者的身份与表达权利，以及他们的宗教自由。报道中提到的一份声明，表示这些决定将增加对跨性别者的攻击与歧视，与此同时，涉及跨性别女性的暴力案件的数据也显示出这一群体面临的严峻生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,12 +83,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_马政府将禁跨性别者进清真寺人权组织斥加剧歧视.md                             |
 | Size            | 4566 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.hrhl.pku.edu.cn/rqxw/gjxw/1349018.htm](http://www.hrhl.pku.edu.cn/rqxw/gjxw/1349018.htm)                       |
+| Author          | 未知                               |
+| Region          | 马来西亚                               |
+| Date            | 2021-09-29                                 |
+| Tags            | 跨性别, 宗教, 人权, 歧视, 马来西亚, 社会偏见, 自由, 性别平等, 法律政策, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

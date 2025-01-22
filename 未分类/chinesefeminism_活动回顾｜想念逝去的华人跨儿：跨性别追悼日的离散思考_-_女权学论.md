@@ -81,8 +81,8 @@ PZH的[参考文献](https://docs.google.com/document/d/1dGOPiq5mTryTbhs_rK564Lm
 |-----------------|----------------------------------------|
 | Filename        | chinesefeminism_活动回顾｜想念逝去的华人跨儿：跨性别追悼日的离散思考_-_女权学论.md                             |
 | Size            | 4869 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinesefeminism.org/2023/11/20/toronto-trans-nov-event/](https://chinesefeminism.org/2023/11/20/toronto-trans-nov-event/)                       |
 | Author          | 多伦多华语女权                               |
 | Region          | 加拿大，多伦多                               |
 | Date            | 2023-11-11                                 |

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_trans_-_豆瓣.md                             |
 | Size            | 1754 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/154343513/](https://m.douban.com/doulist/154343513/)                       |
 | Author          | Enlightening                               |
 | Region          | 未知                               |
 | Date            | 2023-03-12                                 |

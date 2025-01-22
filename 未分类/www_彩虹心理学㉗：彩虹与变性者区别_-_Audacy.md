@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《彩虹心理学㉗：彩虹与变性者区别》由鞠强教授撰写，介绍了彩虹象征的多元性别文化与变性者群体之间的区别。鞠教授作为管理心理学专家，深入探讨了心理健康与社会认同在多元性别背景下的重要性。通过专业的视角，他结合心理学和社会学的知识，为读者提供了一种新的理解多元性别和变性者的方式。文件中提到了鞠教授对心理学的研究经历和其在学术界的成就，尤其强调了心理干预技术对心理健康问题的解决作用。同时，文件也提供了图片和链接，丰富了内容并易于读者查阅相关信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_彩虹心理学㉗：彩虹与变性者区别_-_Audacy.md                             |
 | Size            | 3379 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.audacy.com/podcast/%E9%9E%A0%E5%BC%BA%E6%95%99%E6%8E%88%E7%AE%A1%E7%90%86%E5%BF%83%E7%90%86%E5%AD%A6-1acfd/episodes/%E5%BD%A9%E8%99%B9%E5%BF%83%E7%90%86%E5%AD%A627%E5%BD%A9%E8%99%B9%E4%B8%8E%E5%8F%98%E6%80%A7%E8%80%85%E5%8C%BA%E5%88%AB-9c589](https://www.audacy.com/podcast/%E9%9E%A0%E5%BC%BA%E6%95%99%E6%8E%88%E7%AE%A1%E7%90%86%E5%BF%83%E7%90%86%E5%AD%A6-1acfd/episodes/%E5%BD%A9%E8%99%B9%E5%BF%83%E7%90%86%E5%AD%A627%E5%BD%A9%E8%99%B9%E4%B8%8E%E5%8F%98%E6%80%A7%E8%80%85%E5%8C%BA%E5%88%AB-9c589)                       |
+| Author          | 鞠强教授                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-15                                 |
+| Tags            | 多元性别, 变性者, 心理学, 彩虹文化, 心理健康, 社会认同, 鞠强教授, 心理干预技术, 性别认同, 心理咨询                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

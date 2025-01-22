@@ -119,8 +119,8 @@ TVBS 2005/12/07
 |-----------------|----------------------------------------|
 | Filename        | gsrat_遭爆變性人？嚴淑明：「正港」女兒身。.md                             |
 | Size            | 3730 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://gsrat.net/news2/newsclipDetail.php?ncdata_id=1345](http://gsrat.net/news2/newsclipDetail.php?ncdata_id=1345)                       |
 | Author          | 东森新闻报及其他媒体                               |
 | Region          | 台湾                               |
 | Date            | 2005-12-07                                 |

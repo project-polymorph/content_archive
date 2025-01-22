@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_没想到过_-_豆瓣.md                             |
 | Size            | 1130 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/135433446/](https://m.douban.com/doulist/135433446/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

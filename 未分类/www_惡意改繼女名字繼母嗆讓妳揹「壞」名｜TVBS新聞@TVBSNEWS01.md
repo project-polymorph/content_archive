@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇报道讲述了桃园一家发生的惊人事件，一名继母对未成年来说是令人难以置信的恶意行为：她竟然将继女的名字最后一个字改成了“坏”，并且甚至得到了生父的同意。文章中提到，这一决定给女孩带来了极大的心理伤害，让她非常崩溃。此外，继母还故意将女孩赶出家门，甚至报警让她失踪，四个月内竟发生了六次。现在女孩已经由生母照顾，并寻求法律协助改名，以获取更好的保护。此事件引发了社会的关注，突显了对未成年人权益保护的严重性。通过这一具体案例，文章反映了在家庭中的复杂关系对儿童心理和法律支持的缺乏，以及社会对于多元家庭结构的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_惡意改繼女名字繼母嗆讓妳揹「壞」名｜TVBS新聞@TVBSNEWS01.md                             |
 | Size            | 1858 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=t8BW93nheZk](https://www.youtube.com/watch?v=t8BW93nheZk)                       |
+| Author          | TVBS NEWS                               |
+| Region          | 台湾                               |
+| Date            | 2024-11-07                                 |
+| Tags            | 恶意改名, 继母, 未成年, 儿童权益, 家庭暴力, 生母, 社会关注, 心理健康, 法律支持, 桃园                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

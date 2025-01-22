@@ -66,8 +66,8 @@
 |-----------------|----------------------------------------|
 | Filename        | haij_石家庄02年猛男找ts，cd_-_海角社区.md                             |
 | Size            | 1990 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://haij.cc/ard/1_9_41_142033/%E6%B5%B7%E8%A7%92%E7%A4%BE%E5%8C%BA/%E7%9C%9F%E7%88%B1/TS/CD/%E7%9F%B3%E5%AE%B6%E5%BA%8402%E5%B9%B4%E7%8C%9B%E7%94%B7%E6%89%BEts%EF%BC%8Ccd.html](https://haij.cc/ard/1_9_41_142033/%E6%B5%B7%E8%A7%92%E7%A4%BE%E5%8C%BA/%E7%9C%9F%E7%88%B1/TS/CD/%E7%9F%B3%E5%AE%B6%E5%BA%8402%E5%B9%B4%E7%8C%9B%E7%94%B7%E6%89%BEts%EF%BC%8Ccd.html)                       |
 | Author          | 海角社区用户                               |
 | Region          | 未知                               |
 | Date            | 2023-06-14                                 |

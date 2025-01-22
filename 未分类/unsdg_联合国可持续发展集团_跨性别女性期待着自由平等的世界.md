@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别女性在墨西哥的生存现状以及她们对自由和平等的渴望。文件开篇提到，尽管社会对跨性别女性存在诸多歧视和恶劣对待，但她们依然勇敢发声，展现团结。文章中提到，在COVID-19封锁期间，这些女性在简陋的庇护所内为社区居民提供食品援助，彰显了她们的坚韧与关怀。她们得到了联合国机构如联合国妇女署和人权事务高级专员办事处的支持，表明跨性别者的权益问题已经引起国际社会的重视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | unsdg_联合国可持续发展集团_跨性别女性期待着自由平等的世界.md                             |
 | Size            | 2326 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://unsdg.un.org/zh/latest/videos/kuaxingbienuxingqidaizheziyoupingdengdeshijie](https://unsdg.un.org/zh/latest/videos/kuaxingbienuxingqidaizheziyoupingdengdeshijie)                       |
+| Author          | 未知                               |
+| Region          | 墨西哥                               |
+| Date            | 2020-12-10                                 |
+| Tags            | 跨性别女性, 社会歧视, 人权, 医疗资源, LGBTI权益, 社区支持, 联合国支持, COVID-19关怀, 女性平等, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | 6als_《日本后宫伪娘动漫》职场剧-超高清在线播放-零售百科网.md                             |
 | Size            | 2099 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://6als.com/?/20241028134519/VjRaflZ1_729395098.html](http://6als.com/?/20241028134519/VjRaflZ1_729395098.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

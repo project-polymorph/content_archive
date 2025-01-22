@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件记录了一次关于性别光谱的访谈节目，标题为《性别光谱 11：跨男（上）：上个厕所有够难！》，由鬼岛之音制作，时间为2023年9月6日。节目邀请了来宾Sharkie分享他在探索性别认同过程中的经验，包括他对自己身份的理解、以及在社会环境中面临的挑战。Sharkie讲述了自己对跨性别身份的看法，他表示自己的性别认同偏向中性或男性，并更倾向于用“有机体”来描述自己，强调个体的成长与变化。节目中还提到了身心健康的重要性，以及他在选择上无障碍厕所的原因。该文档也提到了一些与活动相关的信息，如即将举办的台湾国际女性影展，展示了多元性别与社会文化的融合。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性別光譜11：跨男（上）：上個廁所有夠難！｜ft._Sharkie_-_YouTube.md                             |
 | Size            | 2566 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=IEzrZcPLGuY](https://www.youtube.com/watch?v=IEzrZcPLGuY)                       |
+| Author          | 鬼岛之音 Ghost Island Media                               |
+| Region          | 台湾                               |
+| Date            | 2023-09-06                                 |
+| Tags            | 性别光谱, 跨性别, 有机体, 生命故事, 社会环境, 医疗资源, 法律政策, 真实记录, 文化活动, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

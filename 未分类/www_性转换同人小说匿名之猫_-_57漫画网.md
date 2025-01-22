@@ -20,7 +20,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是来自于57漫画网的一部性转换同人小说，讲述了与性别转换相关的虚构故事。文件包含了最新章节的链接（第01回），并在2024年08月04日进行了更新。尽管文件未提供具体的摘要和附加信息，但可推测其内容涉及多元性别的主题，可能包括角色的性别认同和Transition（过渡）经历。这类同人小说通常以创造性和表现力为特色，旨在探讨并反映多元性别群体的经历和情感，也可能结合社会性别的流动性及相关文化情境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -31,12 +31,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性转换同人小说匿名之猫_-_57漫画网.md                             |
 | Size            | 241 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.57xu.com/kmw/28283619](http://www.57xu.com/kmw/28283619)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-08-04                                 |
+| Tags            | 性转换, 同人小说, 多元性别, 性别认同, 过渡经历, 虚构故事, 漫画, 文化表达, 性别流动性, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

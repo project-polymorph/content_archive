@@ -89,8 +89,8 @@ MARCUS是典型的易性癖。transsexualism是一种性别认同障碍，属于
 |-----------------|----------------------------------------|
 | Filename        | movie_圣歌的讨论-_那个大男人怎么会有一对奶？？？_-_豆瓣.md                             |
 | Size            | 4431 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://movie.douban.com/subject/1771925/discussion/20744443/](https://movie.douban.com/subject/1771925/discussion/20744443/)                       |
 | Author          | 范树娃                               |
 | Region          | 未知                               |
 | Date            | 2009-12-10                                 |

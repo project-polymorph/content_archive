@@ -64,7 +64,7 @@ Copyright@ 2011 - 2025
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文作者UTEN+（雨天あめか）所创作的同人作品，通过主角澪川的性转经历，探讨了性别认同与身体变化的主题。故事开篇介绍了澪川因为睡眠不足而在课堂上打瞌睡，醒来后发现自己竟然女体化了，令同班同学感到惊讶和窥视。在澪川与朋友柏木一起前往医院咨询医生的过程中，发生了一系列令人意想不到的情节，包括不合适的医疗场景和性别认同的困惑。作品通过幽默和奇幻的方式，展现了性别流动性和社会反响的问题，同时也包含了许多轻松幽默的元素。作品长度为73页，属于未修正的同人誌，建议读者支持作者并购买原版。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@ Copyright@ 2011 - 2025
 |-----------------|----------------------------------------|
 | Filename        | www__UTEN+__雨天あめか___俺の親友はTS（性転換）体質3｜我的摯友擁有_.md                             |
 | Size            | 3619 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wnacg.com/photos-index-aid-258094.html](https://www.wnacg.com/photos-index-aid-258094.html)                       |
+| Author          | UTEN+ (雨天あめか)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 女体化, 同人志, 医疗, 性别认同, 青梅竹马, 青春校园, 情感纠葛, 幽默, 社会反响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

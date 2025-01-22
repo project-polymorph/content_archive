@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自于文摘报，报道了一名菲律宾男子为了能够与日本男子结婚而选择变性手术的故事。根据调查，在1998年至1999年间，菲律宾女性中有50人原本是男性，并且她们几乎都是在计划与日本男子结婚的情况下进行了变性手术。这一现象表明，在某些社会文化背景下，为了追求个人的幸福或改善自身的生存环境，一些人愿意做出重大的人生选择和身体改变。此文不仅反映了个人过渡经历的复杂性，还涉及跨国婚姻与性别认同等多元性别问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_为嫁东瀛做变性手术_文摘报_光明网.md                             |
 | Size            | 696 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gmw.cn/01wzb/2000-04/27/GB/2000%5E1741%5E0%5EWZ2-2727.htm](https://www.gmw.cn/01wzb/2000-04/27/GB/2000%5E1741%5E0%5EWZ2-2727.htm)                       |
+| Author          | 未知                               |
+| Region          | 菲律宾                               |
+| Date            | 2000-04-27                                 |
+| Tags            | 变性手术, 跨性别, 性别身份, 国际婚姻, 菲律宾, 日本, 生存环境, 医疗经验, 生命故事, 社会文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

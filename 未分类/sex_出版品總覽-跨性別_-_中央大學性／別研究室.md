@@ -91,8 +91,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sex_出版品總覽-跨性別_-_中央大學性／別研究室.md                             |
 | Size            | 5098 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sex.ncu.edu.tw/publication/book_common_27.html](https://sex.ncu.edu.tw/publication/book_common_27.html)                       |
 | Author          | 中央大学性别研究室                               |
 | Region          | 台湾                               |
 | Date            | 2003-11-01                                 |

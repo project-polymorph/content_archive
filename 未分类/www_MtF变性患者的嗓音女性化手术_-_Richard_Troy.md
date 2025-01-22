@@ -155,7 +155,7 @@ _Wendler’s Glottoplasty_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章由Richard Troy撰写，重点介绍MtF（男性向女性）变性患者的嗓音女性化手术。声音是个人身份的重要部分，对于跨性别者来说，女性化声音的改变是与性别认同一致的关键步骤。文章详细阐述了声音的构成，包括肺、声带及其共振腔的解剖特征，并阐明了男性与女性声音的不同，包括音高、共振峰及语调的差异。接着，文章讨论了导致这些差异的生物学因素，以及激素替代疗法对声音的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -166,12 +166,12 @@ _Wendler’s Glottoplasty_
 |-----------------|----------------------------------------|
 | Filename        | www_MtF变性患者的嗓音女性化手术_-_Richard_Troy.md                             |
 | Size            | 11526 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ricktroy.com/zh/mtf%E5%8F%98%E6%80%A7%E6%82%A3%E8%80%85%E7%9A%84%E5%97%93%E9%9F%B3%E5%A5%B3%E6%80%A7%E5%8C%96%E6%89%8B%E6%9C%AF/](https://www.ricktroy.com/zh/mtf%E5%8F%98%E6%80%A7%E6%82%A3%E8%80%85%E7%9A%84%E5%97%93%E9%9F%B3%E5%A5%B3%E6%80%A7%E5%8C%96%E6%89%8B%E6%9C%AF/)                       |
+| Author          | Richard Troy                               |
+| Region          | 未知                               |
+| Date            | 2020-08-21                                 |
+| Tags            | 变性疗法, 嗓音女性化手术, 跨性别, 性别认同, 声音特征, 激素替代疗法, 医疗资源, 生理性别, 语言治疗, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

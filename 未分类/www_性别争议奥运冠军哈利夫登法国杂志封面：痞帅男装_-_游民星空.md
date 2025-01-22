@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了阿尔及利亚女拳手哈利夫登上法国《M Le magazine du Monde》杂志封面的事件，引发了广泛的性别争议。哈利夫在2024年巴黎奥运会上获得66公斤级别金牌，但其性别身份受到质疑。法国媒体公布的医学报告表明，哈利夫实际为男性，睾酮水平显著高于女性的正常范围，并且显示其为XY型染色体携带者。此事件引发了对体育界性别认同和性别规则的深入讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性别争议奥运冠军哈利夫登法国杂志封面：痞帅男装_-_游民星空.md                             |
 | Size            | 1784 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gamersky.com/news/202411/1846353.shtml](https://www.gamersky.com/news/202411/1846353.shtml)                       |
+| Author          | 心态良好的胖子                               |
+| Region          | 未知                               |
+| Date            | 2024-11-17                                 |
+| Tags            | 体育, 性别争议, 奥运会, 阿尔及利亚, 拳击, 医学报告, 性别认同, 荷尔蒙水平, 性别政策, 社会讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

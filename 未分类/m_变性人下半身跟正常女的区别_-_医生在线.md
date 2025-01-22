@@ -50,8 +50,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性人下半身跟正常女的区别_-_医生在线.md                             |
 | Size            | 3470 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.51daifu.com/mr/bxss/r832670.shtml](https://m.51daifu.com/mr/bxss/r832670.shtml)                       |
 | Author          | 医生在线网                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-02-24                                 |

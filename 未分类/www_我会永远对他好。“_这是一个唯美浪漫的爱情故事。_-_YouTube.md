@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位跨性别者的唯美浪漫爱情故事。故事者分享了自己与一位男孩的爱情经历，深切表达了对这份情感的珍视，以及对生活的思考。视频由TheDerekShow制作，描述了在美国华盛顿DC一年一度的骄傲游行期间的生活片段，透过个人的故事展现了跨性别者的生存状态与情感世界。故事中提到的？“我会永远对他好。”不仅是情感的表露，也代表了对爱的承诺。视频广受关注，观众互动活跃，评论区表达了对不同人生经历的理解和支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我会永远对他好。“_这是一个唯美浪漫的爱情故事。_-_YouTube.md                             |
 | Size            | 1126 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=E-lXpdMCqU0](https://www.youtube.com/watch?v=E-lXpdMCqU0)                       |
+| Author          | TheDerekShow                               |
+| Region          | 美国                               |
+| Date            | 2024-04-29                                 |
+| Tags            | 跨性别, 爱情, LGBT, 生活故事, 骄傲游行, 华盛顿DC, 情感经历, 社群故事, 人际关系, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

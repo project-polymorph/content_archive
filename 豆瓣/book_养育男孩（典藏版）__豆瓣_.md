@@ -116,8 +116,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_养育男孩（典藏版）__豆瓣_.md                             |
 | Size            | 6478 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/25881111//](https://book.douban.com/subject/25881111//)                       |
 | Author          | 史蒂夫·比达尔夫                               |
 | Region          | 澳大利亚                               |
 | Date            | 2014-04-30                                 |

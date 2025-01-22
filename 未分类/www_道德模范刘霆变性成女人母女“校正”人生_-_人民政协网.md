@@ -109,7 +109,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了刘霆（后更名为刘婷）这个曾经的道德模范在变性过程中的故事，反映了他在家庭、社会和自我认同等多个层面所经历的挑战与心路历程。刘霆自13岁起照顾身患尿毒症的母亲，在社会上获得了"全国道德模范"的称号；然而，他自己的性别认同却一直受到压抑。在经过与母亲陆永敏的沟通和心理医生的帮助后，刘霆决定进行变性手术，最终以女性身份“刘婷”重新开始生活。文章中展示了母女之间深厚的感情与相互支持，以及在家庭和社会双重压力下的挣扎与成长。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -120,12 +120,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_道德模范刘霆变性成女人母女“校正”人生_-_人民政协网.md                             |
 | Size            | 6092 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.rmzxb.com.cn/c/2015-04-13/481175.shtml](http://www.rmzxb.com.cn/c/2015-04-13/481175.shtml)                       |
+| Author          | 新京报                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-13                                 |
+| Tags            | 刘霆, 变性, 道德模范, 女性身份, 母女关系, 社会支持, 心理健康, 家庭故事, 自我认同, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

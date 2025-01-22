@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由作者水卵石撰写，表达了作为同性恋者对金星的支持与反对态度。作者支持金星为同性恋群体发声，但反对她举着彩虹旗发声，认为这种做法不适合中国的社会文化背景。文中提到，虽然金星的发声获得了网络舆论的广泛支持，但这种支持主要是因对LGBT文化在社会中的渗透与影响的警惕。作者回忆了金星早期访谈中的发言，强调中国古代文化中早就存在类似群体，提出社会不需要通过标签来区分人群，认为金星的身份在某些情况下并不重要，关键在于对中国身份的认同。最后，作者希望社会能更多地理解同性恋群体的生存状态与潜在压抑情绪，而不是一味追求标签与特权。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | user_作为同性恋，我支持金星为我们群体发声，但我反对她举彩虹旗发声.md                             |
 | Size            | 4035 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://user.guancha.cn/main/content?id=1321596](https://user.guancha.cn/main/content?id=1321596)                       |
+| Author          | 水卵石                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-25                                 |
+| Tags            | 同性恋, 金星, LGBT文化, 社会身份, 文化渗透, 历史文化, 支持与反对, 社会理解, 情感压抑, 社会标签                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

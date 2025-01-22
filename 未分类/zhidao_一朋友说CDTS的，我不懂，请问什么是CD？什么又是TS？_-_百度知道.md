@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自百度知道，主要讨论了“CD”和“TS”这两个多元性别相关术语的解释。文中首先阐述了“CD”是英文Cross-dress的缩写，意思是变装，指通过服装和化妆将自己打扮成异性。而“TS”则是TransSexual的缩写，意味着对本身性别不满意，并希望通过手术方式改变性别，指的是变性人。此外，作者还列举了该缩写的其他可能含义，表明这些字母在不同的语境下可以有多种解释。该文件的内容贴近社会对多元性别的认知，帮助读者更好地理解这些术语及其相关背景。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zhidao_一朋友说CDTS的，我不懂，请问什么是CD？什么又是TS？_-_百度知道.md                             |
 | Size            | 30921 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhidao.baidu.com/question/1766750074847139500.html](https://zhidao.baidu.com/question/1766750074847139500.html)                       |
+| Author          | 一束精光                               |
+| Region          | 未知                               |
+| Date            | 2017-05-01                                 |
+| Tags            | 变装, 跨性别, 性别认同, CD, TS, 性别表达, 多元性别, 社会认知, 法律政策, 生活经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

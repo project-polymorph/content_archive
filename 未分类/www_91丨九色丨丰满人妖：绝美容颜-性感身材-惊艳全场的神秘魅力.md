@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了九色，一个以丰满人妖形象而闻名的艺人。文章深入探讨了九色的外貌魅力以及她在时尚与娱乐界中的影响力。她以精致的容颜和性感的身材成为众多活动中的焦点，赢得了粉丝的高度赞扬。除了外在美，九色的才华也得到了认可，她在音乐和舞蹈等领域展现了自己的艺术天赋。通过展示自己成长过程中的挑战与自我认同的故事，九色传递了对真实自我的坚守和对内心梦想的追求。文章还提到，尽管身处压力之下，九色依然选择关注内心的美，反映出丰盈人妖身份的多维性与抗争。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_91丨九色丨丰满人妖：绝美容颜-性感身材-惊艳全场的神秘魅力.md                             |
 | Size            | 3389 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jingyifang.net/jingyifanggl/236251d68.html](http://www.jingyifang.net/jingyifanggl/236251d68.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-15                                 |
+| Tags            | 九色, 人妖, 时尚, 娱乐, 外在美, 内心美, 艺术天赋, 自我认同, 多元性别, 成长经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

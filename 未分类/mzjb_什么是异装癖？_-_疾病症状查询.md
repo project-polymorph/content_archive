@@ -141,8 +141,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mzjb_什么是异装癖？_-_疾病症状查询.md                             |
 | Size            | 8716 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mzjb.yilianmeiti.com/1350/](https://mzjb.yilianmeiti.com/1350/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

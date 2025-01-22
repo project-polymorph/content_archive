@@ -80,8 +80,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性别_-_豆瓣.md                             |
 | Size            | 5235 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/153961873/](https://m.douban.com/doulist/153961873/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-02-08                                 |

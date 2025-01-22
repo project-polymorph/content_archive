@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛.md                             |
 | Size            | 3859 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.mydrivers.com/1/1014/1014398.htm](https://news.mydrivers.com/1/1014/1014398.htm)                       |
 | Author          | 不凹就沁丶优格                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-11-17                                 |

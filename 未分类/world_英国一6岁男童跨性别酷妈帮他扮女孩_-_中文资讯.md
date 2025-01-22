@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名来自英国的6岁男童崔西的跨性别故事。他的母亲阿曼达支持他认同为女孩，并在日常生活中为他打扮成女孩子。这一决定引发了家庭及社会的争议，崔西的母亲在文中分享了她如何接纳和支持儿子的性别认同，尽管面对来自保守家庭成员的抵制。在幼儿园中，崔西获得了一些同龄人的接受，但也遭遇了别人的误解与阻碍。阿曼达表示，支持孩子的自我认同是家庭幸福的重要基础，她强调了自信的重要性，认为只有支持孩子，才能让他们有信心面对未来。文章最后提到崔西正在进行心理咨询，并计划在未来接受相关的医疗支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_英国一6岁男童跨性别酷妈帮他扮女孩_-_中文资讯.md                             |
 | Size            | 5030 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.chinadaily.com.cn/2018-04/12/content_36016117.htm](http://world.chinadaily.com.cn/2018-04/12/content_36016117.htm)                       |
+| Author          | 封面新闻                               |
+| Region          | 英国                               |
+| Date            | 2018-04-12                                 |
+| Tags            | 跨性别, 性别认同, 家庭支持, 性别教育, 心理咨询, 性别变化, 儿童故事, 文化争议, 社会反应, 医疗支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

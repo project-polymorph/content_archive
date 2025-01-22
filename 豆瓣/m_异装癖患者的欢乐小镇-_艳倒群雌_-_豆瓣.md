@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_异装癖患者的欢乐小镇-_艳倒群雌_-_豆瓣.md                             |
 | Size            | 1665 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/8507919/](https://m.douban.com/movie/review/8507919/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 1995-09-08                                 |

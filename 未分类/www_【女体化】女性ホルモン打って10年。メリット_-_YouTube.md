@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该视频由Rummy（ラミー）发布，分享了他在过去10年中使用女性荷尔蒙的经验与思考。视频中详细介绍了女性荷尔蒙对身体的影响，包括胸部、皮肤、头发及心理层面的变化。Rummy强调了接受这种变化的个人责任，并鼓励观众在考虑变性过程时进行充分的思考与了解。在视频中，他还分享了一些重要的时间节点，来说明不同阶段所感受到的变化。该视频适合那些想要了解性别转换过程或寻求相关信息的观众。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【女体化】女性ホルモン打って10年。メリット_-_YouTube.md                             |
 | Size            | 1246 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=CkDJTHSZD4g](https://www.youtube.com/watch?v=CkDJTHSZD4g)                       |
+| Author          | Rummy                               |
+| Region          | 未知                               |
+| Date            | 2021-04-10                                 |
+| Tags            | 多元性别, 女性荷尔蒙, 性别转换, 跨性别, 个人经验, 心理变化, 身体变化, 视频分享, 社会认知, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

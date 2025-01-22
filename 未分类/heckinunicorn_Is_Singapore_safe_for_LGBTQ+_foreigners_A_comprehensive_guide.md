@@ -419,8 +419,8 @@ In effect, the new Bill potentially increases the punishment for inciting violen
 |-----------------|----------------------------------------|
 | Filename        | heckinunicorn_Is_Singapore_safe_for_LGBTQ+_foreigners_A_comprehensive_guide.md                             |
 | Size            | 42287 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://heckinunicorn.com/blogs/heckin-unicorn-blog/is-singapore-safe-for-lgbtq-foreigners-a-comprehensive-guide?srsltid=AfmBOoqkxACf6yAWT8KyqnTgVr2gdYDSW5AXijODwuK49RfRpNOYarln](https://heckinunicorn.com/blogs/heckin-unicorn-blog/is-singapore-safe-for-lgbtq-foreigners-a-comprehensive-guide?srsltid=AfmBOoqkxACf6yAWT8KyqnTgVr2gdYDSW5AXijODwuK49RfRpNOYarln)                       |
 | Author          | Heckin' Unicorn                               |
 | Region          | 新加坡                               |
 | Date            | 2023-10-14                                 |

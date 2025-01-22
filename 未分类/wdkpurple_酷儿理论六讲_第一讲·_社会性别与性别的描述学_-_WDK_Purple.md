@@ -124,7 +124,9 @@ _/ TO BE CONTINUED /_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《酷儿理论六讲》的第一讲，主题为“社会性别与性别的描述学”。内容深入探讨了社会性别与生理性别的本质及其关系，引用了著名学者朱迪斯·巴特勒及其作品《性别麻烦》的理论。在文件中，巴特勒质疑了传统理解中生理性别与社会性别的二元对立关系，指出社会性别并非单纯地基于生理性别的反映，而是通过社会建构和一系列的规范化实践而形成的身份。作者多次强调性别是通过行动和实践而被生产出来，并探讨如何在文化与历史的背景下理解这些关系。
+
+文件中提到的主要概念包括“操演性”，即性别不再被视为一组属性，而是通过社会的互动与规范不断被构造和确认。对于性别认同的形成，文件讨论了人与社会的相互作用，揭示了性别身份并非个体主观选择的结果，而是外在社会结构的约束与规范的体现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -135,12 +137,12 @@ _/ TO BE CONTINUED /_
 |-----------------|----------------------------------------|
 | Filename        | wdkpurple_酷儿理论六讲_第一讲·_社会性别与性别的描述学_-_WDK_Purple.md                             |
 | Size            | 17936 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wdkpurple.lgbt/post/2019-06-17-six-lectures-1/](https://wdkpurple.lgbt/post/2019-06-17-six-lectures-1/)                       |
+| Author          | WDK Purple                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 酷儿理论, 社会性别, 性别研究, 朱迪斯·巴特勒, 性别认同, 操演性, 性别角色, 生理性别, 性别二元, 社会建构                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -81,8 +81,8 @@
 |-----------------|----------------------------------------|
 | Filename        | counseling_「與我同在」____多元性別探索與認同_-_學生輔導中心.md                             |
 | Size            | 6157 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://counseling.sa.ntnu.edu.tw/%E8%88%87%E6%88%91%E5%90%8C%E5%9C%A8%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E6%8E%A2%E7%B4%A2%E8%88%87%E8%AA%8D%E5%90%8C/](https://counseling.sa.ntnu.edu.tw/%E8%88%87%E6%88%91%E5%90%8C%E5%9C%A8%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E6%8E%A2%E7%B4%A2%E8%88%87%E8%AA%8D%E5%90%8C/)                       |
 | Author          | 洪梓修                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

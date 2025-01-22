@@ -10,7 +10,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《陈焕然·美容整形医学10讲》，它是针对美容整形医学的一个讲座或课程内容的总结。此讲座可能涵盖了美容整形手术的基础知识、最新医学技术、相关风险及术后恢复等方面的信息。相较于传统的美容知识，整形医学更强调医学伦理、患者心理与生理双重健康的综合考量。通过讲座，公众可更深入理解整形手术带来的生理变化以及对心理状态的影响，尤其是在多元性别背景下的适用性和特殊需求。因此，内容可能对多元性别群体在选择整形手术方面提供实用的指导与参考。文中还提到了一些医疗资源和个人经历，这些信息对希望进行相应手术的人群来说极具参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -21,12 +21,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_陈焕然·美容整形医学10讲_-_得到App.md                             |
 | Size            | 1624 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.igetget.com/course/%E9%99%88%E7%84%95%E7%84%B6%C2%B7%E7%BE%8E%E5%AE%B9%E6%95%B4%E5%BD%A2%E5%8C%BB%E5%AD%A610%E8%AE%B2?param=NkPfVsmf2X&token=27YMAa9qPv4VMnQs23Jen0RE5dGLlO](https://www.igetget.com/course/%E9%99%88%E7%84%95%E7%84%B6%C2%B7%E7%BE%8E%E5%AE%B9%E6%95%B4%E5%BD%A2%E5%8C%BB%E5%AD%A610%E8%AE%B2?param=NkPfVsmf2X&token=27YMAa9qPv4VMnQs23Jen0RE5dGLlO)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 美容整形, 整形医学, 生命故事, 医疗资源, 心理健康, 多元性别, 术后恢复, 生理变化, 公共讲座, 医学伦理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

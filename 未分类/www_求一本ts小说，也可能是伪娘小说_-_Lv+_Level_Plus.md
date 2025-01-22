@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇有关寻找一部TS（变性者）和伪娘小说的求助帖，发帖人晨曦_耀眼描述了这部小说的大概情节，虽然名字忘记了，但记得主要人物的经历。故事的开端发生在酒吧，主角与几位TS角色相遇，展开了包括一位富豪父亲与其儿女之间因性别认同而产生的冲突等情节。发帖人求助于网络上的其他读者，试图找到这部小说的名称。此帖子引发了一系列回复，读者们分享自己的相关经验和推荐，文中提及的小说包括《变性美妻都市缘》等。更具体的故事情节和一些角色动机也在讨论中被提及。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_求一本ts小说，也可能是伪娘小说_-_Lv+_Level_Plus.md                             |
 | Size            | 1387 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.level-plus.net/simple/index.php?t1776930.html](https://www.level-plus.net/simple/index.php?t1776930.html)                       |
+| Author          | 晨曦_耀眼                               |
+| Region          | 未知                               |
+| Date            | 2023-03-29                                 |
+| Tags            | TS小说, 伪娘小说, 网络求助, 变性者故事, 酒吧邂逅, 富豪家庭, 性别认同, 情感纠葛, 变性美妻都市缘, 生活经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

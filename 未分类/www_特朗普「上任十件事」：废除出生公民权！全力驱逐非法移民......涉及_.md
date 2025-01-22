@@ -109,7 +109,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于特朗普总统上任后将要实施的十项主要政策的详细解读，尤其是，其中一项政策涉及对出生公民权的废除及大规模驱逐非法移民。这篇文章中强调了特朗普在边境安全方面的强硬立场，尤其是针对非法移民的立场与行动计划。文章列出了特朗普可能实施的政策，包括打击无证移民、任命强硬派担任国土安全部部长以及推动一系列经济与税收政策。同时，文中提到对跨性别青年的保护政策将被撤销，显示出这一政策对多元性别群体潜在的影响。内容包括对特朗普演讲的描述和相应的解读，以及未来可能面对的社会反响和法律挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -120,12 +120,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_特朗普「上任十件事」：废除出生公民权！全力驱逐非法移民......涉及_.md                             |
 | Size            | 6295 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mbachina.com/html/xw/202411/602562.html](https://www.mbachina.com/html/xw/202411/602562.html)                       |
+| Author          | 梁萍                               |
+| Region          | 美国                               |
+| Date            | 2024-11-14                                 |
+| Tags            | 特朗普, 移民政策, 出生公民权, 边境安全, 非法移民, 跨性别权益, 医疗保健, 经济政策, 税收改革, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

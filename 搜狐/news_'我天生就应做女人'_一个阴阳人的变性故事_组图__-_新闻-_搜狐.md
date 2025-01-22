@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_'我天生就应做女人'_一个阴阳人的变性故事_组图__-_新闻-_搜狐.md                             |
 | Size            | 5750 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/20050307/n224567809.shtml](http://news.sohu.com/20050307/n224567809.shtml)                       |
 | Author          | 南方网                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-03-07                                 |

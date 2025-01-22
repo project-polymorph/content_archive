@@ -104,7 +104,7 @@ CopyRight 2006-2017 All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了性别重置手术的费用，包括在泰国、韩国和中国国内的手术价格和相关医院的推荐。文章首先提供了泰国和韩国的手术费用范围，指出泰国的手术成本相对较低且手术效果较好，推荐了值得信赖的医院，如泰国然禧医院和咖蒙医院。文中明确列出了男变女和女变男手术的具体费用，并讨论了术前的基本要求，如年龄、激素治疗的持续时间和精神科医生的心理评估等。文章强调了不同性别手术的复杂性，医疗选择的重要性以及对医院资质的重视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -115,12 +115,12 @@ CopyRight 2006-2017 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_性别重置手术多少钱？泰国韩国国内变性手术价格等你解锁.md                             |
 | Size            | 4465 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.8682.cc/content/202210/26_206517.shtml](https://www.8682.cc/content/202210/26_206517.shtml)                       |
+| Author          | 可柔                               |
+| Region          | 中国                               |
+| Date            | 2022-10-26                                 |
+| Tags            | 性别重置手术, 变性手术, 泰国变性手术, 韩国变性手术, 国内变性手术, 手术费用, 医院推荐, 男变女, 女变男, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

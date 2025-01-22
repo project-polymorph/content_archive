@@ -56,8 +56,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_当男人婆遇上人妖-_当海南遇上潮州_-_豆瓣.md                             |
 | Size            | 7278 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/5202300/](https://m.douban.com/movie/review/5202300/)                       |
 | Author          | 未知                               |
 | Region          | 新加坡                               |
 | Date            | 2010-12-03                                 |

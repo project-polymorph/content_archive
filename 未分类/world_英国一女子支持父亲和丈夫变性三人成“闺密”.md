@@ -41,7 +41,7 @@ __(责编：覃博雅、杨牧)__
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一名英国女子佩里（Lleahan Perry）的生活故事，她的父亲史蒂芬（Stephen）和丈夫帕伦特（Parent）都希望变性为女性。这位父亲在年少时就有穿女装的倾向，并在接受变性手术后改名为海伦（Helen）。佩里对父亲的支持让她的家庭关系变得更加紧密，反映了多元性别家庭的生活状态和社会接受度。当她的未婚夫帕伦特也决定变性后，佩里同样给予了支持，两人选择在法国结婚，同时佩里怀孕。故事呈现了支持与爱的奇妙关系，以及在社会中对于变性者的态度。文中提及海伦又找到了一位新的伴侣，显示出变性人士在寻找爱情方面的挑战与希望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@ __(责编：覃博雅、杨牧)__
 |-----------------|----------------------------------------|
 | Filename        | world_英国一女子支持父亲和丈夫变性三人成“闺密”.md                             |
 | Size            | 2468 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2014/0725/c1002-25342846.html](http://world.people.com.cn/n/2014/0725/c1002-25342846.html)                       |
+| Author          | 未知                               |
+| Region          | 英国                               |
+| Date            | 2014-07-25                                 |
+| Tags            | 变性, 跨性别, 家庭支持, 情感关系, 性别认同, 社会接受度, 法律政策, 生活故事, 婚姻, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

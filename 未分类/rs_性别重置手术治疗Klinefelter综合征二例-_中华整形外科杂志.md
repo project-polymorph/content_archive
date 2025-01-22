@@ -22,7 +22,7 @@ DOI：10.3760/cma.j.issn.1009-4598.2018.08.018
 
 **图片**
 
-![患者四肢细长，无阴毛及腋毛，阴茎较短小，能正常勃起，双睾丸约1.5 cm×1.0 cm×0.5 cm，双侧乳房对称，平躺时可见乳腺组织发育，腺体内未见触及包块及硬结](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTMiIHZpZXdCb3g9IjAgMCAxNiAxMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzI2XzQ0MzE0KSI+CjxwYXRoIGQ9Ik0xNSAxM0gxQzAuNCAxMyAwIDEyLjYgMCAxMlYxQzAgMC40IDAuNCAwIDEgMEgxNUMxNS42IDAgMTYgMC40IDE2IDFWMTJDMTYgMTIuNiAxNS42IDEzIDE1IDEzWk0xIDFWMTJIMTVWMUgxWk0xIDAuNFV1IWIuRU5vTQZWIW5vdAIDIGIUQXIuDHXZFmxzMGwwLmJlcHJlczAWYi5IYXVhcmFxeHQ8bGicaCwgIjkwIFgiFT1tEhMZcmFydGxvbG5vdA==)
+[患者四肢细长，无阴毛及腋毛，阴茎较短小，能正常勃起，双睾丸约1.5 cm×1.0 cm×0.5 cm，双侧乳房对称，平躺时可见乳腺组织发育，腺体内未见触及包块及硬结]
 
 ![阴道再造术后4个月](https://rs.yiigle.com/1d79b0b2-3077-4b23-b478-436d8cb84338)
 
@@ -76,8 +76,8 @@ Klinefelter综合征的病因学是由于双亲之一的生殖细胞形成过程
 |-----------------|----------------------------------------|
 | Filename        | rs_性别重置手术治疗Klinefelter综合征二例-_中华整形外科杂志.md                             |
 | Size            | 6161 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rs.yiigle.com/cmaid/1061672](https://rs.yiigle.com/cmaid/1061672)                       |
 | Author          | 夏兆骥, 周鹏武, 潘柏林                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-08-25                                 |

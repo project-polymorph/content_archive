@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了河莉秀的近照及其经历。河莉秀曾是‘韩国最美变性人’，1999年出道，公开自己的变性身份，引起了巨大的社会反响。尽管她在演艺圈获得了成功，演出酬劳非常丰厚，但她也经历了家庭关系的复杂，她与父亲因性向问题产生裂痕，五年后才让父亲了解到其真实身份。近日她的49岁近照引起媒体关注，照片显示她的外貌经过了变化，外表已大变样，甚至被网友称为‘网红脸’。这篇文章不仅讲述了她的职业生涯，也揭示了她的个人生活与家庭关系，一定程度上反映了变性人面临的社会压力与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“最美变性人”河莉秀49岁近照曝光网：面目全非.md                             |
 | Size            | 2630 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.zaobao.com.sg/entertainment/story20241002-4905086](https://www.zaobao.com.sg/entertainment/story20241002-4905086)                       |
+| Author          | 未知                               |
+| Region          | 韩国                               |
+| Date            | 2024-10-02                                 |
+| Tags            | 明星, 变性人, 医美, 韩国变性人, 性别认同, 媒体报道, 家庭关系, 社会压力, 演艺圈, 变性经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

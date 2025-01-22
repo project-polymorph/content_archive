@@ -135,7 +135,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于一位17岁的男扮女装的网红"京城乔姐"的报道，详细讲述了他的网络成名历程及与法律的关系。报道提到这位网红因其独特的形象和行为，迅速在短视频平台上走红，并因频繁进出监狱而引发公众关注。他的行为不仅在网络上引发争议，也对法律的边界提出了挑战。文章进一步讨论了在当今网络环境中，这类网红的现象以及如何扰乱社会风气，并反思了公众的观看习惯和社会道德。整体上，文章呈现了一个复杂的社会问题，关于性别认同、法律、网络文化，以及社会对于低俗现象的耐受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -146,12 +146,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_京城17岁“伪娘”女澡堂一脱成名，坐牢三次，聊天记录看吐全网.md                             |
 | Size            | 7492 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.yeeyi.com/news/details/1901622/](https://www.yeeyi.com/news/details/1901622/)                       |
+| Author          | 潮流娱乐坊                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-01                                 |
+| Tags            | 多元性别, 网红文化, 法律问题, 社交媒体, 社会现象, 性别认同, 网络暴力, 女装文化, 法律边界, 社会评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

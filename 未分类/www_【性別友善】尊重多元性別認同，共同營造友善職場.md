@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了在职场中尊重多元性别认同的重要性，强调了创建性别友善环境的必要性。文件来自于台北市荣民服务处，提供了机构的联系方式和营业时间，旨在为广大职场人士提供支持与资源。内容中指出，尊重不同的性别认同是促进职场友好的重要一环，呼吁大家共同为建立包容性环境而努力。同时，文件中包含了一些额外的联系方式及服务信息，以便需要帮助的人群进行咨询。这种资料对于提高公众的性别意识以及理解多元性别认同的必要性有积极的促进作用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【性別友善】尊重多元性別認同，共同營造友善職場.md                             |
 | Size            | 1280 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.vac.gov.tw/vac_service/taipei/cp-3255-161116-102.html](https://www.vac.gov.tw/vac_service/taipei/cp-3255-161116-102.html)                       |
+| Author          | 台北市荣民服务处                               |
+| Region          | 台湾                               |
+| Date            | 2024-03-27                                 |
+| Tags            | 多元性别, 性别认同, 友善职场, 性别友善政策, 职场支持, 社会包容, 台湾政策, 公共服务, 平等权利, 职场环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

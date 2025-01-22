@@ -112,8 +112,8 @@
 |-----------------|----------------------------------------|
 | Filename        | finance_全国道德模范刘霆将做变性手术：希望社会能包容我_图__-_财经.md                             |
 | Size            | 8105 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://finance.cnr.cn/gundong/201408/t20140818_516237476.shtml](http://finance.cnr.cn/gundong/201408/t20140818_516237476.shtml)                       |
 | Author          | 京华时报记者张淑玲                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-08-18                                 |

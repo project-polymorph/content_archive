@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了22岁的跨性别女性科勒（Rikkie Valerie Kolle）在荷兰小姐选美中获胜，成为该比赛历史上首位跨性别冠军。科勒将在之后的环球小姐比赛中代表荷兰参赛。她在社交平台上表示，她希望通过自己的经历鼓励其他年轻的酷儿人群，并对荷兰的跨性别医疗服务等待问题进行宣传。尽管获得冠军，科勒在社交媒体上也遭受到了一些负面评论和威胁，她对此表示不屈，并认为这会激励她为跨性别群体发声。文章还提到了其他跨性别参与者的成功，表明了选美界对多元性别的逐步接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_荷兰小姐选出首个跨性别冠军，将角逐环球小姐-_周末画报.md                             |
 | Size            | 6134 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.modernweekly.com/hots/39959](http://www.modernweekly.com/hots/39959)                       |
+| Author          | 乔宏明                               |
+| Region          | 未知                               |
+| Date            | 2023-07-13                                 |
+| Tags            | 跨性别, 选美, 社会环境, 平权, 荷兰小姐, 环球小姐, 性别认同, 医疗资源, 社区支持, 个人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于酷儿文学的介绍，探讨了酷儿一词的来源和文化意义。酷儿（Queer）一词原本是对同性恋者的贬义词，但随着时间的推移，LGBTQ+群体选择了反转这个词，将其内化为一种自我认同，表达自身独特性。文章中详细介绍了顺性别（Cisgender）与异性恋（Heterosexual）这两个概念，强调酷儿群体包括各种非顺性别和非异性恋的群体，比如同性恋、双性恋、跨性别者等。该文还引述了玛吉·尼尔森在《阿尔戈》中的观点，强调了酷儿自我声称的双重性。除了学术分析，文本中也包含了活动的链接，鼓励读者参与组织的读书会，以进一步探索酷儿文学。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_大将文化-_【读书会】酷儿文学——如果只是玫瑰少年“酷儿，一种既_.md                             |
 | Size            | 2363 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=1013443360274681&id=100048270795277&set=a.837601981192154&locale=cy_GB](https://www.facebook.com/photo.php?fbid=1013443360274681&id=100048270795277&set=a.837601981192154&locale=cy_GB)                       |
+| Author          | 大将文化                               |
+| Region          | 未知                               |
+| Date            | 2024-02-19                                 |
+| Tags            | 酷儿文学, 性别研究, LGBTQ+, 自我认同, 跨性别, 双性恋, 同性恋, 社会学, 文化阐释, 玛吉·尼尔森                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

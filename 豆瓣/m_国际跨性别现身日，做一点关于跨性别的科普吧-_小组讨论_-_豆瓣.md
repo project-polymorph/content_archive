@@ -83,8 +83,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_国际跨性别现身日，做一点关于跨性别的科普吧-_小组讨论_-_豆瓣.md                             |
 | Size            | 11263 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/169706428/](https://m.douban.com/group/topic/169706428/)                       |
 | Author          | philokimia                               |
 | Region          | 未知                               |
 | Date            | 2020-03-31                                 |

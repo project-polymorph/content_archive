@@ -67,7 +67,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了上海黄浦区首座无性别公厕的投入使用情况，分析了该公厕改造的原因、使用情况以及无性别公厕在实际运营中的经验和挑战。公厕位于繁忙的黄浦区，是为了缓解如厕高峰时的排队问题而设立的。文章强调，该公厕在改造后的8个月内，已经吸引了近50万人次的使用，日均如厕量达到2000人次，显著改善了早高峰的排队状况。
+
+此外，文章还提到改造过程中的设计考虑，例如厕位的隐私性、通风等问题，以及使用者对于无性别厕所的适应程度问题。在使用的初期，部分男性使用者在如厕后未能适应新环境而出现的尴尬情况也被提及，同时记者观察到，公厕的管理和服务也在不断改进中。文章最后说明，目前没有大规模推广无性别公厕的计划，未来是否会在更多地区设立此类设施尚不明确。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,12 +80,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_黄埔首座无性别公厕现身_-_央广网.md                             |
 | Size            | 6010 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.cnr.cn/shanghai/shzx/ms/20171122/t20171122_524036063.shtml](http://www.cnr.cn/shanghai/shzx/ms/20171122/t20171122_524036063.shtml)                       |
+| Author          | 解放网                               |
+| Region          | 黄浦区, 上海, 中国                               |
+| Date            | 2017-11-22                                 |
+| Tags            | 无性别公厕, 性别中立, 公共卫生, 如厕体验, 社会政策, 性别平等, 设施改造, 人流量分析, 城市发展, 公共服务                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

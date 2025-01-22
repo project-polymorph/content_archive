@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章汇聚了由韩承羽制作的男变女装系列视频，展示了通过化妆和服装转变所带来的视觉差异与艺术表现。文章中列出了四集视频的细节，包括每集的标题、观看链接、播放时长和观看次数。在这些短视频中，韩承羽以幽默风趣的方式呈现了变装的过程，引发观众的共鸣和热烈讨论。每一集都展示了他在化妆与造型上所做的变化，以及观众对于这些变化的反应和评价。文章不仅记录了这些创意视频的具体信息，还反映了当代社会对于性别表达的多样性和包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_这次你们觉得像谁？__变装_妆前妆后_反差_爆改_艺术在抖音.md                             |
 | Size            | 2514 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/video/7391036057568988450](https://www.douyin.com/video/7391036057568988450)                       |
+| Author          | 韩承羽                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-07-13                                 |
+| Tags            | 变装, 妆前妆后, 反差, 爆改, 艺术在抖音, 性别表达, 短视频, 社交媒体, 时尚, 创意内容                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

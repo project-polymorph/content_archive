@@ -71,8 +71,8 @@ TAG：在此 | 模糊 | 性别
 |-----------------|----------------------------------------|
 | Filename        | fzdm_秀吉在此！那些性别很模糊的角色_-_风之动漫.md                             |
 | Size            | 3187 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://fzdm.net/dmNews/Html/2016-11/30115.shtml](https://fzdm.net/dmNews/Html/2016-11/30115.shtml)                       |
 | Author          | 罗德里赫                               |
 | Region          | 未知                               |
 | Date            | 2016-11-26                                 |

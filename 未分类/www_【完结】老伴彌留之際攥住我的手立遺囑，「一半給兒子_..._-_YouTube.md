@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一个关于在生命最后时刻情感交织的故事，通过描述一位老伴在临终前的遗嘱情况，展现了深厚的人际关系与情感联系。视频中老伴在“攥住我的手立遗嘱”的瞬间，明显流露出对生活和爱的珍视。他决定将房产与财富在其儿子与林姨之间分配，与其儿子的一番对话更显得动情和真实，体现了家庭成员之间的理解与支持。这一简单而感人的宣言不仅仅是财产的分配，还蕴含着情感的寄托与对彼此的信任。视频的背景搭配吸引人的画面和生动的叙述，吸引了不少观众的关注与讨论。观看数已达到9804次，显示出公众对这一主题的关注度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【完结】老伴彌留之際攥住我的手立遺囑，「一半給兒子_..._-_YouTube.md                             |
 | Size            | 1419 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=x8VCSocdVMs](https://www.youtube.com/watch?v=x8VCSocdVMs)                       |
+| Author          | 失眠海岛                               |
+| Region          | 未知                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 婚姻, 感情, 家庭, 遗嘱, 人生故事, 临终关怀, 情感交流, 社会关系, 真实案例, 视频纪录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

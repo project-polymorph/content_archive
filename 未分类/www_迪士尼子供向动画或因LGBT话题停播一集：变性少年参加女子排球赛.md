@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了迪士尼子供向动画节目《月光女孩与恶魔恐龙》中一集因涉及LGBTQ主题而未播出的事件。该集名为《守门人》，讲述了主角月光女孩的跨性别同学布鲁克林在女子排球比赛中的经历，在比赛中遭遇到来自教练的歧视。剧中，布鲁克林讲述了自己曾经在男队踢足球时的痛苦，同时她的教练为她发声，表示她作为女孩有权参赛。剧情中，部分细节如插入彩虹主题的护膝和贴纸，以及对跨性别者身份的明确表态，都传达了该集对性别认同的关注。但因政治敏感的主题，该集未在Disney Channel播出，制作人员对此表示失望。迪士尼方面则表示这一决定与角色的身份无关，而是针对内容本身的考量，并强调尊重家长的角色。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_迪士尼子供向动画或因LGBT话题停播一集：变性少年参加女子排球赛.md                             |
 | Size            | 2615 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gamersky.com/news/202411/1846191.shtml](https://www.gamersky.com/news/202411/1846191.shtml)                       |
+| Author          | 游民星空                               |
+| Region          | 未知                               |
+| Date            | 2024-11-16                                 |
+| Tags            | 迪士尼, 动画, LGBTQ, 跨性别, 女子排球, 性别认同, 政治敏感, 儿童节目, 社会现象, 媒体评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

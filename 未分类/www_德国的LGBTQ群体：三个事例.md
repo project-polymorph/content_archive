@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了德国LGBTQ群体中的三个个案，展现了他们在面对性别与性取向挑战时的勇气与坚持。作者Christina Iglhaut通过讲述Patricia Sophie Schüttler、Konrad Hirsch 和 Felicia Mutterer三位的故事，反映了多元性别与性向人群在社会中的生存现状与斗争。Patricia通过自身的变性经历希望鼓励更多的人接受自己的真实身份，并致力于为青少年提供榜样。Konrad则成为了同性恋难民的导师，帮助他们适应新的生活环境。Felicia则通过创办女性同性恋相关的杂志与播客，提升该群体在公众视野中的曝光度，表达她们的声音与需求。这些故事不仅展现了个人的心路历程，也突显了在德国LGBTQ群体所面临的社会挑战与变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_德国的LGBTQ群体：三个事例.md                             |
 | Size            | 4502 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.deutschland.de/zh-hans/topic/shenghuo/deguodelgbtqquntisangeshili](https://www.deutschland.de/zh-hans/topic/shenghuo/deguodelgbtqquntisangeshili)                       |
+| Author          | Christina Iglhaut                               |
+| Region          | 德国                               |
+| Date            | 2019-05-27                                 |
+| Tags            | 多元性别, LGBTQ, 性别平等, 变性经历, 同性恋难民, 女性同性恋, 社会支持, 心理治疗, 性别认同, 媒体与表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

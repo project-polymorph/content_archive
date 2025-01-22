@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了变性手术的四个不为人知的利弊，侧重于成年人在遭受性别焦虑症时选择在澳大利亚进行性别重分配手术的过程。文中提到，这种手术被认为是获得社会认可的性别认同的一种主要方式。具体而言，文章详细列出变性手术的四个优点，如增强性生活质量、提升心理幸福感、降低抑郁和焦虑等，同时也提到了一些缺点，如手术后的生育能力丧失、潜在的血肿风险和需要长期的恢复及饮食调整等。此外，文中强调了选择专业、安全的医疗机构进行手术的重要性，并推荐了卡莫尔整形医院，它在性别重分配手术领域具备丰富的经验和专业的医师团队。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性手术的4_个不为人知的利弊.md                             |
 | Size            | 3279 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/blog/651/4-untold-pros-and-cons-of-sex-reassignment-surgery](https://www.kamolhospital.com/zh/blog/651/4-untold-pros-and-cons-of-sex-reassignment-surgery)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别认同, 心理健康, 医疗资源, 生育能力, 抑郁, 性别焦虑症, 生理过渡, 卡莫尔整形医院, 性别重分配手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

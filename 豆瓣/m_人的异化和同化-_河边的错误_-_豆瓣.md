@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人的异化和同化-_河边的错误_-_豆瓣.md                             |
 | Size            | 4633 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/16168133/](https://m.douban.com/movie/review/16168133/)                       |
 | Author          | 中子星爆破指南                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-10-21                                 |

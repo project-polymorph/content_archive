@@ -101,7 +101,7 @@ Djordjevic医生说，20年前自己的病人平均年龄是45岁，现在已经
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了欧美地区变性手术后悔率上升的问题，报道来源于观察者网，原文作者为王骁。文章指出越来越多的人在接受变性手术后感到后悔，进而选择再次手术以恢复原状。报道中提到了一位著名生殖外科医生Miroslav Djordjevic的观点：许多患者在经历过变性手术后，不久便寻求逆转手术，然而这个过程麻烦且费用高昂，往往需要一年以上的时间和大量金钱。造成这种现象的原因主要有两个：一是对此领域的研究不够充分，二是在手术前缺少心理咨询与评估。Djordjevic医生建议进行变性手术的人应该经过至少一年的心理咨询，然而许多医院针对变性手术的要求仅限于付款，导致了许多人未经充分准备便匆忙选择手术。本文还提及了一些相关的心理学研究被否决的案例，反映了变性手术相关议题在社会中仍存在争议与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -112,12 +112,12 @@ Djordjevic医生说，20年前自己的病人平均年龄是45岁，现在已经
 |-----------------|----------------------------------------|
 | Filename        | www_尴尬，越来越多人变性后悔了-观察者网.md                             |
 | Size            | 6174 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/europe/2017_10_05_429857.shtml](https://www.guancha.cn/europe/2017_10_05_429857.shtml)                       |
+| Author          | 王骁/观察者网                               |
+| Region          | 欧美                               |
+| Date            | 2017-10-05                                 |
+| Tags            | 变性手术, 心理辅导, 生殖医学, 社会观察, 医疗伦理, 人物访谈, 年轻人的选择, 医学统计, 性别研究, 法律与政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

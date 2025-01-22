@@ -120,8 +120,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_评凯特·伯恩斯坦（Kate_Bornstein）的《性别是条毛毛虫_..._-_豆瓣.md                             |
 | Size            | 24775 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/7198686/](https://m.douban.com/book/review/7198686/)                       |
 | Author          | 郑圣勋                               |
 | Region          | 未知                               |
 | Date            | 2014-11-00                                 |

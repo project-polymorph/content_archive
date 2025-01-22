@@ -55,7 +55,7 @@ ZHANG Zirui, LV Xiaokang. Measurement Invariance of the Chinese Physician-Patien
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细探讨了中国医患信任量表在跨性别群体中的测量等值性问题，作者张子睿与吕小康通过大量数据验证了量表在不同性别群体之间的信任关系的可比性。研究中分别选取3787名医务工作者和4502名患者进行分析，结果表明中国医患信任量表的各个模型均能够良好拟合。这项研究不仅为医务人员与患者之间的信任关系提供了理论支持，同时也为性别研究领域提供了新的角度，强调了医患关系中性别这一维度的重要性。文中提到了不同的信任量表模型和测量等值性的概念，介绍了研究的背景以及相关的统计方法。此外，文中还提到了相关法律政策和社会通念对医患信任的影响，具有重要的实践与理论意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@ ZHANG Zirui, LV Xiaokang. Measurement Invariance of the Chinese Physician-Patien
 |-----------------|----------------------------------------|
 | Filename        | www_中国医患信任量表的跨性别测量等值性.md                             |
 | Size            | 4065 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xljsyyy.com/CN/10.16842/j.cnki.issn2095-5588.2020.07.002](http://www.xljsyyy.com/CN/10.16842/j.cnki.issn2095-5588.2020.07.002)                       |
+| Author          | 张子睿, 吕小康                               |
+| Region          | 中国                               |
+| Date            | 2020-07-02                                 |
+| Tags            | 医患信任, 跨性别, 医学研究, 心理学, 信任量表, 性别测量, 社交心理学, 信任关系, 量表验证, 统计分析                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

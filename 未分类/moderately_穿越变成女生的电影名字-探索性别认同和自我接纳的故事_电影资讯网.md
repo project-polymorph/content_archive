@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | moderately_穿越变成女生的电影名字-探索性别认同和自我接纳的故事_电影资讯网.md                             |
 | Size            | 2595 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://moderately.brentexmv.com/](https://moderately.brentexmv.com/)                       |
 | Author          | 电影资讯网                               |
 | Region          | 未知                               |
 | Date            | 2024-11-03                                 |

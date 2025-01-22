@@ -82,7 +82,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了酷儿理论在电影《夜间飞行》中的应用，聚焦于两位男主角韩志雄与申永俊的身份认同过程。酷儿理论为二十世纪九十年代兴起，旨在颠覆传统的性别和性取向观念，该理论强调身份认同的复杂性和多样性。本文具体分析了在主流社会的规训下，个体如何面对自身非异性恋身份的认同与否定，以及在社会压力下人们的自我保护机制。同时，影片通过描绘学生之间的情感冲突与社会边缘化，深刻反映了韩国社会对性少数群体的歧视和暴力现象。文章引用了多个学者的理论，将电影内容与酷儿理论结合，对电影中的角色发展进行了深入解读，展示了个体在社会环境中的挣扎与成长。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,12 +93,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“酷儿”理论视域下电影《夜间飞行》的身份认同.md                             |
 | Size            | 19262 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hanspub.org/journal/paperinformation?paperid=57879](https://www.hanspub.org/journal/paperinformation?paperid=57879)                       |
+| Author          | 曾思繁                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-11-00                                 |
+| Tags            | 酷儿理论, 电影分析, 夜间飞行, 身份认同, 男同性恋, 韩国电影, 社会问题, 性别研究, 文化批评, 酷儿电影                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

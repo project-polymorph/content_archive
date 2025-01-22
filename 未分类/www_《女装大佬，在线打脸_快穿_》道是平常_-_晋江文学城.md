@@ -77,7 +77,7 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说《女装大佬，在线打脸》的详细介绍和文案。本作品讲述了男主沈碌尘因系统的设定，不得不男扮女装，成为男频后宫文的女主之一。沈碌尘的任务是阻止男主对女主们的追求，确保她们获得真正的幸福。故事以幽默和轻松的语调描绘了沈碌尘在救美过程中的各种搞笑与奇遇，展现了多元性别和角色扮演的概念。作者道是平常通过这一作品细致地探讨了生存幸福与性别角色的反转。该文类型为原创，完结，字数超过35万，引人入胜的剧情设定让许多读者为之喜爱。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,12 +88,12 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_《女装大佬，在线打脸_快穿_》道是平常_-_晋江文学城.md                             |
 | Size            | 4586 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jjwxc.net/onebook.php?novelid=4248523](http://www.jjwxc.net/onebook.php?novelid=4248523)                       |
+| Author          | 道是平常                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 男扮女装, 快穿, 打脸, 系统, 爽文, 轻松, 反转, 多元性别, 校园, 小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

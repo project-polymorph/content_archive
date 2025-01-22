@@ -69,7 +69,7 @@ Copyright 2011-2013 嗨客手机站 www.hackhome.com All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了边缘人变妆装社区app合集的内容与使用情况，该软件专为边缘人群体提供变装与化妆的社交平台，旨在让用户能够找到同好，交流经验。文件中详细介绍了不同的变装社交应用，包括变装乐园、旗米拉中文论坛、海角社区等，这些平台都致力于为用户提供互动的空间，分享变装技巧和摄影经验。每个应用均附有内容简介和链接，方便用户下载与使用。同时，文中提到这些社交平台不仅提供变装与交友的服务，也为广大的女装大佬与变装爱好者提供了一个温暖、包容的社交环境。此汇总文件更新于2024年1月9日，适合各类用户，尤其是对变装文化感兴趣的人群。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,12 +80,12 @@ Copyright 2011-2013 嗨客手机站 www.hackhome.com All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_边缘人变妆装社区app合集_-_嗨客手机站.md                             |
 | Size            | 7021 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hackhome.com/zt/byrbzzsqapphj/](https://www.hackhome.com/zt/byrbzzsqapphj/)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-01-09                                 |
+| Tags            | 边缘人, 变妆, 变装, 社交应用, 社区交流, 化妆技巧, 女装大佬, 摄影交流, 交友平台, 变装文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

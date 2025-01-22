@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_cn妈我永远不会同情没剁吊的异装癖_-_豆瓣.md                             |
 | Size            | 822 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/132290764/](https://m.douban.com/doulist/132290764/)                       |
 | Author          | 已不做猎头噜 (上海)                               |
 | Region          | 未知                               |
 | Date            | 2020-10-13                                 |

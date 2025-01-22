@@ -128,8 +128,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bangumi_游戏标签_伪娘_2013_年_-_Bangumi_番组计划.md                             |
 | Size            | 5039 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bangumi.tv/game/tag/%E4%BC%AA%E5%A8%98/airtime/2013](https://bangumi.tv/game/tag/%E4%BC%AA%E5%A8%98/airtime/2013)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2013-01-01                                 |

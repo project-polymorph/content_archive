@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位博主在日本第一家伪娘咖啡厅的探访经历，视频由‘孤独的美食基’上传。内容主要围绕咖啡厅的特色和氛围，探讨伪娘文化及其在现代日本社会中的接受度。视频通过展示可爱的男孩们作为伪娘招待顾客，展示了日本对多元性别文化的包容度和变化。通过对咖啡厅的介绍，视频还暗示了一些性别表现和角色扮演的社会现象，以及这一文化现象在年轻人中的流行趋势。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_潜入日本第一家伪娘咖啡厅，有可爱的男孩子吗？_-_YouTube.md                             |
 | Size            | 1421 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=Ug1lvC-AbDg](https://www.youtube.com/watch?v=Ug1lvC-AbDg)                       |
+| Author          | 孤独的美食基                               |
+| Region          | 日本                               |
+| Date            | 2022-06-08                                 |
+| Tags            | 伪娘咖啡厅, 多元性别, 文化体验, 探访视频, 日本文化, 性别认同, 生活方式, 性别表现, 青年文化, 社交场所                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_即便你有异装癖，我也相信你很优秀-_怪奇秀_-_豆瓣.md                             |
 | Size            | 4352 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/9194129/](https://m.douban.com/movie/review/9194129/)                       |
 | Author          | 壹早电影                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

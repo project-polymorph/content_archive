@@ -205,8 +205,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_什么是真正的恐怖片？这部电影告诉你_-_QQ_News.md                             |
 | Size            | 11053 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20210118A050N400](https://news.qq.com/rain/a/20210118A050N400)                       |
 | Author          | 我是十四哦                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-01-18                                 |

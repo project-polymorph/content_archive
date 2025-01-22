@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | taotailangthai_芭堤雅阿尔克萨人妖秀ALCAZAR_Cabaret__淘泰朗泰国旅游与包车服务.md                             |
 | Size            | 3170 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://taotailangthai.com/product/alcazar-cabaret-ticket/?lang=zh-hans](https://taotailangthai.com/product/alcazar-cabaret-ticket/?lang=zh-hans)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

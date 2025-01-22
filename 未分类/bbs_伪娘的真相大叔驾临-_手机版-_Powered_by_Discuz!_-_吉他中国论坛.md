@@ -106,8 +106,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bbs_伪娘的真相大叔驾临-_手机版-_Powered_by_Discuz!_-_吉他中国论坛.md                             |
 | Size            | 2619 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.guitarschina.com/thread-881629-1-1.html](https://bbs.guitarschina.com/thread-881629-1-1.html)                       |
 | Author          | chawind                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-09-07                                 |

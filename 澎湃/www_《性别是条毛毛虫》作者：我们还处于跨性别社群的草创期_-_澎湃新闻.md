@@ -117,8 +117,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《性别是条毛毛虫》作者：我们还处于跨性别社群的草创期_-_澎湃新闻.md                             |
 | Size            | 12691 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.thepaper.cn/newsDetail_forward_1287154](https://www.thepaper.cn/newsDetail_forward_1287154)                       |
 | Author          | 澎湃新闻                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -66,8 +66,8 @@ Dr Eli Coleman，美国明尼苏达州明尼阿波利斯明尼苏达大学医学
 |-----------------|----------------------------------------|
 | Filename        | project-trans_跨性别和多元性别人群健康照护指南（第8版）__SOC-8_-_Project_Trans.md                             |
 | Size            | 4269 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://project-trans.org/SOC-8/soc8cn/](https://project-trans.org/SOC-8/soc8cn/)                       |
 | Author          | E. Coleman 等                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

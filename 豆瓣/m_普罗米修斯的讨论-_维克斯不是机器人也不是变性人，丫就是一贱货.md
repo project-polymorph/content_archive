@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_普罗米修斯的讨论-_维克斯不是机器人也不是变性人，丫就是一贱货.md                             |
 | Size            | 5106 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/discussion/49029240](https://m.douban.com/movie/discussion/49029240)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

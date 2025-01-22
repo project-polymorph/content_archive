@@ -81,8 +81,8 @@ CD变装义乳的概述图
 |-----------------|----------------------------------------|
 | Filename        | baike_CD变装义乳_百度百科.md                             |
 | Size            | 3257 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/CD%E5%8F%98%E8%A3%85%E4%B9%89%E4%B9%B3/4050688](https://baike.baidu.com/item/CD%E5%8F%98%E8%A3%85%E4%B9%89%E4%B9%B3/4050688)                       |
 | Author          | Amyxiao9785                               |
 | Region          | 未知                               |
 | Date            | 2023-06-02                                 |

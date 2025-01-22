@@ -101,8 +101,8 @@
 |-----------------|----------------------------------------|
 | Filename        | liuxue_美国留学对同性群体的支持与挑战.md                             |
 | Size            | 7663 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://liuxue.hanlin.com/p/79098.html](https://liuxue.hanlin.com/p/79098.html)                       |
 | Author          | 梅老师                               |
 | Region          | 美国                               |
 | Date            | 2024-10-31                                 |

@@ -89,8 +89,8 @@
 |-----------------|----------------------------------------|
 | Filename        | gs_阿卡萨人妖秀：泰国娱乐业的新篇章-携程攻略.md                             |
 | Size            | 1540 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://gs.ctrip.com/html5/you/article/detail/25273463.html](https://gs.ctrip.com/html5/you/article/detail/25273463.html)                       |
 | Author          | 携程社区                               |
 | Region          | 泰国                               |
 | Date            | 2023-11-02                                 |

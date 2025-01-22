@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起发生在美国洛杉矶韩国城的事件，涉及一名自我认同为女性的跨性别者进入女性浴室，被在场的女性强烈抗议，导致双方出现暴力冲突。文章详细描述了事件的经过，包括抗议者与反对者在该水疗中心前的对峙、争吵和斗殴，甚至造成伤员，并附带相关的法律背景和社会反响。报道指出，韩国城的水疗中心根据加州法律允许跨性别女性进入女性浴室，而这一决定引发了保守团体的强烈反对，还提及早在2016年北卡罗来纳州的类似立法背景。最后，文中提到LGBTQ群体，对他们的权益保护与社会环境的对立态势进行了深刻剖析，反映出多元性别群体在社会中的生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我就认为我是女的：美国一男子光明正大进入女澡堂。_-_Bilibili.md                             |
 | Size            | 2643 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/read/cv12034524/](https://www.bilibili.com/read/cv12034524/)                       |
+| Author          | 首尔嫁到长春                               |
+| Region          | 美国                               |
+| Date            | 2021-07-05                                 |
+| Tags            | 跨性别, 女性浴室, 法律, 社会抗议, 人权, LGBTQ, 北卡罗来纳州, 洛杉矶, 社会环境, 性少数群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

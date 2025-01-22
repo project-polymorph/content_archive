@@ -91,8 +91,8 @@ E-mail：ahndskxb@ahau.edu.cn
 |-----------------|----------------------------------------|
 | Filename        | ahndskxb_浅谈《搜神记》中人妖相恋神话的文化价值.md                             |
 | Size            | 5113 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://ahndskxb.ahau.edu.cn/ahnydxxbsk/article/html/20070326](http://ahndskxb.ahau.edu.cn/ahnydxxbsk/article/html/20070326)                       |
 | Author          | 李和平                               |
 | Region          | 中国                               |
 | Date            | 2025-01-14                                 |

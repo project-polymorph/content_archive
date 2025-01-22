@@ -105,7 +105,7 @@ Z世代更熟悉中性代词 图：皮尤研究中心
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了韦氏词典在2019年宣布“they”作为年度词汇的背景，以及这一变化对非二元性别者的影响。在文章中，作者提到英国流行歌星山姆·史密斯公开确认其性别认同，并从“He/Him”改为“They/Them”。随着越来越多人开始接受和使用性别中立代词，尤其是在年轻人中，这种改变的社会表现逐渐显现。此外，该文章还涉及到一些州和地区在身份文件中新增“X”选项以反映非二元性别者的身份，并引用了相关研究和公众对这一话题的关注度。整体而言，该文件提供了对非二元性别者身份认同的支持与理解，以及语言如何在社会变革中扮演重要角色的见解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,12 +116,12 @@ Z世代更熟悉中性代词 图：皮尤研究中心
 |-----------------|----------------------------------------|
 | Filename        | www_“请用They称呼我”-观察者网.md                             |
 | Size            | 6917 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/internation/2019_12_12_528198.shtml](https://www.guancha.cn/internation/2019_12_12_528198.shtml)                       |
+| Author          | 观察者网 龙玥                               |
+| Region          | 未知                               |
+| Date            | 2019-12-12                                 |
+| Tags            | 非二元性别, 性别认同, 性别中立, 山姆·史密斯, 韦氏词典, 性别酷儿, 法律政策, 社会接受度, 性别代名词, Z世代                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

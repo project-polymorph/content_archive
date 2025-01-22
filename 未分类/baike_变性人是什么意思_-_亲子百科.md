@@ -83,8 +83,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_变性人是什么意思_-_亲子百科.md                             |
 | Size            | 5195 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.pcbaby.com.cn/yycs/1603/2817028.html](https://baike.pcbaby.com.cn/yycs/1603/2817028.html)                       |
 | Author          | 佚名                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-03-18                                 |

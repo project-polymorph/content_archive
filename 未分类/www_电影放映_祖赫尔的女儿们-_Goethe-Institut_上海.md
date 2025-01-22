@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细介绍了即将在2024年6月21日（周五）晚18:45至21:00在德国驻上海总领事馆文化教育处放映的电影《祖赫尔的女儿们》。影片由劳伦西亚·根斯克和罗宾·洪堡导演，时长89分钟，讲述了从叙利亚移居至德国的祖赫尔及他的女儿们洛汉和萨马尔的故事。这两位主角从出生时的男性身份自我认同为女性，影片深入探讨了她们在欧式环境中实现身份转变的挑战与经历，包括性别认同与转变的社会困难。此次放映活动邀请了性别重置手术领域的专家赵烨德教授做为嘉宾，另外由胡嘉敏担任主持。该活动免费开放，无需预约，并附带联系方式和地址信息，以方便兴趣人士前往观看。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_电影放映_祖赫尔的女儿们-_Goethe-Institut_上海.md                             |
 | Size            | 1685 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.goethe.de/ins/sha/zh/ver.cfm?event_id=25757927](https://www.goethe.de/ins/sha/zh/ver.cfm?event_id=25757927)                       |
+| Author          | 德国驻上海总领事馆文化教育处                               |
+| Region          | 上海，中国                               |
+| Date            | 2024-06-21                                 |
+| Tags            | 电影放映, 多元性别, 性别认同, 身份转变, 难民故事, 阿拉伯文化, 女性主义, 社会挑战, 女性主角, 文化交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

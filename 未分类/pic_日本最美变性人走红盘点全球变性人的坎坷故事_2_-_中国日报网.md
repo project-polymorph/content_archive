@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | pic_日本最美变性人走红盘点全球变性人的坎坷故事_2_-_中国日报网.md                             |
 | Size            | 2265 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://pic.chinadaily.com.cn/2015-03/16/content_19823738_2.htm](http://pic.chinadaily.com.cn/2015-03/16/content_19823738_2.htm)                       |
 | Author          | 中国日报网                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-03-16                                 |

@@ -138,7 +138,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了莫作栋在视频中扮演人妖的情节，以及与其他角色如叉烧芬和萝卜欧之间的互动。视频内容包括了一系列幽默且戏剧化的对话，描绘了角色们在情感、职场与社会环境中发生的趣事和矛盾，反映了多元性别的生存现状及社会观念。此外，视频中涉及的情节和角色表现出对性别认同和多元文化的探索与讨论。这些内容通过讽刺与幽默的方式揭示了社会对于性别与身份认同的宽容度与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -149,12 +149,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【97】莫作栋扮人妖，帮叉烧芬教训萝卜欧呢个衰人！_-_Bilibili.md                             |
 | Size            | 7852 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1HsYJePEtU/?spm_id_from=333.788.recommend_more_video.17](https://www.bilibili.com/video/BV1HsYJePEtU/?spm_id_from=333.788.recommend_more_video.17)                       |
+| Author          | 无忧时刻                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-08-11                                 |
+| Tags            | 多元性别, 性别认同, 社会观察, 幽默, 扮演, 视频分析, 人物故事, 生活经历, 职场文化, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

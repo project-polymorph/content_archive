@@ -54,7 +54,7 @@ Like
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位名为gmq521的用户在Facebook上分享的日常生活体验，标题为《无聊的一天 ❤️》。文件中包含了一张用户生活状态的照片，以及相关视频的预览图。内容简单表达了生活中的无聊时刻，并配有可爱的心形表情。作者发布了这篇帖子并收集了12条评论和359次分享，显示出用户互动的情况。帖子反映了当代社会中多元性别人士在日常生活中的表达与互动，同时也是社交媒体上个人生活的一种分享方式。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@ Like
 |-----------------|----------------------------------------|
 | Filename        | www_人妖_女装男子_女装男孩_女装子_ladyboy_无聊的一天❤️_-_Facebook.md                             |
 | Size            | 1482 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/100068604407562/videos/%E4%BA%BA%E5%A6%96-%E5%A5%B3%E8%A3%85%E7%94%B7%E5%AD%90-%E5%A5%B3%E8%A3%85%E7%94%B7%E5%AD%A9-%E5%A5%B3%E8%A3%85%E5%AD%90-ladyboy-%E6%97%A0%E8%81%8A%E7%9A%84%E4%B8%80%E5%A4%A9%EF%B8%8F/685752622316485/](https://www.facebook.com/100068604407562/videos/%E4%BA%BA%E5%A6%96-%E5%A5%B3%E8%A3%85%E7%94%B7%E5%AD%90-%E5%A5%B3%E8%A3%85%E7%94%B7%E5%AD%A9-%E5%A5%B3%E8%A3%85%E5%AD%90-ladyboy-%E6%97%A0%E8%81%8A%E7%9A%84%E4%B8%80%E5%A4%A9%EF%B8%8F/685752622316485/)                       |
+| Author          | gmq521                               |
+| Region          | 未知                               |
+| Date            | 2022-03-25                                 |
+| Tags            | 人妖, 女装男子, 女装男孩, 女装子, ladyboy, 社交媒体, 生活分享, 日常生活, 心情记录, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

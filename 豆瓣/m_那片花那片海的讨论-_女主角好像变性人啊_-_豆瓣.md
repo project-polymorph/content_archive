@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_那片花那片海的讨论-_女主角好像变性人啊_-_豆瓣.md                             |
 | Size            | 667 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/discussion/616477786](https://m.douban.com/movie/discussion/616477786)                       |
 | Author          | liyuzuo                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-08-25                                 |

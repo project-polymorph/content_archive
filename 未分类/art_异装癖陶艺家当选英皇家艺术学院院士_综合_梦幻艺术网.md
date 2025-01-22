@@ -44,8 +44,8 @@ Copyright © 2009 - 2016 梦幻艺术网 版权所有 [吉ICP备09003575号](htt
 |-----------------|----------------------------------------|
 | Filename        | art_异装癖陶艺家当选英皇家艺术学院院士_综合_梦幻艺术网.md                             |
 | Size            | 528 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://art.web-32.com/Article_Comments.asp?id=1651824](http://art.web-32.com/Article_Comments.asp?id=1651824)                       |
 | Author          | 梦幻艺术网                               |
 | Region          | 未知                               |
 | Date            | 2025-01-21                                 |

@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了易性癖（又称异性认同癖或性别转换症），其被视为一种性别认同障碍，具有严重的性身份颠倒特征。文中提到易性癖患者往往渴望与其理想性别的一致性，甚至可能寻求变性手术或激素治疗。同时，文章还探讨了因这种性别认同障碍可能引发的心理健康问题，特别是严重抑郁及自杀倾向。为了缓解患者的心理压力和促进社会的和谐，某些情况下考虑手术治疗是有益的。作者李殊响在2011年出版的《内科疾病的心理治疗》中详细阐述了这一问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__治疗_（五）易性癖-_内科疾病的心理治疗_-_天山医学院.md                             |
 | Size            | 1343 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tsu.tw/xiyi/883959.html](https://www.tsu.tw/xiyi/883959.html)                       |
+| Author          | 李殊响                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-05-01                                 |
+| Tags            | 易性癖, 性别认同障碍, 心理治疗, 变性手术, 激素治疗, 医疗资源, 心理健康, 抑郁症, 性教育, 性别理论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -60,7 +60,7 @@ I Am What I Am - Beijing Queer Chorus (我 - 北京酷儿合唱团)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档介绍了2019年北京酷儿合唱团的十周年庆典活动，特别是其一场名为‘我 - 北京酷儿合唱团’的演出。该演出在中国国际期货大厦演播厅举行，时间为2019年1月5日。文中包含了演出的视频信息与宣传图片，并列举了演出的相关细节，包括观看次数和上传日期。此外，还提供了一些背景信息，说明这一活动是为了庆祝团体成立十周年，并且是新年特别演出。演出中包括了多首与LGBTQ群体相关的音乐作品，旨在通过音乐传递平等和爱的信息。文档中详细列出了一系列与此活动相关的标签，有助于标识和分类该文件的内容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@ I Am What I Am - Beijing Queer Chorus (我 - 北京酷儿合唱团)
 |-----------------|----------------------------------------|
 | Filename        | www_Beijing_Queer_Chorus__我-_北京酷儿合唱团_.md                             |
 | Size            | 1398 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=aHr5Ix_7yyg](https://www.youtube.com/watch?v=aHr5Ix_7yyg)                       |
+| Author          | 北京酷儿合唱团                               |
+| Region          | 中国                               |
+| Date            | 2019-01-05                                 |
+| Tags            | 北京酷儿合唱团, 多元性别, 合唱团, 十周年, 新年演出, 同志, lgbt, 酷儿, 社区活动, 音乐文化, 群体故事, 文化交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

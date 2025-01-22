@@ -62,8 +62,8 @@ Go曼谷通票已推出**官方****中文网站**（[_https://gocity.com.cn/bang
 |-----------------|----------------------------------------|
 | Filename        | gocity_10个来泰国的人，9个为了TA——金东尼人妖秀_-_Go_City_通票.md                             |
 | Size            | 3280 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://gocity.com.cn/blog/details/57477](https://gocity.com.cn/blog/details/57477)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2021-03-16                                 |

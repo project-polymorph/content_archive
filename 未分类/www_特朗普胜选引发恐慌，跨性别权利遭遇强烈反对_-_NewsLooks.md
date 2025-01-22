@@ -96,7 +96,7 @@ LGBTQ 权益运动以前也面临过类似的挑战。2004 年至 2008 年，反
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了特朗普当选总统对美国跨性别权利的影响，详细描述了选举后跨性别者面临的担忧和反对声音的强烈上升。文章中提到，特朗普的反跨性别运动引发了对教育、医疗保健和军事服务中跨性别者权利削弱的担忧。尽管风险加大，跨性别者和LGBTQ权利倡导者仍展现出韧性和团结，尤其是在一些历史性胜利方面，比如萨拉·麦克布莱德成为首位公开的跨性别国会议员。文章还引用了多方人群的反馈，包括公众舆论的分歧，病态的政策威胁，以及倡导者们在面对逆境时的积极反应和应对策略。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -107,12 +107,12 @@ LGBTQ 权益运动以前也面临过类似的挑战。2004 年至 2008 年，反
 |-----------------|----------------------------------------|
 | Filename        | www_特朗普胜选引发恐慌，跨性别权利遭遇强烈反对_-_NewsLooks.md                             |
 | Size            | 10576 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.newslooks.com/zh-CN/trans-rights-face-backlash-as-trumps-election-victory-fuels-fear/](https://www.newslooks.com/zh-CN/trans-rights-face-backlash-as-trumps-election-victory-fuels-fear/)                       |
+| Author          | 玛丽·西迪奇                               |
+| Region          | 美国                               |
+| Date            | 2024-11-15                                 |
+| Tags            | 跨性别权利, 特朗普, 美国大选, LGBTQ, 社会政策, 医疗资源, 教育权利, 体育参与, 生存现状, 政治动荡                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

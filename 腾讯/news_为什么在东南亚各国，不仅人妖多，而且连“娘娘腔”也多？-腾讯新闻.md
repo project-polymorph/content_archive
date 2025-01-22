@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_为什么在东南亚各国，不仅人妖多，而且连“娘娘腔”也多？-腾讯新闻.md                             |
 | Size            | 3077 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20231130A018WF00](https://news.qq.com/rain/a/20231130A018WF00)                       |
 | Author          | 刘小顺                               |
 | Region          | 东南亚                               |
 | Date            | 2023-11-30                                 |

@@ -105,7 +105,7 @@ FC，双封没有；WZ，三封的命中率从理论来说又低了一点；TG�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在网络游戏《梦幻西游》中，玩家选择使用女性角色的原因，尤其是男性玩家的体验。作者通过个人经历分析了不同的动机，包括对游戏角色属性的追求、经济因素、法律限制以及社交压力等。文章提到，在游戏中，男性装备较为丰富，导致女性角色成为一种性别角色的交易和社交工具。作者以幽默且直白的方式，讨论了性别认同和环境对选择角色的影响，同时指出社会对于多元性别的限制与期待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,12 +116,12 @@ FC，双封没有；WZ，三封的命中率从理论来说又低了一点；TG�
 |-----------------|----------------------------------------|
 | Filename        | xyq_麻辣话题：为何梦幻“人妖”泛滥！.md                             |
 | Size            | 3861 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://xyq.17173.com/content/2009-07-31/1249031849.shtml?_platform=PC](http://xyq.17173.com/content/2009-07-31/1249031849.shtml?_platform=PC)                       |
+| Author          | xxw911111                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-07-31                                 |
+| Tags            | 多元性别, 游戏文化, 性别认同, 网络游戏, 梦幻西游, 角色扮演, 社会性别, 法律限制, 幽默, 男性玩家                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

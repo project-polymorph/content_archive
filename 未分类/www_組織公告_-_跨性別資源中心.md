@@ -175,7 +175,7 @@ The founder of TGR, Joanne Leung has been featured in a great blog "The Heroines
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇公告由跨性别资源中心发布，主要针对香港政府关于修改身份证性别记项政策的新闻稿所做出的回应与声明。公告中表达了对新政策的不满，指出政策在要求方面对跨性别人士存在明显的不公平性，特别是在性别重置手术的要求上。声称现行政策过于依赖于生理条件而忽视跨性别者的个体性别认同，呼吁政府采取更包容的政策以尊重多元性别认同并改善社会环境。此外，该公告也包含了关于医院心理服务的书刊出版计划，呼吁跨性别人士和其家长分享心路历程，以收集故事促进理解。文件中的内容反映了跨性别人士在香港面临的政策挑战，并强调了支持和对话的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -186,12 +186,12 @@ The founder of TGR, Joanne Leung has been featured in a great blog "The Heroines
 |-----------------|----------------------------------------|
 | Filename        | www_組織公告_-_跨性別資源中心.md                             |
 | Size            | 10839 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tgr.org.hk/index.php/zh/database/announcement](https://www.tgr.org.hk/index.php/zh/database/announcement)                       |
+| Author          | 跨性别资源中心                               |
+| Region          | 香港                               |
+| Date            | 2024-04-03                                 |
+| Tags            | 跨性别政策, 性别认同, 香港政府, 社会公益, 心理健康, 法律不平等, 人权, 多元性别, 政策呼吁, 跨性别支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

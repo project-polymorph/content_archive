@@ -62,7 +62,7 @@ BOY说：“他可能不玩了，回帮去的原因是他知道，只有玉龙�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位玩家在《梦幻西游》游戏中参与帮派活动的经历，内容涵盖了玩家的抱负、帮派管理、角色成长以及在游戏中的人际关系。作者筑风御雨描述了自己对帮战的热情和对帮派成长的思考，描绘了与其他玩家之间复杂的情感与互动。文中提到的"西西"因婚姻问题而带来的心理冲突，以及作者对其选择的反思，反映了游戏社交中的人性和多元关系。同时，文章中也不乏对游戏策略和帮派建设的思考，展示了在虚拟世界中如何通过合作实现目标，因此涉及了对玩家身份与社区文化的深刻探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@ BOY说：“他可能不玩了，回帮去的原因是他知道，只有玉龙�
 |-----------------|----------------------------------------|
 | Filename        | xyq_永远的人妖_-_叶子猪梦幻西游.md                             |
 | Size            | 4628 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://xyq.yzz.cn/mood/200908/69615_33.shtml](http://xyq.yzz.cn/mood/200908/69615_33.shtml)                       |
+| Author          | 筑风御雨                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-08-20                                 |
+| Tags            | 游戏经历, 帮派活动, 虚拟社区, 人生故事, 多元性别, 心理冲突, 社会关系, 人物互动, 文化表达, 网络游戏                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

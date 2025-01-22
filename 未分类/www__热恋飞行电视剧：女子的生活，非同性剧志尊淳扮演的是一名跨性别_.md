@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一部名为《热恋飞行》的电视剧，电视剧的主要情节围绕一位跨性别者的生活展开。志尊淳在剧中扮演主角，表现出他作为一名跨性别者的独特经历：从男儿身到女儿心，他的性取向为对女孩子的爱情。剧集共分四集，以轻喜剧的方式呈现了这一跨性别者角色与他人之间的互动和关系，反映了对多元性别群体的关注和理解。该剧通过其人物背景和故事情节致力于打破对跨性别者的固有偏见，推动社会对跨性别问题的讨论和认知。整体而言，这部作品为观众提供了一个轻松而又包容的视角，来看待性别多样性及其复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__热恋飞行电视剧：女子的生活，非同性剧志尊淳扮演的是一名跨性别_.md                             |
 | Size            | 1653 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tiktok.com/@58114ni7ou/video/7188339059499060486](https://www.tiktok.com/@58114ni7ou/video/7188339059499060486)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-01-14                                 |
+| Tags            | 热恋飞行, 跨性别, 志尊淳, 多元性别, 性别多样性, 媒体报道, 电视剧, 生命故事, 情感剧, 轻喜剧                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

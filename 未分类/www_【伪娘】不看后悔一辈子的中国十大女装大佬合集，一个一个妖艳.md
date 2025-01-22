@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于中国十大女装大佬的合集，内容主要集中在当下网络上炙手可热的伪娘文化。文中列出了十位风格各异、个性鲜明的女装大佬，并通过视频链接展示了他们的私人生活和时尚表现。文件中包含了视频播放次数、点赞数、评论统计等信息，显示出这一现象引发的广泛关注与讨论。文件深入探讨了女装大佬在现代社会中的表现和影响力，以及他们对传统性别角色的挑战和重新定义，帮助读者理解多元性别表达的多样性与包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【伪娘】不看后悔一辈子的中国十大女装大佬合集，一个一个妖艳.md                             |
 | Size            | 1402 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=FANwr9SkQiY](https://www.youtube.com/watch?v=FANwr9SkQiY)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-11-27                                 |
+| Tags            | 女装大佬, 伪娘文化, 多元性别, 时尚表达, 社会影响, 网络文化, 个体表达, 生活方式, 性别角色, 视频合集                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

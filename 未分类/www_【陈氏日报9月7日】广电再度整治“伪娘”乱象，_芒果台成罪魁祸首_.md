@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来源于陈氏日报，报导了关于广电总局近期针对“伪娘”现象的整治行动，特别提到了芒果台在此事件中被指责为罪魁祸首。报道中提到，广电刚刚启动了针对娱乐圈的整治措施，禁言了21家韩娱粉丝后援会，这引起了广泛的关注和讨论。文章探讨了娱乐行业与广电之间的权力斗争，以及在中秋晚会邀请特定艺人的情况下，是否存在对抗行为。这篇文章不仅涉及到当下的娱乐新闻，同时也反映出广电政策对多元性别表达的影响，尤其是在社会对性别表达的多样性依然存在争议的背景下。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【陈氏日报9月7日】广电再度整治“伪娘”乱象，_芒果台成罪魁祸首_.md                             |
 | Size            | 1437 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=SJbrZRvT_Cg](https://www.youtube.com/watch?v=SJbrZRvT_Cg)                       |
+| Author          | 陈氏日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-09-07                                 |
+| Tags            | 广电, 伪娘, 芒果台, 娱乐圈, 禁言, 政策整治, 韩娱, 肖战, 杨紫, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

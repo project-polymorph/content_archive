@@ -122,8 +122,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_发现交往了两年的男朋友是异装癖-_小组讨论_-_豆瓣.md                             |
 | Size            | 6200 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/309470713/](https://m.douban.com/group/topic/309470713/)                       |
 | Author          | momo                               |
 | Region          | 广西                               |
 | Date            | 2024-08-03                                 |

@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章于2014年1月14日发布在福建妇联新闻网，重点介绍了一位被誉为“最美伪娘”的小灿，其女装扮相在网络上走红。小灿因其清丽脱俗的外貌而受到广泛关注，网友们惊异于她的男儿身份，却对其女装效果给予了高度赞赏，称其扮相能秒杀许多女明星。文章还提及了与此事件相关的多条新闻，包括南京政协委员对伪娘现象的讨论和其他公众人物的回应，引发了网友们对于性别表现和社会接受度的思考。这篇报道不仅展示了小灿的个人魅力，也反映了当下社会对多元性别表现的逐渐开放与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | women_最美伪娘小灿女装扮走红网络-_视点聚焦_-_福建妇联新闻网.md                             |
 | Size            | 1016 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://women.fjsen.com/2014-01/14/content_13333521.htm](https://women.fjsen.com/2014-01/14/content_13333521.htm)                       |
+| Author          | 中国网                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-01-14                                 |
+| Tags            | 伪娘, 性别表现, 社交媒体, 网络文化, 公众人物, 女装, 性别认同, 社会接受度, 社会现象, 福建妇联新闻网                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

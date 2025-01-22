@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_异装癖为什么是女装癖？_-_小组讨论-_豆瓣.md                             |
 | Size            | 1112 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://www.douban.com/group/topic/312958873/](https://www.douban.com/group/topic/312958873/)                       |
 | Author          | 悠兰米                               |
 | Region          | 山东, 中国                               |
 | Date            | 2024-10-25                                 |

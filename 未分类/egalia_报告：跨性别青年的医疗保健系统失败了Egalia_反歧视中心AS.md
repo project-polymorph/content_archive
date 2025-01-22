@@ -11,7 +11,7 @@
 
 他们在 Egalia 反歧视中心的一份新报告中记录了挪威医疗系统在处理未成年变性人时严重侵犯人权的行为。
 
-![报告封面。](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NTAiIGhlaWdodD0iNjM2IiB2aWV3Qm94PSIwIDAgNDUwIDYzNiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
+[报告封面。]
 
 ![报告封面。](https://egalia.org/wp-content/uploads/2024/10/Sider-fra-Rapport_kjonnsinkongruens-–-redigerbar.webp)
 
@@ -59,7 +59,7 @@ Hamnvik 和 Løvdal 还回顾了各种治疗知识库，并展示了如何实施
 
 ### 撰写报告的人
 
-![Ole Petter Hamnvik](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNzgxIiB2aWV3Qm94PSIwIDAgNjAwIDc4MSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
+[Ole Petter Hamnvik]
 
 ![Ole Petter Hamnvik](https://egalia.org/wp-content/uploads/2024/10/ole-petter-hamnvik.webp)
 
@@ -67,7 +67,7 @@ Hamnvik 和 Løvdal 还回顾了各种治疗知识库，并展示了如何实施
 
 医学博士 **奥勒-彼特·哈姆维克** 是一位专攻内分泌学的医生。他是以下学校的教育主管 [波士顿布莱根妇女医院跨性别健康中心](https://www.brighamandwomens.org/transgender-health)，美国，他在那里接受需要激素治疗的性别不一致的患者。他也是该校的副教授 [哈佛医学院](https://hms.harvard.edu/)。他在国家和国际层面参与跨健康领域卫生人员的教育，包括作为成员 [WPATH 全球教育学院](https://www.wpath.org/gei)的指导委员会。他参与了内分泌学会激素治疗指南下一版本的工作，并协助阅读 WPATH 护理标准 8 的挪威语翻译并进行质量保证。他是该报告的合著者，负责医学观点。
 
-![Lene Løvdal](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTc2IiB2aWV3Qm94PSIwIDAgNTAwIDU3NiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=)
+[Lene Løvdal]
 
 ![Lene Løvdal](https://egalia.org/wp-content/uploads/2024/10/Pressebilde-Lene-noytral-bakgrunn.webp)
 
@@ -91,8 +91,8 @@ Hamnvik 和 Løvdal 还回顾了各种治疗知识库，并展示了如何实施
 |-----------------|----------------------------------------|
 | Filename        | egalia_报告：跨性别青年的医疗保健系统失败了Egalia_反歧视中心AS.md                             |
 | Size            | 8641 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://egalia.org/zh-CN/barn-og-kjonnsinkongruens/](https://egalia.org/zh-CN/barn-og-kjonnsinkongruens/)                       |
 | Author          | Egalia反歧视中心                               |
 | Region          | 挪威                               |
 | Date            | 2024-10-25                                 |

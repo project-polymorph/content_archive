@@ -78,7 +78,7 @@ LGBTQ文学是Readers and Book Lovers系列，专门讨论对女同性恋、男�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了LGBTQ文学的主题，强调了酷儿群体在浪漫关系和爱情故事上的需求。作者指出，社会中对恋爱叙事的缺乏导致了对不同爱情表达方式的误解，并倡导书写和阅读更多样化的爱情故事。文中提到作者在成长过程中遇到的几次关于同性恋爱情故事的体验，以及与传统异性恋故事的对比。通过回忆个人经历和文化影响，作者表达了对不同类型爱情故事的渴望，特别是那些反映真实生活、展现亲密关系的故事。最后，文件介绍了即将发布的新小说《奥伯格费尔之前的春天》，强调了其关于小镇美国中年男性的成长与爱情的主题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -89,12 +89,12 @@ LGBTQ文学是Readers and Book Lovers系列，专门讨论对女同性恋、男�
 |-----------------|----------------------------------------|
 | Filename        | www_LGBTQ文学：我们需要爱情故事_-_科技视野.md                             |
 | Size            | 15512 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.agroecon.com/archives/41204](https://www.agroecon.com/archives/41204)                       |
+| Author          | Clayton Ben                               |
+| Region          | 未知                               |
+| Date            | 2024-09-30                                 |
+| Tags            | LGBTQ文学, 爱情故事, 酷儿文化, 同性恋经验, 成长经历, 多元性别, 文学评论, 社会认同, 个人叙述, 文学作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

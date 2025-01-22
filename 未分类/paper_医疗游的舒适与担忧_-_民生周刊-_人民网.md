@@ -56,8 +56,8 @@
 |-----------------|----------------------------------------|
 | Filename        | paper_医疗游的舒适与担忧_-_民生周刊-_人民网.md                             |
 | Size            | 4161 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://paper.people.com.cn/mszk/html/2011-07/11/content_871452.htm?div=-1](http://paper.people.com.cn/mszk/html/2011-07/11/content_871452.htm?div=-1)                       |
 | Author          | 马娅楠                               |
 | Region          | 未知                               |
 | Date            | 2011-07-11                                 |

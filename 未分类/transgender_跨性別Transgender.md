@@ -109,8 +109,8 @@
 |-----------------|----------------------------------------|
 | Filename        | transgender_跨性別Transgender.md                             |
 | Size            | 4542 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transgender.taipei/](https://transgender.taipei/)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2021-10-01                                 |

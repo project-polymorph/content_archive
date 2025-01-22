@@ -75,8 +75,8 @@
 |-----------------|----------------------------------------|
 | Filename        | lvbc_台湾变性人手术揭密_-_采新整形外科診所.md                             |
 | Size            | 8809 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://lvbc.tw/cn/%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%80%A7%E4%BA%BA%E6%89%8B%E6%9C%AF%E6%8F%AD%E5%AF%86/](https://lvbc.tw/cn/%E5%8F%B0%E6%B9%BE%E5%8F%98%E6%80%A7%E4%BA%BA%E6%89%8B%E6%9C%AF%E6%8F%AD%E5%AF%86/)                       |
 | Author          | lavisage                               |
 | Region          | 台湾                               |
 | Date            | 2009-03-14                                 |

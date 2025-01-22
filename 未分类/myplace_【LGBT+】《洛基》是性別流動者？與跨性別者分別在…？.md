@@ -68,8 +68,8 @@ MY LIFE SKILLS 服務主要透過外展活動、性健康工作坊、小組及�
 |-----------------|----------------------------------------|
 | Filename        | myplace_【LGBT+】《洛基》是性別流動者？與跨性別者分別在…？.md                             |
 | Size            | 5892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://myplace.org.hk/2021/07/29/%E6%B4%9B%E5%9F%BA-loki-marvel-%E6%80%A7%E5%88%A5%E6%B5%81%E5%8B%95-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-fluid-lgbt/?lang=zh-hant&srsltid=AfmBOoogYz7AIxr07GLQ2lYwWPPyvh_tYu6qFBrce7N807zlCa_BEsUy](https://myplace.org.hk/2021/07/29/%E6%B4%9B%E5%9F%BA-loki-marvel-%E6%80%A7%E5%88%A5%E6%B5%81%E5%8B%95-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85-fluid-lgbt/?lang=zh-hant&srsltid=AfmBOoogYz7AIxr07GLQ2lYwWPPyvh_tYu6qFBrce7N807zlCa_BEsUy)                       |
 | Author          | 未知                               |
 | Region          | 香港                               |
 | Date            | 2021-07-29                                 |

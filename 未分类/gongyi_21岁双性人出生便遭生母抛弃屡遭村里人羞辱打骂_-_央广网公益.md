@@ -34,8 +34,8 @@
 |-----------------|----------------------------------------|
 | Filename        | gongyi_21岁双性人出生便遭生母抛弃屡遭村里人羞辱打骂_-_央广网公益.md                             |
 | Size            | 1060 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://gongyi.cnr.cn/gsgy/gsgy/201408/t20140814_516219391.shtml](http://gongyi.cnr.cn/gsgy/gsgy/201408/t20140814_516219391.shtml)                       |
 | Author          | 王天怡                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-08-14                                 |

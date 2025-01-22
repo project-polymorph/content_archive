@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了由Sanyuan JAPAN（三原慧悟）制作的一档真人秀节目《帅哥GO！人妖的我们出发寻找好男人》，该节目于2016年7月30日在台湾录制，内容围绕人妖们在街头寻觅帅哥展开。节目参与者分成两队，在街头展开互动，追求目标是吸引路上的男性。通过活泼的形式和真实的情境，节目反映了多元性别者在日常生活中的勇气与独特视角，同时也从侧面探讨了社会对性别与认同的多样性与包容性。视频链接和现场的喜剧效果使得观众能够更好地理解与欣赏多元性别的表现形式。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_帥哥GO！人妖的我們出發尋找好男人【台灣外景拍攝】_-_Bilibili.md                             |
 | Size            | 1185 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.bilibili.com/video/av5568470/](http://www.bilibili.com/video/av5568470/)                       |
+| Author          | 守屋家的neru                               |
+| Region          | 台湾                               |
+| Date            | 2016-07-30                                 |
+| Tags            | 生活, 出行, 旅游, 台湾, 日常, 外景拍摄, 人妖, 真人秀, 多元性别, 社交                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

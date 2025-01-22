@@ -86,7 +86,7 @@ GENKING本名田中元辉，原本是经营Instagram的网红，经常在社群�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了日本演艺圈内的多元文化现象，尤其是男大姐（オネエ系）与伪娘文化。随着社会对性别流动问题的日益重视，伪娘文化在日本获得了普及与认同。文章详细区分了「男大姐」与「伪娘」的定义，强调二者并不相同。「男大姐」指的是生理男性以女性形象出现并使用女性用语的艺人群体，而伪娘则是更广泛的概念，涵盖男扮女装者与变性人等。文中还列举了几位著名的男大姐艺人，如松子DELUXE和IKKO，探讨了他们在综艺节目中的受欢迎程度及其对观众的影响。该文本通过分析这些艺人的受欢迎原因，展现了日本社会对性别表达的包容与多样化。同时，文章也强调了这些文化现象如何从二次元的兴趣扩展至演艺圈，促进了性别身份的讨论与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,12 +97,12 @@ GENKING本名田中元辉，原本是经营Instagram的网红，经常在社群�
 |-----------------|----------------------------------------|
 | Filename        | www_日本「男大姐」艺人为何超受欢迎？日本演艺圈伪娘文化解密_-_今日头条.md                             |
 | Size            | 10488 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.toutiao.com/article/7086113863485162017/](https://www.toutiao.com/article/7086113863485162017/)                       |
+| Author          | 乐吃购日本                               |
+| Region          | 日本                               |
+| Date            | 2022-05-02                                 |
+| Tags            | 多元性别, 男大姐, 伪娘, 日本演艺圈, 性别流动, 文化现象, 松子DELUXE, IKKO, 社会包容性, 娱乐文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

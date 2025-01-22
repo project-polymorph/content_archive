@@ -81,8 +81,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_我想让自己的小腿感受到空气-_新女友_-_豆瓣.md                             |
 | Size            | 7275 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/10646539/](https://m.douban.com/movie/review/10646539/)                       |
 | Author          | 莱卡道格                               |
 | Region          | 法国                               |
 | Date            | 2014-11-05                                 |

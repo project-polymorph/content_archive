@@ -74,8 +74,8 @@ Tags: [護家盟](https://queerology.net/tag/%e8%ad%b7%e5%ae%b6%e7%9b%9f/), [婚
 |-----------------|----------------------------------------|
 | Filename        | queerology_2014性／別新聞回顧（下）_-_Queerology.md                             |
 | Size            | 11272 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://queerology.net/2015/02/21/2014gendernews2/](https://queerology.net/2015/02/21/2014gendernews2/)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2014-12-31                                 |

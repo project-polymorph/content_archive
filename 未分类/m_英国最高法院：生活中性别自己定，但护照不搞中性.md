@@ -57,8 +57,8 @@ BBC报道称，最高法院15日一致驳回了艾伦凯恩的上诉，指出填
 |-----------------|----------------------------------------|
 | Filename        | m_英国最高法院：生活中性别自己定，但护照不搞中性.md                             |
 | Size            | 3789 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.cyol.com/gb/articles/2021-12/16/content_VMogmcv9Y.html](http://m.cyol.com/gb/articles/2021-12/16/content_VMogmcv9Y.html)                       |
 | Author          | 观察者网 李丽                               |
 | Region          | 英国                               |
 | Date            | 2021-12-15                                 |

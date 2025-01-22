@@ -85,8 +85,8 @@ Chin J Plast Surg, 2009, 25(4): 307-307. DOI: [10.3760/cma.j.issn.1009-4598.2009
 |-----------------|----------------------------------------|
 | Filename        | rs_变性术后直肠阴道瘘一例_-_中华医学期刊网.md                             |
 | Size            | 2171 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rs.yiigle.com/CN114453200904/198198.htm](https://rs.yiigle.com/CN114453200904/198198.htm)                       |
 | Author          | 李庆伟, 于潇华, 唐胜建                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-07-25                                 |

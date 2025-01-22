@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别群体的心理压力与应对.md                             |
 | Size            | 2979 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.51cmm.com/wz/A5NUnXRW.html](https://m.51cmm.com/wz/A5NUnXRW.html)                       |
 | Author          | 小希                               |
 | Region          | 未知                               |
 | Date            | 2023-05-13                                 |

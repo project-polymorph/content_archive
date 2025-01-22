@@ -25,8 +25,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_药娘胸部可以发育到跟女生一样吗？可暂时使乳房变得跟女生一样.md                             |
 | Size            | 209 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.verybeaut.com/forums/show/79381](https://m.verybeaut.com/forums/show/79381)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

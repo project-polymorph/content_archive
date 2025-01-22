@@ -106,8 +106,8 @@ Lara在影片中说：“我不想成为一个榜样，我只想成为一个女�
 |-----------------|----------------------------------------|
 | Filename        | m_《女孩》：跨性别者的疼痛式成长，一种新式探索_-_豆瓣.md                             |
 | Size            | 8648 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/12363954/](https://m.douban.com/movie/review/12363954/)                       |
 | Author          | 叶芝（公号：叶芝电影）                               |
 | Region          | 比利时 / 荷兰                               |
 | Date            | 2018-05-12                                 |

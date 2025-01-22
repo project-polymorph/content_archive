@@ -294,8 +294,8 @@ Witten, T. M. (1999). Hate crimes and violence against the Transgendered: Peace 
 |-----------------|----------------------------------------|
 | Filename        | telegra_2022年关于跨性别者的社会态度调查报告_-_Telegraph.md                             |
 | Size            | 27268 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://telegra.ph/2022%E5%B9%B4%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%81%E5%BA%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A-03-31](https://telegra.ph/2022%E5%B9%B4%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%81%E5%BA%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A-03-31)                       |
 | Author          | CW学术组                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-03-31                                 |

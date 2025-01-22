@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于“性转”这一概念的维基词典条目。文中首先介绍了‘性转’一词的拼音及其使用的发音示例，包括现代标准汉语的拼音、注音以及其他语言的转写方法。接着，文中对‘性转’的定义进行了详细解释，指出这是粉丝文化中使用的一个术语，指将角色的性别对换。文件还列出了与‘性转’相关的词汇，如‘性转换’等。该条目还附带了分类信息，包括多个相关的汉语及官话的词元分类。</br>文件的结构清晰，提供了多种语言的发音方式，适合希望深入了解多元性别相关术语的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_性轉-_維基詞典，自由的多語言詞典_-_Wiktionary.md                             |
 | Size            | 2335 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wiktionary.org/zh-hant/%E6%80%A7%E8%BD%89](https://zh.wiktionary.org/zh-hant/%E6%80%A7%E8%BD%89)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 维基词典, 粉丝文化, 性别, 性转换, 汉语词汇, 多元性别, 文化研究, 语言学, 角色扮演                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

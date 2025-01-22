@@ -122,7 +122,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自专筑网，专注于年轻建筑业人士的互动社区，涵盖建筑规划、景观、园林、室内设计等多个专业领域。尽管文件标题涉及到欧美文化及相关内容，但内容实为一个建筑行业的在线平台，提供众多建筑相关课程和活动的信息，比如学习营、研习班等，致力于为教育和职业发展提供支持。文章中包括了多个热门标签，涉及居住建筑、教育建筑、文化建筑等，这些标签有助于读者快速找到与自己需求相关的内容。此外，文中附有多个相关链接及图像，展示了不同建筑项目和活动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -133,12 +133,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《欧美人妖肛交》武侠片-网盘在线观看_-_专筑网.md                             |
 | Size            | 4372 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.iarch.cn/?/20241118041546/AGJSdlNw_68021977.html](http://www.iarch.cn/?/20241118041546/AGJSdlNw_68021977.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 建筑, 设计, 教育, 社区, 课程, 互动, 规划, 景观, 园林, 室内设计                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

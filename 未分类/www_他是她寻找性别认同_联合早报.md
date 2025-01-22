@@ -120,7 +120,7 @@ Transgender（跨性别）是形容词，不应作为名词（a transgender）�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《他是她 寻找性别认同》是一篇来自联合早报的文章，记录了跨性别者卢深的个人故事和她在寻找性别认同的旅程中所面临的挑战与困境。文章中提到性别认同与性倾向的区别，指出社会对跨性别者认识不足的问题。卢深，这位24岁的跨性别女性，从小就感受到身体与心理之间的冲突和挣扎。她在生活中通过阅读和交流逐渐理解自己的身份，并积极参与校园安全活动，支持跨性别者的权益。文章中还引用了心理学家的观点，指出新加坡在这方面缺乏法律保障，使得跨性别学生在校园中遭受到种种挑战。在对话与交流中，卢深展现了对未来的乐观态度，并呼吁更多的包容与理解。整篇文章不仅是卢深个人的叙述，也反映了跨性别群体在社会中的现状及挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,12 +131,12 @@ Transgender（跨性别）是形容词，不应作为名词（a transgender）�
 |-----------------|----------------------------------------|
 | Filename        | www_他是她寻找性别认同_联合早报.md                             |
 | Size            | 12338 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.zaobao.com.sg/lifestyle/gen/story20210728-1174635](https://www.zaobao.com.sg/lifestyle/gen/story20210728-1174635)                       |
+| Author          | 蔡玮谦                               |
+| Region          | 新加坡                               |
+| Date            | 2021-07-28                                 |
+| Tags            | 跨性别, 性别认同, 性倾向, 社会运动, 校园安全, 心理健康, 性别教育, 性别政策, 个人故事, LGBTQ                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

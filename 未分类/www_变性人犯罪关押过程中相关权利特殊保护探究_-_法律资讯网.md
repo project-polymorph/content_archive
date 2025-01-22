@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件深入探讨了变性人在犯罪关押过程中应获得的特殊权利保护，尤其强调了人权的完整性与特殊人群需要的法律保障。文章指出，变性人作为一个特殊群体，应在法律上得到相应的关爱与保障，尤其在涉及到其特殊生理与心理状态时，这一点尤为重要。具体内容涵盖了对变性犯罪人在关押过程中面临的生理与心理问题的分析，包括如何防止性暴力、保障激素治疗以及尊重其个人隐私权等方面。作者通过对中国及美国相关法律案例的比较，提出了对现行法律制度的批判，并对未来的法律改进提出了建议。尤其是提到的对变性犯罪人的关押条件、心理健康以及医疗保障等，都是值得社会关注的热点议题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -94,12 +94,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性人犯罪关押过程中相关权利特殊保护探究_-_法律资讯网.md                             |
 | Size            | 16070 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.dyzxw.org/html/article/201304/02/126115.shtml](http://www.dyzxw.org/html/article/201304/02/126115.shtml)                       |
+| Author          | 李远浩                               |
+| Region          | 中国                               |
+| Date            | 2013-04-02                                 |
+| Tags            | 变性人, 人权, 法律保护, 心理状态, 生理状态, 监狱法律, 性别身份, 医疗保障, 性别暴力, 社会保障                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

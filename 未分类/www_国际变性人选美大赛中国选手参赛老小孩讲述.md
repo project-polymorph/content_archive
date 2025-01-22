@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章详细报道了2009年国际变性人选美大赛在泰国帕塔亚举行的情况。赛事于10月31日召开，参加人数来自全球11个国家，特别提到了来自中国的选手。报道中提到，此比赛旨在减少对变性人的歧视，并提升其在社会中的认可度。赛事中，选手们展示了各自民族的服装，并在歌舞表演以及即兴问答中展现了才艺。最终，来自日本的选手获得冠军。作者通过图片和文字传达了选手们的风采以及赛事的社会意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_国际变性人选美大赛中国选手参赛老小孩讲述.md                             |
 | Size            | 3676 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.oldkids.cn/blog/view.php?bid=100109](http://www.oldkids.cn/blog/view.php?bid=100109)                       |
+| Author          | 夏日飞雪                               |
+| Region          | 泰国                               |
+| Date            | 2009-11-01                                 |
+| Tags            | 变性人, 选美大赛, 社会认可, 文化表现, 性别多元, 生命故事, 国际赛事, 中国选手, 南亚文化, 社会歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

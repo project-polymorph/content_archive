@@ -97,8 +97,8 @@
 |-----------------|----------------------------------------|
 | Filename        | github_MtFUniversityawesome-trans_跨性别相关资源列表_-_GitHub.md                             |
 | Size            | 3112 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://github.com/MtFUniversity/awesome-trans](https://github.com/MtFUniversity/awesome-trans)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

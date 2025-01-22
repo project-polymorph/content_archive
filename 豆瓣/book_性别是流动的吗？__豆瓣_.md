@@ -148,8 +148,8 @@ Gender as a Social Construct
 |-----------------|----------------------------------------|
 | Filename        | book_性别是流动的吗？__豆瓣_.md                             |
 | Size            | 10356 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/35184850//](https://book.douban.com/subject/35184850//)                       |
 | Author          | 萨莉·海因斯、马修·泰勒                               |
 | Region          | 未知                               |
 | Date            | 2020-10                                 |

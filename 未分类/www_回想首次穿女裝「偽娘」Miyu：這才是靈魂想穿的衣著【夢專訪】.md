@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了Miyu关于她首次穿女装的深刻回忆，并通过一段视频访谈表达了她的真实体验和对性别表现的思考。Miyu坦诚地分享了她作为一名「偽娘」的心路历程，阐述了她的灵魂真正渴望的服装风格，并探讨了社会对性别角色的期望与接受度。访谈中，Miyu提及社会对她的反应及其自身的感受，提供了关于跨性别和性别表现的重要视角，强化了对个人性别身份认同的理解。这段内容带给观众的不仅是对个体经历的深入了解，也对和谐共存的性别多样性有着积极的推动作用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_回想首次穿女裝「偽娘」Miyu：這才是靈魂想穿的衣著【夢專訪】.md                             |
 | Size            | 1109 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=I5ayM0vQc2w](https://www.youtube.com/watch?v=I5ayM0vQc2w)                       |
+| Author          | 发紧梦                               |
+| Region          | 香港                               |
+| Date            | 2018-11-15                                 |
+| Tags            | 香港故事, 偽娘, 女裝子, 性别身份, 跨性别, 社会接受度, 个人故事, 视频访谈, 性别表现, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

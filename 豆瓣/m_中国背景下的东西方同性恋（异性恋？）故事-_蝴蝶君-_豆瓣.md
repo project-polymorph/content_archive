@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_中国背景下的东西方同性恋（异性恋？）故事-_蝴蝶君-_豆瓣.md                             |
 | Size            | 1448 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/7895694/](https://m.douban.com/movie/review/7895694/)                       |
 | Author          | 未知                               |
 | Region          | 美国 / 加拿大                               |
 | Date            | 1993-09-09                                 |

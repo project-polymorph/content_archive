@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一次关于跨性别者及其生活的电影放映活动，名为《银幕上的活动家：电影中的酷儿凝视》，于2024年3月30日在纽约市举行。该活动聚集了著名艺术家和电影制片人为观众分享跨性别居民的日常生活以及他们如何在城市空间中进行抵抗。活动中放映了《大西洋是骨头之海》和《码头儿童》两部电影，展现了跨性别者的生存经历和与艾滋病、无家可归等社会问题的关联。演讲者安托·阿斯图迪略及优雅·布拉顿在活动中进行对话，讨论电影的内容和其社会影响。此外，文件还涉及到关于历史、抗争与身份认同的深入分析，展现了当代跨性别者在面临挑战时依然展现出的坚韧与创造力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh-cn_银幕上的活动家：电影中的酷儿凝视.md                             |
 | Size            | 7103 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh-cn.mcny.org/event/activists-screen-trans-activism](https://zh-cn.mcny.org/event/activists-screen-trans-activism)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-03-30                                 |
+| Tags            | 跨性别者, 酷儿电影, 生活经历, 社会活动主义, 纽约市, 电影放映, 日常抵抗, 艾滋病问题, 无家可归, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

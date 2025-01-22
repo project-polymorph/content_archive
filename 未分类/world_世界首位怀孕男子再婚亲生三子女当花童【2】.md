@@ -40,7 +40,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了世界首位怀孕男性托马斯·比提的婚姻与家庭生活故事。托马斯于2002年完成了变性手术，随后开始雄性激素治疗，然而保留了生殖系统。在合法男性身份的基础上，他通过人工授精的方式成功怀孕，并生下三名子女。博文详细描述了托马斯与前妻南希的婚姻及离婚过程，以及他与现任妻子安珀的浪漫故事。文中提到托马斯与安珀的婚礼在热带沙漠中的一处绿洲花园举行，婚礼现场氛围温馨，托马斯在看到安珀穿着白纱走来时情感满怀，展现了一个多元家庭的幸福景象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_世界首位怀孕男子再婚亲生三子女当花童【2】.md                             |
 | Size            | 2944 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n1/2016/0602/c107182-28406823-2.html](http://world.people.com.cn/n1/2016/0602/c107182-28406823-2.html)                       |
+| Author          | 安妮特·威瑟里奇（ANNETTE WITHERIDGE）                               |
+| Region          | 未知                               |
+| Date            | 2016-06-02                                 |
+| Tags            | 多元性别, 怀孕男性, 变性手术, 家庭生活, 人工授精, 婚姻, 婚礼, 托马斯·比提, 生活故事, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

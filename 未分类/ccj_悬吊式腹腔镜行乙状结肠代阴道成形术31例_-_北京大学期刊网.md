@@ -63,8 +63,8 @@ R713.31
 |-----------------|----------------------------------------|
 | Filename        | ccj_悬吊式腹腔镜行乙状结肠代阴道成形术31例_-_北京大学期刊网.md                             |
 | Size            | 3000 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ccj.pku.edu.cn/article/info?id=309787760](https://ccj.pku.edu.cn/article/info?id=309787760)                       |
 | Author          | 王焕英, 王君, 伍冀湘, 李斌                               |
 | Region          | 中国                               |
 | Date            | 2011-09-01                                 |

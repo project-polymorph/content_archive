@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了东京奥运会历史上首位变性人获奖者奎因（Quinn）的成就。奎因是加拿大女足的一员，在8月6日的比赛中帮助球队获得金牌，成为世上第一个在奥运会中获奖的公开跨性别运动员。文章提到奎因在社交平台上自我认同为跨性别者和非二元性别者，并呼吁大家支持多元性别群体。同时，文章中也提到其他几位跨性别运动员的参赛经历，如劳蕾尔·哈伯德和阿拉娜·史密斯，并讨论了国际奥委会的相关规定及其受到的质疑。通过众多运动员的经历，文章反映出体育界在包容性进展上的重要性，以及社会对跨性别运动员的态度变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_金牌奥运会史上首位变性人获奖者诞生了-新闻中心_-_温哥华港湾.md                             |
 | Size            | 5967 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bcbay.com/news/2021/08/07/757770.html](https://www.bcbay.com/news/2021/08/07/757770.html)                       |
+| Author          | 极目新闻                               |
+| Region          | 未知                               |
+| Date            | 2021-08-07                                 |
+| Tags            | 跨性别者, 奎因, 东京奥运会, 体育包容性, 非二元性别者, 女子足球, 劳蕾尔·哈伯德, 阿拉娜·史密斯, 国际奥委会, 人在体育中                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

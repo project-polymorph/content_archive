@@ -117,8 +117,8 @@ KPJ Healthcare Berhad集团的子公司以质量和先进的医疗服务闻名�
 |-----------------|----------------------------------------|
 | Filename        | cn_查找马来西亚提供变性手术的整形外科医生_-_医疗旅游.md                             |
 | Size            | 5926 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.health-tourism.com/sex-reassignment-surgery/malaysia/](https://cn.health-tourism.com/sex-reassignment-surgery/malaysia/)                       |
 | Author          | 未知                               |
 | Region          | 马来西亚                               |
 | Date            | 未知                                 |

@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | huangsewenxue_李莹的阉割.txt.md                             |
 | Size            | 6362 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://huangsewenxue.com/txt/%E5%94%AF%E7%88%B1%E8%B6%B3%E8%AE%BA%E5%9D%9B%E6%81%8B%E8%B6%B3%E5%B0%8F%E8%AF%B4%E5%85%A8%E9%9B%86/2015/2015-10/%E6%9D%8E%E8%8E%B9%E7%9A%84%E9%98%89%E5%89%B2.txt](https://huangsewenxue.com/txt/%E5%94%AF%E7%88%B1%E8%B6%B3%E8%AE%BA%E5%9D%9B%E6%81%8B%E8%B6%B3%E5%B0%8F%E8%AF%B4%E5%85%A8%E9%9B%86/2015/2015-10/%E6%9D%8E%E8%8E%B9%E7%9A%84%E9%98%89%E5%89%B2.txt)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

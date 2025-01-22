@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含一段关于跨性别者"武当"的生命故事，展示了他的个人经历和所经历的困境。这段视频由北同制作，通过视频的方式揭示了武当如何在社会中挣扎求存，尤其是在包办婚姻等传统社会压力下的痛苦经历。视频提到，武当选择以女装的形式生活，但他却常常被迫遵循传统的家庭责任，例如与女性结婚，尽管他的内心深处却有着完全不同的身份认同。武当的故事不仅反映了跨性别者在现代社会中所遭受的困扰与挑战，也呼吁社会对多元性别的关注和理解。支持多元性别的声音需要在这样的故事中被传播，以激励更多人关注和思考这一群体的处境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_武当的故事：跨性别者的悲哀一生包办婚姻害了他【小叔VLOG】.md                             |
 | Size            | 2189 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=qA4zVb8hHBM](https://www.youtube.com/watch?v=qA4zVb8hHBM)                       |
+| Author          | Beitong北同                               |
+| Region          | 未知                               |
+| Date            | 2019-01-17                                 |
+| Tags            | 跨性别, LGBT, 包办婚姻, 生命故事, 社会环境, 真实经历, 多元性别, 性别认同, 人权, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

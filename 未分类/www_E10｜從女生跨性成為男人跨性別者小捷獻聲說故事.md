@@ -90,7 +90,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于跨性别者小捷个人故事的访谈记录，详细叙述了其从女性转变为男性的经历和心路历程。在这篇文章中，小捷分享了他从小对性别认同的探索，以及在英国家庭与社会环境的影响下逐渐认识到自己的跨性别身份的过程。文件讲述了他在求学、生活以及进行性别转变手术的挑战与成长，揭秘了跨性别者当面临的外部压力与内心挣扎。通过小捷的故事，读者能够感受到跨性别者在追寻自我认同中的痛苦与希望，特别是他在经历手术后的身心平衡，找到自信的生活状态。文中也提到了小捷的艺术追求，以及他对未来的展望，充满励志和勇气。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,12 +101,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_E10｜從女生跨性成為男人跨性別者小捷獻聲說故事.md                             |
 | Size            | 14519 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mirrormedia.mg/story/20191210cul501](https://www.mirrormedia.mg/story/20191210cul501)                       |
+| Author          | 陳玉梅                               |
+| Region          | 台湾                               |
+| Date            | 2019-12-15                                 |
+| Tags            | 跨性别, 个人故事, 性别认同, 转变经历, 心理健康, 艺术创作, 荷尔蒙治疗, 性别手术, 家庭支持, 社会接受                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

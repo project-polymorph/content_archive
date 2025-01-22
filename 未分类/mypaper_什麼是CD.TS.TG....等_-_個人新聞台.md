@@ -59,8 +59,8 @@ TG：(TransGender) Gender是指心理上的性別認同，因此只要在心理�
 |-----------------|----------------------------------------|
 | Filename        | mypaper_什麼是CD.TS.TG....等_-_個人新聞台.md                             |
 | Size            | 2572 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mypaper.pchome.com.tw/love222962/post/1307580844](https://mypaper.pchome.com.tw/love222962/post/1307580844)                       |
 | Author          | 衣衣                               |
 | Region          | 台湾                               |
 | Date            | 2008-06-01                                 |

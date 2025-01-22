@@ -146,8 +146,8 @@
 |-----------------|----------------------------------------|
 | Filename        | theinitium_被污名化的激进女权？——关于豆瓣激进女权的五个误解.md                             |
 | Size            | 16858 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://theinitium.com/zh-hans/opinion/20210503-opinion-douban-radical-feminism](https://theinitium.com/zh-hans/opinion/20210503-opinion-douban-radical-feminism)                       |
 | Author          | 多数事务社                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-05-03                                 |

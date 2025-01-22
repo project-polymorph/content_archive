@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了曼谷著名的Calypso Cabaret人妖秀，详细描述了演出的特色和观赏体验。作为泰国人妖表演的代表，Calypso Cabaret吸引了众多游客，每晚举行两场演出，展现各国传统文化的歌舞表演。文章提到演出中的泰国人清唱《夜上海》等，尽管实际演出为假唱，但视觉效果和舞台效果都令人满意。观众可以欣赏到多样的服装与舞蹈，也有与表演者合影的机会。文中还分享了作者在2012年12月的观演体验，称赞表演的精彩和丰盛的泰餐，同时提醒观众关于人妖秀场的注意事项。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www1_泰国人妖介绍——曼谷克里普索Calypso_Cabaret人妖秀_-_绿野户外.md                             |
 | Size            | 3256 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www1.lvye.cn/thread-833080-1-1.html](http://www1.lvye.cn/thread-833080-1-1.html)                       |
+| Author          | 泰游AA                               |
+| Region          | 泰国                               |
+| Date            | 2013-08-15                                 |
+| Tags            | Calypso人妖表演, 曼谷, 人妖秀, 旅游, 表演艺术, 泰国文化, 传统舞蹈, 观众体验, 美食推荐, 法律和社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -48,8 +48,8 @@ ps：《穿越美国》其实我觉得这个名字没有办法突出这部电影
 |-----------------|----------------------------------------|
 | Filename        | m_《穿越美国》_变性人的公路电影《Transamerica》_-_豆瓣.md                             |
 | Size            | 4075 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/5424473/](https://m.douban.com/movie/review/5424473/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2005-12-23                                 |

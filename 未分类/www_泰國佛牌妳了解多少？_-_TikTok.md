@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国佛牌的文化背景和神秘之处，提供了关于泰国佛牌的介绍与使用方式。作者在 TikTok 上通过简短的视频形式分享了该文化的相关信息，以吸引更多对泰国文化感兴趣的观众。文件中包含了一段视频，展示了佛牌与招财的联系，突显了在泰国文化中佛牌的神秘性和重要性。该内容结合了视觉和听觉元素，使观众能够更好地理解这一文化现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰國佛牌妳了解多少？_-_TikTok.md                             |
 | Size            | 736 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tiktok.com/@remy.binger/video/7436300964744777015](https://www.tiktok.com/@remy.binger/video/7436300964744777015)                       |
+| Author          | remy.binger                               |
+| Region          | 泰国                               |
+| Date            | 2024-11-12                                 |
+| Tags            | 泰国文化, 招财, 泰国佛牌, 文化探讨, 神秘文化, 视频分享, 社交媒体, 用户生成内容, 跨文化交流, 民俗信仰                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

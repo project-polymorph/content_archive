@@ -113,8 +113,8 @@
 |-----------------|----------------------------------------|
 | Filename        | dota_Chalice：抖音的人纯粹的口臭，遇到变性人、药娘的经历.md                             |
 | Size            | 5676 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dota.shandian.biz/5358.html](https://dota.shandian.biz/5358.html)                       |
 | Author          | 查理斯                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-08-08                                 |

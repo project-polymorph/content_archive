@@ -107,7 +107,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了药娘（男扮女装者）的寿命问题，包含对药娘群体生活现状的观察与分析。文章引用了多个药娘的案例，探讨其平均寿命可能较低的原因，包括激素使用对健康的影响、家庭关系的紧张以及对毒品的依赖（OD）等。作者提到，药娘通常面临较大的社会压力和生活困境，从而导致寿命短于常人。此外，文章中也包含了多位网友的评论，反映出社会对药娘现象的不同看法与讨论。这些评论有助于更全面地理解药娘在中国社会中的生存现状和心理状态。综上所述，本文不仅是对药娘生存状态的深入分析，也引发了关于社会环境、医疗资源及法律政策对该群体影响的广泛讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -118,12 +118,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_药娘的寿命真的比常人低吗.md                             |
 | Size            | 5855 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.south-plus.net/simple/index.php?t2240723.html](https://www.south-plus.net/simple/index.php?t2240723.html)                       |
+| Author          | 南+ South Plus                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-07-05                                 |
+| Tags            | 药娘, 性别多元, 社会环境, 医疗资源, 生活经历, 家庭关系, 药物依赖, 寿命问题, 社区讨论, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

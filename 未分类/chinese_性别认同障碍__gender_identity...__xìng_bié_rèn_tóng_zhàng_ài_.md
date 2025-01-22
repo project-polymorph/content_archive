@@ -46,8 +46,8 @@ Stroke order images provided by [wikimeida stroke order project](http://commons.
 |-----------------|----------------------------------------|
 | Filename        | chinese_性别认同障碍__gender_identity...__xìng_bié_rèn_tóng_zhàng_ài_.md                             |
 | Size            | 3002 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8D](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8D)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

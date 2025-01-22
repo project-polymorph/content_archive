@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | project-trans_公安部三局关于公民实施变性手术后变更户口登记性别项目有关问题_.md                             |
 | Size            | 1158 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://project-trans.org/china-legal/spec/2002-09-04/mps-2002-131](https://project-trans.org/china-legal/spec/2002-09-04/mps-2002-131)                       |
 | Author          | 公安部三局                               |
 | Region          | 中国大陆                               |
 | Date            | 2002-09-04                                 |

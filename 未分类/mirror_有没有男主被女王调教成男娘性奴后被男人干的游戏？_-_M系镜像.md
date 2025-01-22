@@ -40,8 +40,8 @@ Re: 有没有男主被女王调教成男娘性奴后被男人干的游戏？
 |-----------------|----------------------------------------|
 | Filename        | mirror_有没有男主被女王调教成男娘性奴后被男人干的游戏？_-_M系镜像.md                             |
 | Size            | 897 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mirror.chromaso.net/thread/21096](https://mirror.chromaso.net/thread/21096)                       |
 | Author          | creamyou35                               |
 | Region          | 未知                               |
 | Date            | 2014-11-03                                 |

@@ -154,8 +154,8 @@ Q 穿上男生校服回校找老师拍照，老师们也有点愕然、气氛有
 |-----------------|----------------------------------------|
 | Filename        | cn_跨性别者心声：不需经由性别重置手术，才能争取身份认同.md                             |
 | Size            | 15749 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.womany.net/read/article/18093](https://cn.womany.net/read/article/18093)                       |
 | Author          | 立场新闻                               |
 | Region          | 香港                               |
 | Date            | 2019-02-19                                 |

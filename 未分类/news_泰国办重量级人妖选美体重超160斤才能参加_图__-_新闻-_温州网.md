@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_泰国办重量级人妖选美体重超160斤才能参加_图__-_新闻-_温州网.md                             |
 | Size            | 2473 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.66wz.com/system/2016/04/21/104804593.shtml](https://news.66wz.com/system/2016/04/21/104804593.shtml)                       |
 | Author          | 温州网                               |
 | Region          | 泰国                               |
 | Date            | 2016-04-21                                 |

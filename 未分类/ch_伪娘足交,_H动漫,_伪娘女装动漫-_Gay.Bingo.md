@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ch_伪娘足交,_H动漫,_伪娘女装动漫-_Gay.Bingo.md                             |
 | Size            | 3054 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ch.gay.bingo/video/290592687](https://ch.gay.bingo/video/290592687)                       |
 | Author          | Habinesta                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

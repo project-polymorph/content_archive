@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了特朗普政府于2017年撤销奥巴马政府颁布的“跨性别厕所令”的事件。该法令曾要求公立学校根据跨性别学生的自我认同而非生理性别，允许他们选择使用男女卫生间和更衣室。这一变化引发了广泛的社会讨论与争议。特朗普政府的决定被认为是对反对跨性别权益运动的支持，然而，对于民权运动的支持者而言，这是对跨性别儿童平等权利的直接攻击。文中详细介绍了该政策改变的背景、政府的处理方式以及不同社会群体对此的反应。同时引用了相关的法律条款和政府通讯，强调了该政策变化对公立学校政策制定的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_特朗普政府废除奥巴马“跨性别厕所令”--国际--人民网.md                             |
 | Size            | 2396 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n1/2017/0223/c1002-29102874.html](http://world.people.com.cn/n1/2017/0223/c1002-29102874.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2017-02-23                                 |
+| Tags            | 跨性别, 厕所令, 特朗普政府, 奥巴马政府, 民权运动, 教育政策, 社会争议, 性别认同, 法律政策, 公共卫生间                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

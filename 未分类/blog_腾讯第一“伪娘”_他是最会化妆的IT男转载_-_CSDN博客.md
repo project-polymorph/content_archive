@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | blog_腾讯第一“伪娘”_他是最会化妆的IT男转载_-_CSDN博客.md                             |
 | Size            | 1400 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.csdn.net/congbaba/article/details/53929958](https://blog.csdn.net/congbaba/article/details/53929958)                       |
 | Author          | congbaba                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-12-29                                 |

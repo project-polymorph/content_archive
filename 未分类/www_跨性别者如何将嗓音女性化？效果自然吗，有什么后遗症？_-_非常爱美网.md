@@ -95,7 +95,7 @@ Copyright © 2008-2023 非常爱美®
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别者如何通过医学手段实现声音女性化，特别是介绍了韩国艺颂医院进行的嗓音女性化手术。手术过程被描述为相对简便，仅需使用喉咙内窥镜，而不是传统开刀手术，首先通过剥离男性声带的一部分，然后进行缝合，从而达到调整声带以发出女性声音的效果。文章中提到手术后的恢复情况，包括音色改善的过程以及可能的后遗症，如嗓音不稳定及喉部不适等。整体来看，文章旨在提供有关嗓音女性化手术的详细信息和术后的效果观察，同时引导对声音女性化有兴趣的跨性别者关注相关医疗资源和经验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -106,12 +106,12 @@ Copyright © 2008-2023 非常爱美®
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别者如何将嗓音女性化？效果自然吗，有什么后遗症？_-_非常爱美网.md                             |
 | Size            | 4257 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.verym.com/gonglve/9882.html](http://www.verym.com/gonglve/9882.html)                       |
+| Author          | 汪月明                               |
+| Region          | 未知                               |
+| Date            | 2019-09-18                                 |
+| Tags            | 跨性别, 声音女性化, 医疗资源, 嗓音整形, 艺颂医院, 生理性别, 医疗手术, 性别认同, 医疗经验, 后遗症                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

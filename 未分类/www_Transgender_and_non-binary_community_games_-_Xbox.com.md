@@ -112,7 +112,7 @@ Microsoft community selections featuring creators, leads, character creation opt
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件来自Xbox网站，介绍了多元性别社区相关的游戏，特别关注于包含多元性别角色和主题的游戏选项。具体列出了多款游戏，包括《UNSIGHTED》、《Garden Story》、《Tell Me Why》等，每款游戏都有简要的介绍、图片以及价格信息。文件旨在为玩家提供一个了解和体验多元性别故事和角色创作的渠道，突出强调了社群创造的游戏内容和角色自定义选项，展现了现代游戏在包容性方面的进展和努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,12 +123,12 @@ Microsoft community selections featuring creators, leads, character creation opt
 |-----------------|----------------------------------------|
 | Filename        | www_Transgender_and_non-binary_community_games_-_Xbox.com.md                             |
 | Size            | 8128 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xbox.com/en-US/games/browse/transgender-and-non-binary-communities](https://www.xbox.com/en-US/games/browse/transgender-and-non-binary-communities)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 游戏, 社区, 角色创造, 包容性, 性别表现, 视频游戏, 文化表达, 艺术, 媒体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

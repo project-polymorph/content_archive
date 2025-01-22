@@ -40,7 +40,7 @@ Copyright © 2015-2025 kuaikanmanhua.com All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的性转女友》是一部由帝企鹅不是鹅创作的漫画，属于快看漫画的原创投稿计划。故事围绕一个意外获得名为“基友性转按钮”的神奇按钮的角色威胡展开。在发现这个按钮能改变他的人生后，威胡意识到自己进入了一个奇幻的世界，并对未来的变化充满期待。漫画不仅探索了性别转变的主题，还引入了许多关于友情和自我认同的元素，显示了主人公在性转体验中的成长与改变。该漫画目前正连载中，已经引发了较高的人气值，获得了408个赞。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@ Copyright © 2015-2025 kuaikanmanhua.com All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_我的性转女友_-_快看漫画.md                             |
 | Size            | 3114 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kuaikanmanhua.com/web/topic/12629](https://www.kuaikanmanhua.com/web/topic/12629)                       |
+| Author          | 帝企鹅不是鹅                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 漫画, 生活故事, 自我认同, 友谊, 奇幻, 青春, 性别流动, 网络文化, 原创作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

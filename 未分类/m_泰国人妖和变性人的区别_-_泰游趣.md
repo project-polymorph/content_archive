@@ -83,8 +83,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国人妖和变性人的区别_-_泰游趣.md                             |
 | Size            | 6855 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.tyouqu.com/index.php?&a=show&catid=429&id=1799](http://m.tyouqu.com/index.php?&a=show&catid=429&id=1799)                       |
 | Author          | Pink大叔                               |
 | Region          | 未知                               |
 | Date            | 2017-12-08                                 |

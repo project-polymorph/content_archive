@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细记录了泰国的人妖变性手术及其相关医疗旅游业的发展，探讨了泰国在全球变性手术领域的领先地位。文章指出，越来越多的外国患者选择前往泰国进行变性手术，主要是因为相较于西方国家，泰国的手术费用低廉且评价程序简单。文中详细介绍了变性手术的历史、过程以及相关法律规定，并且分析了泰国社会对变性手术的开放态度与背后的文化因素。文件还提到了一些变性手术可能出现的医疗风险和问题，提示消费者在选择手术时应谨慎。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | travel_实拍：揭秘泰国人妖变性手术.md                             |
 | Size            | 3544 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://travel.xitek.com/photo/journey/201112/07-259671.html](https://travel.xitek.com/photo/journey/201112/07-259671.html)                       |
+| Author          | 凤凰                               |
+| Region          | 泰国                               |
+| Date            | 2011-12-07                                 |
+| Tags            | 变性手术, 医疗旅游, 泰国, 性别认同, 人妖, 跨性别, 性别转变, 社会政策, 文化现象, 医疗风险                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

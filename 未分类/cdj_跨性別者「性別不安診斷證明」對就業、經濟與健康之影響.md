@@ -56,8 +56,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cdj_跨性別者「性別不安診斷證明」對就業、經濟與健康之影響.md                             |
 | Size            | 4559 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cdj.sfaa.gov.tw/Journal/Content?gno=13113](https://cdj.sfaa.gov.tw/Journal/Content?gno=13113)                       |
 | Author          | 陈语萱、刘育欣                               |
 | Region          | 台湾                               |
 | Date            | 2024-04-02                                 |

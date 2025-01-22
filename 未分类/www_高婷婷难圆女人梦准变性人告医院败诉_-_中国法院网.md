@@ -42,7 +42,7 @@ _0_条评论
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了高婷婷作为一名准变性人与医院之间的法律纠纷。高婷婷希望能完成自己的“女人梦”，接受变性手术，却因医院未能履行承诺而发起诉讼。在庭审中，双方观点对立，医院认为高婷婷的手续不合法，而高婷婷则认为医院的要求不合理。文章中详细描述了高婷婷在经历了鼻子整形和激光脱须手术后，医院突然不再愿意为他进行变性手术的经过。同时，法律对于变性手术的规定仍然没有明确，导致高婷婷的诉讼请求最终被法院驳回。高婷婷面临的复杂的法律和家庭问题也在文中得以体现，显示出变性人所面临的巨大的社会和法律压力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@ _0_条评论
 |-----------------|----------------------------------------|
 | Filename        | www_高婷婷难圆女人梦准变性人告医院败诉_-_中国法院网.md                             |
 | Size            | 4595 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.chinacourt.org/article/detail/2004/09/id/133375.shtml](https://www.chinacourt.org/article/detail/2004/09/id/133375.shtml)                       |
+| Author          | 宗一多 张波                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-09-22                                 |
+| Tags            | 变性手术, 法律纠纷, 医院责任, 高婷婷, 社会环境, 医学伦理, 性别认同, 家庭认可, 变性人权利, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

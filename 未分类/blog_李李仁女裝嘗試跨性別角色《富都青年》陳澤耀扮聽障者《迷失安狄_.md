@@ -56,8 +56,8 @@ Andy 在勇敢以女裝扮相生活後改名為 Evon。蘇荷曾經告訴 Evon�
 |-----------------|----------------------------------------|
 | Filename        | blog_李李仁女裝嘗試跨性別角色《富都青年》陳澤耀扮聽障者《迷失安狄_.md                             |
 | Size            | 5250 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.myvideo.net.tw/arstinchen-miss-andy/](https://blog.myvideo.net.tw/arstinchen-miss-andy/)                       |
 | Author          | MyVideo 影音編輯室                               |
 | Region          | 马来西亚                               |
 | Date            | 2021-10-14                                 |

@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | books_人妖新娘-_夙雲_-_Google_Books.md                             |
 | Size            | 1489 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://books.google.com/books/about/%E4%BA%BA%E5%A6%96%E6%96%B0%E5%A8%98.html?id=FhCZMwEACAAJ](https://books.google.com/books/about/%E4%BA%BA%E5%A6%96%E6%96%B0%E5%A8%98.html?id=FhCZMwEACAAJ)                       |
 | Author          | 夙云                               |
 | Region          | 未知                               |
 | Date            | 1997-01-01                                 |

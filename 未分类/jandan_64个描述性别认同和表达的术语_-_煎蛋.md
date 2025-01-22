@@ -123,8 +123,8 @@
 |-----------------|----------------------------------------|
 | Filename        | jandan_64个描述性别认同和表达的术语_-_煎蛋.md                             |
 | Size            | 6125 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://jandan.net/p/108317](http://jandan.net/p/108317)                       |
 | Author          | 骡子                               |
 | Region          | 未知                               |
 | Date            | 2021-01-10                                 |

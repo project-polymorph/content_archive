@@ -90,8 +90,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_托马斯·比提_-_搜狗百科.md                             |
 | Size            | 3188 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v157214889.htm](https://baike.sogou.com/v157214889.htm)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

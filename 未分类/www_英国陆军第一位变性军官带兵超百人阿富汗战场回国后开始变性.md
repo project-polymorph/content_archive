@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了汉纳·温特伯尔尼（Hannah Winterbourne），她是英国陆军历史上第一位变性军官。在阿富汗服役期间，温特伯尔尼面临性别认同的困惑，最终决定开始变性之路。她于2013年回国后接受了变性手术，随后进入皇家陆军工兵部队服役，带领超过100名士兵。文章详细回顾了她的成长经历、对性别的认识变化，以及变性后在军队中如何被接受的过程。温特伯尔尼分享了她在军队中遇到的挑战与支持，尤其是来自军方和父母的理解，强调了变性人也能在军中有效工作，无论性别如何。她还提到英国军方对于性少数群体的友好政策，展现出积极的社会态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_英国陆军第一位变性军官带兵超百人阿富汗战场回国后开始变性.md                             |
 | Size            | 3071 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.takefoto.cn/viewnews-290037.html](http://www.takefoto.cn/viewnews-290037.html)                       |
+| Author          | TF007                               |
+| Region          | 未知                               |
+| Date            | 2015-01-21                                 |
+| Tags            | 多元性别, 变性人, 英国军队, 性别认同, 汉纳·温特伯尔尼, 阿富汗, 军旅生涯, 生命故事, 社会接受, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

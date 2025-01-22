@@ -35,8 +35,8 @@ _2015-09-24 08:27:09 来源：[新华网](http://news.xinhuanet.com/legal/2015
 |-----------------|----------------------------------------|
 | Filename        | sichuan_成都一整形机构实习医生为少年摘除睾丸变性被批捕_-_四川新闻.md                             |
 | Size            | 2649 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sichuan.scol.com.cn/sczh/201509/54016455.html](https://sichuan.scol.com.cn/sczh/201509/54016455.html)                       |
 | Author          | 新华网                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-09-23                                 |

@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细报道了美国总统拜登上任后推翻特朗普政府的禁令，允许跨性别者在美军服役的政策变化。奉行包容性政策的拜登签署了行政令，以确保所有符合资格的美国人都可参军，消除性别认同因素所造成的歧视。文章回顾了特朗普政府的禁令背景及其对跨性别军人的影响，并说明了奥巴马政府于2016年开放跨性别者参军的重要里程碑。拜登对此政策的表态强调，尊重和包容性是促进军队及国家强大的优势，而这一变革也被视为美国社会对LGBTQ+群体权利进一步保障的一种努力。此外，文章提到拜登提名雷切尔·莱文为卫生与公众服务部助理部长，标志着政府内阁中第一位公开的跨性别官员。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_特朗普禁止变性人参军，作废-观察者网.md                             |
 | Size            | 5122 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/internation/2021_01_26_579298.shtml](https://www.guancha.cn/internation/2021_01_26_579298.shtml)                       |
+| Author          | 观察者网 王恺雯                               |
+| Region          | 美国                               |
+| Date            | 2021-01-26                                 |
+| Tags            | 跨性别者, 美国军队, 拜登政府, 特朗普政府, LGBTQ+权利, 性别认同, 包容性政策, 社会变革, 政策影响, 跨性别历史                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

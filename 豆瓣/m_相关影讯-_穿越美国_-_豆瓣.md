@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_相关影讯-_穿越美国_-_豆瓣.md                             |
 | Size            | 3845 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/5670120/](https://m.douban.com/movie/review/5670120/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2005-12-23                                 |

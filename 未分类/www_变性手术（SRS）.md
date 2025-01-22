@@ -145,7 +145,7 @@ GPS: N13.78914, E100.56303
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了变性手术（性别重置手术，SRS）的概念、过程以及相关的医疗信息。首先，文件定义了变性手术为通过外科手术改变外观上的性别特征，并强调了生殖外科性再分配手术及非生殖外科性再分配手术的区别。文件进一步讨论了手术适应人群，以及较早进行手术的心理和身体优势。此外，文件详细描述了不同的外科技术，包括阴茎翻转术、阴囊移植技术和S字形大肠技术等手术方法及其适用情况，手术程序、预期结果以及术后恢复的相关信息。同时，文件也探讨了变性者在手术后的心理感受，包括满意度和心理适应问题。最后，文件列出了提供类似手术服务的医疗机构及其相关价格信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -156,12 +156,12 @@ GPS: N13.78914, E100.56303
 |-----------------|----------------------------------------|
 | Filename        | www_变性手术（SRS）.md                             |
 | Size            | 12389 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bangkokplasticsurgery.com/?page_id=865&lang=zh-hans](https://www.bangkokplasticsurgery.com/?page_id=865&lang=zh-hans)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别重置, 医疗资源, 外科手术, 激素疗法, 心理适应, 生殖外科, 非生殖外科, 手术技术, 医生建议                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

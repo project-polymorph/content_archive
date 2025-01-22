@@ -94,8 +94,8 @@
 |-----------------|----------------------------------------|
 | Filename        | dushi_安省男子用Snapchat引诱未成年少女提供大麻后车内性侵女子.md                             |
 | Size            | 6427 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E6%96%B0%E9%97%BB/%E5%AE%89%E7%9C%81%E7%94%B7%E5%AD%90%E7%94%A8snapchat%E5%BC%95%E8%AF%B1%E6%9C%AA%E6%88%90%E5%B9%B4%E5%B0%91%E5%A5%B3-%E6%8F%90%E4%BE%9B%E5%A4%A7%E9%BA%BB%E5%90%8E%E8%BD%A6%E5%86%85%E6%80%A7%E4%BE%B5/](https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8D%B3%E6%97%B6%E6%96%B0%E9%97%BB/%E5%AE%89%E7%9C%81%E7%94%B7%E5%AD%90%E7%94%A8snapchat%E5%BC%95%E8%AF%B1%E6%9C%AA%E6%88%90%E5%B9%B4%E5%B0%91%E5%A5%B3-%E6%8F%90%E4%BE%9B%E5%A4%A7%E9%BA%BB%E5%90%8E%E8%BD%A6%E5%86%85%E6%80%A7%E4%BE%B5/)                       |
 | Author          | 星岛加拿大都市网                               |
 | Region          | 安省                               |
 | Date            | 2024-11-01                                 |

@@ -126,8 +126,8 @@
 |-----------------|----------------------------------------|
 | Filename        | defendinged_性别意识形态101.md                             |
 | Size            | 13816 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://defendinged.org/resources/%E6%80%A7%E5%88%AB%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81101/](https://defendinged.org/resources/%E6%80%A7%E5%88%AB%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81101/)                       |
 | Author          | Parents Defending Education                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

@@ -74,7 +74,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件围绕女性跨男性（FTM）的性别肯定手术展开。内容详细介绍了多种性别肯定手术，包括胸部重建、子宫切除术、生殖器手术、面部男性化等，给出手术形式、目的、过程及结果的描述和相关医学参考。特别提到胸部重建手术被视为跨性别男性性别过渡的重要组成部分，能够有效改善性别不一致的相关症状。文件中强调，性别肯定手术旨在通过改变解剖特征来帮助跨性别男性实现与性别认同一致的身体形象，且术后满意度普遍较高。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,12 +85,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_性别肯定手术_女跨男_.md                             |
 | Size            | 14334 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-hans/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_(%E5%A5%B3%E8%B7%A8%E7%94%B7)](https://zh.wikipedia.org/zh-hans/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%89%8B%E6%9C%AF_(%E5%A5%B3%E8%B7%A8%E7%94%B7))                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别肯定手术, 女跨男, 跨性别男性, 胸部重建, 子宫切除术, 阴茎成形术, 阴蒂释放术, 面部男性化, 激素治疗, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

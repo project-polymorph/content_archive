@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | radfemtw_性別不是一道光譜／Rebecca_Reilly-Cooper_-_基進女性之聲.md                             |
 | Size            | 789 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://radfemtw.wordpress.com/2017/07/10/%E6%80%A7%E5%88%A5%E4%B8%8D%E6%98%AF%E4%B8%80%E9%81%93%E5%85%89%E8%AD%9C%E3%80%80%EF%BC%8Frebecca-reilly-cooper/](https://radfemtw.wordpress.com/2017/07/10/%E6%80%A7%E5%88%A5%E4%B8%8D%E6%98%AF%E4%B8%80%E9%81%93%E5%85%89%E8%AD%9C%E3%80%80%EF%BC%8Frebecca-reilly-cooper/)                       |
 | Author          | Rebecca Reilly-Cooper                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

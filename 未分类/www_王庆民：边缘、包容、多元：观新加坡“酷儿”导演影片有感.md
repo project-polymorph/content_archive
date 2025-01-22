@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为王庆民撰写，对新加坡跨性别女性导演黄倩仪的影片《一些女人》进行了一番深刻的反思与评论。影片揭示了当代酷儿群体在新加坡的生活状态与挑战，讲述了导演从隐藏身份到大胆“出柜”的个人故事。王庆民在观看影片后感触颇深，虽然他并非酷儿，但对黄倩仪及其同伴所经历的边缘化与痛苦深表同情。文章分析了在过去的几十年里，社会对性别认同与性取向的偏见如何影响LGBTQ群体的生命轨迹，并强调了包容性的重要性。王庆民提及，诸如黄倩仪的作品是对社会值得反思的镜子，通过这一镜子，社会可以更好地理解边缘群体的声音与需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_王庆民：边缘、包容、多元：观新加坡“酷儿”导演影片有感.md                             |
 | Size            | 3971 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.zaobao.com.sg/forum/views/story20240622-3958939](https://www.zaobao.com.sg/forum/views/story20240622-3958939)                       |
+| Author          | 王庆民                               |
+| Region          | 新加坡                               |
+| Date            | 2024-06-21                                 |
+| Tags            | 酷儿电影, LGBTQ, 跨性别, 性别认同, 社会边缘, 包容性, 黄倩仪, 电影评论, 生命故事, 社会文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

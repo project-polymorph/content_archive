@@ -125,8 +125,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_【资料】_艾晓明：从性别视角出发-_小组讨论_-_豆瓣.md                             |
 | Size            | 24916 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/56459154/](https://m.douban.com/group/topic/56459154/)                       |
 | Author          | 艾晓明                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-07-21                                 |

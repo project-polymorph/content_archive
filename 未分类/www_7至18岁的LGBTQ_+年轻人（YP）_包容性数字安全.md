@@ -535,7 +535,7 @@ LGBTQ指南
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了7至18岁LGBTQ +年轻人的包容性数字安全，探讨了在互联网环境中与他们的自我形象、在线声誉、在线欺凌、健康生活方式和隐私安全等方面的潜在危害。内容强调了对LGBTQ +年轻人来说，建立一个安全的线上和线下空间至关重要，以便他们能够自由表达性取向、性别认同，并能在危机情况下获得必要的支持和资源。文件通过列举可能的危害，如在网上意外透露性别身份和个人信息，强调了对年轻人在线隐私和安全的关注。同时，提供了多项建议，鼓励年轻人安全地管理他们的在线交流，并优先建立可信的社交空间。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -546,12 +546,12 @@ LGBTQ指南
 |-----------------|----------------------------------------|
 | Filename        | www_7至18岁的LGBTQ_+年轻人（YP）_包容性数字安全.md                             |
 | Size            | 55883 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.internetmatters.org/zh-CN/inclusive-digital-safety/advice-for-professionals/online-harms-index/lgbtq-children-and-young-people/](https://www.internetmatters.org/zh-CN/inclusive-digital-safety/advice-for-professionals/online-harms-index/lgbtq-children-and-young-people/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ+, 年轻人, 数字安全, 自我形象, 在线欺凌, 隐私保护, 性别认同, 性取向, 在线社交, 社区支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -132,8 +132,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_讨论研究｜我是跨性别，有些人虽然“友跨”，但是我觉得很不舒服_-_豆瓣.md                             |
 | Size            | 15458 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/283773211/](https://m.douban.com/group/topic/283773211/)                       |
 | Author          | 队长是我别开枪                               |
 | Region          | 上海，中国                               |
 | Date            | 2023-02-22                                 |

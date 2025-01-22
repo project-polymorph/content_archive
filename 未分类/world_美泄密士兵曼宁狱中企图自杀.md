@@ -40,7 +40,7 @@ _分享让更多人看到 _![分享图标](/img/2020wbc/imgs/share.png)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国军方前情报分析师切尔西·曼宁在监狱中企图自杀的事件。曼宁因泄漏敏感文件而被判刑，并在监狱中度过了多年的生活。她在2017年被特赦，然而在2019年因拒绝在大陪审团前作证而再次入狱。事件发生在2020年3月13日，曼宁的律师团队在事件发生后发表声明，称她在监狱时试图自杀，目前正在医院接受治疗。文中提到曼宁的背景，她原名布拉德利·曼宁，于服刑期间接受了变性手术，并改名为切尔西。文章详细描述了曼宁的法律事件以及她在监狱中的生活状况，对于多元性别群体在法律及社交环境中的处境做出了探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@ _分享让更多人看到 _![分享图标](/img/2020wbc/imgs/share.png)
 |-----------------|----------------------------------------|
 | Filename        | world_美泄密士兵曼宁狱中企图自杀.md                             |
 | Size            | 2550 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n1/2020/0313/c1002-31630013.html](http://world.people.com.cn/n1/2020/0313/c1002-31630013.html)                       |
+| Author          | 新华社                               |
+| Region          | 美国                               |
+| Date            | 2020-03-13                                 |
+| Tags            | 多元性别, 切尔西·曼宁, 自杀, 心理健康, 监狱生活, 法律, 变性, 维基揭秘, 人权, 社会支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

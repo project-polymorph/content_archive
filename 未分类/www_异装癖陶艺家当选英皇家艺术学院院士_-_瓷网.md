@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了50岁的英国陶艺家格雷森·佩里当选为英国皇家艺术学院院士的事件及其背景，这是一个突破性的人物在艺术领域的成就。佩里以其充满性、暴力、犯罪等主题的陶瓷作品而闻名，并且具有异装癖的身份。他的作品不仅在艺术市场受到欢迎，还蕴含了与自己童年经历和社会问题的深刻联系。佩里在采访中探讨了他的创作灵感，以及家庭对他异装癖的接受态度，展现了他对于性别表现和艺术表达的独特视角。文章详细描述了佩里的生平、成就和他对自我身份的探索，突显了个体在社会文化中的复杂性和挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_异装癖陶艺家当选英皇家艺术学院院士_-_瓷网.md                             |
 | Size            | 7900 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.zhongguociwang.com/show.aspx?id=3676&cid=127](http://www.zhongguociwang.com/show.aspx?id=3676&cid=127)                       |
+| Author          | 金叶 陈晨                               |
+| Region          | 未知                               |
+| Date            | 2011-04-10                                 |
+| Tags            | 多元性别, 异装癖, 陶艺, 艺术家, 英国皇家艺术学院, 生平故事, 性别身份, 社会批判, 创作表达, 个体经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

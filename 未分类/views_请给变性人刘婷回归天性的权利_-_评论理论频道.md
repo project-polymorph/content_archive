@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了刘霆（后名刘婷）的变性经历，对其身份转变与社会反应进行了深入分析。刘霆于2015年4月正式以女性身份出现，并强调自己是“还性”，即回归本来的自我。文章指出，变性在社会中依然面临文化上的挑战，许多人对此持有非议，因其与社会对性别的认同和规范存在矛盾。通过对刘婷成长背景的回顾，文中揭示了她在经历性别认同困惑中的爸爸和妈妈的态度，统计了形成性别认同的多种生物学因素，包括性染色体、性腺的功能和内分泌等。文章还引入了梦露的案例，说明性别的生物学基础可能与社会认同存在差异，强调应尊重每个人选择自身性别的权利，并对性别的定义进行更为科学的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | views_请给变性人刘婷回归天性的权利_-_评论理论频道.md                             |
 | Size            | 7480 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://views.ce.cn/view/ent/201504/21/t20150421_5167267.shtml](http://views.ce.cn/view/ent/201504/21/t20150421_5167267.shtml)                       |
+| Author          | 张田勘                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-04-21                                 |
+| Tags            | 变性经历, 性别认同, 社会文化, 法律政策, 医疗资源, 生物学因素, 心理行为性别, 媒体报道, 性别研究, 刘婷                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

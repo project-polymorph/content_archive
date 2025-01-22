@@ -72,8 +72,8 @@ GB/T 7714
 |-----------------|----------------------------------------|
 | Filename        | ccj_PCR扩增SRY基因诊断21羟化酶缺乏女性假两性畸形的探讨.md                             |
 | Size            | 2482 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://ccj.pku.edu.cn/article/info?aid=289465090](http://ccj.pku.edu.cn/article/info?aid=289465090)                       |
 | Author          | 魏星, 张立群, 王家锦, 赵亚妹, 王妍, 穆莹                               |
 | Region          | 中国大陆                               |
 | Date            | 1994-01-01                                 |

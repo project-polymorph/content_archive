@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_只是我自己的思考-_丹麦女孩_-_豆瓣.md                             |
 | Size            | 2280 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/10292566/](https://m.douban.com/movie/review/10292566/)                       |
 | Author          | 请你坚持活下去                               |
 | Region          | 未知                               |
 | Date            | 2016-01-01                                 |

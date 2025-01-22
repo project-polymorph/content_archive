@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在70多个国家对同性关系的刑事定罪情况，指出这种做法使数百万人面临被逮捕、起诉和监禁的危险，甚至在一些国家可能面临死刑。文章引用了联合国人权事务委员会在1994年关于‘Toonen诉澳大利亚’案的裁决，并阐述了这些法律如何侵犯隐私权和不受歧视权利，违背国际人权法的义务。同时，文章还探讨了这些刑事定罪的后果，包括对公共健康的影响，以及它们如何使社会的偏见合法化，导致仇恨犯罪和对跨性别者的歧视。最后，文中提出了各国政府和个人如何为废除这些法律和保护人权而采取行动的建议.
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_刑事定罪-_Tipificación_penal_-_UN_Free_&_Equal.md                             |
 | Size            | 5257 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.unfe.org/zh/es/know-the-facts/challenges-solutions/criminalization](https://www.unfe.org/zh/es/know-the-facts/challenges-solutions/criminalization)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 同性关系, 刑事定罪, 人权, 隐私权, 不受歧视权利, 国际法, 艾滋病毒, 健康影响, 跨性别者, 法律改革                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一则关于男子因“异装癖”而夜盗女装的新闻事件。此事件体现了社会对跨性别者和性别表达非传统者的认知及接受度。视频由咪咕官方频道发布，观看次数超过1000，显示出公众对该事件的关注。文件中提到，男子因个人性心理原因对女性服装产生兴趣，但为了满足这种兴趣而选择非法手段，反映了社会对多元性别人士的偏见与误解。可能引发观众对性别认同、法律与社会道德的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男子因患“异装癖”，夜盗数件女装_-_YouTube.md                             |
 | Size            | 1908 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=Fbh9ZcZgjfw](https://www.youtube.com/watch?v=Fbh9ZcZgjfw)                       |
+| Author          | 咪咕官方频道                               |
+| Region          | 未知                               |
+| Date            | 2017-12-30                                 |
+| Tags            | 异装癖, 性别认同, 夜盗, 社会偏见, 跨性别, 法律与道德, 性别表达, 心理健康, 多元性别, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

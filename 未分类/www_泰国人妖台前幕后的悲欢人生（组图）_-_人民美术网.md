@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《泰国人妖台前幕后的悲欢人生（组图）》，由环球网于2013年发布，详细探讨了泰国人妖文化的多元性与复杂性。文章通过图文并茂的方式，展示了生活在这种身份下个体的悲欢离合，揭示了背后不为人知的故事与心路历程。这篇文章不仅涉及了个人的故事，还从文化和社会的角度分析了人妖这一身份在泰国社会中的地位和影响。文章配有多幅摄影作品，提供了生动的视觉体验，同时文字部分也从多角度反映了人妖文化的多样性与深度。它探讨了人妖人士所面临的挑战、家庭反应、社会认同以及个人梦想与现实间的碰撞。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖台前幕后的悲欢人生（组图）_-_人民美术网.md                             |
 | Size            | 3895 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.peopleart.tv/35860.shtml](http://www.peopleart.tv/35860.shtml)                       |
+| Author          | rd                               |
+| Region          | 泰国                               |
+| Date            | 2013-12-03                                 |
+| Tags            | 泰国人妖, 文化, 艺术, 人生, 悲欢, 多元性别, 生活故事, 社会文化, 人妖身份, 心理历程                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

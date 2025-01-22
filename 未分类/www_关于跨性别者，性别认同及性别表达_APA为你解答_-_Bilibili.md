@@ -215,7 +215,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《关于跨性别者，性别认同及性别表达 | APA为你解答》，由作者LaterLife_往后余生于2023年2月16日编辑，属于心理学科普文集的一部分。本文详细探讨了跨性别者的定义及其特点，解释了性与性别的区别，以及性别认同与性倾向之间的关系。文中描述跨性别者的不同类别，如跨性别男性、跨性别女性、变装皇后、变装国王及性别酷儿等，并讨论了跨性别者的数量如何无法准确估计。文件还针对家长如何应对孩子出现的性别表达不一致问题提供了建议，并解释了性别转换的过程与挑战。特别指出，虽然跨性别者可能会经历社会歧视和心理困扰，但其性别认同并非一种精神障碍。最后，文件引用了相关数据与统计，指出跨性别者面临的歧视情况，强调需要社会的理解与支持以改善这一状况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -226,12 +226,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_关于跨性别者，性别认同及性别表达_APA为你解答_-_Bilibili.md                             |
 | Size            | 19794 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/read/cv21853876/](https://www.bilibili.com/read/cv21853876/)                       |
+| Author          | LaterLife_往后余生                               |
+| Region          | 未知                               |
+| Date            | 2023-02-16                                 |
+| Tags            | 跨性别者, 性别认同, 性别表达, 心理学, 社会歧视, 医治资源, 性倾向, 性别酷儿, 变装文化, 亲子关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

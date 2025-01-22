@@ -148,8 +148,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_田野调查手记｜去泰国参加跨性别大会，“人妖”多被家庭接受.md                             |
 | Size            | 18140 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.thepaper.cn/newsDetail_forward_2095342](https://m.thepaper.cn/newsDetail_forward_2095342)                       |
 | Author          | 未知                               |
 | Region          | 巴基斯坦，泰国                               |
 | Date            | 2017-09-01                                 |

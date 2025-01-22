@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档来自维基百科，主要介绍了“变装皇后”的定义、历史和文化背景。变装皇后，指的是以男性身份穿着女性服装并进行表演的个人，这种表演通常被视为一种独特的艺术表达形式。文章中提到变装皇后的表演不单纯是性别角色的模仿，而往往是对女性美的一种展示。在讨论变装皇后的概念时，文中强调与变性者（转性者）的区别，并指出“变装皇后”一词的历史含义及其在同性恋文化中的不同社会接受度。同时，文章还探讨了“皇后”一词在不同文化背景下的褒贬色彩，其使用背景和语境对该词意义的发展也进行了描述。文中呼吁读者为该条目添加更多可靠来源以增强内容的可信度和丰富性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_变装皇后-_维基百科，自由的百科全书.md                             |
 | Size            | 5035 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-hans/%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E](https://zh.wikipedia.org/zh-hans/%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-07-10                                 |
+| Tags            | 变装皇后, 多元性别, 跨性别文化, 表演艺术, 性别角色, 文化研究, 女权主义, 性别认同, 历史背景, 社会语言学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -136,8 +136,8 @@
 |-----------------|----------------------------------------|
 | Filename        | epaper_各國改善性別平等有哪些策略？_-_國家教育研究院電子報.md                             |
 | Size            | 14206 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://epaper.naer.edu.tw/edm.php?eg_name=%E5%9C%8B%E9%9A%9B%E8%84%88%E5%8B%95&edm_no=208&content_no=3636](https://epaper.naer.edu.tw/edm.php?eg_name=%E5%9C%8B%E9%9A%9B%E8%84%88%E5%8B%95&edm_no=208&content_no=3636)                       |
 | Author          | 林信志                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

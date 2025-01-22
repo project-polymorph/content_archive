@@ -53,8 +53,8 @@ Copyright ©1999-2025 chinanews.com. All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_四川泸州监察局介入调查官员公款看人妖事件_-_中国新闻网.md                             |
 | Size            | 2770 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.chinanews.com.cn/gn/news/2009/08-14/1818055.shtml](https://www.chinanews.com.cn/gn/news/2009/08-14/1818055.shtml)                       |
 | Author          | 四川在线                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-08-14                                 |

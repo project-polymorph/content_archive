@@ -153,8 +153,8 @@ futa是女性有了男性的第一性征
 |-----------------|----------------------------------------|
 | Filename        | bgm_什么是正太？什么是男娘？_-_Bangumi_番组计划.md                             |
 | Size            | 4770 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bgm.tv/subject/topic/30961](https://bgm.tv/subject/topic/30961)                       |
 | Author          | 景曜东隅☀                               |
 | Region          | 未知                               |
 | Date            | 2024-07-14                                 |

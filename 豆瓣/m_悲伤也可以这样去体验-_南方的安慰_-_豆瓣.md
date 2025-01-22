@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_悲伤也可以这样去体验-_南方的安慰_-_豆瓣.md                             |
 | Size            | 2013 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/4838000/](https://m.douban.com/movie/review/4838000/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2001-04-27                                 |

@@ -156,7 +156,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了变性人金星的传奇人生，她经历了28年男性身份和26年女性身份的转变，期间结了三次婚。这篇文章不仅探讨了金星的性别认同过程，还详细描述了她的情感经历，尤其是对男班长的爱慕及与牛仔可雷的爱情故事。金星从小就感受到自己的性别与生理性别不符，经历了舞蹈与艺术的职业发展，最终坚定了变性并享受生活的选择。文章通过金星的故事，展示了她在社会和性别认同上的挑战与奋斗，以及她如何在情感中找到自己的位置。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -167,12 +167,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“变性人”金星的双性人生：娶过女人也嫁过男人，28岁成为女人.md                             |
 | Size            | 10209 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.toutiao.com/article/7087873258648977923/](https://www.toutiao.com/article/7087873258648977923/)                       |
+| Author          | 北极熊小小                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-04-18                                 |
+| Tags            | 变性人, 性别认同, 金星, 情感经历, 婚姻故事, 生命故事, 过渡经历, 舞蹈, 女性身份, 情感关系, 双性人生, 社会挑战                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

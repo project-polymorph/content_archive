@@ -42,7 +42,7 @@ PN058
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一个涉及未成年变性手术的法律事件。在2015年9月，成都的实习医生田某被逮捕，原因是他在没有医师执业证书的情况下，为一名15岁少年小楠进行了睾丸摘除手术，导致小楠受到了二级重伤。小楠一直以来希望能成为女性，并长期服用抑制雄性激素的药物。这一事件引发了公众对变性手术法律法规的关注及对未成年人权益的保护讨论。根据卫生部的相关规定，进行变性手术的患者年龄必须大于20岁，并且需要经过严格的心理、精神评估。该事件反映出医疗行业中存在的伦理和法律问题，以及对未成年人变性需求的敏感性和复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@ PN058
 |-----------------|----------------------------------------|
 | Filename        | news_成都：实习医生为15岁少年摘除睾丸变性被批捕.md                             |
 | Size            | 3808 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.ifeng.com/a/20150923/44719912_0.shtml](https://news.ifeng.com/a/20150923/44719912_0.shtml)                       |
+| Author          | 新华网                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-09-23                                 |
+| Tags            | 变性手术, 未成年人, 法律事件, 医疗伦理, 心理健康, 性别认同, 媒体报道, 成都新闻, 性别多元, 社会问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

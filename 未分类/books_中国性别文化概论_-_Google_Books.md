@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | books_中国性别文化概论_-_Google_Books.md                             |
 | Size            | 1395 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://books.google.com/books/about/%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%88%AB%E6%96%87%E5%8C%96%E6%A6%82%E8%AE%BA.html?id=z40TswEACAAJ](https://books.google.com/books/about/%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%88%AB%E6%96%87%E5%8C%96%E6%A6%82%E8%AE%BA.html?id=z40TswEACAAJ)                       |
 | Author          | 吕红平, 丁娟, 包芳 (编辑)                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-01-01                                 |

@@ -6,7 +6,7 @@
 **时间:** 2023-01-02 01:11:06  
 **作者:** 刘强 副主任医师　上海市精神卫生中心  
 
-![](//u1.120askimages.com/6/7/1/94807176)
+![](https://u1.120askimages.com/6/7/1/94807176)
 
 易性癖的鉴别存在不同的理解，在一些反串演员的表演日见增多，现在社会对易性癖的误解有所增加，那么易性癖的症状是什么呢
 
@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_易性癖的症状_疾病_-_快速问医生.md                             |
 | Size            | 1501 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.120ask.com/jibing/xingbiantai/123217.html](http://m.120ask.com/jibing/xingbiantai/123217.html)                       |
 | Author          | 刘强 副主任医师                               |
 | Region          | 上海市                               |
 | Date            | 2023-01-02                                 |

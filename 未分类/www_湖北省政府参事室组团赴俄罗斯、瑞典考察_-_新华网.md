@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于湖北省政府参事室一行人于2012年10月赴俄罗斯和瑞典考察的详细记录。考察团的团长是徐德文，代表团由六人组成，考察时间为10月19日至27日。考察的目的是了解两国地方政府的决策程序和政府咨询机构的运作，讨论地方经济发展状况。期间，他们访问了多座市政府，参加了与政府官员的交流和座谈，重点探讨了决策民主化和科学化的问题。此外，考察团还强化了对非政府组织在社会管理中的作用的重视，并倡导绿色经济发展模式。通过此次考察，代表团不仅增进了对两国政府运作的理解，也推动了湖北省与这些城市的潜在合作。文件中此外还包含了一些相关的延展阅读链接。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_湖北省政府参事室组团赴俄罗斯、瑞典考察_-_新华网.md                             |
 | Size            | 4834 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/politics/2012-11/22/c_123985702.htm](http://www.xinhuanet.com/politics/2012-11/22/c_123985702.htm)                       |
+| Author          | 湖北省政府参事室                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-11-22                                 |
+| Tags            | 湖北省政府, 俄罗斯考察, 瑞典考察, 地方政府, 政府管理, 经济发展, 决策程序, 社会组织, 绿色经济, 国际交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

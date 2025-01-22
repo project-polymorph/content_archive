@@ -59,7 +59,7 @@ Soft White Underbelly interview and portrait of Shape Shifter, a detransitioning
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一次针对一名名为Shape Shifter的跨性别女性的采访，采访通过视频的形式展现了她的生活故事和变性过程。视频时长为28分17秒，发布于2023年3月24日，内容结合了她在波士顿的生活经历，探讨了跨性别女性在生活中面临的挑战与历史、身份的探讨。访谈涉及到变性女性的自我认识、生活环境与社会对待跨性别群体的态度。同时，该访谈也反映了对跨性别个体的理解和接纳度的变化。文件包含丰富的视觉资料，包括采访者及访谈对象的照片，增强了故事的生动性与真实感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@ Soft White Underbelly interview and portrait of Shape Shifter, a detransitioning
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别女性采访-Shape_Shifter_哔哩哔哩_-_Bilibili.md                             |
 | Size            | 1379 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1J24y177gj/](https://www.bilibili.com/video/BV1J24y177gj/)                       |
+| Author          | 访谈人间                               |
+| Region          | 美国                               |
+| Date            | 2023-03-24                                 |
+| Tags            | 跨性别, 采访, 生活故事, 社会环境, 变性经历, 性别认同, 美国, 纪录片, 心理, 社会学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

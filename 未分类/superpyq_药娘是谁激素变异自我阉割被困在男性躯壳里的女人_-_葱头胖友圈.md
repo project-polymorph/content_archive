@@ -106,8 +106,8 @@
 |-----------------|----------------------------------------|
 | Filename        | superpyq_药娘是谁激素变异自我阉割被困在男性躯壳里的女人_-_葱头胖友圈.md                             |
 | Size            | 12263 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://superpyq.com/article/5ff8674bc37be814918a901a](https://superpyq.com/article/5ff8674bc37be814918a901a)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-01-08                                 |

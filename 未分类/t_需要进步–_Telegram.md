@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | t_需要进步–_Telegram.md                             |
 | Size            | 5617 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://t.me/s/Carrots_Control_Field?before=2291](https://t.me/s/Carrots_Control_Field?before=2291)                       |
 | Author          | 沙奈朵 （大根茎形态）                               |
 | Region          | 未知                               |
 | Date            | 2022-06-07                                 |

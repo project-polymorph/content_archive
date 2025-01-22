@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wendy_Carlos_HS_Project.jpeg/300px-Wendy_Carlos_HS_Project.jpeg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wendy_Carlos_HS_Project.jpeg/300px-Wendy_Carlos_HS_Project.jpeg)
 Wendy Carlos 1958.
 
 **温迪·卡洛斯**（英语：Wendy Carlos，1939年11月14日—），旧名**沃尔特·卡洛斯**（英语：Walter Carlos），是一名美国音乐家、作曲家，以其电子音乐作品著名于世。她是一名跨性别女性，出生于[美国](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD "美国")[罗德岛州](https://zh.wikipedia.org/wiki/%E7%BD%97%E5%BE%B7%E5%B2%9B%E5%B7%9E "罗德岛州")[波塔基特市](https://w.index.php?title=%E6%B3%A2%E5%A1%94%E5%9F%BA%E7%89%B9%E5%B8%82&action=edit&redlink=1 "波塔基特市（页面不存在）")。就读于[布朗大学](https://zh.wikipedia.org/wiki/%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6 "布朗大学")，她的研究方向在[音乐](https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90 "音乐")与[物理](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86 "物理")交叉学科。她获[哥伦比亚大学](https://zh.wikipedia.org/wiki/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%A4%A7%E5%AD%A6 "哥伦比亚大学")音乐作曲方向硕士学位。是世界著名的作曲家、电子音乐先驱及大师级人物，也是电子合成器的主要革新者和推广者之一。主要工作及成就集中于电子音乐创作和电影配乐创作等方面，并在电声技术创新和理论研究方面做出突出贡献。代表作品包括《Switched-on Bach》、《Beauty in the Beast》以及《A Clockwork Orange》、《The Shining》等电影的配乐。同时她在[日食](https://zh.wikipedia.org/wiki/%E6%97%A5%E9%A3%9F "日食")[摄影](https://zh.wikipedia.org/wiki/%E6%91%84%E5%BD%B1 "摄影")、[天文学](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%96%87%E5%AD%A6 "天文学")、视觉艺术、[地图](https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9B%BE "地图")制作等方面也有所涉猎。
@@ -86,7 +86,7 @@ Wendy Carlos 1958.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了温迪·卡洛斯（Wendy Carlos），她是一位美国的电子音乐先驱及跨性别女性艺术家，出生于1939年。卡洛斯以其电子音乐作品而知名，以《Switched-On Bach》为代表作品，影响了电子音乐的发展。她的职业生涯始于布朗大学，后在哥伦比亚大学学习音乐创作，并成为第一位在哥伦比亚-普林斯顿电声中心工作的音乐家。卡洛斯不仅是电子音乐的创新者，还是电影配乐的作曲家。她在个人生活上于1972年成功接受了变性手术。这篇文章详细描述了她的音乐成就、技术创新以及个人背景，揭示了她作为跨性别女性在音乐界的影响和地位。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,12 +97,12 @@ Wendy Carlos 1958.
 |-----------------|----------------------------------------|
 | Filename        | zh_温蒂·卡洛斯-_维基百科，自由的百科全书.md                             |
 | Size            | 15535 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-cn/%E6%B8%A9%E8%92%82%C2%B7%E5%8D%A1%E6%B4%9B%E6%96%AF](https://zh.wikipedia.org/zh-cn/%E6%B8%A9%E8%92%82%C2%B7%E5%8D%A1%E6%B4%9B%E6%96%AF)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 温迪·卡洛斯, 电子音乐, 跨性别艺术家, 音乐先锋, 性别认同, 荷尔蒙治疗, 变性手术, 电影配乐, 穆格合成器, 社会影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

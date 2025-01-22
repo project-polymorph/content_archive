@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_日本伪娘泛滥成灾成当今日本文化新特色_图_.md                             |
 | Size            | 3520 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huanqiu.com/article/9CaKrnJwFDS](https://m.huanqiu.com/article/9CaKrnJwFDS)                       |
 | Author          | 张晓芳                               |
 | Region          | 日本                               |
 | Date            | 2012-08-13                                 |

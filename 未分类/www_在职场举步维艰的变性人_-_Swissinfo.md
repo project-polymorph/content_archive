@@ -118,7 +118,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变性人在职场中面临挑战的报道，强调变性人在工作环境中的艰难处境以及社会对他们的接受程度。文章通过实例探讨了变性人在职场中遭遇的歧视和困难，以及在生活的各个方面如何影响他们的社会适应能力。此外，报道指出了变性人群在社会和职场环境中所需的支持和资源，以确保他们的平等权利和生存质量。此报道不仅通过变性人的亲身经历传达了一个重要的信息，同时也反映了更广泛的社会及文化态度的变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -129,12 +129,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_在职场举步维艰的变性人_-_Swissinfo.md                             |
 | Size            | 6825 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.swissinfo.ch/chi/%E7%94%9F%E6%B4%BB%E5%85%BB%E8%80%81/%E5%8F%98%E6%80%A7%E4%BA%BA_%E5%9C%A8%E8%81%8C%E5%9C%BA%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0%E7%9A%84%E5%8F%98%E6%80%A7%E4%BA%BA/42411996](https://www.swissinfo.ch/chi/%E7%94%9F%E6%B4%BB%E5%85%BB%E8%80%81/%E5%8F%98%E6%80%A7%E4%BA%BA_%E5%9C%A8%E8%81%8C%E5%9C%BA%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0%E7%9A%84%E5%8F%98%E6%80%A7%E4%BA%BA/42411996)                       |
+| Author          | 乔·法希，swissinfo.ch                               |
+| Region          | 瑞士                               |
+| Date            | 2017-01-18                                 |
+| Tags            | 变性人, 职场歧视, 社会接受度, 性别认同, 生命故事, 医疗资源, 法律与政策, 社会环境, 真实记录, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

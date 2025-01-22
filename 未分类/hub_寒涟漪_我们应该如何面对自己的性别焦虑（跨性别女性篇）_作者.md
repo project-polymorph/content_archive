@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hub_寒涟漪_我们应该如何面对自己的性别焦虑（跨性别女性篇）_作者.md                             |
 | Size            | 1257 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hub.mtf.party/@HANLIANYI520/109848988404434950](https://hub.mtf.party/@HANLIANYI520/109848988404434950)                       |
 | Author          | 寒涟漪                               |
 | Region          | 未知                               |
 | Date            | 2023-02-12                                 |

@@ -81,7 +81,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章记录了跨性别者小南的生命故事，详细探讨了他在性别过渡过程中的内心挣扎和成长经历。作者洪滋敏通过采访小南，揭示了其在经历手术背后的情感历程与家庭关系。小南讲述了自己从小到大的性别认知，父母的反对及家庭矛盾，以及他在手术后期待能被社会认同为真正的女性。文章不仅关注小南的个人经历，也反映了社会对跨性别群体的理解与包容的重要性，与此同时，充满了对未来的希望与不安。在小南即将进行下体手术之际，他的故事代表了许多跨性别者寻求身份认同与社会认同的共同心声。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,12 +92,12 @@
 |-----------------|----------------------------------------|
 | Filename        | womany_「我們，就是靈魂找不到家」跨性別者小南的故事_-_女人迷.md                             |
 | Size            | 10442 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://womany.net/read/article/7232](https://womany.net/read/article/7232)                       |
+| Author          | 洪滋敏                               |
+| Region          | 台湾                               |
+| Date            | 2015-04-15                                 |
+| Tags            | 跨性别, 生命故事, 性别认同, 手术经历, 家庭关系, 社会认同, 心理健康, 台湾, 性别多元, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

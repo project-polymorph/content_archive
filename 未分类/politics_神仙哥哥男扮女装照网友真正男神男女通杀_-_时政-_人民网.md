@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | politics_神仙哥哥男扮女装照网友真正男神男女通杀_-_时政-_人民网.md                             |
 | Size            | 5382 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://politics.people.com.cn/n/2014/0116/c70731-24134856.html](http://politics.people.com.cn/n/2014/0116/c70731-24134856.html)                       |
 | Author          | 扬子晚报                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-01-16                                 |

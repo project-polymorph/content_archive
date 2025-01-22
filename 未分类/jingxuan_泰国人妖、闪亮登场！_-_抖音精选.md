@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | jingxuan_泰国人妖、闪亮登场！_-_抖音精选.md                             |
 | Size            | 2036 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://jingxuan.douyin.com/m/video/7411825820156693812](https://jingxuan.douyin.com/m/video/7411825820156693812)                       |
 | Author          | 唐派王涛                               |
 | Region          | 未知                               |
 | Date            | 2024-09-07                                 |

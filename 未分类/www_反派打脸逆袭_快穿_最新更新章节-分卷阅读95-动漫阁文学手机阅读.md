@@ -75,7 +75,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件内容来自一部名为《反派打脸逆袭》的快穿小说，主要讲述了围绕异装癖展开的故事。在学生会议上，支持和反对异装社团的言论激烈碰撞，反映出不同群体对于性别认知和心理健康的分歧。主角常少君在会议上表达了对异装癖的强烈反对，并以自己父亲的经历为背景展现出其内心的矛盾和痛苦。宣传部部长对此提出了反驳，她强调异装癖不是心理疾病，应该给予理解和引导。随着故事的发展，常少君的态度逐渐改变，最终意识到对异装癖的支持与理解的重要性。文本通过对话描绘了多元性别认同与社会偏见的冲突，也展现了角色的自我成长与反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,12 +86,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_反派打脸逆袭_快穿_最新更新章节-分卷阅读95-动漫阁文学手机阅读.md                             |
 | Size            | 7292 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.omexs.com/9/9417/856219.html](https://www.omexs.com/9/9417/856219.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 异装癖, 性别认同, 心理健康, 校园话题, 心理疾病, 社会偏见, 成长故事, 文学创作, 心理引导                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

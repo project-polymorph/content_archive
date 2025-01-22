@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一名25岁的浙江小伙白艳勇敢追求其变性梦想的故事。2004年12月1日，白艳在浙江省人民医院接受了变性手术的第一步，包括隆胸和去声带手术，以实现她期盼已久的女性身份。该文详细描述了手术的过程及医院对变性手术的严格要求，包括病人的精神健康评估和变性愿望的确认。此外，文章还提到，尽管目前只有少数变性人能够修改身份信息，白艳希望能够以真实的自我进入社会。该报道由记者姚琼撰写，并附有多张手术过程的照片，旨在引发公众对变性人现状与权利的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_浙江25岁小伙圆“女人梦”_组图_.md                             |
 | Size            | 3127 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://news.sina.com.cn/o/2004-12-02/14594413622s.shtml](http://news.sina.com.cn/o/2004-12-02/14594413622s.shtml)                       |
+| Author          | 姚琼                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-12-02                                 |
+| Tags            | 变性人, 性别认同, 变性手术, 医疗资源, 生活故事, 浙江, 新闻报道, 社会环境, 人权, 医学伦理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

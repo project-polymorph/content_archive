@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | api_发现8岁的儿子喜欢异装，很喜欢我的衣服，口红高跟鞋也在用.md                             |
 | Size            | 1567 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://api.cqyc.net/wap/thread/view-thread/tid/2112799](http://api.cqyc.net/wap/thread/view-thread/tid/2112799)                       |
 | Author          | 给生活加点糖                               |
 | Region          | 重庆，中国                               |
 | Date            | 2024-10-24                                 |

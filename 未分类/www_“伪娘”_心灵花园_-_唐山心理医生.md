@@ -78,7 +78,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文分析了关于“伪娘”刘著的易性癖，提供了对其性别表现的心理解读。刘著是一名四川音乐学院的学生，以女性化的打扮和表演风格在快乐男声南充分赛区中引发了广泛关注。文章详细探讨了他的过渡经历及其所面临的社会反响，包括对性别认同与表现的挑战，同时也涉及了心理健康和社会压力等背景因素。刘著的案例不仅展现了个人自我认同的勇气，也反映了当代社会对多元性别表现的接受度与偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -89,12 +89,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“伪娘”_心灵花园_-_唐山心理医生.md                             |
 | Size            | 3640 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tspsy.com/tags.php?/%A1%B0%CE%B1%C4%EF%A1%B1/](https://www.tspsy.com/tags.php?/%A1%B0%CE%B1%C4%EF%A1%B1/)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-08-11                                 |
+| Tags            | 伪娘, 性别认同, 心理分析, 性别多元, 刘著, 社会接受度, 心理健康, 过渡经历, 媒体表现, 四川音乐学院                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

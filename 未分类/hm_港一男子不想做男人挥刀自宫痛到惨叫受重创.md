@@ -44,8 +44,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hm_港一男子不想做男人挥刀自宫痛到惨叫受重创.md                             |
 | Size            | 3869 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://hm.people.com.cn/n/2013/0106/c42272-20104224.html](http://hm.people.com.cn/n/2013/0106/c42272-20104224.html)                       |
 | Author          | 人民网-港澳频道                               |
 | Region          | 香港                               |
 | Date            | 2013-01-06                                 |

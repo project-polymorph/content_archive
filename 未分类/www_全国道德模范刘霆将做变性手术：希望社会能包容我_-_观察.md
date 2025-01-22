@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了全国道德模范刘霆即将进行变性手术的故事，揭示了他为了实现内心真实自我而经历的挣扎与痛苦。刘霆从小就认为自己是女孩，但在家庭与社会的压力下，他长期压抑自己的性别认同。随着母亲的病痛加重，他背负着责任以“男性”的身份生活，试图符合外界的期望。然而，内心的痛苦让他决定做出改变，并在母亲的支持下勇敢面对变性手术。文章详细记录了刘霆的变性之路，包括他向社会呼吁理解与包容的心声，以及他对自我认同的坚定追求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -103,12 +103,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_全国道德模范刘霆将做变性手术：希望社会能包容我_-_观察.md                             |
 | Size            | 8053 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/society/2014_08_18_257625.shtml?web](https://www.guancha.cn/society/2014_08_18_257625.shtml?web)                       |
+| Author          | 京华时报记者张淑玲                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-08-14                                 |
+| Tags            | 刘霆, 变性手术, 性别认同, 道德模范, 易性病, 社会包容, 性别政治, 生活故事, 心理健康, 母子关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

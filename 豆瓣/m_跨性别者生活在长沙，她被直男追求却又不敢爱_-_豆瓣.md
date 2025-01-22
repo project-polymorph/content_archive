@@ -92,8 +92,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别者生活在长沙，她被直男追求却又不敢爱_-_豆瓣.md                             |
 | Size            | 10585 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/note/707095018/](https://m.douban.com/note/707095018/)                       |
 | Author          | 下大垅                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-02-16                                 |

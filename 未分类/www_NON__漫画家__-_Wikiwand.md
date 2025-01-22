@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要介绍了日本漫画家玉島Non及其作品，以及非二元性别和跨性别的相关概念。文中指出，非二元性别（Non-binary gender）是处于传统二元性别范畴之外的性别认同，属于更广泛的跨性别（transgender）概念。虽然大多数非二元性别人士的性别认同与指定性别不同，但并非所有人都认同为跨性别者。文件中还详细介绍了玉島Non的成长经历及其对漫画的热爱，同时提到了他创作的漫画《萌男友是柑橘色》，该作品在2016年首次连载并计划改编真人版电影，展示了非二元性别在现代文化中的表现与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_NON__漫画家__-_Wikiwand.md                             |
 | Size            | 1956 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wikiwand.com/zh-tw/articles/NON_(%E6%BC%AB%E7%94%BB%E5%AE%B6)](https://www.wikiwand.com/zh-tw/articles/NON_(%E6%BC%AB%E7%94%BB%E5%AE%B6))                       |
+| Author          | 玉島Non                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 非二元性别, 跨性别, 漫画, 玉島Non, 生平, 人生故事, 日本漫画, 文化表现, 性别认同, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

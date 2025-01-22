@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_组图：外籍游客因拒绝人妖服务被打头破血流.md                             |
 | Size            | 1846 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qingdaonews.com/wap/2015-05/04/content_11041769_all.htm](https://news.qingdaonews.com/wap/2015-05/04/content_11041769_all.htm)                       |
 | Author          | 环球网                               |
 | Region          | 泰国芭提雅                               |
 | Date            | 2015-05-03                                 |

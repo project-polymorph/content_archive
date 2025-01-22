@@ -136,7 +136,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一份收录多种性转小说的列表，涵盖了多个主题和情节设定，这些作品通过性别转变的方式探讨了身分认同、性别角色及人际关系等广泛议题。每个作品配有封面图和作者姓名，附带链接以便进一步阅读。对这些作品的介绍可以看到，作者们运用丰富的想象力和创造力，展现了各式各样的性转体验，例如《变身财阀女千金》通过变身为女子的主角经历了富豪生活的各种挑战与趣事，《不知为何变成女人了》则探讨了性别转换后的内心挣扎和适应。在这些故事中，性别转变不仅是情节推动的工具，也是对自我发现和个人成长的深刻反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -147,12 +147,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性转小说在线免费阅读_-_中文成人小说网.md                             |
 | Size            | 7460 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.aaccnn.com/tag/81](https://www.aaccnn.com/tag/81)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 小说, 性别认同, 个人成长, 身分认同, 人际关系, 文学创作, 网络小说, 情节设定, 女性角色                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

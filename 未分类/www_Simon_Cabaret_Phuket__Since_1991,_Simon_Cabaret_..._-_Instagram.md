@@ -62,7 +62,7 @@ Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档介绍了位于泰国普吉岛的西蒙歌舞表演（Simon Cabaret Phuket），该表演自1991年以来一直是东南亚最具代表性的娱乐体验之一。文中详细描述了演出的华丽和艺术性，强调了西蒙歌舞表演所展现的热情与活力，同时也为观众提供了购票信息，包括演出时间和地点。文档中还附带了一些社交媒体的链接和标签，这些标签涵盖了演出、性别多元化和旅游等主题。在内容中，表现出对多元性别文化的包容与展示，这是一个值得关注的娱乐场所，为多元性别群体提供了平台。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,10 +75,10 @@ Since 1991, Simon Cabaret Phuket has been redefining entertainment. As Southeast
 | Size            | 6861 bytes                           |
 | Archived Date   | [Unknown archived date(update needed)]                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2024-09-06                                 |
+| Tags            | Simon Cabaret, 变性人, 歌舞表演, 泰国, 普吉岛, 夜生活, LGBTQ, 娱乐, 艺术, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

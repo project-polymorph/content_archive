@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_这个女孩叫Lily_-_丹麦女孩-_豆瓣.md                             |
 | Size            | 4757 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/7850313/](https://m.douban.com/movie/review/7850313/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

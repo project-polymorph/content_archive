@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕中国网红艾比（Abbily）展开，探讨其在网络文化中的身份定位，具体分析艾比作为“女装大佬”、“cd”（穿女装者）与“ts”（跨性别者）之间的关系与区别。文章提到艾比的成长背景和性别认知障碍，以及她在社交平台上对性别转变的公开声明，尽管实际上仍未完成变性手术。通过对艾比的描述，文章讨论了公众对这些身份的认知与接受程度，同时指出中国社会对女装大佬的偏见。最后，文章强调需要对多元性别身份的包容，提倡社会理解和支持这些跨性别者的权利和生活方式。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,12 +68,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_网红艾比到底是“女装大佬”还是“cd”，“ts”？_-_暗室.md                             |
 | Size            | 5986 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.anshizm.com/1904.html](https://www.anshizm.com/1904.html)                       |
+| Author          | 暗室                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-10-13                                 |
+| Tags            | 女装大佬, 艾比, 性别认知, 跨性别, 变装, 互联网文化, 社交媒体, 性别流动性, 社会接受度, 身份认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一名30岁的男性亚男成功实施变性手术的过程，详细记录了他的心理历程、手术过程以及术后的感受。亚男自幼有异性癖，渴望成为女性。经过多年的思考与准备，他终于在青岛的一家医院进行了生殖器的重建手术。手术过程全程公开，并得到了主刀医生王希润的指导与支持。亚男在手术前表示对未来生活的憧憬，希望能以女性的身份生活，并与社会更好地融入。文章提到根据新《婚姻法》，变性人可以合法更改身份后办理结婚登记，反映了社会对于变性人权利的逐步认可。整篇报道从手术的专业性和复杂性入手，同时展现了亚男面对人生转变的勇气与决心。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_一刀下去，他变她30岁的亚男昨成功实施变性手术.md                             |
 | Size            | 4033 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.sina.com.cn/o/2003-10-17/1142935167s.shtml](https://news.sina.com.cn/o/2003-10-17/1142935167s.shtml)                       |
+| Author          | 青岛新闻网-青岛早报                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-10-17                                 |
+| Tags            | 变性手术, 亚男, 性别认同, 生殖器重建, 医疗资源, 法律政策, 心理历程, 社会融入, 婚姻法, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

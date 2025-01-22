@@ -60,7 +60,7 @@ cd：是指纯男生，只通过化妆，学习伪音，女装来达到让自己
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了字母圈中的药娘、CD（跨装者）和TS（变性者）之间的区别，详细阐述了这几个概念的定义、特点以及相关的心理和身体影响。内容深入分析了药物对身体的影响，包括女性荷尔蒙药物的使用、潜在副作用及其对生活质量的影响。文章指出，药娘通过药物达到女性化，但身体可能较为虚弱；TS则是通过手术和荷尔蒙治疗来改变自己的性别特征。而CD则是指不改变身体构造，仅通过化妆等手段来扮演女性角色。作者强调，使用荷尔蒙药物需谨慎，服用的方式和剂量应严格遵循专业医生的指导，以避免身体和心理的伤害。文中还提到了一些个人的经验分享和建议，希望能让更多人理解这一小众群体，随着社会的发展，药娘们也能有更好的生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@ cd：是指纯男生，只通过化妆，学习伪音，女装来达到让自己
 |-----------------|----------------------------------------|
 | Filename        | www_字母圈药娘,CD,TS的区别_-_暗室.md                             |
 | Size            | 9739 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.anshism.com/487.html](https://www.anshism.com/487.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-02-24                                 |
+| Tags            | 药娘, CD, TS, 跨性别, 荷尔蒙治疗, 性别认同, 身体转变, 心理健康, 生活经验, 社会理解                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

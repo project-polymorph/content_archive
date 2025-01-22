@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了朱利安·阿桑奇同意被引渡回美国的条件，详细阐述了维基揭秘创始人阿桑奇与美国司法部门之间的复杂关系。文章指出，阿桑奇在2017年1月12日表示，如果美国总统奥巴马赦免因泄露机密文件被判刑的切尔西·曼宁，他将同意被引渡回美国。这是阿桑奇自2012年在厄瓜多尔驻英大使馆避难以来首次表态愿意离开。报道提到，阿桑奇的律师指出美国政府的持续调查缺乏合理法律依据，同时也回顾了曼宁的背景，她在2013年因泄露70多万份文件被判间谍罪，正面临精神危机和法律斗争。最终，文章通过对阿桑奇及曼宁的经历的分析，反映了其在当代公共事务中风险与责任的辩论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_阿桑奇同意被引渡回美国开出什么条件？.md                             |
 | Size            | 2158 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2017-01/14/c_129445609.htm](http://www.xinhuanet.com/world/2017-01/14/c_129445609.htm)                       |
+| Author          | 新华社                               |
+| Region          | 未知                               |
+| Date            | 2017-01-14                                 |
+| Tags            | 阿桑奇, 曼宁, 维基揭秘, 引渡, 美国, 新闻报道, 人权, 法律, 切尔西·曼宁, 奥巴马                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

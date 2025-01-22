@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | reading_《大夢歸離》侯明昊x陳都靈妖神戀拯救世界守護愛_-_琅琅悅讀.md                             |
 | Size            | 7291 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://reading.udn.com/read/story/7046/8325194](https://reading.udn.com/read/story/7046/8325194)                       |
 | Author          | 琅琅悦读                               |
 | Region          | 未知                               |
 | Date            | 2024-10-30                                 |

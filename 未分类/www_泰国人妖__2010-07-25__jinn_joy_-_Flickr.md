@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于泰国人妖的照片及其相关信息的档案。照片由用户 jinn joy 上传于 2010 年 8 月 19 日，但拍摄时间为 2010 年 7 月 25 日。该照片展示了泰国人妖文化的一个侧面，传递出多样性的审美观与性别认同。文件中包含了拍摄设备的详细信息，如光圈、快门速度以及ISO等，显示了摄影师在拍摄这张照片时的专业技能。此外，照片的标签为“泰国人妖”，可以看出该照片的核心主题和内容与多元性别文化紧密相关。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖__2010-07-25__jinn_joy_-_Flickr.md                             |
 | Size            | 1167 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.flickr.com/photos/joyjinn/4906593677/](https://www.flickr.com/photos/joyjinn/4906593677/)                       |
+| Author          | jinn joy                               |
+| Region          | 泰国                               |
+| Date            | 2010-07-25                                 |
+| Tags            | 泰国人妖, 多元性别, 性别认同, 人生故事, 文化表现, 性别多样性, 摄影作品, Flickr, 性别研究, 社会观察                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

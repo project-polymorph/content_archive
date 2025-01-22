@@ -121,8 +121,8 @@ StarrlettM库曼M.A.CCC-SLP派翠亚BDoyle,M.A.CCC-SLP珍妮特ERovalinoM.S.CCC-
 |-----------------|----------------------------------------|
 | Filename        | m_亚博打鱼跨性别医学服务.md                             |
 | Size            | 6652 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.productshows.com/patient-services/transgender-medicine-services](https://m.productshows.com/patient-services/transgender-medicine-services)                       |
 | Author          | UCONN健康组织                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

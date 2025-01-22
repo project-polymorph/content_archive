@@ -274,7 +274,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一则古代小说，以"男扮女装的我，将敌国摄政王给睡了"为标题，讲述了一位作为和亲公主的少年在离国战败后，为了逃避权力争夺而不得不以女子身份嫁入齐国的故事。主人公因身份的秘密而生活在紧张和恐惧之中，然而在与摄政王的互动中，他们之间的关系逐渐发展。故事结合了爱情、性别身份的隐喻与古代婚姻的权谋，展现了主人公在危机中展现出的勇气与智慧。文本中有对权力斗争、家庭情感以及个人生存状态的深刻刻画，值得关注的是，小说中涉及的男扮女装及两性关系挑战了传统性别角色。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -285,12 +285,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男扮女装伪装成公主的我，将敌国摄政王给睡了古代小说_-_网易.md                             |
 | Size            | 12509 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.163.com/dy/article/ICREUECD05563SUN.html](https://www.163.com/dy/article/ICREUECD05563SUN.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-08-23                                 |
+| Tags            | 多元性别, 男扮女装, 古代小说, 爱情故事, 性别身份, 权力争斗, 离国, 齐国, 家庭关系, 文学创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

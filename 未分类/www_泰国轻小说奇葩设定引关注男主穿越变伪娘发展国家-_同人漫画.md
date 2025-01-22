@@ -22,7 +22,7 @@
   - 5 (42%)
 - 已有 0 条意见
 
-![](data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==)
+[图片]
 
 ### 相关文章
 - #### [《死亡搁浅》将被改编成出饭制动画 预计10月公布](https://www.cnbeta.com.tw/articles/comic/876161.htm)  
@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一部泰国轻小说，其独特的设定引起了广泛关注。故事的男主角原本是一个想成为政治家的角色，但在遭遇杀害后转生到一个异世界，变成了伪娘，并在一个兽人国家努力建立政治。文章中特别提到这种设定展现了泰国文化的独特性，许多网友对此表达了惊讶和好奇，认为这种转生的设定十分具有新意。作者还提到，尽管读者可能不懂泰语，但他们对剧情的想象力和对此作品的评价却是积极的。此外，文章包括对该轻小说的评分和一些相关的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国轻小说奇葩设定引关注男主穿越变伪娘发展国家-_同人漫画.md                             |
 | Size            | 2274 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cnbeta.com.tw/articles/comic/776039.htm](https://www.cnbeta.com.tw/articles/comic/776039.htm)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 轻小说, 役男主, 伪娘, 异世界, 兽人国家, 泰国文化, 转生设定, 政治发展, 小说评价, 网友评论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

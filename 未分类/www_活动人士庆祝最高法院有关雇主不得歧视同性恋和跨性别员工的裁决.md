@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章庆祝美国最高法院做出的重要裁决，即禁止雇主基于性别歧视的法律同样适用于同性恋和跨性别员工。文章回顾了自2015年同性婚姻合法化以来，同性恋和跨性别权利运动取得的胜利，并强调了此次裁决对平权运动的重要性。文中提到，尽管一些州没有广泛的就业歧视保护措施，但这一裁决标志着联邦法律的进步，承认了性别歧视包括对同性恋和跨性别者的歧视。文中还引用了活动人士的声音，表达了对这一决定的庆祝与期待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_活动人士庆祝最高法院有关雇主不得歧视同性恋和跨性别员工的裁决.md                             |
 | Size            | 6613 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.voachinese.com/a/usa-lgbt-supreme-court-reaction-20200616/5465095.html](https://www.voachinese.com/a/usa-lgbt-supreme-court-reaction-20200616/5465095.html)                       |
+| Author          | 美国之音                               |
+| Region          | 美国                               |
+| Date            | 2020-06-17                                 |
+| Tags            | 美国最高法院, 性别歧视, 同性恋权利, 跨性别权益, 就业保护, LGBTQ+, 平权运动, 法律裁决, 社群活动, 社会正义                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

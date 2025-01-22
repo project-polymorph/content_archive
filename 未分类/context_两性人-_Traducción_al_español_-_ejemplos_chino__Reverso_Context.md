@@ -114,8 +114,8 @@
 |-----------------|----------------------------------------|
 | Filename        | context_两性人-_Traducción_al_español_-_ejemplos_chino__Reverso_Context.md                             |
 | Size            | 8001 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://context.reverso.net/traduccion/chino-espanol/%E4%B8%A4%E6%80%A7%E4%BA%BA](https://context.reverso.net/traduccion/chino-espanol/%E4%B8%A4%E6%80%A7%E4%BA%BA)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

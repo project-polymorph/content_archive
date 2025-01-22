@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了阿拉巴马州通过一项限制性的法律，禁止青少年接受跨性别治疗，这项法案针对的是19岁以下的跨性别少年儿童，特别是药物治疗的使用。这一决定引发了强烈的反对声浪，包括跨性别人权组织和医疗专家的质疑，认为这种立法措施会严重影响跨性别青少年的心理和生理健康。文中提到15岁的跨性别少女哈利·沃克尔积极参与反对该法案的活动，但最终未能阻止立法的通过。该法案的签署被认为是美国多个共和党州发起的激进反变性立法的一部分，势必对跨性别权益造成影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_阿州立法禁止青少年接受跨性别治疗反对者称将尽快起诉.md                             |
 | Size            | 2693 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.uschinapress.com/static/content/SZ/2022-04-09/962313899682967552.html](https://www.uschinapress.com/static/content/SZ/2022-04-09/962313899682967552.html)                       |
+| Author          | 侨报网                               |
+| Region          | 美国                               |
+| Date            | 2022-04-08                                 |
+| Tags            | 跨性别, 青少年, 立法, 医疗, 人权, 社会政策, 法律, 心理健康, 美国, 治疗限制                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

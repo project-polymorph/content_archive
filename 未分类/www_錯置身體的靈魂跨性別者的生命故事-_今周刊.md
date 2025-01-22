@@ -78,7 +78,7 @@ Fuis透露，雖然有時在現場還是會耳聞有人稱他們為「邪教」�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文以27岁的跨性别者Fuis Sao Paotawan的生命故事为主线，深入探讨了他在性别认同探索过程中的成长与挑战。文章详细叙述了Fuis从小就意识到自己与生理性别不符的经历，以及在台湾对多元性别教育欠缺的环境下，他如何通过网络了解自身性别认同。在大学时期，他逐渐接受并公开自己的性别认知，开始穿着女性服装并服用女性荷尔蒙。但在面对家庭的拒绝与社会的偏见时，Fuis也经历了许多的痛苦与反思。文章还讨论了他如何参与性别运动，为平权发声，挑战传统观念，以及在原住民社群中推动性别教育的困难。Fuis的故事展现了跨性别者在身份认同路上的坚持与无奈，以及对未来的希望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -89,12 +89,12 @@ Fuis透露，雖然有時在現場還是會耳聞有人稱他們為「邪教」�
 |-----------------|----------------------------------------|
 | Filename        | www_錯置身體的靈魂跨性別者的生命故事-_今周刊.md                             |
 | Size            | 8267 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.businesstoday.com.tw/article/category/80409/post/202010070059/](https://www.businesstoday.com.tw/article/category/80409/post/202010070059/)                       |
+| Author          | 陳怡如                               |
+| Region          | 台湾                               |
+| Date            | 2020-10-07                                 |
+| Tags            | 跨性别, 性别认同, 生命故事, 性别运动, 原住民, 医疗资源, 社会环境, 平权, 性别教育, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

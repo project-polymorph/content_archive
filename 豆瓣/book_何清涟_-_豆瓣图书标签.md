@@ -105,8 +105,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_何清涟_-_豆瓣图书标签.md                             |
 | Size            | 6048 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/tag/%E4%BD%95%E6%B8%85%E6%B6%9F?type=S](https://book.douban.com/tag/%E4%BD%95%E6%B8%85%E6%B6%9F?type=S)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

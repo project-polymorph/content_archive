@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别者-_有性无别_-_豆瓣.md                             |
 | Size            | 1378 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/8695857/](https://m.douban.com/movie/review/8695857/)                       |
 | Author          | 无聊                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-12-09                                 |

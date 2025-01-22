@@ -119,7 +119,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文通过新民周刊的报道，详细记录了变性人群体的婚姻生活和与之相关的社会背景。内容围绕着变性人的爱情故事、生育问题及政策变化展开，描述了变性患者接受手术后的新生活，探讨了易性人群体的心理变化和社会接受度。从何清濂教授的医学成就，到众多变性病人成功婚恋的真实故事，本报道描绘了变性人在追求幸福中所经历的艰辛与希望。报道中提到的莉莉、洪长江等人物，他们的故事不仅反映了易性人寻求性的自我认同和家庭的愿景，也揭示了社会对变性人合法权益逐渐改善的过程。在法律政策逐渐保障变性人婚姻权利的背景下，去除对这一群体的偏见也显得尤为重要。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -130,12 +130,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_新民周刊：变性男女的婚姻生活_图_.md                             |
 | Size            | 15640 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://news.sina.com.cn/s/2004-03-05/20172997310.shtml](http://news.sina.com.cn/s/2004-03-05/20172997310.shtml)                       |
+| Author          | 吴兴人                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-03-05                                 |
+| Tags            | 变性人, 婚姻生活, 易性病, 何清濂, 社会接受度, 政策变化, 生命故事, 真实案例, 医疗资源, 心理变化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

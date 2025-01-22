@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_纠正上帝的错误_-_搜狗百科.md                             |
 | Size            | 4162 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v63321288.htm](https://baike.sogou.com/v63321288.htm)                       |
 | Author          | 吴兴人                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-08-01                                 |

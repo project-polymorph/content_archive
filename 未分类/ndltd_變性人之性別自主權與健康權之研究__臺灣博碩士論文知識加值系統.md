@@ -77,8 +77,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ndltd_變性人之性別自主權與健康權之研究__臺灣博碩士論文知識加值系統.md                             |
 | Size            | 4028 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ndltd.ncl.edu.tw/r/uy2um7](https://ndltd.ncl.edu.tw/r/uy2um7)                       |
 | Author          | 张千蓉（Chien-Jung Chang）                               |
 | Region          | 台湾                               |
 | Date            | 2011-01-01                                 |

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
+![](https://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg)
 
 ![](http://www.xinhuanet.com/world/2016-06/13/ewm_1290561671n.jpg)
 
@@ -30,7 +30,7 @@ Copyright © 2000 - 2025 XINHUANET.com All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国佐治亚州法院驳回一名变性人蓓卡·伊丽莎白·费尔德豪斯的改名申请的事件。费尔德豪斯是一名24岁的美国陆军预备役中士，因感受到自己的性别认同与出生性别不符而正接受激素治疗，试图在生活中作为男性。法院法官J·戴维·罗珀认为，改名为明显男性名字的申请受到限制，认为此举可能会误导公众，所以拒绝了申请。费尔德豪斯对此判决表示受到了“侮辱和物化”，而相关法律组织也对此提出了上诉，认为法官的执裁存在性别歧视及对自由权利的侵犯。该事件引起了社交媒体的广泛讨论，许多用户对法官的决定表示反对，并称其为“错误的”和“令人憎恶的”。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@ Copyright © 2000 - 2025 XINHUANET.com All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_美女子将变性成男性申请改名被法官驳回_-_新华网.md                             |
 | Size            | 3162 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2016-06/13/c_129056167.htm](http://www.xinhuanet.com/world/2016-06/13/c_129056167.htm)                       |
+| Author          | 新华网                               |
+| Region          | 美国                               |
+| Date            | 2016-06-13                                 |
+| Tags            | 性别认同, 变性人, 改名, 法院判决, 性别歧视, LGBT权利, 激素治疗, 社会反响, 法律政策, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

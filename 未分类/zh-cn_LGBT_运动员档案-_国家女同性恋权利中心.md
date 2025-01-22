@@ -74,7 +74,7 @@ by [卡拉·洛佩兹](https://zh-cn.nclrights.org/author/clopez/ "卡拉·洛�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为LGBT运动员的档案，涵盖了与女同性恋、男同性恋、双性恋和跨性别运动员相关的一系列事件和故事。尤其聚焦于跨性别者在公共场所权益的争取以及在体育界所面临的歧视和偏见。文中提到NCAA（美国大学体育协会）对与跨性别者观念的认知与政策变革，包括允许跨性别运动员根据其性别身份加入大学运动队的机会。在多个实例中，文件讨论了重要的法律和社会变革以及著名运动员迈克尔·山姆作为公开同性恋运动员的历史性选拔。此外，文中还提到关于球员资格被挑战的情况和关于运动中的恐同现象。该档案还展现了情侣、平等权利及运动中的性别多样性如何交织在一起，对抗暴力和歧视的努力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,12 +85,12 @@ by [卡拉·洛佩兹](https://zh-cn.nclrights.org/author/clopez/ "卡拉·洛�
 |-----------------|----------------------------------------|
 | Filename        | zh-cn_LGBT_运动员档案-_国家女同性恋权利中心.md                             |
 | Size            | 10744 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh-cn.nclrights.org/tag/lgbt-athletes/](https://zh-cn.nclrights.org/tag/lgbt-athletes/)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | LGBT运动员, 跨性别权利, 迈克尔山姆, NCAA政策, 歧视, 同性恋, 双性恋, 运动员权益, 运动中的恐同症, 法律变革                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

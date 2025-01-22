@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_联合国人权高专皮莱关注印尼的宗教和性别歧视问题_-_UN_News.md                             |
 | Size            | 2838 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.un.org/zh/story/2012/11/183412](https://news.un.org/zh/story/2012/11/183412)                       |
 | Author          | 联合国人权高专                               |
 | Region          | 印度尼西亚                               |
 | Date            | 2012-11-13                                 |

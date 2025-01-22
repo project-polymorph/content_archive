@@ -59,7 +59,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起涉及多元性别人士小威及武汉华亚整形医院的法律纠纷。小威在16岁时因家庭变故辍学，随后进入流动歌舞团，开始了反串表演生涯。在与医院签订协议后，医院为其进行隆胸和下颌整形手术，医院则要求小威同意使用其肖像权和著作权。在小威与医院因手术质量产生分歧后，双方关系紧张，最终小威以医院“变性”宣传侵权为由提起诉讼。医院方面坚称其宣传符合协议，并准备通过法律途径应对此次诉讼。此事件在社会上引发了对于多元性别及相关医疗和法律问题的广泛讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_隆胸男被与河莉秀并论告医院“变性”宣传侵权_-_中国台湾网.md                             |
 | Size            | 4016 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.taiwan.cn/xwzx/dl/shh/201007/t20100708_1445331_1.htm](http://www.taiwan.cn/xwzx/dl/shh/201007/t20100708_1445331_1.htm)                       |
+| Author          | 武汉晚报                               |
+| Region          | 中国台湾                               |
+| Date            | 2010-07-08                                 |
+| Tags            | 多元性别, 变性, 医院, 龙胸, 法律纠纷, 反串表演, 医疗资源, 肖像权, 社会环境, 武汉华亚整形医院                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

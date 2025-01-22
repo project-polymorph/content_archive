@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了英国一名31岁男警官亚当·史密斯在接受变性手术后的经历与社会反响。亚当·史密斯在手术后的新身份为亚历山德拉，继续在警务工作中担任女警。手术前，她已按照女性生活方式生活了两年，并在泰国接受了为期的一万英镑私人变性手术。文章详细描述了她在变性后的生活变化，以及周围人对此的支持和反对意见。大多数朋友表示支持，但也有一些女警表示与其共用更衣室和洗手间时感到不适。该事件反映了社会对变性者的接受度及挑战，传达了变性人在工作和生活中面临的复杂情况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_英国男警官接受变性手术变身“性感警花”_-_中国网.md                             |
 | Size            | 1534 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.china.com.cn/v/news/2010-08/04/content_20636555.htm](http://www.china.com.cn/v/news/2010-08/04/content_20636555.htm)                       |
+| Author          | 中国网                               |
+| Region          | 英国                               |
+| Date            | 2010-08-04                                 |
+| Tags            | 变性手术, 性别认同, 性别转变, 性别多元, 警方, 社会反响, 支持与反对, 生活故事, 法律与社会, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

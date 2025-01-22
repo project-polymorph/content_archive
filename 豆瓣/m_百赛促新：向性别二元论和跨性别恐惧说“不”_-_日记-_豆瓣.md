@@ -127,8 +127,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_百赛促新：向性别二元论和跨性别恐惧说“不”_-_日记-_豆瓣.md                             |
 | Size            | 9336 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/665705520](https://m.douban.com/note/665705520)                       |
 | Author          | YoungTreeGender                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-04-15                                 |

@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于轻小说的讨论帖，标题为《找一本轻小说，主角的弟弟是个伪娘兄控》。帖子求助于网络社区，期望找到这本小说的信息。内容中提到的‘伪娘’和‘兄控’是当前流行文化尤其是二次元文化中的重要概念，分别指代一种性别表现和对兄弟的依恋情感。这反映了多元性别认同及文化中复杂的性别角色扮演，而相关的轻小说则可能深入探讨相关的情感和人际关系。此外，帖子的发布时间为2016年，表明了其在当时的文化背景下的相关性和受众。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《找一本轻小说，主角的弟弟是个伪娘兄控》_-_求书专区-_文学博客网.md                             |
 | Size            | 1879 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wxbkw.com/thread-101333-1-1.html](https://www.wxbkw.com/thread-101333-1-1.html)                       |
+| Author          | 温柔如酒                               |
+| Region          | 未知                               |
+| Date            | 2016-11-07                                 |
+| Tags            | 轻小说, 伪娘, 兄控, 多元性别, 性别认同, 二次元文化, 情感交流, 网络社区, 文学讨论, 文化背景                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

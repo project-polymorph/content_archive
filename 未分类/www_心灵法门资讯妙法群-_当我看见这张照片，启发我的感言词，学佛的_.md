@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是来自心灵法门资讯妙法群的反思与感悟，主要讲述了一位曾经经历过同性恋身份的人士的生命故事和转变经历。作者以一张照片为引子，分享了他的学佛经历以及其对人生的感悟。他回忆了自己过去十年作为Tomboy（角色女性）生活的种种，表达了对自己过去行为的遗憾与反思，包括对父母的态度、家庭关系的紧张等。他提到自己在修学佛法之前的生活状态，承认曾经的暴躁和不成熟，并对自己曾经的错误表示忏悔与感恩。此外，文中还包含了一些评论，显示出参与者对作者故事的支持与共鸣。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_心灵法门资讯妙法群-_当我看见这张照片，启发我的感言词，学佛的_.md                             |
 | Size            | 2636 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=1024954551826631&id=100029362871315&set=a.599200487539802&locale=ja_JP](https://www.facebook.com/photo.php?fbid=1024954551826631&id=100029362871315&set=a.599200487539802&locale=ja_JP)                       |
+| Author          | 心灵法门资讯妙法群                               |
+| Region          | 未知                               |
+| Date            | 2023-06-17                                 |
+| Tags            | 多元性别, 生命故事, 过渡经历, 信仰与思考, 佛教经验, 个人反思, 家庭关系, 社会环境, Tomboy, 心理成长                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

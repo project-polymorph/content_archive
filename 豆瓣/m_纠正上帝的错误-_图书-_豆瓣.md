@@ -82,8 +82,8 @@ ISBN: 9787532128884
 |-----------------|----------------------------------------|
 | Filename        | m_纠正上帝的错误-_图书-_豆瓣.md                             |
 | Size            | 5469 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/1426716/](https://m.douban.com/book/subject/1426716/)                       |
 | Author          | 吴兴人                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-08-01                                 |

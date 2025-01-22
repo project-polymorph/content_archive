@@ -130,8 +130,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_为何在游戏世界里制造“伪娘”？可能有这么几个理由-虎嗅网.md                             |
 | Size            | 12104 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huxiu.com/article/219055.html?f=member_article](https://m.huxiu.com/article/219055.html?f=member_article)                       |
 | Author          | DLS_MWZZ                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

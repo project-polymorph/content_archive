@@ -52,8 +52,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bgm_OceanMichael玩过的游戏_男娘_1__-_Bangumi_番组计划.md                             |
 | Size            | 2483 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bgm.tv/game/list/haiyangjiang070/collect?tag=%E7%94%B7%E5%A8%98](https://bgm.tv/game/list/haiyangjiang070/collect?tag=%E7%94%B7%E5%A8%98)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

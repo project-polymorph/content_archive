@@ -78,8 +78,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_美容店被盗竟是“女装大佬”所为盗窃只为美美哒_-_青岛新闻.md                             |
 | Size            | 2885 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qingdaonews.com/wap/2019-03/29/content_20307573.htm](https://news.qingdaonews.com/wap/2019-03/29/content_20307573.htm)                       |
 | Author          | 青岛新闻网                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-03-29                                 |

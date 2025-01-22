@@ -21,19 +21,19 @@
 
 美国联合医疗是一家**生物技术公司**生产Tyvaso、Adcirca和Orenitram等广泛使用的药物。根据公司声明，其2020年第一季度的营业收入为$35630万。由于其创始人兼CEO Martine Rosenblatt是跨性别女性，因此它被认定为股票市场上的LGBTQ+企业之一。
 
-![你对同性关系有什么看法？](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[你对同性关系有什么看法？]
 
 **3\. JPMorgan Chase & Co.**[$摩根大通 (JPM.US)$](https://www.moomoo.com/hans/stock/JPM-US?global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A61%7D)
 
 另一位LGBTQ+商业领袖是JPMorgan Chase & Co.的全球企业传媒与关系总监Joe Evangelisti。JPMorgan Chase & Co.是一家成立于1799年的国际投资银行和金融服务控股公司。
 
-![你对同性关系有什么看法？](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[你对同性关系有什么看法？]
 
 **4\. IBM**[$IBM Corp (IBM.US)$](https://www.moomoo.com/hans/stock/IBM-US?global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A61%7D)
 
 IBM，一家国际**科技公司**根据福布斯的数据，该公司在2019年的收入为771亿美元，它的副总裁兼全球知识产权许可管理总监是Claudia Brind-Woody，一个自豪的LGBTQ+社区成员。
 
-![你对同性关系有什么看法？](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[你对同性关系有什么看法？]
 
 你对同性关系的态度如何？（单选）
 
@@ -76,7 +76,7 @@ IBM，一家国际**科技公司**根据福布斯的数据，该公司在2019年
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了对同性关系的态度，其中提到新加坡废除了针对男同性恋行为的刑事罪，标志着历史性的进展。同时，文章列举了几家由LGBTQ+领导的公司，例如苹果、美国联合医疗、摩根大通和IBM，并介绍了这些公司的背景和与LGBTQ+社区的关系。例如，苹果的首席执行官Tim Cook是第一个公开出柜的大型公司CEO，美国联合医疗的CEO Martine Rosenblatt是一位跨性别女性。文章还包括了一项关于公众对此话题看法的调查，结果显示对于同性关系的态度存在较大分歧：14%的人同意，48%的人不同意，38%的人表示不关心。最终，文章鼓励读者思考和表达自己对这一主题的看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,12 +87,12 @@ IBM，一家国际**科技公司**根据福布斯的数据，该公司在2019年
 |-----------------|----------------------------------------|
 | Filename        | www_你对同性关系持什么态度？_-_moomoo_社区.md                             |
 | Size            | 5022 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.moomoo.com/hans/community/feed/108871600766981](https://www.moomoo.com/hans/community/feed/108871600766981)                       |
+| Author          | 未知                               |
+| Region          | 新加坡                               |
+| Date            | 未知                                 |
+| Tags            | 同性关系, LGBTQ+, 新加坡, 社会态度, 性别认同, 跨性别, 投资, 企业责任, 法律政策, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

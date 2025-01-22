@@ -42,7 +42,7 @@ Copyright © 1990 - 2025 侨报网, 版权所有 保留所有权利. Pacific Cul
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了华裔医生Jess Ting在美国西奈山医院开创全美首个变性手术中心的故事以及与变性人纪念日相关的事件。变性人纪念日是每年11月20日，旨在提高公众对变性人群体的关注和同情。文章指出，变性人常常面临严重的社会歧视，且自杀率极高。丁医生在从事变性手术的过程中，逐渐意识到了变性人群体的需求，因此投身于为这个特殊群体提供医疗服务。报道还提到了一部关于丁医生的纪录片《天生如此》，该片首次深入展示了变性人群体的内心挣扎和他们所面临的挑战，强调变性手术对于他们来讲并非可有可无，而是至关重要的生活改变。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@ Copyright © 1990 - 2025 侨报网, 版权所有 保留所有权利. Pacific Cul
 |-----------------|----------------------------------------|
 | Filename        | www_打造全美首个变性手术中心帮助特殊群体变性人纪念日华裔医生受赞扬.md                             |
 | Size            | 4827 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.uschinapress.com/static/content/HS/2020-11-22/780064790096912384.html](https://www.uschinapress.com/static/content/HS/2020-11-22/780064790096912384.html)                       |
+| Author          | 管黎明                               |
+| Region          | 美国                               |
+| Date            | 2020-11-22                                 |
+| Tags            | 变性手术, 华裔医生, 变性人纪念日, 社会歧视, 自杀率, 医疗资源, 变性人群体, 纪录片, Jess Ting, 西奈山医院                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

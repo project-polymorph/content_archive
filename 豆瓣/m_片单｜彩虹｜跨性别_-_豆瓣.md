@@ -181,8 +181,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_片单｜彩虹｜跨性别_-_豆瓣.md                             |
 | Size            | 7278 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/154224741/](https://m.douban.com/doulist/154224741/)                       |
 | Author          | 慧敏                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-03-01                                 |

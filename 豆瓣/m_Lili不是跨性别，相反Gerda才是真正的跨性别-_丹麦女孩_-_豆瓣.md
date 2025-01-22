@@ -66,8 +66,8 @@ Lili通过穿女装、化妆找到了欧美自由左常常喜欢挂在口上的�
 |-----------------|----------------------------------------|
 | Filename        | m_Lili不是跨性别，相反Gerda才是真正的跨性别-_丹麦女孩_-_豆瓣.md                             |
 | Size            | 6554 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/14764587/](https://m.douban.com/movie/review/14764587/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2016-01-01                                 |

@@ -65,7 +65,7 @@ Powered by [Beijing Magtech Co. Ltd.](http://www.magtech.com.cn)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一项研究，探讨了在性别烦躁者中育儿方式与个性特征之间的相关性。研究由张飞、张继文、李小平和潘令仪等人完成，发表于2022年3月25日，目标在于了解性别烦躁者的特征以及他们的育儿方式，进一步探索这两个因素之间的潜在关系。研究的方法包括招募性别烦躁的住院患者，收集其人口统计信息，并利用EMBU和MMPI量表对育儿方式和个性特征进行评估。结果显示，性别烦躁者在多个MMPI子量表上的得分显著高于全国规范得分，但除了性别特征子量表外，平均T得分未达到临床诊断范围。此外，不同性别的性别烦躁者在多个MMPI子量表上的得分有显著差异。研究结论表明，性别烦躁者的个性特征未显示出病理变化，此类个体的父母可能表现出更负面的育儿方式，并且育儿方式与个性特征之间存在一定程度的相关性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@ Powered by [Beijing Magtech Co. Ltd.](http://www.magtech.com.cn)
 |-----------------|----------------------------------------|
 | Filename        | www_A_Study_on_the_Correlation_Between_Parenting_Style_and_Personality_.md                             |
 | Size            | 7942 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.psychcomm.org.cn/EN/10.12100/j.issn.2096-5494.222007](https://www.psychcomm.org.cn/EN/10.12100/j.issn.2096-5494.222007)                       |
+| Author          | 张飞, 张继文, 李小平, 潘令仪                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-03-25                                 |
+| Tags            | 多元性别, 育儿方式, 性别烦躁, 个性特征, 心理健康, 研究报告, 中国心理学, 性别研究, 医学资源, 心理评估                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

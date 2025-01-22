@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_易性癖_搜狗百科.md                             |
 | Size            | 3004 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/m/fullLemma?lid=656036](https://baike.sogou.com/m/fullLemma?lid=656036)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

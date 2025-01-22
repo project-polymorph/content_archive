@@ -76,7 +76,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了户口本和身份证信息更改所需的手续和材料，涵盖了姓名、性别、职业、婚姻状况等信息的变更流程。内容中提到，对于姓名的更改，需填写《户口登记项目变更更正表》，并由监护人或本人提交相关证明；而对于性别的更改，需提供国家指定医院的变性手术证明，并经过审核处理。此外，文件还讨论了如何处理出生日期及民族成分的错误，以及居住地的变更所需材料。整体内容对需要办理相关更改的申请人提供了具体的指导，帮助读者更好地理解相关政策和流程。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,12 +87,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_户口本身份证信息更改需要哪些材料呢_-_太平洋保险.md                             |
 | Size            | 5466 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cpic.com.cn/c/2021-02-09/1619176.shtml](https://www.cpic.com.cn/c/2021-02-09/1619176.shtml)                       |
+| Author          | 中国太平洋保险（集团）股份有限公司                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-02-09                                 |
+| Tags            | 户口本, 身份证, 信息更改, 姓名变更, 性别变更, 法律政策, 医疗资源, 公民权利, 社会环境, 变性手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

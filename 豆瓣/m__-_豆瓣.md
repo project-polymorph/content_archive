@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m__-_豆瓣.md                             |
 | Size            | 1422 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/160116690/](https://m.douban.com/doulist/160116690/)                       |
 | Author          | 绽放                               |
 | Region          | 未知                               |
 | Date            | 2024-10-21                                 |

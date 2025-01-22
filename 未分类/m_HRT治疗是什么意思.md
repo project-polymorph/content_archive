@@ -47,8 +47,8 @@ HRT治疗更年期综合征：HRT是一种治疗更年期综合征的方法：�
 |-----------------|----------------------------------------|
 | Filename        | m_HRT治疗是什么意思.md                             |
 | Size            | 5755 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.baidu.com/bh/m/detail/sv_11707906605806256159](https://m.baidu.com/bh/m/detail/sv_11707906605806256159)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

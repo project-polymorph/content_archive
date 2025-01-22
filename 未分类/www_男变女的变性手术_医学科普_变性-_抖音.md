@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了男变女的变性手术，详细介绍了手术的步骤与过程，由徐州市中心医院泌尿外科主任医师贺厚光提供医学科普指导。手术包括切除海绵体尿道以及其他深部组织的修整，并进行阴蒂口或尿道口的构建，最终实现男性向女性性别的转变。报道中配有医师的头像和手术的具体解释，结合社交媒体平台抖音的评论，呈现了公众对变性手术话题的积极参与及讨论。提供的内容可以帮助有这一需求的人了解手术的复杂性与必要性，同时也涵盖了社会对变性手术认识与接受度的反映。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男变女的变性手术_医学科普_变性-_抖音.md                             |
 | Size            | 2090 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/video/7405846551597305126](https://www.douyin.com/video/7405846551597305126)                       |
+| Author          | 贺厚光                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-08-22                                 |
+| Tags            | 变性手术, 医学科普, 男变女, 泌尿外科, 性别认同, 社会讨论, 医疗资源, 手术步骤, 性别变更, 变性经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

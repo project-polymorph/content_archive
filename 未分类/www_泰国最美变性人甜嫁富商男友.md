@@ -44,7 +44,7 @@ Poyd曾在访问中披露，自小已想做女人，长大以愈来愈抗拒当�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了泰国被誉为“最美变性人”的女星Poyd与富商男友Oak的订婚消息。Poyd在社交媒体上分享了与男友依偎的甜蜜瞬间，并展示了订婚戒指，吸引了许多明星的祝福。文章中提到Poyd的个人背景，包括她出身于1986年，身高172公分的她拥有标准的身形。Poyd在影坛崭露头角，多次参与演出，并在2013年电影《扫毒》中与知名演员张家辉合作。值得一提的是，Poyd自幼便渴望成为女性，并在17岁时决心进行变性手术，尽管手术过程痛苦，但她依然认为一切都是值得的。文章通过Poyd的故事展示了变性人在社会中追求自我认同的励志经历，同时反映出目前泰国对变性人群体的舆论和社会接纳情况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@ Poyd曾在访问中披露，自小已想做女人，长大以愈来愈抗拒当�
 |-----------------|----------------------------------------|
 | Filename        | www_泰国最美变性人甜嫁富商男友.md                             |
 | Size            | 2478 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.zaobao.com.sg/entertainment/story20230205-1359893](https://www.zaobao.com.sg/entertainment/story20230205-1359893)                       |
+| Author          | 联合早报                               |
+| Region          | 泰国                               |
+| Date            | 2023-02-05                                 |
+| Tags            | 变性人, 女性故事, 订婚, 泰国娱乐, 社会接纳, 个人经历, 手术经历, 生活故事, 性别认同, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了泰国“人妖皇后”妮莎的故事。妮莎于2014年获得了泰国蒂芬妮人妖选美皇冠，并因此吸引了许多关注。随后，她结识了中国富商鲍哥，并于2015年步入婚姻。文章中详细描述了妮莎的生活经历、婚姻状况以及与鲍哥的关系如何经受住了时间的考验。尽管外界曾对这段婚姻持怀疑态度，但多年后，他们依然生活在一起，妮莎和鲍哥之间的夫妻生活状态也受到关注。该文不仅展现了妮莎作为一位跨性别女性的生活轨迹，还反映了社会对多元性别的认可与支持。同时，文章中还包含了观看次数、评论数量等视频发布后的数据，体现出大众对此话题的兴趣与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_当年最美“人妖皇后”_被中国富商娶回家，7年后过得怎么样？中国富豪_.md                             |
 | Size            | 1324 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=Y67AO9U6Mqw](https://www.youtube.com/watch?v=Y67AO9U6Mqw)                       |
+| Author          | Your Studio有耳工作室                               |
+| Region          | 未知                               |
+| Date            | 2021-07-21                                 |
+| Tags            | 人妖皇后, 跨性别, 性别多元性, 人生故事, 婚姻关系, 社会认同, 性别身份, 媒体报道, 法律政策, 生活经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

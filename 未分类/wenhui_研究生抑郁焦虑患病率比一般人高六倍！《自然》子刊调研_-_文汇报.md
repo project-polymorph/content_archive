@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了研究生群体中抑郁和焦虑症状的普遍性，尤其是跨性别及性别不适的人群的情况。调查显示，研究生的抑郁和焦虑风险比一般人群高六倍，41%的研究生在焦虑量表上得分中度至重度，39%的研究生在抑郁量表上得分中度至重度。研究中提到，性别、工作-生活平衡及师生关系等因素显著影响心理健康。数据显示，跨性别及女性研究生负担的心理健康问题更为严重。文章还建议增加心理健康支持渠道、改善教师与学生的指导关系，并呼吁改变学术界对心理健康问题的认识与文化，以促进学生的健康成长和职业发展。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wenhui_研究生抑郁焦虑患病率比一般人高六倍！《自然》子刊调研_-_文汇报.md                             |
 | Size            | 7723 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://wenhui.whb.cn/zhuzhan/yiliao/20190224/244129.html](http://wenhui.whb.cn/zhuzhan/yiliao/20190224/244129.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-02-24                                 |
+| Tags            | 研究生, 心理健康, 焦虑, 抑郁, 跨性别, 性别不适, 工作生活平衡, 师生关系, 生物科学, 干预措施                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

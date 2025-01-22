@@ -68,7 +68,7 @@ W的代表律師韋智達（Michael Vidler）在法院外對媒體說，他的�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+香港终审法院于2013年5月13日做出裁定，认为变性者W有权结婚，判决称现行婚姻法律禁止变性人结婚违宪。该裁定以四票对一票通过，给香港特区政府一年时间考虑是否修订婚姻法。文中详细叙述了W于2005年完成变性手术后申请与男友结婚，却因其出生证明上的性别为男性而遭拒绝。法院认为现行法律应包括已通过手术的变性女性，同时强调法律与社会共识的关系不应干预判决，而现代婚姻的定义应与医学进步对接。文中还提及其他国家和地区对变性人结婚的态度，强调婚姻的基础不再单一依赖于生育。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@ W的代表律師韋智達（Michael Vidler）在法院外對媒體說，他的�
 |-----------------|----------------------------------------|
 | Filename        | www_港終審法院裁定變性人有權結婚-_BBC中文網-_兩岸.md                             |
 | Size            | 3996 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/trad/china/2013/05/130513_hongkong_transsexual_lawsuit](https://www.bbc.com/zhongwen/trad/china/2013/05/130513_hongkong_transsexual_lawsuit)                       |
+| Author          | BBC中文网                               |
+| Region          | 香港                               |
+| Date            | 2013-05-13                                 |
+| Tags            | 变性人权利, 婚姻法律, 终审法院裁定, 香港, 法治, 社会共识, 性别认同, 人权, 法律改革, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

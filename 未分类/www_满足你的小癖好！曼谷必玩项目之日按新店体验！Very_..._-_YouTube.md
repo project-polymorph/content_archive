@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本视频内容介绍了曼谷的一些必玩项目，特别关注泰式按摩的独特体验。作者Laohuang在视频中分享了他在曼谷度过一个愉快下午的经历，强调了泰国按摩的独特之处以及相关的旅行体验。视频时长为18:29分钟，适合有兴趣探索曼谷旅行的观众。该内容旨在吸引喜欢旅行和了解当地文化的观众，并提供他们可能感兴趣的实际体验和建议。视频链接附在内容中，观众可以直接查看和评论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_满足你的小癖好！曼谷必玩项目之日按新店体验！Very_..._-_YouTube.md                             |
 | Size            | 771 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=cWvXS3B-ENU](https://www.youtube.com/watch?v=cWvXS3B-ENU)                       |
+| Author          | Laohuang                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 曼谷, 泰式按摩, 旅行体验, 视频, YouTube, 当地文化, 旅游建议, 按摩体验, 文化交流, 生活方式                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

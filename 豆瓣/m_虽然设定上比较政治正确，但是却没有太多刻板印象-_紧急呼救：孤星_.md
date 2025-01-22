@@ -45,8 +45,8 @@ Marjan这个角色刻画的非常不错，她戴头巾不是被迫，而是“�
 |-----------------|----------------------------------------|
 | Filename        | m_虽然设定上比较政治正确，但是却没有太多刻板印象-_紧急呼救：孤星_.md                             |
 | Size            | 1357 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/13968389/](https://m.douban.com/movie/review/13968389/)                       |
 | Author          | 箫笙落叶                               |
 | Region          | 美国                               |
 | Date            | 2021-01-18                                 |

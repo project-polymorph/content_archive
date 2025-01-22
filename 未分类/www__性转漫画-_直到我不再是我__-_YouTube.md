@@ -86,7 +86,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一系列与性转主题相关的漫画视频，标题为《性转漫画 - 直到我不再是我》。该视频系列由YouTube创作者준팝TV制作，包含13个视频，展示了主角在性别转变过程中经历的各种情感与挑战。每个视频都探讨了性别转变所带来的心理变化和社会适应问题，例如对女生生理期的反应、身材变化带来的烦恼、性别认同的探索等。这部作品不仅有趣且富有深度，引发对性别与身份认同的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,12 +97,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__性转漫画-_直到我不再是我__-_YouTube.md                             |
 | Size            | 4300 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/playlist?list=PLkM4YJWzn5K8yOGKaylyzIJf7sIElgwvY](https://www.youtube.com/playlist?list=PLkM4YJWzn5K8yOGKaylyzIJf7sIElgwvY)                       |
+| Author          | 준팝TV                               |
+| Region          | 未知                               |
+| Date            | 2022-11-18                                 |
+| Tags            | 性转, 漫画, YouTube, 性别认同, 青春烦恼, 情感经历, 女性体验, 性取向, 心理变化, 社交适应                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

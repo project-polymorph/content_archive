@@ -51,7 +51,9 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件收录了多元性别相关的男娘小说及其相关视频内容，主要来自于男娘小说网站。文件内容包括多个视频的标题、发布时间和播放次数，这些视频涉及的主题主要是男娘文化，结合了作品的介绍与观看数据，展现了该类型小说和视频的流行程度。
+
+在体裁上，内容丰富多样，有着多个视频推荐，其中包括一些受欢迎的短剧、动画和真人短剧，例如《暖暖来筑梦》和《兔兔的drama短剧推荐》等。这些视频通过平台进行展示，让更多受众了解和欣赏多元性别的表达。该文件不仅反映了男娘文化的丰富性，也提供了对其影响力的直观数据。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh-cn_男娘小说__网站【99xfs.com】__男娘小说__男娘小说OGz8H_视频.md                             |
 | Size            | 2923 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh-cn.facebook.com/watch/explore/%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4%EF%BF%BD%E7%BD%91%E7%AB%99%E3%80%9099xfs.com%E3%80%91%EF%BF%BD%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4%EF%BF%BD%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4OGz8H/](https://zh-cn.facebook.com/watch/explore/%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4%EF%BF%BD%E7%BD%91%E7%AB%99%E3%80%9099xfs.com%E3%80%91%EF%BF%BD%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4%EF%BF%BD%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4OGz8H/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-06-05                                 |
+| Tags            | 多元性别, 男娘, 小说, 视频, 文化, 媒体内容, 短剧, 动画, 社会现象, 表达方式                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

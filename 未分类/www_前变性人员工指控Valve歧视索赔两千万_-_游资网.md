@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位前变性员工起诉知名游戏开发公司Valve的事件。该员工在变性手术后遭到上司的歧视性对待，被称为“它”，并声称公司制造了敌意的工作环境。在向人力资源部投诉后，她被解雇。她要求赔偿300多万美元，声称解雇是因投诉而非工作表现。Valve对此否认指控，并要求法院不受理案件。该事件反映了职场中对于变性人的歧视及法律争议，显示出当前社会对多元性别群体面临的挑战和必要的保护。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_前变性人员工指控Valve歧视索赔两千万_-_游资网.md                             |
 | Size            | 2096 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gameres.com/660745.html](https://www.gameres.com/660745.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2016-05-25                                 |
+| Tags            | 变性人, 职场歧视, Valve, 法律诉讼, 性别平等, 工作环境, 人权, 翻译, 医疗资源, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

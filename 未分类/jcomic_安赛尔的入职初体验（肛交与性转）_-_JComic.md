@@ -31,8 +31,8 @@
 |-----------------|----------------------------------------|
 | Filename        | jcomic_安赛尔的入职初体验（肛交与性转）_-_JComic.md                             |
 | Size            | 1176 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://jcomic.net/eps/%E5%AE%89%E8%B5%9B%E5%B0%94%E7%9A%84%E5%85%A5%E8%81%8C%E5%88%9D%E4%BD%93%E9%AA%8C%EF%BC%88%E8%82%9B%E4%BA%A4%E4%B8%8E%E6%80%A7%E8%BD%AC%EF%BC%89](https://jcomic.net/eps/%E5%AE%89%E8%B5%9B%E5%B0%94%E7%9A%84%E5%85%A5%E8%81%8C%E5%88%9D%E4%BD%93%E9%AA%8C%EF%BC%88%E8%82%9B%E4%BA%A4%E4%B8%8E%E6%80%A7%E8%BD%AC%EF%BC%89)                       |
 | Author          | Hinghoi                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

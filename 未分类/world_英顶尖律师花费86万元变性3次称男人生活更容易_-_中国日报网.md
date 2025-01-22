@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了英国顶尖女律师山姆·卡内（Sam Kane）在经历了三次变性手术后的生活感受和性别认同的复杂旅程。山姆自小具有女性化倾向，在1992年经历婚姻的破裂后，开始 reconsider 自身性别认同。1997年，她花费10万英镑进行第一次变性手术，成为女性萨蔓莎（Samantha）。然而，女性生活的失望与肤浅让她在2004年选择变回男性身份查尔斯·卡内（Charles Kane）。随着恋情的变化，查尔斯又在2017年决定重新接受女性身份，最终选择不再进行手术，而是寻求内心的自由与接受。文章总结了她所面对的社会压力与家庭反应，以及她对性别认同的坚定立场。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_英顶尖律师花费86万元变性3次称男人生活更容易_-_中国日报网.md                             |
 | Size            | 4078 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.chinadaily.com.cn/2017-04/04/content_28790631.htm](http://world.chinadaily.com.cn/2017-04/04/content_28790631.htm)                       |
+| Author          | 冯煊                               |
+| Region          | 未知                               |
+| Date            | 2017-04-04                                 |
+| Tags            | 变性经历, 性别认同, 法律职业, 女性主义, 性别困惑, 人生故事, 社会接受度, 男性与女性, 心理健康, 跨性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

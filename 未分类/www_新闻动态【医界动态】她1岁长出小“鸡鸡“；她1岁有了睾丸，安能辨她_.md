@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了两名在湖南省人民医院接受手术的患儿的故事，揭示了医疗界对先天性两性畸形的处理方式。故事中，珍珍被诊断为‘女性假两性畸形’，她拥有的小‘鸡鸡’与较深的隐蔽阴道导致了家庭的困惑。经过手术，她的外阴得以修复，成人后可正常生活但需长期服药。另一方面，璇璇被确认为‘真两性畸形’，拥有同时的男女生殖器官，家族选择了让她继续生活为女孩。本文探讨了两性畸形的成因、治疗时机及心理健康影响，强调了早期诊断和及时治疗的必要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_新闻动态【医界动态】她1岁长出小“鸡鸡“；她1岁有了睾丸，安能辨她_.md                             |
 | Size            | 4176 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.hnsrmyy.com/index.php?id=1614](http://www.hnsrmyy.com/index.php?id=1614)                       |
+| Author          | 未知                               |
+| Region          | 湖南省，中国                               |
+| Date            | 2018-09-20                                 |
+| Tags            | 两性畸形, 先天性疾病, 儿童医疗, 生殖健康, 手术案例, 医疗资源, 医院报道, 性别认同, 心理健康, 家庭故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

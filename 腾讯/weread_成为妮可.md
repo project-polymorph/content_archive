@@ -74,8 +74,8 @@
 |-----------------|----------------------------------------|
 | Filename        | weread_成为妮可.md                             |
 | Size            | 10182 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://weread.qq.com/wrpage/book/share/921492?from=pingshuke](https://weread.qq.com/wrpage/book/share/921492?from=pingshuke)                       |
 | Author          | 艾米·埃利斯·纳特                               |
 | Region          | 美国                               |
 | Date            | 2021-01-01                                 |

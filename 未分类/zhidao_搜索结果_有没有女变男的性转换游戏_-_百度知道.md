@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为百度知道的一篇文章，探讨了与女变男性转换手术及相关文化有关的话题。文章首先介绍了我国首例女变男手术的具体情况，该手术由上海长征医院的著名整形外科专家何清濂教授于1992年完成，并详细叙述了手术患者的背景与心理状态。接下来，文章提到了一部热播漫画《不做欧尼酱了》，其探讨了性别身份的转换和性别反差的搞笑桥段。医生对于女生进行性转换手术的风险做出了评估，强调了手术过程的复杂性和多步骤。文章最后通过网友评论的形式，进一步探讨了性别转换文化在当今社会的反响与扎根情况，并及提到性别转换相关的核心术语，如贺尔蒙转换治疗与性别重置手术等。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,12 +77,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zhidao_搜索结果_有没有女变男的性转换游戏_-_百度知道.md                             |
 | Size            | 3280 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhidao.baidu.com/index/?word=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A5%B3%E5%8F%98%E7%94%B7%E7%9A%84%E6%80%A7%E8%BD%AC%E6%8D%A2%E6%B8%B8%E6%88%8F&from=qb&samplow_val=354](https://zhidao.baidu.com/index/?word=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A5%B3%E5%8F%98%E7%94%B7%E7%9A%84%E6%80%A7%E8%BD%AC%E6%8D%A2%E6%B8%B8%E6%88%8F&from=qb&samplow_val=354)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转换, 变性手术, 跨性别, 异性转换症, 文化探讨, 心理状态, 漫画, 手术风险, 性别身份, 社会反响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

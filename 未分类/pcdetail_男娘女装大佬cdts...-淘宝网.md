@@ -73,8 +73,8 @@ t**9
 |-----------------|----------------------------------------|
 | Filename        | pcdetail_男娘女装大佬cdts...-淘宝网.md                             |
 | Size            | 2841 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://pcdetail.taobao.com/cbabbdc5609a2d9ae65f8a7fbbfc989c.html](https://pcdetail.taobao.com/cbabbdc5609a2d9ae65f8a7fbbfc989c.html)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

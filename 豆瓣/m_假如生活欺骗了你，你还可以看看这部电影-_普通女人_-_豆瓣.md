@@ -66,8 +66,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_假如生活欺骗了你，你还可以看看这部电影-_普通女人_-_豆瓣.md                             |
 | Size            | 4725 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/8965398/](https://m.douban.com/movie/review/8965398/)                       |
 | Author          | 壹早电影                               |
 | Region          | 未知                               |
 | Date            | 2017-04-06                                 |

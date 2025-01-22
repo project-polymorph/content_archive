@@ -594,7 +594,7 @@ Equaldex uses cookies. This site uses cookies to deliver and enhance the quality
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要讨论了新加坡的LGBT权利，包括同性恋的法律地位和社会认知。内容详细列出了新加坡对同性婚姻的禁令、对性别变化的法律限制、以及对性别认同者的医疗和社会支持的现状。文件中也探讨了公众对LGBT群体的态度，具体数据显示了新加坡人对LGBT群体公开性取向和性别认同的支持率、对反歧视法律的支持率，以及对青少年获取性别确认护理的看法。此外，还包含了对跨性别运动员的支持率数据及对同性爱伴侣收养权利的意见。整体来看，这份文件提供了丰富的数据和分析，反映了新加坡在LGBT权利方面的法律环境和社会态度的复杂性，是研究多元性别与社会变化的重要资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -605,12 +605,12 @@ Equaldex uses cookies. This site uses cookies to deliver and enhance the quality
 |-----------------|----------------------------------------|
 | Filename        | www_LGBT_Rights_in_Singapore_-_Equaldex.md                             |
 | Size            | 28337 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.equaldex.com/region/singapore](https://www.equaldex.com/region/singapore)                       |
+| Author          | Equaldex                               |
+| Region          | 新加坡                               |
+| Date            | 2024-03-08                                 |
+| Tags            | LGBT权利, 新加坡, 同性婚姻, 性别变化, 性别确认护理, 反歧视法律, 跨性别权益, 公众支持, 统计数据, 青少年权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

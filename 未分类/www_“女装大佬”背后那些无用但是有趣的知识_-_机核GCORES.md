@@ -223,7 +223,7 @@ Ladybeard在国内当时也是引起过轩然大波，不少媒体或者营销�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《“女装大佬”背后那些无用但是有趣的知识》，主要探讨了“女装大佬”这一文化现象的起源和发展。作者通过对二次元文化，特别是伪娘文化的阐述，分析了这一现象在网络上的流行情况以及其背后的一些文化背景。文件内容涵盖了伪娘概念的定义、历史起源以及相关文化现象的交织，例如日本的歌舞伎表演、ACG文化中伪娘的流行演变，及近年来中国互联网中女装大佬的现象。作者还提到了多个与伪娘文化相关的个体和团体，如爱丽丝伪娘团和Ladybeard，同时指出社交媒体、直播平台和网络红人对这一文化现象的传播和影响。整篇文章以探讨身份认同和性别表现为核心，展示了当代社会中多元性别表现的多样性和复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -234,12 +234,12 @@ Ladybeard在国内当时也是引起过轩然大波，不少媒体或者营销�
 |-----------------|----------------------------------------|
 | Filename        | www_“女装大佬”背后那些无用但是有趣的知识_-_机核GCORES.md                             |
 | Size            | 17909 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gcores.com/articles/120763](https://www.gcores.com/articles/120763)                       |
+| Author          | 吉琶10696                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-03-20                                 |
+| Tags            | 女装大佬, 伪娘文化, 二次元, ACG文化, 跨性别, 网络文化, 性别表现, 社会现象, 网络红人, 直播平台                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

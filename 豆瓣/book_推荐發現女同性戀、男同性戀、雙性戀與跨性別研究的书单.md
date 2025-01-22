@@ -187,8 +187,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_推荐發現女同性戀、男同性戀、雙性戀與跨性別研究的书单.md                             |
 | Size            | 9219 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/19975970/doulists](https://book.douban.com/subject/19975970/doulists)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

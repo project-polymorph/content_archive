@@ -94,8 +94,8 @@ PC/Switch
 |-----------------|----------------------------------------|
 | Filename        | game_美少女游戏大全十大必玩美少女游戏精选_-_中关村在线.md                             |
 | Size            | 4565 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://game.zol.com.cn/912/9126414.html](https://game.zol.com.cn/912/9126414.html)                       |
 | Author          | 电玩墨客                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-11-02                                 |

@@ -50,7 +50,7 @@ Copyrights © 2002-2021 All Rights Reserved. [鄂ICP备 05004666](https://beia
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+华中科技大学同济医学院附属协和医院整形外科是中国最早成立的整形美容外科专业机构之一，成立于1949年。科室历史悠久，培养了众多整形外科专家，并在两性畸形及易性癖的治疗方面开创了中南地区的先河。科室现设有整形美容门诊、住院部及多个现代化手术室，提供全面的整形美容服务，年门诊量达五万人次，住院手术数量近三千台。该科室在科研方面也颇有成就，多项研究获得国家和省级的资金支持，发表众多专业论文。现任主任孙家明教授是国家重点研发计划的首席科学家，带领团队不断进步，举办全球性学术会议，并多次获得行业内的荣誉奖项。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@ Copyrights © 2002-2021 All Rights Reserved. [鄂ICP备 05004666](https://beia
 |-----------------|----------------------------------------|
 | Filename        | www_科室简介-华中科技大学同济医学院附属协和医院.md                             |
 | Size            | 5349 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.whuh.com/ppxk/tszk/zxwk/ksjj.htm](https://www.whuh.com/ppxk/tszk/zxwk/ksjj.htm)                       |
+| Author          | 华中科技大学同济医学院附属协和医院                               |
+| Region          | 湖北省，中国                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 整形外科, 医疗资源, 华中科技大学, 两性畸形, 易性癖, 科研, 整形美容, 专家医生, 医院信息                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

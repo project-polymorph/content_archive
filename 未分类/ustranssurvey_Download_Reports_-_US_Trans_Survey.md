@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含2022年美国跨性别者调查的多份报告，涵盖了跨性别者在多个方面的经验和社会现状。这些报告包括公民参与报告和早期见解报告，提供了关于跨性别者如何参与政治和社区活动的统计数据。此外，文件中还提到2015年的调查报告，涉及不同种族背景的跨性别者的经历，包括黑人、拉丁裔和原住民的独立分析报告。每份报告都是基于针对跨性别者的广泛调查数据，展示了包括军事服务、性别过渡经历及生存情况的特定领域的详细信息。在其中，文件展示了跨性别者在社会、健康、法律和个人生活等方面遭遇的挑战和成就，极大丰富了对当前跨性别者生活实际的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -95,12 +95,12 @@
 |-----------------|----------------------------------------|
 | Filename        | ustranssurvey_Download_Reports_-_US_Trans_Survey.md                             |
 | Size            | 7205 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://ustranssurvey.org/download-reports/](https://ustranssurvey.org/download-reports/)                       |
+| Author          | 全国跨性别平等委员会                               |
+| Region          | 美国                               |
+| Date            | 2022-01-01                                 |
+| Tags            | 跨性别者调查, 公民参与, 生命故事, 社会环境, 法律政策, 医疗资源, 生存现状, 数据统计, 反歧视, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

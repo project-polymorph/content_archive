@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_变性美女陈莉莉福州征婚曾经为情而自杀_组图__-搜狐新闻.md                             |
 | Size            | 1758 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/20051202/n240850088.shtml](http://news.sohu.com/20051202/n240850088.shtml)                       |
 | Author          | 李雅                               |
 | Region          | 福州, 中国                               |
 | Date            | 2005-12-02                                 |

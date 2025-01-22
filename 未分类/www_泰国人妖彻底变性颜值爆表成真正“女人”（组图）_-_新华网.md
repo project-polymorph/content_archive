@@ -60,7 +60,7 @@ Yoshin在拍艺术照。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了泰国的变性人群体，特别是描述了变性模特Yoshin的经历与变性后的生活。报道展示了Yoshin在拍摄艺术照时的美丽形象，强调了她的变性过程以及为了达到女性外貌所付出的努力。该文章发表在新华网，提供了与变性相关的照片以及相关社会背景，揭示了变性人在泰国文化中的地位及其挑战。通过对Yoshin的介绍，文章不仅聚焦于生理转变，也涉及个人故事与社会认同的话题，是对多元性别及性别认同的一次深入探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@ Yoshin在拍艺术照。
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖彻底变性颜值爆表成真正“女人”（组图）_-_新华网.md                             |
 | Size            | 2861 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2016-01/22/c_128657522_8.htm](http://www.xinhuanet.com/world/2016-01/22/c_128657522_8.htm)                       |
+| Author          | 钟玉岚                               |
+| Region          | 泰国                               |
+| Date            | 2016-01-22                                 |
+| Tags            | 变性人, 泰国人妖, 性别认同, Yoshin, 变性经历, 社会文化, 个人故事, 摄影艺术, 人生故事, 女性形象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

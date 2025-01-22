@@ -41,7 +41,7 @@ Astro Malaysia
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了《KHUNSA》这部关于双性人Che Khun生活经历的故事，该项目旨在通过影视作品揭示双性人在成长过程中所面临的障碍与挑战。在文件中，有关Che Khun生平的叙述展示了他在成长过程中所遭遇的各种困难，但同时也强调了他与朋友Mei Yin之间的支持与友谊。这一故事在Astro Malaysia的频道上播出，旨在提升公众对多元性别群体的认知和理解。文件中包含了节目的播出时间、来源及相关标签，意在聚焦于双性人社区的真实经历与生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@ Astro Malaysia
 |-----------------|----------------------------------------|
 | Filename        | www_Astro_Malaysia__《KHUNSA》一个有关双性人的故事_..._-_Instagram.md                             |
 | Size            | 1852 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.instagram.com/astromalaysia/reel/C839DEQiAcq/?locale=hi_IN&hl=gu](https://www.instagram.com/astromalaysia/reel/C839DEQiAcq/?locale=hi_IN&hl=gu)                       |
+| Author          | Astro Malaysia                               |
+| Region          | 未知                               |
+| Date            | 2024-01-07                                 |
+| Tags            | 双性人, KHUNSA, AstroAEC, 生命故事, 成长经历, 友谊, 多元性别, 社会认知, 影视作品, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

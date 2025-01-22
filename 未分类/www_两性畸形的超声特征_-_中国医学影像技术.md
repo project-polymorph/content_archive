@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了两性畸形的超声特征，旨在为临床诊断提供可靠的依据。两性畸形是指个体同时具有男性和女性的生殖器特征，而超声检查作为一种重要的诊断手段，对于查明患者的性腺和内部生殖管道的特征具有重要价值。研究回顾性分析了35例两性畸形患者的临床、超声及病理资料，结果显示在这35例患者中，真两性畸形有13例，假两性畸形有22例。假两性畸形中，包括男性和女性假两性畸形各12例和10例，超声结果表明男性假两性畸形患者盆腔内无子宫和卵巢，且其睾丸存在不同程度的发育不良，而女性假两性畸形则未发现睾丸样回声。最后，文章强调了超声在两性畸形临床诊断中的重要性和应用价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_两性畸形的超声特征_-_中国医学影像技术.md                             |
 | Size            | 3977 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.cjmit.com/cjiit/ch/reader/view_abstract.aspx?file_no=20141211&st=alljournals](http://www.cjmit.com/cjiit/ch/reader/view_abstract.aspx?file_no=20141211&st=alljournals)                       |
+| Author          | 谢丽君, 陈树强, 叶真, 陈玲, 甘玲, 刘新秀                               |
+| Region          | 中国                               |
+| Date            | 2014-06-26                                 |
+| Tags            | 两性畸形, 超声检查, 卵睾, 临床特征, 女性假两性畸形, 男性假两性畸形, 医学影像, 病理资料, 生殖健康, 医学研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

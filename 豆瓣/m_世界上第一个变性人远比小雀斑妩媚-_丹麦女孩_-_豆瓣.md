@@ -171,8 +171,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_世界上第一个变性人远比小雀斑妩媚-_丹麦女孩_-_豆瓣.md                             |
 | Size            | 14448 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/9766871/](https://m.douban.com/movie/review/9766871/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

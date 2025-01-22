@@ -99,8 +99,8 @@ This essay is intended as a draft. I wrote it in an hour based on ideas I have h
 |-----------------|----------------------------------------|
 | Filename        | pipersprogress_Transgendering_for_Dummies_The_difference_between_cd,_tv_et_al_.md                             |
 | Size            | 12780 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://pipersprogress.wordpress.com/2010/07/21/transgendering-for-dummies-the-difference-between-cd-tv-et-al-and-why-it-doesn%E2%80%99t-really-matter/](https://pipersprogress.wordpress.com/2010/07/21/transgendering-for-dummies-the-difference-between-cd-tv-et-al-and-why-it-doesn%E2%80%99t-really-matter/)                       |
 | Author          | 艾米·派珀                               |
 | Region          | 英国                               |
 | Date            | 2010-07-21                                 |

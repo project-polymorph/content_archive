@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章报道了2024年3月4日，在曼谷素坤逸路的一家酒店外爆发的跨性别者之间的暴力冲突，称之为“人妖战争”。文章提到，冲突的起因是由于20余名菲律宾跨性别者袭击了两名泰国跨性别者，导致泰国跨性别者群体的愤怒与不满。事发当晚，泰国跨性别者聚集在酒店前，以组织集会的方式表达他们的愤懑，并与菲律宾团体对峙。尽管警方到场试图平息事态，但局势却迅速升级，形成了群体冲突。警方最终介入，控制了现场局面并拘留了相关人士。该事件反映了跨性别者群体在社会中的复杂关系与冲突，并引发了对跨性别者权益与尊严的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_曼谷爆发“人妖战争”，两国变性人在街头火爆群殴！_-_泰国头条新闻.md                             |
 | Size            | 2714 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.thaiheadlines.com/147505/](https://www.thaiheadlines.com/147505/)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2024-03-05                                 |
+| Tags            | 跨性别, 社会冲突, 暴力事件, 泰国, 菲律宾, 人妖战争, 性别认同, LGBTQ+权益, 媒体报道, 社会现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

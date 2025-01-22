@@ -65,8 +65,8 @@ _本文作者Matthew H. Birkhold是美国俄亥俄州立大学助理教授。_
 |-----------------|----------------------------------------|
 | Filename        | m_《第三性》杂志：一段失落的跨性别者历史_-_界面新闻.md                             |
 | Size            | 15359 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.jiemian.com/article/2802146.html](https://m.jiemian.com/article/2802146.html)                       |
 | Author          | 界面新闻                               |
 | Region          | 未知                               |
 | Date            | 2019-01-21                                 |

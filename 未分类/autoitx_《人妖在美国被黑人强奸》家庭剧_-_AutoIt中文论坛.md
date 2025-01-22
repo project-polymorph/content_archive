@@ -21,8 +21,8 @@
 |-----------------|----------------------------------------|
 | Filename        | autoitx_《人妖在美国被黑人强奸》家庭剧_-_AutoIt中文论坛.md                             |
 | Size            | 125 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://autoitx.com/?/20241103133024/AGJXc1d0_389248335.html](https://autoitx.com/?/20241103133024/AGJXc1d0_389248335.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_英国男子经历两次变性手术试图约会女性遭嘲讽_-_新闻频道.md                             |
 | Size            | 2832 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.cntv.cn/world/20101109/100413.shtml](http://news.cntv.cn/world/20101109/100413.shtml)                       |
 | Author          | 京华时报                               |
 | Region          | 英国                               |
 | Date            | 2010-11-09                                 |

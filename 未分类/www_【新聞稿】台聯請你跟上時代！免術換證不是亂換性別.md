@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为台灣性別不明關懷協會的新聞稿，讨论了“免術換證”政策的重要性及其对跨性别者权益的影响。文章强调，免术换证并不是随意变换性别，而是需要通过严格的评估程序，确保性别的合法变更。新闻稿回顾了过去数年的努力历史，提到各个团体如何推动政府放宽变更法定性别的要件。此外，台联最近的反对声音引发了各团体的强烈回应，认为这种反对是对跨性别群体权益的误解与偏见。文中强调了社会对跨性别者生活现状的理解需更加深入，不应基于谣言与恐惧。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【新聞稿】台聯請你跟上時代！免術換證不是亂換性別.md                             |
 | Size            | 5038 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.civilmedia.tw/archives/121253](https://www.civilmedia.tw/archives/121253)                       |
+| Author          | 台灣性別不明關懷協會                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 免术换证, 跨性别权益, 台湾性别不明关怀协会, 法定性别变更, 性别平等, 跨性别者, 社会政策, 人权, 性别认同, 社会运动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

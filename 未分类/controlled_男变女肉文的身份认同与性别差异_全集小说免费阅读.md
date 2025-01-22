@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | controlled_男变女肉文的身份认同与性别差异_全集小说免费阅读.md                             |
 | Size            | 3884 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://controlled.cqybqz.com/](https://controlled.cqybqz.com/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-11-02                                 |

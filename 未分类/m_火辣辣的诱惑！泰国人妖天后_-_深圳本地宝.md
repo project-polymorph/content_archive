@@ -24,9 +24,9 @@
 
 分享本文到：
 
-![](//m.baidu.com/se/static/pmd/pmd/share/images/qzone.png)
+![](https://m.baidu.com/se/static/pmd/pmd/share/images/qzone.png)
 
-![](//m.baidu.com/se/static/pmd/pmd/share/images/sinaweibo.png)
+![](https://m.baidu.com/se/static/pmd/pmd/share/images/sinaweibo.png)
 
 ![分享](http://imgbdb3.bendibao.com/whbdb/20202/28/20200228094105_67638.png)
 
@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_火辣辣的诱惑！泰国人妖天后_-_深圳本地宝.md                             |
 | Size            | 1986 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.bendibao.com/show30549.html](https://m.bendibao.com/show30549.html)                       |
 | Author          | 深圳本地宝                               |
 | Region          | 泰国                               |
 | Date            | 2007-08-09                                 |

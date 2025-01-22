@@ -62,7 +62,7 @@
 
 因為孤獨的緣故
 
-![](//okapi.books.com.tw/uploads/image/2016/08/source/15436-1470975804.png)
+![](https://okapi.books.com.tw/uploads/image/2016/08/source/15436-1470975804.png)
 
 缺席的同志可能比出席的同志更有力量。希區考克拍過一部女同志驚悚片[《蝴蝶夢》](https://www.books.com.tw/exep/assp.php/OKAPI/products/D020052365)（_Rebecca_，1940； 片名為女子人名「[麗貝卡](http://www.books.com.tw/exep/assp.php/OKAPI/exep/prod/booksfile.php?item=0010202090)」），片中最有影響力的角色為麗貝卡，但是這個角色從未在片中現身──正因為缺席，所以格外引人遐思。在林懷民（1947−）膾炙人口的中篇小說[《蟬》](https://www.books.com.tw/exep/assp.php/OKAPI/products/0010192521?sloc=main)之中，一個男同志角色只是小配角，是文本的擦邊球，但卻讓人難忘。曹麗娟的[《童女之舞》](https://www.books.com.tw/exep/assp.php/OKAPI/products/0010863455?sloc=main)小說集中收錄了一篇男同志為主角的〈在父名之下〉，但這名男主角早早就被父親（父名、父權）斷絕父子關係，於是賭氣再也不回家（也再也不回文本中）──主人翁的長期缺席益加突顯了這篇同志小說的悲憤。〈在父名之下〉的同志主人翁在小說結尾，似乎還是回家了／回文本了。（小說在這邊寫得很曖昧）其實我寧可他永遠不要回家／不要回文本，留下影子就好。
 
@@ -78,7 +78,7 @@
 
 童女之舞(2020祝福版)
 
-![](//okapi.books.com.tw/uploads/image/2016/08/source/15436-1470975804.png)
+![](https://okapi.books.com.tw/uploads/image/2016/08/source/15436-1470975804.png)
 
 希區考克所拍，改編自經典文學兼羅曼史的《蝴蝶夢》
 
@@ -138,8 +138,8 @@
 |-----------------|----------------------------------------|
 | Filename        | okapi_【紀大偉｜台灣同志文學簡史】正面與背影_-_OKAPI_閱讀生活誌.md                             |
 | Size            | 20059 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://okapi.books.com.tw/index.php/p3/p3_detail/sn/1309](http://okapi.books.com.tw/index.php/p3/p3_detail/sn/1309)                       |
 | Author          | 紀大偉                               |
 | Region          | 台灣                               |
 | Date            | 2012-06-05                                 |

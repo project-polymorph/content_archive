@@ -119,7 +119,7 @@ Cherry Zhen在进行钢管舞表演。 Credit: Credit: @Klit\_angel
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了澳大利亚华人酷儿的创伤与觉醒，包括 Huowang Li、Christine Hong 和 Cherry Zhen 的个人故事。Huowang Li 分享了她在重男轻女家庭教育下的成长经历，强调传统文化中的性别压迫如何影响她的性别认同与身份。Christine Hong 表达了自己在家庭和社会期望中挣扎的痛苦，以及她对“出柜”的看法，认为它帮助她摆脱了男性凝视，同时让她在华语社会中探索自我。Cherry Zhen 则讲述了自己作为澳大利亚出生的华裔酷儿的经历，以及通过钢管舞和多元性别社群找到的自我认同。这篇文章通过个体故事展现了多元性别群体在文化冲突中的挑战与寻找自我的旅程，同时也呼吁更多对多元性别的理解与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -130,12 +130,12 @@ Cherry Zhen在进行钢管舞表演。 Credit: Credit: @Klit\_angel
 |-----------------|----------------------------------------|
 | Filename        | www_【她】澳洲华人酷儿们的创伤与觉醒.md                             |
 | Size            | 8175 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/trauma-and-awakening-of-the-australian-chinese-queer/2zj0b9g0l](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/trauma-and-awakening-of-the-australian-chinese-queer/2zj0b9g0l)                       |
+| Author          | Yudie Huang                               |
+| Region          | 澳大利亚                               |
+| Date            | 2024-05-31                                 |
+| Tags            | 多元性别, 酷儿, 性别认同, 性取向, 华人, 生活故事, 文化冲突, 心理创伤, 性别歧视, 社会期待                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

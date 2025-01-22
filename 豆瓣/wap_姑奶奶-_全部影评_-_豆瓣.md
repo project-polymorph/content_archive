@@ -123,8 +123,8 @@
 |-----------------|----------------------------------------|
 | Filename        | wap_姑奶奶-_全部影评_-_豆瓣.md                             |
 | Size            | 15219 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://wap.douban.com/movie/subject/5265182/reviews?start=76&count=25&from=subject](https://wap.douban.com/movie/subject/5265182/reviews?start=76&count=25&from=subject)                       |
 | Author          | 豆瓣电影                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-09-04                                 |

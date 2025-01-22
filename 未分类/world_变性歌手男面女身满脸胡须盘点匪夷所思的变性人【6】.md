@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文标题为《变性歌手男面女身满脸胡须 盘点匪夷所思的变性人》，主要讨论了一些变性人的故事，特别是一个来自美国加州的男子斯科特·莫尔，他的特征及经历非常引人注目。斯科特不仅是一名变性人，他的配偶托马斯同样也是一名女性在进行变性手术后成为男人。在文章中提到斯科特通过人工授精的方式怀孕，成为了全球第二位"怀孕父亲"。文中还引用了多个相关的延伸报道，如其他变性人故事、对社会观念的影响等。文章的主旨在于揭示和探讨性别多元的话题，反映出变性人在现代社会中所面临的挑战与奇遇。无论是斯科特的个人经历，还是背后更广泛的性别认同和社会接受度，都是值得思考的议题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_变性歌手男面女身满脸胡须盘点匪夷所思的变性人【6】.md                             |
 | Size            | 1378 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2014/0527/c1002-25071424-6.html](http://world.people.com.cn/n/2014/0527/c1002-25071424-6.html)                       |
+| Author          | 人民网                               |
+| Region          | 美国                               |
+| Date            | 2014-05-27                                 |
+| Tags            | 变性人, 怀孕父亲, 性别多元, 斯科特·莫尔, 变性手术, 社会观念, 性别认同, 新闻报道, 美国新闻, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

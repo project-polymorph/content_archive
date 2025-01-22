@@ -58,7 +58,7 @@ Samy Nour Younes 是一位跨性别演员和活动家，强调跨性别经历的
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇TED演讲稿由跨性别者活动家Samy Nour Younes主讲，主题是跨性别者为争取平等权利的长期斗争简史。Samy Nour Younes在演讲中分享了跨性别者群体的历史，阐述了他们在争取公民权利过程中所经历的挑战、奋斗与胜利。Samy强调，如果公众能够了解到跨性别者争取平等权利的历史悠久，可能会改变人们对跨性别者的看法。他的演讲内容充满了勇气与灵感，激励了众多人继续支持跨性别者的权益。演讲的场合是TED Residency，播放次数高达214万，反映了社会对这一议题的广泛关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,12 +69,12 @@ Samy Nour Younes 是一位跨性别演员和活动家，强调跨性别经历的
 |-----------------|----------------------------------------|
 | Filename        | www_Samy_Nour_Younes_跨性别者为争取平等权利的长期斗争简史_-_TED.md                             |
 | Size            | 3038 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ted.com/talks/samy_nour_younes_a_short_history_of_trans_people_s_long_fight_for_equality/footnotes?language=zh-cn](https://www.ted.com/talks/samy_nour_younes_a_short_history_of_trans_people_s_long_fight_for_equality/footnotes?language=zh-cn)                       |
+| Author          | Samy Nour Younes                               |
+| Region          | 未知                               |
+| Date            | 2018-12-01                                 |
+| Tags            | 跨性别, 平等权利, 历史, 社会变革, 文化, 身份认同, 活动家, LGBTQIA+, TED演讲, 社会                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

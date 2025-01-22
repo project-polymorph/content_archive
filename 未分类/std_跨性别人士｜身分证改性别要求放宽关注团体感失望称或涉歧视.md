@@ -53,8 +53,8 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | std_跨性别人士｜身分证改性别要求放宽关注团体感失望称或涉歧视.md                             |
 | Size            | 4370 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://std.stheadline.com/sc/realtime/article/1990924/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E8%BA%AB%E5%88%86%E8%AD%89%E6%94%B9%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%94%BE%E5%AF%AC-%E9%97%9C%E6%B3%A8%E5%9C%98%E9%AB%94%E6%84%9F%E5%A4%B1%E6%9C%9B-%E7%A8%B1%E6%88%96%E6%B6%89%E6%AD%A7%E8%A6%96](https://std.stheadline.com/sc/realtime/article/1990924/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E8%BA%AB%E5%88%86%E8%AD%89%E6%94%B9%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%94%BE%E5%AF%AC-%E9%97%9C%E6%B3%A8%E5%9C%98%E9%AB%94%E6%84%9F%E5%A4%B1%E6%9C%9B-%E7%A8%B1%E6%88%96%E6%B6%89%E6%AD%A7%E8%A6%96)                       |
 | Author          | 郭咏欣                               |
 | Region          | 香港                               |
 | Date            | 2024-04-04                                 |

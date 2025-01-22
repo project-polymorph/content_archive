@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | jingxuan_带大家看看泰国人妖_-_抖音精选.md                             |
 | Size            | 5072 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://jingxuan.douyin.com/m/video/7399053160716799241](https://jingxuan.douyin.com/m/video/7399053160716799241)                       |
 | Author          | 刘小妹                               |
 | Region          | 未知                               |
 | Date            | 2024-08-03                                 |

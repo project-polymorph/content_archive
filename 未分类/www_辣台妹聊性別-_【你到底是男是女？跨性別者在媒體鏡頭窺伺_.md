@@ -84,7 +84,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别者在媒体聚光灯下的形象和社会认知，特别是讲述了网红小A辣的变性手术及其在媒体报道中的表现。文章指出，媒体对跨性别者的关注多集中在生理变化上，反映了社会上对性别认同的偏见与刻板印象。小A辣的手术引发各种猎奇和评判，媒体更倾向于以性器官为标准来定义一个人的性别，质疑她是否能够被视为真正的女性。除此之外，文章还提到了女性主义内部关于生理性别与社会性别的争论，揭示了跨性别者在社会和自我认同中所面临的多重挑战。最后，作者呼吁社会应当朝向性别平等的方向努力，减少对跨性别者的歧视和偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -95,12 +95,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_辣台妹聊性別-_【你到底是男是女？跨性別者在媒體鏡頭窺伺_.md                             |
 | Size            | 10156 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/TaimeiGenderBar/posts/%E4%BD%A0%E5%88%B0%E5%BA%95%E6%98%AF%E7%94%B7%E6%98%AF%E5%A5%B3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%9C%A8%E5%AA%92%E9%AB%94%E9%8F%A1%E9%A0%AD%E7%AA%BA%E4%BC%BA%E4%B8%8B%E7%9A%84%E5%BD%A2%E8%B1%A1%E5%B0%8Fa%E8%BE%A3%E9%8D%BE%E6%98%8E%E8%BB%92alizabeth%E5%A8%98%E5%A8%98%E9%83%BD%E6%98%AF%E9%80%99%E5%B9%BE%E5%B9%B4%E7%9B%B8%E7%95%B6%E7%9F%A5%E5%90%8D%E7%9A%84%E7%B6%B2%E7%B4%85%E9%9B%96%E7%84%B6%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84youtube%E9%A0%BB%E9%81%93%E4%BB%96%E5%80%91%E4%BB%8D%E7%84%B6%E4%B8%8D%E5%8F%AF%E8%BA%B2%E9%81%BF%E5%AA%92%E9%AB%94%E9%96%83%E5%85%89%E7%87%88%E5%BE%9E/803870737011352/](https://www.facebook.com/TaimeiGenderBar/posts/%E4%BD%A0%E5%88%B0%E5%BA%95%E6%98%AF%E7%94%B7%E6%98%AF%E5%A5%B3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%9C%A8%E5%AA%92%E9%AB%94%E9%8F%A1%E9%A0%AD%E7%AA%BA%E4%BC%BA%E4%B8%8B%E7%9A%84%E5%BD%A2%E8%B1%A1%E5%B0%8Fa%E8%BE%A3%E9%8D%BE%E6%98%8E%E8%BB%92alizabeth%E5%A8%98%E5%A8%98%E9%83%BD%E6%98%AF%E9%80%99%E5%B9%BE%E5%B9%B4%E7%9B%B8%E7%95%B6%E7%9F%A5%E5%90%8D%E7%9A%84%E7%B6%B2%E7%B4%85%E9%9B%96%E7%84%B6%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84youtube%E9%A0%BB%E9%81%93%E4%BB%96%E5%80%91%E4%BB%8D%E7%84%B6%E4%B8%8D%E5%8F%AF%E8%BA%B2%E9%81%BF%E5%AA%92%E9%AB%94%E9%96%83%E5%85%89%E7%87%88%E5%BE%9E/803870737011352/)                       |
+| Author          | 杨鈞傑，黄怡菁                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别者, 媒体形象, 性别认同, 小A辣, 变性手术, 性别平等, 生理性别, 社会性别, 女性主义, 性别歧视, 性别暴力, 性别刻板印象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

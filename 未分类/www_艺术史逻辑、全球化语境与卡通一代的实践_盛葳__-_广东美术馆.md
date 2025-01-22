@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了中国当代艺术中的“卡通一代”现象，分析了其在全球化语境下的形成及其对社会文化的反映。文章指出，卡通一代在中国当代艺术史中虽然具有代表性，但未能在艺术史的发展上带来根本性的创新，仍然停留在西方艺术史的影响下。通过对艺术与社会现实的思考，作者论述了卡通一代如何借由商业文化而呈现的艺术创新表象掩盖了深层次的历史、文化认同的问题。文中提到，卡通一代艺术作品以其独特的社会背景和时代特征为基础，但实际上却没有打破对于西方艺术的依赖，反而是对已有思潮的延续。文章还讨论了全球化对艺术创作的影响，卡通一代的作品虽然在形式上强调“新”，但实际上反映了现有的社会文化状况，却又容易滑向复制和克隆的陷阱。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,12 +91,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_艺术史逻辑、全球化语境与卡通一代的实践_盛葳__-_广东美术馆.md                             |
 | Size            | 26832 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gdmoa.org/exhibition/exhibitions/2007/xgwd_2007/200709/t20070914_6650.shtml](https://www.gdmoa.org/exhibition/exhibitions/2007/xgwd_2007/200709/t20070914_6650.shtml)                       |
+| Author          | 盛葳                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-09-14                                 |
+| Tags            | 当代艺术, 卡通一代, 全球化, 文化批评, 社会现实, 艺术史, 艺术创造, 中国现代艺术, 媒体影响, 文化认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

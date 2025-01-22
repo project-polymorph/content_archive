@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了微电影《易性癖·吴镇宇》的内容与背景。这部微电影讲述了一个关于性别认同与心理困扰的故事，主角周国才（由知名演员吴镇宇饰演）是一名银行职员，生活表面上看似完美，家庭幸福、美满，但他内心隐藏着一个深深的秘密：他渴望成为女人。该片通过周国才的故事反映了在社会压力和个人追寻之间的挣扎，以及那些在阶层中受限的多元性别群体的生存现状。影片在哔哩哔哩上的观看次数高达4.3万，评价也相对较高，豆瓣评分为7.3。该片不仅提供了对易性癖群体的深刻见解，也引发了观众对于性别和身份认同的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【高清】【微电影·易性癖·吴镇宇】我的路【2012】_-_Bilibili.md                             |
 | Size            | 1749 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av1292009](https://www.bilibili.com/video/av1292009)                       |
+| Author          | 吴镇宇（主演）                               |
+| Region          | 香港                               |
+| Date            | 2012-07-15                                 |
+| Tags            | 微电影, 易性癖, 性别焦虑, 香港, 社会问题, 心理健康, 多元性别, 电影评论, 吴镇宇, 生活故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

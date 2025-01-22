@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自维基词典，主要涵盖了“娘炮”一词的定义和相关信息。文件中详细解析了“娘炮”的词源构成，其中“娘”意指女性，而“炮”有贬义色彩，代表女性气质被调侃或侮辱。文件还指出“娘炮”为俚语，在社交语境中通常带有贬义和冒犯性，暗指行为或言语中表现出女性化特征的男性。此外，文件提供了该词的不同地方方言、相关词汇和近义词的分类。这一词语在不同地区的使用情况也被提及，包括北京、台湾、广州等地的方言表达。文件中还包含了词语的发音信息，不同语言的对应表达以及与该词相关的社交文化背景。同时，该文件配附有相关链接和语音发音的资料链接，非常适合对中文多元性别概念感兴趣的读者进行深入了解和研究。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -106,12 +106,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_娘炮-_维基词典，自由的多语言词典_-_Wiktionary.md                             |
 | Size            | 6047 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wiktionary.org/zh-hans/%E5%A8%98%E7%82%AE](https://zh.wiktionary.org/zh-hans/%E5%A8%98%E7%82%AE)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 娘炮, 汉语, 俚语, 贬义词, 社会文化, 性别表达, 语言研究, 方言差异, 多元性别, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了中国广东省跨性别女性面临的严峻生存现状，尤其是与自杀相关的事件。文本详细描述了几位跨性别者的自杀案例，指出由于在非法渠道购买雌激素等激素类药物的困难，使得一些跨性别女性走上绝路。文章中提到，跨性别者阿程和阿聰于2023年11月5日在酒店自杀，随之而来的还有与他们相关的多起自杀事件，反映出跨性别者在社会和法律环境中的脆弱地位。警方在事件发生后拘捕了一名药物中介，但这种形势并未得到有效改善。全文通过具体案例，揭示了跨性别社区在药物获取上的困境和对生命的悲剧性选择，也引发了读者对相关政策和社会支持缺失的深思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_Talk買激素比買毒藥難中國跨女掀自殺潮.md                             |
 | Size            | 3485 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikinews.org/wiki/Talk:%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE](https://zh.wikinews.org/wiki/Talk:%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-10                                 |
+| Tags            | 跨性别, 自杀案例, 社会压力, 广东省, 激素购买, 医疗资源, 法律政策, 跨性别女性, 心理健康, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

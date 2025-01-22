@@ -141,8 +141,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_大胆的假设，假如一个变性人进入团中-_小组讨论_-_豆瓣.md                             |
 | Size            | 3980 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/309075665/](https://m.douban.com/group/topic/309075665/)                       |
 | Author          | 左一恋上严雯丽                               |
 | Region          | 未知                               |
 | Date            | 2024-07-25                                 |

@@ -63,7 +63,7 @@ Copyright 米乐线上官网(中国)有限公司 All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了米乐线上官网(中国)有限公司的烧伤整形美容外科科室。科室自1958年与医院建院同步成立，致力于烧伤、整形及美容手术，力求为病人提供专业的治疗与服务。科室目前具备8名医生及12名专业护师，皆为高学历的医疗专业人员。本文中特别提及多项历史成果与重要手术案例，包括：1976年成功救治国内首例硝酸铀酰混合烧伤患者、2009年为一名高压电烧伤患者再造阴茎、2011年为一名易性癖男孩进行性别重置手术等。这些手术不仅提升了科室的声誉，也在医院历史上留下了深刻的印记。科室秉持“烧伤烫伤救治，水火无情人有情”的理念，以满足患者的康复需求为宗旨，致力于整形美容领域的发展与创新。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@ Copyright 米乐线上官网(中国)有限公司 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_米乐线上官网_中国_有限公司_-_doutorfacil.com.md                             |
 | Size            | 3587 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.doutorfacil.com/wanboguanwangmanbetx/gzb/notice/notice_g7yU_345/1420.html?_isa=1](https://www.doutorfacil.com/wanboguanwangmanbetx/gzb/notice/notice_g7yU_345/1420.html?_isa=1)                       |
+| Author          | 米乐线上官网(中国)有限公司                               |
+| Region          | 湖南省衡阳市                               |
+| Date            | 2024-09-02                                 |
+| Tags            | 烧伤科, 整形美容, 医学科技, 性别重置手术, 患者救治, 医疗人员配置, 医术历史, 整形外科专业, 专业医疗服务, 心理支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

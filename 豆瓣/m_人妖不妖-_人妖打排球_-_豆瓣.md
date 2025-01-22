@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖不妖-_人妖打排球_-_豆瓣.md                             |
 | Size            | 1663 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/1525993/](https://m.douban.com/movie/review/1525993/)                       |
 | Author          | 解夏罂粟                               |
 | Region          | 未知                               |
 | Date            | 2009-05-24                                 |

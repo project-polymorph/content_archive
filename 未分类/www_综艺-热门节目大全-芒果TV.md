@@ -38,7 +38,7 @@ Hunan Happy Sunshine Interactive Entertainment Media Co., Ltd. All Rights Reserv
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了变性人何嫱参选综艺节目《花儿朵朵》的经历，旨在展示个人的美丽与自信。文件中包含了关于何嫱的图片和相关视频截图，突显了她在节目中的表现以及选拔过程中的亮点。这一事件通过媒体的传播，反映了对多元性别者的关注与包容，特别是在娱乐行业中的表达与展示。何嫱的参赛不仅是个人艺术追求的展现，也是在社会环境中推动多元性别的认可与理解。此文件提供了有关事件的各种细节，包括时间、来源以及观众的实时反应，帮助人们理解多元性别在当代文化中的重要性和复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@ Hunan Happy Sunshine Interactive Entertainment Media Co., Ltd. All Rights Reserv
 |-----------------|----------------------------------------|
 | Filename        | www_综艺-热门节目大全-芒果TV.md                             |
 | Size            | 1787 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mgtv.com/b/6565/3201220.html](https://www.mgtv.com/b/6565/3201220.html)                       |
+| Author          | 芒果TV                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-05-11                                 |
+| Tags            | 变性人, 何嫱, 花儿朵朵, 综艺节目, 多元性别, 艺术表达, 社会环境, 个人故事, 医疗经验, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

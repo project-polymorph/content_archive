@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了人大附中出品的跨性别电影《逃离》，影片围绕高中生张望安的故事展开，讲述了他的自我探索与接受，尤其是他对吸引他的男孩的感情以及最终确认自己是一名女性的过程。电影不仅关注了个体的性别认同问题，同时也深刻反映了校园内性少数群体的生存状态，提出了关于性教育的疑问。这部影片获得了广泛的播放与讨论，评论区也热烈响应，显示了社会对于这一话题的关注与需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_人大附中跨性别电影《逃离》_-_Bilibili.md                             |
 | Size            | 1936 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1Dx411b7wU/](https://www.bilibili.com/video/BV1Dx411b7wU/)                       |
+| Author          | JinnaDee                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-08-24                                 |
+| Tags            | 跨性别, LGBTQ+, 学生作品, 电影, 励志, 校园, 性教育, 性少数群体, 自我认同, 社会讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

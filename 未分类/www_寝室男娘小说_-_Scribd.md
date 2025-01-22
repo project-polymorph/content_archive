@@ -38,7 +38,7 @@ TXT, PDF, TXT or read online from Scribd
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《寝室男娘小说》是一部探索多元性别和性别认同的文学作品，具体内容尚不明确。它可能包含主角在寝室环境中的生活经历、情感纠葛以及对性别身份的思考。此类作品通常反映了当代年轻人对于性别流动性的理解和接受，同时也可能探讨所在社会圈内对多元性别的看法和态度。尽管具体情节未提供，但书名暗示了一种生活方式和自我认同的表达。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@ TXT, PDF, TXT or read online from Scribd
 |-----------------|----------------------------------------|
 | Filename        | www_寝室男娘小说_-_Scribd.md                             |
 | Size            | 1989 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.scribd.com/document/785460445/%E5%AF%9D%E5%AE%A4%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4](https://www.scribd.com/document/785460445/%E5%AF%9D%E5%AE%A4%E7%94%B7%E5%A8%98%E5%B0%8F%E8%AF%B4)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别认同, 文学作品, 小说, 寝室生活, 年轻人, 情感纠葛, 性别流动性, 社会接纳, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

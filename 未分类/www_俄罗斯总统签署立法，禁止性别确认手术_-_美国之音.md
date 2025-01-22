@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了俄罗斯总统弗拉基米尔·普京于2023年7月24日签署的新立法，该法案标志着禁止性别确认手术的最后一步。这项立法不仅禁止任何旨在改变一个人性别的医疗干预措施，还禁止在官方文件和公共记录中改变性别，给俄罗斯的LGBTQ+群体带来了沉重打击。立法者认为这项法案是为了保护俄罗斯免受西方反家庭意识形态的影响，并声称该法案的通过符合国家传统价值观的保护。文章还指出，俄罗斯对LGBTQ+群体的压制已有十多年历史，且普京曾多次提到“传统家庭价值观”的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_俄罗斯总统签署立法，禁止性别确认手术_-_美国之音.md                             |
 | Size            | 4344 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.voachinese.com/a/russian-president-signs-legislation-marking-the-final-step-outlawing-gender-affirming-procedures-20230724/7194233.html](https://www.voachinese.com/a/russian-president-signs-legislation-marking-the-final-step-outlawing-gender-affirming-procedures-20230724/7194233.html)                       |
+| Author          | 美国之音                               |
+| Region          | 俄罗斯                               |
+| Date            | 2023-07-24                                 |
+| Tags            | 性别确认手术, LGBTQ+, 普京, 俄罗斯法律, 性别平权, 传统价值观, 社会政治, 跨性别权益, 西方意识形态, 医疗干预                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

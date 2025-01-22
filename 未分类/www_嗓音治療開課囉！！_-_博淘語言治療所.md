@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了一项关于嗓音治疗的课程，旨在帮助长期发声不当的个体，包括跨性别者和职业用声者，改善他们的嗓音问题。课程内容包括发声共鸣位置训练、喉部肌群放松运动、歌手的嗓音照护、以及专门针对跨性别者的嗓音训练。博淘语言治疗所特别采购了专业录音设备，并利用语言分析程序帮助参与者量化嗓音表现、设定训练目标，力求帮助他们找回甜美声音。通过课程的宣讲，博淘希望提高公众对嗓音健康的重视，尤其是那些面临声带结节等问题的人群。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_嗓音治療開課囉！！_-_博淘語言治療所.md                             |
 | Size            | 5392 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pro-talk.com.tw/%E5%97%93%E9%9F%B3%E6%B2%BB%E7%99%82-%E9%96%8B%E8%AA%B2%E5%9B%89%EF%BC%81%EF%BC%81/](https://www.pro-talk.com.tw/%E5%97%93%E9%9F%B3%E6%B2%BB%E7%99%82-%E9%96%8B%E8%AA%B2%E5%9B%89%EF%BC%81%EF%BC%81/)                       |
+| Author          | 博淘语言治疗所                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 嗓音治疗, 成人嗓音, 新莊成人嗓音, 歌手嗓音照护, 发声训练, 声带结节, 跨性别嗓音, 嗓音疲劳护理, 气声训练, 声音分析程序                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

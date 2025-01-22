@@ -34,8 +34,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_拜登撤销特朗普禁令，允许变性者在美军服役.md                             |
 | Size            | 1763 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.thepaper.cn/kuaibao_detail.jsp?contid=10946931&from=kuaibao](https://m.thepaper.cn/kuaibao_detail.jsp?contid=10946931&from=kuaibao)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2021-01-25                                 |

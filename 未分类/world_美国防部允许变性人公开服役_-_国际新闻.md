@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国国防部长卡特于2016年6月30日宣布解除对变性人公开服役的禁令。这一新政策意在帮助美军在招募和保留人才方面消除障碍，强调了美军的核心任务是维护国家安全，而不应以性别身份为依据做出军事人才的筛选。根据新政策，现役变性军人不再因身份原因受到歧视，可以从军方医疗系统获得必要的医疗护理，并在军方人事管理系统中正式改变性别。此外，未来一年内美军将开始允许变性人参与新兵招募。文章还引用了一份2014年的军事研究报告，估计在130万现役美军中大约有2500至7000名变性人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_美国防部允许变性人公开服役_-_国际新闻.md                             |
 | Size            | 1618 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://world.huanqiu.com/article/9CaKrnJWeiV](https://world.huanqiu.com/article/9CaKrnJWeiV)                       |
+| Author          | 陆佳飞                               |
+| Region          | 美国                               |
+| Date            | 2016-06-30                                 |
+| Tags            | 变性人, 美国国防部, 公开服役, 军人权益, 性别认同, 军事政策, 医疗护理, 招募政策, 法律与社会, 性别多元性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

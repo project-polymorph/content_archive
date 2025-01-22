@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了科琳娜·科恩（Corinna Cohn）在19岁时做出极具争议的变性手术的经历与反思。科恩分享了她的忧虑与后悔，强调在做出这样的永久决定之前，探索内心世界的重要性。她在文章中提到，手术使她与同龄人产生隔阂，深深影响了她的一生。此外，科恩对社交媒体的影响表示担忧，认为这些平台对年轻人的决策产生了扭曲的引导。文章还描述了她对变性手术之后生活的挑战，以及她对未来年轻人提出的建议，即在做出重大决定之前要慢下来、认真思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女子发表专栏文章：变性手术毁了我的一生_性别_社交媒体.md                             |
 | Size            | 4427 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.epochtimes.com/gb/23/5/5/n13988664.htm](https://www.epochtimes.com/gb/23/5/5/n13988664.htm)                       |
+| Author          | 薛明珠（翻译）/《华盛顿邮报》                               |
+| Region          | 美国                               |
+| Date            | 2023-05-05                                 |
+| Tags            | 变性手术, 性别, 社交媒体, 青少年, 医疗经历, 性别确认, 身份探索, 心理健康, 社会舆论, 勇气                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

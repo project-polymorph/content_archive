@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讨论了变性手术与易性癖之间的关系，提出变性手术可能是对易性癖患者的一种不良出口。文章通过借用笑话引入主题，指出变性人在社会中的存在，探讨了科技对性别认同和变性手术的影响。文中提到，在医学技术的发展下，不少人选择变性手术而非传统的心理治疗方式，由此引发的一系列伦理与法律问题也在文中被深入分析。作者质疑这样的方法是否真正有益于易性癖患者，抨击医疗行业在处理此类问题时的做法，并呼吁社会对待变性人群体应给予更多的宽容和理解。文章的最后提到，完全禁绝变性手术或许能够使我们重新审视心理疾病的治疗方式，而不应仅仅顺应变性愿望，而是需要针对症结进行解决。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_论坛一回应：变性手术――易性癖疾病的不良出口.md                             |
 | Size            | 5868 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.legal-theory.org/?mod=info&act=view&id=756](https://www.legal-theory.org/?mod=info&act=view&id=756)                       |
+| Author          | 代颖                               |
+| Region          | 中国大陆                               |
+| Date            | 2002-12-21                                 |
+| Tags            | 变性手术, 易性癖, 性别认同, 心理疾病, 科技发展, 伦理问题, 法律问题, 社会宽容, 医疗伦理, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

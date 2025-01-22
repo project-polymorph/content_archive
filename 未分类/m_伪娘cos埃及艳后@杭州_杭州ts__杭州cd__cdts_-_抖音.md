@@ -66,8 +66,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_伪娘cos埃及艳后@杭州_杭州ts__杭州cd__cdts_-_抖音.md                             |
 | Size            | 2800 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douyin.com/share/video/7420317315239005450](https://m.douyin.com/share/video/7420317315239005450)                       |
 | Author          | 上海ts玛德琳伪娘                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-09-30                                 |

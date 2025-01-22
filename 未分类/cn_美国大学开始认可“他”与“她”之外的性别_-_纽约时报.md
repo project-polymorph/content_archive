@@ -145,8 +145,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cn_美国大学开始认可“他”与“她”之外的性别_-_纽约时报.md                             |
 | Size            | 20907 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.nytimes.com/education/20150319/t19gender/](https://cn.nytimes.com/education/20150319/t19gender/)                       |
 | Author          | JULIE SCELFO，由纽约时报中文网发布                               |
 | Region          | 美国                               |
 | Date            | 2015-03-19                                 |

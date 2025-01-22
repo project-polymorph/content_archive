@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | info_尼康D600泰国行-人妖表演_-_无忌器材.md                             |
 | Size            | 2024 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://info.xitek.com/galleries/201211/05-297915.html](https://info.xitek.com/galleries/201211/05-297915.html)                       |
 | Author          | 梁爽                               |
 | Region          | 泰国                               |
 | Date            | 2012-11-05                                 |

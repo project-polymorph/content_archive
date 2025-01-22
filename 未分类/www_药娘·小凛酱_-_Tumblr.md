@@ -88,7 +88,7 @@ Posts like this must live on forever! Sissy development x
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于多元性别与自我表达的指南，主要提供了年轻人如何在性别认同与表达中更为自信和舒适的信息。文章由昵称为nikkifatale的用户撰写，内容涉及如何进行身体和外观上的转变，比如激素替代疗法（HRT）、锻炼、脱毛、化妆技巧、穿着时尚等，强调了外在形象对个人身份认同的重要性。作者分享了自身的经验，提供了实用建议，例如如何使腿部更显女性化、挑选合适的化妆品和假发等，突出保持身材、妆容的重要性，这些做法能有效提升自身的女性气质和自信。此外，文章还提及在变更外表过程中，需关注身体健康，建议在专业人士指导下进行相关医疗措施。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,12 +99,12 @@ Posts like this must live on forever! Sissy development x
 |-----------------|----------------------------------------|
 | Filename        | www_药娘·小凛酱_-_Tumblr.md                             |
 | Size            | 7171 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tumblr.com/cuteandlovelylin](https://www.tumblr.com/cuteandlovelylin)                       |
+| Author          | nikkifatale-deactivated20161220                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别表达, 跨性别, 个人生存故事, 外在形象, 身体认同, HRT, 美妆技巧, 时尚穿搭, 自我提升                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

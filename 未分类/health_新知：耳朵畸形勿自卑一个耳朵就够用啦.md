@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | health_新知：耳朵畸形勿自卑一个耳朵就够用啦.md                             |
 | Size            | 5110 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://health.people.com.cn/n1/2017/0727/c14739-29431218.html](http://health.people.com.cn/n1/2017/0727/c14739-29431218.html)                       |
 | Author          | 人民网-人民健康网                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-07-27                                 |

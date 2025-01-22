@@ -83,7 +83,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部名为《有异装癖的美少女你也喜欢吗？》的小说，主要讲述了主角薛世衍的成长故事。在家庭变故后，他的父亲再婚，带回了一个小他一岁的“弟弟”，在努力建立关系的过程中，薛世衍遭遇了来自“弟弟”的挑战，尤其是被迫穿着女装。这部作品通过轻松幽默的叙述风格，探讨了性别认同和异装癖等多元性别主题，展现了人物之间复杂的情感拼图及其对自我认知的影响。小说的总字数达到92万字，已经完结，更新于2020年6月3日，受到了较高的热度与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -94,12 +94,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_有异装癖的美少女你也喜欢吗？_-_轻之文库.md                             |
 | Size            | 3074 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.linovel.net/book/103427.html](https://www.linovel.net/book/103427.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-06-03                                 |
+| Tags            | 多元性别, 异装癖, 小说, 成长故事, 性别认同, 家庭关系, 恋爱, 心理变化, 幽默, 完结作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

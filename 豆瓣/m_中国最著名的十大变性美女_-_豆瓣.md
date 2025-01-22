@@ -73,8 +73,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_中国最著名的十大变性美女_-_豆瓣.md                             |
 | Size            | 5598 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/29138888/](https://m.douban.com/doulist/29138888/)                       |
 | Author          | 悠悠·猴儿                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-10-29                                 |

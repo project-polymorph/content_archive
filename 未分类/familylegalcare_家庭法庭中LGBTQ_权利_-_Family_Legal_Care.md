@@ -127,8 +127,8 @@ A **请愿** 是书面请求。提交请愿书的人称为 **申请人**。家�
 |-----------------|----------------------------------------|
 | Filename        | familylegalcare_家庭法庭中LGBTQ_权利_-_Family_Legal_Care.md                             |
 | Size            | 8567 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://familylegalcare.org/zh/guide/lgbtq-rights-in-family-court/](https://familylegalcare.org/zh/guide/lgbtq-rights-in-family-court/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

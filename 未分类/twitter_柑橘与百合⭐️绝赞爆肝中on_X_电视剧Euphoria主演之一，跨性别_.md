@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别演员Hunter Schafer在恐怖片《Cuckoo》中的表现，该片刚刚上映。文中提到，Schafer曾在电视剧《Euphoria》中扮演重要角色，而《Cuckoo》以蕾丝边主角在面对母亲时还要面对反派的情节，探讨了强制异性恋范式和生殖相关的恐惧。文中通过对剧本设定的简单介绍，提及了影片中的主题以及社会对跨性别群体的期待与挑战。该推文由社交媒体用户@CitrusAndLilium发布，包含了一张其个人资料图片，吸引了不少关注与互动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | twitter_柑橘与百合⭐️绝赞爆肝中on_X_电视剧Euphoria主演之一，跨性别_.md                             |
 | Size            | 841 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://twitter.com/CitrusAndLilium/status/1827446420778975302](https://twitter.com/CitrusAndLilium/status/1827446420778975302)                       |
+| Author          | @CitrusAndLilium                               |
+| Region          | 未知                               |
+| Date            | 2024-08-24                                 |
+| Tags            | 跨性别, 恐怖片, Euphoria, HunterSchafer, 社交媒体, 电影评价, 性别认同,  LGBTQ+, 性别表达, 影视作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

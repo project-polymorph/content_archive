@@ -56,8 +56,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_关于性别认同（Gender_Indentify）_-_新宿男孩-_豆瓣.md                             |
 | Size            | 7072 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/6763799/](https://m.douban.com/movie/review/6763799/)                       |
 | Author          | neejun                               |
 | Region          | 未知                               |
 | Date            | 2014-07-27                                 |

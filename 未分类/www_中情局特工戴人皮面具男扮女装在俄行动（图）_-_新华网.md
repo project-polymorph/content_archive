@@ -39,7 +39,7 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2015年09月07日中情局特工戴上人皮面具，男扮女装于俄罗斯进行间谍活动的事件。报道详细描述了一名特工Robert Hines如何成功变装成黑人女性，以此掩藏身份，潜入指定地点。除此之外，文章中还提到另外两位特工Timothy Finnegan和John Granos，他们在行动中频繁变换装束，意图规避追踪。文章通过各种图片展现了特工的变装效果，以及其原始形象，强调了其间谍活动的隐秘与复杂性。整体来看，此文反映了关于间谍策略及性别表现之间的诸多关联，引发人们对跨性别表现形式在特定情境下所承担的功能的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_中情局特工戴人皮面具男扮女装在俄行动（图）_-_新华网.md                             |
 | Size            | 1348 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2015-09/07/c_128204431.htm](http://www.xinhuanet.com/world/2015-09/07/c_128204431.htm)                       |
+| Author          | 新华网                               |
+| Region          | 未知                               |
+| Date            | 2015-09-07                                 |
+| Tags            | 特工, 中情局, 人皮面具, 男扮女装, 间谍活动, 跨性别表现, 俄罗斯, 身份伪装, 安全, 时事新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

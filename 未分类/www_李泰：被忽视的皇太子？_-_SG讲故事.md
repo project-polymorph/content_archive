@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了唐朝皇太子李泰的生平与性格，揭示他在历史上的被忽视现象。李泰是唐太宗李世民的四子，自幼聪慧，却因为母亲的出身和身材上的特征受到社会的误解和嘲笑。在长大成人后，李泰并未按照常规走向仕途，而是选择留在京城，这引发了时代对他的怀疑。他曾多次试图篡位，导致对亲情的考验，名声因此受到影响。尽管如此，李泰在文学、书法、绘画等方面的才华仍然被后世敬佩。这篇文章旨在还原李泰真实的人生经历，为读者提供历史人物的多维度理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_李泰：被忽视的皇太子？_-_SG讲故事.md                             |
 | Size            | 2703 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jgushi.com/archives/151284](http://www.jgushi.com/archives/151284)                       |
+| Author          | saigege                               |
+| Region          | 未知                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 李泰, 唐朝, 历史人物, 皇太子, 性格分析, 文化影响, 文学, 书法, 绘画, 历史故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

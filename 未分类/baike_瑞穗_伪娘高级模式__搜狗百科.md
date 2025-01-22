@@ -81,8 +81,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_瑞穗_伪娘高级模式__搜狗百科.md                             |
 | Size            | 2172 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v74978333.htm](https://baike.sogou.com/v74978333.htm)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-09-10                                 |

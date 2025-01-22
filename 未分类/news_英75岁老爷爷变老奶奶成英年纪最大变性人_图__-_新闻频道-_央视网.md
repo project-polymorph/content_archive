@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_英75岁老爷爷变老奶奶成英年纪最大变性人_图__-_新闻频道-_央视网.md                             |
 | Size            | 2673 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.cctv.com/society/20090918/102423.shtml](http://news.cctv.com/society/20090918/102423.shtml)                       |
 | Author          | 中国新闻网                               |
 | Region          | 英国                               |
 | Date            | 2009-09-18                                 |

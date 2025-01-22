@@ -81,8 +81,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_易性癖，上帝的笔误-疾病大全_-_医生在线.md                             |
 | Size            | 4890 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.51daifu.com/disease/wzxq-50973.shtml](https://m.51daifu.com/disease/wzxq-50973.shtml)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-12-27                                 |

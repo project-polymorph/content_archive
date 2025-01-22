@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了扬州大学在本科生毕业论文质量管理方面的措施和成果。文中提到，该校通过三个强化策略，即强化制度管理、强化过程管理和强化导师指导，来确保论文质量。特别提到了一名学生孟赟的毕业论文《一例性身份识别障碍(易性癖)的个案研究——鉴定、成分分析与心理干预实践》，其改为探讨性身份识别障碍，反映了多元性别主题的学术关注。文章详细描述了学校如何管理毕业论文选题、答辩以及学生实习期间的论文监督，展示了高效的管理制度和学生的积极参与。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_扬州大学：“三个强化”严把毕业论文质量关-高校科技.md                             |
 | Size            | 5907 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/200906/t20090623_386052.shtml](https://www.edu.cn/ke_yan_yu_fa_zhan/gao_xiao_cheng_guo/gao_xiao_zi_xun/200906/t20090623_386052.shtml)                       |
+| Author          | 曹羽, 戴世勇                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-06-23                                 |
+| Tags            | 扬州大学, 毕业论文, 性身份识别障碍, 易性癖, 学术研究, 教育管理, 导师指导, 过程管理, 制度管理, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

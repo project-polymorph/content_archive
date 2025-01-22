@@ -27,8 +27,8 @@ Copyright Hiyouqu.com. All Rights Reserved.  苏ICP备08021577号
 |-----------------|----------------------------------------|
 | Filename        | pc_首例女变男变性手术成功_-_嗨有趣.md                             |
 | Size            | 849 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://pc.hiyouqu.com/post/13122.html](http://pc.hiyouqu.com/post/13122.html)                       |
 | Author          | 新华社、何清濂教授                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-12-14                                 |

@@ -50,8 +50,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_光怪陆离邪魅狂狷的重口味-_隐形怪物_-_豆瓣.md                             |
 | Size            | 3684 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/6453620/](https://m.douban.com/book/review/6453620/)                       |
 | Author          | 恰克·帕拉尼克 (Chuck Palahniuk)                               |
 | Region          | 美国                               |
 | Date            | 2012-04                                 |

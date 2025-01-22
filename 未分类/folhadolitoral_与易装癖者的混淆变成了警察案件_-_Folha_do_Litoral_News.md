@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | folhadolitoral_与易装癖者的混淆变成了警察案件_-_Folha_do_Litoral_News.md                             |
 | Size            | 2802 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://folhadolitoral.com.br/zh-CN/policia/confusao-com-travesti-vira-caso-de-policia](https://folhadolitoral.com.br/zh-CN/policia/confusao-com-travesti-vira-caso-de-policia)                       |
 | Author          | Folha do Litoral                               |
 | Region          | 巴西                               |
 | Date            | 2017-03-27                                 |

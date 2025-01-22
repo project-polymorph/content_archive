@@ -27,8 +27,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_男子跳桥被救医院为其做变性手术_67__-_海外网.md                             |
 | Size            | 636 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.haiwainet.cn/n/2015/0820/c3541092-29078406-6.html](http://news.haiwainet.cn/n/2015/0820/c3541092-29078406-6.html)                       |
 | Author          | 侯兴川                               |
 | Region          | 长春市, 中国                               |
 | Date            | 2015-08-20                                 |

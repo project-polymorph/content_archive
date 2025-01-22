@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含一个多元性别相关的视频汇总，其中列出了多个与多元性别主题相关的YouTube视频链接，包括转性经历、生活故事的见证等。这些视频涵盖了多元性别的各个方面，例如转变故事、美妆改变，以及兄妹之间如何相互支持的生活经历。每个视频都有其观看次数和上传时间，同时还附有视频缩略图和详情介绍。列表中的视频时长和链接便于访问及观看。该汇总旨在为对多元性别感兴趣的观众提供一系列的视觉资料与感人故事，以促进对多元性别生活的理解与认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -103,12 +103,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_CDTSTV_-_YouTube.md                             |
 | Size            | 5188 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/playlist?list=PLJEcR6VUSte3fL30I0PIP4HKOSyyF3RHW](https://www.youtube.com/playlist?list=PLJEcR6VUSte3fL30I0PIP4HKOSyyF3RHW)                       |
+| Author          | sam smith                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 转性故事, 视频汇总, YouTube, 性别认同, 社会支持, 自我表达, 化妆转变, 生活经历, 兄妹关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

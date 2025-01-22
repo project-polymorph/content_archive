@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了台湾高雄高等行政法院对跨性别者性别变更登记案的小那案的裁决，标志着跨性别者权利的新里程碑。2023年7月17日，法院判定小那胜诉，允许其在不经过性别重置手术的情况下进行性别变更登记。小那于2019年申请性别变更登记，但因无法提供手术证明而遭拒，最终通过行政诉讼得到法院支持，认为这一要求侵犯了宪法保护的个人自我性别认同权。该判决不仅为跨性别群体提供法律保障，也为台湾在性别平等方面迈出了重要一步。律师及专家也在庭审中提供了支持，强调变更性别登记的迫切性与重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_聲明｜跨性別權利的新里程性別變更登記再突破：小那案勝訴.md                             |
 | Size            | 3748 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jrf.org.tw/articles/2759](https://www.jrf.org.tw/articles/2759)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2023-07-17                                 |
+| Tags            | 跨性别权利, 性别变更登记, 小那案, 法律政策, 台湾, 性别认同, 人权, 司法实践, 性别研究, 胜诉                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

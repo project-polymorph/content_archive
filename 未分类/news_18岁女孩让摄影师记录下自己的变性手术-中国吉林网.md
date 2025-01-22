@@ -75,8 +75,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_18岁女孩让摄影师记录下自己的变性手术-中国吉林网.md                             |
 | Size            | 3151 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.cnjiwang.com/xwjk/201701/2300586.html](https://news.cnjiwang.com/xwjk/201701/2300586.html)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2017-01-07                                 |

@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了埃隆·马斯克（Elon Musk）变性女儿薇薇安·詹娜·威尔逊（Vivian Jenna Wilson）因唐纳德·特朗普（Donald Trump）当选总统而感到不满，宣布计划离开美国的故事。薇薇安对特朗普即将实施的LGBTQ+政策表示担忧，并在社交媒体上坦诚表达她的感受，称她不再看到自己在美国的未来。文章详细描述了她与父亲马斯克之间的意识形态分歧，以及两人关系的紧张。在声明中，薇薇安强调了自己曾考虑过这一决定，并提到她与父亲的互动一直不佳，马斯克在她生长过程中几乎缺席。她指责马斯克在对其性别转变的态度上并未给予支持，反而宣称他是反对跨性别群体的声音。文章还提到薇薇安在2022年的合法改名与转变经历，以及她与父亲间的悲剧性冲突，显现出父女关系的复杂与紧张。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_马斯克的变性女儿因特朗普胜选宣布离开美国..._-_加西网.md                             |
 | Size            | 6688 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.westca.com/News/article/sid=1049106/lang=schinese.html](https://www.westca.com/News/article/sid=1049106/lang=schinese.html)                       |
+| Author          | 译言网                               |
+| Region          | 未知                               |
+| Date            | 2024-11-14                                 |
+| Tags            | 变性, 马斯克, 特朗普, LGBTQ+, 跨性别, 性别认同, 家庭关系, 社会政策, 人权, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了英国青少年文学（YA）的读者群体，特别是许多成年人参与其中的现象。研究表明，英国已有28%的青少年文学读者年龄超28岁，这引发了对青少年文学的重新思考。文章中提到，成年人阅读青少年文学的原因主要包括寻求安慰和怀旧感，尤其是在生活充满压力时。这类文学作品通常情节丰富且易于理解，成为他们逃避现实的一种方式。此外，社交媒体平台对年轻人的阅读兴趣和身份认同有着显著影响。报道还提到了巴勒斯坦作家坎达基获国际阿拉伯小说奖以及哈利·波特系列主演与J.K.罗琳在跨性别议题上的对立，反映了文化生产与多元性别认同之间的关联。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_推迟“成年”：英国有超四分之一的青少年文学读者是成年人-_经济观察网.md                             |
 | Size            | 8794 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.eeo.com.cn/2024/0519/662026.shtml](http://www.eeo.com.cn/2024/0519/662026.shtml)                       |
+| Author          | 李彦慧, 黄月HY                               |
+| Region          | 未知                               |
+| Date            | 2024-05-19                                 |
+| Tags            | 青少年文学, 成年人读者, 跨性别议题, 社会文化现象, 出版研究, 文艺圈动态, 文学奖项, 性别认同, 社交媒体影响, 逃避现实文学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

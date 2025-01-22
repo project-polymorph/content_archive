@@ -75,8 +75,8 @@ evon为了变性，为了成为自己，失去了建构多年的稳定生活，�
 |-----------------|----------------------------------------|
 | Filename        | m_迷失的不是安狄是人性_-_豆瓣.md                             |
 | Size            | 4338 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/14122149/](https://m.douban.com/movie/review/14122149/)                       |
 | Author          | jo                               |
 | Region          | 马来西亚 / 中国台湾                               |
 | Date            | 2022-03-24                                 |

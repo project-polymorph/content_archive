@@ -130,7 +130,7 @@ This project is not possible without the collaboration of LGBTQI+ civil society 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了F&M全球晴雨表LGBTQI+感知指数调查的结果与方法，旨在衡量全球LGBTQI+社区的人权现状与感知。文件中提到，调查首先于2022年推出，之后的版本将在2024年期间进行。调查问卷涵盖六个基本问题，涉及个人安全、社交安全、包容度、歧视、对警察的恐惧及暴力等方面。问卷采用Likert量表，让受访者选择从1（最低）到5（最高）的评分，确保响应的随机与匿名性。每个国家在调查中根据得分被评定为A到F的等级，同时文件还提供了对于不同分数区间的描述与解释。文中也提及调查参与的多个国际LGBTQI+组织与合作伙伴。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -141,12 +141,12 @@ This project is not possible without the collaboration of LGBTQI+ civil society 
 |-----------------|----------------------------------------|
 | Filename        | www_2024年F&M全球晴雨表LGBTQI+感知指数调查.md                             |
 | Size            | 6012 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.lgbtqiperceptionindex.org/survey/mandarin/](https://www.lgbtqiperceptionindex.org/survey/mandarin/)                       |
+| Author          | F&M全球晴雨表                               |
+| Region          | 国际                               |
+| Date            | 2022-06-01                                 |
+| Tags            | LGBTQI+, 人权调查, 心理安全, 社会接受度, 歧视, 调查方法, 全球数据, 响应统计, 生命故事, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

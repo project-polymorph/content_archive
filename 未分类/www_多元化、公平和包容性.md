@@ -136,7 +136,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了多元化、公平和包容性的概念，强调了在职场中创建一个公平和具有包容性的环境的重要性，指出了多元化能够突显不同背景的存在，公平能够消除隔阂并提供成功的机会，而包容性则让员工可以展现真实的自我。同时，文中提到霸菱在多元化、公平和包容性策略方面所取得的显著进展，通过合作、承诺以及员工资源小组等形式，促进参与、发展和学习的机会，强调了多元化和包容性的企业文化在吸引和留住人才方面的关键作用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -147,12 +147,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_多元化、公平和包容性.md                             |
 | Size            | 6827 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.barings.com/zh-cn/individual/about/diversity-equity-and-inclusion](https://www.barings.com/zh-cn/individual/about/diversity-equity-and-inclusion)                       |
+| Author          | 霸菱                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元化, 公平, 包容性, 企业文化, 员工资源小组, 性别多元化, 职场包容性, 社会责任, 投资管理, 国际企业                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

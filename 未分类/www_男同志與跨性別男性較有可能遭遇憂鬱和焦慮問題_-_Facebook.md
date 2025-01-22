@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了多元性别族群，特别是男同志与跨性别男性在心理健康方面面临的挑战和问题。根据研究，LGBTIQ+族群中的非异性恋者遭受的虐待与暴力比异性恋者多出两倍，心理健康问题尤为严重。研究指出，跨性别者的抑郁风险显著高于其他群体，其中约60%的跨性别男性和50%的跨性别女性曾遭受抑郁症困扰。同时，曾遭受言语和身体伤害的LGBTIQ+青年，更易出现社交与精神健康问题。该文还提到，出柜压力、家庭关系、社会歧视等都是导致心理健康问题的主要因素。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男同志與跨性別男性較有可能遭遇憂鬱和焦慮問題_-_Facebook.md                             |
 | Size            | 2254 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=5080924881955935&id=139816669400139&set=a.141181139263692&locale=ms_MY](https://www.facebook.com/photo.php?fbid=5080924881955935&id=139816669400139&set=a.141181139263692&locale=ms_MY)                       |
+| Author          | 珍爱生命打气网                               |
+| Region          | 未知                               |
+| Date            | 2022-05-21                                 |
+| Tags            | 多元性别, 心理健康, LGBTIQ+, 校园霸凌, 抑郁症, 焦虑症, 跨性别, 男同志, 性别认同, 社会歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

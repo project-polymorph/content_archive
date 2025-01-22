@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了变性者所面临的挑战与心理困扰，以台湾变性人林国华的自杀事件为引子，提醒人们对于变性这一选择所需的心理与社会准备。文中指出，虽然变性对许多人而言是渴望已久之梦，但在实际生活中，变性者往往面临来自社会的歧视与压力。林国华在变性后未能适应新生活，经历了严重的心理问题，最终选择自杀，突显了变性者需要一个接纳的社会环境与心理支持。文章指出，变性背后隐藏的心理健康问题需要更多的关注，并建议父母培养孩子的正确性别意识，以避免引发性别认同的障碍。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zibomhc_变性的背后-_心理科普.md                             |
 | Size            | 3156 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://zibomhc.com/wiki/show-468.html](http://zibomhc.com/wiki/show-468.html)                       |
+| Author          | 淄博市精神卫生中心                               |
+| Region          | 台湾                               |
+| Date            | 2008-10-10                                 |
+| Tags            | 变性, 心理健康, 社会压力, 性别认同, 心理问题, 自我认同, 生命故事, 社会支持, 家庭教育, 易性病                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

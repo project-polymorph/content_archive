@@ -304,7 +304,7 @@ Email: [TG.AskME@gmail.com](mailto:TG.AskME@gmail.com)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了香港的性别重置医疗资讯，涵盖性别重置手术（变性手术）的相关流程、政府与私家诊所的比较、医疗资源、以及相关的法律和社会环境等信息。文章提供了申请手术所需的详细步骤，并列出在香港服务于跨性别人士的精神科医生和外科医生的联系信息。同时，文中提到政府医院提供的低费用支持，但需面临较长的排期时间，同时私家诊所虽然费用高但服务速度快。文末附有相关的图解和数据资源链接，为读者提供了进一步的参考，增加了实际操作的可行性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -315,12 +315,12 @@ Email: [TG.AskME@gmail.com](mailto:TG.AskME@gmail.com)
 |-----------------|----------------------------------------|
 | Filename        | www_性別重置醫療資訊.md                             |
 | Size            | 19726 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tgr.org.hk/index.php/zh/database/medical-info](https://www.tgr.org.hk/index.php/zh/database/medical-info)                       |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 2022-07-21                                 |
+| Tags            | 性别重置, 变性手术, 医疗资源, 心理咨询, 政府支持, 私家诊所, 法律政策, 社会环境, 跨性别, 医疗流程                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

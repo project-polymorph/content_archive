@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | support_github_最火项目Dress_女装大佬__-_艺赛旗社区.md                             |
 | Size            | 1824 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://support.i-search.com.cn/article/1572233452580](https://support.i-search.com.cn/article/1572233452580)                       |
 | Author          | huangjuan                               |
 | Region          | 未知                               |
 | Date            | 2019-10-28                                 |

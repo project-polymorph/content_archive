@@ -109,7 +109,7 @@ ISBN：9786267200605
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我是卡蜜兒：跨性別認同不是病》是一本描绘现代跨性别者心理挣扎与生活挑战的儿童文学作品，旨在增进对性别多样性的理解与接受。作者尚-卢‧费利喬利通过卡蜜兒的故事，展现她在新环境中的友谊与自我认同的探索，提出性别认同的多样性应该被尊重和理解。书中详细描绘了卡蜜兒从被同学排挤与欺凌到勇敢展现真实自我的心路历程，强调了在成长过程中对性别身份的接受与自我肯定的重要性。同时，本书也获得了联合国儿童基金会的儿童文学奖，是一本适合孩子、家长和教育工作者共同阅读的作品，鼓励大家关注跨性别者的生存现状与心理需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -120,12 +120,12 @@ ISBN：9786267200605
 |-----------------|----------------------------------------|
 | Filename        | www_我是卡蜜兒：跨性別認同不是病_-_讀書共和國.md                             |
 | Size            | 4504 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=17091](https://www.bookrep.com.tw/?md=gwindex&cl=book&at=bookcontent&id=17091)                       |
+| Author          | 尚-卢‧费利喬利（Jean-Loup Felicioli）                               |
+| Region          | 台湾                               |
+| Date            | 2023-03-22                                 |
+| Tags            | 跨性别, 性别认同, 儿童文学, 心理挣扎, 友情, 自我肯定, 多样性, 联合国儿童基金会, 教育资源, 文学作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

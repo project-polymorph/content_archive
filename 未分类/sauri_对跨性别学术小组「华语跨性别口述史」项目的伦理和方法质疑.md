@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sauri_对跨性别学术小组「华语跨性别口述史」项目的伦理和方法质疑.md                             |
 | Size            | 6541 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sauri.ca/posts/thought-on-trans-oral-histories/](https://sauri.ca/posts/thought-on-trans-oral-histories/)                       |
 | Author          | 北雁书                               |
 | Region          | 未知                               |
 | Date            | 2024-10-07                                 |

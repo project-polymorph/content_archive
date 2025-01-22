@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位印度男性为自己的好兄弟进行变性手术的故事。情节令人感到惊奇，描述了两人从兄弟情逐渐演变为爱情关系。由于对方在心理上的影响，最终决定去医院进行变性手术，并随即展开婚姻安排。文章的细节展示了这段关系的转变过程及其所面临的家庭与社会压力。当主角的父亲得知此事后，甚至建议他报警以保护自己。这个故事反映了印度社会中少数群体在身份认同和家庭关系方面的复杂性，同时也体现了爱情与性别认同之间的紧密联系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_印度老哥带自己好兄弟做变性手术_-_抖音.md                             |
 | Size            | 3971 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/video/7384001327556267301](https://www.douyin.com/video/7384001327556267301)                       |
+| Author          | 阿白解说                               |
+| Region          | 印度                               |
+| Date            | 2024-06-24                                 |
+| Tags            | 变性手术, 兄弟情, 爱情故事, 印度, 性别认同, 社会压力, 家庭关系, 心理影响, 婚姻安排, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

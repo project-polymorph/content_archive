@@ -18,7 +18,7 @@
 ### 评论
 
 - **ace4e205** - 2022-09-03 01:36  
-  三次元的伪娘底层逻辑不都是男性吗 ![](images/post/smile/smallface/face061.jpg) ![](//www.summer-plus.net/attachment/Mon_2209/9_1365017_cd4294120bf1b8d.jpg)
+  三次元的伪娘底层逻辑不都是男性吗 ![](images/post/smile/smallface/face061.jpg) ![](https://www.summer-plus.net/attachment/Mon_2209/9_1365017_cd4294120bf1b8d.jpg)
 
 - **霜露缚华** - 2022-09-03 01:37  
   见少了，三次元也有玩心智的：[https://t.me/bbcpuji](https://t.me/bbcpuji)
@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇讨论男娘现象与三次元（现实世界）相关内容的文章，发布于南+ South Plus。这篇文章探讨了在现实生活中存在的伪娘和真正的男娘之间的区别，以及心灵雌化的概念。讨论中涉及了对伪娘的底层逻辑的思考，评论区的参与者针对不同观点进行了热烈讨论，其中提及了性别认知障碍和心灵雌化的心理状态。一些评论者表达了对伪娘的看法，并讨论了在三次元中表现出性别流动性的可能性。文章亦体现了对二次元与三次元之间性别表现差异的思考，显示出多元性别文化的复杂性与多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我不太懂什么男娘但是这个只存在于二次元不是吗_-_南+_South_Plus.md                             |
 | Size            | 1530 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.summer-plus.net/simple/index.php?t1579501.html](https://www.summer-plus.net/simple/index.php?t1579501.html)                       |
+| Author          | ace4e205等                               |
+| Region          | 未知                               |
+| Date            | 2022-09-03                                 |
+| Tags            | 男娘, 三次元, 性别认知, 伪娘, 心灵雌化, 多元性别, 二次元文化, 心理状态, 社会讨论, 性别流动性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

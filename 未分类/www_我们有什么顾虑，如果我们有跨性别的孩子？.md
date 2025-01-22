@@ -81,7 +81,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了如果有跨性别孩子，家长可能面临的顾虑和建议。文章强调支持跨性别孩子的重要性，包括倾听和验证孩子的感受、尊重他们的身份、创造一个支持性的环境等。作者提供了一些具体的行动步骤，如教育自己关于跨性别知识、寻求专业指导、鼓励自我表达、以及应对欺凌和歧视等。这些建议旨在帮助家长理解和支持孩子，使他们能够健康成长并勇敢探索自己的性别认同。整篇文章力求传递出爱与接受是最重要的，呼吁建立一个充满理解和支持的家庭环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,12 +92,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我们有什么顾虑，如果我们有跨性别的孩子？.md                             |
 | Size            | 4104 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/blog/1502/what-are-our-concerns-if-we-have-transgender-children](https://www.kamolhospital.com/zh/blog/1502/what-are-our-concerns-if-we-have-transgender-children)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 支持, 家长指南, 性别认同, 儿童心理, 社会过渡, 自我表达, 家庭支持, 教育, 反欺凌                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

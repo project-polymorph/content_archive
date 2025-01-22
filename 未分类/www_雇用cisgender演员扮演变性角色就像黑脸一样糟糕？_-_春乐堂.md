@@ -54,7 +54,7 @@ _截止日期好莱坞首片与马特博默合作剪辑“Anything”_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了好莱坞在进行变性角色选角时所面临的伦理问题，特别是雇用cisgender演员（顺性别者）扮演跨性别角色的做法，认为这是对跨性别女性的不尊重和剥夺。这种现象与种族文化中的“黑脸”现象相类比，强调跨性别者有权由自己族群中的人来表演其真实经历，而非被外人所替代。文中提到，虽然有跨性别演员的选择，但电影制作人仍然偏好雇用cisgender演员，常常以“缺乏明星效应”作为借口，剥夺了跨性别演员的机会。这种选择不仅无法诠释真实的女性经验，更是对跨性别女性身份的否认，重复了性别偏见和刻板印象。通过对比历史上的黑脸现象，文章指出跨性别角色的扮演同样容易造成文化和性别误解，对跨性别群体造成伤害。作者呼吁社会应倾听跨性别群体的声音和故事，质疑好莱坞及其他文化产业在选角中的权力与代表性问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@ _截止日期好莱坞首片与马特博默合作剪辑“Anything”_
 |-----------------|----------------------------------------|
 | Filename        | www_雇用cisgender演员扮演变性角色就像黑脸一样糟糕？_-_春乐堂.md                             |
 | Size            | 6437 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.chunletang.com/6492/%E9%9B%87%E7%94%A8cisgender%E6%BC%94%E5%91%98%E6%89%AE%E6%BC%94%E5%8F%98%E6%80%A7%E8%A7%92%E8%89%B2%E5%B0%B1%E5%83%8F%E9%BB%91%E8%84%B8%E4%B8%80%E6%A0%B7%E7%B3%9F%E7%B3%95%EF%BC%9F.html](https://www.chunletang.com/6492/%E9%9B%87%E7%94%A8cisgender%E6%BC%94%E5%91%98%E6%89%AE%E6%BC%94%E5%8F%98%E6%80%A7%E8%A7%92%E8%89%B2%E5%B0%B1%E5%83%8F%E9%BB%91%E8%84%B8%E4%B8%80%E6%A0%B7%E7%B3%9F%E7%B3%95%EF%BC%9F.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别身份, 好莱坞, 演员选角, 文化挪用, 黑脸现象, 性别偏见, 影视表现, 跨性别故事, 代表权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

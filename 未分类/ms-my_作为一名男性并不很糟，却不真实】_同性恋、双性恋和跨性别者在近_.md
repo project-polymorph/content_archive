@@ -44,8 +44,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ms-my_作为一名男性并不很糟，却不真实】_同性恋、双性恋和跨性别者在近_.md                             |
 | Size            | 1303 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ms-my.facebook.com/voachina/videos/10153722364710686/](https://ms-my.facebook.com/voachina/videos/10153722364710686/)                       |
 | Author          | 美国之音中文网                               |
 | Region          | 未知                               |
 | Date            | 2016-08-06                                 |

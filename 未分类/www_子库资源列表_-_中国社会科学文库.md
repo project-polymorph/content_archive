@@ -102,7 +102,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档收录了多元性别相关的内容，主要集中在父母对孩子出柜反应的心理阶段及出柜过程中的困难与风险。通过引用《肯定性咨询法》中的案例与分析，讨论了性与性别少数群体在向父母出柜过程中的各种心理状态，包括震惊、自责、求治和适应等阶段。出柜不仅是一种自我认同的探索，也伴随着巨大的心理压力和社会适应的风险。父母的反应可能影响孩子的心理健康与性别认同的发展，而咨询师在这一过程中扮演着支持者和引导者的重要角色。文件还探讨了出柜心理咨询的要点，以及污名化对性与性别少数的身份认同的影响，强调了社会接纳度的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -113,12 +113,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_子库资源列表_-_中国社会科学文库.md                             |
 | Size            | 10780 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.sklib.cn/booklib/historyResources?SiteID=122&ID=328&ResType=literature&fromSubID=326&PageIndex=272](https://www.sklib.cn/booklib/historyResources?SiteID=122&ID=328&ResType=literature&fromSubID=326&PageIndex=272)                       |
+| Author          | 方刚、杨志红                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-04-01                                 |
+| Tags            | 性别, 出柜, 父母, 心理咨询, 性倾向, 身份认同, 跨性别, 污名化, 社会适应, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

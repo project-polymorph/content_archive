@@ -111,8 +111,8 @@
 |-----------------|----------------------------------------|
 | Filename        | almostjp_Wakabayashi_Yuma_-_若林佑马_-_Almost_Japanese.md                             |
 | Size            | 4601 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://almostjp.com/zh-CN/talent/wakabayashiyuma/](https://almostjp.com/zh-CN/talent/wakabayashiyuma/)                       |
 | Author          | 未知                               |
 | Region          | 日本                               |
 | Date            | 未知                                 |

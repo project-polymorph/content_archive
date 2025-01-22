@@ -31,8 +31,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sis001_【命中注定做女人（CD变装）】第十六章迷情周末（8）_-_SiS001.md                             |
 | Size            | 489 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sis001.com/forum/thread-11402645-1-1.html](https://sis001.com/forum/thread-11402645-1-1.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

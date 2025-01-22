@@ -73,8 +73,8 @@ netiCRM 是一套採用 [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.html) �
 |-----------------|----------------------------------------|
 | Filename        | lgbtfamily_我們的平等未來」：《胡利安是隻美人魚》－跨性別女孩的生命經驗.md                             |
 | Size            | 2761 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://lgbtfamily.neticrm.tw/civicrm/event/info?reset=1&id=109](https://lgbtfamily.neticrm.tw/civicrm/event/info?reset=1&id=109)                       |
 | Author          | 台湾同志家庭权益促进会                               |
 | Region          | 台湾                               |
 | Date            | 2020-10-24                                 |

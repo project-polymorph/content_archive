@@ -66,8 +66,8 @@ Commonwealth Corporation是一家准公共机构，成立于1996年，隶属于�
 |-----------------|----------------------------------------|
 | Filename        | commcorp_英联邦公司-_庆祝骄傲月.md                             |
 | Size            | 2974 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://commcorp.org/zh/blog/celebrating-pride-month/](https://commcorp.org/zh/blog/celebrating-pride-month/)                       |
 | Author          | 杰夫·史密斯                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

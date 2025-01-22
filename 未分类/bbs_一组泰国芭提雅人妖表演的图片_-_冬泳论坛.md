@@ -51,8 +51,8 @@ _本帖最后由 中国冰人 于 2012-3-24 10:14 编辑_
 |-----------------|----------------------------------------|
 | Filename        | bbs_一组泰国芭提雅人妖表演的图片_-_冬泳论坛.md                             |
 | Size            | 2676 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://bbs.china-ws.org/thread-452179-1-1.html](http://bbs.china-ws.org/thread-452179-1-1.html)                       |
 | Author          | 中国冰人                               |
 | Region          | 泰国                               |
 | Date            | 2012-03-24                                 |

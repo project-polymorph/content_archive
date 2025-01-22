@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《女装大佬是暴娇花》是作者四火夕山创作的一部完结耽美小说，主要描绘了一个任性直率女装攻和帅气沉稳大佬受之间的情感故事。故事中，男主角陆时宁是陆氏集团的继承人，性格强势而叛逆，而另一位男主则沉稳冷静，是个成熟的家长角色。小说通过生动的情节和角色间的互动，展现了他们的爱情和个人成长，使读者在享受浪漫情感的同时，也反思性别和身份的多样性。此书虽然是一部文学作品，但也反映了当代社会对多元性别、性别认同以及青年群体情感经历的关注，适合对耽美小说和多元性别表达感兴趣的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬是暴娇花_四火夕山【完结+番外】_-_52书库.md                             |
 | Size            | 1379 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.52shuku.vip/xiandaidushi/b/bjQYa.html](https://www.52shuku.vip/xiandaidushi/b/bjQYa.html)                       |
+| Author          | 四火夕山                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女装大佬, 耽美小说, 现代都市, 豪门总裁, 情有独钟, 性别认同, 爱情故事, 成长经历, 多元性别, 文学作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

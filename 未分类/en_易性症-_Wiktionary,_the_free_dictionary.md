@@ -91,8 +91,8 @@ Retrieved from "[https://en.wiktionary.org/w/index.php?title=易性症&oldid=786
 |-----------------|----------------------------------------|
 | Filename        | en_易性症-_Wiktionary,_the_free_dictionary.md                             |
 | Size            | 6377 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://en.wiktionary.org/wiki/%E6%98%93%E6%80%A7%E7%97%87](https://en.wiktionary.org/wiki/%E6%98%93%E6%80%A7%E7%97%87)                       |
 | Author          | 未知                               |
 | Region          | 中国                               |
 | Date            | 2019-07-04                                 |

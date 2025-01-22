@@ -122,8 +122,8 @@ La communication conjointe no 6 note que les autorités ont tenté de restreindr
 |-----------------|----------------------------------------|
 | Filename        | context_女同性恋者-翻译为法语-例句中文_-_Reverso_Context.md                             |
 | Size            | 6464 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E6%B3%95%E8%AF%AD/%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E8%80%85](https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E6%B3%95%E8%AF%AD/%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E8%80%85)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

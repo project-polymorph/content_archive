@@ -53,7 +53,7 @@
 
 \[注\]文中引用的变性别欲者的话，均出自互联网上的“变性吧”，笔者仅对文字稍作修改。
 
-![](//img.gmw.cn/pic/gmwLogo_share.jpg)
+![](https://img.gmw.cn/pic/gmwLogo_share.jpg)
 
 [版权声明：转载须经版权人书面授权并注明来源](https://www.gmw.cn/content/2011-02/14/content_1609313.htm)
 <!-- tcd_original_link https://www.gmw.cn/02blqs/2010-02/07/content_1133352.htm -->
@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性别欲者在中国社会中的酸甜苦辣，深入分析了主流社会对性别的二元观念如何忽视和排斥多元性别个体。文章指出，虽然近年媒体对变性人的关注增多，但普遍的理解和包容度仍然不足。作者引用了2007年出版的乔安娜·迈耶罗维茨的《性别是如何改变的？》一书，讨论了生理性别、社会性别与心理性别的复杂交织。同时，文章还提出了变性别者在儿童时期受到的性别期待和对其心理健康的影响，以及变性手术的社会和法律背景。文中提到，变性人面临的身体与社会身份的冲突，不仅影响其个人生活，还反映出我国在性别平等教育和法律保障方面的缺陷。作者强调，性别认同的多元性需获得更多的社会认可，以及法律上的支持，以实现真正的人权保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性别欲者之酸甜苦辣_博览群书_-_光明网.md                             |
 | Size            | 19509 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gmw.cn/02blqs/2010-02/07/content_1133352.htm](https://www.gmw.cn/02blqs/2010-02/07/content_1133352.htm)                       |
+| Author          | 林红                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-02-07                                 |
+| Tags            | 变性, 多元性别, 跨性别运动, 性别认同, 法律政策, 社会包容, 性别文化, 性别角色, 家庭伦理, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

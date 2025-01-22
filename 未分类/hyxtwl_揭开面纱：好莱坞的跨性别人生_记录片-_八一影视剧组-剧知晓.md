@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hyxtwl_揭开面纱：好莱坞的跨性别人生_记录片-_八一影视剧组-剧知晓.md                             |
 | Size            | 3724 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hyxtwl.com/index.php/vod/detail/id/85608.html](https://hyxtwl.com/index.php/vod/detail/id/85608.html)                       |
 | Author          | 八一影视剧组                               |
 | Region          | 美国                               |
 | Date            | 2023-03-07                                 |

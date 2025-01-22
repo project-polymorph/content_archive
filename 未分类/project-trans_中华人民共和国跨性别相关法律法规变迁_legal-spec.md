@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | project-trans_中华人民共和国跨性别相关法律法规变迁_legal-spec.md                             |
 | Size            | 4235 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://project-trans.org/legal-spec/](https://project-trans.org/legal-spec/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

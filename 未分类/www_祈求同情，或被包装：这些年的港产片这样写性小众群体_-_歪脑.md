@@ -125,7 +125,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《祈求同情，或被包装：这些年的港产片这样写性小众群体》，探讨了香港电影中对性小众群体的刻画与演变。通过对关锦鹏和洪荣杰等香港导演的电影作品的分析，文中讨论了香港主流影视从九十年代以来对LGBT群体的描写方式，以及这些描写怎样反映了社会的文化认同和性别认同问题。文章提及了影视作品中常见的对少数群体的刻板印象，包括将他们描绘为需要同情的角色，或是以异性恋主流的审美理念来包装的形象，例如在《男生女相》和《无声风铃》中对情感的处理。整体来看，香港电影在性别呈现方面仍然存在着较大的挑战与转变空间，许多导演和作品依旧以探讨个人经验为出发点，希望能突破传统的性别观念。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -136,12 +136,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_祈求同情，或被包装：这些年的港产片这样写性小众群体_-_歪脑.md                             |
 | Size            | 18234 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wainao.me/wainao-reads/lgbtq-in-hongkong-movies-20201116](https://www.wainao.me/wainao-reads/lgbtq-in-hongkong-movies-20201116)                       |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 港产片, 性小众, 性别认同, 同性恋, 电影分析, 关锦鹏, 洪荣杰, LGBT, 社会文化, 电影响应                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

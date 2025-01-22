@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《重生支持：我爸年过半百，却突然要去做变性手术》的YouTube视频脚本，作者为喵喵Cat Story。内容讲述了一位年逾半百的父亲决定进行变性手术的故事，父亲表达了希望实现做真正女人的心愿，尽管作者对此表示了担忧，认为手术带来危害。本文以视频脚本的形式呈现，涉及父亲对变性手术的渴望与家庭成员之间的沟通与理解。文件中提到每日更新精彩短篇小说故事，鼓励观众点赞与关注，并欢迎在评论区留言。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《重生支持》我爸年过半百，却突然要去做变性手术，说_..._-_YouTube.md                             |
 | Size            | 1165 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=hyAZOM9iGZs](https://www.youtube.com/watch?v=hyAZOM9iGZs)                       |
+| Author          | 喵喵Cat Story                               |
+| Region          | 未知                               |
+| Date            | 2024-07-23                                 |
+| Tags            | 变性手术, 父亲, 变性, 个人故事, 生命转变, 家庭, 医疗风险, 生活经历, 心理支持, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

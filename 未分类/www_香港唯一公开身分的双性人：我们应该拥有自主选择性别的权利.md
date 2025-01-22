@@ -97,7 +97,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了香港唯一公开身份的双性人细细老师的故事，她描述了自己从出生以来经历的痛苦和困惑。细细老师出生时因性别不明确而受到社会和家庭的压力，被迫接受多次手术以符合社会的性别期望。在与社会与医疗体系冲突的过程中，她逐渐意识到自己作为双性人的身份，并勇敢出来倡导双性人应该拥有自主选择性别和治疗的权利。文章还提到香港社会对双性人的歧视以及细细老师在推动性别平权方面的努力与挑战。细细老师通过真实的案例反映出双性人在社会中的生存现状及其遭遇，强调了父母和社会对待双性人的方式需要改变。她还提出，不同的性别身份并不代表个体的价值，应该被社会所尊重并给予公平对待。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,12 +108,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_香港唯一公开身分的双性人：我们应该拥有自主选择性别的权利.md                             |
 | Size            | 15663 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wainao.me/wainao-reads/HKs-only-openly-intersex-person-07122023](https://www.wainao.me/wainao-reads/HKs-only-openly-intersex-person-07122023)                       |
+| Author          | 细细老师                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 双性人, 性别认同, 自我选择, 医疗暴力, 社会歧视, 生命故事, 性别平权, 家庭压力, 香港社会, 人权问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

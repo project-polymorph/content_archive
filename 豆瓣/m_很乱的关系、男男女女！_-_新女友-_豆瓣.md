@@ -35,8 +35,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_很乱的关系、男男女女！_-_新女友-_豆瓣.md                             |
 | Size            | 1452 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/7440094/](https://m.douban.com/movie/review/7440094/)                       |
 | Author          | 未知                               |
 | Region          | 法国                               |
 | Date            | 2014-11-05                                 |

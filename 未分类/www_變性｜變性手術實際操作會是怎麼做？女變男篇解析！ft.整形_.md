@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细解析了女性向男性的变性手术的实际操作过程，阐述了手术的步骤以及相关的医学知识。内容来自ME美医誌，该平台致力于分享美容医学和健康信息。通过这篇文章，读者可以对变性手术有一个全面的了解，尤其是对于那些考虑进行此类手术的人群。文章强调了获取透明的信息和专业支持的重要性，鼓励读者在追求自身认同过程中主动寻求有用的资源和帮助。本文还提供了一些相关视频链接，以供读者进一步了解性别认同障碍和变性手术。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變性｜變性手術實際操作會是怎麼做？女變男篇解析！ft.整形_.md                             |
 | Size            | 1881 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=CYRTlKYmzRg](https://www.youtube.com/watch?v=CYRTlKYmzRg)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别认同障碍, 医疗资源, 性别多元, 医学知识, 变性经历, 健康信息, 社会支持, 透明化信息, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

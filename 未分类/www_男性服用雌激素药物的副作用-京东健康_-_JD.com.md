@@ -40,7 +40,7 @@ Copyright © 2020 jdjiankang.com 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了男性在服用雌激素药物过程中的副作用，尤其是在使用雌性激素药物时可能对男性身体和心理产生的影响。文章指出，男性通常较少使用雌激素，但当需要使用时，可能会对其正常生理功能产生抑制作用。例如，男性使用雌激素后可能出现体毛减少、皮肤变得光滑、肌肉含量下降以及体能下降，导致整体状态趋向女性化。此外，长期使用雌激素还可能导致严重的并发症，如骨质疏松、肿瘤的发生，甚至乳腺癌的风险增加。文章强调了在服用雌激素时应当慎重并建议患者始终咨询专业医生以获得适当的指导和建议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@ Copyright © 2020 jdjiankang.com 版权所有
 |-----------------|----------------------------------------|
 | Filename        | www_男性服用雌激素药物的副作用-京东健康_-_JD.com.md                             |
 | Size            | 2350 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/pccontent/12110064](https://www.jd.com/pccontent/12110064)                       |
+| Author          | 曾汉青                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 雌激素, 副作用, 男性健康, 药物使用, 心理影响, 骨质疏松, 乳腺癌, 前列腺癌, 医疗建议, 生活质量                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了在第90届奥斯卡颁奖典礼上，跨性别男性导演杨斯福特（Yance Ford）凭借其纪录片《坚强之岛》（Strong Island）成为首位入围的变性人导演。文章探讨了杨斯福特的电影作品，深入剖析了个人家庭经历与种族问题的关系，特别是他兄弟被枪杀的悲惨故事。同时，文章也提到其他几部关注多元性别议题的影片，如丹妮拉维加主演的《不思议女人》（A Fantastic Woman）和介绍各种不同爱情故事的电影，展示出奥斯卡对LGBTQ话题日益增强的包容性。值得注意的是，文章提到的同行与社会对多元性别故事表达的渴望，反映了文化界在推进社会理解和包容性的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_杨斯创奥斯卡历史90年来首位变性人导演入围_-_东方日报.md                             |
 | Size            | 3035 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.orientaldaily.com.my/news/entertainment/2018/01/30/229934](https://www.orientaldaily.com.my/news/entertainment/2018/01/30/229934)                       |
+| Author          | 东方日报                               |
+| Region          | 未知                               |
+| Date            | 2018-01-30                                 |
+| Tags            | 多元性别, 跨性别导演, 杨斯福特, 坚强之岛, 奥斯卡, LGBTQ, 电影, 社会包容, 种族问题, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

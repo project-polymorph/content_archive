@@ -144,8 +144,8 @@ DOI: [10.3760/cma.j.issn.1673-4181.2019.04.001](https://doi.org/10.3760/cma.j.is
 |-----------------|----------------------------------------|
 | Filename        | rs_基于国家卫生与健康管理大数据平台的医疗保险模式.md                             |
 | Size            | 21477 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rs.yiigle.com/cmaid/1163837](https://rs.yiigle.com/cmaid/1163837)                       |
 | Author          | 李迎新，黄河，中华医学会                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-08-28                                 |

@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_江西男演员靠模仿小沈阳走红为星途欲变性_-_海口网.md                             |
 | Size            | 4513 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.hkwb.net/content/2011-06/20/content_350552.htm](http://m.hkwb.net/content/2011-06/20/content_350552.htm)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-06-20                                 |

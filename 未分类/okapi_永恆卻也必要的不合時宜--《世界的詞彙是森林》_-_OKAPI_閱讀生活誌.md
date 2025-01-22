@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | okapi_永恆卻也必要的不合時宜--《世界的詞彙是森林》_-_OKAPI_閱讀生活誌.md                             |
 | Size            | 10921 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://okapi.books.com.tw/article/18268](https://okapi.books.com.tw/article/18268)                       |
 | Author          | 劉芷妤                               |
 | Region          | 台湾                               |
 | Date            | 2024-10-28                                 |

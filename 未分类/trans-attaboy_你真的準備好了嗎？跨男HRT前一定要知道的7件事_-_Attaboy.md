@@ -125,8 +125,8 @@ Deven寫過一篇文章整理[HRT的各項效果與副作用](https://trans-atta
 |-----------------|----------------------------------------|
 | Filename        | trans-attaboy_你真的準備好了嗎？跨男HRT前一定要知道的7件事_-_Attaboy.md                             |
 | Size            | 12845 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://trans-attaboy.com/7-things-you-should-know-before-t/](https://trans-attaboy.com/7-things-you-should-know-before-t/)                       |
 | Author          | Attaboy Deven                               |
 | Region          | 未知                               |
 | Date            | 2021-01-03                                 |

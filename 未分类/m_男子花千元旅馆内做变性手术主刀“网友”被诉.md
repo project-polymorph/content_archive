@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_男子花千元旅馆内做变性手术主刀“网友”被诉.md                             |
 | Size            | 2510 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huanqiu.com/article/9CaKrnJYukb](https://m.huanqiu.com/article/9CaKrnJYukb)                       |
 | Author          | 通讯员 蒋凤静                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-11-08                                 |

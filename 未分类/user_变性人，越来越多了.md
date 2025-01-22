@@ -129,7 +129,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人的故事，通过大卫和布兰达的案例反映出跨性别者在性别认同、社会认同和医疗体系中的复杂关系。1966年，加拿大男孩大卫因手术失败接受性别重置手术，长大后经历了性别转变和重返男性身份，最终因抑郁症自杀身亡。文中分析了变性手术的过程、成效及其争议，指出变性手术不仅关系到身体的改造，还涉及心理和社会的重建。文章引用数据揭示美国跨性别者的现状，例如现有约0.6%的跨性别人口，每年有9000例变性手术。讨论了变性手术对心理健康、生活质量的影响，以及变性手术在医疗保险政策下受到的限制。此外，文中涉及变性手术的伦理困境、社会接受度及其对女性主义和保守主义者观点的挑战。最后，文章呼吁对跨性别者提供更多的医疗和社会支持，以改善他们的生活状态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -140,12 +140,12 @@
 |-----------------|----------------------------------------|
 | Filename        | user_变性人，越来越多了.md                             |
 | Size            | 11592 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://user.guancha.cn/main/content?id=1077203](https://user.guancha.cn/main/content?id=1077203)                       |
+| Author          | 环行星球                               |
+| Region          | 未知                               |
+| Date            | 2023-09-01                                 |
+| Tags            | 变性人, 跨性别, 性别认同, 医疗资源, 心理健康, 社会环境, 法律政策, 性别转换, 身体认同, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -60,8 +60,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_【同性变性】易性癖男掰弯直男后又扳直，真命天子真爱电影_..._-_Bilibili.md                             |
 | Size            | 1834 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.bilibili.com/video/av55947742?bsource=sogou&fr=seo.bilibili.com](https://m.bilibili.com/video/av55947742?bsource=sogou&fr=seo.bilibili.com)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2019-06-17                                 |

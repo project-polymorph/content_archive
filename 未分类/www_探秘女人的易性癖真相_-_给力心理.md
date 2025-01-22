@@ -24,7 +24,11 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了女性易性癖的心理特征和临床表现，指出易性癖是女子极端男性化的现象。文章首先分析了这种现象的临床特点，指出在儿童时期，她们往往否认自己的性别，并寻求以男性身份存在的机会。在青春期之后，她们可能会寻找男性伴侣，形成一种女性与男性伴侣的关系，但实际上与传统的性别角色并不一致。
+
+接着，文章探讨了易性癖的病因，认为其与幼年时期的家庭环境及母亲的心理状态密切相关，特别是在母亲有抑郁症等心理障碍时，女孩可能承担起慰藉家庭的责任，从而发展出男性化的特征。文章也提到目前尚无有效的方法来治疗女性易性癖问题，这是一个复杂且尚未解答的心理和社会现象。
+
+最后，本文引用了一些专业术语，并分析了这类个体的性别认同形成的困难，以及她们在日常生活中存在的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_探秘女人的易性癖真相_-_给力心理.md                             |
 | Size            | 2593 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.geilixinli.com/wddoc/?p=86755](https://www.geilixinli.com/wddoc/?p=86755)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-11-29                                 |
+| Tags            | 易性癖, 女性心理, 性别认同, 临床特点, 病因学, 心理健康, 治疗方法, 家庭环境, 青春期, 妇女问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

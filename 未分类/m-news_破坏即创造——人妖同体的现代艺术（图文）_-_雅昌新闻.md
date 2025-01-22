@@ -79,8 +79,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m-news_破坏即创造——人妖同体的现代艺术（图文）_-_雅昌新闻.md                             |
 | Size            | 9989 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m-news.artron.net/20120723/n180977.html](https://m-news.artron.net/20120723/n180977.html)                       |
 | Author          | 刘骁纯                               |
 | Region          | 中国                               |
 | Date            | 2011-07-30                                 |

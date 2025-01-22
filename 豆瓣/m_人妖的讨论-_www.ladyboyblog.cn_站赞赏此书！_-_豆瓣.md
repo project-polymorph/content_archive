@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖的讨论-_www.ladyboyblog.cn_站赞赏此书！_-_豆瓣.md                             |
 | Size            | 667 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/discussion/1376456](https://m.douban.com/book/discussion/1376456)                       |
 | Author          | 米奇呀呀                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-02-17                                 |

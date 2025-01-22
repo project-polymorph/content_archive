@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_杂-_豆瓣.md                             |
 | Size            | 2425 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/148801938/](https://m.douban.com/doulist/148801938/)                       |
 | Author          | boilmhaeta                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-02-16                                 |

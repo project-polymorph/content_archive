@@ -64,7 +64,7 @@ Altinay博士说，这一现象就说明了“性别不安”不仅仅是个体�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人与大脑的关系，强调了变性人群体在心理及生理上的复杂性。研究指出，变性人的大脑具有独特的特征，可以区别于男性和女性的大脑，这一发现挑战了传统医学对性别研究的关注点，转向了“大脑性别”的概念。作者张宇根据俄亥俄州克利夫兰诊所的Altinay博士的研究总结道，变性人的大脑在体积和结构上介于男性和女性之间，存在一些明显的生理差异。这些差异不仅在承认性别身份方面与“性别不安”联系密切，研究还指出，性别不安的患者通过医疗手段的改变，脑部相关数据也会显著变化。这更深刻地揭示了性别认同的复杂性以及相关心理治疗的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@ Altinay博士说，这一现象就说明了“性别不安”不仅仅是个体�
 |-----------------|----------------------------------------|
 | Filename        | www_“变性”只是变“性”吗，当然还有“大脑”_-_CN-Healthcare.md                             |
 | Size            | 4842 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cn-healthcare.com/article/20180524/content-503676.html](https://www.cn-healthcare.com/article/20180524/content-503676.html)                       |
+| Author          | 张宇（编译）                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-05-24                                 |
+| Tags            | 变性, 性别, 变性人, 大脑, 性别不安, 心理健康, 抑郁症, 法律政策, 性别认知, 医学研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

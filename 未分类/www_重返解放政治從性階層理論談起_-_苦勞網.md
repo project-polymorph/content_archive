@@ -186,7 +186,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章《重返解放政治 從性階層理論談起》出自苦劳网，作者徐沛然于2016年5月5日发表。文章围绕性解放政治展开，探讨性阶层理论对社会运动和性别认同的影响。通过回顾一个关于女工抗争的纪录片，作者揭示了在权力结构中工人与领导者之间复杂的关系，以及长期存在的家父长制文化如何影响着工人的抗争意识。文章接着引用了恶名昭彰的学者盖儿‧鲁宾的理论，分析了性阶层在当代社会的指涉与运作，尤其是在推动同性婚姻等社会运动中，如何利用性道德标准来争取合法性以及可能的负面影响。最后，文章探讨了基于个人经验的认同政治，强调不同背景的个体在相同运动中的物化现象，以及如何在缺乏共同经验时形成集体认同和共同目标的困难。这篇文章不仅为理解多元性别运动提供了重要的理论基础，也探讨了性别权利争取过程中的内外挑战和复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -197,12 +197,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_重返解放政治從性階層理論談起_-_苦勞網.md                             |
 | Size            | 30900 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.coolloud.org.tw/node/85267](https://www.coolloud.org.tw/node/85267)                       |
+| Author          | 徐沛然                               |
+| Region          | 未知                               |
+| Date            | 2016-05-05                                 |
+| Tags            | 性解放, 性阶层, LGBT, 工人抗争, 家父长制, 认同政治, 性别运动, 社会运动, 同性婚姻, 性格权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了香港男演员李豪的生平与演艺经历。李豪出生于1989年4月17日，成长于顺德，他在2007年参加了香港先生选举，并获得了最具人气奖。此后，他加入无线电视艺员训练班，并开始了他的演艺生涯。李豪在多部电视剧中扮演角色，其中包括饰演变性人Annie的角色在电视剧《4 In Love》中，显示了其对多元性别和跨性别角色的积极参与。此外，本文还提到了一些与李豪相关的标签，如“香港演员”和“变性人角色”。虽然文件中提到了一些演员的动态和荣誉，但具体信息没有详细列出，且评论部分暂无反馈。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_李豪的年龄,今年多少岁,生日是哪天_-_明星排行榜.md                             |
 | Size            | 1293 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.3105.cn/star/lihao/age.html](http://www.3105.cn/star/lihao/age.html)                       |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 李豪, 香港演员, 变性人角色, 演艺经历, 电视剧, 香港先生选举, 无线电视艺员训练班, 4 In Love, 多元性别, 影视资料                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

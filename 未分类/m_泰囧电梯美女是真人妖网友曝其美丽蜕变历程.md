@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰囧电梯美女是真人妖网友曝其美丽蜕变历程.md                             |
 | Size            | 3116 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.przwt.com/releases/story/3300.html](https://m.przwt.com/releases/story/3300.html)                       |
 | Author          | 缤丽网                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-12-27                                 |

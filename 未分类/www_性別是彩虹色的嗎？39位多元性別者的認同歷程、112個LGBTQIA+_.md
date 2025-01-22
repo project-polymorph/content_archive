@@ -78,7 +78,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本书《性别是彩虹色的吗？39位多元性别者的认同历程、112个LGBTQIA+关键字、探索性别光谱，认识性少数、性别多样化，给青少年的最友善性别教育读本》由艾胥莉·马岱尔创作，李斯毅翻译，是一本专注于多元性别议题的教育读物。书中汇集了39位多元性别者的亲身经历，让读者感受到多元性别的真实与多样性。它提供112个性别关键词，通过彩色图解展示性别光谱，旨在帮助青少年更好地理解性别多样性。书中还附有关于LGBTQIA+群体的丰富资源和延伸阅读建议，含有对多元性别者生存现状的真实记录与分享。出版日期为2020年9月30日，受到了多位性别研究学者与人权人士的推荐，评价均很高，是一本具有重要教育意义的书籍。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -89,12 +89,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性別是彩虹色的嗎？39位多元性別者的認同歷程、112個LGBTQIA+_.md                             |
 | Size            | 3414 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.taaze.tw/products/11100918051.html?srsltid=AfmBOoo8IZip8uyMRTIK6exOi8ysySpI--YCTqSWwMn02PYfWlBBkW_9](https://www.taaze.tw/products/11100918051.html?srsltid=AfmBOoo8IZip8uyMRTIK6exOi8ysySpI--YCTqSWwMn02PYfWlBBkW_9)                       |
+| Author          | 艾胥莉·马岱尔                               |
+| Region          | 台湾                               |
+| Date            | 2020-09-30                                 |
+| Tags            | 性别教育, 多元性别, LGBTQIA+, 性别光谱, 性别认同, 社会科学, 性别研究, 青少年阅读, 真实经历, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

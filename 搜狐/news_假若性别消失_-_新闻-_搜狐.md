@@ -100,8 +100,8 @@ IOC医学委员会主席林奎斯特强调：“变性人问题已经到了非�
 |-----------------|----------------------------------------|
 | Filename        | news_假若性别消失_-_新闻-_搜狐.md                             |
 | Size            | 12021 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/2004/01/07/37/news218113730.shtml](http://news.sohu.com/2004/01/07/37/news218113730.shtml)                       |
 | Author          | 吕娟                               |
 | Region          | 中国大陆                               |
 | Date            | 2004-01-07                                 |

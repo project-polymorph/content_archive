@@ -104,7 +104,7 @@ surgical procedures  laparoscopic  resection of internal reproduction organs of 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要探讨腹腔镜手术在女性易性癖患者进行性再赋手术中的应用价值。文章介绍了一种新的全切除女性内生殖器官的手术方法，研究了该方法在患者中的实际效果和手术过程的细节。研究包括2000年1月至2004年5月间24名因女变男易性癖行腹腔镜下全切除手术的患者。手术过程中使用了改良的开放式穿刺，成功完成全子宫及双附件切除，术后恢复情况良好。根据记录，手术时间为91.3分钟，出血量254.6毫升，术后恢复到进食状态的时间为12.2小时。这些数据表明，腹腔镜手术在易性癖患者的性再赋手术中具有显著的临床应用价值，可以减少创伤，加快恢复，并且术后结果的美观性提高。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -115,12 +115,12 @@ surgical procedures  laparoscopic  resection of internal reproduction organs of 
 |-----------------|----------------------------------------|
 | Filename        | xuebao_外科手术,腹腔镜、女性内生殖器官全切除术_-_海军军医大学学报.md                             |
 | Size            | 7768 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://xuebao.smmu.edu.cn:80/ajsmmu/ch/reader/view_reference.aspx?jid=18AF8F1EB82D46F97A96332747E11D21&aid=FD376CC9E0FEDB7E&yid=D0E58B75BFD8E51C&iid=59906B3B2830C2C5](https://xuebao.smmu.edu.cn:80/ajsmmu/ch/reader/view_reference.aspx?jid=18AF8F1EB82D46F97A96332747E11D21&aid=FD376CC9E0FEDB7E&yid=D0E58B75BFD8E51C&iid=59906B3B2830C2C5)                       |
+| Author          | 李文, 刘彦, 金志军, 刘晓军, 胡电                               |
+| Region          | 中国                               |
+| Date            | 2004-12-01                                 |
+| Tags            | 腹腔镜手术, 易性癖, 性再赋手术, 女性内生殖器官全切除术, 手术方法, 临床研究, 医疗资源, 生殖健康, 转性别手术, 外科手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

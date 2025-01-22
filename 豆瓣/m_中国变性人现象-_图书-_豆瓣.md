@@ -96,8 +96,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_中国变性人现象-_图书-_豆瓣.md                             |
 | Size            | 5484 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/1274954/](https://m.douban.com/book/subject/1274954/)                       |
 | Author          | 方刚                               |
 | Region          | 中国                               |
 | Date            | 1996-11-01                                 |

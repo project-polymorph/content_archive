@@ -275,8 +275,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨儿跨性别跨装跨性性转_-_豆瓣.md                             |
 | Size            | 8736 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://www.douban.com/doulist/46288735/](https://www.douban.com/doulist/46288735/)                       |
 | Author          | 乐欢喜                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-10-31                                 |

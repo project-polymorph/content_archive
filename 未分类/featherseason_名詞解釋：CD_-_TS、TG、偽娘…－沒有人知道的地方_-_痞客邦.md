@@ -98,8 +98,8 @@
 |-----------------|----------------------------------------|
 | Filename        | featherseason_名詞解釋：CD_-_TS、TG、偽娘…－沒有人知道的地方_-_痞客邦.md                             |
 | Size            | 5450 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://featherseason.pixnet.net/blog/post/13386817](https://featherseason.pixnet.net/blog/post/13386817)                       |
 | Author          | featherseason                               |
 | Region          | 台湾                               |
 | Date            | 2010-11-24                                 |

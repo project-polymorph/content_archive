@@ -115,7 +115,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了泰国的人妖秀文化，探讨了其在旅游中的地位及对游客的吸引力。文章追溯了人妖文化在泰国的悠久历史，强调人妖被视为第三性别并享有平等权利。人妖秀以华丽的服装和精湛的表演受到游客的欢迎，但同时由于其大尺度的表演内容也引发了一些争议。文中分析了人妖秀的多样化表演类型，包括传统舞蹈和现代流行音乐，旨在引导游客在欣赏表演的同时尊重人妖文化。最后，文章总结出欣赏人妖秀的要点，呼吁理解与尊重不同的性别认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -126,12 +126,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖秀是不是必打卡项目？具体表演有什么特点？.md                             |
 | Size            | 4530 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.maldiveszh.com/wenda/76623.html](http://www.maldiveszh.com/wenda/76623.html)                       |
+| Author          | 马尔代夫旅游中文网                               |
+| Region          | 泰国                               |
+| Date            | 2024-06-25                                 |
+| Tags            | 人妖秀, 泰国文化, 多元性别, 旅行体验, 艺术表演, 性别认同, 文化尊重, 社会包容, 旅游指南, 第三性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -36,8 +36,8 @@ _(责编：李昉、王静)_
 |-----------------|----------------------------------------|
 | Filename        | lady_揭娱乐圈变性艺人金星娶过“娇妻”嫁过郎【13】.md                             |
 | Size            | 1434 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://lady.people.com.cn/n/2014/0916/c1014-25669062-13.html](http://lady.people.com.cn/n/2014/0916/c1014-25669062-13.html)                       |
 | Author          | 网易女人                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-09-16                                 |

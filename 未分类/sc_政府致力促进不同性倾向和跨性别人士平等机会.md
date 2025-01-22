@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sc_政府致力促进不同性倾向和跨性别人士平等机会.md                             |
 | Size            | 3498 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sc.isd.gov.hk/TuniS/www.info.gov.hk/gia/general/201811/17/P2018111700773.htm?fontSize=1](https://sc.isd.gov.hk/TuniS/www.info.gov.hk/gia/general/201811/17/P2018111700773.htm?fontSize=1)                       |
 | Author          | 香港特别行政区政府                               |
 | Region          | 香港                               |
 | Date            | 2018-11-17                                 |

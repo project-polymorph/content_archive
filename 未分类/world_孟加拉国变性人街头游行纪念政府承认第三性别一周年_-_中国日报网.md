@@ -21,7 +21,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自中国日报网，报道了2014年11月10日孟加拉国达卡举行的变性人游行。游行是为了纪念孟加拉国政府在法律框架内承认第三性别一周年。变性人团体的成员与支持者们齐聚一堂，表达他们对政府加强对变性人保护的要求，强调保障他们的人身安全和基本权利。游行活动象征着争取多元性别平等权利的努力，展现了孟加拉国变性人社群的联合与抗争。文章包含了与变性人相关的社会背景，并附有参与游行的照片。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -32,12 +32,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_孟加拉国变性人街头游行纪念政府承认第三性别一周年_-_中国日报网.md                             |
 | Size            | 1752 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://world.chinadaily.com.cn/2014-11/11/content_18895956.htm](https://world.chinadaily.com.cn/2014-11/11/content_18895956.htm)                       |
+| Author          | 中国日报网                               |
+| Region          | 孟加拉国                               |
+| Date            | 2014-11-10                                 |
+| Tags            | 变性人, 第三性别, 游行, 法律承认, 社会运动, 人权, 平等权利, 政府政策, 达卡, 中国日报网                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

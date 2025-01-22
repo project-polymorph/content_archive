@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了日本高评分电影《人生密密缝》，该片由荻上直子执导，生田斗真、桐谷健太和柿原凛香主演。影片围绕性别认同问题展开，讲述了患有性同一性障碍的主人公伦子与他的恋人牧男及其侄女友子共同生活的感人故事。该电影探讨了家庭关系和性别认同对个人及周围人生活的影响，以温情的方式呈现了对多元性别群体的理解与包容。电影于2017年在日本全国上映，并在豆瓣上获得了8.4的评价，显示了观影者的高度认可。文章通过对影片主题和情感的分析，旨在传播对多元性别话题的关注与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_豆瓣8.4分，我想让这个变性人做我的妈妈！几分钟看完日本高分电影_.md                             |
 | Size            | 1048 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV16b411a7YG/](https://www.bilibili.com/video/BV16b411a7YG/)                       |
+| Author          | 灭绝失态了                               |
+| Region          | 日本                               |
+| Date            | 2019-02-19                                 |
+| Tags            | 多元性别, 性别认同, 电影, 人生密密缝, 日本电影, 家庭关系, 性同一性障碍, 社会包容, 电影评析, 文化传播                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

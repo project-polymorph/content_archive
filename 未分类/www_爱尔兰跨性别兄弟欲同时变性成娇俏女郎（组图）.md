@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了爱尔兰都柏林的一对跨性别兄弟杰米和丹尼尔对外公开他们的跨性别身份的故事。在2016年5月，他们选择蓄发并化妆，成功摆脱多年受到男性身份干扰的生活，转变为美丽的娇俏女郎。这则新闻反映了跨性别者在社会中寻求接受与认同的经历，并展示了他们对自我身份的探索与转变。文章中包含了一张杰米和丹尼尔的照片，显示了他们的变化和对个人身份的自我认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_爱尔兰跨性别兄弟欲同时变性成娇俏女郎（组图）.md                             |
 | Size            | 738 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2016-05/24/c_129010082.htm](http://www.xinhuanet.com/world/2016-05/24/c_129010082.htm)                       |
+| Author          | 环球网                               |
+| Region          | 爱尔兰                               |
+| Date            | 2016-05-24                                 |
+| Tags            | 跨性别, 多元性别, 身份认同, 爱尔兰, 社会接纳, 新闻报道, 个人故事, 自我认同, 性别变换, 跨性别者经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

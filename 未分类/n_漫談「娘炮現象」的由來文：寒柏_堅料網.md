@@ -49,8 +49,8 @@ _**從事金融業，自由撰稿，醉心武俠小說創作；近期發表《�
 |-----------------|----------------------------------------|
 | Filename        | n_漫談「娘炮現象」的由來文：寒柏_堅料網.md                             |
 | Size            | 5418 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://n.kinliu.hk/kinliunviews/%E6%BC%AB%E8%AB%87%E3%80%8C%E5%A8%98%E7%82%AE%E7%8F%BE%E8%B1%A1%E3%80%8D%E7%9A%84%E7%94%B1%E4%BE%86%E3%80%80%E6%96%87%EF%BC%9A%E5%AF%92%E6%9F%8F/](https://n.kinliu.hk/kinliunviews/%E6%BC%AB%E8%AB%87%E3%80%8C%E5%A8%98%E7%82%AE%E7%8F%BE%E8%B1%A1%E3%80%8D%E7%9A%84%E7%94%B1%E4%BE%86%E3%80%80%E6%96%87%EF%BC%9A%E5%AF%92%E6%9F%8F/)                       |
 | Author          | 寒柏                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

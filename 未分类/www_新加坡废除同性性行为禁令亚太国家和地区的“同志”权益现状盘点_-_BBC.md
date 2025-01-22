@@ -163,7 +163,7 @@ LGBT活动人士长期以来一直呼吁废除377A条文，称该法律延续了
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档探讨了新加坡废除禁止同性性行为的法律条文377A的意义，以及亚太国家和地区的同性恋权益现状。新加坡总理李显龙宣布此法律废除，标志着新加坡在LGBT权利问题上取得了重要进展，成为继印度、台湾和泰国之后的又一积极行动者。这项法律的废除被LGBT活动人士视为“人类的胜利”，尽管他们对无法实现同性婚姻合法化表达了失望。文中详细阐述了亚太地区各国对同性恋和同性婚姻的法律状况，包括台湾的同性婚姻合法化、澳大利亚的全面合法化、印度的起步和新西兰的立法进程等。还提到了一些国家对LGBT群体的压制情况，例如马来西亚和印尼等地区面临的法律限制，展示了在不同文化和法律背景下LGBT群体的生存现状。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -174,12 +174,12 @@ LGBT活动人士长期以来一直呼吁废除377A条文，称该法律延续了
 |-----------------|----------------------------------------|
 | Filename        | www_新加坡废除同性性行为禁令亚太国家和地区的“同志”权益现状盘点_-_BBC.md                             |
 | Size            | 12164 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/simp/world-62646571](https://www.bbc.com/zhongwen/simp/world-62646571)                       |
+| Author          | BBC                               |
+| Region          | 新加坡                               |
+| Date            | 2022-08-23                                 |
+| Tags            | LGBT权利, 同性性行为, 法律改革, 性别认同, 亚太地区, 人权, 社会接受度, 性取向, 新加坡, 377A条文                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

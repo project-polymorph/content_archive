@@ -188,7 +188,7 @@ _如果你有想说的话，可以留言，来微博_**_@BIE别的女孩_**_留�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章以「彩虹暴力终结所」作为切入点，深入探讨了多元性别群体所遭受的各种形式的家庭暴力，特别是来自最亲近家人的暴力。文中讲述了多位经历过家暴与性暴力的求助者的真实故事，包括一名拉拉因出柜遭到父亲殴打、跨性别女性被迫送入精神病院和自杀等案例。文章指出，家暴和性别歧视往往使得多元性别群体在家庭暴力的困境中无处求助，且社会支持系统的缺乏进一步加剧了他们的脆弱与无助。文章还提及彩虹暴力终结所的工作日常与面临的挑战，强调了多元性别群体在获取保护和帮助上面的困难，以及机构的资源限制和社会阻碍。全篇以大量真实案例和对话再现了多元性别个体在家庭暴力下的生存现实，揭示了这一群体在社会中依然面临的种种风险与艰辛。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -199,12 +199,12 @@ _如果你有想说的话，可以留言，来微博_**_@BIE别的女孩_**_留�
 |-----------------|----------------------------------------|
 | Filename        | www_彩虹下，名为“家暴”的隐秘角落_-_BIE_别的.md                             |
 | Size            | 16423 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.biede.com/rainbow-domestic-violence/](https://www.biede.com/rainbow-domestic-violence/)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 家暴, 跨性别, 性别暴力, 心理健康, 暴力干预, 社会支持, 性别歧视, 真实案例, 求助经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

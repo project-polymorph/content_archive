@@ -85,7 +85,7 @@ CX330–1000  来自于 九游APP 2024-12-07 16:53
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了网络游戏《逆水寒》中性别转换的情况。根据内容，玩家在游戏中可以首次免费进行性别转换，此后需消耗一种名为“阴阳重塑宝丹”的道具，每次转换需要支付2880纹玉。游戏同时也会赠送一次免费的转换机会，每当上线新职业时。此外，文件还包含操作指南与玩家评论，详细阐述了转性别的流程与用户体验。该游戏以角色扮演类型为主，并在安卓平台上进行公测，文章发布于2023年12月27日，与游戏内多元性别的相关性明显，尤其是在玩家社区中。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,12 +96,12 @@ CX330–1000  来自于 九游APP 2024-12-07 16:53
 |-----------------|----------------------------------------|
 | Filename        | www_逆水寒手游转性别情况介绍.md                             |
 | Size            | 3809 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.9game.cn/nishuihan1/9606953.html](https://www.9game.cn/nishuihan1/9606953.html)                       |
+| Author          | 匿名用户（信息来源：腾蛇电竞）                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-12-27                                 |
+| Tags            | 逆水寒, 多元性别, 转性别, 游戏攻略, 角色扮演, 阴阳重塑宝丹, 男性与女性角色, 游戏社区, 玩家评论, 性别转换经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

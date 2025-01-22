@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_爸爸是女人-_爸爸喜欢女人_-_豆瓣.md                             |
 | Size            | 2621 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/6510166/](https://m.douban.com/movie/review/6510166/)                       |
 | Author          | 未知                               |
 | Region          | 韩国                               |
 | Date            | 2010-01-14                                 |

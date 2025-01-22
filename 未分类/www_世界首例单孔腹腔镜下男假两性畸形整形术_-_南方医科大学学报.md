@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了世界首例单孔腹腔镜下男假两性畸形整形术的详细过程与效果，指出该手术为一种微创、创伤小的治疗方法。手术对象是一名17岁患者，社会性别为女性而基因性别为男性，该患者希望实现女性性别特征。本文详细描述了手术的步骤，包括下乙状结肠阴道成形术、双侧隐睾切除术及开放式外阴整形手术，手术过程中的注意事项，术后的恢复情况等。研究数据表明，该手术不仅有效，且术后效果良好，术后六个月随访显示新阴道生长良好，无明显的挛缩，外形构建理想。结论上，LESS手术对两性畸形的美容效果显著，预示着未来可能成为治疗该病症的一种更佳选择。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_世界首例单孔腹腔镜下男假两性畸形整形术_-_南方医科大学学报.md                             |
 | Size            | 2166 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.j-smu.com/CN/Y2011/V31/I06/933](https://www.j-smu.com/CN/Y2011/V31/I06/933)                       |
+| Author          | 温勇，徐啊白，郑少波，刘春晓，徐亚文，李虎林，许凯，方平，李传印                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-06-20                                 |
+| Tags            | 男假两性畸形, 单孔腹腔镜, 微创手术, 整形手术, 性别过渡, 手术效果, 医疗技术, 男性特征, 女性特征, 生殖健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

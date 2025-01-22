@@ -55,8 +55,8 @@ Gandalf In Praise of Fetishism赞美恋物 Paul B. Preciado
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别相关_-_豆瓣.md                             |
 | Size            | 2134 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/154037262/](https://m.douban.com/doulist/154037262/)                       |
 | Author          | 术士Gandalf                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-02-14                                 |

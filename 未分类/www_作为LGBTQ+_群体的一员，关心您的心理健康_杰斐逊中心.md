@@ -82,7 +82,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了作为 LGBTQ+ 社区成员心理健康的重要性，指出 LGBT 社群面临的心理健康问题如焦虑、抑郁等症状的高发现象。文中引用了全国精神疾病联盟（NAMI）的数据，强调女同性恋、男同性恋和双性恋者经历心理健康问题的概率是异性恋的两倍，而跨性别者则更高。文章还提供了一些危机处理资源，包括自杀干预热线和地方社区支持中心，并鼓励 LGBTQ+ 个体寻求治疗帮助。作者提到，出柜过程并非易事，可能引发极大的心理压力，建议大家在必要时寻找安全的支持环境。最后，提供了一些有益的链接，指向相关的心理健康资源和服务，以帮助社区成员改善心理健康状况。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,12 +93,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_作为LGBTQ+_群体的一员，关心您的心理健康_杰斐逊中心.md                             |
 | Size            | 6690 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jcmh.org/zh-CN/caring-for-your-mental-health-as-a-member-of-the-lgbtq-community/](https://www.jcmh.org/zh-CN/caring-for-your-mental-health-as-a-member-of-the-lgbtq-community/)                       |
+| Author          | 杰斐逊中心                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 心理健康, LGBTQ+, 精神疾病, 危机干预, 出柜经历, 社区支持, 治疗资源, 焦虑, 抑郁, 自杀预防                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

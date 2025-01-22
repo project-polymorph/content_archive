@@ -77,8 +77,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_想看的书_-_豆瓣.md                             |
 | Size            | 2226 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/45378310/](https://m.douban.com/doulist/45378310/)                       |
 | Author          | 小妞姓吴                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-11-02                                 |

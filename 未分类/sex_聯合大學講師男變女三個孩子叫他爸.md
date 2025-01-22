@@ -37,8 +37,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sex_聯合大學講師男變女三個孩子叫他爸.md                             |
 | Size            | 5225 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/news/2004Jul-Dec/transnews_20041124a.htm](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/news/2004Jul-Dec/transnews_20041124a.htm)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2004-11-23                                 |

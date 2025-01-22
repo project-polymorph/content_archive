@@ -106,8 +106,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_明清社会性爱风气_豆瓣_.md                             |
 | Size            | 5934 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/1463026//](https://book.douban.com/subject/1463026//)                       |
 | Author          | 吴存存                               |
 | Region          | 中国大陆                               |
 | Date            | 2000-01-01                                 |

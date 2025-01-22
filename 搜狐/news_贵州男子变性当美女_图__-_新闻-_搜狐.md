@@ -29,8 +29,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_贵州男子变性当美女_图__-_新闻-_搜狐.md                             |
 | Size            | 933 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/20060412/n242767442.shtml](http://news.sohu.com/20060412/n242767442.shtml)                       |
 | Author          | 钟新                               |
 | Region          | 中国大陆                               |
 | Date            | 2006-04-12                                 |

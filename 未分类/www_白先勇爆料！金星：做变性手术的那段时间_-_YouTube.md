@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了著名变性艺人金星在变性手术期间的个人经历。视频中，金星分享了她在手术期间每天的感受，形象地比喻说每天都像经历一次人流，从而表达了手术过程的痛苦与挑战。影片由白先勇主持，讨论了关于性别认同及手术相关的话题。整体视频旨在提高公众对变性人群体的理解和支持，呼吁更多人关注这一群体所面临的困境与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_白先勇爆料！金星：做变性手术的那段时间_-_YouTube.md                             |
 | Size            | 978 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=BL5IzxMQbv8&vl=zh-Hans](https://www.youtube.com/watch?v=BL5IzxMQbv8&vl=zh-Hans)                       |
+| Author          | 白先勇（视频主持人）                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-07-21                                 |
+| Tags            | 变性手术, 金星, 性别认同, 生命故事, 医疗经历, 人生转变, 性别多样性, 社会支持, 痛苦经历, 公众理解                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

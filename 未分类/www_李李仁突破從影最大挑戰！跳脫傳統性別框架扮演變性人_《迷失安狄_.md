@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了李李仁在电影《迷失安狄》中的突破性表演，他突破了传统性别框架，成功扮演了变性人角色，探讨了社会与家人认同感的问题。文章引用了李李仁的细腻演出如何勾起了公众的共鸣，并提到了这部影片所能够引起的更广泛的社会话题。随文配有视频链接，使受众能够更直观地感受影片的呈现与讨论内容。同时，文中也附上了一些关于该视频的观看数据和评论，表明这部作品在观众中的反响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_李李仁突破從影最大挑戰！跳脫傳統性別框架扮演變性人_《迷失安狄_.md                             |
 | Size            | 1329 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=SXVQsXwO_MA](https://www.youtube.com/watch?v=SXVQsXwO_MA)                       |
+| Author          | 李李仁                               |
+| Region          | 未知                               |
+| Date            | 2021-01-11                                 |
+| Tags            | 李李仁, 变性人, 社会认同, 性别框架, 电影, 迷失安狄, 细腻演出, 公众共鸣, 社会话题, 跨性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

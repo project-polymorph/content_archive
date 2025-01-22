@@ -77,7 +77,7 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《双性人传说》是晋江文学城作家泠泠碎玉创作的原创言情小说，文章以双性人为主题，通过女主角的内心独白与情感经历，展现了双性人在爱情与社会压力中的挣扎与坚持。作品中充满了对爱的渴望与对身份困扰的矛盾，文案中提到：“即使此生再也没有办法和你在一起，但你依然是我心中最爱的人。”小说涉及悲剧、爱情与幻想的元素，在奇幻未来的背景下，展现了复杂的人际情感与双性人特有的生存状态。全篇字数为31,556字，充满诗意与深刻的思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,12 +88,12 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved
 |-----------------|----------------------------------------|
 | Filename        | www_言情小说-_《双性人传说》泠泠碎玉_-_晋江文学城.md                             |
 | Size            | 4159 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jjwxc.net/onebook.php?novelid=1644285](http://www.jjwxc.net/onebook.php?novelid=1644285)                       |
+| Author          | 泠泠碎玉                               |
+| Region          | 未知                               |
+| Date            | 25年01月21日                                 |
+| Tags            | 双性人, 爱情, 幻想, 悲剧, 女性视角, 原创小说, 情感挣扎, 身份困扰, 晋江文学城, 中文文学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

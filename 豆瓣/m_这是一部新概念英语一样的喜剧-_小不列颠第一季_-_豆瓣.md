@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_这是一部新概念英语一样的喜剧-_小不列颠第一季_-_豆瓣.md                             |
 | Size            | 4380 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/5428639/](https://m.douban.com/movie/review/5428639/)                       |
 | Author          | 未知                               |
 | Region          | 英国                               |
 | Date            | 2003-02-09                                 |

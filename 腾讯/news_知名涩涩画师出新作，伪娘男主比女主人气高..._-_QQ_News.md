@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_知名涩涩画师出新作，伪娘男主比女主人气高..._-_QQ_News.md                             |
 | Size            | 3077 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20240509A0AMTH00](https://news.qq.com/rain/a/20240509A0AMTH00)                       |
 | Author          | 碎碎念工坊                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-05-09                                 |

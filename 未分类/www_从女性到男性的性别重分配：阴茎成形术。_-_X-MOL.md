@@ -42,7 +42,7 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了从女性到男性的性别重分配中的阴茎成形术，提供了关于当前手术概念、两种常见的手术技术选项（自由radial骨前臂皮瓣和前外侧大腿皮瓣），以及在手术过程中可能面临的并发症的全面概述。文章基于对2010年至2020年以来的文献的系统评估，并结合了在过去25年内为超过350名跨性别患者提供服务的中心经验。研究发现，尽管阴茎成形术后和假体植入后的并发症发生率较高，但患者的满意率通常超过80%。结论强调了随着性别焦虑症发病率的上升，跨学科转诊中心在进行性别再分配手术中的重要性，同时呼吁对于外科技术的标准化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_从女性到男性的性别重分配：阴茎成形术。_-_X-MOL.md                             |
 | Size            | 2430 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1309326804673335296/t](https://www.x-mol.com/paper/1309326804673335296/t)                       |
+| Author          | M Sohn, U Rieger, S Morgenstern                               |
+| Region          | 德国                               |
+| Date            | 2020-09-15                                 |
+| Tags            | 性别重分配, 阴茎成形术, 跨性别医学, 性别焦虑症, 外科技术, 尿道造瘘术, 成形外科, 医疗资源, 研究文献, 患者满意度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

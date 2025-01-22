@@ -18,7 +18,7 @@ Copyright © 2000 - 2015 XINHUANET.com All Rights Reserved. 制作单位：新�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国白宫首次开设“跨性别”卫生间的事件，以回应和满足同性恋、双性恋以及变性群体的需求。这一卫浴设施位于白宫艾森豪威尔行政办公楼，在那里经常举行各种会议。白宫发言人杰夫·蒂勒表示，工作人员和游客可以根据自己的性别认同使用卫生间，这体现了政府对跨性别群体的立场和支持。此外，报道中提到，奥巴马总统在国情咨文中首次提及“跨性别”一词，并承诺为跨性别者提供权益保障，显示出政府在推动性别平等方面的努力。作为此项措施的一部分，奥巴马还签署了一项行政令，禁止与联邦政府合作的企业歧视这些群体的员工。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@ Copyright © 2000 - 2015 XINHUANET.com All Rights Reserved. 制作单位：新�
 |-----------------|----------------------------------------|
 | Filename        | www_白宫首设“跨性别”卫生间.md                             |
 | Size            | 1052 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2015-04/11/c_127677512.htm](http://www.xinhuanet.com/world/2015-04/11/c_127677512.htm)                       |
+| Author          | 新华网                               |
+| Region          | 美国                               |
+| Date            | 2015-04-11                                 |
+| Tags            | 跨性别, 卫生间, 白宫, 奥巴马, 性别认同, 权益保障, 性别平等, 社会政策,  LGBTQ+, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

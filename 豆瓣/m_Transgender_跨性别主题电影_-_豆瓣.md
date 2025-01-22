@@ -193,8 +193,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Transgender_跨性别主题电影_-_豆瓣.md                             |
 | Size            | 5242 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/43984828/](https://m.douban.com/doulist/43984828/)                       |
 | Author          | Ks (广州)                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-03-10                                 |

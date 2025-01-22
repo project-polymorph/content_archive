@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件回顾了2022年台湾跨性别游行的精彩时刻，是该活动疫情后的首次大型户外聚会。尽管遇到雨天，仍有3000名支持跨性别友人参与游行。文件详细介绍了游行的传播来源，包括Youtube链接和观看次数，展示了多元性别社群在公共场合发声的决心与团结。内容中还提及了即将于2023年进行的第五届跨性别游行的信息，并鼓励大家前往参加。此外，还包含了一些社交媒体链接和热门评论，增强了社群的互动性和参与感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_2022台灣跨性別遊行-_精彩回顧_-_YouTube.md                             |
 | Size            | 2284 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=Ceu6XBranEc](https://www.youtube.com/watch?v=Ceu6XBranEc)                       |
+| Author          | 同志咨询热线 Taiwan Tongzhi Hotline Association                               |
+| Region          | 台湾                               |
+| Date            | 2023-04-06                                 |
+| Tags            | 跨性别, 游行, 台湾, 多元性别, LGBTQ, 社会运动, 疫情后活动, 法律政策, 社区支持, 视频回顾                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

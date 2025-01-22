@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//simg.sinajs.cn/blog7style/images/common/sg_trans.gif)(2013-08-20 12:48:20)
+![](https://simg.sinajs.cn/blog7style/images/common/sg_trans.gif)(2013-08-20 12:48:20)
 
 ## 标签： { data-search-exclude }
 
@@ -35,7 +35,7 @@
 
 分享：
 
-![](//comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_69604b9e0101d975.html)
+![](https://comet.blog.sina.com.cn/qr?https://blog.sina.com.cn/s/blog_69604b9e0101d975.html)
 
 打开微信“扫一扫”
 
@@ -62,7 +62,7 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了2013年豪歌在cosplay圈推出的一组新作，主题为《saber女仆版》。文件中包含了对爱丽丝伪娘团的描述，突出了该团体在cosplay领域的影响力与人气。文章用生动的语言介绍了这次拍摄的细节与参与感，希望能够传达出对角色saber的热爱和对这项艺术形式的追求。文中附上了多幅拍摄的图片，展现了coser的风采与团队的努力。这是一次关于多元性别表达和角色扮演的重要记录，反映了当时在中国大陆的cosplay文化及其社区的多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@ Copyright © 1996 - 2022 SINA Corporation, All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | blog_2013豪歌cosplay新作saber女仆版正片【爱丽丝伪娘团】.md                             |
 | Size            | 1488 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://blog.sina.com.cn/s/blog_69604b9e0101d975.html](https://blog.sina.com.cn/s/blog_69604b9e0101d975.html)                       |
+| Author          | 豪歌                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-08-20                                 |
+| Tags            | 豪歌, saber, 女仆版, 爱丽丝伪娘团, cosplay, 多元性别, 角色扮演, 文化表达, 艺术创作, 社群活动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

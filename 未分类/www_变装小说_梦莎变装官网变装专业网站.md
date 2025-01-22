@@ -130,7 +130,7 @@ opyright © 2013-2024 梦莎变装 变装 梦莎天使 反串 伪娘 CD变装 �
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要包含关于变装的小说存档，集中在多元性别的故事与经历上。文中包括几篇不同的变装小说，例如《小伙男扮女装的故事》和《19岁cd变装小妹的经历》，这些故事探讨了作者各种不同的变装体验，以及性别认知的具体案例，展示了他们在认同和社会接受过程中的情感和挑战。此外，部分内容涉及到变装者如何在家庭环境中处理与父母关系的复杂性，以及对自我性别认同的深刻思考，例如在讨论中提到的“性别认知障碍”问题。这样的记录不仅反映了个人的内心挣扎，也是真实生存现状的记录，进一步推动对多元性别的理解与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -141,12 +141,12 @@ opyright © 2013-2024 梦莎变装 变装 梦莎天使 反串 伪娘 CD变装 �
 |-----------------|----------------------------------------|
 | Filename        | www_变装小说_梦莎变装官网变装专业网站.md                             |
 | Size            | 13288 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.cdts8.com/bian-zhuang-xiao-shuo](http://www.cdts8.com/bian-zhuang-xiao-shuo)                       |
+| Author          | admin                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-03-03                                 |
+| Tags            | 变装小说, 性别认知, 性别认同, 变装经历, 生活故事, 家庭关系, 社会接受, 情感体验, 多元性别, 性别障碍                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

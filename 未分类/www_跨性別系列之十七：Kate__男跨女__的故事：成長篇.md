@@ -39,7 +39,7 @@ Kate 小小年紀，便覺得自己和一般男孩有異。她喜歡照鏡，也
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于Kate（男跨女）成长经历的详细叙述。Kate从小就感受到自己与其他男孩的不同，她喜欢照镜子和穿漂亮的衣服，但因为家庭和社会的压力，她无法表达自己的真实自我。文章回顾了Kate在小学时的秘密行为——在家人睡觉后她会把自己的背心内衣折叠成裙子，独自在厕所中享受穿裙子的乐趣。她在一个看似典型的家庭背景中成长，感受到性别认同的困惑，直到看了一部关于变性手术的电影，意识到自己希望能够变为女孩。在中学期间，她面临着更大的社会压力，并最终勇敢地向妹妹和父亲表达了自己的性别认同，尽管遭遇不理解和不支持。文章真实地反映了跨性别者在成长过程中所面临的心理挣扎和社会环境的压迫。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@ Kate 小小年紀，便覺得自己和一般男孩有異。她喜歡照鏡，也
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別系列之十七：Kate__男跨女__的故事：成長篇.md                             |
 | Size            | 2165 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=7rTq1WaUIJY](https://www.youtube.com/watch?v=7rTq1WaUIJY)                       |
+| Author          | Transcendence Hong Kong                               |
+| Region          | 香港                               |
+| Date            | 2016-06-03                                 |
+| Tags            | 跨性别, 男跨女, 成长经历, 性别认同, 生命故事, 变性手术, 家庭压力, 社会影响, 个人故事, 心理挣扎                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

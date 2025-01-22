@@ -105,7 +105,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于多元性别相关漫画的存档，涵盖了一系列以伪娘为主题的连载漫画。这些漫画展示了不同角色的性别认同和过渡经历，涉及青春期的探索、自我认同以及性别角色的颠覆。每部作品都有其独特的情节与人物设定。比如，《女装日常》讲述了两位童年朋友之间的情感纠葛，特别是当其中一人突然变为伪娘后所引发的复杂情绪。而《穿女装弹吉他的我差点露馅》则展示了主角在男扮女装中获得的自我表达与成就感。整体上，这些漫画不仅为读者提供娱乐，也让大家思考性别流动性与个人身份的多样性。内容丰富，触及年轻人的现实问题，如自我认同、友谊、爱情等，是一份重要的多元文化资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -116,12 +116,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_连载中_伪娘漫画_2013面世-_漫画大全-漫画DD.md                             |
 | Size            | 7378 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.manhuadd.com/manhua/list-s-1-c-60-t-2013.html](https://www.manhuadd.com/manhua/list-s-1-c-60-t-2013.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2013-01-01                                 |
+| Tags            | 漫画, 多元性别, 伪娘, 青春期, 性别认同, 自我探索, 情感纠葛, 友谊, 性别角色, 性别流动性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

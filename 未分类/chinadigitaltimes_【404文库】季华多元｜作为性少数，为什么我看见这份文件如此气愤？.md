@@ -72,8 +72,8 @@
 |-----------------|----------------------------------------|
 | Filename        | chinadigitaltimes_【404文库】季华多元｜作为性少数，为什么我看见这份文件如此气愤？.md                             |
 | Size            | 7892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinadigitaltimes.net/chinese/690735.html](https://chinadigitaltimes.net/chinese/690735.html)                       |
 | Author          | 季华多元                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-12-09                                 |

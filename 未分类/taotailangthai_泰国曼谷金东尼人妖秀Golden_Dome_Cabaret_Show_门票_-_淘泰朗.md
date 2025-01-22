@@ -87,8 +87,8 @@
 |-----------------|----------------------------------------|
 | Filename        | taotailangthai_泰国曼谷金东尼人妖秀Golden_Dome_Cabaret_Show_门票_-_淘泰朗.md                             |
 | Size            | 2554 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://taotailangthai.com/product/golden-dome-cabaret-show/?lang=zh-hans](https://taotailangthai.com/product/golden-dome-cabaret-show/?lang=zh-hans)                       |
 | Author          | 淘泰朗                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性身份异常-疾病大全_-_医生在线.md                             |
 | Size            | 3916 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.51daifu.com/disease/wzxq-134409.shtml](https://m.51daifu.com/disease/wzxq-134409.shtml)                       |
 | Author          | 医生在线                               |
 | Region          | 未知                               |
 | Date            | 2008-12-24                                 |

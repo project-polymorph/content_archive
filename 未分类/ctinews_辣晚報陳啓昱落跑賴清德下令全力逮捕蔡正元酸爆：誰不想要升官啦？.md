@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ctinews_辣晚報陳啓昱落跑賴清德下令全力逮捕蔡正元酸爆：誰不想要升官啦？.md                             |
 | Size            | 2767 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ctinews.com/news/items/zMW5Zl16aN](https://ctinews.com/news/items/zMW5Zl16aN)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2025-01-21                                 |

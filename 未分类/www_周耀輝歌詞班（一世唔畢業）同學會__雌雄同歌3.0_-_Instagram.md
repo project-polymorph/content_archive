@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于周耀辉歌詞班（一世唔畢業）同學會所举办的“雌雄同歌 3.0”作品分享会的活动信息，活动将于2024年1月13日在香港逸东酒店举行。此次活动历时六个月的创作，展示了跨性别与流行音乐的结合，邀请了多位填词人及唱作歌手参与。此外，文件中详细列出了活动的时间、地点、报名链接及主办和赞助单位，强调了活动的有限名额和报名前的注意事项。活动的赞助方包括香港特別行政區政制及內地事務局的平等机会计划，而主办方向参与者表达了欢迎与感谢。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_周耀輝歌詞班（一世唔畢業）同學會__雌雄同歌3.0_-_Instagram.md                             |
 | Size            | 20200 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.instagram.com/nevergrad.alumni/p/C1qnQcDPdlj/](https://www.instagram.com/nevergrad.alumni/p/C1qnQcDPdlj/)                       |
+| Author          | 周耀辉歌詞班（一世唔畢業）同學會                               |
+| Region          | 香港                               |
+| Date            | 2024-01-13                                 |
+| Tags            | 雌雄同歌, 一世唔畢業, 周耀辉歌詞班, 跨性別, 流行音樂, 作品分享會, 香港逸东酒店, 跨性別資源中心, 填詞, 創作音樂                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

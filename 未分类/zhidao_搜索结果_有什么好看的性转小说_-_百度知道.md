@@ -156,7 +156,7 @@ _有什么小说_题材是男人附身到女人身上
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件汇总了多部受欢迎的性转小说，内容包括男变女的热门作品推荐以及各类小说的详细列表，涉及多个作者及不同风格的小说。推荐中包含了各种类型的性转小说，例如搞笑、穿越、以及宫斗等，其中提到的作品如《娘化百合大作战》、《转身恶役只好拯救世界》等，均展现了多样化的性别转换情节和故事设定。每部小说的作者和关键词均有标出，适合寻找性转小说的读者参考。该文件还提及了多种信息更新记录，显示出内容的持续更新。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -167,12 +167,12 @@ _有什么小说_题材是男人附身到女人身上
 |-----------------|----------------------------------------|
 | Filename        | zhidao_搜索结果_有什么好看的性转小说_-_百度知道.md                             |
 | Size            | 5618 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhidao.baidu.com/index/?word=%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%80%A7%E8%BD%AC%E5%B0%8F%E8%AF%B4&from=qb&samplow_val=-1](https://zhidao.baidu.com/index/?word=%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%80%A7%E8%BD%AC%E5%B0%8F%E8%AF%B4&from=qb&samplow_val=-1)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 性别转换, 小说推荐, 男变女, 文化表达, 文学作品, 搞笑元素, 魔幻题材, 网络文学, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

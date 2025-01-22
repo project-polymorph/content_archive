@@ -57,8 +57,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_高跟鞋-接纳与自己不一样的人，才是对人最高的赞美_-_豆瓣.md                             |
 | Size            | 6148 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/9805397/](https://m.douban.com/movie/review/9805397/)                       |
 | Author          | 众乐不如独乐                               |
 | Region          | 韩国                               |
 | Date            | 2014-06-04                                 |

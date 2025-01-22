@@ -6,7 +6,7 @@
 来源: Supro! 藝文誌  
 时间: 2021-07-01  
 
-![](//cdn.cybassets.com/s/files/3891/ckeditor/pictures/content_b6c1b250-6e31-4b2b-b99b-7814a5404911.jpg)
+![](https://cdn.cybassets.com/s/files/3891/ckeditor/pictures/content_b6c1b250-6e31-4b2b-b99b-7814a5404911.jpg)
 
 _宇多田光坦承自己是「非二元性別者」。_
 
@@ -43,7 +43,7 @@ _宇多田光是一名日裔美籍創作歌手兼音樂製作人，現居於英�
 
 _轉載自 YAHOO新聞_
 
-![](//cdn.cybassets.com/s/files/3891/ckeditor/pictures/content_995b0361-e552-45ca-8a5a-7a642d200222.jpg)
+![](https://cdn.cybassets.com/s/files/3891/ckeditor/pictures/content_995b0361-e552-45ca-8a5a-7a642d200222.jpg)
 
 文章分類: [非二元性別](/blogs/our-survival-guide/tagged/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5)  
 
@@ -61,7 +61,7 @@ _轉載自 YAHOO新聞_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了非二元性别者的定义及其与传统二元性别的区别。非二元性别者并不局限于男性或女性的传统性别划分，而是在性别认同上寻求更大的灵活性与自由。文章介绍了生理性别、社会性别和性别认同的基本概念，指出许多人的性别认同并非简单地与生理性别相符。文中提到了流体性别、无性别者、双性别和混合性别等不同类型的非二元性别身份。此外，提到了一些知名非二元性别者和他们的故事，如宇多田光和唐凤等。通过对这些内容的阐述，文章希望增进社会对非二元性别的理解和认知。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@ _轉載自 YAHOO新聞_
 |-----------------|----------------------------------------|
 | Filename        | www_非二元性別者是什麼？和傳統二元性別有何不同呢？_-_T-Studio.md                             |
 | Size            | 4545 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.t-studio.info/zh-TW/blogs/our-survival-guide/73632?srsltid=AfmBOoo0OdcZTXPRhnLLqm_SEbRN74xKOffbLCSQHnZbc4Q7fGybfck3](https://www.t-studio.info/zh-TW/blogs/our-survival-guide/73632?srsltid=AfmBOoo0OdcZTXPRhnLLqm_SEbRN74xKOffbLCSQHnZbc4Q7fGybfck3)                       |
+| Author          | Supro! 藝文誌                               |
+| Region          | 未知                               |
+| Date            | 2021-07-01                                 |
+| Tags            | 非二元性别, LGBTQ, 性别认同, 流体性别, 无性别者, 双性别, 混合性别, 宇多田光, 性别平权, 个人故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

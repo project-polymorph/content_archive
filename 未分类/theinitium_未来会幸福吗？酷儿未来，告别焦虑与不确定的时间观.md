@@ -159,8 +159,8 @@ Je, tu, il, elle O Fantasma The living end Hedwig and the angry inch Les Amours 
 |-----------------|----------------------------------------|
 | Filename        | theinitium_未来会幸福吗？酷儿未来，告别焦虑与不确定的时间观.md                             |
 | Size            | 25845 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://theinitium.com/zh-hans/opinion/20240212-opinion-queer-time-and-future](https://theinitium.com/zh-hans/opinion/20240212-opinion-queer-time-and-future)                       |
 | Author          | 海德薇格 / 端传媒 Initium Media                               |
 | Region          | 未知                               |
 | Date            | 2024-02-11                                 |

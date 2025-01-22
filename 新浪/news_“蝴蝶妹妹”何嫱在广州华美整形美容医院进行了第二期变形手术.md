@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了变性人何嫱（蝴蝶妹妹）在广州华美整形美容医院进行第二期变形手术的过程和感受。手术于2007年3月23日进行，何嫱在手术前积极分享了自己的期待与心情，表示做手术是经过深思熟虑的决定，希望能通过整形手术提升自信和内心的幸福感。手术直播引发了网友的广泛关注与讨论，有网友为何嫱提供了整形设计建议，也有网友对手术风险表示担忧。何嫱表示，自己希望等到第三期手术完成后，能以完整的女性身份寻求爱情，并坚信真实的自我是重要的。本文详细记录了手术的前后过程及何嫱的心声，反映出变性人群体在追求身份认同与社会接受过程中所经历的挑战与希望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_“蝴蝶妹妹”何嫱在广州华美整形美容医院进行了第二期变形手术.md                             |
 | Size            | 5898 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html](https://news.sina.cn/sa/2007-03-23/detail-ikknscsk2013535.d.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2007-03-23                                 |
+| Tags            | 变性人, 整形手术, 蝴蝶妹妹, 身份认同, 社会接受, 医疗经历, 心路历程, 手术直播, 爱情观, 法律与政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

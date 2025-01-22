@@ -74,8 +74,8 @@ copyright © 2008 VOC.COM.CN, Geo Info. All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | epaper_伪娘走自己的路让别人去说-----科教新报数字报刊平台.md                             |
 | Size            | 5875 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://epaper.voc.com.cn/kjxb/html/2010-06/02/content_215789.htm](https://epaper.voc.com.cn/kjxb/html/2010-06/02/content_215789.htm)                       |
 | Author          | 马鹿                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-06-02                                 |

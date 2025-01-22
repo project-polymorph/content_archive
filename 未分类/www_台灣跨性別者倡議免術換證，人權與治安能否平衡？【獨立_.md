@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了台湾跨性别者在性别更改与身份认证过程中的法律和人权问题。文章主要围绕现行法律规定，即跨性别者需进行性别重置手术才能更换身份证上的性别，分析了这一政策的合理性及其对跨性别者个人生活的影响。文件中引用了跨性别者吴伊婷的个人经历，讲述了她面对的内心矛盾与挑战，以及进行性别重置手术时的心理挣扎。同时，文章提到了一些法律专家的观点，认为法律应当对跨性别者的身份认证政策进行改革，倡导建立更为人性化和社会化的性别认同方式，尤其在确保公共安全与人权之间找到平衡。文中还讨论了对于免去手术要求的呼声，以及跨性别者在社会中的现实状况与相关研究的必要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_台灣跨性別者倡議免術換證，人權與治安能否平衡？【獨立_.md                             |
 | Size            | 4928 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.womengroups.org.tw/OnePage.aspx?tid=1&id=589](https://www.womengroups.org.tw/OnePage.aspx?tid=1&id=589)                       |
+| Author          | 公视新闻网 / 独立特派员                               |
+| Region          | 台湾                               |
+| Date            | 2022-03-29                                 |
+| Tags            | 跨性别者, 性别重置手术, 人权, 法律政策, 身份认证, 社会讨论, 吴伊婷, 社会环境, 性别认同, 跨性别群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

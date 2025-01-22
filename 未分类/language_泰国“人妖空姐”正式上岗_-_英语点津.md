@@ -59,8 +59,8 @@ _Vocabulary:_
 |-----------------|----------------------------------------|
 | Filename        | language_泰国“人妖空姐”正式上岗_-_英语点津.md                             |
 | Size            | 3156 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://language.chinadaily.com.cn/news/2011-12/19/content_14288558.htm](https://language.chinadaily.com.cn/news/2011-12/19/content_14288558.htm)                       |
 | Author          | 中国日报网                               |
 | Region          | 泰国                               |
 | Date            | 2011-12-19                                 |

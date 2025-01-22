@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了泰国人妖、韩国娘炮和日本废宅在美国驻军国家中迅速"娘化"的现象。作者史小纪通过对这些现象的观察与分析，提出了此类文化现象背后的深层原因，涉及社会、文化与性别认同的复杂交织。文章的正文部分未显示具体内容，但从标题可见，讨论的重点集中在性别表现和文化影响力等方面。作者认为，这种现象不仅反映了社会对性别和文化认同的变化，也揭示了外部军事存在对当地文化的渗透与改变。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国人妖韩国娘炮日本废宅，为啥有美国驻军的国家，都快速娘化？.md                             |
 | Size            | 6290 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://m.163.com/v/video/VOBK2QHNV.html](https://m.163.com/v/video/VOBK2QHNV.html)                       |
+| Author          | 史小纪                               |
+| Region          | 云南                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别表现, 文化现象, 人妖, 娘炮, 废宅, 美国驻军, 社会认同, 性别季节化, 文化渗透                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -178,7 +178,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了儿童性别认同与生物性别不符的现象，称为性别错位。随着社会的发展，孩子们对性别的认识越来越早，但在家庭和媒体的影响下，一些孩子可能会出现性别错位，从而对他们的成长产生不利影响。文中提到性别错位的原因，包括家庭环境和媒体影响，并提出预防和纠正的建议，如家长应树立正确的性别观念，及时关注孩子的情绪变化。作者强调全社会共同努力，才能让孩子们健康成长，并呼吁加强性别教育，尊重不同性别的差异。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -189,12 +189,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_莫让花美男中性女误导孩子-京东健康.md                             |
 | Size            | 7555 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/pccontent/1006991](https://www.jd.com/pccontent/1006991)                       |
+| Author          | 健康饮食指南                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别错位, 儿童性别认同, 心理健康, 性别教育, 家庭环境, 媒体影响, 性别意识, 健康成长, 社会责任, 性别观念                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

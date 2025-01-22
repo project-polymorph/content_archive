@@ -54,7 +54,7 @@ Official reprint from UpToDate® [www.uptodate.com](https://www.uptodate.com) ©
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为《UpToDate》网站上关于跨性别或性别多元化儿童和青少年的管理的官方再版内容。文件中详细介绍了跨性别或性别多元化(TGD)儿童的医疗管理，包括医疗之家模型以及各类医疗支持和协调方法的重要性。文中指出，许多儿童出生后根据生殖器或染色体指派性别，但并非所有儿童的性别认同与其出生时指派的性别一致。文章进一步总结了为TGD孩子提供服务的多学科中心的日益增多以及相关的临床表现和管理证据。此外，文件还列举了美国儿科学会、加州大学旧金山分校跨性别医疗卓越中心等权威机构关于儿童和青少年性别多元化的治疗指导，并鼓励初级保健医护人员为TGD儿童及其家庭提供全面的教育、支持与协调医疗等服务。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@ Official reprint from UpToDate® [www.uptodate.com](https://www.uptodate.com) ©
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别或性别多元化儿童和青少年的管理-_UpToDate.md                             |
 | Size            | 6647 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.uptodate.com/contents/zh-Hans/management-of-transgender-and-gender-diverse-children-and-adolescents/print](https://www.uptodate.com/contents/zh-Hans/management-of-transgender-and-gender-diverse-children-and-adolescents/print)                       |
+| Author          | Johanna Olson-Kennedy, MD; Michelle Forcier, MD, MPH; 编辑: David Alan Brent, MD; Mitchell E Geffner, MD; 翻译: 毛雪琴, 主任医师，教授                               |
+| Region          | 未知                               |
+| Date            | 2024-09-03                                 |
+| Tags            | 跨性别, 性别多元化, 儿童, 青少年, 医疗管理, 支持系统, 性别认同, 多学科中心, 教育和培训, 医疗之家                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

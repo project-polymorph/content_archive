@@ -74,8 +74,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别艺术家的另类传奇-_丹麦女孩_-_豆瓣.md                             |
 | Size            | 10856 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/7814928/](https://m.douban.com/movie/review/7814928/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2015-09-05                                 |

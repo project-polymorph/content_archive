@@ -90,8 +90,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖打排球-_电影-_豆瓣.md                             |
 | Size            | 4702 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/subject/1294084/](https://m.douban.com/movie/subject/1294084/)                       |
 | Author          | 翁乙                               |
 | Region          | 泰国                               |
 | Date            | 2000-09-10                                 |

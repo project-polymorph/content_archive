@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了关于配音作品《前辈是伪娘》的第八期对谈，内容涵盖了参与配音的演员之间的交流和讨论，探讨了角色的演绎、配音过程中的趣事，以及如何理解和诠释角色本身的多元性别特征。配音对谈时长为6分16秒，并提供了多种清晰度选项供观众选择。此外，文件包含了视频的播放信息和相关链接，链接中包含主演和相关作品的介绍，这增加了观看者对多元性别文化的理解和认识。这一对谈展示了多元性别在现代社交文化中逐渐受到的关注与接受，并通过轻松有趣的讨论，引发人们对于性别表达和性别认同的进一步思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_「前辈是伪娘」配音后对谈_08_-_Bilibili.md                             |
 | Size            | 1531 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV19HHjeEEXb/](https://www.bilibili.com/video/BV19HHjeEEXb/)                       |
+| Author          | 轩                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-08-30                                 |
+| Tags            | 多元性别, 配音艺术, 影像文化, 角色解读, 性别表达, 文化对话, 社会认知, 视频作品, 娱乐产业, 青少年文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

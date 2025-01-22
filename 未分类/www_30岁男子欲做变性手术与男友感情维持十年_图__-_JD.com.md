@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了30岁男子张伟的变性故事，深入探讨了跨性别者在追求性别认同过程中面临的各种挑战。张伟从小就对穿着和女性形象有着浓厚的兴趣，随着对自身性别身份的认知逐渐清晰，他决定进行变性手术。在经历了一年半的激素治疗和手术之后，张伟终于实现了成为女性的梦想。文章不仅概述了变性手术的复杂过程，包括严格的评估和治疗方案，还强调了心理支持的重要性，指出跨性别者在社会、家庭里的压力以及需要社会对他们的理解和支持。通过这个个案，文章旨在提高公众对跨性别者生活现状的认识与同情，呼吁社会给予他们更多的关爱与平等机会。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_30岁男子欲做变性手术与男友感情维持十年_图__-_JD.com.md                             |
 | Size            | 2309 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/pccontent/1024669](https://www.jd.com/pccontent/1024669)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性手术, 性别认同, 心理支持, 社会挑战, 性别认知, 激素治疗, 医疗资源, 生命故事, 社会支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

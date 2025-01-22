@@ -95,8 +95,8 @@ Queer Asian Studies...
 |-----------------|----------------------------------------|
 | Filename        | m_Transgender_China_-_图书-_豆瓣.md                             |
 | Size            | 5254 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/22992802/](https://m.douban.com/book/subject/22992802/)                       |
 | Author          | 霍华德·蔷（Howard Chiang）                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-12-11                                 |

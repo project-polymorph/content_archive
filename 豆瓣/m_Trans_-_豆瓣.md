@@ -242,8 +242,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Trans_-_豆瓣.md                             |
 | Size            | 7899 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/129203126/](https://m.douban.com/doulist/129203126/)                       |
 | Author          | 鼓鼓                               |
 | Region          | 美国                               |
 | Date            | 2020-07-05                                 |

@@ -98,7 +98,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档推荐了十部与多元性别相关的电影，包括《游园惊梦》、《巴黎在燃烧》、《我自己的爱达荷》、《费城故事》、《沙漠妖姬》、《东宫西宫》、《男孩不哭》、《面子》、《断背山》和《霸王别姬》。每部电影的简介都反映了多元性别的生活经历、情感纠葛及社会压力，如《费城故事》讲述了艾滋病患者的尊严与抗争，《男孩不哭》则探讨了性别认同障碍导致的悲剧。这些影片不仅展示了具体的多元性别群体，也反映了社会对这些群体的态度与挑战，充满了情感的真实和沉重。通过细腻的故事叙述，这些电影使观众得以深入理解多元性别群体的生活和内心世界，直面面对社会的偏见与歧视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -109,12 +109,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_十部多元性别电影推荐_-_旺达屋.md                             |
 | Size            | 8360 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wangdawu.com/yingshi/1384.html](https://www.wangdawu.com/yingshi/1384.html)                       |
+| Author          | 旺达屋                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-02-04                                 |
+| Tags            | 多元性别, 电影推荐, 性别认同, 跨性别, 同性恋, 社会压力, 艾滋病,  LGBTQ+, 情感故事, 社会接受                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

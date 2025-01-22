@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_我的游戏簿NO.274：《女装海峡》_-_豆瓣.md                             |
 | Size            | 6609 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/game/review/8200752/](https://m.douban.com/game/review/8200752/)                       |
 | Author          | 谭亭                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

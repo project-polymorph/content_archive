@@ -47,8 +47,8 @@ _更新时间：_2010年05月23日
 |-----------------|----------------------------------------|
 | Filename        | ent_尚雯婕支持有个性的“伪娘”_综艺_-_央视网.md                             |
 | Size            | 1589 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ent.cctv.com/2010/05/23/VIDE1355615758848134.shtml](https://ent.cctv.com/2010/05/23/VIDE1355615758848134.shtml)                       |
 | Author          | 央视网                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-05-23                                 |

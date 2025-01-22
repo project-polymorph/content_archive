@@ -122,7 +122,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为武汉蒂芬妮变装的优酷频道主页，展示了武汉地区的一位变装者的个人视频创作和分享。该频道主要聚焦在变装、化妆、摄影以及Vlog等内容，体现了变装者的生活和艺术表达。从视频集中可以看到多样的变装主题，包括可爱的Lolita风格、女装、及日常出行等，视频中还包含了具体的化妆和穿搭技巧分享。频道信息中显示了该变装者在社交媒体上的关注和互动情况，并提供了相关视频的缩略图和观看链接。整体上，这一频道体现了多元性别的表达和文化特色，是对变装文化在华中地区的一种记录与展示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -133,12 +133,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_武汉蒂芬妮变装的优酷主页.md                             |
 | Size            | 6531 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youku.com/profile/index/?uid=UMTQyMDg5NDAwOA==](https://www.youku.com/profile/index/?uid=UMTQyMDg5NDAwOA==)                       |
+| Author          | 武汉蒂芬妮变装                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 化妆, 视频分享, 个人频道, 武汉, 生活记录, 艺术表达, CD文化, 时尚穿搭, Vlog, 社交媒体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -71,8 +71,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_鲁保罗变装皇后秀英国版_百度百科.md                             |
 | Size            | 2083 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E9%B2%81%E4%BF%9D%E7%BD%97%E5%8F%98%E8%A3%85%E7%9A%87%E5%90%8E%E7%A7%80%E8%8B%B1%E5%9B%BD%E7%89%88/53584693](https://baike.baidu.com/item/%E9%B2%81%E4%BF%9D%E7%BD%97%E5%8F%98%E8%A3%85%E7%9A%87%E5%90%8E%E7%A7%80%E8%8B%B1%E5%9B%BD%E7%89%88/53584693)                       |
 | Author          | Rubiel Productions                               |
 | Region          | 英国                               |
 | Date            | 2019-01-01                                 |

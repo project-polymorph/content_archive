@@ -100,7 +100,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了在中国进行变性手术的医院和相关医生的信息，特别是推荐了西安国医医院。作者分享了自己的性别认同经历，表达了对变性手术的渴望，并通过对医院和医生的介绍，提供了关于手术的可行性和专业性的建议。文中提到西安国医医院拥有一支经验丰富的医疗团队，特别是院长郭医生在男变女和女变男手术方面的技能和技术。文章中还讨论了手术费用范围，并给出了预约手术的医院名单，表明在选择医院时需要考虑医生的专业水平和手术的安全性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,12 +111,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_国内哪里可以做变性手术且做得好？西安这家医院医生男变女_..._-_美佳网.md                             |
 | Size            | 4952 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.236z.com/article/12449](https://www.236z.com/article/12449)                       |
+| Author          | 小寒                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-10-26                                 |
+| Tags            | 变性手术, 西安国医医院, 医疗资源, 男变女, 女变男, 医疗经验分享, 整形外科, 社会环境, 医疗技术, 变性治疗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

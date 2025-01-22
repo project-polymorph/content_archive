@@ -55,7 +55,7 @@ Queer Theory；Nationalism；Geopolitics；Temporality；Homonationalism
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了台湾酷儿知识生产中的国族议题，分析了其在地缘政治和历史发展中的重要性。作者刘文指出，台湾的酷儿研究面临来自欧美中心的理论框架对台湾复杂多样性和位置的局限，以至于难以准确反映‘酷儿台湾’的多样性和独特性。文章通过梳理欧美酷儿理论的发展轨迹，揭示出国族主义与性别地缘政治的交织，表明了‘同性恋国族主义’在此背景下的挪用问题。最终，作者提出了时间转向这一概念，寻求新的研究视角，以更好地回应国家主权及酷儿身份在台湾的复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@ Queer Theory；Nationalism；Geopolitics；Temporality；Homonationalism
 |-----------------|----------------------------------------|
 | Filename        | www_非西方、亞洲或中美冷戰結構？重置酷兒臺灣的戰（暫）時主體.md                             |
 | Size            | 7895 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.airitilibrary.com/Article/Detail/18185649-202108-202201040016-202201040016-3-35](https://www.airitilibrary.com/Article/Detail/18185649-202108-202201040016-202201040016-3-35)                       |
+| Author          | 刘文                               |
+| Region          | 台湾                               |
+| Date            | 2021-08-01                                 |
+| Tags            | 酷儿理论, 国族认同, 地缘政治, 时间转向, 同性恋国族主义, 台湾, 文化研究, 冷战分析, 性别地缘政治, 国家主权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

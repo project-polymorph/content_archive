@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本视频记录了一位跨性别女性医生的真实经历，她在医疗行业中不仅面临着自身的心理和生理过渡问题，还要忍受来自同事的歧视和嘲笑。视频中，她分享了在职场中遇到的歧视事件，以及如何克服这些困难继续追求自己的医疗职业生涯。特别是，在与前辈的交往中，她受到了一句‘切掉没’的侮辱性提问，这充分反映了社会对跨性别者的不理解和偏见。视频还强调了需要更多的公共意识和教育来减少这些歧视行为。通过这一分享，观众不仅能够对跨性别者在职场中遭遇的困难有更深刻的认识，也可以引起更多有关跨性别权益的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女醫跨性別卻遇歧視！前輩嘲笑：切掉沒？【‪@57healthy‬_】_-_YouTube.md                             |
 | Size            | 1162 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=pLthqhmiMbQ](https://www.youtube.com/watch?v=pLthqhmiMbQ)                       |
+| Author          | @57healthy                               |
+| Region          | 未知                               |
+| Date            | 2022-07-21                                 |
+| Tags            | 跨性别, 性别多元, 医疗职业, 歧视, LGBT, 性别认同, 健康教育, 心理支持, 职场经历, 社会偏见                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了泰国著名女拳手芭利娅·乍龙蓬（Parinya Charoenphol）在校园公益课堂上的活动。她早年以男性身份参加泰拳赛事，赢得拳王称号，后来进行变性手术，成为女性，并获得了许多选美比赛的好成绩。芭利娅在泰国广受欢迎，并以她的经历激励许多学生。在曼谷的这所小学，她带领学生们练习泰拳技巧，展现了体育和性别认同之间的关联。该报道不仅关注了芭利娅的职业生涯变迁及其对社会的影响，也反映了泰国在多元性别话题上较为开放的态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_泰国：走进“美丽拳王”的校园公益课堂.md                             |
 | Size            | 1029 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n1/2017/0210/c1002-29072971.html](http://world.people.com.cn/n1/2017/0210/c1002-29072971.html)                       |
+| Author          | 李芒茫，新华网                               |
+| Region          | 泰国                               |
+| Date            | 2017-02-10                                 |
+| Tags            | 泰国, 多元性别, 芭利娅, 拳击, 社会公益, 变性手术, 性别认同, 体育活动, 校园教育, 选美比赛                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

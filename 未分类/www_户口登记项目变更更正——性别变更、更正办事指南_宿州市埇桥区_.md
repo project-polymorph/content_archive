@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为宿州市埇桥区发布的《户口登记项目变更更正——性别变更、更正办事指南》。该指南详细介绍了公民如何申请更正户口登记中性别的信息。文件首先明确了受理部门为栏杆镇派出所或户办大厅，并清楚说明了办理条件，包括公民因登记错误或因实施变性手术而需申请更正的情况。接着，文中列出了办理流程，包括申请人需提交的材料及各阶段的审核步骤，确保流程的透明与高效。此外，指南还提供了免费办理的相关信息，以及收费标准。如果在办理过程中涉及到户口簿等的补办，还会收取相应的工本费。最后，文件结尾给出了联系电话与联系邮箱，方便读者咨询相关问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,12 +83,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_户口登记项目变更更正——性别变更、更正办事指南_宿州市埇桥区_.md                             |
 | Size            | 2946 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.szyq.gov.cn/grassroots/6623519/149934961.html](https://www.szyq.gov.cn/grassroots/6623519/149934961.html)                       |
+| Author          | 宿州市埇桥区人民政府                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-04-09                                 |
+| Tags            | 户口登记, 性别变更, 更正办事指南, 法律政策, 变性手术, 居民身份证, 审核流程, 政府文件, 社区服务, 户籍管理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细解读了泰国人妖表演的背后故事，揭示了人妖怎样在社会、经济压力下逐步被塑造成这一独特群体。视频探讨了这些人物从小被迫接受雌性激素治疗，以及家庭贫困如何迫使他们选择这一生存方式。尽管在舞台上的表现光鲜亮丽，然而，这个群体却面临着健康问题、社会偏见和心理压力。在红灯区，也有一些人妖因经济困难而走上了欺骗游客的道路，使他们生活在贫困与绝望之中。通过这些故事，观众能够不仅欣赏表演的艺术性，更深入理解这一群体面临的真实困境与复杂情感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_揭秘泰国人妖如何一步步被塑造成的惊人过程【天马行空的王】.md                             |
 | Size            | 2774 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=pFDKTb5w5p8](https://www.youtube.com/watch?v=pFDKTb5w5p8)                       |
+| Author          | 天马行空的王                               |
+| Region          | 未知                               |
+| Date            | 2024-09-05                                 |
+| Tags            | 泰国, 人妖, 性别认同, 社会问题, 经济压力, 生命故事, 文化探讨, 健康问题, 心理压力, 艺术表演                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

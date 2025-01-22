@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细记录了一名男性进行变性手术以成为女性的经历，背景设定在浙江。故事的主人公刘婷在决定进行手术前遭遇了来自家庭和社会的压力，尤其是她的母亲陆永敏从最初的抵触到后来的支持，经历了一段心理斗争。文件中提到陆永敏在经历了自身的健康问题后，意识到支持女儿是更为重要的。刘婷在2014年至2015年间经历了多次整形和变性手术，每次手术都受到医疗团队和心理医生的关注和支持，最终她成功过渡为女性，并期待拥有家庭。通过母女之间的感情与冲突，文件不仅记录了个体的转变，也反映了社会对变性群体的逐步接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_浙江“背母亲上大学”男子手术变性变为女儿身_-_新华网.md                             |
 | Size            | 3521 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/politics/2015-04/08/c_127665337_2.htm](http://www.xinhuanet.com/politics/2015-04/08/c_127665337_2.htm)                       |
+| Author          | 张淑玲                               |
+| Region          | 浙江，中国大陆                               |
+| Date            | 2015-04-08                                 |
+| Tags            | 变性手术, 跨性别, 刘婷, 母女关系, 医疗经历, 社会接受, 心理支持, 人生故事, 法治与权利, 身体与身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

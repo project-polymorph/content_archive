@@ -883,8 +883,8 @@ ChinaJoy游戏联盟成立仪式主持人
 |-----------------|----------------------------------------|
 | Filename        | baike_爱丽丝伪娘团_亚洲男cosplay团体__-_搜狗百科.md                             |
 | Size            | 38046 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v10217744.htm](https://baike.sogou.com/v10217744.htm)                       |
 | Author          | 爱丽丝伪娘团                               |
 | Region          | 中国，武汉                               |
 | Date            | 2009-10-01                                 |

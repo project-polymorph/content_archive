@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了在中国医学科学院性别重塑中心进行变性手术的经历和挑战。文章由生活时报的记者叶润霞撰写，探讨了变性手术的背景、患者的心理斗争及手术后的法律障碍。文中介绍了陈焕然博士以及他如何帮助数十名变性人实现性别重塑的故事，特别是心理支持和医务工作的重要性。手术对患者来说不仅是身体的转变，更是心理自我认同的重建。文章还提到关于变性人在法律和社会认可上的种种困难，强调了需要对这群人给予更多理解与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | eladies_走近变性手术台_附图_.md                             |
 | Size            | 10027 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://eladies.sina.com.cn/2001-10-30/45192.html?from=wap](http://eladies.sina.com.cn/2001-10-30/45192.html?from=wap)                       |
+| Author          | 叶润霞                               |
+| Region          | 中国大陆                               |
+| Date            | 2001-10-30                                 |
+| Tags            | 变性手术, 性别重塑, 心理健康, 法律政策, 性别认同, 医疗经历, 生存现状, 社会挑战, 性别歧视, 医学与伦理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

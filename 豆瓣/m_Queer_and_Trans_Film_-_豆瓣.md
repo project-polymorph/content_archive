@@ -93,8 +93,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Queer_and_Trans_Film_-_豆瓣.md                             |
 | Size            | 3070 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/159841140/](https://m.douban.com/doulist/159841140/)                       |
 | Author          | 拔丝刀口                               |
 | Region          | 未知                               |
 | Date            | 2024-09-17                                 |

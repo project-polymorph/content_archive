@@ -64,7 +64,7 @@ JK罗琳曾在跨性别议题上引发巨大舆论风波，她坚信跨性别并
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了台湾女子拳击选手林郁婷在2024年巴黎奥运会前所遭遇的性别争议，特别是关于她的性别身份是否符合参赛资格的讨论。文章详细回顾了国际奥委会对林郁婷及另一名选手哈利夫的支持，强调她们经过正规性别检测，符合参赛规定。然而，尽管官方声明确认她们的女性身份，仍然有公众人物如爱尔兰前拳王麦格根和作家JK罗琳质疑她们的资格，并在社交媒体上表达疑虑。文件中引用了女性运动员的性别验证历史及其复杂性，讨论了高睾酮浓度与生理性别之间的关系，并结合案例分析说明跨性别运动员与性别争议的敏感性。文章的核心在于揭示身体性别的多样性，同时呼吁更加公正和包容的体育环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@ JK罗琳曾在跨性别议题上引发巨大舆论风波，她坚信跨性别并
 |-----------------|----------------------------------------|
 | Filename        | www_奥运场的跨性争议：台拳后遭疑「非女性」JK罗琳也错认的性别战.md                             |
 | Size            | 9646 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.worldjournal.com/wj/story/124146/8131527?from=wj_lastnews_story&zh-cn](https://www.worldjournal.com/wj/story/124146/8131527?from=wj_lastnews_story&zh-cn)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2024-08-01                                 |
+| Tags            | 跨性别, 性别认证, 体育争议, 女子拳击, 林郁婷, JK罗琳, 国际奥委会, 性别多元性, 性别发展差异, 运动员资格                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

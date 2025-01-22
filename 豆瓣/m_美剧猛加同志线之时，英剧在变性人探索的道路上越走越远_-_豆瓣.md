@@ -45,8 +45,8 @@ So you were born in the wrong body.首集 18 分，编辑就一针见血地说�
 |-----------------|----------------------------------------|
 | Filename        | m_美剧猛加同志线之时，英剧在变性人探索的道路上越走越远_-_豆瓣.md                             |
 | Size            | 2947 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/7629097/](https://m.douban.com/movie/review/7629097/)                       |
 | Author          | 未知                               |
 | Region          | 英国                               |
 | Date            | 2015-09-03                                 |

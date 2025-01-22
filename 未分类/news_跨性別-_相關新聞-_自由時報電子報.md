@@ -72,8 +72,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_跨性別-_相關新聞-_自由時報電子報.md                             |
 | Size            | 4405 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.ltn.com.tw/topic/%E8%B7%A8%E6%80%A7%E5%88%A5](https://news.ltn.com.tw/topic/%E8%B7%A8%E6%80%A7%E5%88%A5)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

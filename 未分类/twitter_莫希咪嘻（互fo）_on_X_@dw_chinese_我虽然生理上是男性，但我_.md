@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件记录了一位自我认同为女性的生理男性的生活经历与身份认同问题。作者莫希咪嘻（互fo）在社交媒体上分享了她对于自身性别与性取向的看法，表达了她作为一名身份复杂的少数群体成员所面临的困扰。她提到自己虽然是生理男性，但认同为女性，同时也接纳自己是同性恋和异装癖者，这使得她在个人身份和社会认同中经历了复杂的情感与冲突。同时，作者还提到自己是素食主义者，然而却因异食癖的影响只能吃肉，反映出她在生活中的矛盾与挣扎。此外，她的肤色因疾病而偏白，身份认同和身体形象的冲突也引发了她对少数群体遭遇歧视的关注和愤怒。最后，莫希咪嘻鼓励大家关注和支持少数群体，表达对社会上无视她们困境的质疑。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | twitter_莫希咪嘻（互fo）_on_X_@dw_chinese_我虽然生理上是男性，但我_.md                             |
 | Size            | 837 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://twitter.com/MELdXyY19hkjxza/status/1592866319854362628](https://twitter.com/MELdXyY19hkjxza/status/1592866319854362628)                       |
+| Author          | 莫希咪嘻（互fo）                               |
+| Region          | 未知                               |
+| Date            | 2022-11-16                                 |
+| Tags            | 多元性别, 性别认同, 少数群体, 身份认同, 生活故事, 社会歧视, 医学经历, 文化交流, 自我表达, 性取向                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

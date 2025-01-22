@@ -60,8 +60,8 @@
 |-----------------|----------------------------------------|
 | Filename        | github_Trans-Land-Development-CommunityMtF-Simulator_小药娘模拟器.md                             |
 | Size            | 1429 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://github.com/Trans-Land-Development-Community/MtF-Simulator](https://github.com/Trans-Land-Development-Community/MtF-Simulator)                       |
 | Author          | Luna5ama                               |
 | Region          | 未知                               |
 | Date            | 2021-09-11                                 |

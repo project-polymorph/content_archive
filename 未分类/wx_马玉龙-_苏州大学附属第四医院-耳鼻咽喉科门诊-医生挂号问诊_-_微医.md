@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细介绍了苏州大学附属第四医院耳鼻喉科的马玉龙医生，主要包括他的职业背景、专业技能以及医疗领域的成就。马玉龙医生是副主任医师和副教授，专注于声带及嗓音疾病的治疗，特别是在跨性别患者的声带整形手术方面有丰富经验和贡献。文件中列出了他的擅长疾病类型，包括声带息肉、嗓音障碍及鼾症等，强调了他在嗓音训练和声音美化方面的专业性。同时，马医生的个人简介提到其在耳鼻喉科领域的多项职责和委员会任职，展现了他在医疗行业的影响力和贡献。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wx_马玉龙-_苏州大学附属第四医院-耳鼻咽喉科门诊-医生挂号问诊_-_微医.md                             |
 | Size            | 2531 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wx.wy.guahao.com/expert/personal/8829271d-34ff-4e5a-aae2-8908ffe6b35e000](https://wx.wy.guahao.com/expert/personal/8829271d-34ff-4e5a-aae2-8908ffe6b35e000)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 马玉龙, 跨性别声带整形, 耳鼻喉科, 苏州大学附属第四医院, 医疗资源, 声带健康, 嗓音训练, 医生介绍, 性别多元性, 医疗专业人士                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

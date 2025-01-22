@@ -76,8 +76,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bbs_招贤纳士-_梦莎天使论坛-_Powered_by_Discuz!.md                             |
 | Size            | 2348 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://bbs.cdts8.com/plugin.php?id=ai_view:pages&do=jobs&mobile=no](http://bbs.cdts8.com/plugin.php?id=ai_view:pages&do=jobs&mobile=no)                       |
 | Author          | 梦莎天使论坛                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

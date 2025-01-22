@@ -100,8 +100,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baijiahao_山东冠军男孩同时拥有两性器官，想当女人被送戒网瘾学校_-_百度.md                             |
 | Size            | 9277 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baijiahao.baidu.com/s?id=1686305404535079485&wfr=spider&for=pc](https://baijiahao.baidu.com/s?id=1686305404535079485&wfr=spider&for=pc)                       |
 | Author          | 河北青年报                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-12-17                                 |

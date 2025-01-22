@@ -8,7 +8,7 @@
 编辑：廖浩宇  
 时间：2019-04-20 22:05:24
 
-![](//j.rednet.cn/images/qr-shike1.png) 时刻新闻
+![](https://j.rednet.cn/images/qr-shike1.png) 时刻新闻
 
 ![WechatIMG59.jpg](https://img.rednet.cn/2019/04-20/b9ae0024-7456-47a9-9968-90b71cbc4433.jpg)
 
@@ -103,8 +103,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hn_女装爱好者：在“他”和“她”之间_-_湖南频道.md                             |
 | Size            | 6225 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hn.rednet.cn/content/2019/04/20/5332443.html](https://hn.rednet.cn/content/2019/04/20/5332443.html)                       |
 | Author          | 红网，宋叙泓，何青                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-04-20                                 |

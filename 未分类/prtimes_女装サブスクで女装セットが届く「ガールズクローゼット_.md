@@ -228,8 +228,8 @@ A. 郵便局留めできます。指定した郵便局にお荷物が送られ�
 |-----------------|----------------------------------------|
 | Filename        | prtimes_女装サブスクで女装セットが届く「ガールズクローゼット_.md                             |
 | Size            | 21340 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://prtimes.jp/main/html/rd/p/000000004.000028941.html](https://prtimes.jp/main/html/rd/p/000000004.000028941.html)                       |
 | Author          | 株式会社UNI                               |
 | Region          | 日本                               |
 | Date            | 2020-07-20                                 |

@@ -188,7 +188,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一份关于女装大佬小说推荐的清单，列出了多部相关小说及其简介。这些小说涵盖了多种题材，包括男扮女装、超能力、恋爱等，旨在为读者提供丰富的阅读选择。推荐的小说包括《快穿：男主他总在自我攻略》，这部小说获得了20万人次的阅读，作者已注销；《通灵侦探社：生死轮回》和《王者荣耀：我真的会辅助！》等，分别也是广受欢迎的作品。同时，文件的其他部分还包含了更新日期与相关的标签，这些标签涉及了小说中常见的主题，如“男扮女装”和“甜宠”等，给读者提供了更进一步的主题参考。对于想要探索多元性别主题的读者来说，这份推荐清单是一个非常有价值的资源。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -199,12 +199,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬小说打赏榜.md                             |
 | Size            | 13431 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ihuaben.com/category/nvzhuangdalao/rewardcount_week/1.html](https://www.ihuaben.com/category/nvzhuangdalao/rewardcount_week/1.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2025-01-21                                 |
+| Tags            | 女装大佬, 小说推荐, 男扮女装, 恋爱, 超能力, 文艺, 奇幻, 更新, 阅读推荐, 网络小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

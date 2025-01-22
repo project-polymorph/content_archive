@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了中国的变性手术现状，并通过变性手术倡导者何清濂的声音，呼吁社会对变性手术进行规范和管理。何清濂指出，最近发生的几起因变性手术失败引发的刑事案件，揭示了我国变性手术的泛滥和医生责任心缺乏的问题，这些不法行为不仅伤害了患者的身心健康，还可能对患者融入社会产生负面影响。他强调，变性手术的实施需谨慎，并应建立一套严格的标准，以确保患者能够安全接受手术，避免因缺乏经验而导致的失败和伤害。文章最后，何清濂呼吁相关部门应尽早制定相关规范，选定符合条件的医院进行变性手术，促进这一领域的健康发展。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性手术泛滥成灾中国变性首倡者呼吁刹车_大纪元.md                             |
 | Size            | 4279 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.epochtimes.com/gb/1/2/20/n49136.htm](https://www.epochtimes.com/gb/1/2/20/n49136.htm)                       |
+| Author          | 大纪元                               |
+| Region          | 中国大陆                               |
+| Date            | 2001-02-20                                 |
+| Tags            | 多元性别, 变性手术, 易性病, 医疗资源, 法律政策, 社会环境, 变性人, 手术规范, 刑事案件, 何清濂                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

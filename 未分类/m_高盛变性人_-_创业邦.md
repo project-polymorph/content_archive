@@ -179,8 +179,8 @@ J.P.Morgan有一个项目叫做“Proud to Be”，自我认同为女同性恋�
 |-----------------|----------------------------------------|
 | Filename        | m_高盛变性人_-_创业邦.md                             |
 | Size            | 11660 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.cyzone.cn/article/538338](https://m.cyzone.cn/article/538338)                       |
 | Author          | 小易                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

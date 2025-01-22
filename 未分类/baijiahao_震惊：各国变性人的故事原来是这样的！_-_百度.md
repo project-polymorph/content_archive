@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baijiahao_震惊：各国变性人的故事原来是这样的！_-_百度.md                             |
 | Size            | 3996 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baijiahao.baidu.com/s?id=1662839213469417090&wfr=spider&for=pc](https://baijiahao.baidu.com/s?id=1662839213469417090&wfr=spider&for=pc)                       |
 | Author          | 美颜会长                               |
 | Region          | 未知                               |
 | Date            | 2020-04-03                                 |

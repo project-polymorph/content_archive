@@ -63,8 +63,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_男娘.md                             |
 | Size            | 3735 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.plfrog.com/review/4623.html](https://m.plfrog.com/review/4623.html)                       |
 | Author          | 未知                               |
 | Region          | 北京                               |
 | Date            | 2022-12-31                                 |

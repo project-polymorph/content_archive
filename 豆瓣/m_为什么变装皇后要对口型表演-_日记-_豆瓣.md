@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_为什么变装皇后要对口型表演-_日记-_豆瓣.md                             |
 | Size            | 9226 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/853861825/](https://m.douban.com/note/853861825/)                       |
 | Author          | 鐘綠                               |
 | Region          | 未知                               |
 | Date            | 2023-09-12                                 |

@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ethics_變性前‧變性後_-_生命及倫理研究中心-_明光社.md                             |
 | Size            | 6617 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ethics.truth-light.org.hk/nt/article/%E8%AE%8A%E6%80%A7%E5%89%8D%E8%AE%8A%E6%80%A7%E5%BE%8C](https://ethics.truth-light.org.hk/nt/article/%E8%AE%8A%E6%80%A7%E5%89%8D%E8%AE%8A%E6%80%A7%E5%BE%8C)                       |
 | Author          | 张勇杰 | 明光社项目主任                               |
 | Region          | 香港                               |
 | Date            | 2013-12-07                                 |

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_〈獨家〉變性負債惹爭議美髮師為愛終不悔.md                             |
 | Size            | 2616 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.tvbs.com.tw/life/379686](https://news.tvbs.com.tw/life/379686)                       |
 | Author          | 林瑋鈞, 蕭應強                               |
 | Region          | 四川, 台湾                               |
 | Date            | 2004-03-09                                 |

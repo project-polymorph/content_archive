@@ -70,7 +70,7 @@ Tse和案中另外兩名跨性別人士，雖然生作女兒身，但皆認定�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了三名跨性别男性对香港政府的法律行动，他们因未完成全套变性手术而被拒绝更改身份证上的性别。这三人包括Tse，皆自认为是男性，并已接受胸部切除手术和荷尔蒙治疗，生活多年为男性身份。根据香港入境处的现行政策，必须完成包括切除子宫和卵巢在内的变性手术才能更改性别。申请人指控入境处违反《人权法》和性别歧视，同时指出这种政策严重影响他们的就业和生活。他们主张，应以生活习惯和心理认同作为更改性别的标准，而不是将变性手术作为必要条件。文章还提到其他国家（如爱尔兰、荷兰、澳大利亚）对跨性别人士的法律认可相对宽松，不强制要求手术。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,12 +81,12 @@ Tse和案中另外兩名跨性別人士，雖然生作女兒身，但皆認定�
 |-----------------|----------------------------------------|
 | Filename        | www_女變男跨性別人士不滿須完成全套手術才得改「性」_求法庭覆核.md                             |
 | Size            | 4890 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/147970/%E5%A5%B3%E8%AE%8A%E7%94%B7%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E4%B8%8D%E6%BB%BF%E9%A0%88%E5%AE%8C%E6%88%90%E5%85%A8%E5%A5%97%E6%89%8B%E8%A1%93%E6%89%8D%E5%BE%97%E6%94%B9-%E6%80%A7-%E6%B1%82%E6%B3%95%E5%BA%AD%E8%A6%86%E6%A0%B8](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/147970/%E5%A5%B3%E8%AE%8A%E7%94%B7%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E4%B8%8D%E6%BB%BF%E9%A0%88%E5%AE%8C%E6%88%90%E5%85%A8%E5%A5%97%E6%89%8B%E8%A1%93%E6%89%8D%E5%BE%97%E6%94%B9-%E6%80%A7-%E6%B1%82%E6%B3%95%E5%BA%AD%E8%A6%86%E6%A0%B8)                       |
+| Author          | 伍凱瑩                               |
+| Region          | 香港                               |
+| Date            | 2018-01-09                                 |
+| Tags            | 跨性别, 性别认同, 法律诉讼, 人权, 社会政策, 入境处, 判断标准, 生活影响, 医疗治疗, 香港新闻                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

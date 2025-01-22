@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一位变性人群体成员的悲惨故事，主题围绕其追求爱情的渴望与最终孤独去世的经历。视频内容的主旨在于揭示变性人群体在社会中面临的困境与挑战，强调了对爱的渴求及其孤独感。文中提到，这位变性人在求爱的过程中，遭遇了社会的排斥，最终选择在出租屋中结束自己的生命。通过这种叙述，文件呼吁社会对变性人群体的理解与支持，以及重视其心理健康与生存状况。视频的发布时间为2024年11月14日，播放时长为7分钟06秒，观看次数为1次，显示出这一主题仍然需要更多的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“变性人”的凄惨人生，渴望拥有爱情，却孤独的在出租屋去世_-_YouTube.md                             |
 | Size            | 642 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=S3idRecb3mU](https://www.youtube.com/watch?v=S3idRecb3mU)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-14                                 |
+| Tags            | 变性人, 生存故事, 孤独, 爱情, 社会排斥, 心理健康, 变性经历, 社会支持, 生活困境, 变性人权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

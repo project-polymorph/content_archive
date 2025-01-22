@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档提供了关于变性手术的概述，尤其是针对易性癖人群的相关内容。文件提及了目前在变性手术领域中的各种技术、条件和注意事项，旨在为需要进行过渡的人士提供重要的信息和洞察。这种手术在多元性别界中扮演着重要角色，是许多人实现其性别认同和身体和谐的重要途径。此外，文件还提到了一些实际案例和经验分享，以帮助读者理解变性手术的复杂性与必要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《变性手术概述》易性癖_-_中国社会科学文库.md                             |
 | Size            | 2800 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.sklib.cn/booklib/databasedetail?SiteID=122&ID=4519899&fromSubID=](https://www.sklib.cn/booklib/databasedetail?SiteID=122&ID=4519899&fromSubID=)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 易性癖, 多元性别, 医疗资源, 身体过渡, 性别认同, 社会支持, 案例分享, 心理支持, 法律与权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

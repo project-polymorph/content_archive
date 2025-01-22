@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了一部名为《少林武僧爱上女装潜伏魔教女团乐不思蜀》的国产条漫，讲述了一位少林武僧的搞笑故事。故事情节围绕主角为了拯救他的头发，寻找一种能让他变得更强并成功潜入魔教女团的超级生发剂。在这个过程中，主角的转变为女装大佬，展现了多元性别的沟通与表达。该条漫不仅深刻展示了角色的过渡经历，同时也以搞笑的方式反映了与性别表达相关的社会话题，以及多元文化和身份认同的探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,12 +38,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_少林武僧爱上女装潜伏魔教女团乐不思蜀【国漫推荐】_-_YouTube.md                             |
 | Size            | 822 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=XXKr6zBn_WE](https://www.youtube.com/watch?v=XXKr6zBn_WE)                       |
+| Author          | 大果大果赵大果                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-12-26                                 |
+| Tags            | 多元性别, 性别表达, 国产条漫, 少林武僧, 女装大佬, 魔教女团, 搞笑故事, 文化认同, 社会话题, 生命故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

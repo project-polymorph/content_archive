@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件收录了2010年快男海选中的一段名为《伪娘》的视频。视频时长为2分53秒，发布于YouTube平台，展示了当时该节目在多元性别话题上的涉猎。《伪娘》这一名称常常用于指代以女性形象出现的男性，反映了社会对性别表现的多样性和接受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_2010快男海选《伪娘》_-_YouTube.md                             |
 | Size            | 787 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=RxgPC3ni26U](https://www.youtube.com/watch?v=RxgPC3ni26U)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2010-01-01                                 |
+| Tags            | 多元性别, 伪娘, 快男, 海选, 性别表现, YouTube视频, 社会接受度, 性别多样性, 网络文化, 视频分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

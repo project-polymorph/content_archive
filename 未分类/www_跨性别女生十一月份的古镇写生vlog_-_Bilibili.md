@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位跨性别女生在古镇进行写生的生活视频日志（Vlog）。视频通过作者的视角展现了她在古镇的日常生活，包括现场绘画的过程、与古镇风景的互动以及个人的感受和体验。通过生动的影像，观众可以感受到跨性别女生在探索自我与表达艺术之间的独特经历。这段视频不仅展示了她的艺术创作，还反映了她作为跨性别者的日常生活，让观众对多元性别群体有更深入的理解与关注。视频于2022年12月27日发布，作者秋刀鱼是啥子鱼在Bilibili平台上拥有1.1万关注者，并吸引了197条评论和50个点赞，表明了其内容的受欢迎程度和影响力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,12 +69,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别女生十一月份的古镇写生vlog_-_Bilibili.md                             |
 | Size            | 1344 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1Uv4y1z7Nf/](https://www.bilibili.com/video/BV1Uv4y1z7Nf/)                       |
+| Author          | 秋刀鱼是啥子鱼                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-12-27                                 |
+| Tags            | 跨性别, 生活记录, 艺术, Vlog, 古镇写生, 日常生活, 跨性别女生, 生活态度, 性别多样性, 社会观察                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

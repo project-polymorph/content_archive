@@ -48,7 +48,7 @@ Copyright ©1999-2013 81.cn All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要介绍了朱晓海医生的专业背景和医术特长，尤其是在整形外科及易性病（变性）领域的贡献。朱晓海为副主任医师和副教授，任职于第二军医大学附属长征医院。他专注于易性病的医疗，能够进行多种复杂的变性手术，包括女变男手术，手术时长可达十小时，且都取得了成功。此外，他在整形美容方面也有着深厚的造诣，包括面部美容和各种身体部位的整形手术。朱晓海致力于个性化的手术方案设计，以符合每位患者的特定需要，并持有不断追求精益求精的服务宗旨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@ Copyright ©1999-2013 81.cn All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_朱晓海-_整形外科-_中国好军医.md                             |
 | Size            | 3520 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.81.cn/zghjy/2014-02/13/content_5768340.htm](http://www.81.cn/zghjy/2014-02/13/content_5768340.htm)                       |
+| Author          | 朱晓海                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-02-13                                 |
+| Tags            | 整形外科, 易性病, 变性手术, 医疗资源, 医学教育, 朱晓海, 美容与整形, 医学研究, 临床医学, 患者服务                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

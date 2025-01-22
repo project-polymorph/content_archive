@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | julianacd_泰國變性實錄一位小姐的手術日記_-_茱莉安娜的秘密花園.md                             |
 | Size            | 32152 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://julianacd.pixnet.net/blog/post/230203400](https://julianacd.pixnet.net/blog/post/230203400)                       |
 | Author          | 艾丝姑娘 (Aice)                               |
 | Region          | 未知                               |
 | Date            | 1999-11-06                                 |

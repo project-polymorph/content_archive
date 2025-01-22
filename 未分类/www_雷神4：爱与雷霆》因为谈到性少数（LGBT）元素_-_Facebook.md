@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一则多元性别相关的信息，由Lum Chih Feng撰写，发布时间为2023年7月28日。内容涉及电影《雷神4：爱与雷霆》未在马来西亚上映的消息，提到影片中存在性少数（LGBT）元素的情况，而马来西亚的电影院线GSC并未明确说明不放映的原因。原文中提到的 "Love and Thunder" 变为 "Love and Takde"，暗示对该片因性别多元内容的审查及社会环境的影响。此外，文中还包含了一则评论，反映了人们对这一现象的看法，指出社会对少数群体的不理解和偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_雷神4：爱与雷霆》因为谈到性少数（LGBT）元素_-_Facebook.md                             |
 | Size            | 1440 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=454324259902958&id=100059761622915&set=a.435548815113836&locale=pl_PL](https://www.facebook.com/photo.php?fbid=454324259902958&id=100059761622915&set=a.435548815113836&locale=pl_PL)                       |
+| Author          | Lum Chih Feng 蓝志锋                               |
+| Region          | 马来西亚                               |
+| Date            | 2023-07-28                                 |
+| Tags            | 多元性别, LGBT, 影视审查, 社会环境, 性别表达, 马来西亚文化, 电影, 新闻报道, 性少数, 公民权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

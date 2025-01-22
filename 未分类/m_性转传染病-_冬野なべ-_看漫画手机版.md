@@ -83,7 +83,7 @@ _连载_
   人生色色遊戲，這種遊戲怎麼可能隨便在商店街能入手，你們的媽肯定不簡單  
   2024-12-15 00:41:09
 
-- ![](//cf.mhgui.com/upload/202203/01/202203010218490927.png)  
+- ![](https://cf.mhgui.com/upload/202203/01/202203010218490927.png)  
   SinOfWrath ![](https://cf.mhgui.com/images/mobile/sex_1.png)  
   第46话的尾页。。。作者的您有出本的打算吗？还是已经有了？  
   2024-12-12 15:56:20
@@ -92,7 +92,7 @@ _连载_
   人生色色遊戲，這種遊戲怎麼可能隨便在商店街能入手，你們的媽肯定不簡單  
   2024-12-11 22:59:57
 
-- ![](//cf.mhgui.com/upload/202408/22/202408221900027126.JPG)  
+- ![](https://cf.mhgui.com/upload/202408/22/202408221900027126.JPG)  
   ![](https://cf.mhgui.com/images/mobile/sex_1.png)  
   女孩子真正的娛樂方式是什麼啊？  
   2024-11-27 22:00:28
@@ -122,12 +122,12 @@ _连载_
   想和日向生孩子，然後接受了日向變成女生，這感覺該不會是百合菜變扶他來生孩子吧?  
   2024-11-06 15:27:35
 
-- ![](//cf.mhgui.com/upload/202209/11/202209111758577262.jpg)  
+- ![](https://cf.mhgui.com/upload/202209/11/202209111758577262.jpg)  
   ![](https://cf.mhgui.com/images/mobile/sex_1.png)  
   54話：來，讓我康康！  
   2024-11-05 18:49:38
 
-- ![](//cf.mhgui.com/upload/202403/04/202403041433525116.JPG)  
+- ![](https://cf.mhgui.com/upload/202403/04/202403041433525116.JPG)  
   ![](https://cf.mhgui.com/images/mobile/sex_1.png)  
   tsf monogatari 真的似  
   2024-10-01 13:25:48
@@ -152,12 +152,12 @@ _连载_
   _命運_：奶子和肚子分不清楚，这是什么平行世界吗  
   2023-11-26 02:43:02
 
-- ![](//cf.mhgui.com/upload/202001/06/202001060059391322.jpg)  
+- ![](https://cf.mhgui.com/upload/202001/06/202001060059391322.jpg)  
   人生苦手 ![](https://cf.mhgui.com/images/mobile/sex_1.png)  
   ：陽香和班長: 00->10->11  
   2023-11-26 02:23:22
 
-- ![](//cf.mhgui.com/upload/202001/06/202001060059391322.jpg)  
+- ![](https://cf.mhgui.com/upload/202001/06/202001060059391322.jpg)  
   人生苦手 ![](https://cf.mhgui.com/images/mobile/sex_1.png)  
   _命運_：奶子和肚子分不清楚，这是什么平行世界吗  
   2023-11-26 02:20:48
@@ -215,8 +215,8 @@ _连载_
 |-----------------|----------------------------------------|
 | Filename        | m_性转传染病-_冬野なべ-_看漫画手机版.md                             |
 | Size            | 9311 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.manhuagui.com/comic/26682/](https://m.manhuagui.com/comic/26682/)                       |
 | Author          | 冬野なべ                               |
 | Region          | 未知                               |
 | Date            | 2024-12-11                                 |

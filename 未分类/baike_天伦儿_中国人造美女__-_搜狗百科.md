@@ -25,8 +25,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_天伦儿_中国人造美女__-_搜狗百科.md                             |
 | Size            | 517 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v8914540.htm](https://baike.sogou.com/v8914540.htm)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

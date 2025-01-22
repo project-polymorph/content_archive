@@ -47,7 +47,7 @@ Moses之后还偷走David家中的一些物品，包括笔记本电脑、金首�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一起涉及变装癖男子的勒索案件。38岁的被告Moses Marshal Rajendran与其45岁的友人David Vijaysurya Vincent Mohindas在与一名变装癖受害者发生性关系后，企图勒索该男子的财物。案件中，受害者由于担心自己的性取向和变装癖被曝光，而在精神压力下向两名被告支付了2200元的勒索金额。随后，两名被告继续向受害者索要更多的钱，甚至尝试让受害者向母亲借钱。Moses被判监禁两年七个月，而David则被判坐牢两年两个月。此次事件揭示了社会对性别多样性和变装癖群体的偏见，以及在面临勒索时受害者的无奈。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@ Moses之后还偷走David家中的一些物品，包括笔记本电脑、金首�
 |-----------------|----------------------------------------|
 | Filename        | www_和变装癖男子上床后趁机勒索男子和朋友吃牢饭_-_8world.md                             |
 | Size            | 2928 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.8world.com/singapore/two-men-jailed-blackmailing-another-man-cross-dressing-1912596](https://www.8world.com/singapore/two-men-jailed-blackmailing-another-man-cross-dressing-1912596)                       |
+| Author          | 8world                               |
+| Region          | 未知                               |
+| Date            | 2022-09-08                                 |
+| Tags            | 变装, 勒索, 黑mail, 跨性别, 性取向, 性别多样性, 社会偏见, 法律案例, 犯罪, 受害者支援                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

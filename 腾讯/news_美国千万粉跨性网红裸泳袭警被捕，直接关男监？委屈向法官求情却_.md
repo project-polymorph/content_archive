@@ -190,8 +190,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_美国千万粉跨性网红裸泳袭警被捕，直接关男监？委屈向法官求情却_.md                             |
 | Size            | 10274 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20221115A004CZ00](https://news.qq.com/rain/a/20221115A004CZ00)                       |
 | Author          | 腾讯新闻                               |
 | Region          | 中国香港                               |
 | Date            | 2022-11-15                                 |

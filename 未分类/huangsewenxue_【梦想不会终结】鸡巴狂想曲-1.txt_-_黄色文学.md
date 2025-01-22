@@ -19,8 +19,8 @@
 |-----------------|----------------------------------------|
 | Filename        | huangsewenxue_【梦想不会终结】鸡巴狂想曲-1.txt_-_黄色文学.md                             |
 | Size            | 527 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://huangsewenxue.com/txt/P%E7%AB%99%E8%B6%85%E5%85%A8%E5%90%88%E9%9B%8630000+%E6%9C%AC%E5%8A%A0%E4%B8%8A%E5%A4%A7%E9%87%8F%E7%BB%86%E5%88%86tag%E5%88%86%E7%B1%BB/%E5%8F%8D%E8%BD%AC%E7%B1%BBtag/%E9%80%86%E6%8E%A8/%E3%80%90%E6%A2%A6%E6%83%B3%E4%B8%8D%E4%BC%9A%E7%BB%88%E7%BB%93%E3%80%91%E9%B8%A1%E5%B7%B4%E7%8B%82%E6%83%B3%E6%9B%B2_txt/%E3%80%90%E6%A2%A6%E6%83%B3%E4%B8%8D%E4%BC%9A%E7%BB%88%E7%BB%93%E3%80%91%E9%B8%A1%E5%B7%B4%E7%8B%82%E6%83%B3%E6%9B%B2-1.txt](https://huangsewenxue.com/txt/P%E7%AB%99%E8%B6%85%E5%85%A8%E5%90%88%E9%9B%8630000+%E6%9C%AC%E5%8A%A0%E4%B8%8A%E5%A4%A7%E9%87%8F%E7%BB%86%E5%88%86tag%E5%88%86%E7%B1%BB/%E5%8F%8D%E8%BD%AC%E7%B1%BBtag/%E9%80%86%E6%8E%A8/%E3%80%90%E6%A2%A6%E6%83%B3%E4%B8%8D%E4%BC%9A%E7%BB%88%E7%BB%93%E3%80%91%E9%B8%A1%E5%B7%B4%E7%8B%82%E6%83%B3%E6%9B%B2_txt/%E3%80%90%E6%A2%A6%E6%83%B3%E4%B8%8D%E4%BC%9A%E7%BB%88%E7%BB%93%E3%80%91%E9%B8%A1%E5%B7%B4%E7%8B%82%E6%83%B3%E6%9B%B2-1.txt)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

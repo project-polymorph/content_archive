@@ -63,7 +63,7 @@ QQ：1103340362
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于个人交友需求的帖子，发布于名为“灵魂深渊”的社交平台。作者自我介绍为伪CDS，坦诚描述了自己的身份认同与个人喜好，包括喜欢可爱的女性化衣物如裙子和高跟鞋，但并不特别注重化妆。作者目前身处北京，已婚并处于半开放的状态，寻求交友的搭子。文中详细阐述了作者希望对方的年龄（18岁以上），身材偏瘦，最好能够接受对方是CD的角色。作者表达了在SM（主奴）关系中的期待，希望对方在这些交往中能够保持礼貌和耐心。此外，作者强调希望交友中不止于SM关系，也希望能有其他的交流话题和互动。帖子末尾附有多条相关社交话题的链接，为寻求交流的其他用户提供了进一步的信息和连接。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@ QQ：1103340362
 |-----------------|----------------------------------------|
 | Filename        | www_【CDTS交友】【伪CDS】+北京+佛系真诚寻一M搭子_-_灵魂深渊.md                             |
 | Size            | 2418 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.souldeeper.top/t/topic/57](https://www.souldeeper.top/t/topic/57)                       |
+| Author          | mistress                               |
+| Region          | 北京                               |
+| Date            | 2024-03-24                                 |
+| Tags            | CDTS交友, 伪CDS, SM关系, 性别多元, 北京, 交友网站, 性别表达, 生活分享, 年龄差, 同性恋                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

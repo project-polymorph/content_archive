@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了知名的变性女性金星在完成变性手术后的一些个人经历，特别是她对多元性别认同的探索和发展。文中详细介绍了金星的生命故事，包括她从男性转变为女性的心理历程，以及在此过程中所面对的身体和情感挑战。文件中包含了金星在某节目中的一次访谈，访谈中提问者直接问她关于变性手术后与女性共处时的感受，这引发了金星对于自己性别认同及经历的深度反思。金星的故事通过其成长背景、职业生涯、以及她与伴侣汉斯在法律和情感上的双重挑战，展现了一个坚强而真实的多元性别者的形象。本文还提及了她职业生涯的成就以及后来重组家庭的幸福生活，传达出坚持自我与寻求幸福的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_金星被问：做完变性手术后和女人在一起洗澡会不会动心？_-_文学城.md                             |
 | Size            | 10453 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wenxuecity.com/news/2024/11/14/ent-265440.html](https://www.wenxuecity.com/news/2024/11/14/ent-265440.html)                       |
+| Author          | 骏年聊娱乐                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-14                                 |
+| Tags            | 金星, 变性手术, 多元性别, 性别认同, 生命故事, 访谈, 法律政策, 情感经历, 家庭生活, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

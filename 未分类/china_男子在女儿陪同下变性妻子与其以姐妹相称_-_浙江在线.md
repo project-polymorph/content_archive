@@ -78,8 +78,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_男子在女儿陪同下变性妻子与其以姐妹相称_-_浙江在线.md                             |
 | Size            | 8056 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://china.zjol.com.cn/05china/system/2006/11/09/007979269.shtml](https://china.zjol.com.cn/05china/system/2006/11/09/007979269.shtml)                       |
 | Author          | 沈阳晚报                               |
 | Region          | 中国大陆                               |
 | Date            | 2006-11-09                                 |

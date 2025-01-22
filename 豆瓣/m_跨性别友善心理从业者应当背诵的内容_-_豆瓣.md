@@ -192,8 +192,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别友善心理从业者应当背诵的内容_-_豆瓣.md                             |
 | Size            | 13495 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/16001621/](https://m.douban.com/book/review/16001621/)                       |
 | Author          | 潘柏林 / 刘烨 / 韩萌 / 陈冰锐                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-06-01                                 |

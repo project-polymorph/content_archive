@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | podcasts_「我沒有說我想變成女生」你不知道的，台灣跨性別者故事ft.王孝勇_.md                             |
 | Size            | 3425 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/tw/podcast/%E6%88%91%E6%B2%92%E6%9C%89%E8%AA%AA%E6%88%91%E6%83%B3%E8%AE%8A%E6%88%90%E5%A5%B3%E7%94%9F-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-%E5%8F%B0%E7%81%A3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%95%85%E4%BA%8B-ft-%E7%8E%8B%E5%AD%9D%E5%8B%87-%E6%9D%8E%E4%BD%A9%E9%9B%AF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9-s03ep10/id1479361968?i=1000671476239](https://podcasts.apple.com/tw/podcast/%E6%88%91%E6%B2%92%E6%9C%89%E8%AA%AA%E6%88%91%E6%83%B3%E8%AE%8A%E6%88%90%E5%A5%B3%E7%94%9F-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-%E5%8F%B0%E7%81%A3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%95%85%E4%BA%8B-ft-%E7%8E%8B%E5%AD%9D%E5%8B%87-%E6%9D%8E%E4%BD%A9%E9%9B%AF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9-s03ep10/id1479361968?i=1000671476239)                       |
 | Author          | 李佩雯（主持人），王孝勇（嘉宾）                               |
 | Region          | 台湾                               |
 | Date            | 2024-10-01                                 |

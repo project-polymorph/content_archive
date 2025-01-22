@@ -188,7 +188,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章的内容是一部关于异世界转生的小说，讲述了一个精灵角色的故事。故事的主人公是一个66岁的精灵，因机缘巧合穿越到一个现代社会的宅女身上。文章以第一人称的视角描绘了她的生活，反映出精灵与人类之间的差异与思考。通过主人公对于原主人宅女的背景故事的回忆，展现了宅女因家庭变故而产生的颓废和孤独，以及精灵试图在这个新世界适应生活。同时，该角色对宅女的绝笔信和生活物品的发掘，引发了她对自身存在和人类情感深刻的思考。这篇文字不仅描写了精灵可爱的生活琐事，且深刻探讨了孤独、痛苦和自我救赎的主题，是一篇充满幻想色彩和人性思考的作品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -199,12 +199,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《关于我转生到异世界性转后终于发现回家的方式却发现_..._-_栋裕小说网.md                             |
 | Size            | 12983 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.yaoyongfei.xyz/combines/suppose_78070](https://www.yaoyongfei.xyz/combines/suppose_78070)                       |
+| Author          | 栋裕小说网                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性转, 异世界, 穿越, 精灵, 宅女, 孤独, 抑郁, 生活方式, 文化冲突                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

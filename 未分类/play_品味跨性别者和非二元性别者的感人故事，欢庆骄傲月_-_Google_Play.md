@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | play_品味跨性别者和非二元性别者的感人故事，欢庆骄傲月_-_Google_Play.md                             |
 | Size            | 3761 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://play.google.com/store/apps/editorial?id=mc_games_editorialmd_pride_2024_fcp&hl=zh_CN](https://play.google.com/store/apps/editorial?id=mc_games_editorialmd_pride_2024_fcp&hl=zh_CN)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

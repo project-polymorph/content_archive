@@ -56,8 +56,8 @@ i
 |-----------------|----------------------------------------|
 | Filename        | chinacd_姊_变装小说.md                             |
 | Size            | 9884 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chinacd.wordpress.com/2015/02/22/%E5%A7%8A/](https://chinacd.wordpress.com/2015/02/22/%E5%A7%8A/)                       |
 | Author          | chinacd                               |
 | Region          | 未知                               |
 | Date            | 2015-02-22                                 |

@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | epaper_做变性手术须年满20岁.md                             |
 | Size            | 1418 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://epaper.voc.com.cn/sxdsb/html/2009-06/17/content_90640.htm](http://epaper.voc.com.cn/sxdsb/html/2009-06/17/content_90640.htm)                       |
 | Author          | 三湘都市报                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-06-17                                 |

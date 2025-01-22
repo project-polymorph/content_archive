@@ -44,7 +44,7 @@ Opener 日本學會今日漢字【偽物】ni se mo no意思：假的東西
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讨论了日本现象中的“男の娘”，即外表女性化的男性，强调了这种文化现象在日本的广泛接受度与流行趋势。作者区嘉颂引入了三位在日本网络上颇受欢迎的“男の娘”代表，指出尽管他们本质上是男性，但因其出众的外表与女性化的打扮，使得很多人对他们产生误会。文中分别介绍了每一位网红的背景，以及他们如何在社交媒体上具有吸引力，尤其是他们的化妆技巧和外貌变化。这不仅反映了个人的性别表达多样性，也潜在地影响了社会对性别角色的看法与讨论。另外，文中还举出了一些相关的文化现象和美国媒体报道，显示这种文化的深入和广泛。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@ Opener 日本學會今日漢字【偽物】ni se mo no意思：假的東西
 |-----------------|----------------------------------------|
 | Filename        | www_【男の娘】三個紅爆日本的偽娘網民：可愛過女人！_-_香港01.md                             |
 | Size            | 2980 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hk01.com/%E9%96%8B%E7%BD%90/168841/%E7%94%B7%E3%81%AE%E5%A8%98-%E4%B8%89%E5%80%8B%E7%B4%85%E7%88%86%E6%97%A5%E6%9C%AC%E7%9A%84%E5%81%BD%E5%A8%98-%E7%B6%B2%E6%B0%91-%E5%8F%AF%E6%84%9B%E9%81%8E%E5%A5%B3%E4%BA%BA](https://www.hk01.com/%E9%96%8B%E7%BD%90/168841/%E7%94%B7%E3%81%AE%E5%A8%98-%E4%B8%89%E5%80%8B%E7%B4%85%E7%88%86%E6%97%A5%E6%9C%AC%E7%9A%84%E5%81%BD%E5%A8%98-%E7%B6%B2%E6%B0%91-%E5%8F%AF%E6%84%9B%E9%81%8E%E5%A5%B3%E4%BA%BA)                       |
+| Author          | 区嘉颂                               |
+| Region          | 香港                               |
+| Date            | 2018-03-16                                 |
+| Tags            | 男の娘, 偽娘, 日本文化, 性别表达, 社交媒体, 化妆技巧, 网络红人, 男性时尚, 性别认同, 香港资讯                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

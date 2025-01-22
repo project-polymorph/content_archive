@@ -96,8 +96,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_育成伪娘演员-_游戏-_豆瓣.md                             |
 | Size            | 4142 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/game/subject/26650623/](https://m.douban.com/game/subject/26650623/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2018-01-01                                 |

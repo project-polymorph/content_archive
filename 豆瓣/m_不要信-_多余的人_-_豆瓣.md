@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_不要信-_多余的人_-_豆瓣.md                             |
 | Size            | 2325 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/10214324?from=subject](https://m.douban.com/movie/review/10214324?from=subject)                       |
 | Author          | 未知                               |
 | Region          | 美国 / 法国                               |
 | Date            | 2010-07-30                                 |

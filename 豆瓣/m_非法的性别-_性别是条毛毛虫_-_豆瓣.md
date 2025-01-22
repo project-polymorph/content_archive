@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_非法的性别-_性别是条毛毛虫_-_豆瓣.md                             |
 | Size            | 8858 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/book/review/6503838/](https://m.douban.com/book/review/6503838/)                       |
 | Author          | 凯特·伯恩斯坦                               |
 | Region          | 美国                               |
 | Date            | 2013-11                                 |

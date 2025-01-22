@@ -6,7 +6,7 @@
 _2021_07/17 17:23:00  
 来源：新华网
 
-![](//www.news.cn/2022newhomepro/mobile/images/logo.png)
+![](https://www.news.cn/2022newhomepro/mobile/images/logo.png)
 
 新华社东京7月17日电（记者刘阳）新西兰体育代表团媒体负责人阿博特17日表示，代表团将在东京奥运会期间格外关照变性举重运动员劳蕾尔·哈伯德，避免她因媒体的过分关注而受到伤害。
 
@@ -29,7 +29,7 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了新西兰体育代表团对变性举重运动员劳蕾尔·哈伯德的特别关注，以确保她在即将召开的东京奥运会期间不会因媒体的过分关注而受到伤害。哈伯德，43岁，成为历史上第一位以变性人身份参加奥运会的运动员，计划参与女子87公斤以上级的比赛。新西兰体育代表团的媒体负责人阿博特强调，他们会一视同仁地对待哈伯德，但由于她面临的特殊情况，代表团会给予额外的关照。文件还提及了关于哈伯德参赛的争议，部分人认为这对其他运动员不公平，而支持者则表示哈伯德在转性过程中已经消解了大部分生理优势。哈伯德的背景包括曾创造新西兰男子举重国家青年纪录，并在变性后获得女子举重世锦赛银牌。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_新西兰代表团：变性举重运动员将受到格外保护_-_新华网.md                             |
 | Size            | 2235 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/2021-07/17/c_1127665692.htm](http://www.xinhuanet.com/2021-07/17/c_1127665692.htm)                       |
+| Author          | 新华网                               |
+| Region          | 新西兰                               |
+| Date            | 2021-07-17                                 |
+| Tags            | 变性人, 举重, 体育, 东京奥运会, 劳蕾尔·哈伯德, 媒体关注, 运动平等, 法律政策, 性别认同, 生理优势                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

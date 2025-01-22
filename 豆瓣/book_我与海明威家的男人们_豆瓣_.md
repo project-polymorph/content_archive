@@ -126,8 +126,8 @@ ISBN: 9787513300292
 |-----------------|----------------------------------------|
 | Filename        | book_我与海明威家的男人们_豆瓣_.md                             |
 | Size            | 7445 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/5291194//](https://book.douban.com/subject/5291194//)                       |
 | Author          | 瓦莱丽·海明威                               |
 | Region          | 未知                               |
 | Date            | 2010-09-01                                 |

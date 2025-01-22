@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为聊斋志异系列的一部分，主要讲述了一段人妖殊途、换心的唯美爱情故事。故事围绕年少气盛的公主李静与侠肝义胆的年轻人王英之间的情感纠葛，展现了他们在逆境中所经历的冒险与成长。同时，故事中还涉及到狐妖小唯与王生后代的情感纠葛，揭示了多元性别与爱情的复杂性与深刻性。故事通过角色的互动，探讨了身份、爱情、勇气与牺牲等主题，反映了对自我与他人真正情感的追求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_聊斋志异系列，主要讲述一段人妖殊途、换心的唯美爱情故事，剧中_.md                             |
 | Size            | 5034 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=h4IGa43vFlM](https://www.youtube.com/watch?v=h4IGa43vFlM)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-10-21                                 |
+| Tags            | 聊斋志异, 多元性别, 人妖爱恋, 唯美爱情, 冒险故事, 情感纠葛, 身份探讨, 李静, 王英, 狐妖小唯                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

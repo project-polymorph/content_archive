@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了2024年美国总统大选的结果及其对美国社会价值观的影响，特别是川普当选如何被解读为反对‘觉醒文化’的象征。文件详细分析了川普在选举中的胜利，以及他的演讲中提到的恢复传统价值观的愿景。文中提到川普在任期间的政策，包括禁止变性人在军队服役，以及他对‘觉醒文化’的强烈抵制。文件还引用了分析人士和政治评论员的看法，强调了美国部分民众对重返传统观念的渴望，以及抵制极端左派意识形态的需求。整体上，文件描绘了当前美国社会在性别、家庭和宗教信仰等多个方面所面临的挑战和转变。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【新唐人快报】分析：川普当选表明美国人渴望回归传统.md                             |
 | Size            | 3522 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ntdtv.com/gb/2024/11/11/a103928847.html](https://www.ntdtv.com/gb/2024/11/11/a103928847.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2024-11-12                                 |
+| Tags            | 美国大选, 川普, 觉醒文化, 传统价值观, 性别政策, 社会反响, 政治分析, 军队政策, 家庭组织, 文化对立                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

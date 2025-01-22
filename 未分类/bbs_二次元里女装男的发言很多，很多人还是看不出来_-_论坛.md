@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bbs_二次元里女装男的发言很多，很多人还是看不出来_-_论坛.md                             |
 | Size            | 3491 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.saraba1st.com/2b/thread-2184975-1-1.html](https://bbs.saraba1st.com/2b/thread-2184975-1-1.html)                       |
 | Author          | rushsong                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-05-26                                 |

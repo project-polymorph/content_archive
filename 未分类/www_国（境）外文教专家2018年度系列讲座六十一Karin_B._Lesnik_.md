@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该讲座是2018年度系列讲座之一，主讲人是卡琳•莱斯尼克-奥伯斯坦教授，讲座集中在儿童文学的多元文化和跨性别认同等主题的探讨。讲座包括一系列富有深度的主题，如儿童文学中动物与童年的理论问题、西方文本中的童年及跨性别认同，以及多元文化如何在儿童文学中构建等。特别是第三级讲座‘童年和（跨）性别认同在当前西方话语中的探讨’，深入分析了跨性别认同在儿童文学中的表现和影响，旨在提高儿童对多元性别的认识与理解。此次活动是在儿童文学学科建设背景下，邀请国际学者进行的学术交流，增强了参与者对性别多样性及其在文化中的表现的理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,12 +77,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_国（境）外文教专家2018年度系列讲座六十一Karin_B._Lesnik_.md                             |
 | Size            | 2915 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.ouc.edu.cn/_t65/2018/0514/c13698a191042/pagem.htm](http://www.ouc.edu.cn/_t65/2018/0514/c13698a191042/pagem.htm)                       |
+| Author          | 卡琳•莱斯尼克-奥伯斯坦教授                               |
+| Region          | 未知                               |
+| Date            | 2018-05-10                                 |
+| Tags            | 儿童文学, 多元文化, 儿童文学批评, 跨性别认同, 国际合作, 学术交流, 性别研究, 动物与童年, 文化构建, 学术讲座                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

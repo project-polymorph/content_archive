@@ -39,7 +39,7 @@ She also ran for Congress and served as a delegate for then-Sen. Hillary Clinton
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国总统奥巴马任命的首位变性人阿曼达•辛普森作为美国商务部工业安全局高级技术顾问的经历。阿曼达•辛普森（Amanda Simpson）原名米契尔（Mitchell），在上世纪90年代通过变性手术成为女性。她在担任此职位时，负责管理国际贸易、执行国际条例、提升国家发展及保护国家经济和网络安全。辛普森拥有物理学、工程学和商科的多重学位，并曾在导弹公司雷神（Raytheon）工作。她希望自己的任命能够为其他变性人创造更多进入政府工作的机会。此外，她具有推动军工企业在平等就业机会政策中加入性别身份与表现的影响力，并在2008年担任希拉里·克林顿总统竞选的代表。该消息旨在弘扬对变性群体的接纳，展现其在职场和社会中的价值与机遇。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@ She also ran for Congress and served as a delegate for then-Sen. Hillary Clinton
 |-----------------|----------------------------------------|
 | Filename        | www_双语阅读：美国首位变性人成为政府高官_图__—外语频道_-_中国教育在线.md                             |
 | Size            | 2862 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.eol.cn/english/a_level_zixun/201001/t20100106_437599.shtml](https://www.eol.cn/english/a_level_zixun/201001/t20100106_437599.shtml)                       |
+| Author          | 中国教育在线                               |
+| Region          | 美国                               |
+| Date            | 2010-01-06                                 |
+| Tags            | 变性人, 阿曼达•辛普森, 美国政府, 奥巴马, 社会接纳, 职场平等, 性别身份, 变性经历, 法律政策, 国际贸易                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

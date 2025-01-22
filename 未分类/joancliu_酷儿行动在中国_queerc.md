@@ -90,8 +90,8 @@ In the last few years, LGBT+ people in China witnessed highs and lows, or we hav
 |-----------------|----------------------------------------|
 | Filename        | joancliu_酷儿行动在中国_queerc.md                             |
 | Size            | 4786 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://joancliu.github.io/queerc/](https://joancliu.github.io/queerc/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_一个根据该电影创作的艺术网站_-_男孩别哭-_豆瓣.md                             |
 | Size            | 1158 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/1325168/](https://m.douban.com/movie/review/1325168/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2000-03-31                                 |

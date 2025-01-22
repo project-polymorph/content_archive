@@ -135,8 +135,8 @@ Drag Queen在台灣參與Ballroom的活動照。照片提供／洪夢瑤
 |-----------------|----------------------------------------|
 | Filename        | shuj_變裝皇后文化興起藝術與美麗的自我展現_-_小世界周報.md                             |
 | Size            | 12056 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://shuj.shu.edu.tw/blog/2020/04/27/%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%E6%96%87%E5%8C%96%E8%88%88%E8%B5%B7-%E8%97%9D%E8%A1%93%E8%88%87%E7%BE%8E%E9%BA%97%E7%9A%84%E8%87%AA%E6%88%91%E5%B1%95%E7%8F%BE/](http://shuj.shu.edu.tw/blog/2020/04/27/%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8E%E6%96%87%E5%8C%96%E8%88%88%E8%B5%B7-%E8%97%9D%E8%A1%93%E8%88%87%E7%BE%8E%E9%BA%97%E7%9A%84%E8%87%AA%E6%88%91%E5%B1%95%E7%8F%BE/)                       |
 | Author          | 陳怡璇、黃怡潔                               |
 | Region          | 台湾                               |
 | Date            | 2019-04-27                                 |

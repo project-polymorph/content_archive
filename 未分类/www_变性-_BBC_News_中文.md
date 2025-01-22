@@ -86,7 +86,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一系列关于变性、多元性别和性别议题的资讯摘要，汇总了多篇来自BBC新闻的报道。报道内容涉及2024年澳大利亚法院关于性别定义的里程碑式案件裁决、跨性别运动员如林郁婷在奥运会中的表现以及医学研究对性别资格争议的解释。这些报道反映了社会对性别定义和跨性别者权益的复杂讨论和不断演变的法律和政策变化，如国际泳联对跨性别运动员的参赛限制和中国LGBT团体所面临的困境等。此外，文件也收录了一些历史性的个人故事和审视各国性别观的深度采访，例如对口述历史的分享和对性别多样性认知的探讨，帮助读者更全面地理解这一领域中的重要议题和现实挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -97,12 +97,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性-_BBC_News_中文.md                             |
 | Size            | 5421 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/simp/topics/c4vmr082rv1t](https://www.bbc.com/zhongwen/simp/topics/c4vmr082rv1t)                       |
+| Author          | BBC新闻                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别议题, 跨性别者, 女性定义, 运动, 法律政策, 社会环境, LGBT社群, 媒体报道, 医学研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -130,8 +130,8 @@ VS
 |-----------------|----------------------------------------|
 | Filename        | m_我将如何呼唤你-_图书-_豆瓣.md                             |
 | Size            | 6147 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/35325443/](https://m.douban.com/book/subject/35325443/)                       |
 | Author          | 西尔维娅·费雷里                               |
 | Region          | 意大利                               |
 | Date            | 2021-03-01                                 |

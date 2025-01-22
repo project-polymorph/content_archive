@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了一起变性人上诉成功的案件，为跨性别组织带来了欢乐与鼓舞。该判决是对1992年伊斯兰刑事法第66条的挑战，经过三年的法律斗争，变性人上诉得以成功，这一标志性裁决被认为是维护人权的重要一步。受访的变性人代表表示，该判决不仅符合基本人权，还对减轻社会对跨性别群体的歧视和暴力行为具有重要意义。此外，调查显示，在76名调查参与者中，有半数曾经历逮捕，实际反映了跨性别群体面临的严峻现状。该篇报道不仅记录了法律进展，更提升了社会对跨性别权益的关注和理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【3变性人上诉得直】捍卫跨性别组织欢呼判决正面_-_东方日报.md                             |
 | Size            | 2086 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.orientaldaily.com.my/index.php/news/nation/2014/11/07/43100](https://www.orientaldaily.com.my/index.php/news/nation/2014/11/07/43100)                       |
+| Author          | 东方日报                               |
+| Region          | 未知                               |
+| Date            | 2014-11-07                                 |
+| Tags            | 跨性别权利, 变性人上诉, 法律判决, 人权, 社会歧视, 刑事法, 生存现状, 医疗权益, 跨性别组织, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

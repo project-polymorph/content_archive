@@ -28,7 +28,7 @@ copyright © 2004-2014 www.rmzxb.com.cn All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了电视剧《红高粱》中女演员解惠清被指为变性人的事件。文章详细描述了相关信息，指出解惠清原名解正，曾是中国传媒大学的一名男学生，后于2008年进行变性手术。文章中提到，网友们对此信息感到惊讶，而解惠清本人尚未对此表态。报道提供了关于解惠清的学习经历及变性经历的背景，加深了对其身份的认识。同时，该事件也引发了社会对变性人群体的讨论和关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@ copyright © 2004-2014 www.rmzxb.com.cn All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_《红高粱》女星被疑是变性人网友惊呆“大跌眼镜”_图__-_人民政协网.md                             |
 | Size            | 1514 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rmzxb.com.cn/sqmy/nywy/2014/11/07/403937.shtml](https://www.rmzxb.com.cn/sqmy/nywy/2014/11/07/403937.shtml)                       |
+| Author          | 海峡导报                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-11-07                                 |
+| Tags            | 解惠清, 红高粱, 变性人, 生命故事, 影视人物, 社会关注, 网友反应, 身份认同, 性别认同, 中国传媒大学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

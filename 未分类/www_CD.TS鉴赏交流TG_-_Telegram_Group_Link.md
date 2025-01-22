@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个有关CD（交叉穿着者）与TS（变性者）群体的交流平台，名为CD.TS鉴赏交流，主要内容涉及该群体成员之间的经验分享、交流技巧及过渡经历。文中提供了Telegram群组的链接，旨在为男性希望转变为女性的个体创建一个安全的交流空间，内容包括如何成为女性的方法与多元性别相关的支持信息。此外，文件中还提及相关的图片以及群组管理链接，这些都为群体提供了更为多样的互动方式。文件创建于2022年4月28日，并在2024年9月1日更新，作者与来源不详，且可能涉及BDSM文化的交流。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_CD.TS鉴赏交流TG_-_Telegram_Group_Link.md                             |
 | Size            | 1340 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hottg.com/CDTSFANS/CD+TS%E9%89%B4%E8%B5%8F%E4%BA%A4%E6%B5%81-tg-telegram.html](https://www.hottg.com/CDTSFANS/CD+TS%E9%89%B4%E8%B5%8F%E4%BA%A4%E6%B5%81-tg-telegram.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-09-01                                 |
+| Tags            | CD, TS, 变性者, 交叉穿着者, Telegram群组, 社会交流, 个人经历, 性别认同, BDSM, 支持网络                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

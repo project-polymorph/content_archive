@@ -78,8 +78,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖学院-_电影-_豆瓣.md                             |
 | Size            | 2445 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/subject/35943359/](https://m.douban.com/movie/subject/35943359/)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

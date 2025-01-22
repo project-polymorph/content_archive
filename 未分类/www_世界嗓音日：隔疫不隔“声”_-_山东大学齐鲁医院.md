@@ -108,7 +108,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《世界嗓音日：隔疫不隔“声”》，主要介绍了每年4月16日的世界嗓音日及其重要性。文件中详细阐述了嗓音健康的概念，指出随着生活节奏加快与环境影响，嗓音疾病逐年增多，严重影响了人们的生活质量。文章特别介绍了发声障碍的定义、病因及常见分类，包括炎症性嗓音疾病、声带良性增生性病变等。同时，文件还提供了嗓音疾病的评估诊断方法及治疗方式，强调了综合治疗的重要性，包括保守治疗与外科治疗。最后提出了日常嗓音训练的方法，以帮助人们更好地维护嗓音健康。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,12 +119,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_世界嗓音日：隔疫不隔“声”_-_山东大学齐鲁医院.md                             |
 | Size            | 6649 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.qiluhospital.com/show-178-24204-1.html](https://www.qiluhospital.com/show-178-24204-1.html)                       |
+| Author          | 山东大学齐鲁医院                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-04-14                                 |
+| Tags            | 世界嗓音日, 嗓音健康, 发声障碍, 嗓音疾病, 医疗资源, 山东大学齐鲁医院, 法律政策, 社会环境, 健康教育, 疫情影响                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

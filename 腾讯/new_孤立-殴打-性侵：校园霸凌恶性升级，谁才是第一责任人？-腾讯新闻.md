@@ -117,8 +117,8 @@
 |-----------------|----------------------------------------|
 | Filename        | new_孤立-殴打-性侵：校园霸凌恶性升级，谁才是第一责任人？-腾讯新闻.md                             |
 | Size            | 11506 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://new.qq.com/rain/a/20230928A013TD00](https://new.qq.com/rain/a/20230928A013TD00)                       |
 | Author          | 美国留学妈妈圈                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-09-28                                 |

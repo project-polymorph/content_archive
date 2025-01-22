@@ -101,7 +101,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《性激素解读》一文，详细介绍了性激素六项检查的参考值及其临床意义。发布者李培基通过分析性激素检查中各项激素的正常范围和异常表现，为读者提供重要的医学知识和健康建议。文中列出了卵泡生成激素（hFSH）、黄体生成激素（hLH）、雌二醇（ESTRDL）、孕酮（Prog）、睾酮（TESTO）及泌乳素（PRL）的参考范围，强调异常结果可能产生的健康影响，如多囊卵巢综合征、高催乳素血症等。文末还指出，检查性激素时应注意药物使用与检查时间的问题，以确保结果的准确性。整体来看，本文是针对性激素水平的重要科普资料，适合生育、内分泌方面的患者及医学工作者阅读。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -112,12 +112,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性激素解读-京东健康_-_JD.com.md                             |
 | Size            | 4794 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/pccontent/211008](https://www.jd.com/pccontent/211008)                       |
+| Author          | 李培基                               |
+| Region          | 未知                               |
+| Date            | 2020-未知-未知                                 |
+| Tags            | 性激素, 内分泌, 医学, 健康知识, 性激素六项, 多囊卵巢综合征, 孕酮, 睾酮, 黄体生成激素, 检查注意事项, 生殖健康, 临床医学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

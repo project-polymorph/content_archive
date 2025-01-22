@@ -34,8 +34,8 @@ VOICE SURGERY ( YESON VOICE CENTER )…
 |-----------------|----------------------------------------|
 | Filename        | m_嗓音女性化手术术后训练方法TIP_VOICE_SURGERY___YESON_VOICE_.md                             |
 | Size            | 675 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.facebook.com/100057264348958/videos/%E5%97%93%E9%9F%B3%E5%A5%B3%E6%80%A7%E5%8C%96%E6%89%8B%E6%9C%AF%E6%9C%AF%E5%90%8E%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95tipvoice-surgery-yeson-voice-center-v-chatyesonvcline-yesonvoicee-m/498142372978276/](https://m.facebook.com/100057264348958/videos/%E5%97%93%E9%9F%B3%E5%A5%B3%E6%80%A7%E5%8C%96%E6%89%8B%E6%9C%AF%E6%9C%AF%E5%90%8E%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95tipvoice-surgery-yeson-voice-center-v-chatyesonvcline-yesonvoicee-m/498142372978276/)                       |
 | Author          | 艺颂嗓音中心医院                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

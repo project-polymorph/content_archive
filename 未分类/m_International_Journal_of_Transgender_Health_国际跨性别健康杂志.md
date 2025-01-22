@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_International_Journal_of_Transgender_Health_国际跨性别健康杂志.md                             |
 | Size            | 2011 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.zhichengyz.com/qk-10270](https://m.zhichengyz.com/qk-10270)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

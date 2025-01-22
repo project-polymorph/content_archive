@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文标题为《变性歌手男面女身满脸胡须 盘点匪夷所思的变性人》，探讨了几位年轻的变性歌手。文章开头提到，现年18岁的凯蒂原名卢克，经历了由男孩到女孩的转变，详细描述了她在15岁前的生活以及在高中毕业后完成的变性手术。同时提到了现年16岁的阿林，原名艾莫瑞德，她是一名芭蕾舞者，并在变性后继续进行荷尔蒙治疗。文章中还引用了多篇延伸阅读的链接，涉及其他变性人及相关社会现象，全面反映了变性人群体的生活和经历。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_变性歌手男面女身满脸胡须盘点匪夷所思的变性人【12】.md                             |
 | Size            | 1439 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2014/0527/c1002-25071424-12.html](http://world.people.com.cn/n/2014/0527/c1002-25071424-12.html)                       |
+| Author          | 人民网                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-27                                 |
+| Tags            | 变性人, 变性手术, 青春故事, 荷尔蒙治疗, 性别认同, 变性歌手, 社会现象, 媒体报道, 性别多样性, 青春变迁                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

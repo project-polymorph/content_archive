@@ -38,7 +38,7 @@ CD和TS是完全对立的两种情况，因此要放到一起来说。CD是纯�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了"女装子"、"变装"、"反串"、"CD"（Crossdresser）和"TS"（TransSexual）等概念之间的区别与联系。首先，"女装子"是指那些男性在外观上呈现出女性特征的个体，通常与动漫文化相关联，而"变装"则是指穿着异性服装并打扮成异性模样的行为，主要是男性穿着女装。反串则是多用于表演，常见于京剧中，旨在展现男性以女性角色出现的艺术形式。此外，"CD"与"TS"分别表示变装者和变性者，两者在性别认同及其目标上存在本质的差异。文章还涉及了文化背景对这些概念的接受度，以及社会观念变化的可能未来。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@ CD和TS是完全对立的两种情况，因此要放到一起来说。CD是纯�
 |-----------------|----------------------------------------|
 | Filename        | www_反串、女装子、CD、TS的区别-仙女楼变装家园.md                             |
 | Size            | 5632 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xiannvlou.cn/342.html](https://www.xiannvlou.cn/342.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女装子, 变装, 反串, CD, TS, 性别认同, 文化差异, 社会观念, 动漫文化, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

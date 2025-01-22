@@ -46,7 +46,7 @@ Copyright © 2018 鱼蛋文学网 All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人妖兄长（np）》是作者寒山寺头创作的一部伪赛博朋克背景的小说，讲述的是一个生活在红灯区的女孩图尔特的成长故事。小说通过图尔特与其人妖兄长之间的关系，展现了边缘群体在艰难环境中努力生存与奋斗的经历。女主角性格坚韧，出身贫瘠的环境，却拥有强烈的上升欲望，她决心通过勾引权势男性来改变自己的命运。此外，本作包含丰富的社会现实元素，描绘了人妖文化和多元性别身份问题。该书目前处于连载状态，预计将是较短的篇幅，涵盖多个复杂的人物关系和社会现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ Copyright © 2018 鱼蛋文学网 All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_人妖兄长（np）_寒山寺头_作品介绍_最新章节_全文无弹窗免费阅读.md                             |
 | Size            | 1754 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.yudan1998.com/book/fxbiiq/](https://www.yudan1998.com/book/fxbiiq/)                       |
+| Author          | 寒山寺头                               |
+| Region          | 未知                               |
+| Date            | 2024-06-30                                 |
+| Tags            | 人妖, 多元性别, 小说, 伪赛博朋克, 红灯区, 生命故事, 成长经历, 社会现实, 边缘群体, 文学艺术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

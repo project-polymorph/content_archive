@@ -55,8 +55,8 @@ Email: language@chinadaily.com
 |-----------------|----------------------------------------|
 | Filename        | language_Photo_News_-_英语点津.md                             |
 | Size            | 1467 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://language.chinadaily.com.cn/news/news_92.html](https://language.chinadaily.com.cn/news/news_92.html)                       |
 | Author          | 中国日报                               |
 | Region          | 中国                               |
 | Date            | 2009-12-01                                 |

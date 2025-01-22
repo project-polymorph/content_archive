@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性别认同障碍（Gender Identity Disorder, GID）的定义、症状及其治疗方法。性别认同障碍是指个体的生理性别与其自我认知的性别不符，影响着全球数百万人的生活质量。文件首先解释了性别认同障碍的基本定义，指出其症状可能包括厌恶生理性别、希望改变性别角色及外貌等。此外，本文详细描述了目前治疗该障碍的主要方法，包括药物、心理治疗、手术及社交过度换装等，强调了多学科治疗在改善患者状况中的重要性。最后，指出了一些知名的可以治疗性别认同障碍的医院，如约翰霍普金斯大学的威尔玛·曼斯中心、帕門拉·A·波特儿童诊所和墨尔本大学性别发展研究中心，呼吁社会加强对性别认同障碍患者的帮助与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_治疗性别认同障碍的医院_-_心理派.md                             |
 | Size            | 3824 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xinlipai.com/mobile/article/love/9359.html](https://www.xinlipai.com/mobile/article/love/9359.html)                       |
+| Author          | 1860                               |
+| Region          | 未知                               |
+| Date            | 2024-05-13                                 |
+| Tags            | 性别认同障碍, 性别心理, 心理治疗, 变性手术, 性别角色, 医院资源, 心理健康, 多学科治疗, 疗法, 全球健康问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

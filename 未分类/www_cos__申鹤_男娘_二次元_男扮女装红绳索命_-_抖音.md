@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了多元性别与二次元文化之间的关系，特别关注男性扮演女性角色的现象。作者通过分析相关短视频和评论，展示了这种文化现象在网络社群中的受欢迎程度与讨论。文章提到的角色申鹤及其与二次元文化交织的表现形式，反映了人们对性别表现的包容与多样性。作者通过对相关评论的引用，引发了对性别表现和社会认知的思考，指出这一现象不仅展示了创作自由，更是对传统性别角色的挑战与重新定义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,12 +99,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_cos__申鹤_男娘_二次元_男扮女装红绳索命_-_抖音.md                             |
 | Size            | 3424 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/video/7344260301086395689](https://www.douyin.com/video/7344260301086395689)                       |
+| Author          | 三叶yoko                               |
+| Region          | 未知                               |
+| Date            | 2024-03-09                                 |
+| Tags            | 多元性别, 二次元文化, 男扮女装, 性别表现, 文化现象, 申鹤, 社交媒体, 网络讨论, 创作自由, 性别挑战                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

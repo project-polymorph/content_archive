@@ -115,8 +115,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别拉拉小组_-_豆瓣.md                             |
 | Size            | 12572 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/558799/](https://m.douban.com/group/558799/)                       |
 | Author          | 爱就一个字                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-04-10                                 |

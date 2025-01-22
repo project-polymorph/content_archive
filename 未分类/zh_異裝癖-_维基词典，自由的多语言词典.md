@@ -70,7 +70,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了“異裝癖”的定义与相关信息，出自维基词典。异装癖是指对于穿着异性服装的癖好。文件中详细列出了该词的发音、近义词以及多种语言的翻译，有助于理解这一概念在不同文化中的表现。包含的语言包括英语、法语、德语等，体现了该词在全球范围内的讨论。该条目的背景信息和词义的历史演变为关注跨性别及非传统性别表现的人士提供了一定的参考。同时，文中还提到了相应的版权信息，表明该内容遵循CC BY-SA 3.0协议，并鼓励对其进行编辑与改进。此文件适合学术研究、文化交流或个人兴趣的了解与深入。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,12 +81,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_異裝癖-_维基词典，自由的多语言词典.md                             |
 | Size            | 2353 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wiktionary.org/zh-hans/%E7%95%B0%E8%A3%9D%E7%99%96](https://zh.wiktionary.org/zh-hans/%E7%95%B0%E8%A3%9D%E7%99%96)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异装癖, 性别认同, 文化研究, 心理学, 跨性别, 服装与性别, 维基词典, 语言翻译, 社会文化, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

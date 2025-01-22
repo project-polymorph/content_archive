@@ -64,7 +64,7 @@ Cameron Crandall 博士共同领导了一个为期四年的全卫生系统项目
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了新墨西哥大学医院（UNM医院）在全国范围内被评选为‘LGBT 医疗平等领导者’的经历。根据人权运动基金会（HRC）的调查，UNM医院在评估 LGBTQ 患者及其护理时，表现出色，成为唯一获得此荣誉的医院。文中提到，根据2019年的医疗保健平等指数（HEI），UNM医院在四个参与者标准方面均获得最高分，显示出对非歧视政策、患者服务与支持、员工福利及参与度的强烈承诺。UNM医院的负责人强调致力于为所有患者提供公平和包容的医疗服务，尤其是面临健康照护挑战的性少数和性别少数群体。文件中还提到医院为提高对 LGBTQ 社区的医疗服务质量而推出的一系列培训与项目，旨在改善患者体验，鼓励更多人寻求医疗帮助。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@ Cameron Crandall 博士共同领导了一个为期四年的全卫生系统项目
 |-----------------|----------------------------------------|
 | Filename        | zh-cn_UNM_医院被全国调查评为“LGBT_医疗平等领导者”.md                             |
 | Size            | 5123 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh-cn.hsc.unm.edu/news/news/unm-hospitals-named-as-leader-in-lgbt-healthcare-equality-by-national-survey.html](https://zh-cn.hsc.unm.edu/news/news/unm-hospitals-named-as-leader-in-lgbt-healthcare-equality-by-national-survey.html)                       |
+| Author          | 人权运动基金会                               |
+| Region          | 美国                               |
+| Date            | 2019-08-26                                 |
+| Tags            | LGBT, 医疗平等, 多元性别, 社会包容, 医疗资源, 性少数群体, 医院评估, 医疗政策, 人权运动, 多样性和公平性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | art_伪装之下：异装者的秘史_-_每日环球展览.md                             |
 | Size            | 3561 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://art.icity.ly/events/spqsfjm](https://art.icity.ly/events/spqsfjm)                       |
 | Author          | Sébastien Lifshitz                               |
 | Region          | 伦敦                               |
 | Date            | 2018-02-23                                 |

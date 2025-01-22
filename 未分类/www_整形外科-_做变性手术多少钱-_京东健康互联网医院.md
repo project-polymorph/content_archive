@@ -58,7 +58,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讨论了变性手术的流程及选择权威医院的建议，提供了关于性别认同障碍及其治疗的专业见解。文章指出，变性手术是性别认同障碍患者的一种有效治疗方法，并推荐了几家权威医院，如上海9院和西京整形医院。在手术前，患者需要进行全面的身体和心理检查，以确保适合手术。文中提到专业医生的帮助也非常重要，并且提醒患者关于手术过程的复杂性和必要性。总的来说，这是一篇旨在为希望了解变性手术和医疗资源的患者提供信息和指导的文档。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -69,12 +69,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_整形外科-_做变性手术多少钱-_京东健康互联网医院.md                             |
 | Size            | 2154 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/qa/217571255117699](https://www.jd.com/qa/217571255117699)                       |
+| Author          | 张平                               |
+| Region          | 安徽省                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别认同障碍, 医疗资源, 专业医院, 整形外科, 心理检查, 身体检查, 医生建议, 上海9院, 西京整形医院                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

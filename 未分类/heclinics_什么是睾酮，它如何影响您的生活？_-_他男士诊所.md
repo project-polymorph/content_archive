@@ -69,8 +69,8 @@ HE Clinic 是一家专门为男性服务的私人诊所，位于曼谷通罗区�
 |-----------------|----------------------------------------|
 | Filename        | heclinics_什么是睾酮，它如何影响您的生活？_-_他男士诊所.md                             |
 | Size            | 3703 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://heclinics.com/zh-CN/what-is-testosterone/](https://heclinics.com/zh-CN/what-is-testosterone/)                       |
 | Author          | HE Clinic                               |
 | Region          | 泰国曼谷                               |
 | Date            | 2023-04-26                                 |

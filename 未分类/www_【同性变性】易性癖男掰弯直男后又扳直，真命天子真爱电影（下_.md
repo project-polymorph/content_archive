@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于1996年电影《忘记她是他》的用户评论与分析，该电影围绕一个易性癖男的情感经历展开。在这部电影中，主角从吸引直男到在感情上的波折，最终又转向真正的性取向的表达，呈现了复杂的性别认同与爱情故事。此文件包含电影的浏览量、评论情况及作者信息等元数据，并且侧重于影视剪辑与同性恋情的探讨。该文件对电影的情节进行了描述，指出其感人的地方，并讨论了相关的情感主题和社会现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【同性变性】易性癖男掰弯直男后又扳直，真命天子真爱电影（下_.md                             |
 | Size            | 2142 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av55947742](https://www.bilibili.com/video/av55947742)                       |
+| Author          | 唤雨影视                               |
+| Region          | 未知                               |
+| Date            | 2019-06-17                                 |
+| Tags            | 影视, 爱情, 同性, 变性, GAY, 腐剧, 电影剪辑, 易性癖, 情感经历, 社会现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

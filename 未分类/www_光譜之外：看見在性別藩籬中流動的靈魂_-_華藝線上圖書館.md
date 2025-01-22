@@ -36,7 +36,7 @@ Airiti Library 華藝線上圖書館
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文《光谱之外：看见在性别藩篱中流动的灵魂》由呂明蓁撰写，发表于《性别平等教育季刊》第96期，讨论了性别在各种社会与文化背景中的流动与变幻。文章探讨了性别认同、社会结构以及个人经历之间的复杂关系，尤其是那些在传统性别二元框架之外的个体与群体所经历的挑战和声音。文中引用了多篇相关文献，强调了学界在性别研究领域的重要对话与反思。此文献旨在扩大对多元性别议题的理解，关注那些在性别边界中流动的个体及其所面临的社会环境和政策影响，尤其是在台湾的相关背景性分析。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@ Airiti Library 華藝線上圖書館
 |-----------------|----------------------------------------|
 | Filename        | www_光譜之外：看見在性別藩籬中流動的靈魂_-_華藝線上圖書館.md                             |
 | Size            | 2074 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.airitilibrary.com/Article/Detail/15629716-202201-202203020016-202203020016-4-7](https://www.airitilibrary.com/Article/Detail/15629716-202201-202203020016-202203020016-4-7)                       |
+| Author          | 呂明蓁                               |
+| Region          | 台湾                               |
+| Date            | 2022-01-01                                 |
+| Tags            | 多元性别, 性别研究, 社会学, 性别政治, 台湾, 生命故事, 过渡经历, 社会环境, 法律政策, 文化研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

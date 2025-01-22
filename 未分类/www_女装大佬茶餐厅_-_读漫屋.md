@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《女装大佬茶餐厅》是一部讲述一名大三学生的奇妙故事的小说。在故事中，男主角在一次茶餐厅的面试中，被初次见面的女领班吸引，但出乎意料的是，这位领班实际上是一名男性。更有趣的是，这家茶餐厅的特色是所有员工都需要进行女装。这位学生在面对这一意外情况时，选择了成为这家餐厅的女装服务员。尽管他内心极为直男，但为了经济利益，他不得不适应这一新角色。整部作品穿插了搞笑元素与纯爱的情节，使得故事既轻松又感人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬茶餐厅_-_读漫屋.md                             |
 | Size            | 2276 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.dumanwu.com/CmamgaY/](https://www.dumanwu.com/CmamgaY/)                       |
+| Author          | 人参s                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 小说, 多元性别, 女装, 生活, 幽默, 校园, 恋爱, 文化, 社会, 人际关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

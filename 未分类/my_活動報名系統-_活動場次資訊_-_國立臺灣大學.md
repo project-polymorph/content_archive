@@ -102,8 +102,8 @@
 |-----------------|----------------------------------------|
 | Filename        | my_活動報名系統-_活動場次資訊_-_國立臺灣大學.md                             |
 | Size            | 3753 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://my.ntu.edu.tw/actregister/sessionView.aspx?actID=20241326_02&sesID=1](https://my.ntu.edu.tw/actregister/sessionView.aspx?actID=20241326_02&sesID=1)                       |
 | Author          | 国立台湾大学学辅中心                               |
 | Region          | 台湾                               |
 | Date            | 2024-04-17                                 |

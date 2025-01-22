@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了整形医生陈焕然在北京市石景山法院受审的案件，原告吕小姐控诉其进行的瘦脸手术导致脸上留下严重疤痕。吕小姐在文章中详细描述了手术经过，称其支付了4.5万元手术费，然而术后效果令她失望且未能如约获取补偿。陈焕然博士则在法庭上坚称吕小姐是在敲诈，并否认曾为其实施手术。此案件引发了对于整形手术安全与整形医生责任的广泛关注，同时涉及医疗诚信与法律维护等问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_“美容第一刀”被告手术毁容_图_.md                             |
 | Size            | 2287 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.sina.com.cn/c/2006-12-01/031110652523s.shtml](https://news.sina.com.cn/c/2006-12-01/031110652523s.shtml)                       |
+| Author          | 陈焕然                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-12-01                                 |
+| Tags            | 整形手术, 法律案件, 医疗事故, 性别认同, 变性手术, 患者权益, 美容行业, 医疗责任, 社会关注, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

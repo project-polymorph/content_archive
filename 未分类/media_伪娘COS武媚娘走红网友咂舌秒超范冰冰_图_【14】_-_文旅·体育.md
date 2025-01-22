@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | media_伪娘COS武媚娘走红网友咂舌秒超范冰冰_图_【14】_-_文旅·体育.md                             |
 | Size            | 1833 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://media.people.com.cn/n/2015/0114/c14677-26383718-14.html](http://media.people.com.cn/n/2015/0114/c14677-26383718-14.html)                       |
 | Author          | 人民网-娱乐频道                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-01-14                                 |

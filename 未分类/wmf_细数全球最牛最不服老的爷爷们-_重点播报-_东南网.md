@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讨论了全球一些年龄较大的性别少数群体代表，包括一个83岁的健美运动员章慕良和一位75岁的变性人罗伊（变性后的名字是雷秋）。章慕良在浙江绍兴举行的健美比赛中表现出的积极健康状态和对健美运动的热爱，挑战了人们对年龄和身体能力的固有 perceptions。与此同时，罗伊的故事则探讨了性别认同和转变的主题，他在75岁时完成变性，成为当时英国年纪最大的变性人。罗伊从小就感受到自己的性别认同与身体不符，在经历了多次婚姻和性别认同的挣扎后终于决定转变，勇敢展现真实的自我。两者的经历强调了无论年龄多大，每个人都有权追求自我认同和生活方式的自由。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wmf_细数全球最牛最不服老的爷爷们-_重点播报-_东南网.md                             |
 | Size            | 1042 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://wmf.fjsen.com/2010-07/20/content_3519148_24.htm](http://wmf.fjsen.com/2010-07/20/content_3519148_24.htm)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2010-07-20                                 |
+| Tags            | 多元性别, 变性人, 性别认同, 老年人健康, 健美运动, 过渡经历, 生命故事, 社会认知, 性别表达, 生活方式选择                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

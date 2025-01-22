@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_特朗普签署备忘录限制变性人入伍_国际新闻_-_海口网.md                             |
 | Size            | 1905 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.hkwb.net/content/2018-03/24/content_3494391.htm](http://m.hkwb.net/content/2018-03/24/content_3494391.htm)                       |
 | Author          | 刘阳, 孙丁                               |
 | Region          | 美国                               |
 | Date            | 2018-03-24                                 |

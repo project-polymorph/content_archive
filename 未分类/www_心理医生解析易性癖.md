@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了易性癖的心理分析，认为易性癖不仅受幼年生活经历的影响，还可能与胎儿期的激素分泌有关。文章通过具体案例描述了一个名叫'某男'的41岁已婚男性，他自幼希望变为女性，并分享了他的生活经历和心理挣扎。心理医生在这类案例中扮演着重要角色，他们通过建立良好的医患关系，引导患者认清自己的身份，帮助他们解决心理上的困惑和痛苦。本文为传播心理学而撰写，提供了对易性癖的深入分析，同时也提出了医院和咨询中的伦理和法律问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_心理医生解析易性癖.md                             |
 | Size            | 3285 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinlinghuayuan.com/Learning/btxl/201412/Learning_7111.html](http://www.xinlinghuayuan.com/Learning/btxl/201412/Learning_7111.html)                       |
+| Author          | 心灵花园                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-12-21                                 |
+| Tags            | 易性癖, 性别认知, 心理咨询, 性别身份障碍, 心理医生, 生活故事, 医疗资源, 心理健康, 社会支持, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

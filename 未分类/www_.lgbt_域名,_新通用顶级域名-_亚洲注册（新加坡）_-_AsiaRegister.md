@@ -34,7 +34,7 @@ There is no specific procedure related to the registration of a domain name..lgb
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了.lgbt域名及其相关信息。该域名为全球的女同性恋、男同性恋、双性恋和跨性别社群提供了一个相关的网络空间，可供网络交流、激进主义、沟通和自我表达等用途。通过.lgbt域名，LGBT社区可以相互连接并在线发展。文件详细介绍了.lgbt域名的注册要求，它采取“先到先得”的原则，没有特定的注册程序。还描述了与域名相关的费用结构，列出了注册、续费和转移的价格均为$86.62/年。此外，文件中包含了一些认证注册商的标志，如ICANN、CNNIC和VeriSign等，说明了域名的合法性和可信度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@ There is no specific procedure related to the registration of a domain name..lgb
 |-----------------|----------------------------------------|
 | Filename        | www_.lgbt_域名,_新通用顶级域名-_亚洲注册（新加坡）_-_AsiaRegister.md                             |
 | Size            | 1616 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.asiaregister.com/zh-sg/domains/new-gtlds/lgbt-domain](https://www.asiaregister.com/zh-sg/domains/new-gtlds/lgbt-domain)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | LGBT, 域名注册, 网络空间, 自我表达, 激进主义, 跨性别, 双性恋, 同性恋, 女同性恋, 域名管理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

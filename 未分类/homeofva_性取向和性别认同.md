@@ -74,8 +74,8 @@ _本网站的所有者承诺提供无障碍访问和包容性服务，如果您�
 |-----------------|----------------------------------------|
 | Filename        | homeofva_性取向和性别认同.md                             |
 | Size            | 4643 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://homeofva.org/zh/get-help/fair-housing/sexual-orientation-gender-identity/](https://homeofva.org/zh/get-help/fair-housing/sexual-orientation-gender-identity/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2020-01-01                                 |

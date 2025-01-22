@@ -44,18 +44,18 @@
 
 术后1月门诊及电话随访，患者未再出现双侧腹股沟疼痛，未服用任何药物，依旧保持其女性社会性别。
 
-![](//html.hanspub.org/file/123-1577814x9_hanspub.png?20231120082213299)  
-![](//html.hanspub.org/file/123-1577814x8_hanspub.png?20231120082213299)  
-![](//html.hanspub.org/file/123-1577814x10_hanspub.png?20231120082213299)
+![](https://html.hanspub.org/file/123-1577814x9_hanspub.png?20231120082213299)  
+![](https://html.hanspub.org/file/123-1577814x8_hanspub.png?20231120082213299)  
+![](https://html.hanspub.org/file/123-1577814x10_hanspub.png?20231120082213299)
 
 Figure 1. Color ultrasound of the groin  
 
 [图1](#f1). 腹股沟彩色超声
 
-![](//html.hanspub.org/file/123-1577814x12_hanspub.png?20231120082213299)  
-![](//html.hanspub.org/file/123-1577814x11_hanspub.png?20231120082213299)  
-![](//html.hanspub.org/file/123-1577814x14_hanspub.png?20231120082213299)  
-![](//html.hanspub.org/file/123-1577814x13_hanspub.png?20231120082213299)
+![](https://html.hanspub.org/file/123-1577814x12_hanspub.png?20231120082213299)  
+![](https://html.hanspub.org/file/123-1577814x11_hanspub.png?20231120082213299)  
+![](https://html.hanspub.org/file/123-1577814x14_hanspub.png?20231120082213299)  
+![](https://html.hanspub.org/file/123-1577814x13_hanspub.png?20231120082213299)
 
 Figure 2. Urinary tract CT non-contrast scan (urinary thin layer scan, scanning layer thickness 1 mm)
 
@@ -100,7 +100,7 @@ Figure 2. Urinary tract CT non-contrast scan (urinary thin layer scan, scanning 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件标题为《男性假两性畸形合并附睾炎1例》，由唐园源和陈泽君撰写，内容涉及一例20岁女性（社会性别）的男性假两性畸形患者的病例分析。文章讨论了患者的病史，指出其在婴幼儿时期发现外生殖器发育不全，经过多次就医未能得到适当的治疗。患者在14岁时因未月经来潮前往医院就诊，后确诊为男性假两性畸形，基因检测显示染色体核型为46, XY。该病例中患者反复出现双侧腹股沟疼痛，经过检查及手术治疗，最终确诊为附睾炎及双侧腹腔型隐睾。文章详细涵盖了患者的临床症状、检查结果，包括实验室及影像学检查，并描述了手术方式与病理诊断。整个病例强调了早期诊断及治疗的重要性，并对该疾病的手术治疗方案进行了探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,12 +111,12 @@ Figure 2. Urinary tract CT non-contrast scan (urinary thin layer scan, scanning 
 |-----------------|----------------------------------------|
 | Filename        | www_男性假两性畸形合并附睾炎1例_-_汉斯出版社.md                             |
 | Size            | 12426 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hanspub.org/journal/paperinformation?paperid=75482](https://www.hanspub.org/journal/paperinformation?paperid=75482)                       |
+| Author          | 唐园源, 陈泽君                               |
+| Region          | 四川，中国                               |
+| Date            | 2023-11-20                                 |
+| Tags            | 男性假两性畸形, 附睾炎, 病例报告, 泌尿系统, 性别认同, 性别发育异常, 医学文献, 药物治疗, 手术治疗, 医疗案例                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -74,8 +74,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_新加坡对跨性别友好吗？入境会有问题吗？_-_小组讨论-_豆瓣.md                             |
 | Size            | 4468 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/220735978/](https://m.douban.com/group/topic/220735978/)                       |
 | Author          | 凉月                               |
 | Region          | 新加坡                               |
 | Date            | 2021-04-13                                 |

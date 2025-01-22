@@ -117,7 +117,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关的内容存档，包含了诸多关于建筑行业的动态和活动信息。专筑网是一个面向年轻建筑行业从业者的互动社区，涵盖建筑、规划、景观、室内等多个专业领域。虽然文件的标题中包含了关于多元性别的提及，但正文部分主要涉及一系列建筑相关的活动与课程，包括Rhino8建筑小白学习营的众筹招募、犀流研习班等。文件还列出了热门标签，涵盖居住建筑、教育建筑、商业建筑等方面。整体来看，虽有关于多元性别的背景，但具体内容以建筑行业的活动信息为主，缺乏直接的多元性别相关材料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -128,12 +128,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《人妖操伪娘的B》手机在线免费播放-武侠剧_-_专筑网.md                             |
 | Size            | 4367 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.iarch.cn/?/449769772/UzEFIVBz/donghuapian.html](http://www.iarch.cn/?/449769772/UzEFIVBz/donghuapian.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 建筑行业, 学习营, 互动社区, 课程信息, 规划设计, 建筑活动, 热门标签, 专业教育, 生活方式                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

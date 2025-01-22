@@ -34,8 +34,8 @@ Yoshin今年14岁,美得像从画里走出来一样,最近因参演《为爱所�
 |-----------------|----------------------------------------|
 | Filename        | news_泰国最美人妖爆红网络：娇艳欲滴令人难以把持_-_中国青年网.md                             |
 | Size            | 721 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.youth.cn/sh/201602/t20160212_7622727.htm](http://news.youth.cn/sh/201602/t20160212_7622727.htm)                       |
 | Author          | 中国青年网                               |
 | Region          | 泰国                               |
 | Date            | 2016-02-12                                 |

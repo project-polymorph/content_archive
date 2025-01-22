@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位跨性别者关于自身经历的痛苦故事，标题为《变性手术失败3次！跨性别者曝惨痛经验「又丑又肿」》。文中提到，这位人士经历了三次变性手术，但结果令人失望，感到自卑和后悔。她坦言：“真的有后悔”，表达了对手术效果的不满和对自身体貌变化的困扰。文章引用了来自民视新闻的报道，并附有视频链接，让读者可以进一步了解她的故事和经历。讨论了变性手术对于跨性别者的影响，以及在追求自身认同过程中可能遭遇的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變性手術失敗3次！跨性別者曝慘痛經驗「又醜又腫」_她坦言.md                             |
 | Size            | 2198 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/FTVNews53/videos/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E5%A4%B1%E6%95%973%E6%AC%A1%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%9B%9D%E6%85%98%E7%97%9B%E7%B6%93%E9%A9%97%E5%8F%88%E9%86%9C%E5%8F%88%E8%85%AB-%E5%A5%B9%E5%9D%A6%E8%A8%80%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BE%8C%E6%82%94/822877081681171/](https://www.facebook.com/FTVNews53/videos/%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E5%A4%B1%E6%95%973%E6%AC%A1%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E6%9B%9D%E6%85%98%E7%97%9B%E7%B6%93%E9%A9%97%E5%8F%88%E9%86%9C%E5%8F%88%E8%85%AB-%E5%A5%B9%E5%9D%A6%E8%A8%80%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BE%8C%E6%82%94/822877081681171/)                       |
+| Author          | 民视新闻                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 跨性别者, 医疗经历, 痛苦经历, 社会关注, 性别认同, 心理健康, 个人故事, 新闻报道, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -173,8 +173,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性别认同障碍：男女之间，我是第三种性别_-_壹心理.md                             |
 | Size            | 10199 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.xinli001.com/info/100463205](https://m.xinli001.com/info/100463205)                       |
 | Author          | 谭素怡                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-08-01                                 |

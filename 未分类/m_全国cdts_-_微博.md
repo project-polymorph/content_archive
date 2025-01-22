@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_全国cdts_-_微博.md                             |
 | Size            | 975 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E5%9B%BDcdts%23&luicode=10000011&lfid=1005055828129801](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E5%9B%BDcdts%23&luicode=10000011&lfid=1005055828129801)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

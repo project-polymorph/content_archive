@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要报道了泰国“人妖皇后”的选美活动，展示了在2012年12月25日于泰国芭堤雅举行的盛大选美现场。文章介绍了历届“人妖皇后”的精彩聚会，文字描绘了现场的热烈气氛和绝色人妖的容貌。配有精彩的选美现场照片，生动展现了多元性别文化在台湾的表现和接受度。该活动吸引了大量观众和媒体的关注，反映了当代社会对性的多样性和包容性的日益认可。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《泰囧》最美人妖rose生活照曝光【9】_-_人民网.md                             |
 | Size            | 678 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.people.com.cn/24hour/n/2012/1225/c25408-20002112-9.html](http://www.people.com.cn/24hour/n/2012/1225/c25408-20002112-9.html)                       |
+| Author          | 人民网                               |
+| Region          | 泰国                               |
+| Date            | 2012-12-25                                 |
+| Tags            | 多元性别, 人妖, 选美, 泰国, 生活照, 社会文化, LGBTQ+, 性别表达, 社交活动, 2012年事件                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

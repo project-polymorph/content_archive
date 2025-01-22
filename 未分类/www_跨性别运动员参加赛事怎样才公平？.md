@@ -30,7 +30,7 @@ _Ins@miya_hoshino_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了跨性别运动员参加体育赛事的公平性问题，主要聚焦于国际体坛对跨性别选手参赛资格的争论。随着国际单车联盟（UCI）和其它体育组织的禁令出台，跨性别运动员的参与权限受到限制，引发广泛关注与讨论。文件引述了支持与反对的不同观点，支持者认为无论性别身份如何，所有人都应有权参加比赛，而反对者则认为跨性别女性在生理上优势的存在可能破坏女子运动的公平性。此外，文件还提到跨性别选手Miya的个人经历，试图通过真实故事进一步探讨这一复杂问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@ _Ins@miya_hoshino_
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别运动员参加赛事怎样才公平？.md                             |
 | Size            | 1870 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wainao.me/wainao-watches/transgender-athletes-in-womens-sports](https://www.wainao.me/wainao-watches/transgender-athletes-in-womens-sports)                       |
+| Author          | Heidi Chen                               |
+| Region          | 中国                               |
+| Date            | 2023-07-17                                 |
+| Tags            | 跨性别, 运动员, 公平性, 国际单车联盟, 性别身份, 体育赛事, 多元共融, 运动限制, 个人经历, 生理优势                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -60,8 +60,8 @@
 |-----------------|----------------------------------------|
 | Filename        | podcasts_泰国最美“人妖皇后”拒绝富豪求婚，只为出家当和尚？「人妖」的.md                             |
 | Size            | 1639 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/gb/podcast/%E6%B3%B0%E5%9B%BD%E6%9C%80%E7%BE%8E-%E4%BA%BA%E5%A6%96%E7%9A%87%E5%90%8E-%E6%8B%92%E7%BB%9D%E5%AF%8C%E8%B1%AA%E6%B1%82%E5%A9%9A-%E5%8F%AA%E4%B8%BA%E5%87%BA%E5%AE%B6%E5%BD%93%E5%92%8C%E5%B0%9A-%E4%BA%BA%E5%A6%96-%E7%9A%84%E8%8B%B1%E6%96%87%E6%98%AF/id1073522912?i=1000596384661](https://podcasts.apple.com/gb/podcast/%E6%B3%B0%E5%9B%BD%E6%9C%80%E7%BE%8E-%E4%BA%BA%E5%A6%96%E7%9A%87%E5%90%8E-%E6%8B%92%E7%BB%9D%E5%AF%8C%E8%B1%AA%E6%B1%82%E5%A9%9A-%E5%8F%AA%E4%B8%BA%E5%87%BA%E5%AE%B6%E5%BD%93%E5%92%8C%E5%B0%9A-%E4%BA%BA%E5%A6%96-%E7%9A%84%E8%8B%B1%E6%96%87%E6%98%AF/id1073522912?i=1000596384661)                       |
 | Author          | 早安英文                               |
 | Region          | 泰国                               |
 | Date            | 2023-01-24                                 |

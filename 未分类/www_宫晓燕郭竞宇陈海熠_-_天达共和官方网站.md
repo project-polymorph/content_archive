@@ -216,7 +216,7 @@ Copyright © 1998-2025 天达共和律师事务所 [京ICP备11012394号](http:/
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为国际奥委会（IOC）于2021年11月16日发布的《基于性别认同和性别差异的公平、包容、非歧视准则》的内容，该准则旨在为体育领域提供一个安全、公平、包容的环境，确保每个人——无论性别认同、表达方式或性别差异如何——均能以尊重健康、安全和尊严的方式参与体育活动。 该准则经过与超过250名运动员和利益相关方的广泛磋商制定，包含十项核心原则，包括：包容、防止伤害、非歧视和公正。同时，规定了在制定运动员参赛资格标准时需以人权为基础，强调不应基于性别差异或变性身份将运动员排除在比赛之外。此外，文件中提及了人权观察组织对该准则的赞扬，认为其为保护所有女性运动员尊严的重要一步。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -227,12 +227,12 @@ Copyright © 1998-2025 天达共和律师事务所 [京ICP备11012394号](http:/
 |-----------------|----------------------------------------|
 | Filename        | www_宫晓燕郭竞宇陈海熠_-_天达共和官方网站.md                             |
 | Size            | 19071 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.east-concord.com/zygd/Article/202111/ArticleContent_2598.html](http://www.east-concord.com/zygd/Article/202111/ArticleContent_2598.html)                       |
+| Author          | 宫晓燕, 郭竞宇, 陈海熠                               |
+| Region          | 未知                               |
+| Date            | 2021-11-16                                 |
+| Tags            | 国际奥委会, 性别认同, 性别差异, 公平准则, 包容性, 非歧视, 变性运动员, 体育政策, 人权观察, 运动员权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

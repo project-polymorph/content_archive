@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_男娘是什么意思网络用语？_-_星辰美文网.md                             |
 | Size            | 730 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.meiwen1314.com/wenxuebaike/1650374932/97664.html](https://m.meiwen1314.com/wenxuebaike/1650374932/97664.html)                       |
 | Author          | 佚名                               |
 | Region          | 未知                               |
 | Date            | 2022-04-19                                 |

@@ -93,8 +93,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖阿姨很好哭-_医爱之名_-_豆瓣.md                             |
 | Size            | 3557 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15397377/](https://m.douban.com/movie/review/15397377/)                       |
 | Author          | 茶包                               |
 | Region          | 广东                               |
 | Date            | 2023-08-20                                 |

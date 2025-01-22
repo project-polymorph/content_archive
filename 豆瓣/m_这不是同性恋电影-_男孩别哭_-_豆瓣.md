@@ -50,8 +50,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_这不是同性恋电影-_男孩别哭_-_豆瓣.md                             |
 | Size            | 2965 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/2226778/](https://m.douban.com/movie/review/2226778/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

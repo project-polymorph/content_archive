@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_图文；伦敦小学生流行交换妓女名片.md                             |
 | Size            | 2519 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [http://www.chinanews.com/2000-07-10/26/37062.html](http://www.chinanews.com/2000-07-10/26/37062.html)                       |
 | Author          | 中国新闻社                               |
 | Region          | 未知                               |
 | Date            | 2000-07-10                                 |

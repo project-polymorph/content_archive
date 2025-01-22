@@ -54,8 +54,8 @@
 |-----------------|----------------------------------------|
 | Filename        | focf_与青少年讨论跨性別问题-_爱家华语网站.md                             |
 | Size            | 7170 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://focf.org/sc/blog/aijia_magazine/discussingtransgenderwithteens/](https://focf.org/sc/blog/aijia_magazine/discussingtransgenderwithteens/)                       |
 | Author          | 爱家协会                               |
 | Region          | 美国                               |
 | Date            | 2017-01-01                                 |

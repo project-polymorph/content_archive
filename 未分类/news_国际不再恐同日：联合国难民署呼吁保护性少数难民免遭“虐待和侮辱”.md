@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_国际不再恐同日：联合国难民署呼吁保护性少数难民免遭“虐待和侮辱”.md                             |
 | Size            | 4717 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.un.org/zh/story/2021/05/1084182](https://news.un.org/zh/story/2021/05/1084182)                       |
 | Author          | 联合国难民署                               |
 | Region          | 全球                               |
 | Date            | 2021-05-17                                 |

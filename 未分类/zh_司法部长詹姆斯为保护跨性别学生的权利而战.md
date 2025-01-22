@@ -26,7 +26,7 @@ _AG James共同领导一个由17位总检察长组成的联盟，提交了Amicus
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了纽约总检察长莱蒂蒂亚·詹姆斯为保护跨性别学生权利而采取的法律行动。司法部长詹姆斯共同领导了一个包括17位总检察长的联盟，提交了法庭之友书状，支持挑战印第安纳州禁止跨性别女学生参加女子体育运动的法规。事件发生于2022年11月11日，文件详细叙述了一名名叫A.M.的学生因这一法规被禁止参加学校的女子垒球队，引发了对跨性别者权益的关注。此外，詹姆斯司法部长在文件中强调禁止跨性别学生加入相关运动队可能违反1972年《教育修正案》第九章，并指出跨性别人士作为社会的一部分，应该享有法律平等保护。文件还提及了一项关于跨性别学生在学校的负面经历的调查结果，展示了跨性别学生面临的歧视和挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@ _AG James共同领导一个由17位总检察长组成的联盟，提交了Amicus
 |-----------------|----------------------------------------|
 | Filename        | zh_司法部长詹姆斯为保护跨性别学生的权利而战.md                             |
 | Size            | 4566 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.ag.ny.gov/press-release/2022/attorney-general-james-fights-protect-transgender-students-rights-0](https://zh.ag.ny.gov/press-release/2022/attorney-general-james-fights-protect-transgender-students-rights-0)                       |
+| Author          | 莱蒂蒂亚·詹姆斯（Letitia James）                               |
+| Region          | 美国                               |
+| Date            | 2022-11-11                                 |
+| Tags            | 跨性别, 学生权益, 性别歧视, 法庭之友书状, 教育平等, 法律行动, 跨性别运动权利, 社会正义, 青少年变性人, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

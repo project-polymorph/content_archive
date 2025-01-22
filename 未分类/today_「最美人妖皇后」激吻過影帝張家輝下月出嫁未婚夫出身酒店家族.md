@@ -37,8 +37,8 @@
 |-----------------|----------------------------------------|
 | Filename        | today_「最美人妖皇后」激吻過影帝張家輝下月出嫁未婚夫出身酒店家族.md                             |
 | Size            | 2341 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://today.line.me/tw/v2/article/oqky7Vj](https://today.line.me/tw/v2/article/oqky7Vj)                       |
 | Author          | 曾宛如／综合报道                               |
 | Region          | 台湾                               |
 | Date            | 2023-02-04                                 |

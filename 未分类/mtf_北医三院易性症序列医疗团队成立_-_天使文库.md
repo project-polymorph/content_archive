@@ -201,8 +201,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mtf_北医三院易性症序列医疗团队成立_-_天使文库.md                             |
 | Size            | 10755 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://mtf.aimo.moe/wiki/%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E6%98%93%E6%80%A7%E7%97%87%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E5%9B%A2%E9%98%9F%E6%88%90%E7%AB%8B](http://mtf.aimo.moe/wiki/%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E6%98%93%E6%80%A7%E7%97%87%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E5%9B%A2%E9%98%9F%E6%88%90%E7%AB%8B)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-09-30                                 |

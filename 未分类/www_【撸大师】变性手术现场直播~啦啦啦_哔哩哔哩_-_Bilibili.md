@@ -9,7 +9,7 @@
 - 发布时间: 2015-07-10 10:11:39
 - 点赞数: 37.7万
 - 评论数: 5934
-- 用户关注: ![](//i1.hdslb.com/bfs/face/04275c8071dde26a8df0775c97095ce612cc2c8c.jpg@96w.webp)
+- 用户关注: ![](https://i1.hdslb.com/bfs/face/04275c8071dde26a8df0775c97095ce612cc2c8c.jpg@96w.webp)
 
 **正文内容：**
 
@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章记录了来自哔哩哔哩平台的一场变性手术的直播。这场直播由用户“撸大师”主持，内容涵盖了变性手术的全过程，传递了变性过程中的活动与经验分享。文章中附带了一张直播封面图，并且提供了视频的分享链接和相关动态。直播于2015年7月10日发布，获得了37.7万的点赞数和5934条评论，说明其引起了广泛关注。这场手术直播不仅是一个个人经历的分享，也反映了网络时代多元性别话题逐渐被公众接受与讨论的趋势。通过这种方式，更多人可以了解到变性手术的相关信息和实际经历，从而对多元性别群体有更深的理解和认知。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【撸大师】变性手术现场直播~啦啦啦_哔哩哔哩_-_Bilibili.md                             |
 | Size            | 1176 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av2553204](https://www.bilibili.com/video/av2553204)                       |
+| Author          | 撸大师                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-07-10                                 |
+| Tags            | 变性手术, 直播, 多元性别, 医疗经验, 哔哩哔哩, 生命故事, 性别认同, 网络文化, 公众关注, 个人经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

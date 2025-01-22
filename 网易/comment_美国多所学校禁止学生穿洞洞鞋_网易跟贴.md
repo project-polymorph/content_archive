@@ -81,7 +81,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要报道了美国多所学校禁止学生穿洞洞鞋的事件，引发了关于学生安全问题的广泛讨论。报道称，这一禁令是针对学生在校内的穿着安全考虑而实施的，引发了学校和家长之间的广泛争论。有网友在评论中提到，禁止穿洞洞鞋的规定似乎比允许变性更加引发关注，暗示了社会对穿着自由和心理健康之间的矛盾。此外，评论区中也包含了一些对洞洞鞋的轻松调侃，以及对原文出处的追问。这一事件反映了在时尚、儿童安全和多元性别认同等主题之间的复杂交集。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,12 +92,12 @@
 |-----------------|----------------------------------------|
 | Filename        | comment_美国多所学校禁止学生穿洞洞鞋_网易跟贴.md                             |
 | Size            | 1559 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://comment.tie.163.com/JFTHLGBJ0514BQ68.html](https://comment.tie.163.com/JFTHLGBJ0514BQ68.html)                       |
+| Author          | 网易新闻                               |
+| Region          | 美国                               |
+| Date            | 2024-11-01                                 |
+| Tags            | 多元性别, 学生安全, 时尚, 洞洞鞋, 美国学校, 心理健康, 社会议题, 评论分析, 时事新闻, 教育政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

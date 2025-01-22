@@ -30,8 +30,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_变性女星协议离婚或因无法忍受生活困难婚礼曾惊动娱乐圈.md                             |
 | Size            | 962 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.youth.cn/jsxw/201706/t20170613_10051832.htm](http://news.youth.cn/jsxw/201706/t20170613_10051832.htm)                       |
 | Author          | 凤凰网娱乐                               |
 | Region          | 韩国                               |
 | Date            | 2017-06-12                                 |

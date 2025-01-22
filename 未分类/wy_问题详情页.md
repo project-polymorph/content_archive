@@ -95,7 +95,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容讨论了一个47岁的男性家长关于其24岁女儿的性别认同及心理健康的问题。女儿不认同自己的女性身份，更愿意被称为男性，尽管她在外表上并不表现出明显的男性特征。她对社交有一定的抗拒，并且在心理上显得有些颓废。文件内包含了多位医生的诊断与建议，普遍认为女儿面临性别认同障碍及可能的抑郁症状，建议寻求专业心理治疗。该内容对于关注性别认同以及心理健康的研究具有重要的参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -106,12 +106,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wy_问题详情页.md                             |
 | Size            | 10373 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wy.guahao.com/multask/question/251053665670955009](https://wy.guahao.com/multask/question/251053665670955009)                       |
+| Author          | 未知                               |
+| Region          | 江苏省南通市                               |
+| Date            | 2022-02-28                                 |
+| Tags            | 性别认同, 心理健康, 跨性别, 性别障碍, 抑郁症, 心理治疗, 医疗建议, 生活经历, 社会认同, 性别心理                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

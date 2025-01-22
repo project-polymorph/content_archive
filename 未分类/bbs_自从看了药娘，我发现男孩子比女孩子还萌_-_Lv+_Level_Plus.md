@@ -121,8 +121,8 @@ yoooooooooo ![](images/post/smile/smallface/face098.jpg)
 |-----------------|----------------------------------------|
 | Filename        | bbs_自从看了药娘，我发现男孩子比女孩子还萌_-_Lv+_Level_Plus.md                             |
 | Size            | 5760 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.level-plus.net/simple/index.php?t265107.html](https://bbs.level-plus.net/simple/index.php?t265107.html)                       |
 | Author          | 南+ South Plus                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-11-12                                 |

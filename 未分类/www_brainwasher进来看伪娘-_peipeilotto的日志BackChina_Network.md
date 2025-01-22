@@ -100,7 +100,7 @@ PS：伪娘只是在 完全伪娘化 时才扮女装。伪娘绝大多数对异�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由用户peipeilotto在2009年8月21日发布的一篇日志，内容探讨了伪娘这一亚文化现象。作者首先解释了伪娘的定义，强调其起源于日本并受到年轻一代的欢迎，并列出了伪娘与跨装者（CD）和变性者（TS）之间的区别。伪娘通常指的是生理性别为男性，但长相和气质女性化的个体，这种现象在ACG（动画、漫画、游戏）文化中更为显著。作者引用了《伪娘白皮书》的观点，指出伪娘的外表常常给他人以女性的错觉，但大多数伪娘仍保持男性的基本特征。同时，文章中还提到了伪娘在性别认同和社会接受度方面的复杂性。此日志引发了共22条评论，反映出网友们对此话题的兴趣和不同看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,12 +111,12 @@ PS：伪娘只是在 完全伪娘化 时才扮女装。伪娘绝大多数对异�
 |-----------------|----------------------------------------|
 | Filename        | www_brainwasher进来看伪娘-_peipeilotto的日志BackChina_Network.md                             |
 | Size            | 8510 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.backchina.com/blog/270743/article-38571.html](https://www.backchina.com/blog/270743/article-38571.html)                       |
+| Author          | peipeilotto                               |
+| Region          | 未知                               |
+| Date            | 2009-08-21                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, ACG文化, 社会现象, 文化研究, 男性, 女性化, 跨装者, 变性者                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

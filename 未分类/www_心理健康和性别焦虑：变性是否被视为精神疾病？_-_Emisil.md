@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了心理健康与性别焦虑之间的关系，特别是围绕变性是否被视为精神疾病的争议。在现代社会中，变性和同性恋长期受到误解和歧视，曾被视为精神疾病的观念逐渐改变。文章分析了性别不安的根源，指出这并不是一种精神疾病，而是与个体身份认同的冲突引发的情绪困扰。尽管许多跨性别者在成长过程中经历性别不安，进而可能影响心理健康，文章强调，并非所有跨性别者都会遭遇心理健康问题。还提到性别肯定手术的重要性，但不应将其视为解决心理问题的唯一方式。最后，文章呼吁社会支持跨性别者，提供心理健康资源和帮助。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_心理健康和性别焦虑：变性是否被视为精神疾病？_-_Emisil.md                             |
 | Size            | 5469 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.emisil.com/zh/blogs/all-blog-posts/mental-health-and-gender-dysphoria-is-being-transgender-considered-a-mental-illness?srsltid=AfmBOopOUAFUi_7MAgfaX9LDEVvWk_tL0YPgZWjhQk08Q3teUyRdaDgX](https://www.emisil.com/zh/blogs/all-blog-posts/mental-health-and-gender-dysphoria-is-being-transgender-considered-a-mental-illness?srsltid=AfmBOopOUAFUi_7MAgfaX9LDEVvWk_tL0YPgZWjhQk08Q3teUyRdaDgX)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-12-11                                 |
+| Tags            | 心理健康, 性别焦虑, 跨性别, 精神疾病, 性别认同, 心理支持, 性别肯定, 社会歧视, 身心健康, 心理问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

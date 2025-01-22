@@ -125,8 +125,8 @@ Autogynephilia即「幻想變性性興奮」。auto-是自己，-gynephilia是�
 |-----------------|----------------------------------------|
 | Filename        | blog_【男人變性的原因】性幻想理論解釋為何男人想做女人跨性別_.md                             |
 | Size            | 11058 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.scs.org.hk/2019/11/26/%E3%80%90%E7%94%B7%E4%BA%BA%E8%AE%8A%E6%80%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%E3%80%91%E6%80%A7%E5%B9%BB%E6%83%B3%E7%90%86%E8%AB%96%E8%A7%A3%E9%87%8B%E7%82%BA%E4%BD%95%E7%94%B7%E4%BA%BA%E6%83%B3%E5%81%9A/](https://blog.scs.org.hk/2019/11/26/%E3%80%90%E7%94%B7%E4%BA%BA%E8%AE%8A%E6%80%A7%E7%9A%84%E5%8E%9F%E5%9B%A0%E3%80%91%E6%80%A7%E5%B9%BB%E6%83%B3%E7%90%86%E8%AB%96%E8%A7%A3%E9%87%8B%E7%82%BA%E4%BD%95%E7%94%B7%E4%BA%BA%E6%83%B3%E5%81%9A/)                       |
 | Author          | 招雋寧（特約撰稿員），香港性文化學會                               |
 | Region          | 香港                               |
 | Date            | 2019-11-26                                 |

@@ -153,7 +153,7 @@ LGBT平权人士自然认为这符合进步主义的理念，**但本质上，�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了美国以及更广泛的西方社会中，性别认同和性别治疗政策对LGBT群体的影响，尤其是在未成年人中进行的性别肯定治疗。作者北方朔风分析了近年来关于性别医疗的争论，指出特朗普政策对LGBT人群的影响，以及进步主义者在未成年人中推广性别阻滞剂和变性手术的动机和后果。文中强调了这种治疗的长期影响，指出缺乏足够高质量的研究来支持这些医疗实践，且讨论了医疗决策的伦理问题。文章还提到当前西方社会对性别问题的复杂文化背景，以及性工作在跨性别者群体中普遍存在的现状。最后，作者质疑在追求平权的过程中，进步主义可能导致的性别物化和消费主义问题，并呼吁对政策的科学研究和更深入的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -164,12 +164,12 @@ LGBT平权人士自然认为这符合进步主义的理念，**但本质上，�
 |-----------------|----------------------------------------|
 | Filename        | user_LGBT变成产业链，进步主义的平庸之恶_-_观察者.md                             |
 | Size            | 17928 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://user.guancha.cn/main/content?id=1333472](https://user.guancha.cn/main/content?id=1333472)                       |
+| Author          | 北方朔风                               |
+| Region          | 美国                               |
+| Date            | 2024-11-16                                 |
+| Tags            | LGBT, 性别认同, 性别治疗, 未成年人, 医疗政策, 特朗普, 激素治疗, 社会文化, 平权运动, 性工作, 进步主义, 伦理问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

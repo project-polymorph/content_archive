@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_“寡姐”退出后，跨性别者要在好莱坞扮演自己_-_界面新闻.md                             |
 | Size            | 4875 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.jiemian.com/article/2371267.html](https://m.jiemian.com/article/2371267.html)                       |
 | Author          | Ricardo Lopez                               |
 | Region          | 未知                               |
 | Date            | 2018-08-09                                 |

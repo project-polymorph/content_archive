@@ -47,8 +47,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_无性别男孩_百度百科.md                             |
 | Size            | 1573 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E5%88%AB%E7%94%B7%E5%AD%A9/20392116](https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E5%88%AB%E7%94%B7%E5%AD%A9/20392116)                       |
 | Author          | 未知                               |
 | Region          | 日本                               |
 | Date            | 未知                                 |

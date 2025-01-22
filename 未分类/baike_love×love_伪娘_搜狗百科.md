@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_love×love_伪娘_搜狗百科.md                             |
 | Size            | 2050 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.sogou.com/v184532644.htm](https://baike.sogou.com/v184532644.htm)                       |
 | Author          | 未知                               |
 | Region          | 日本                               |
 | Date            | 2014-04-18                                 |

@@ -84,8 +84,8 @@ Copyright © 2000 - 2015 XINHUANET.com 版权所有 新华网
 |-----------------|----------------------------------------|
 | Filename        | news_浙江“背母亲上大学”男子手术变性变为女儿身_-_Xinhua_News.md                             |
 | Size            | 6275 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.xinhuanet.com/politics/2015-04/08/c_127665337.htm](http://news.xinhuanet.com/politics/2015-04/08/c_127665337.htm)                       |
 | Author          | 京华时报                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-04-08                                 |

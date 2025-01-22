@@ -42,8 +42,8 @@ Copyright © 2005 Sohu.com Inc. All rights reserved. 搜狐公司 版权所有
 |-----------------|----------------------------------------|
 | Filename        | sports_结束25年男足经历澳大利亚变性人转投女足联赛_-_体育-_搜狐.md                             |
 | Size            | 2049 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://sports.sohu.com/20050624/n226063119.shtml](https://sports.sohu.com/20050624/n226063119.shtml)                       |
 | Author          | 搜狐体育                               |
 | Region          | 澳大利亚                               |
 | Date            | 2005-06-24                                 |

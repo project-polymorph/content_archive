@@ -37,8 +37,8 @@ Copyright©2011 [www.tuj8.co](http://www.tuj8.co/) 图解吧 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | m_【老专家口述历史】何清濂：中国变性手术之父_-_图解吧.md                             |
 | Size            | 1368 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.tuj8.net/html/202205/111223_1.htm](https://m.tuj8.net/html/202205/111223_1.htm)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-05-29                                 |

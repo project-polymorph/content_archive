@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了2016年在泰国曼谷举行的蒂凡尼小姐环球“人妖”选美比赛，展现了参赛者们的风采和当时的气氛。浓烈的文化氛围和绚丽的视觉呈现通过比赛的筹备过程得以体现，照片中可以看到参赛者们在后台为走秀做最后的准备。此外，文章提及了美容与时尚行业中多元性别群体的参与，突显了他们在社交与文化生活中的重要性。整体来看，比赛不仅是对选手们容貌与风采的评比，也是对多元文化和性别认同的展示与接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zaozhuang_泰国“人妖”参加选美比赛身材姣好-读图时代_-_枣庄大众网.md                             |
 | Size            | 1276 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zaozhuang.dzwww.com/synr/tj/201604/t20160421_14177661.htm](https://zaozhuang.dzwww.com/synr/tj/201604/t20160421_14177661.htm)                       |
+| Author          | 大众网                               |
+| Region          | 泰国                               |
+| Date            | 2016-04-20                                 |
+| Tags            | 人妖, 选美比赛, 多元性别, 文化, 性别认同, 社会包容, 彩妆艺术, 时尚行业, 参赛者, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -296,8 +296,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性人演变性电影，但别把他们当成「怪物」_-_普通女人-_豆瓣.md                             |
 | Size            | 10076 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/9276360/](https://m.douban.com/movie/review/9276360/)                       |
 | Author          | 未知                               |
 | Region          | 智利                               |
 | Date            | 未知                                 |

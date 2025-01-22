@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_从跨性别主题切入的再次自我认识之旅-_穿越美国_-_豆瓣.md                             |
 | Size            | 4079 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/8755797/](https://m.douban.com/movie/review/8755797/)                       |
 | Author          | 大隐于书的书书                               |
 | Region          | 美国                               |
 | Date            | 2005-12-23                                 |

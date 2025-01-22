@@ -91,7 +91,7 @@ Copyright © 2016-2025 Pearvideo. All Rights Reserved. 梨视频 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一份关于多元性别相关视频的档案汇总，主要记录了几部来自梨视频的短视频。这些视频聚焦于变性人及多元性别群体的生活和经历，涵盖了多样化的主题，从个人的转型故事到社会现象的反映。文件内包含视频标题、时长、作者及浏览量等信息，帮助观众更好地了解相关内容和受欢迎程度。其中涉及的内容包括变性人参与演艺活动的故事、生活反映、对社会认知的挑战以及法律权利的讨论。具体视频如“曾身披婚纱的我变性成了肌肉男”展示了个人历程，而“变性歌手贝尔：男女换声爆红达人秀”则探讨了性别与艺术的结合。这些视频不仅为公众带来了多元性别群体的真实故事与经验，也推动了社会对性别多样性的进一步理解与接纳。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,12 +102,12 @@ Copyright © 2016-2025 Pearvideo. All Rights Reserved. 梨视频 版权所有
 |-----------------|----------------------------------------|
 | Filename        | www_变性人-梨视频官网-Pear_Video-梨网站.md                             |
 | Size            | 2442 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pearvideo.com/tag_6198](https://www.pearvideo.com/tag_6198)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 变性人, 生活故事, 视频档案, 梨视频, 社会现象, 性别认知, 法律权利, 艺术表现, 新闻报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

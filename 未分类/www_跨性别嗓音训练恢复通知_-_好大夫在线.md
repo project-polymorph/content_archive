@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一份关于跨性别者嗓音训练的恢复通知，发布者为侯倩主治医师，来自首都医科大学附属北京友谊医院耳鼻咽喉头颈外科。内容包括嗓音训练门诊的恢复情况，具体时间为每周二下午13:30至14:30，地点设在北京友谊医院门诊楼六层九诊室。文章提到预约电话和费用情况，同时提醒读者文章仅供健康科普使用，不能作为诊断或治疗的依据。该通知旨在提供跨性别者在嗓音训练方面的医疗资源与信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别嗓音训练恢复通知_-_好大夫在线.md                             |
 | Size            | 2526 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.haodf.com/neirong/wenzhang/9384682844.html](https://www.haodf.com/neirong/wenzhang/9384682844.html)                       |
+| Author          | 侯倩                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-10-18                                 |
+| Tags            | 跨性别, 嗓音训练, 医疗资源, 北京友谊医院, 性别认同, 耳鼻咽喉科, 健康科普, 性别过渡, 医学通知, 跨性别者支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -103,8 +103,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_异装癖｜男子喜欢穿女装是什么心理_-_TransDigitalCN.md                             |
 | Size            | 9334 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.transchinese.org/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB/www_%E5%BC%82%E8%A3%85%E7%99%96%EF%BD%9C%E7%94%B7%E5%AD%90%E5%96%9C%E6%AC%A2%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%98%AF%E4%BB%80%E4%B9%88%E5%BF%83%E7%90%86_-_%E6%90%9C%E7%8B%90/](https://news.transchinese.org/%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB/www_%E5%BC%82%E8%A3%85%E7%99%96%EF%BD%9C%E7%94%B7%E5%AD%90%E5%96%9C%E6%AC%A2%E7%A9%BF%E5%A5%B3%E8%A3%85%E6%98%AF%E4%BB%80%E4%B9%88%E5%BF%83%E7%90%86_-_%E6%90%9C%E7%8B%90/)                       |
 | Author          | 佚名                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-02-11                                 |

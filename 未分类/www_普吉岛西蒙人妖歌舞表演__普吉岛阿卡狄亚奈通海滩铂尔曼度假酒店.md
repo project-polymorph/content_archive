@@ -46,7 +46,7 @@ Share on baidu
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+普吉岛西蒙人妖歌舞表演是一个极具国际水准的表演，提供高质量的音响和灯光设备，展示华丽的服装和妖娆的表演者。该表演在泰国普吉岛的阿卡狄亚奈通海滩铂尔曼度假酒店内进行，是游客到普吉岛时不可错过的视觉盛宴。表演每天举行三场，分别在下午6点、晚上7:45和晚上9:30，吸引了众多游客和当地观众的关注。表演的票价分为VIP席和普通席，且设定了适合儿童的价格。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ Share on baidu
 |-----------------|----------------------------------------|
 | Filename        | www_普吉岛西蒙人妖歌舞表演__普吉岛阿卡狄亚奈通海滩铂尔曼度假酒店.md                             |
 | Size            | 1936 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pullmanphuketarcadia.com/zh-hans/phuket-destination/activities-phuket/phuket-simon-cabaret-shows/](https://www.pullmanphuketarcadia.com/zh-hans/phuket-destination/activities-phuket/phuket-simon-cabaret-shows/)                       |
+| Author          | 未知                               |
+| Region          | 泰国普吉岛                               |
+| Date            | 未知                                 |
+| Tags            | 普吉岛, 西蒙人妖歌舞表演, 性别表现, 娱乐活动, 文化艺术, 表演艺术, 泰国旅游, 异性恋, 性别多样性, 视觉盛宴                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

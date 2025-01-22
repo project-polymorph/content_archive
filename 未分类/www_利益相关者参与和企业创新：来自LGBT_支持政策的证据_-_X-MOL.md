@@ -33,7 +33,7 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了支持LGBT群体的公司政策如何影响企业的创新活动，以及利益相关者的参与在此过程中的作用。研究基于1996年至2011年间的数据，分析了女同性恋、男同性恋、双性恋和跨性别者的支持性公司政策在促进企业创新中的贡献。研究表明，拥有LGBT支持政策的公司往往能够创造更为包容的工作环境，从而吸引和留住优秀人才，这最终能够推动企业的创新能力。通过对多个模型的分析，作者们证实了LGBT支持政策对公司创新的重要性，强调了建立包容性工作环境的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_利益相关者参与和企业创新：来自LGBT_支持政策的证据_-_X-MOL.md                             |
 | Size            | 2283 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1392929300439089152/t?recommendPaper=1358119497071374336](https://www.x-mol.com/paper/1392929300439089152/t?recommendPaper=1358119497071374336)                       |
+| Author          | Khine Kyaw, Sirimon Treepongkaruna, Pornsit Jiraporn                               |
+| Region          | 未知                               |
+| Date            | 2021-05-13                                 |
+| Tags            | LGBT, 企业创新, 公司政策, 包容性, 利益相关者参与, 社会责任, 男同性恋, 女同性恋, 双性恋, 跨性别者研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

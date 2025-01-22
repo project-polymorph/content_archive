@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_中俄混血变性人梦想找到配偶_-_浙江在线.md                             |
 | Size            | 3703 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://china.zjol.com.cn/05china/system/2006/11/07/007974617.shtml](https://china.zjol.com.cn/05china/system/2006/11/07/007974617.shtml)                       |
 | Author          | 朱俊骏、宗一多                               |
 | Region          | 中国大陆                               |
 | Date            | 2006-11-07                                 |

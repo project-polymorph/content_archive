@@ -84,8 +84,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_求一部电影，讲诉的是一个泰国人妖的故事？_-_喜马拉雅.md                             |
 | Size            | 2884 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.ximalaya.com/ask/q12164331](https://m.ximalaya.com/ask/q12164331)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2024-01-14                                 |

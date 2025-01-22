@@ -57,7 +57,7 @@ Cd的全拼英文是Cross dresser，同样的道理，ts也是英文单词的首
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了伪娘文化中的两个核心概念：“ts”和“cd”。它明确区分了这两者与人妖的不同，阐明了“cd”即“Cross Dresser”的含义，指的是喜欢穿着异性服装的人，无论外观如何，都被称为是变装者。而“ts”则是“Trans Sexual”的缩写，特指心理上认同女性但生理上为男性的群体。文章通过引入一些著名的变装人物，如张一山和轩墨宝宝，分析了他们在伪娘文化中的角色，指出这种文化现象已逐渐获得社会的普遍关注和理解。同时，文章也强调了对于这些文化现象和从业者的尊重，呼吁社会应更加包容和理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,12 +68,12 @@ Cd的全拼英文是Cross dresser，同样的道理，ts也是英文单词的首
 |-----------------|----------------------------------------|
 | Filename        | www_伪娘文化中的ts和cd是什么？跟人妖有区别，老司机才懂_cd是什么意思_.md                             |
 | Size            | 4762 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mzcf88.com/article/114331.html](https://www.mzcf88.com/article/114331.html)                       |
+| Author          | 八倍蚕                               |
+| Region          | 未知                               |
+| Date            | 2024-10-24                                 |
+| Tags            | 伪娘文化, TS, CD, 跨性别, 变装文化, 女装大佬, 社会包容, 性别认同, 心理性别, 反串文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

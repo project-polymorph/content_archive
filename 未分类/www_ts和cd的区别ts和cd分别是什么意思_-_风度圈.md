@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了TS（变性者）和CD（易装者）之间的区别，详细阐述了这两个概念的定义、心理状态和表现形式。文中指出，CD是指喜好变装的人，通常没有性别转换的欲望，而TS则是对自身性别感到强烈不满并希望通过手术进行性别转换的人。文件还提到，CD制作主要是用来减压的爱好，通常与疾病无关；而TS则是对自身性别的不认同，涉及到性别认同和性别角色的深层次问题。对于对TS和CD的进一步解释，文中使用了一些生动的描述，比如TS的女装通常为普通女装，而CD的服装则较为性感，并且强调了这两者在心理状态上存在的差异。这是一个对于了解性别多样性非常重要的资料，尤其适合那些希望深入理解多元性别相关话题的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_ts和cd的区别ts和cd分别是什么意思_-_风度圈.md                             |
 | Size            | 1686 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.fengdu365.com/n/39785.html](http://www.fengdu365.com/n/39785.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-09-08                                 |
+| Tags            | 多元性别, 性别认同, 性别转换, 变性者, 易装者, 心理状态, 社会文化, 性别角色, 过渡经历, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章 titled "10年毁掉20万张脸！" 由中国日报发布，揭示了中国美容整形行业的现状与问题。根据中国消费者协会的调查数据，过去十年间，中国美容整形手术造成了多达20万张脸的毁损。文章特别提到了一位以变性手术闻名的整形医生陈焕然，他现在面临着越来越多的整形修复手术，反映出整形行业的成熟与麻烦。文章中提到的手术案例和医生的专业观察，展现了整形手术的风险及其对患者自我形象的影响。文章同时提醒消费者在追求美丽的路上，要保持理性，认识到整形手术的潜在风险。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_10年毁掉20万张脸！_图__-_China_Daily.md                             |
 | Size            | 2290 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.chinadaily.com.cn/hqylss/2006-07/26/content_650414.htm](http://www.chinadaily.com.cn/hqylss/2006-07/26/content_650414.htm)                       |
+| Author          | 中国日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-07-26                                 |
+| Tags            | 美容整形, 变性手术, 陈焕然, 中国消费者协会, 手术修复, 社会问题, 美与丑, 生存现状, 整形行业, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

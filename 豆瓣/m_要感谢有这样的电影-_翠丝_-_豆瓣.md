@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_要感谢有这样的电影-_翠丝_-_豆瓣.md                             |
 | Size            | 1501 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/14802753/](https://m.douban.com/movie/review/14802753/)                       |
 | Author          | 豆瓣用户                               |
 | Region          | 中国香港                               |
 | Date            | 2018-11-22                                 |

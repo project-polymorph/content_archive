@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件视频记录了一位18岁男孩进行变性手术的全过程，内容详细展现了手术的每个环节，让观看者感受到手术过程中的疼痛与挑战。视频时长为1分25秒，网友们在评论区分享了他们的感受与看法，评论内容多样，从祝福到感叹，展现了人们对于变性手术态度的多样性。评论中有提到的例如：‘我不是背后一凉 我是胯下一凉’，在轻松幽默中也反映出对变性手术的不适与关注。此外，相关视频中也分享了不同阶段的变性手术体验，进一步丰富了观众的理解。整个记录展示了变性手术这一复杂而又敏感的议题，配合视频资料，能够引发人们对于性别认同与身体移转的深入思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | v-wb_18岁男孩做变性手术，镜头记录全过程，看完背后一凉！_-_优酷.md                             |
 | Size            | 1263 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://v-wb.youku.com/v_show/id_XNDQ1NTY0NzAwOA==.html?scm=20140719.manual.240103.video_XNDQ1NTY0NzAwOA==](http://v-wb.youku.com/v_show/id_XNDQ1NTY0NzAwOA==.html?scm=20140719.manual.240103.video_XNDQ1NTY0NzAwOA==)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别认同, 生命故事, 医疗资源, 社会环境, 个人经历, 视频记录, 性别多元, 手术体验, 心理感受                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

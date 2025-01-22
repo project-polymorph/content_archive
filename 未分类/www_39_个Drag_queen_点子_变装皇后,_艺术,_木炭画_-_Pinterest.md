@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为多元性别艺术与变装皇后创意集，呈现了39个与变装皇后相关的艺术品创意和表现形式。文件中收录了丰富的多元性别相关视觉艺术作品，包括插画、化妆、时装设计等，展现了变装皇后的文化与创意表达。艺术家HAOYIWANG分享了其在Pinterest上创建的这一作品集，其中包含多幅生动的插图，涉及主题如自我发现、性别表达及其在社交环境中的重要性。更有引人注目的语录提升了这份作品集的艺术深度，例如“Mizvelour说的：‘奶油总会浮到顶端。’”。这些作品不仅展现了个体的审美，同时也反映了多元性别群体所经历的社会互动与文化理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_39_个Drag_queen_点子_变装皇后,_艺术,_木炭画_-_Pinterest.md                             |
 | Size            | 2264 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pinterest.com/haoyiwang8262/drag-queen/](https://www.pinterest.com/haoyiwang8262/drag-queen/)                       |
+| Author          | HAOYIWANG                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装皇后, 多元性别艺术, LGBT艺术, 化妆艺术, 夸张时尚, 插画设计,  drag艺术, 文化表达, 自我发现, 社交表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

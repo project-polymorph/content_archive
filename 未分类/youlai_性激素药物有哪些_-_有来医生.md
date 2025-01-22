@@ -62,7 +62,7 @@ Copyright ©2025 北京纵横无双科技有限公司 All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性激素药物的不同类别及其主要功能，强调了激素药物在治疗中的重要性和效果。特别介绍了三种主要的性激素药物类型：雌激素、雄激素和避孕药。雌激素类药物如补佳乐主要用于女性更年期及相关疾病的治疗；雄激素，如十一酸睾酮，主要用于男性性腺功能减退的治疗，具有较小的肝脏负担；避孕药则用于抑制排卵以达到避孕目的。此外，文章还提到性激素的功能，包括促进性器官发育和维持第二性征等生理作用。整篇文章提供了专业的医学信息，适合有需要的读者参考和使用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@ Copyright ©2025 北京纵横无双科技有限公司 All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | youlai_性激素药物有哪些_-_有来医生.md                             |
 | Size            | 4678 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://youlai.cn/video/article/7C751BkPml.html](https://youlai.cn/video/article/7C751BkPml.html)                       |
+| Author          | 胡伟                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-03                                 |
+| Tags            | 性激素药物, 雌激素, 雄激素, 避孕药, 医疗资源, 过渡经历, 健康知识, 人群研究, 药理作用, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

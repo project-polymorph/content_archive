@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_妖魔化异装癖？_-_八角亭谜雾-_豆瓣.md                             |
 | Size            | 2986 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/13947648/](https://m.douban.com/movie/review/13947648/)                       |
 | Author          | 张大嘴                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-10-13                                 |

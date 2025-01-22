@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕泰国人妖表演展开，介绍了这一独特文化现象的起源、历史以及当今的演出形式。人妖表演始于1975年，起初为少数男性扮演女性形象在酒吧中进行表演，之后随着旅游业的发展，人妖歌舞团逐渐成型，成为泰国著名的旅游项目。通过深入讲解一次在曼谷观看的表演经历，作者展示了人妖表演的精湛技艺和丰富内涵。表演包括独唱、合唱、独舞等多种形式，尤其提到了一名表演者一人分饰两角的精彩演出，给观众带来了耳目一新的感觉。文章还揭示了表演现场的氛围以及相关的文化禁忌，如严格禁止录像的规定，并描述了当晚观看演出的人群构成，强调了其在中文观众中的受欢迎程度。此外，本文也反映了对于人妖文化的社会认知及接受度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖表演老小孩讲述.md                             |
 | Size            | 2746 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.oldkids.cn/blog/view.php?bid=304315](https://www.oldkids.cn/blog/view.php?bid=304315)                       |
+| Author          | 柳浪闻莺                               |
+| Region          | 泰国                               |
+| Date            | 2012-02-23                                 |
+| Tags            | 人妖表演, 泰国文化, 旅游业, 演出经历, 性别表现, 社会现象, 文化认知, 表演艺术, 人生故事, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

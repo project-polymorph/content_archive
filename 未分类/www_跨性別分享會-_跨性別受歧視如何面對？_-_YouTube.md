@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一场关于跨性别受歧视的分享会，旨在探讨跨性别者在面临社会歧视和偏见时如何应对和寻求支持。视频时长为9分13秒，包含对跨性别者经历的深刻洞察，分享会提供了一个平台，让参与者能够表达自己的故事和共同面对的挑战。从视频中可以看到跨性别者分享了他们的生活经历以及应对歧视的策略和建议。此活动不仅强调了歧视的普遍性，也提醒大家需要对该群体给予更多理解和支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,12 +38,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別分享會-_跨性別受歧視如何面對？_-_YouTube.md                             |
 | Size            | 610 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=-VmSOUW2Mnw](https://www.youtube.com/watch?v=-VmSOUW2Mnw)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 歧视, 分享会, 支持, 生活故事, 社会环境, 生命经历, 心理健康, 倡导, 平权运动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

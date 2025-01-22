@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | gumilev_尼古拉·古米廖夫._人妖._政硕张._中文_-_Николай_Гумилёв.md                             |
 | Size            | 2579 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://gumilev.ru/languages/1153](https://gumilev.ru/languages/1153)                       |
 | Author          | 尼古拉·古米廖夫                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

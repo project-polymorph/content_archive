@@ -76,8 +76,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别mtf喉结切除手术分享.md                             |
 | Size            | 3516 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.baidu.com/video/page?pd=video_page&nid=9268122955704925194&sign=9454767554768435762&word=mtf%E5%B7%B2%E5%88%87srs%E6%89%8B%E6%9C%AF%E7%9F%A5%E4%B9%8E&oword=mtf%E5%B7%B2%E5%88%87srs%E6%89%8B%E6%9C%AF%E7%9F%A5%E4%B9%8E&atn=index&frsrcid=4185&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&sl=2](https://m.baidu.com/video/page?pd=video_page&nid=9268122955704925194&sign=9454767554768435762&word=mtf%E5%B7%B2%E5%88%87srs%E6%89%8B%E6%9C%AF%E7%9F%A5%E4%B9%8E&oword=mtf%E5%B7%B2%E5%88%87srs%E6%89%8B%E6%9C%AF%E7%9F%A5%E4%B9%8E&atn=index&frsrcid=4185&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&sl=2)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2019-06-10                                 |

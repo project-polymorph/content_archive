@@ -44,8 +44,8 @@ _（提示：已启用缓存技术，最新章节可能会延时显示，登录�
 |-----------------|----------------------------------------|
 | Filename        | czbokai_被阴暗疯批玩烂的双性美人_-_第九源言情小说网.md                             |
 | Size            | 1808 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://czbokai.com/info/103440/](https://czbokai.com/info/103440/)                       |
 | Author          | 水中月                               |
 | Region          | 未知                               |
 | Date            | 2024-06-04                                 |

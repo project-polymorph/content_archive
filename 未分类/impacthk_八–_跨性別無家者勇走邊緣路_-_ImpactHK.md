@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | impacthk_八–_跨性別無家者勇走邊緣路_-_ImpactHK.md                             |
 | Size            | 8736 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://impacthk.org/zh/about-zh/%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B/%E5%85%AB-%E8%B7%A8%E6%80%A7%E5%88%A5%E7%84%A1%E5%AE%B6%E8%80%85%E5%8B%87%E8%B5%B0%E9%82%8A%E7%B7%A3%E8%B7%AF/](https://impacthk.org/zh/about-zh/%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B/%E5%85%AB-%E8%B7%A8%E6%80%A7%E5%88%A5%E7%84%A1%E5%AE%B6%E8%80%85%E5%8B%87%E8%B5%B0%E9%82%8A%E7%B7%A3%E8%B7%AF/)                       |
 | Author          | 彭筠雅、吳兆康、黎凱容                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

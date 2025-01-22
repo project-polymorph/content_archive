@@ -173,8 +173,8 @@ Pending
 |-----------------|----------------------------------------|
 | Filename        | patents_CN101036660A_-_一种雌激素凝胶药物及其制备方法_-_Google_Patents.md                             |
 | Size            | 9744 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://patents.google.com/patent/CN101036660A/zh](https://patents.google.com/patent/CN101036660A/zh)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-09-19                                 |

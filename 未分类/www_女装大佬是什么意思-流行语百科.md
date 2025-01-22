@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了“女装大佬”这一网络流行词的含义与发展历程。女装大佬专指穿着女装的男性，最早源自2016年的二次元文化，特别是在cosplay活动中，许多男性会扮演女性动漫角色，因而被称为女装大佬。文章提到‘大佬’这一词在二次元圈子中的使用，也介绍了与之相关的其他流行语，如‘大屌萌妹’等。近年来，随着二次元文化的兴起，越来越多的网友开始关注身穿女装的男性，并对这种文化现象进行讨论与评价。总结该词的多义性，以及其在网络文化中的重要地位，体现了性别表达的多样性与包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬是什么意思-流行语百科.md                             |
 | Size            | 2025 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.lxybaike.com/index.php?doc-view-5126.html](http://www.lxybaike.com/index.php?doc-view-5126.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-06-08                                 |
+| Tags            | 女装大佬, 网络流行词, 二次元文化, cosplay, 性别表达, 男性穿女装, 社交媒体, 文化现象, 网络用语, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

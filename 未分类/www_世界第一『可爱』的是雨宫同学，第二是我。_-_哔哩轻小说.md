@@ -76,7 +76,7 @@ _提示：收藏可以选择是否进行分组_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于青春校园恋爱的轻小说，讲述了主角晴间光辉的双重身份：他是一名男子高中生，同时也是被称为‘世界第一可爱’的美少女模特hikari。他的女装形象赢得了许多关注，但他的真实身份只有同班的土妹同学雨宫雫知道。当两人的命运交汇时，他们开始了一段‘完美’的恋情。本书不仅在情节上充满了幽默和温馨，也反映了性别认同与社会期望之间的冲突与和谐。书中提到的伪娘文化和青春恋爱给读者带来思考，同时也折射出更广泛的社会对性别表达的接受度与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -87,12 +87,12 @@ _提示：收藏可以选择是否进行分组_
 |-----------------|----------------------------------------|
 | Filename        | www_世界第一『可爱』的是雨宫同学，第二是我。_-_哔哩轻小说.md                             |
 | Size            | 3786 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilinovel.com/novel/3844.html](https://www.bilinovel.com/novel/3844.html)                       |
+| Author          | 编乃肌                               |
+| Region          | 未知                               |
+| Date            | 2023-11-08                                 |
+| Tags            | 校园, 青春, 恋爱, 伪娘, 性别认同, 轻小说, 爱情故事, 社会环境, 文学艺术, 创作表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

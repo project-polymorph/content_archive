@@ -509,7 +509,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自南方日报，标题为《还记得那个化身“女装大佬”的警察小哥哥吗？竟然还有下集！》，讲述了一位女装饰演的警察在网络交友反诈骗视频中的表现，并引出了网贷裸贷的警示信息。文章开头以一个短视频引入，其中“漂亮小姐姐”产生了贷款的请求，随后引入了裸贷合同的情节。在关键时刻，警察及时出现进行干预，提醒大众警惕网贷和裸贷。文章的主要意图在于通过有趣的网络现象引发对当代网络诈骗和贷款问题的关注，以及鼓励大家提高警惕。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -520,12 +520,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_那个化身“女装大佬”的警察小哥哥竟然还有下集！_-_观察者.md                             |
 | Size            | 16232 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/politics/2019_04_14_497606.shtml](https://www.guancha.cn/politics/2019_04_14_497606.shtml)                       |
+| Author          | 南方日报                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-04-14                                 |
+| Tags            | 多元性别, 女装大佬, 警察, 网络诈骗, 裸贷, 生活故事, 社会现象, 网络视频, 警示教育, 反向性别角色                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -54,8 +54,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_内娱自己的跨性别情侣_-_豆瓣.md                             |
 | Size            | 1945 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/154996137/](https://m.douban.com/doulist/154996137/)                       |
 | Author          | 沉默寡言方小宝                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-05-07                                 |

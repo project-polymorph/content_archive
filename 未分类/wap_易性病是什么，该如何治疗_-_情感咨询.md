@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了易性病的定义、成因及其治疗方法。易性病，又称易性癖，是指个体在心理上否定自身性别，认为自己的性别与外生殖器性别相反，希望通过变换生理性别特征来实现性别认同。文章指出，易性癖群体属于跨性别者的一部分，强调这一症状并非后天习得，而是与生物学因素相互作用。文中还提到，传统观念对易性病的误解，使这一群体常受到闲言碎语和法律惩罚。关于易性病的成因，包括不良的家庭教育和胎儿期荷尔蒙分泌异常等。最后，文章介绍了目前的治疗方法，主要以心态治疗为主，并探讨了认知疗法和激素治疗等手段，以帮助患者有效缓解心理困扰。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wap_易性病是什么，该如何治疗_-_情感咨询.md                             |
 | Size            | 5383 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://wap.huazhen2008.com/xl/41783.html](http://wap.huazhen2008.com/xl/41783.html)                       |
+| Author          | 花镇情感网                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-30                                 |
+| Tags            | 易性病, 性别认同, 跨性别, 医疗资源, 心理治疗, 性别障碍, 性别认知, 变性手术, 青春期治疗, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

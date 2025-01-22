@@ -45,7 +45,7 @@ Nadya
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了《守望先锋》系列漫画中的LGBT角色猎空（Tracer），并证实了她的女性同性恋身份。官方在2016年12月21日发布了最新一集的漫画《Reflections》，其中对角色的性取向进行了详细介绍。虽然此前官方已提及游戏中存在LGBT角色，但此次漫画明确了猎空的身份，引发了玩家的关注和讨论。此外，文章还提到漫画的视觉效果和音效，为读者提供了观看链接，使他们能够进一步体验这部作品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@ Nadya
 |-----------------|----------------------------------------|
 | Filename        | www_《守望先锋》的新漫画证实了猎空的性取向_-_机核GCORES.md                             |
 | Size            | 2944 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gcores.com/articles/22168](https://www.gcores.com/articles/22168)                       |
+| Author          | Nadya                               |
+| Region          | 未知                               |
+| Date            | 2016-12-21                                 |
+| Tags            | 守望先锋, 猎空, LGBT, 游戏, 漫画, 女性角色, 性取向, 资讯, 动态漫画, 文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于男跨女变性手术及其相关话题的报道，揭示了变性手术的巨大费用以及进行手术的勇气与挑战。内容摘录自一段YouTube视频，作者是AllieAllie，视频播放次数为5469次，发布于2024年7月8日。文中表达了对变性手术的关注，强调了变性人在社会中所面临的压力和支持，并分享了手术费用的具体数字，且评论区对手术者的勇敢和努力表示赞赏。此外，文件还包括了一些相关视频的推荐，进一步说明了变性话题在公众关注中的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【男跨女變性手術費用曝光動刀花百萬網喊：好勇敢】@AllieAllie.md                             |
 | Size            | 2742 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=yzb-UycU1eo](https://www.youtube.com/watch?v=yzb-UycU1eo)                       |
+| Author          | AllieAllie                               |
+| Region          | 未知                               |
+| Date            | 2024-07-08                                 |
+| Tags            | 变性, 男跨女, 变性手术, 医疗资源, 生存现状, 勇敢, 勇气, 社会支持, 费用, YouTube视频                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

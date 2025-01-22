@@ -60,8 +60,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hsex_同性伪娘与大屌小伙互插_-_好色™_Tv.md                             |
 | Size            | 2334 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hsex.men/video-377278.htm](https://hsex.men/video-377278.htm)                       |
 | Author          | 康康2011                               |
 | Region          | 未知                               |
 | Date            | 2020-06-18                                 |

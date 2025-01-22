@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇专访记录了中国现代舞艺术家金星的生命故事与艺术经历。金星是一位坦诚且勇敢的变性人，她通过自己的艺术创作展现了多元的性别身份与生活态度。文中提到金星的舞蹈团成立于1998年，至今持续在世界各地演出，她的舞蹈作品既是个人表达的体现，也是对社会环境的回应。金星公开谈及自己的变性经历和作为母亲的感受，展示出她如何在艺术与家庭之间找到平衡。专访中也探讨了中国现代舞发展的挑战与机遇，金星反思了舞蹈的艺术价值和与观众的互动。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -90,12 +90,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_金星-迷魅的舞者-专访.md                             |
 | Size            | 9015 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.swissinfo.ch/chi/culture/%E9%87%91%E6%98%9F-%E8%BF%B7%E9%AD%85%E7%9A%84%E8%88%9E%E8%80%85-%E4%B8%93%E8%AE%BF/5173988](https://www.swissinfo.ch/chi/culture/%E9%87%91%E6%98%9F-%E8%BF%B7%E9%AD%85%E7%9A%84%E8%88%9E%E8%80%85-%E4%B8%93%E8%AE%BF/5173988)                       |
+| Author          | 刘婷                               |
+| Region          | 中国                               |
+| Date            | 2006-05-09                                 |
+| Tags            | 金星, 现代舞, 变性人, 艺术家, 舞蹈团, 生存现状, 家庭生活, 社会环境, 文化交流, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

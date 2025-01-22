@@ -120,8 +120,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_性别可以被强行更改吗？“世界上最成功变性人”之死_-_QQ_News.md                             |
 | Size            | 11411 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20241018A0813M00](https://news.qq.com/rain/a/20241018A0813M00)                       |
 | Author          | 玛雅蓝                               |
 | Region          | 未知                               |
 | Date            | 2024-10-18                                 |

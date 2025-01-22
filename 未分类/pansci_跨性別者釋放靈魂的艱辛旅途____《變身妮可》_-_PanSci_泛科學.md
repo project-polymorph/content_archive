@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | pansci_跨性別者釋放靈魂的艱辛旅途____《變身妮可》_-_PanSci_泛科學.md                             |
 | Size            | 1573 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://pansci.asia/archives/121152](https://pansci.asia/archives/121152)                       |
 | Author          | 时報出版                               |
 | Region          | 未知                               |
 | Date            | 2017-06-14                                 |

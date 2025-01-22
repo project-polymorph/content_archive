@@ -79,8 +79,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_【翻译】跨性别女性宣言-_日记.md                             |
 | Size            | 18249 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/853622385/](https://m.douban.com/note/853622385/)                       |
 | Author          | 朱莉娅·塞拉诺                               |
 | Region          | 未知                               |
 | Date            | 2023-09-06                                 |

@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | noselfidtw_香港相關跨性別事件文章_No_Self_ID_Taiwan_反對自我宣稱性別.md                             |
 | Size            | 1892 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://noselfidtw.cc/regions/%E9%A6%99%E6%B8%AF/](https://noselfidtw.cc/regions/%E9%A6%99%E6%B8%AF/)                       |
 | Author          | 未知                               |
 | Region          | 香港                               |
 | Date            | 2023-03-10                                 |

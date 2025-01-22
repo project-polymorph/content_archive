@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为卫生部于2009年6月16日发布的《变性手术技术管理规范征求意见稿》，涵盖了变性手术实施的医疗标准和要求。全文阐述了哪些医院及医生具备开展变性手术的资格，包括医院需设有伦理委员会、具备10年以上的整形外科经验等。同时，文件细化了变性手术患者的要求，规定患者需提交无犯罪记录证明、易性癖病诊断证明，及有持续的变性要求的条件。此规范的发布，旨在为医疗机构提供指导，确保变性手术的安全和伦理，保护患者的隐私权及合法权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_卫生部印发《变性手术技术管理规范征求意见稿》.md                             |
 | Size            | 3841 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gov.cn/jrzg/2009-06/16/content_1341988.htm](https://www.gov.cn/jrzg/2009-06/16/content_1341988.htm)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2009-06-16                                 |
+| Tags            | 变性手术, 医疗规范, 卫生部, 中国, 伦理委员会, 易性癖, 患者权利, 性别认同, 法律要求, 整形外科                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

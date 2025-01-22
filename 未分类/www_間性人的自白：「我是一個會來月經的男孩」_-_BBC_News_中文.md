@@ -272,7 +272,7 @@ _BBC全球身份認同事務記者梅加‧莫漢（Megha Mohan）對此文亦�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是由 BBC 国际台的记者然娜‧貝茨皮亞楚科撰写，记录了一位名为伊琳娜‧庫澤姆科和另外两位间性女性的真实故事，展现她们如何面对和理解自己的间性身份。伊琳娜分享了自己在青春期经历的争议性手术，以及在得知自己是间性人后的心路历程。她曾被迫在不知情的情况下被重置性别，经历了身体和心理上的痛苦，但最终接受了自己的身份，并决定帮助更多儿童和年轻人，防止他们经历相同的创伤。本文还通过朱莉婭‧西多洛娃医师的声音，探讨了医疗界对间性人儿童的处理、社会对间性人的误解以及如何实现对这些人士的尊重与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -283,12 +283,12 @@ _BBC全球身份認同事務記者梅加‧莫漢（Megha Mohan）對此文亦�
 |-----------------|----------------------------------------|
 | Filename        | www_間性人的自白：「我是一個會來月經的男孩」_-_BBC_News_中文.md                             |
 | Size            | 16076 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/trad/science-54970542](https://www.bbc.com/zhongwen/trad/science-54970542)                       |
+| Author          | 然娜‧貝茨皮亞楚科（Zhanna Bezpiatchuk）                               |
+| Region          | 未知                               |
+| Date            | 2020-11-23                                 |
+| Tags            | 间性人, 性别认同, 生命故事, 医疗经历, 心理健康, 社会接受, 性别政策, 身体自主权, 性别特征, 儿童权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

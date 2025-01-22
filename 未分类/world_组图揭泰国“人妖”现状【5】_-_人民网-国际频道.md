@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文揭示了泰国变性人群体的生存现状，以“人妖”舞女Bee的故事为切入点，反映了她们的生活方式和对社会的认知。Bee作为一名25岁的变性人自由职业者，选择不在酒吧工作，而是以自身的美貌在酒吧寻觅顾客。文章指出，尽管大众普遍将变性舞女视为一个淫乱和悲惨的群体，但她们却认同自己的价值和吸引力。她们意识到，很难找到愿意疼爱自己的伴侣，同时也无法得到家人的认可，因此，利用自己的年轻身体换取金钱成为唯一的生存选项。该稿件从个体故事出发，映射出更广泛的社会对于变性群体的偏见与理解，呈现出变性人在现实社会中的生存状态和心理挣扎。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_组图揭泰国“人妖”现状【5】_-_人民网-国际频道.md                             |
 | Size            | 1845 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2013/0121/c1002-20269165-5.html](http://world.people.com.cn/n/2013/0121/c1002-20269165-5.html)                       |
+| Author          | 光明网                               |
+| Region          | 未知                               |
+| Date            | 2013-01-21                                 |
+| Tags            | 泰国, 变性人, 人妖, 生存现状, 社会偏见, 职业选择, 性别多元, 群体故事, 心理挣扎, 法律与社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

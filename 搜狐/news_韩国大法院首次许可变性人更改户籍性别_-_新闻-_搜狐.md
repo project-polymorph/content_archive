@@ -78,8 +78,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_韩国大法院首次许可变性人更改户籍性别_-_新闻-_搜狐.md                             |
 | Size            | 8286 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/20060630/n244019641.shtml](http://news.sohu.com/20060630/n244019641.shtml)                       |
 | Author          | 刘复晨                               |
 | Region          | 韩国                               |
 | Date            | 2006-06-30                                 |

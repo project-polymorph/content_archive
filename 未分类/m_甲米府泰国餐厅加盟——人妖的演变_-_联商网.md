@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_甲米府泰国餐厅加盟——人妖的演变_-_联商网.md                             |
 | Size            | 3360 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.linkshop.com/bbs/show.aspx?id=663298&from=web](http://m.linkshop.com/bbs/show.aspx?id=663298&from=web)                       |
 | Author          | zeroliu                               |
 | Region          | 泰国                               |
 | Date            | 2015-05-22                                 |

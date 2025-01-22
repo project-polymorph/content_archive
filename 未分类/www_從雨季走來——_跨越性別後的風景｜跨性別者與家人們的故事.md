@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《從雨季走來——跨越性別後的風景｜跨性別者與家人們的故事》，主要讲述跨性别者的故事以及他们与家人之间的关系与支持。文件中提到的两位热心义工，海绵和维恩，分享了关于他们身份认同的经历。他们的故事突出表现了跨性别者在自我认同中的多样性与复杂性，例如海绵对中性身份的接受与维恩对男生身份的理解。此外，该文件还提到了一部关于跨性别者及其家人的故事影片，并提供了相关视频和评论链接，反映了社会对跨性别议题的关注与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_從雨季走來——_跨越性別後的風景｜跨性別者與家人們的故事.md                             |
 | Size            | 1965 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/TaiwanHotline/videos/%E5%BE%9E%E9%9B%A8%E5%AD%A3%E8%B5%B0%E4%BE%86-%E8%B7%A8%E8%B6%8A%E6%80%A7%E5%88%A5%E5%BE%8C%E7%9A%84%E9%A2%A8%E6%99%AF%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E8%88%87%E5%AE%B6%E4%BA%BA%E5%80%91%E7%9A%84%E6%95%85%E4%BA%8B/937045821540053/](https://www.facebook.com/TaiwanHotline/videos/%E5%BE%9E%E9%9B%A8%E5%AD%A3%E8%B5%B0%E4%BE%86-%E8%B7%A8%E8%B6%8A%E6%80%A7%E5%88%A5%E5%BE%8C%E7%9A%84%E9%A2%A8%E6%99%AF%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E8%88%87%E5%AE%B6%E4%BA%BA%E5%80%91%E7%9A%84%E6%95%85%E4%BA%8B/937045821540053/)                       |
+| Author          | 台湾同志咨询热线协会                               |
+| Region          | 台湾                               |
+| Date            | 2024-01-18                                 |
+| Tags            | 跨性别, 跨性别现身日, 家庭支持, 社会认同, 生命故事, 心理健康, 义工经验, 影视作品, 性别认同, 台湾同志                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

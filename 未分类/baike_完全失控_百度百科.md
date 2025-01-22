@@ -90,8 +90,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_完全失控_百度百科.md                             |
 | Size            | 6263 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7/5666999](https://baike.baidu.com/item/%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7/5666999)                       |
 | Author          | 未知                               |
 | Region          | 中国香港                               |
 | Date            | 1997-10-10                                 |

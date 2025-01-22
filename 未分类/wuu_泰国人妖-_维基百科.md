@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自维基百科，主要讲述泰国人妖（Kathoey）这一群体的历史、文化及社会现状。泰国人妖是指那些从男性转变为女性的变性人，常见于娱乐和旅游业。文件中详细介绍了他们的生活经历，包括接受荷尔蒙补充疗法、整形手术等身体和社会角色的转变。同时，文章提到泰国人妖在法律上的困境，由于法律不承认其性别转变，许多人在社会和家庭中面临压力和歧视。此外，文件还涉及著名的人物和事件，如泰国人妖排球队的历史及其对社会的影响。整体来说，这是一份深入了解泰国人妖文化的文献，涵盖了社会、法律和医疗等多方面的内容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wuu_泰国人妖-_维基百科.md                             |
 | Size            | 5837 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wuu.wikipedia.org/wiki/%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%A6%96](https://wuu.wikipedia.org/wiki/%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%A6%96)                       |
+| Author          | 维基百科                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 泰国人妖, 跨性别, 社会文化, 娱乐行业, 法律政策, 变性人, 荷尔蒙疗法, 身份认同, 性别角色, 真实故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

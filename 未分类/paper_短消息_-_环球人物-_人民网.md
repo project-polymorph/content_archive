@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | paper_短消息_-_环球人物-_人民网.md                             |
 | Size            | 11604 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://paper.people.com.cn/hqrw/html/2008-06/16/content_51649.htm](http://paper.people.com.cn/hqrw/html/2008-06/16/content_51649.htm)                       |
 | Author          | 人民网                               |
 | Region          | 中国大陆                               |
 | Date            | 2008-06-16                                 |

@@ -73,8 +73,8 @@ ICP证京B2-20194099
 |-----------------|----------------------------------------|
 | Filename        | b_二次元之我的伪娘系统下载_-_飞卢小说网.md                             |
 | Size            | 4226 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://b.faloo.com/d_436088.html](https://b.faloo.com/d_436088.html)                       |
 | Author          | 5708352                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

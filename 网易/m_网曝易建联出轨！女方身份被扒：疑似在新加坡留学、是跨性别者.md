@@ -184,7 +184,7 @@ US17天猫旗舰店客服回应称:“没有收到通知，如果有最新消息
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了中国篮球界知名运动员易建联的绯闻和近日被曝出的出轨事件，焦点在于其绯闻女友身份的揭露。根据网络爆料，绯闻女主角疑似为一名变性人，同时在新加坡国立大学就读。事件引发了公众的广泛讨论和媒体的深度追踪。文件中详细介绍了事件的发展，包括网络上的截图和证据，以及易建联与其绯闻对象的背景信息。此外，对于事件的真实性、易建联的沉默回应以及公众和赞助商的反应也进行了探讨。文中引用了大量网络红人的发言及公众的猜测，揭示了事件的复杂性与社交媒体对公众人物形象的影响。总的来看，这是一篇集结了娱乐新闻、社会现象及对多元性别认知探讨的文本，展示了当下社会对跨性别者身份认同的挑战与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -195,12 +195,12 @@ US17天猫旗舰店客服回应称:“没有收到通知，如果有最新消息
 |-----------------|----------------------------------------|
 | Filename        | m_网曝易建联出轨！女方身份被扒：疑似在新加坡留学、是跨性别者.md                             |
 | Size            | 9318 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://m.163.com/dy/article_cambrian/JEPQDCSE0524A4QN.html](https://m.163.com/dy/article_cambrian/JEPQDCSE0524A4QN.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-10-17                                 |
+| Tags            | 易建联, 变性人, 出轨事件, 跨性别者, 网络爆料, 社交媒体, 公众反应, 法律与社会, 媒体报道, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

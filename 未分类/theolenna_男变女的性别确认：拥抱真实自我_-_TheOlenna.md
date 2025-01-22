@@ -85,8 +85,8 @@ MTF 性别确认手术不必包含上述所有程序。个人可以咨询其提�
 |-----------------|----------------------------------------|
 | Filename        | theolenna_男变女的性别确认：拥抱真实自我_-_TheOlenna.md                             |
 | Size            | 5746 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://theolenna.com/zh/%E7%94%B7%E5%8F%98%E5%A5%B3%E6%80%A7%E5%88%AB%E7%A1%AE%E8%AE%A4-%E6%8B%A5%E6%8A%B1%E7%9C%9F%E5%AE%9E%E8%87%AA%E6%88%91/](https://theolenna.com/zh/%E7%94%B7%E5%8F%98%E5%A5%B3%E6%80%A7%E5%88%AB%E7%A1%AE%E8%AE%A4-%E6%8B%A5%E6%8A%B1%E7%9C%9F%E5%AE%9E%E8%87%AA%E6%88%91/)                       |
 | Author          | TheOlenna                               |
 | Region          | 未知                               |
 | Date            | 2024-06-26                                 |

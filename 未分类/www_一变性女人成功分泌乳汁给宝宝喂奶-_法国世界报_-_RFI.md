@@ -23,7 +23,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位变性女人的独特经历，她成功通过医疗干预分泌了乳汁，从而能够为她的宝宝进行母乳喂养。文章首先介绍了这一事件的背景，强调了这一故事的特殊性和科学突破。变性女人在生育前未进行过生殖器外科手术，但通过专门的治疗，她切实实现了乳汁分泌。治疗包括逐步增加孕激素和使用促进乳汁分泌的激素，以及使用挤奶器来刺激乳汁生产。在产后六周的时间里，她的乳汁为宝宝提供了主要的营养来源。本文不仅展示了医学科技的进步，也反映了变性人在育儿权利和母乳喂养方面的现实挑战与突破。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -34,12 +34,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_一变性女人成功分泌乳汁给宝宝喂奶-_法国世界报_-_RFI.md                             |
 | Size            | 2660 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rfi.fr/cn/20180219-%E4%B8%80%E5%8F%98%E6%80%A7%E5%A5%B3%E4%BA%BA%E6%88%90%E5%8A%9F%E5%88%86%E6%B3%8C%E4%B9%B3%E6%B1%81%E7%BB%99%E5%AE%9D%E5%AE%9D%E5%96%82%E5%A5%B6](https://www.rfi.fr/cn/20180219-%E4%B8%80%E5%8F%98%E6%80%A7%E5%A5%B3%E4%BA%BA%E6%88%90%E5%8A%9F%E5%88%86%E6%B3%8C%E4%B9%B3%E6%B1%81%E7%BB%99%E5%AE%9D%E5%AE%9D%E5%96%82%E5%A5%B6)                       |
+| Author          | 阿曼亭                               |
+| Region          | 未知                               |
+| Date            | 2018-02-20                                 |
+| Tags            | 变性, 母乳喂养, 医疗科技, 生殖健康, 变性人权利, 育儿, 医学突破, 激素治疗, 社会环境, 真实故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

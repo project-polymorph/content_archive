@@ -64,7 +64,7 @@ Jennifer Nazareno 1, 2
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本研究聚焦于菲律宾跨性别女性与男性发生性行为的相关性别特定发展里程碑，并探讨在这一过程中所遭遇的暴力、歧视和耻辱经历。研究利用#ParaSaAtin项目中的数据，深入分析跨性别女性在实现自身性别认同和表达过程中，遭受的社会、心理以及生理障碍。研究结果表明，经历较多歧视和暴力事件的跨性别者，其性别发展里程碑实现的年龄普遍较晚。这一结果不仅揭示了菲律宾跨性别女性面临的挑战，也强调了改善这些群体处境的必要性，通过制定基于创伤和优势的政策，减轻反跨性别暴力的影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@ Jennifer Nazareno 1, 2
 |-----------------|----------------------------------------|
 | Filename        | www_与男性发生性行为的菲律宾跨性别女性中跨性别特定的发展里程碑_.md                             |
 | Size            | 4408 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1390937818157174785/t?recommendPaper=1222771050890153984](https://www.x-mol.com/paper/1390937818157174785/t?recommendPaper=1222771050890153984)                       |
+| Author          | Arjee J Restar等                               |
+| Region          | 菲律宾                               |
+| Date            | 2021-03-09                                 |
+| Tags            | 跨性别女性, 性别发展里程碑, 菲律宾, 暴力与歧视, 性行为, 性别认同, 心理健康, 社会政策, 数据统计, 研究资料                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

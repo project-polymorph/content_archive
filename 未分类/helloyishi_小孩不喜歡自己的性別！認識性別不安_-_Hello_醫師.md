@@ -77,8 +77,8 @@ Gender Dysphoria Basics. [https://childmind.org/guide/guide-to-gender-dysphoria/
 |-----------------|----------------------------------------|
 | Filename        | helloyishi_小孩不喜歡自己的性別！認識性別不安_-_Hello_醫師.md                             |
 | Size            | 3232 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://helloyishi.com.tw/parenting/childrens-health/other-child-health-issues/gender-dysphoria-what-is-it-myth-or-fact/](https://helloyishi.com.tw/parenting/childrens-health/other-child-health-issues/gender-dysphoria-what-is-it-myth-or-fact/)                       |
 | Author          | Jenny Hung，醫學審稿：賴建翰醫師                               |
 | Region          | 台灣                               |
 | Date            | 2024-10-25                                 |

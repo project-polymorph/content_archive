@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_曾经变性人，今为爱再度上手术台_-_搜狐.md                             |
 | Size            | 10647 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/upload/union-photo/media/nfdsb/060627-3.htm](http://news.sohu.com/upload/union-photo/media/nfdsb/060627-3.htm)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

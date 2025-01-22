@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_上海市长宁区精神卫生中心发育迟缓专家_推荐专家_权威专家-好大夫_.md                             |
 | Size            | 2606 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.haodf.com/hospital/2500/tuijian-fayuchihuan.html](https://m.haodf.com/hospital/2500/tuijian-fayuchihuan.html)                       |
 | Author          | 未知                               |
 | Region          | 上海市                               |
 | Date            | 未知                                 |

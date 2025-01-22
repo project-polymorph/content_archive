@@ -150,8 +150,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性別電影_-_豆瓣.md                             |
 | Size            | 5644 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/1479129/](https://m.douban.com/doulist/1479129/)                       |
 | Author          | 抱持                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-03-06                                 |

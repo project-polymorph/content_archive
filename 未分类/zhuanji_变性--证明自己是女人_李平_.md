@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了李平的变性人生故事，详细描绘了她从小到大的成长经历及内心的挣扎与困惑。作者讲述了在以男性为主的家庭中出生，内心渴望成为女孩的痛苦，直到高中时期与初恋的关系激发了她的变性决心。李平描述了她在重庆医科大学学习的过程，以及了解易性癖的自我探索。变性手术的阻碍、家庭的反应，以及社会对变性人的偏见，都成为了她人生中重要的转折点。她回忆起在医疗体制中的艰难求助，最终实现变性手术后的生活变化以及引发的种种困扰和社会压力。李平的故事不仅反映了个人的变性经验，更体现了社会对于多元性别的理解与接纳之路。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zhuanji_变性--证明自己是女人_李平_.md                             |
 | Size            | 7373 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhuanji.xiusha.com/l/liping/000/001.htm](https://zhuanji.xiusha.com/l/liping/000/001.htm)                       |
+| Author          | 李平                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 生命故事, 心理健康, 医疗资源, 社会压力, 文化偏见, 法律政策, 人生经历, 个人奋斗                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

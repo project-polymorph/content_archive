@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细介绍了新西兰的变性手术，通常也被称为性别重置手术或性别重新确认手术。文中探讨了变性手术后需要关注的术后饮食问题，强调术后的饮食调整对于手术恢复的重要性。手术后，身体会对营养摄入产生不同的需求，因此必须保持良好的饮食习惯以促进康复。具体的饮食建议包括术后应注意增加液体饮食的摄入，优先选择红肉而不是奶制品，戒烟或避免吸烟，以及摄入富含蔬菜和水果的营养丰富的饮食，确保身体摄入足够的纤维。同时，在饮食上还需注意低钠摄入，以防止水肿的发生。文末提到，选择专业的医疗机构进行手术尤为重要，而咖蒙美容医院被推荐为该区域的领先医院之一，能够提供专业的指导与治疗。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_新西兰变性手术.md                             |
 | Size            | 2199 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/blog/661/sex-change-operation-new-zealand](https://www.kamolhospital.com/zh/blog/661/sex-change-operation-new-zealand)                       |
+| Author          | 未知                               |
+| Region          | 新西兰                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别重置手术, 性别转换, 术后饮食, 跨性别者, 医疗资源, 康复建议, 营养需求, 咖蒙美容医院, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

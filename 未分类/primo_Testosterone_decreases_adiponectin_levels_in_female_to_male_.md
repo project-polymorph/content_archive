@@ -75,8 +75,8 @@ Copyright Nature Publishing Group Nov 2006
 |-----------------|----------------------------------------|
 | Filename        | primo_Testosterone_decreases_adiponectin_levels_in_female_to_male_.md                             |
 | Size            | 3084 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://primo.qatar-weill.cornell.edu/discovery/fulldisplay?docid=cdi_proquest_miscellaneous_68170218&context=PC&vid=974WCMCIQ_INST:VU1&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=creator%2Cexact%2C%20D'Emidio%2C%20Laura%20%2CAND&facet=creator%2Cexact%2C%20D'Emidio%2C%20Laura%20&mode=advanced](https://primo.qatar-weill.cornell.edu/discovery/fulldisplay?docid=cdi_proquest_miscellaneous_68170218&context=PC&vid=974WCMCIQ_INST:VU1&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=creator%2Cexact%2C%20D'Emidio%2C%20Laura%20%2CAND&facet=creator%2Cexact%2C%20D'Emidio%2C%20Laura%20&mode=advanced)                       |
 | Author          | Marta Berra, Francesca Armillotta, Laura D'Emidio, Antonietta Costantino, Giuseppe Martorana, Giuseppe Pelusi, Maria Cristina Meriggiola                               |
 | Region          | 澳大利亚                               |
 | Date            | 2006-11                                 |

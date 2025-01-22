@@ -49,8 +49,8 @@ Naoko对于Mariko开诚布公的做法表示认同，她坚持认为：“接受
 |-----------------|----------------------------------------|
 | Filename        | jandan_男人心中都有一个公主梦：论异装癖的觉醒和异_____-_煎蛋.md                             |
 | Size            | 4237 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://jandan.net/p/52995](http://jandan.net/p/52995)                       |
 | Author          | 小脑袋                               |
 | Region          | 日本                               |
 | Date            | 2014-06-10                                 |

@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细探讨了生殖器外观不典型（性发育差异，DSD）婴儿的治疗问题。性发育差异是指患儿的外生殖器外观与其性腺和染色体性别之间的先天不一致，约每4500名出生婴儿中会有1名需要评估的DSD案例。文章强调，婴儿的生殖器外观不典型会带来一系列独特且复杂的问题，治疗决定通常依赖于多种因素，包括基因、激素暴露以及家庭和社会因素。过去的治疗往往基于生育能力的潜力，可能会导致难以逆转的手术，然而，现有的临床数据可以帮助预测患儿成年后的性别认同情况，从而指导早期的治疗决策。在阐述治疗中存在的问题时，文件提到了在家庭与专业医疗团队之间制定知情决策的重要性。最后，文件还介绍了性发育差异的专业术语及其变化，强调了精确诊断的重要性，而不是笼统的归为DSD。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_生殖器外观不典型_性发育差异_婴儿的治疗-_UpToDate.md                             |
 | Size            | 6036 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.uptodate.com/contents/zh-Hans/management-of-the-infant-with-atypical-genital-appearance-difference-of-sex-development](https://www.uptodate.com/contents/zh-Hans/management-of-the-infant-with-atypical-genital-appearance-difference-of-sex-development)                       |
+| Author          | UpToDate, Inc.                               |
+| Region          | 未知                               |
+| Date            | 2023-05-12                                 |
+| Tags            | 性发育差异, 生殖器外观不典型, 医疗资源, 婴儿治疗, 家庭医学, 性别认同, 法律政策, 医患沟通, 健康信息, 性别多元性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

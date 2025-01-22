@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了演员姜皓文在电影《翠丝》中与跨性别人士相关的演出体验及其心路历程。姜皓文获得了香港电影金像奖最佳男配角，并为这部以跨性别主题为主的电影付出了极大的努力。文章分享了姜皓文如何面对角色转变及其在表现跨性别人士心境上的挑战，并提到了与电影美术指导张蚊的合作。此外，文章还包含了相关视频链接和对姜皓文演艺生涯的肯定。整体上，该文献反映了对跨性别议题的关注以及在影视作品中反映这些议题的必要性，展示了跨性别人士的生存现状与艺术表达。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_姜皓文：演活跨性別人士的心路歷程｜Unexpected_Fashion_Icon.md                             |
 | Size            | 1891 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mings.hk/%E5%A7%9C%E7%9A%93%E6%96%87-unexpected-fashion-icons-224058/](https://www.mings.hk/%E5%A7%9C%E7%9A%93%E6%96%87-unexpected-fashion-icons-224058/)                       |
+| Author          | MING'S                               |
+| Region          | 香港                               |
+| Date            | 2018-11-15                                 |
+| Tags            | 姜皓文, 跨性别, 影视作品, 心路历程, 翠丝, 香港电影金像奖, Unexpected Fashion Icon, 跨性别人士, 社会认同, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

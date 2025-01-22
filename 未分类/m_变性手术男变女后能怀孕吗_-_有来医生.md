@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性手术男变女后能怀孕吗_-_有来医生.md                             |
 | Size            | 1237 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.youlai.cn/video/article/35BE63UUOk.html](https://m.youlai.cn/video/article/35BE63UUOk.html)                       |
 | Author          | 潘柏林整形外科副主任医师                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-09-02                                 |

@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hnxsxfy_变性人可否结婚？_-_湖南省新邵县人民法院.md                             |
 | Size            | 4125 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://hnxsxfy.hunancourt.gov.cn/article/detail/2015/10/id/1782876.shtml](http://hnxsxfy.hunancourt.gov.cn/article/detail/2015/10/id/1782876.shtml)                       |
 | Author          | 罗君君                               |
 | Region          | 湖南省                               |
 | Date            | 2015-10-28                                 |

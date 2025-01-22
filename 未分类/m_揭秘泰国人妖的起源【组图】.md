@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//rs2.huanqiucdn.cn/huanqiucdn/huanqiu/image/m/share.jpg)
+![](https://rs2.huanqiucdn.cn/huanqiucdn/huanqiu/image/m/share.jpg)
 
 在泰国，几乎只有穷人家的孩子才会当人妖，看不到未来、穷慌了的父母，会把家里长相清秀的男孩当女孩养，寄望“她”长大後可以成为一棵养家的摇钱树，而“她”悲惨的命运，在两、三岁时就被决定了。面目清秀、漂亮的男孩，在七、八岁时就被送进人妖专门“培训”机构。
 
@@ -19,7 +19,7 @@
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083740278.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083740278.jpg?imageView2/2/w/750)
 
 还有一种说法则是从泰国本身的历史来解释这一现象，泰国是一个性文化悠久泛滥的国度，泰国女子对待性生活的态度与中国大相径庭，泰国是个典型笑贫不笑娼的国度，因此凡女子从事情服务业，一般是不会受到多大指责的，尤其是在芭堤雅，清迈，曼谷等城市。
 
@@ -31,7 +31,7 @@
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741474.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741474.jpg?imageView2/2/w/750)
 
 原来泰国人妖的起源是由于二次世界大战，美国驻泰国士兵召妓，泰国家中没有女孩的父母就使孩子变性，以赚取美军的钱，因为变性人不会怀孕，所以美军更加喜欢，但随着时代改变，泰国变性人已从过去父母强迫变成是个人自由意愿!
 
@@ -41,40 +41,40 @@
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741812.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741812.jpg?imageView2/2/w/750)
 
 十多年后，男性生理特征便逐渐萎缩，如男性阳具，就会变得又短又小，而皮肤就会变得细润，有光泽，臀部，胸部会越发达，像女性一样，肌肉减少，皮下脂肪增多，皮肤富于弹性，胸乳增长快的，比普通女性还高耸，浑圆，挺拔，在这期间，学校便要教授许多技艺。
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741881.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741881.jpg?imageView2/2/w/750)
 
 别相信你的眼睛，误以为左边是一位帅哥，右边是一位美女。左边这一位名叫Zee，泰国当下人气广告模特，标准的女性。而右边这一位名叫Poy，在泰国享有极高的人气。男儿身的他在17岁变性，成为红遍网络的泰国人妖皇后。
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741985.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741985.jpg?imageView2/2/w/750)
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741234.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742719.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742628.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742140.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742327.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743928.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743485.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743264.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743503.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744295.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083741234.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742719.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742628.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742140.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083742327.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743928.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743485.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743264.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083743503.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744295.jpg?imageView2/2/w/750)
 
 (来源:华声在线)
 
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744591.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744923.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744221.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744839.jpg?imageView2/2/w/750)
-![](//himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083745469.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744591.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744923.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744221.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083744839.jpg?imageView2/2/w/750)
+![](https://himg2.huanqiucdn.cn/attachment2010/2012/0529/20120529083745469.jpg?imageView2/2/w/750)
 
 (来源:华声在线)
 <!-- tcd_original_link https://m.huanqiu.com/article/9CaKrnJvBl7 -->
@@ -94,8 +94,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_揭秘泰国人妖的起源【组图】.md                             |
 | Size            | 6610 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huanqiu.com/article/9CaKrnJvBl7](https://m.huanqiu.com/article/9CaKrnJvBl7)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | culture_彻底的“角色转换”_南方网_-_文化.md                             |
 | Size            | 6399 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://culture.southcn.com/node_dc1e5bf0b1/61b91efd7b.shtml](https://culture.southcn.com/node_dc1e5bf0b1/61b91efd7b.shtml)                       |
 | Author          | 潮白                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-05-28                                 |

@@ -207,7 +207,7 @@ Lehmiller报告发现，浪漫的性幻想在他的调查的年轻受访者中�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了性幻想的正常性以及七种常见的性幻想类型，强调无论是多伴侣性行为、占主导的性行为，还是在公共场所进行性行为，这些幻想都是普遍存在的心理现象。文中指出，性幻想可以帮助人们更好地理解自己的性需求和欲望，同时也增加了伴侣之间的情感联系。论文引用了多项研究，表明性幻想不仅正常而且与心理健康相关。文章进一步探讨了与伴侣讨论性幻想时的注意事项，包括建立同意和讨论界限，确保双方都能在安全和愉悦的氛围中探索这些想法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -218,12 +218,12 @@ Lehmiller报告发现，浪漫的性幻想在他的调查的年轻受访者中�
 |-----------------|----------------------------------------|
 | Filename        | www_性幻想是完全正常的，这是7种最常见的性幻想_-_健身器材.md                             |
 | Size            | 11931 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.fitness-china.cn/common-sexual-fantasies](https://www.fitness-china.cn/common-sexual-fantasies)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-01-25                                 |
+| Tags            | 性幻想, 多伴侣性行为, 占主导性行为, 公共场所性行为, 角色扮演, 性别弯曲, 性健康, 心理健康, 性教育, 欲望                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

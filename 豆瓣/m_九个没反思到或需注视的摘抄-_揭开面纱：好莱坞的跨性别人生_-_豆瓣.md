@@ -111,8 +111,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_九个没反思到或需注视的摘抄-_揭开面纱：好莱坞的跨性别人生_-_豆瓣.md                             |
 | Size            | 9428 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/12932553/](https://m.douban.com/movie/review/12932553/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖打排球-_豆瓣-_当金星成为偶像明星，说明我们的时代进步了.md                             |
 | Size            | 1859 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/8020210/](https://m.douban.com/movie/review/8020210/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

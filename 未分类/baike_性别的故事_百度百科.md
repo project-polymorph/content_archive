@@ -84,8 +84,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_性别的故事_百度百科.md                             |
 | Size            | 2494 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E7%9A%84%E6%95%85%E4%BA%8B/9116904](https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E7%9A%84%E6%95%85%E4%BA%8B/9116904)                       |
 | Author          | 身边的科学人体的奥秘编委会                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-01-01                                 |

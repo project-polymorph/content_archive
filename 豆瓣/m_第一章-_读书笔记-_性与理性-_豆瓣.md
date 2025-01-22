@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_第一章-_读书笔记-_性与理性-_豆瓣.md                             |
 | Size            | 2611 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/annotation/71425772](https://m.douban.com/book/annotation/71425772)                       |
 | Author          | 阿禾                               |
 | Region          | 未知                               |
 | Date            | 2019-02-20                                 |

@@ -41,8 +41,8 @@ _資料: [New York Post](https://nypost.com/2022/01/08/lia-thomas-defeated-by-fe
 |-----------------|----------------------------------------|
 | Filename        | fitz_跨性別運動員爭議不斷，美國游泳賽「男跨女」vs「女跨男」.md                             |
 | Size            | 2365 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://fitz.hk/sports/swimming/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%8B%E5%8B%95%E5%93%A1%E7%88%AD%E8%AD%B0%E4%B8%8D%E6%96%B7%EF%BC%8C%E7%BE%8E%E5%9C%8B%E6%B8%B8%E6%B3%B3%E8%B3%BD%E3%80%8C%E7%94%B7%E8%B7%A8%E5%A5%B3%E3%80%8Dvs%E3%80%8C/](https://fitz.hk/sports/swimming/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%81%8B%E5%8B%95%E5%93%A1%E7%88%AD%E8%AD%B0%E4%B8%8D%E6%96%B7%EF%BC%8C%E7%BE%8E%E5%9C%8B%E6%B8%B8%E6%B3%B3%E8%B3%BD%E3%80%8C%E7%94%B7%E8%B7%A8%E5%A5%B3%E3%80%8Dvs%E3%80%8C/)                       |
 | Author          | 张伯伦                               |
 | Region          | 美国                               |
 | Date            | 2022-01-08                                 |

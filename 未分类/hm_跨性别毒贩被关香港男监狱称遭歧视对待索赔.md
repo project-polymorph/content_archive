@@ -47,8 +47,8 @@ Navarro又称，每次往医院前均要在惩教人员面前露出胸部。香�
 |-----------------|----------------------------------------|
 | Filename        | hm_跨性别毒贩被关香港男监狱称遭歧视对待索赔.md                             |
 | Size            | 2328 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://hm.people.com.cn/n/2015/0614/c42272-27151610.html](http://hm.people.com.cn/n/2015/0614/c42272-27151610.html)                       |
 | Author          | 中国侨网                               |
 | Region          | 香港                               |
 | Date            | 2015-06-14                                 |

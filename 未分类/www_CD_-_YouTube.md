@@ -79,7 +79,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于多元性别相关视频的集合，作者为hehua mo。内容涵盖了64个播放视频，涉及化妆教程、跨性别经历、女装等主题。其中包括一些知名频道如Vogue、Hello Catie和GIGGLE发布的视频，观看次数从数千到数百万不等。视频中有关于跨性别者的生活和化妆技巧的分享，展示了多元性别群体的生活和文化现象。文件中也附带了相关视频的播放列表和详细的观看信息，反映了多元性别在当今社会的各种表现和接受程度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -90,12 +90,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_CD_-_YouTube.md                             |
 | Size            | 2261 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/playlist?list=PLgslGZGAt4IaVyqpYLr9B_RXsrAPMUfbF](https://www.youtube.com/playlist?list=PLgslGZGAt4IaVyqpYLr9B_RXsrAPMUfbF)                       |
+| Author          | hehua mo                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 跨性别, 女装大佬, 伪娘, 化妆教程, 视频合集, 文化现象, 生活经验, 视频分享, 社交媒体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

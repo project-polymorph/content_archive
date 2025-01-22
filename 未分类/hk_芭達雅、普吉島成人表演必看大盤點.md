@@ -187,8 +187,8 @@ HK$273.57
 |-----------------|----------------------------------------|
 | Filename        | hk_芭達雅、普吉島成人表演必看大盤點.md                             |
 | Size            | 11182 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hk.trip.com/blog/thai-adult-show/](https://hk.trip.com/blog/thai-adult-show/)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2024-11-12                                 |

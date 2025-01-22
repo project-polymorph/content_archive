@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该视频探讨了泰国人妖在接待游客时为何选择服用避孕药这一独特现象。尽管泰国人妖的生理性别为男性，但他们在社会和文化中常常承担着女性角色。视频通过采访和生活记录，揭示了这种现象背后的社会文化背景和人妖的生活选择。视频还结合了评论区的讨论，反映了公众对人妖这一群体及其生活方式的各种看法。通过此片，观众能够更深入理解多元性别的复杂性以及性别认同在不同文化中的差异。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰國人妖明明是男兒身，接待遊客時，爲何要喫避孕藥？_-_YouTube.md                             |
 | Size            | 690 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=9F6axZBPG0Q](https://www.youtube.com/watch?v=9F6axZBPG0Q)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 泰国人妖, 性别多元, 避孕药, 社会文化, 人妖生活, 性别认同, 多元性别, 旅游, 社会现象, 评论区讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

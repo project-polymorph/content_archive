@@ -32,8 +32,8 @@ _（责任编辑：薛白、乔雪峰)_
 |-----------------|----------------------------------------|
 | Filename        | finance_组图：揭秘泰国“第三性”的生存状态！【4】.md                             |
 | Size            | 1790 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://finance.people.com.cn/n/2013/0121/c1004-20270217-4.html](http://finance.people.com.cn/n/2013/0121/c1004-20270217-4.html)                       |
 | Author          | 光明网                               |
 | Region          | 泰国                               |
 | Date            | 2013-01-21                                 |

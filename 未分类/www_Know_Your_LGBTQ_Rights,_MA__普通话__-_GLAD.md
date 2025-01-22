@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档提供了关于马萨诸塞州LGBTQ群体权利的重要信息，详细介绍了该州的法律框架，包括对性取向和性别身份的保护，具体条款包括禁止在就业、住房、医疗和教育等领域的歧视。此外，文中还提到LGBTQ个体在抚养孩子和进行身份文件更改方面的权利情况，以及艾滋病毒检测的法律规定。内容还涵盖了关于跨性别者获取医疗服务及其法律保护的重要信息，确保读者了解到在马萨诸塞州作为LGBTQ成员所拥有哪些权利和资源，旨在提高对法律的认识和保护。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,12 +96,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_Know_Your_LGBTQ_Rights,_MA__普通话__-_GLAD.md                             |
 | Size            | 5230 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.glad.org/kyr-lgbtq-sc/](https://www.glad.org/kyr-lgbtq-sc/)                       |
+| Author          | GLAD                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ权利, 马萨诸塞州, 法律保护, 性别身份, 性取向, 医疗服务, 艾滋病毒, 抚养权利, 身份更改, 反歧视法                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

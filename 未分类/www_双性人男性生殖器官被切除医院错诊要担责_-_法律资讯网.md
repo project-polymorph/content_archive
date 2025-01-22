@@ -64,7 +64,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细记录了一名被诊断为双性人的患者因医院错诊而经历的医疗事故及其法律后果。患者出生时被认为是女孩，直到16岁因体育体检时偶然发现其性别为男性，才了解到自己的真实性别是男性。这一切的根源可追溯到两岁时因先天性疾病而接受的睾丸切除手术。文章详细描述了患者家庭的痛苦与医疗过程中的种种失误，包括医院未进行必要的染色体检查与不当的病情告知。最终，经过长达三年的法律诉讼，法院判决医院因错误诊断承担部分责任，并需赔偿患者损失。通过这篇文章，我们能够从一个具体案例中，看到医疗系统在处理双性人患者时对性别认定及医疗判断的重要性，以及社会对双性人群体的关注与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -75,12 +75,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_双性人男性生殖器官被切除医院错诊要担责_-_法律资讯网.md                             |
 | Size            | 4458 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.dyzxw.org/html/article/201307/18/137704.shtml](http://www.dyzxw.org/html/article/201307/18/137704.shtml)                       |
+| Author          | 张茂玉                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-07-18                                 |
+| Tags            | 双性人, 医疗事故, 法律责任, 性别认同, 医疗失误, 医院管理, 体育体检, 心理压力, 先天性疾病, 医院赔偿                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

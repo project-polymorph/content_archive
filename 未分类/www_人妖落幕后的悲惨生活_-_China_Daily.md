@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《人妖落幕后的悲惨生活》的报道，发表于2011年8月1日，源自《中国日报》。文章主要探讨了在泰国广为人知的人妖群体的生活状况及其背后的社会文化背景。泰国的人妖通常在社会中被视作特立独行的存在，但法律上却被归类为男性，造成了其身份认同的复杂性。由于其独特的性别认同以及生活环境，他们的生活虽然表面上光鲜亮丽，实际上却面临着诸多困境，如社会的歧视和经济的困境。文中提到，曼谷和芭堤雅是人妖活动的主要城市，芭堤雅甚至有两个著名的人妖歌舞艺术团供游客观看。这不仅是对人妖表演艺术的展示，更是反映了社会对性别与性身份诸多讨论的窗口。基于以上内容，本文旨在揭示那些在光鲜外表下隐藏的悲惨现实。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,12 +38,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_人妖落幕后的悲惨生活_-_China_Daily.md                             |
 | Size            | 1201 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.chinadaily.com.cn/dfpd/2011-08/01/content_13023585.htm](http://www.chinadaily.com.cn/dfpd/2011-08/01/content_13023585.htm)                       |
+| Author          | China Daily                               |
+| Region          | 泰国                               |
+| Date            | 2011-08-01                                 |
+| Tags            | 多元性别, 人妖, 性别认同, 社会文化, 泰国, 生活状况, 艺术表演, 社会歧视, 性别政策, 性别身份                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

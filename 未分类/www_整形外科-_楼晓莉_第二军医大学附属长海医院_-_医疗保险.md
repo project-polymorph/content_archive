@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了楼晓莉医生的专业背景和医疗服务，包括她在第二军医大学附属长海医院的整形外科执业信息。楼晓莉医生是一位主治医生，专业领域涵盖变性手术、鼻部整形、烧伤治疗及耳部整形等。她拥有丰富的整形美容和外科整复经验，能够处理腋臭、先天畸形整复和后天缺陷、体表肿瘤治疗及组织移植等多种医疗需求。文中也列出了该医院与多家保险公司的合作，简要介绍了能够提供的医疗保险服务，以方便就医者获得更为完善的医疗保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_整形外科-_楼晓莉_第二军医大学附属长海医院_-_医疗保险.md                             |
 | Size            | 1563 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.360worldcare.com/physician-130960.html](https://www.360worldcare.com/physician-130960.html)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 整形外科, 变性手术, 医疗资源, 医疗保险, 医生简介, 第二军医大学, 楼晓莉, 整形美容, 相关医疗经验, 耳部整形                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了美国总统特朗普在2017年7月公布的一项政策，决定再次禁止变性人公开在美国军队服役。这一决定在社交媒体上引发广泛争议，许多美民权组织和LGBT群体对此表达不满。报道中提到特朗普的声明以及相关的反响，包括民众的示威活动和立法者的批评。此外，支持该禁令的声音也被提及，认为将医疗和资源专注于非变性人军事服务是合理的。这项禁令在实施前一年刚被废除，因此其影响和后果仍在讨论中。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_特朗普欲再推变性人服役禁令美议员：十分丑陋.md                             |
 | Size            | 13090 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap](https://news.sina.cn/2017-07-28/detail-ifyinwmp0425126.d.html?from=wap)                       |
+| Author          | 环球网                               |
+| Region          | 美国                               |
+| Date            | 2017-07-28                                 |
+| Tags            | 特朗普, 变性人, 服役禁令, LGBT, 民权组织, 美国军队, 医疗费用, 社会歧视, 法律政策, 政治争议                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

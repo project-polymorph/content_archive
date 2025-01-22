@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于变性人在处理原婚姻关系方面的法律解答，提供了民政部的官方意见。文中提到，如果夫妻一方进行了变性手术，如何处理婚姻关系的问题。民政部明确表示变性人的婚姻登记是合法有效的，但在处理解除婚姻关系时，可以参照协议离婚的模式。文章中举例了杨某与游某的案例，说明了在变性之后如何合情合理地申请解除婚姻关系。在这份法律意见中，民政部强调，尽管变性手术逐渐被认可，但相关法律仍需进一步完善，以便更好地服务于这一特殊群体。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zqb_民政部解答：变性人怎样处理原婚姻关系_-_中国青年报.md                             |
 | Size            | 3282 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zqb.cyol.com/content/2003-01/17/content_598709.htm](https://zqb.cyol.com/content/2003-01/17/content_598709.htm)                       |
+| Author          | 中国青年报                               |
+| Region          | 中国大陆                               |
+| Date            | 2003-01-17                                 |
+| Tags            | 变性人, 婚姻关系, 法律政策, 民政部, 性别认同, 变性手术, 协议离婚, 案例分析, 婚姻登记, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

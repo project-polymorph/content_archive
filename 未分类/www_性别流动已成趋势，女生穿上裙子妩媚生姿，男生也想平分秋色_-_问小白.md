@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了近年来性别流动的趋势，以及男性穿裙子这一现象的文化背景和心理动机。在2023年纽约时装周上，男模们穿着各式裙装走在T台上，引发了对性别流动的广泛讨论。文章指出，男性穿裙子的现象在历史上从未缺席，早在商代男性就已穿裙，这一传统在现代社会中得到复兴。文章从多个角度探讨了男性穿裙的原因，包括自我表达、挑战社会规范和追求舒适感等，强调这种现象反映了社会对性别多样性的日益包容与尊重。尽管存在一定争议，文章主张性别流动趋势是社会进步的体现，提倡开放和包容的态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性别流动已成趋势，女生穿上裙子妩媚生姿，男生也想平分秋色_-_问小白.md                             |
 | Size            | 2948 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wenxiaobai.com/api/expends/detail?article=fddafebd-0c75-4f99-931d-eaaa17060c7b](https://www.wenxiaobai.com/api/expends/detail?article=fddafebd-0c75-4f99-931d-eaaa17060c7b)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-09-02                                 |
+| Tags            | 性别流动, 男性穿裙子, 性别角色, 历史文化, 自我表达, 社会规范, 性别多样性, 包容性, 纽约时装周, 社会运动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

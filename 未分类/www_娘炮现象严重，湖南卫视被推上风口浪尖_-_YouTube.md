@@ -19,7 +19,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了“娘炮”现象及其对社会的影响，主要以湖南卫视为例，探讨媒体在芸芸众生中的责任。作者指出，近年来娱乐圈中男演员越来越受欢迎的女性化形象（即娘炮）使得社会对男性气质的认知出现了偏差，令人担忧。《娘炮误国》的说法并非无的放矢，湖南卫视等主流媒体在艺人选择和节目内容上未能适当引导，导致这一现象的加剧。文章强调，媒体在为收视率和利益考虑时应更加强调正确的价值观与社会责任，反对错误观念的传播。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -30,12 +30,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_娘炮现象严重，湖南卫视被推上风口浪尖_-_YouTube.md                             |
 | Size            | 1872 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=TGF9pkrkQ4M](https://www.youtube.com/watch?v=TGF9pkrkQ4M)                       |
+| Author          | 忒有料                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-09-25                                 |
+| Tags            | 娘炮, 湖南卫视, 性别身份, 媒体责任, 娱乐圈, 社会影响, 男性形象, 价值观, 文化现象, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

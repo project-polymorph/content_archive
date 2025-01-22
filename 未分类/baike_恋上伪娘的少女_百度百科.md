@@ -66,8 +66,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_恋上伪娘的少女_百度百科.md                             |
 | Size            | 2093 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E6%81%8B%E4%B8%8A%E4%BC%AA%E5%A8%98%E7%9A%84%E5%B0%91%E5%A5%B3/22277233](https://baike.baidu.com/item/%E6%81%8B%E4%B8%8A%E4%BC%AA%E5%A8%98%E7%9A%84%E5%B0%91%E5%A5%B3/22277233)                       |
 | Author          | 岛崎无印                               |
 | Region          | 日本                               |
 | Date            | 未知                                 |

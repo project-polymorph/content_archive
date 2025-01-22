@@ -3,13 +3,13 @@
 ## 正文 { data-search-exclude }
 
 
-![](//n.sinaimg.cn/sinakd10203/358/w179h179/20200407/2e40-irtymmw7857041.jpg)
+![](https://n.sinaimg.cn/sinakd10203/358/w179h179/20200407/2e40-irtymmw7857041.jpg)
 
 ## 二三里资讯 { data-search-exclude }
 
 二三里资讯重庆 2005.11.16 06:47
 
-![](//z2.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fw%2F2005-11-16%2F8d83f43cb1dc16a2b9a6d519cf29a8f8.JPG&size=328_218)
+![](https://z2.sinaimg.cn/auto/resize?img=http%3A%2F%2Fimage2.sina.com.cn%2Fdy%2Fw%2F2005-11-16%2F8d83f43cb1dc16a2b9a6d519cf29a8f8.JPG&size=328_218)
 
 “变性美女”钟洁希和男友马思健据马来西亚媒体14日报道，11月12日，马来西亚古晋市“变性美女”钟洁希在3名牧师的见证下，嫁给了向自己6次求婚的男友马思健，两人在古晋市河畔皇冠酒店举办了隆重的婚礼，设宴86席款待近千名亲朋好友。然而，这对变性夫妇的婚姻并不被马来西亚法律所认可，两人无法拿到有效的政府结婚证书。
 
@@ -17,21 +17,21 @@
 
 马思健苦苦追求了3年，连续进行了6次求婚，才终于感动钟洁希的“芳心”，使她答应自己的求婚。据钟洁希称，她一直不敢接受马思健的求婚，主要是因为担心男方的家长会反对，因为她毕竟是一名变性人，无法为男方家庭传宗接代，生儿育女。欧阳
 
-![](//n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
 
 ## 相关视频 { data-search-exclude }
 
-![](//z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/007ZwuKJly1hxsa3hm67gj30zk0k0ta1.jpg&size=370_207&bgf=1&bgc=%23000000)
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/007ZwuKJly1hxsa3hm67gj30zk0k0ta1.jpg&size=370_207&bgf=1&bgc=%23000000)
 
 **韩正出席美国总统就职典礼** 780506次播放  
 > 02:17
 
-![](//z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/007ZwuKJly1hxs52jlntzj30za0k03z8.jpg&size=370_207&bgf=1&bgc=%23000000)
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/007ZwuKJly1hxs52jlntzj30za0k03z8.jpg&size=370_207&bgf=1&bgc=%23000000)
 
 **赖清德派大型代表团，不到24小时大陆宣布，台“邦交”或集体转向** 472706次播放  
 > 02:24
 
-![](//z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/006WAXimly1hxsdm9sxbjj31hc0u01kx.jpg&size=370_207&bgf=1&bgc=%23000000)
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/006WAXimly1hxsdm9sxbjj31hc0u01kx.jpg&size=370_207&bgf=1&bgc=%23000000)
 
 **宣誓就职，狂签行政令……特朗普2.0将如何搅动全球秩序？** 103667次播放  
 > 04:06
@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了马来西亚变性美女钟洁希与男友马思健的婚礼故事。婚礼于2005年11月12日在古晋市举行，尽管他们的爱情经历了男方的六次求婚，但由于马来西亚法律不承认变性人的婚姻，钟洁希和马思健无法取得有效的结婚证书。婚礼上，钟洁希身穿华丽礼服，以歌手和天然保健公司创始人的身份吸引了众多宾客的目光。她原本是一名男儿身，在经历变性手术后摇身变为一名美丽的女性。尽管他们在亲友见证下举行了隆重的婚礼，但钟洁希仍然对其身份带来的社会压力表示担忧，尤其是对男方家庭的可能反对。本文反映了变性人群体在社会和法律环境中的困境与挑战，揭示了变性人追求爱情与接受自身身份之间的挣扎。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_马来“变性美女”嫁给帅哥_图_.md                             |
 | Size            | 4363 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5114010.d.html](https://news.sina.cn/sa/2005-11-16/detail-ikkntiam5114010.d.html)                       |
+| Author          | 未知                               |
+| Region          | 马来西亚                               |
+| Date            | 2005-11-12                                 |
+| Tags            | 变性, 婚礼, 社会挑战, 性别认同, 法律问题, 马来西亚, 爱情故事, 变性人经历, 钟洁希, 马思健                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -61,8 +61,8 @@ FtM.wiki 是一个致力于为跨性别男性（FtM）群体提供信息与支�
 |-----------------|----------------------------------------|
 | Filename        | ftm_FtM.wiki.md                             |
 | Size            | 2389 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ftm.wiki/zh-cn/](https://ftm.wiki/zh-cn/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -33,7 +33,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了变性人结婚所引发的法律问题，尤其是在中国的变性人婚姻登记的历史和现状。文件首先介绍了四川变性人章琳与杨启成的婚礼，标志着中国首例变性人婚姻。通过对性和性别之间的区别的探讨，提出了生物学性别和心理性别的定义，并强调了对变性人心理状况的关注。文中引用了Harry Benjamin博士的话，提醒我们要认识到性别自认与生物性别之间的复杂关系。接着，文件回顾了变性现象的历史以及相关法律案例，如Corbett v.Corbett案在英国的影响，解析了各国对变性人性别鉴定的不同法律方法，包括生物学方法和心理学方法。最后，提到英国、美国和日本的相关法律变化，显示出国际社会对变性人权利认知的逐步演变。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -44,12 +44,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“变性人结婚”引发的法律问题-法搜_-_FSou.Com.md                             |
 | Size            | 5261 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.fsou.com/Html/text/art/3355695/335569519.html](http://www.fsou.com/Html/text/art/3355695/335569519.html)                       |
+| Author          | 朱伟东                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 婚姻法律, 性别认同, 性与性别, 法律案例, 心理健康, 讨伐歧视, 国际法律, 性别识别法案, 心理性别与生物性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

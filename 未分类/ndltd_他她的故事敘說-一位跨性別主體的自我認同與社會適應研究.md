@@ -109,8 +109,8 @@ This research is to explore the self-identification and social adaptation of the
 |-----------------|----------------------------------------|
 | Filename        | ndltd_他她的故事敘說-一位跨性別主體的自我認同與社會適應研究.md                             |
 | Size            | 6297 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ndltd.ncl.edu.tw/r/86033192908782357322](https://ndltd.ncl.edu.tw/r/86033192908782357322)                       |
 | Author          | 林家慧                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

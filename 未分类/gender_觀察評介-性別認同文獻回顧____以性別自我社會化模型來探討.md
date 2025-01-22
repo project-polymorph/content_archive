@@ -90,8 +90,8 @@
 |-----------------|----------------------------------------|
 | Filename        | gender_觀察評介-性別認同文獻回顧____以性別自我社會化模型來探討.md                             |
 | Size            | 5474 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://gender.psc.ntu.edu.tw/%E8%A7%80%E5%AF%9F%E8%A9%95%E4%BB%8B-%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E6%96%87%E7%8D%BB%E5%9B%9E%E9%A1%A7%E2%94%80%E2%94%80%E4%BB%A5%E6%80%A7%E5%88%A5%E8%87%AA%E6%88%91%E7%A4%BE%E6%9C%83%E5%8C%96/](https://gender.psc.ntu.edu.tw/%E8%A7%80%E5%AF%9F%E8%A9%95%E4%BB%8B-%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E6%96%87%E7%8D%BB%E5%9B%9E%E9%A1%A7%E2%94%80%E2%94%80%E4%BB%A5%E6%80%A7%E5%88%A5%E8%87%AA%E6%88%91%E7%A4%BE%E6%9C%83%E5%8C%96/)                       |
 | Author          | 郑颖泽（国立交通大学教育研究所教育心理学组硕士班研究生）                               |
 | Region          | 台湾                               |
 | Date            | 2021-10-08                                 |

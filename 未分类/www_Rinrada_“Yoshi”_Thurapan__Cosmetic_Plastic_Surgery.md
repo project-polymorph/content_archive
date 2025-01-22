@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了泰国著名跨性别模特Rinrada 'Yoshi' Thurapan的生活和职业生涯。Yoshi是一个在传播艺术领域的学生，因在泰国和国际上的模特工作而兼具知名度。她在18岁时便成为了泰国高端消费品的代言人，并在2017年获得蒂芙尼宇宙小姐的冠军，随后在国际女王小姐选美中获得第三名的佳绩。她于2018年进行性别改变手术，成为跨性别女性，现如今，她积极分享自己的经历与选择，激励新一代跨性别者，鼓励他们追求自己的梦想。文章还附有多篇关于整形手术的评价链接，提供了更多的医疗资源和经验分享。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_Rinrada_“Yoshi”_Thurapan__Cosmetic_Plastic_Surgery.md                             |
 | Size            | 3035 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/blog/787/a-beauty-youtuber](https://www.kamolhospital.com/zh/blog/787/a-beauty-youtuber)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 模特, 医疗资源, 个人经历, 性别改变手术, LGBTQ权利, 人生故事, 泰国文化, 选美比赛, 整形手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

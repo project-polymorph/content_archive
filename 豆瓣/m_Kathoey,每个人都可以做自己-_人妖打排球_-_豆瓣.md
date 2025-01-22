@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Kathoey,每个人都可以做自己-_人妖打排球_-_豆瓣.md                             |
 | Size            | 1861 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/6065890/](https://m.douban.com/movie/review/6065890/)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

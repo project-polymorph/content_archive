@@ -70,7 +70,7 @@ _发表于 2014-7-28 22:24:02_ | 作者: [马玛丽](home.php?mod=space&uid=3521
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位游客在泰国观看人妖秀的经历，主要讲述了其对不同类型人妖表演的比较和个人所感受到的文化冲击。文章提到曼谷的曼波国际人妖秀与蒂芬妮人妖表演的对比，强调了后者的知名度和高质量表演。同时，作者描述了观赏过程中自己对表演者的感受，感慨人妖表演的多样性和文化特点，指出这些表演也反映了泰国社会对性别和性向的开放态度。此外，文中还附有丰富的表演照片，展现了人妖秀的精彩瞬间。整体而言，本文不仅是个体经历的分享，也是对文化表演的一次深刻观察与思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -81,12 +81,12 @@ _发表于 2014-7-28 22:24:02_ | 作者: [马玛丽](home.php?mod=space&uid=3521
 |-----------------|----------------------------------------|
 | Filename        | www_聊聊泰国人妖秀，涨姿势-_风情亚洲_Asia_-_Perfectravel_完美旅行网.md                             |
 | Size            | 2757 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.perfectravel.net/thread-1381-1-1.html](http://www.perfectravel.net/thread-1381-1-1.html)                       |
+| Author          | 马玛丽                               |
+| Region          | 泰国                               |
+| Date            | 2014-07-28                                 |
+| Tags            | 人妖秀, 泰国, 性别多元, 文化表演, 旅游经历, 生活故事, 性别研究, 社会观察, 文学艺术, 过渡经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

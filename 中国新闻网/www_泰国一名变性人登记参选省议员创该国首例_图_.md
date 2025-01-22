@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国一名变性人登记参选省议员创该国首例_图_.md                             |
 | Size            | 2190 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2012/04-25/3845828.shtml](https://www.chinanews.com.cn/gj/2012/04-25/3845828.shtml)                       |
 | Author          | 中国新闻网                               |
 | Region          | 泰国                               |
 | Date            | 2012-04-25                                 |

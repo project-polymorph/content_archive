@@ -22,7 +22,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件提供关于变性手术的详细信息和注意事项，特别强调了手术前的准备、手术过程中的注意事项，以及术后的相关治疗与护理。内容基于一位患者在京东互联网医院进行的在线咨询，患者向医生咨询变性手术的备案流程、费用、手术周期及可能出现的并发症等问题。医师展现了专业素养，详尽解答了患者的疑问，使患者在手术前对流程有了充分的了解。同时，文中提及咨询过程中医师遵守了医德和医疗法律，保护了患者隐私。该信息对于即将接受变性手术的患者具有重要的参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -33,12 +33,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_想了解变性手术的详细信息和注意事项_-_JD.com.md                             |
 | Size            | 1377 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/pccontent/993952613042185](https://www.jd.com/pccontent/993952613042185)                       |
+| Author          | 健康驿站                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-09-05                                 |
+| Tags            | 变性手术, 医疗咨询, 患者经历, 手术注意事项, 杨浦区, 医生解答, 医疗资源, 法律规范, 隐私保护, 京东健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -46,8 +46,8 @@ Copyright XINHUANET.com All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | news_泰国人妖彻底变性颜值爆表成真正“女人”（组图）_-_新华网.md                             |
 | Size            | 2291 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.xinhuanet.com/world/2016-01/25/c_128667424_5.htm](http://news.xinhuanet.com/world/2016-01/25/c_128667424_5.htm)                       |
 | Author          | 新华网                               |
 | Region          | 未知                               |
 | Date            | 2016-01-25                                 |

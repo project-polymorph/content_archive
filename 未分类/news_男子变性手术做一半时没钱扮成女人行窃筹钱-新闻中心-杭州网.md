@@ -70,8 +70,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_男子变性手术做一半时没钱扮成女人行窃筹钱-新闻中心-杭州网.md                             |
 | Size            | 3674 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.hangzhou.com.cn/shxw/content/2013-01/31/content_4590148.htm](https://news.hangzhou.com.cn/shxw/content/2013-01/31/content_4590148.htm)                       |
 | Author          | 记者裴晓兰                               |
 | Region          | 中国大陆                               |
 | Date            | 2013-01-31                                 |

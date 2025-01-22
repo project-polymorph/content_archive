@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cnews_变性后生出孩子！揭秘全球变性人_3__-_中国日报-_China_Daily.md                             |
 | Size            | 1560 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://cnews.chinadaily.com.cn/2016-05/11/content_25217934_3.htm](http://cnews.chinadaily.com.cn/2016-05/11/content_25217934_3.htm)                       |
 | Author          | 中国日报                               |
 | Region          | 未知                               |
 | Date            | 2016-05-11                                 |

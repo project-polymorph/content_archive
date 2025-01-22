@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖背后的故事小说「人妖背后的故事」_-_众人趣.md                             |
 | Size            | 6223 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.zr7.net/a/33416.html](http://m.zr7.net/a/33416.html)                       |
 | Author          | 众人趣                               |
 | Region          | 泰国                               |
 | Date            | 2023-05-28                                 |

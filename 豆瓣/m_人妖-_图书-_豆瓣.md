@@ -72,8 +72,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖-_图书-_豆瓣.md                             |
 | Size            | 3354 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/3197723/](https://m.douban.com/book/subject/3197723/)                       |
 | Author          | 劳伦斯·桑德斯                               |
 | Region          | 美国                               |
 | Date            | 1988-01-01                                 |

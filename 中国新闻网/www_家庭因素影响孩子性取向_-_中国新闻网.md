@@ -65,8 +65,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_家庭因素影响孩子性取向_-_中国新闻网.md                             |
 | Size            | 5491 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.chinanews.com.cn/edu/2011/10-18/3396944.shtml](https://www.chinanews.com.cn/edu/2011/10-18/3396944.shtml)                       |
 | Author          | 刘涛                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-10-18                                 |

@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_川普获胜后，马斯克的变性女儿宣布将要离开美国；地狱笑话来了_-_虎嗅.md                             |
 | Size            | 2947 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.huxiu.com/brief/205468.html](https://m.huxiu.com/brief/205468.html)                       |
 | Author          | 那个NG                               |
 | Region          | 美国                               |
 | Date            | 2024-11-08                                 |

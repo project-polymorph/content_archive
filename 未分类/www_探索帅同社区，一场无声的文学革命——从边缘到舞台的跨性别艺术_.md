@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了帅同社区作为一个独特的文化现象，聚焦于其在文学领域的表现与发展。帅同社区不仅仅是一个以性别认同为基础的群体，更是通过文字和艺术力量挑战社会偏见与传统观念的先锋。作者详细描述了帅同社区的作家们是如何在社会边缘叙述自己的生命故事，探讨性别身份及其复杂性。文中提到，这里的作品多种多样，从第一人称叙事到细腻的情感描写，再到对主流观念的批判，展现了这个社区对文学创作的开放性与多元化。尽管面临诸多挑战，帅同社区依然坚定不移地追求用文学实现自我表达与社会变革的愿望。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_探索帅同社区，一场无声的文学革命——从边缘到舞台的跨性别艺术_.md                             |
 | Size            | 2868 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.byglfj.com/post/13652.html](https://www.byglfj.com/post/13652.html)                       |
+| Author          | 渺琪                               |
+| Region          | 未知                               |
+| Date            | 2024-10-22                                 |
+| Tags            | 帅同社区, 跨性别艺术, 文学革命, 性别认同, 社会偏见, 文学创作, 同性恋男性, 网络小说, 文化变革, 自我表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

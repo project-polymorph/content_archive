@@ -95,8 +95,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_走异性的路让异性无路可走？6部跨性别经典电影_-_搜狐.md                             |
 | Size            | 6794 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://www.sohu.com/a/510793977_121234694](https://www.sohu.com/a/510793977_121234694)                       |
 | Author          | 墨黑三贼                               |
 | Region          | 未知                               |
 | Date            | 2021-12-22                                 |

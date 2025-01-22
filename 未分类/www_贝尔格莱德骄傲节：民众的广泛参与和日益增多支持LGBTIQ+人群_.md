@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了2023年9月9日在塞尔维亚贝尔格莱德举行的骄傲节游行，参与人数约为15,000人，游行活动旨在呼吁对LGBTIQ+群体人权的尊重。文章中引用了参与者的感言，如帕夫勒（Pavle）表示支持LGBTIQ+群体是他的责任，反映出人们对人权尊重的强烈诉求。骄傲节的口号是“我们离目标还很远”，充分展现了参会者的多样性，包括不同职业、性别和年龄的个体。该活动同时体现了历史的延续与社会的变迁，尽管骄傲节的历史曾遭受诸多挑战，但参与者的斗志与勇气促使更多人加入到支持这个运动的行列中。文中还特别提到盟友的重要性以及对未来法律保护的期待，如希望能通过有关性别认同和同性结合的法律。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,12 +99,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_贝尔格莱德骄傲节：民众的广泛参与和日益增多支持LGBTIQ+人群_.md                             |
 | Size            | 12293 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.unfe.org/zh/updates/belgrade-pride-massive-participation-and-increasing-allies-for-the-rights-of-lgbtiq-people](https://www.unfe.org/zh/updates/belgrade-pride-massive-participation-and-increasing-allies-for-the-rights-of-lgbtiq-people)                       |
+| Author          | 莎莎∙拉西克（Sasa Lazic）                               |
+| Region          | 塞尔维亚                               |
+| Date            | 2023-09-09                                 |
+| Tags            | LGBTIQ+, 骄傲节, 人权, 社会运动, 盟友, 平等, 塞尔维亚, 性别认同, 同性结合, 文艺表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

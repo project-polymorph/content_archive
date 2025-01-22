@@ -54,8 +54,8 @@ Copyright © 1997-2008 by www.people.com.cn. all rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | paper_“外星人”又回来了_-_环球人物-_人民网.md                             |
 | Size            | 3851 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://paper.people.com.cn/hqrw/html/2009-01/11/content_214762.htm](http://paper.people.com.cn/hqrw/html/2009-01/11/content_214762.htm)                       |
 | Author          | 罗雀                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-01-11                                 |

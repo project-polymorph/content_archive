@@ -90,8 +90,8 @@
 |-----------------|----------------------------------------|
 | Filename        | publish_變性手術健保有給付嗎跟著黃律師學法趣,_.md                             |
 | Size            | 6594 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://publish.get.com.tw/learning/lawyer/detail.aspx?sF=learning/lawyer/20081106&sT=%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E5%81%A5%E4%BF%9D%E6%9C%89%E7%B5%A6%E4%BB%98%E5%97%8E](https://publish.get.com.tw/learning/lawyer/detail.aspx?sF=learning/lawyer/20081106&sT=%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E5%81%A5%E4%BF%9D%E6%9C%89%E7%B5%A6%E4%BB%98%E5%97%8E)                       |
 | Author          | 黄律师                               |
 | Region          | 台湾                               |
 | Date            | 2008-08-28                                 |

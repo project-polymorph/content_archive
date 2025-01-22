@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cn_艺颂嗓音中心受邀参加澳大利亚变性人医疗保健研讨会.md                             |
 | Size            | 2273 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.yesonvc.com/bbs/board.php?bo_table=gallery&wr_id=75&page=2&sca=%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8&page=2](https://cn.yesonvc.com/bbs/board.php?bo_table=gallery&wr_id=75&page=2&sca=%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8&page=2)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2016-12-16                                 |

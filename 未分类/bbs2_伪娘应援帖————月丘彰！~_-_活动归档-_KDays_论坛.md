@@ -135,8 +135,8 @@ LV.3
 |-----------------|----------------------------------------|
 | Filename        | bbs2_伪娘应援帖————月丘彰！~_-_活动归档-_KDays_论坛.md                             |
 | Size            | 3767 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs2.kdays.net/read/51218](https://bbs2.kdays.net/read/51218)                       |
 | Author          | 秋雨霜                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-11-19                                 |

@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性男新闻.md                             |
 | Size            | 12852 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.ixigua.com/s/%E5%8F%98%E6%80%A7%E7%94%B7%E6%96%B0%E9%97%BB](https://m.ixigua.com/s/%E5%8F%98%E6%80%A7%E7%94%B7%E6%96%B0%E9%97%BB)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

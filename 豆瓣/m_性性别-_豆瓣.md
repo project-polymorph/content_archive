@@ -283,8 +283,8 @@ RT 有什么想知道的可以问，但是不友善的问题不会回答。谢�
 |-----------------|----------------------------------------|
 | Filename        | m_性性别-_豆瓣.md                             |
 | Size            | 15318 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/136249799/](https://m.douban.com/doulist/136249799/)                       |
 | Author          | SD1001                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-02-19                                 |

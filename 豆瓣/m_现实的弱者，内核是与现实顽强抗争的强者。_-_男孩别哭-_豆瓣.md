@@ -52,8 +52,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_现实的弱者，内核是与现实顽强抗争的强者。_-_男孩别哭-_豆瓣.md                             |
 | Size            | 7150 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/1641349/](https://m.douban.com/movie/review/1641349/)                       |
 | Author          | 泸州肥儿粉                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

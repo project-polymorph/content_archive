@@ -83,7 +83,7 @@ This article is issued from [Wikipedia](https://zh.wikipedia.org/wiki/?title=%E5
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细介绍了女性化激素疗法（HRT），尤其是针对跨性别女性（男性到女性，即MTF）的相关信息和实践。文件内容涵盖了HRT的目的、使用的药物（如雌激素、抗雄激素和孕激素）以及如何影响身体特征的变化，例如乳房的发育和身体脂肪分布等。此外，还提到了这一疗法在双性人群体中的应用和个体差异性，以及医务人员对于该疗法的专业咨询建议。值得注意的是，文件中干预的效果和可逆性也有罗列，部分青春期变化在HRT后仍可能无法逆转，需要进一步手术或其他治疗来达成期望的性别特征。整个文本是基于维基百科的资料，具有重要的参考价值，同时点明了使用的信息和数据的责任。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -94,12 +94,12 @@ This article is issued from [Wikipedia](https://zh.wikipedia.org/wiki/?title=%E5
 |-----------------|----------------------------------------|
 | Filename        | zh_女性化激素疗法.md                             |
 | Size            | 4622 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia-on-ipfs.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95](https://zh.wikipedia-on-ipfs.org/wiki/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 激素替代疗法, 跨性别女性, MTF, 雌激素, 性别认同, 医疗资源, 青春期变化, 双性人, 性别特征, 医疗咨询                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

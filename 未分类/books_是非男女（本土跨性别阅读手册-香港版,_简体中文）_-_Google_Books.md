@@ -56,8 +56,8 @@ Joanne出生于香港，原生性别为男，经历了四十多年的身份挣�
 |-----------------|----------------------------------------|
 | Filename        | books_是非男女（本土跨性别阅读手册-香港版,_简体中文）_-_Google_Books.md                             |
 | Size            | 3386 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://books.google.com/books/about/%E6%98%AF%E9%9D%9E%E7%94%B7%E5%A5%B3_%E6%9C%AC%E5%9C%9F%E8%B7%A8%E6%80%A7%E5%88%AB%E9%98%85%E8%AF%BB%E6%89%8B%E5%86%8C.html?id=tQsqAwAAQBAJ](https://books.google.com/books/about/%E6%98%AF%E9%9D%9E%E7%94%B7%E5%A5%B3_%E6%9C%AC%E5%9C%9F%E8%B7%A8%E6%80%A7%E5%88%AB%E9%98%85%E8%AF%BB%E6%89%8B%E5%86%8C.html?id=tQsqAwAAQBAJ)                       |
 | Author          | 梁詠恩 Joanne Leung，跨性别资源中心                               |
 | Region          | 香港                               |
 | Date            | 2008-01-01                                 |

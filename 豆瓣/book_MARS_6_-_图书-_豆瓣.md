@@ -98,8 +98,8 @@ ISBN: 9789573466192
 |-----------------|----------------------------------------|
 | Filename        | book_MARS_6_-_图书-_豆瓣.md                             |
 | Size            | 4503 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/2158825/](https://book.douban.com/subject/2158825/)                       |
 | Author          | Dong Li                               |
 | Region          | 中国大陆                               |
 | Date            | 2005-01-01                                 |

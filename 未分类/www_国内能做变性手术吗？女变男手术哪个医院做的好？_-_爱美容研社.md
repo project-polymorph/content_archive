@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了中国国内可以进行变性手术的医院信息，特别是西安国医中心的郭树忠教授在男性向女性（女变男）手术方面的专长和经验。文章首先介绍了国内开展变性手术的医院相对较少的现状，许多人可能选择去泰国或韩国医院进行手术。文件详细介绍了郭教授的技术背景，并提到他在手术中的主要团队成员。手术方法方面，文章讲述了前臂皮瓣游离移植技术以及其优势，比如能够塑造自然美观的外形和保留感觉。此外，文章中还包括了一些网友的评论，分享了他们对郭教授手术效果的看法和手术费用的讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,12 +83,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_国内能做变性手术吗？女变男手术哪个医院做的好？_-_爱美容研社.md                             |
 | Size            | 4722 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rongyanshe.com/article/4625.html](https://www.rongyanshe.com/article/4625.html)                       |
+| Author          | 鳗鱼宝                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-05-21                                 |
+| Tags            | 变性手术, 女变男, 医疗资源, 西安国医中心, 郭树忠教授, 性别重置手术, 整形外科, 网友评论, 医疗经验分享, 医学美学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

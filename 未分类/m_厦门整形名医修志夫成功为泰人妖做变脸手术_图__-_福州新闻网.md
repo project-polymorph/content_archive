@@ -48,8 +48,8 @@ Copyright © fznews.com.cn All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | m_厦门整形名医修志夫成功为泰人妖做变脸手术_图__-_福州新闻网.md                             |
 | Size            | 3075 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.fznews.com.cn/fujian/2006-11-8/20061180VF7UH0-RQ93153.shtml](https://m.fznews.com.cn/fujian/2006-11-8/20061180VF7UH0-RQ93153.shtml)                       |
 | Author          | 中国新闻网                               |
 | Region          | 中国大陆                               |
 | Date            | 2006-11-08                                 |

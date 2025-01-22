@@ -343,7 +343,7 @@ Supreme Topics
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了双性恋和泛性恋之间的区别，指出这两个标签在LGBTQ社区中所包含的细微差别。文章提到，双性恋通常被认为是对两种性别的吸引力，而泛性恋则强调对性别二元体系的拒绝，寻求包括所有性别认同的吸引力。文中提到许多人对这两个身份的看法和定义各不相同，有些人可能会根据不同的环境和观众选择使用这两个术语。作者通过阐述个人经历和与朋友的讨论，提供了对这两个术语的深入理解，并鼓励读者跟随自己的直觉，选择最适合自己的标签。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -354,12 +354,12 @@ Supreme Topics
 |-----------------|----------------------------------------|
 | Filename        | www_如何知道我是泛性还是双性恋_-_春乐堂.md                             |
 | Size            | 29884 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.chunletang.com/5349/%E5%A6%82%E4%BD%95%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E6%B3%9B%E6%80%A7%E8%BF%98%E6%98%AF%E5%8F%8C%E6%80%A7%E6%81%8B.html](https://www.chunletang.com/5349/%E5%A6%82%E4%BD%95%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E6%B3%9B%E6%80%A7%E8%BF%98%E6%98%AF%E5%8F%8C%E6%80%A7%E6%81%8B.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 双性恋, 泛性恋, 性别认同, 性别二元, LGBTQ, 性取向, 人生故事, 过渡经历, 性别流动, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

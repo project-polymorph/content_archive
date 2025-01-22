@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细介绍了与多元性别相关的概念，主要围绕CD（变装者）和TS（变性人）的定义与区别进行阐述。CD是Cross-Dress的缩写，指那些在现实生活中选择穿着与生理性别不符的衣物的人，通常是男性穿女装，且性取向多为正常。而TS则是Transsexual的缩写，指那些对自己性别不满意并希望通过医疗手段改变自己性别的人。文中指出，伪娘这一角色通常出现在动漫或游戏中，具有女性外表却以男性身份出现，且常常不涉及到激素使用。文件也探讨了内在型伪娘与CD、TS之间的关系与区别，并对这些概念展开详细解析，帮助读者更好地理解多元性别的状态与现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zhidao_搜索结果_cd,TS分别是什么意思伪娘？_-_百度知道.md                             |
 | Size            | 1912 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhidao.baidu.com/index/?word=cd,TS%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D?%E4%BC%AA%E5%A8%98%EF%BC%9F&from=qb&samplow_val=-1](https://zhidao.baidu.com/index/?word=cd,TS%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D?%E4%BC%AA%E5%A8%98%EF%BC%9F&from=qb&samplow_val=-1)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 伪娘, 变装者, CD, TS, 性别认同, 性别表达, 跨性别, 社会认知, 性别文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

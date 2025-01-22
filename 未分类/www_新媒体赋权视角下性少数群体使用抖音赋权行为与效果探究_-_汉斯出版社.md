@@ -198,7 +198,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档研究了新媒体赋权的视角下，性少数群体在短视频平台抖音上的赋权行为与效果。随着数字媒介的飞速发展，尤其是抖音等短视频平台的崛起，性少数群体利用媒介技术进行自我组织和动员，逐渐走向社会的中心。文中深入探讨了新媒体技术如何为性少数群体提供了一条新路径，以此推动其社会地位和权力的提升。作者梁泽龙分析了这些使用新媒体的行为对性少数群体的赋权生态和效果的影响，试图为性少数群体的赋权之路提供理论支持和实践指导。同时，文中也列举了相关的文献综述，为理解赋权机制与效果提供了背景知识。这项研究意在为对性少数群体的新媒体赋权提供更深入的理解和分析，并鼓励群体意识与自我认同的提升。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -209,12 +209,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_新媒体赋权视角下性少数群体使用抖音赋权行为与效果探究_-_汉斯出版社.md                             |
 | Size            | 45524 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hanspub.org/journal/PaperInformation?paperID=45528](https://www.hanspub.org/journal/PaperInformation?paperID=45528)                       |
+| Author          | 梁泽龙，长安大学                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-09-01                                 |
+| Tags            | 新媒体赋权, 性少数群体, 短视频, 抖音, 社会科学, 赋权机制, 研究成果, 文化共生, 数字媒介时代, 社会影响力                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

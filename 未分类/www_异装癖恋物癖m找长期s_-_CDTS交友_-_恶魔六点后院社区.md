@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一位名为CD贱狗的用户在恶魔六点后院社区上发布的求交友帖，内容涉及他作为异装癖m（男性）个体的生活状态和交友需求。帖子中提到了他希望寻找一位长期的伴侣，并诚实地分享了自己的基本信息，包括身高、体重和居住地等。为了保证交友的安全性，作者特别提醒读者警惕诈骗行为，并列出了几个可能的骗子特征。此外，帖子中还包含了作者于2022年发布的时间信息，以及用户头像的链接，增加了互动性。整体上，该文本不仅展现了个体在寻找理解与陪伴的历程，也反映了异装癖社群中对安全交友的关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_异装癖恋物癖m找长期s_-_CDTS交友_-_恶魔六点后院社区.md                             |
 | Size            | 1199 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.emomc.com/forum.php?mod=viewthread&tid=509](https://www.emomc.com/forum.php?mod=viewthread&tid=509)                       |
+| Author          | CD贱狗                               |
+| Region          | 河北邯郸                               |
+| Date            | 2022-06-25                                 |
+| Tags            | 异装癖, 恋物癖, 交友, 社交网络, 生活分享, 求伴侣, 安全交友, 诈骗提醒, male, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

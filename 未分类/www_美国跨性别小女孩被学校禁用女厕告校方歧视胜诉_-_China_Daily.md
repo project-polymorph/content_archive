@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件报道了美国科罗拉多州一所小学对6岁跨性别女孩科伊·马西斯的歧视事件。事件中，学校在科伊入学的初期允许她使用女厕，但在其入学第二年时，学校却要求她使用男厕或独立卫生间，显然忽视了对她性别认同的尊重。这一行为引起了科伊家人的强烈反对，并最终以告校方胜诉的方式得以解决。美国全国的学校和政府机构正努力应对跨性别人群带来的问题，此案件反映了在教育环境中，跨性别学生所面临的挑战与消除歧视的重要性。该事件的判决被视为科罗拉多州对2008年扩展公民权利保护的一次检验，同时也传达了必须给予跨性别学生平等待遇的信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美国跨性别小女孩被学校禁用女厕告校方歧视胜诉_-_China_Daily.md                             |
 | Size            | 2305 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.chinadaily.com.cn/hqgj/2013-06/26/content_16660435.htm](https://www.chinadaily.com.cn/hqgj/2013-06/26/content_16660435.htm)                       |
+| Author          | 中国日报网                               |
+| Region          | 美国                               |
+| Date            | 2013-06-24                                 |
+| Tags            | 跨性别, 女厕, 教育, 歧视, 法律保护, 人权, 社会问题, 美国, 性别认同, 科罗拉多州                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

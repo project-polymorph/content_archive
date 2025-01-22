@@ -59,8 +59,8 @@ SOME 的淋浴设施一年中的每一天都可供使用。将提供洗浴用品
 |-----------------|----------------------------------------|
 | Filename        | community-partnership_一些（所以其他人可能会吃）_-_社区伙伴关系.md                             |
 | Size            | 1485 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://community-partnership.org/zh-CN/i-need-help/some-so-others-might-eat-4/](https://community-partnership.org/zh-CN/i-need-help/some-so-others-might-eat-4/)                       |
 | Author          | Community Partnership                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

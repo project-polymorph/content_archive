@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了一位名为yochi的泰国变性女性通过手术彻底变性成为真正的女人的故事。文章首先提到，在许多人眼中，泰国代表着数不胜数的美艳人妖，而yochi正是这种文化现象的体现。文章中详细描述了yochi在变性手术前后的变化，强调了她在手术后皮肤变得更加白皙细嫩，身材更加苗条，长相愈加甜美，从而获得了更高的社会认同和美誉。文章还提到了yochi在手术后的演艺事业发展，指出她凭借天生的丽质加上后天的努力，顺利进入了影视圈，并开始崭露头角。整篇报道不仅关注个体的变化，也反映了泰国社会对变性人群的接受度及其文化现象的普遍性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国美艳人妖彻底变性成真正女人_图__-_人民政协网.md                             |
 | Size            | 2055 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.rmzxb.com.cn/c/2016-01-22/679269.shtml?n2m=1](http://www.rmzxb.com.cn/c/2016-01-22/679269.shtml?n2m=1)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2016-01-22                                 |
+| Tags            | 变性, 人妖, 泰国, 性别认同, 社会接受度, 演艺圈, 生活故事, 身体变迁, 性别多样性, 文化现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

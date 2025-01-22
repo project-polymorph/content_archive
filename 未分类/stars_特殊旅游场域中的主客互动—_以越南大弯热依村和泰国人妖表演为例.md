@@ -81,8 +81,8 @@ Classroom 206
 |-----------------|----------------------------------------|
 | Filename        | stars_特殊旅游场域中的主客互动—_以越南大弯热依村和泰国人妖表演为例.md                             |
 | Size            | 2557 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://stars.library.ucf.edu/usa-china_trs/2017/december8/22/](https://stars.library.ucf.edu/usa-china_trs/2017/december8/22/)                       |
 | Author          | Jiuxia Sun                               |
 | Region          | 未知                               |
 | Date            | 2017-08-12                                 |

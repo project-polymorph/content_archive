@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了韩国变性女歌手河利秀的成名故事及其在歌坛和影坛的活跃表现。文章指出，河利秀以她动人的歌声和美丽的外表迅速获得了众多粉丝的喜爱，但她的成功背后却是个人经历的艰辛。河利秀在接受采访时提到，她选择变性是因为无法过上男性的生活，她对女性形象的追求让她能够在舞台上绽放光彩。文章中还提到，河利秀主演的影片《黄头发2》因其变性人的身份而备受瞩目，同时也引发了公众对变性人生活状态的反思。此外，整篇文章分析了当前娱乐圈中变性题材作品的流行趋势，并回顾了变性人在影视作品中的代表性表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性人竟成韩国歌坛新偶像_生活时报_-_光明网.md                             |
 | Size            | 3616 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gmw.cn/01shsb/2001-08/07/05-4C070708561C8AB148256AA1000830CB.htm](https://www.gmw.cn/01shsb/2001-08/07/05-4C070708561C8AB148256AA1000830CB.htm)                       |
+| Author          | 生活时报                               |
+| Region          | 韩国                               |
+| Date            | 2001-08-07                                 |
+| Tags            | 变性人, 音乐, 河利秀, 社会现象, 性别认同, 娱乐圈, 变性故事, 影视作品, 韩国歌坛, 文化现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

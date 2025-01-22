@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了两名变性女性代表民主党参选美国国会，目标是创造历史。这是美国主要政党中首次有变性候选人参与国会选举，其中米斯蒂·斯诺成为了首位参与国会参议院选举的变性候选人，也是现年30岁的她有可能成为最年轻的联邦参议员。她和另一个候选人普洛赖特都希望通过参选为那些感到‘美国梦’遥不可及的人发声，尽管面临激烈竞争和较低的当选可能性，文章同时提及了她们在预选中的表现和身份的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_变性人参选美国议员.md                             |
 | Size            | 3252 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap](https://news.sina.cn/gj/2016-07-01/detail-ifxtscen3063903.d.html?from=wap)                       |
+| Author          | 广州日报                               |
+| Region          | 美国                               |
+| Date            | 2016-07-01                                 |
+| Tags            | 变性人, 美国, 国会选举, 民主党, 米斯蒂·斯诺, 普洛赖特, 选举历史, 变性女性, 社会运动, 政治参与                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

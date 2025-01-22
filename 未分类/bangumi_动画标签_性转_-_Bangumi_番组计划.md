@@ -233,8 +233,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bangumi_动画标签_性转_-_Bangumi_番组计划.md                             |
 | Size            | 8435 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC](https://bangumi.tv/anime/tag/%E6%80%A7%E8%BD%AC)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

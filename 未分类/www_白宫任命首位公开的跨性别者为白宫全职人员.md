@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了白宫任命拉菲·弗里德曼-格斯潘为总统人事办公室对外发展和招聘部主任的消息，使其成为美国历史上首位公开身份的跨性别全职员工。文中指出，这一任命不仅是跨性别者在政治领域取得的重要成就，也为其他跨性别人士树立了榜样。拉菲在被任命前曾担任美国跨性别者权益中心的政策顾问，并积极发声支持变性人权益，包括对变性人受到的暴力和威胁表示关注。报道引述了奥巴马行政团队对这一任命的评价，认为这是政府持续捍卫变性人权益和多样性的象征，也反映出当前政府对社会各群体的支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_白宫任命首位公开的跨性别者为白宫全职人员.md                             |
 | Size            | 2853 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2015-08/19/c_128145187.htm](http://www.xinhuanet.com/world/2015-08/19/c_128145187.htm)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2015-08-19                                 |
+| Tags            | 白宫, 跨性别, 拉菲·弗里德曼-格斯潘, 任命, 性别平等, 美国, 变性人, 权益运动, 多元性别, 政策变革                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

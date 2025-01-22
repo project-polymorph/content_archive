@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_两性畸形是什么意思.md                             |
 | Size            | 3919 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.baidu.com/bh/m/detail/sv_4858662513464860154](https://m.baidu.com/bh/m/detail/sv_4858662513464860154)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

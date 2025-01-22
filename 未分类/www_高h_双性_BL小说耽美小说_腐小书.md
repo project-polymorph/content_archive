@@ -60,7 +60,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于高H双性BL小说推荐的整理，提供了多个现代、古代及玄幻灵异题材的耽美小说推荐，包括具体的书名、概述、时间及作者等信息。作品中涉及双性人的故事情节，反映了对多元性别身份的关注和探索。推荐的小说包括《不觉晓夜迟》、《此生有你》、《逼女干寡嫂》等，情节多以强攻强受、搞笑、甜宠等风格为主。此外，文件中特别提到这些作品的作者及其创作背景，展现了多元文化与文学艺术的结合。文件还包含版权声明，明确表示这些内容由网友转发，版权归原创者所有。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_高h_双性_BL小说耽美小说_腐小书.md                             |
 | Size            | 3061 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jiqinw.com/plus/hsearch.php?keyword=%E9%AB%98h++%E5%8F%8C%E6%80%A7&searchtype=titlekeyword&channeltype=0&orderby=&kwtype=0&pagesize=20&typeid=0&TotalResult=76&PageNo=4](http://www.jiqinw.com/plus/hsearch.php?keyword=%E9%AB%98h++%E5%8F%8C%E6%80%A7&searchtype=titlekeyword&channeltype=0&orderby=&kwtype=0&pagesize=20&typeid=0&TotalResult=76&PageNo=4)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 高H, 双性, BL小说, 耽美小说, 现代耽美, 古代耽美, 玄幻灵异, 腐文化, 文学创作, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

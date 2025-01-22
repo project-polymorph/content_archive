@@ -35,8 +35,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sports_“变性人”也可参加奥运会_-_体坛广角-_万维读者网.md                             |
 | Size            | 1753 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://sports.creaders.net/2003/11/24/635578.html](https://sports.creaders.net/2003/11/24/635578.html)                       |
 | Author          | 万维读者网                               |
 | Region          | 未知                               |
 | Date            | 2003-11-24                                 |

@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![Image](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN8XA8AAksBZG7LpHYAAAAASUVORK5CYII=)
+[Image]
 
 ## 网瘾少年程大帅 { data-search-exclude }
 
@@ -45,7 +45,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位病娇男娘的故事，他为了追求心中所爱的对象，决定通过减掉自己的生殖器来实现更深层次的自我认同和转变。故事充满了戏剧性与感情，表达了他在接受自我和追求爱情之间的挣扎与决心。同时，文章也涉及对性别认同和身体自主权的思考，反映了部分多元性别者在当今社会面临的挑战与困惑。通过个人的叙述，读者得以感受到他内心深处的渴望和痛苦，这种对爱的追求让人感同身受。文章不仅是个人故事的分享，也为关注多元性别议题的读者提供了思考的角度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_超级高能！病娇男娘为了和你在一起竟然决定减掉自己的老二！！.md                             |
 | Size            | 1061 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=ZeThRfb8STQ](https://www.youtube.com/watch?v=ZeThRfb8STQ)                       |
+| Author          | 网瘾少年程大帅                               |
+| Region          | 未知                               |
+| Date            | 2024-05-09                                 |
+| Tags            | 病娇男娘, 性别认同, 爱情故事, 身体自主权, 多元性别, 心理挣扎, 自我转变, 个人故事, 情感表达, 社会挑战                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

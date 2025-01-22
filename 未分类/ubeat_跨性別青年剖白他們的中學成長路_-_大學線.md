@@ -104,7 +104,7 @@ K曾經在Twitter上傳女性化裝扮的照片，後來被同學發現後廣傳
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《大学线》的一篇报道，讲述了跨性别青年在香港中学生活中的挑战与经历。文章中提及升中六的学生林泽俊因留长发被学校要求剪发，并禁止参加活动，揭示了香港校园对性小众的歧视和不公。众多跨性别青少年在校园中面临来自同学和老师的误解与压力，同时缺乏足够的社会支持和医疗资源。另一位跨性别女生K（化名）分享了自己在求学期间服用荷尔蒙药物的经历，她为了缓解性别焦虑前往内地购药，面临经济负担与健康风险。不同的跨性别青年如麦瑋翰与曾令弦的故事，反映了他们在探索性别认同过程中所遭受的孤独与困惑，以及对更友善、更包容校园环境的渴望。最后，医生提醒青少年在服药时必须咨询专业人士，以确保安全与健康。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -115,12 +115,12 @@ K曾經在Twitter上傳女性化裝扮的照片，後來被同學發現後廣傳
 |-----------------|----------------------------------------|
 | Filename        | ubeat_跨性別青年剖白他們的中學成長路_-_大學線.md                             |
 | Size            | 13941 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://ubeat.com.cuhk.edu.hk/163_trans/](https://ubeat.com.cuhk.edu.hk/163_trans/)                       |
+| Author          | 刘芷穎、徐泽欣                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 生命故事, 青少年经历, 性别焦虑, 医疗资源, 社会歧视, 校园环境, 心理健康, 社群支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

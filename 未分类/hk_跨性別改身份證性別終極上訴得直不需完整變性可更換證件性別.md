@@ -26,8 +26,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hk_跨性別改身份證性別終極上訴得直不需完整變性可更換證件性別.md                             |
 | Size            | 1602 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hk.finance.yahoo.com/video/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5%E7%B5%82%E6%A5%B5%E4%B8%8A%E8%A8%B4%E5%BE%97%E7%9B%B4-%E4%B8%8D%E9%9C%80%E5%AE%8C%E6%95%B4%E8%AE%8A%E6%80%A7%E5%8F%AF%E6%9B%B4%E6%8F%9B%E8%AD%89%E4%BB%B6%E6%80%A7%E5%88%A5-040600909.html](https://hk.finance.yahoo.com/video/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5%E7%B5%82%E6%A5%B5%E4%B8%8A%E8%A8%B4%E5%BE%97%E7%9B%B4-%E4%B8%8D%E9%9C%80%E5%AE%8C%E6%95%B4%E8%AE%8A%E6%80%A7%E5%8F%AF%E6%9B%B4%E6%8F%9B%E8%AD%89%E4%BB%B6%E6%80%A7%E5%88%A5-040600909.html)                       |
 | Author          | 现代电视                               |
 | Region          | 香港                               |
 | Date            | 2023-02-06                                 |

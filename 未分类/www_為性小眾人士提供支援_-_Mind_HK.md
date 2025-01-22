@@ -80,7 +80,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文内容关注LGBTQ+群体的精神健康问题，提供了为这些有精神健康问题的人士提供支持的实用建议。文章中强调了支援关系网对LGBTQ+人士心理健康的重要性，建议读者在帮助他人时应避免假设，尊重每个人的个人经历，倾听他们的故事。内容涵盖了如何向LGBTQ+人士展示关心，鼓励他们寻求专业帮助，以及加入支援小组的建议。此外，文章还提供了一些与LGBTQ+相关的精神健康资源和组织联系方式，目的是希望有更多的人了解如何提供有效的支持，同时也关注自己在支援过程中的心理健康。这些建议同样适用于那些希望帮助亲友的非LGBTQ+人士。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,12 +91,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_為性小眾人士提供支援_-_Mind_HK.md                             |
 | Size            | 5538 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mind.org.hk/zh-hant/mental-health-a-to-z/lgbt%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7/%E7%82%BA-lgbt-%E4%BA%BA%E5%A3%AB%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8F%B4/](https://www.mind.org.hk/zh-hant/mental-health-a-to-z/lgbt%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7/%E7%82%BA-lgbt-%E4%BA%BA%E5%A3%AB%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8F%B4/)                       |
+| Author          | Mind HK                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ+, 精神健康, 心理支持, 自杀预防, 社交支持, 健康资源, 法律政策, 社会环境, 咨询服务, 性别多元                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

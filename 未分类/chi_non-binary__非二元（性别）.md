@@ -100,8 +100,8 @@ Genderfluid is a gender identity which refers to a gender which varies over time
 |-----------------|----------------------------------------|
 | Filename        | chi_non-binary__非二元（性别）.md                             |
 | Size            | 2083 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://chi.proz.com/kudoz/6954848](https://chi.proz.com/kudoz/6954848)                       |
 | Author          | Frank Feng                               |
 | Region          | 未知                               |
 | Date            | 2021-04-26                                 |

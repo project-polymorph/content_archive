@@ -273,8 +273,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_治疗变性手术的方法.md                             |
 | Size            | 16212 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.dxy.com/surgery/29747/detail?dxa_adplatform=m.dxy.com](https://m.dxy.com/surgery/29747/detail?dxa_adplatform=m.dxy.com)                       |
 | Author          | 丁香医生医学团队                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

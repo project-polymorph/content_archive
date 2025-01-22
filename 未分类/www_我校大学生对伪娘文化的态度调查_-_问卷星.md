@@ -82,7 +82,7 @@
     - 抵触
     - 无感
 
-![](//image.wjx.cn/layer/theme/default/loading-1.gif)
+![](https://image.wjx.cn/layer/theme/default/loading-1.gif)
 
 [问卷星](https://www.wjx.cn/ "问卷星_不止问卷调查/在线考试") 提供技术支持
 <!-- tcd_original_link https://www.wjx.cn/vj/hG4c5Us.aspx -->
@@ -91,7 +91,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一项关于大学生对伪娘文化态度的问卷调查的记录，其内容详细梳理了关于伪娘文化的定义、发展，以及社会对这一现象的看法和接受度。内容介绍了伪娘一词起源于ACG（动画、漫画、游戏）界，通常指的是那些具备女性特征的男性角色，并阐述了这是近年来在国内外流行的一种文化现象。调查通过一系列问题来收集学生对伪娘文化的认识、接受度、影响因子和社会反响等信息。问卷包含多选题，让参与者表达对“伪娘”的态度、可能的影响以及伪娘现象流行的原因，同时也询问了参与者对伪娘现象是否应当进行制止的问题。调查结果不仅有助于理解年轻一代对多元性别文化的态度，也反映了社会审美观念的变迁与对性别概念的多元化理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -102,12 +102,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我校大学生对伪娘文化的态度调查_-_问卷星.md                             |
 | Size            | 3048 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wjx.cn/vj/hG4c5Us.aspx](https://www.wjx.cn/vj/hG4c5Us.aspx)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘文化, 大学生调查, 性别认同, 多元文化, 问卷调查, 社会态度, 性别表现, 青年文化, ACG文化, 社会现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

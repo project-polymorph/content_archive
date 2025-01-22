@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本报告详细探讨了中国跨性别者在寻求性别确认医疗程序时面临的各种障碍。跨性别者在中国的医疗卫生系统中几乎被完全忽视，缺乏必要的统计数据来展示他们的基本情况和接受医疗的情况。该文档强调了医疗卫生专业人员对跨性别者态度的消极性以及对其知识的匮乏，指出需要更多的研究和数据来引起公众和相关机构的关注。报告呼吁社会应在医疗领域加强对跨性别者的支持与理解。此外，文件强调了国际特赦组织对此问题的重视，意在激发更多的讨论和关注，以推动医疗卫生政策的改善。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,12 +38,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_中国跨性别者寻求性别确认医疗程序时遇到的障碍.md                             |
 | Size            | 1075 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.amnesty.org/ar/documents/asa17/0269/2019/zh/](https://www.amnesty.org/ar/documents/asa17/0269/2019/zh/)                       |
+| Author          | 国际特赦组织                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别者, 医疗程序, 性别确认, 障碍, 健康服务, 社会歧视, 医疗卫生政策, 跨性别权益, 性别认同, 统计数据                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

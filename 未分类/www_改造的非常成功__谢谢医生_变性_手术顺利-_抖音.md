@@ -57,7 +57,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章记录了一位用户在社交媒体上分享的个人经历，主要讲述了他在接受变性手术后的顺利恢复情况。文章的开头表达了对医生的感激，配有感谢的手势表情。用户在文章中提到手术的成功和三个月后的恢复过程，医生曾指出如果能够早一点发现问题，手术可能不需要如此大的切口。尽管已经发生了手术，用户呼吁家长们要更好地看护孩子，以减少意外发生的可能性。文章最后也祝愿所有孩子都能健康成长。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -68,12 +68,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_改造的非常成功__谢谢医生_变性_手术顺利-_抖音.md                             |
 | Size            | 2053 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/video/7330633057516522791](https://www.douyin.com/video/7330633057516522791)                       |
+| Author          | 春告島                               |
+| Region          | 未知                               |
+| Date            | 2024-02-01                                 |
+| Tags            | 变性, 手术顺利, 创作灵感, 腺样体肥大, 全麻手术, 勇敢的宝宝, 医务经历, 健康成长, 家庭护理, 社会关注                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

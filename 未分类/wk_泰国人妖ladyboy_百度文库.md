@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国的人妖（ladyboy）现象，从多个角度介绍了关于人妖的文化和社会背景。首先，文章定义了泰国人妖的性别特征指男性转变为女性的变性人或女性化的男同性恋者。接着，阐述了他们出名的原因，如小乘佛教理念、性旅游业的兴起等。此外，文中还讨论了泰国人妖的平均寿命为约40岁，以及他们的来源问题，包括文化历史的演变。同时，文章提到传统观念如何影响人妖的教育机会，认为在一些社会中，男性大声说话就被视为没有受过教育。法律层面上，自2007年前，泰国并没有对变性人进行法律性别的承认，即便经过生殖器手术，他们的法律性别也无法更改。最后，文中介绍了人妖的职业选择，通常在女性职业领域工作，包括商店、餐馆和美容院等，也参与选美比赛，此内容揭示了人妖的社会地位及存在的法律挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wk_泰国人妖ladyboy_百度文库.md                             |
 | Size            | 2271 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wk.baidu.com/view/f2a2ddf37c1cfad6195fa755?pcf=2&bfetype=new](https://wk.baidu.com/view/f2a2ddf37c1cfad6195fa755?pcf=2&bfetype=new)                       |
+| Author          | NELL7410                               |
+| Region          | 泰国                               |
+| Date            | 2012-02-21                                 |
+| Tags            | 泰国人妖, ladyboy, 变性人, 性别认同, 文化研究, 性旅游, 法律性别, 教育机会, 社会现状, 生存体验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

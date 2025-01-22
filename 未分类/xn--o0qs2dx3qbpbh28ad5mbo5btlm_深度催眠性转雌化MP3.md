@@ -59,14 +59,14 @@
 
 [**play تشغيل**](https://link/V6joFEu531g)
 
-![](//sstatic1.histats.com/0.gif?4635156&101)
+![](https://sstatic1.histats.com/0.gif?4635156&101)
 <!-- tcd_original_link https://xn--o0qs2dx3qbpbh28ad5mbo5btlm.saydalia.net/ -->
 
 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要讨论了通过深度催眠实现性转雌化的概念与方法。内容中提及了多种催眠音频和体验，涉及到人格替换、快感催眠、梦境催眠等，强调了催眠可以为跨性别人士带来的身心变化与支持。同时，文件中包含了多个催眠相关的链接，展示了这些催眠音频的不同场景和效果，如跨性别者在HRT（激素替代疗法）过程中的体验分享以及术后生活指导等。该资料适合作为研究催眠与性别认同之间关系的参考，也为跨性别者提供了一定的资源与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,12 +77,12 @@
 |-----------------|----------------------------------------|
 | Filename        | xn--o0qs2dx3qbpbh28ad5mbo5btlm_深度催眠性转雌化MP3.md                             |
 | Size            | 4148 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://xn--o0qs2dx3qbpbh28ad5mbo5btlm.saydalia.net/](https://xn--o0qs2dx3qbpbh28ad5mbo5btlm.saydalia.net/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性转雌化, 跨性别, AB面, HRT, 人格替换, 情感支持, 心理健康, 性别认同, 音频资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

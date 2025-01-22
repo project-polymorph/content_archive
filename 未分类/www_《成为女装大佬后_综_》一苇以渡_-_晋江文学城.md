@@ -81,7 +81,7 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《成为女装大佬后》是一部由作者一苇以渡创作的衍生小说，属于纯爱小说类型，背景设定在架空历史中。故事围绕主角程羽展开，他在一次意外中醒来，发现自己不仅失去了人类的身份，变成了一名式神，甚至成为了一个女装大佬，面对着诸多奇怪的经历与系统任务。本作在描绘程羽的转变与困惑的同时，也展现了丰富的情感纠葛及轻松幽默的文风，让读者在享受剧情的同时，思考多元性别身份的表现与接受。文章共计680198字，完结于2018年，在2018年的年中与年终盘点中皆被评为优秀作品，深受读者喜爱。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -92,12 +92,12 @@ Copyright By 晋江文学城 www.jjwxc.net All rights reserved
 |-----------------|----------------------------------------|
 | Filename        | www_《成为女装大佬后_综_》一苇以渡_-_晋江文学城.md                             |
 | Size            | 4039 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jjwxc.net/onebook.php?novelid=3580390](http://www.jjwxc.net/onebook.php?novelid=3580390)                       |
+| Author          | 一苇以渡                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-07-18                                 |
+| Tags            | 女装大佬, 衍生小说, 纯爱故事, 架空历史, 多元性别, 跨性别, 角色转变, 轻松幽默, 情感纠葛, 小说创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

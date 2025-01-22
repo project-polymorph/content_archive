@@ -251,8 +251,8 @@ Ada S. Cheung 是该论文的联名作者之一；其来自澳大利亚墨尔本
 |-----------------|----------------------------------------|
 | Filename        | tfsci_对非二元女性倾向跨性别者的激素治疗可能性的探索.md                             |
 | Size            | 51139 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/](https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/)                       |
 | Author          | Aly                               |
 | Region          | 未知                               |
 | Date            | 2023-07-25                                 |

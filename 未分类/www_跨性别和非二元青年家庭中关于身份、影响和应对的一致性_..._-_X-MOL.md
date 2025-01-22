@@ -32,7 +32,7 @@ The aim of this study was to examine concordance and discordance in how differen
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一项针对跨性别（TNB）和非二元性别（nonbinary）的青少年及其家庭的定性研究，其主要目的是探讨家庭成员之间对TNB青少年性别认同及其对家庭影响的描述一致性与不一致性。研究对象为7至18岁的TNB青少年及其看护者，共54名家庭成员参与了一对一的定性访谈。研究分析了家庭成员对13个不同访谈问题的回答，旨在揭示TNB青少年性别认同对家庭关系的影响及家庭成员之间的观点差异。结果表明，家庭成员对于TNB青少年性别认同影响家庭关系的看法大多一致，而在性别表达和未来期望的理解上却存在显著差异。这一研究提供了对于支持有TNB青少年的家庭的重要启示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@ The aim of this study was to examine concordance and discordance in how differen
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别和非二元青年家庭中关于身份、影响和应对的一致性_..._-_X-MOL.md                             |
 | Size            | 3005 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1580274938218549248/t](https://www.x-mol.com/paper/1580274938218549248/t)                       |
+| Author          | Stephanie L. Budge, Morgan T. Sinnard, Louis Lindley, Quincy Dillard, Sabra L. Katz-Wise                               |
+| Region          | 美国                               |
+| Date            | 2022-10-12                                 |
+| Tags            | 跨性别, 非二元性别, 青少年, 家庭关系, 性别认同, 定性研究, 性别表达, 社会支持, 心理健康, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

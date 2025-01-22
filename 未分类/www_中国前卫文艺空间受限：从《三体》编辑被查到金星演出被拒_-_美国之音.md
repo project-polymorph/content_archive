@@ -116,7 +116,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了中国当前前卫文艺面临的限制，主要围绕《三体》编辑姚海军被查以及跨性别知名主持人金星的演出申请被拒事件。文件指出，这些事件反映出当局对文化创新的严厉打压以及多层禁忌对文艺创作的压制，指出当今中国的文化环境正在趋向于不自信。尤其是金星的演出被拒，分析人士认为与她在舞台上展示LGBT彩虹旗的举动相关。这一片段强调了社会对LGBT群体的保守态度和法律上的非保护状态。文件中提到，中国的科幻产业在全球化背景下获得成功，但同时又遭受严厉的文化管控，强调了经济利益与文化审查的交织。整体上，该文探讨了文化政策、社会环境及LGBT群体在中国的处境，展现了当代中国在文化领域的复杂性和矛盾。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -127,12 +127,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_中国前卫文艺空间受限：从《三体》编辑被查到金星演出被拒_-_美国之音.md                             |
 | Size            | 13652 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.voachinese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7843781.html](https://www.voachinese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7843781.html)                       |
+| Author          | 陈筠，来源：美国之音中文网                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-02                                 |
+| Tags            | 多元性别, 跨性别, 文化创新, 《三体》, 金星, LGBT, 社会环境, 新闻报道, 文化审查, 公民权利                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

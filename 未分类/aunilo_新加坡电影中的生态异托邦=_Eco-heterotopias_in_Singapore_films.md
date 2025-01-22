@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | aunilo_新加坡电影中的生态异托邦=_Eco-heterotopias_in_Singapore_films.md                             |
 | Size            | 2183 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://aunilo.uum.edu.my/Find/Record/sg-ntu-dr.10356-166421](http://aunilo.uum.edu.my/Find/Record/sg-ntu-dr.10356-166421)                       |
 | Author          | 纪鸣凤 Kee, Ming Feng                               |
 | Region          | 新加坡                               |
 | Date            | 2023-01-01                                 |

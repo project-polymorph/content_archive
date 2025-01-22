@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | fanqienovel_男娘养成系统_-_番茄小说.md                             |
 | Size            | 2058 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://fanqienovel.com/page/7375131881748040729](https://fanqienovel.com/page/7375131881748040729)                       |
 | Author          | 程潇超屌                               |
 | Region          | 未知                               |
 | Date            | 2024-08-18                                 |

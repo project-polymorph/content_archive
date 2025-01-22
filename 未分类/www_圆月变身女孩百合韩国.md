@@ -152,7 +152,7 @@ dnsaldfa你的法力拿到拉萨拿到了
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《圆月变身女孩百合》是一部以青春与变身为主题的漫画，讲述了少女在特定情况下如何经历自我探索与身份认同的故事。作品通过丰富的情节与角色发展，展示了个体在顺应或抵抗性别边界的旅程中所面临的挑战与成长。漫画涉及了纯爱、搞笑和异能等多种元素，吸引了广泛的读者群体。该作品现已连载，共有57话，丰富的章节设计和多样化的人物设定使其受到读者的热烈追捧。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -163,12 +163,12 @@ dnsaldfa你的法力拿到拉萨拿到了
 |-----------------|----------------------------------------|
 | Filename        | www_圆月变身女孩百合韩国.md                             |
 | Size            | 5552 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.lagunagranite.com/mans/21354.html](http://www.lagunagranite.com/mans/21354.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 变身主题, 少女漫画, 身份认同, 人生故事, 自我探索, 纯爱, 异能, 搞笑, 连载作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

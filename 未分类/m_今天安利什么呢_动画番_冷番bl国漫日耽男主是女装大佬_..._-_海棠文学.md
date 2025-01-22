@@ -62,8 +62,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_今天安利什么呢_动画番_冷番bl国漫日耽男主是女装大佬_..._-_海棠文学.md                             |
 | Size            | 1700 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.ad-expo.com/book/81386/68988_2.html](https://m.ad-expo.com/book/81386/68988_2.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

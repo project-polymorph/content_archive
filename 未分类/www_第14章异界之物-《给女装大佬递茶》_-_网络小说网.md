@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是网络小说《给女装大佬递茶》的第14章，围绕着一位名为奶茶的角色展开。这一章节描绘了奶茶的生活状态，呈现她在工作与私生活中的反差。在酷热的午后，她的居所显得凌乱，充满了食物包装和穿着睡衣的形象，反映了她在外工作时的威严与回到家后的放松状态。文本中描绘了奶茶一边享受零食，一边观看电视的情景，展现了她日常生活的细节，以及她处理工作电话时的情绪变化。这一章节不仅揭示了角色的个人生活，还给读者带来了对其生活状态和内心世界的思考，尤其是在性别表现和社会角色之间的张力。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_第14章异界之物-《给女装大佬递茶》_-_网络小说网.md                             |
 | Size            | 3611 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.wlsz.net/13/13680/308312.html](http://www.wlsz.net/13/13680/308312.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 网络小说, 多元性别, 角色生活, 性别表现, 家庭环境, 社会角色, 生活琐事, 文学艺术, 青春, 反转                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

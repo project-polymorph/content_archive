@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文章报道了美国一对青年男女凯迪·希尔（Katie Hill）和安德鲁斯（Andrews）的故事，他们在同时寻求变性手术的过程中产生了深厚的感情。凯迪的真实身份是在15岁时作为男孩生活15年，名为卢克；而安德鲁斯原是一名女孩，名叫艾莫瑞德。在经历变性手术后，两人的性别角色发生了变化，但彼此间的吸引力却愈加明显，最终成为情侣。文章探讨了他们在性别和身份认同上的挣扎，以及经过变性手术后的生活变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | weifang_美国一对男女在同时接受变性手术后成情侣_图__-_大众网·潍坊.md                             |
 | Size            | 2668 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://weifang.dzwww.com/guojixw/201211/t20121109_7659823.htm](https://weifang.dzwww.com/guojixw/201211/t20121109_7659823.htm)                       |
+| Author          | 尹晴                               |
+| Region          | 美国                               |
+| Date            | 2012-11-09                                 |
+| Tags            | 变性手术, 情侣故事, 性别认同, 青春期经历, 性别转变, 社会接受度, 医疗资源, 情感关系, 个人故事, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

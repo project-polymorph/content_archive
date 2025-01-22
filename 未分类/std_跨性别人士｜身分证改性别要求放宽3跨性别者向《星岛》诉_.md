@@ -50,8 +50,8 @@ Copyright 2025 Sing Tao Ltd. All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | std_跨性别人士｜身分证改性别要求放宽3跨性别者向《星岛》诉_.md                             |
 | Size            | 4802 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://std.stheadline.com/sc/realtime/article/1990882/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E8%BA%AB%E5%88%86%E8%AD%89%E6%94%B9%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%94%BE%E5%AF%AC-3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%90%91-%E6%98%9F%E5%B3%B6-%E8%A8%B4%E5%BF%83%E8%81%B2-%E5%86%80%E7%94%A8%E9%9D%9E%E6%89%8B%E8%A1%93%E6%96%B9%E5%BC%8F%E5%AE%9A%E7%BE%A9](https://std.stheadline.com/sc/realtime/article/1990882/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E8%BA%AB%E5%88%86%E8%AD%89%E6%94%B9%E6%80%A7%E5%88%A5%E8%A6%81%E6%B1%82%E6%94%BE%E5%AF%AC-3%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E5%90%91-%E6%98%9F%E5%B3%B6-%E8%A8%B4%E5%BF%83%E8%81%B2-%E5%86%80%E7%94%A8%E9%9D%9E%E6%89%8B%E8%A1%93%E6%96%B9%E5%BC%8F%E5%AE%9A%E7%BE%A9)                       |
 | Author          | 星岛日报                               |
 | Region          | 香港                               |
 | Date            | 2024-04-03                                 |

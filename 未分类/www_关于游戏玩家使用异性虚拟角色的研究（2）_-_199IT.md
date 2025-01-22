@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了网络角色扮演游戏（RPG）中玩家使用异性虚拟角色的现象，尤其是经过研究者Nicholas Yee的调查，分析了玩家选择性别的多种原因。调查显示，27.4%的玩家因角色扮演需要选择异性角色，25.6%是因为视觉形象的吸引。虽然只有7.1%的玩家表示因性别探索而选择异性角色，但在女性玩家中，这个比例达21.1%。此外，调查也揭示了性别角色对于玩家表现的影响，发现选择异性角色的玩家在某些情况下能获得额外的游戏优势，例如更好的社交待遇和任务完成率。该文还讨论了性别切换如何影响玩家对异性交互的理解，以至于在一些情况下男性玩家通过扮演女性角色而体会到女性玩家面临的不适。此外，文件中包含了相关数据的统计图表，进一步阐释了这些现象和背后的心理动机。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_关于游戏玩家使用异性虚拟角色的研究（2）_-_199IT.md                             |
 | Size            | 12860 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.199it.com/archives/196155.html](https://www.199it.com/archives/196155.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 网络游戏, 角色扮演, 异性角色, 玩家体验, 性别研究, 视觉形象, 性别探索, 社交互动, 游戏优势, 调查研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -74,7 +74,7 @@ Copyright © 2025 60小说网
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《跨性别者 知乎》是一部讲述跨性别者生活与心路历程的连载小说，其情节通过丰富的人物描写与跌宕起伏的故事线，深刻反映了跨性别者在个人成长、社会接纳、家庭关系等方面的挑战与奋斗。故事中的主角们经历了手术、返乡、拜访等关键时刻，展现了他们在求索自我认同与社会认同之间的挣扎与成长。作者没有手的猫猫虫以细腻的笔触描绘了角色们的心情变化与内心矛盾，使读者能够与他们的经历产生共鸣。该小说吸引了近两万名读者，议题涉及性别认同、社会偏见与亲情等，切合当下社会对于多元性别讨论的热潮。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -85,12 +85,12 @@ Copyright © 2025 60小说网
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别者知乎全文免费阅读_-_60小说网.md                             |
 | Size            | 6264 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.toddwestmedia.com/langshu_83310132/](https://www.toddwestmedia.com/langshu_83310132/)                       |
+| Author          | 没有手的猫猫虫                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 社会偏见, 手术经历, 返乡故事, 心路历程, 个人成长, 亲情, 文学创作, 连载小说                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

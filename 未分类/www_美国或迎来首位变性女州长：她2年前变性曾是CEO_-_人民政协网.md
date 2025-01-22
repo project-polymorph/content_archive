@@ -72,7 +72,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细报道了克里斯蒂娜·霍尔奎斯特（Christine Hallquist）在2018年竞选美国佛蒙特州州长的经历，讨论了她作为变性女候选人的重要性和影响力。霍尔奎斯特在此之前曾是一名企业首席执行官，她的变性决定和作为女性候选人的挑战吸引了公众的广泛关注。文章回顾了她的成长经历，包括她从小对女性服饰的兴趣，以及她在职场中成为经营业务和竞选职务的双重挑战。文章还提到她在初选中取得的成功，并坚持其竞选理念，计划改善佛蒙特州的经济状况。此篇报道为我们展示了美国跨性别者在政治上越来越多的参与，且提到LGBTQ候选人在选举中的崛起，强调了这一历史时刻的社会意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -83,12 +83,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美国或迎来首位变性女州长：她2年前变性曾是CEO_-_人民政协网.md                             |
 | Size            | 5122 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.rmzxb.com.cn/c/2018-08-17/2144807.shtml](http://www.rmzxb.com.cn/c/2018-08-17/2144807.shtml)                       |
+| Author          | 人民政协网                               |
+| Region          | 美国                               |
+| Date            | 2018-08-17                                 |
+| Tags            | 变性人, 州长选举, 跨性别, 克里斯蒂娜·霍尔奎斯特, LGBTQ, 佛蒙特州, 性别认同, 政治参与, 经济改革, 医疗保险                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

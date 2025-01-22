@@ -49,7 +49,7 @@ Newsmax主持人、特朗普竞选团队前雇员史蒂夫·科特斯(Steve Cort
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了汉堡王于2021年6月举行的一个活动，该公司宣布将在骄傲月期间，将每卖出一个鸡肉三明治捐赠40美分给人权运动（Human Rights Campaign，简称HRC），旨在支持LGBTQ+权利。汉堡王的推特上发布了这一消息，标志着其对LGBT群体的显著支持。与此事件相关的是，汉堡王暗示竞争对手福来鸡因其创始人的宗教信仰在周日不营业，其CEO反对同性婚姻。一些保守派评论员对此表示强烈反对，认为这是对基督教信仰者的嘲讽。除了此次捐款，汉堡王过去还曾发布过“同志骄傲汉堡”并参与游行活动。该活动引发了关于公司支持LGBT权利与宗教信仰间的辩论，显示了美国社会在性别与性取向问题上的分歧。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@ Newsmax主持人、特朗普竞选团队前雇员史蒂夫·科特斯(Steve Cort
 |-----------------|----------------------------------------|
 | Filename        | www_暗讽福莱鸡汉堡王向LGBT活动团体捐赠高达25万美元.md                             |
 | Size            | 4360 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.hrhl.pku.edu.cn/rqxw/gjxw/1343781.htm](http://www.hrhl.pku.edu.cn/rqxw/gjxw/1343781.htm)                       |
+| Author          | 北京大学人权与人道法研究中心                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-06-10                                 |
+| Tags            | LGBT, 汉堡王, 人权运动, 骄傲月, 快餐企业, 捐赠, 基督教, 性别认同, 社会问题, 平等法案                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -80,7 +80,7 @@ Copyright © 2014-2024 观察者 All rights reserved。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了迪士尼公司在回应佛罗里达州“同性恋法案”后，将在其动画作品中引入更多LGBTQ+角色的决定。报道称，迪士尼承诺将在2022年底前，其动画作品中LGBTQ群体的角色比例将至少提高到50%。此举被认为是对不断增长的LGBTQ群体抗议声的回应，尤其是在迪士尼被指控对该法案的幕后支持后。在多个重要员工和社会公众的压力下，迪士尼的CEO鲍勃·察佩克公开道歉并表示将暂停在佛罗里达州的所有政治捐款。公司娱乐内容总裁凯瑞·伯克在一次内部会议上指出，会在未来的动画作品中增加包括跨性别和泛性恋的角色，以强化迪士尼的包容性。文章引用了社交媒体上的评论，反映出公众对迪士尼这一决定的不同看法，包括支持和反对的声音。这一改变标志着迪士尼向多元文化和性别平等迈出了一大步，但也面临着保守派的反对。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -91,12 +91,12 @@ Copyright © 2014-2024 观察者 All rights reserved。
 |-----------------|----------------------------------------|
 | Filename        | www_迪士尼还是妥协了-观察者网.md                             |
 | Size            | 7079 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/internation/2022_04_01_632819.shtml](https://www.guancha.cn/internation/2022_04_01_632819.shtml)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2022-04-01                                 |
+| Tags            | 迪士尼, LGBTQ, 跨性别, 性别认同, 佛罗里达州, 社会抗议, 人权, 动画, 文化多样性, 儿童娱乐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

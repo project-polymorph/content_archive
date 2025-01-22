@@ -100,7 +100,7 @@ _原文[Psychologist Leaves California as License Threatened After Questioning T
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位加州心理学家珊娜·安德森（Shannae Anderson）因质疑向儿童灌输跨性别意识形态而受到威胁的经历。安德森在一场学校董事会会议上发表看法，后遭到跨性别活动人士的攻击和骚扰，甚至收到了死亡威胁，被迫离开她的家乡。她反映了当今社会中，对儿童性别问题的争论，特别是在心理健康领域中性别认同的问题。安德森指出，许多年轻女孩因为经历身体形象问题和性虐待，可能在情感上不成熟的情况下，误认为性别认同是解决问题的一种方式。文中还提到了她作为证人出庭的情况，以及她离开加州的决定，认为是在呼应更广泛的公共讨论和宗教自由的斗争。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -111,12 +111,12 @@ _原文[Psychologist Leaves California as License Threatened After Questioning T
 |-----------------|----------------------------------------|
 | Filename        | www_质疑加州跨性别主义心理学家受到威胁_取消文化_新唐人电视台.md                             |
 | Size            | 7492 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ntdtv.com/gb/2023/01/14/a103625045.html](https://www.ntdtv.com/gb/2023/01/14/a103625045.html)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2023-01-15                                 |
+| Tags            | 跨性别, 心理学, 真相, 社会文化, 法律, 儿童, 医生, 骚扰, 性别问题, 自由                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

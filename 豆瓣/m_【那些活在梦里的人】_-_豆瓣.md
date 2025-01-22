@@ -324,8 +324,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_【那些活在梦里的人】_-_豆瓣.md                             |
 | Size            | 19886 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/29998/](https://m.douban.com/doulist/29998/)                       |
 | Author          | 影志 (北京)                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

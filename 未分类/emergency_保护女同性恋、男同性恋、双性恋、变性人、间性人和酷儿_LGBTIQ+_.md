@@ -192,8 +192,8 @@ _伙伴关系_
 |-----------------|----------------------------------------|
 | Filename        | emergency_保护女同性恋、男同性恋、双性恋、变性人、间性人和酷儿_LGBTIQ+_.md                             |
 | Size            | 17655 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://emergency.unhcr.org/zh-hans/protection/%E5%A4%84%E5%A2%83%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA/%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E4%BA%BA%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BFlgbtiq](https://emergency.unhcr.org/zh-hans/protection/%E5%A4%84%E5%A2%83%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA/%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E4%BA%BA%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BFlgbtiq)                       |
 | Author          | 联合国难民署（UNHCR）                               |
 | Region          | 未知                               |
 | Date            | 2024-01-29                                 |

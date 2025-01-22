@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | people_美国一高中生公开变性人身份获校方祝福_-_人物频道-_51网.md                             |
 | Size            | 2531 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://people.51grb.com/people/gjk/61812.shtml](http://people.51grb.com/people/gjk/61812.shtml)                       |
 | Author          | 环球网                               |
 | Region          | 美国                               |
 | Date            | 2014-05-23                                 |

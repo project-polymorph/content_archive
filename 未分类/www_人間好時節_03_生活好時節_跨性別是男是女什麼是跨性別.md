@@ -46,7 +46,7 @@ Hosting provided by SoundOn [SoundOn](https://www.soundon.fm/)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别的基本概念及其在社会中的地位和安全性。作者通过伴盟的志愿者宜文的分享，讨论了“跨性别是男是女”的问题，并为公众提供了一些关于跨性别者的生活与认同的见解。此外，文章引用了有关跨性别群体的相关统计数据和社会现象，以帮助公众更好地理解跨性别者的经历与挑战。内容意在增进对跨性别人士的理解与包容，且通过发布机构TACP台灣全癌症病友連線的视角，推动跨性别问题的讨论与关注。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ Hosting provided by SoundOn [SoundOn](https://www.soundon.fm/)
 |-----------------|----------------------------------------|
 | Filename        | www_人間好時節_03_生活好時節_跨性別是男是女什麼是跨性別.md                             |
 | Size            | 1185 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=K5V2bmcgXh8](https://www.youtube.com/watch?v=K5V2bmcgXh8)                       |
+| Author          | TACP 台灣全癌症病友連線                               |
+| Region          | 台湾                               |
+| Date            | 2023-12-26                                 |
+| Tags            | 跨性别, 性别认同, 社会安全, 生活经验, 伴盟, 跨性别问题, 性别多样性, 台湾, 性别研究, 公共讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

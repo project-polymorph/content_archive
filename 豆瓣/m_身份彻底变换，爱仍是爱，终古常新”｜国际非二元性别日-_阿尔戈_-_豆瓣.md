@@ -124,8 +124,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_身份彻底变换，爱仍是爱，终古常新”｜国际非二元性别日-_阿尔戈_-_豆瓣.md                             |
 | Size            | 10379 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/book/review/15295609/](https://m.douban.com/book/review/15295609/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2023-06-14                                 |

@@ -122,7 +122,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+香港忠意保险致力于推广多元性别平等，通过打造一个尊重和友爱的工作环境，支持LGBTQI+社群的多元共融理念。文件内容详细阐述了香港忠意在多元共融方面的努力，包括与当地性别小众组织的合作，开展各种教育活动和宣传短片，以提高公众对LGBTQI+社群的认识和理解。它还介绍了一系列视频内容，分享跨性别朋友在职场中的故事及挑战，指出性别平等的重要性和对多元职场文化的推动。此外，报告提到了对同性伴侣婚姻权益的关注，探讨他们在法律和社会环境下面临的挑战，以及香港忠意保险如何通过产品和政策来支持这些人群，使他们能够获得平等的机会和保障。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -133,12 +133,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_香港忠意｜中小企及环球商业保险.md                             |
 | Size            | 9921 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.generali.com.hk/ZH_CN/campaign/lgbtq](https://www.generali.com.hk/ZH_CN/campaign/lgbtq)                       |
+| Author          | 香港忠意保险                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 香港忠意保险, LGBTQI+, 职场平等, 跨性别, 社会认可, 婚姻权益, 性别小众, 多元共融, 人权, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -96,8 +96,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别拉拉：传统性别身份的双重背叛者-_小组讨论_-_豆瓣.md                             |
 | Size            | 16615 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/74053734/](https://m.douban.com/group/topic/74053734/)                       |
 | Author          | 陈亚亚（上海社科院）                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-04-30                                 |

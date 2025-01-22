@@ -43,7 +43,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了跨性别纪念日（Transgender Day of Remembrance）以及美国国务卿蒂勒森在这一日发表的声明。他强调跨性别人士应免受歧视与暴力，重申美国致力于提升所有人权和基本自由。纪念日旨在缅怀因跨性别身份受到暴力对待而失去生命的人们。蒂勒森的声明指出，跨性别者及其倡导者，连同其他性少数群体，面临越来越多的身体攻击和法律上的不安全感。文章还提到了美国全国跨性别平权中心的研究结果，显示由于社会污名和歧视，很多跨性别者经历严重的心理压力，甚至有相当高比例尝试自杀。此内容对增强大家对跨性别者现状的理解以及提升社会对跨性别群体的关注具有重要意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别纪念日：蒂勒森说他们应免受歧视与暴力_-_美国之音.md                             |
 | Size            | 4155 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.voachinese.com/a/transgender-day-20171121/4129499.html](https://www.voachinese.com/a/transgender-day-20171121/4129499.html)                       |
+| Author          | 扬之初                               |
+| Region          | 美国                               |
+| Date            | 2017-11-22                                 |
+| Tags            | 跨性别, 跨性别纪念日, 蒂勒森, 歧视, 暴力, 人权, 性少数群体, 心理健康, 社会环境, 政治倡导                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

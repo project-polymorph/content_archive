@@ -56,8 +56,8 @@ _0_条评论
 |-----------------|----------------------------------------|
 | Filename        | item_罕见的泰国人妖表演秀尴尬难以启齿_-_北京时间.md                             |
 | Size            | 4896 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://item.btime.com/31j1qohg8dl86e8rad59lmjl78o](https://item.btime.com/31j1qohg8dl86e8rad59lmjl78o)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2018-06-27                                 |

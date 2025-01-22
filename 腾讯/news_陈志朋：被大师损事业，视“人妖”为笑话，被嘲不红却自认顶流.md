@@ -194,8 +194,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_陈志朋：被大师损事业，视“人妖”为笑话，被嘲不红却自认顶流.md                             |
 | Size            | 10277 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20231202A0757200](https://news.qq.com/rain/a/20231202A0757200)                       |
 | Author          | 米椒娱乐                               |
 | Region          | 山东                               |
 | Date            | 2023-12-02                                 |

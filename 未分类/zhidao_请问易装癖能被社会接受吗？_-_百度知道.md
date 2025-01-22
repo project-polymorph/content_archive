@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了易装癖这一主题，包含了一个有关其社会接受度的提问，配有匿名用户的回答。文件中提到“其实现在这样的人越来越多。我想过上几十年或许就能被大家所接受。”这表明易装癖患者在时代变迁中逐渐希望被社会接受与理解。同时，文中提及易装癖的个人经历，给予读者对这一少数群体的看法及生存现状的深入理解。该文本对于解析社会对易装癖的态度，揭示人们对于性别多样性接受度的变化提供了一定的切入点。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zhidao_请问易装癖能被社会接受吗？_-_百度知道.md                             |
 | Size            | 30981 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhidao.baidu.com/question/119761480.html](https://zhidao.baidu.com/question/119761480.html)                       |
+| Author          | 百度知道用户                               |
+| Region          | 未知                               |
+| Date            | 2009-10-07                                 |
+| Tags            | 易装癖, 性别多样性, 社会接受度, 个人经历, 生命故事, 性别认同, 性别研究, 社会态度, 心理健康, 网络讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

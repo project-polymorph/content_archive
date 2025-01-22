@@ -84,8 +84,8 @@ Copyright 2024 www.alicesw.org Inc. all Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | alicesw_伪娘小说.md                             |
 | Size            | 13408 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://alicesw.org/lists/52.html](https://alicesw.org/lists/52.html)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-12-01                                 |

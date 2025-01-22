@@ -50,8 +50,8 @@
 |-----------------|----------------------------------------|
 | Filename        | global_16岁男孩将成英国最小“变性人”_政府付费遭批评.md                             |
 | Size            | 2777 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://global.chinadaily.com.cn/hqbl/2010-01/26/content_9376745_2.htm](https://global.chinadaily.com.cn/hqbl/2010-01/26/content_9376745_2.htm)                       |
 | Author          | 陈笛                               |
 | Region          | 英国                               |
 | Date            | 2010-01-26                                 |

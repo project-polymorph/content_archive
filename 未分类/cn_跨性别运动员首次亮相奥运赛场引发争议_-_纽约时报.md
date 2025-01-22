@@ -108,8 +108,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cn_跨性别运动员首次亮相奥运赛场引发争议_-_纽约时报.md                             |
 | Size            | 11891 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.nytimes.com/culture/20210802/laurel-hubbard-trans-weight-lifting/](https://cn.nytimes.com/culture/20210802/laurel-hubbard-trans-weight-lifting/)                       |
 | Author          | TARIQ PANJA, KEN BELSON                               |
 | Region          | 未知                               |
 | Date            | 2021-08-02                                 |

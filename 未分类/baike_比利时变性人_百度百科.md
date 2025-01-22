@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_比利时变性人_百度百科.md                             |
 | Size            | 2403 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E6%AF%94%E5%88%A9%E6%97%B6%E5%8F%98%E6%80%A7%E4%BA%BA/8202591](https://baike.baidu.com/item/%E6%AF%94%E5%88%A9%E6%97%B6%E5%8F%98%E6%80%A7%E4%BA%BA/8202591)                       |
 | Author          | 未知                               |
 | Region          | 比利时                               |
 | Date            | 未知                                 |

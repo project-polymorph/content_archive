@@ -174,8 +174,8 @@ PS：文章部分章节已被[晋江文学城](https://baike.baidu.com/item/%E6%
 |-----------------|----------------------------------------|
 | Filename        | baike_伪娘_百度百科.md                             |
 | Size            | 6885 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.baidu.com/item/%E4%BC%AA%E5%A8%98/3732220](https://baike.baidu.com/item/%E4%BC%AA%E5%A8%98/3732220)                       |
 | Author          | 冷风无奈                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-06-08                                 |

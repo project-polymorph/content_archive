@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了刘著作为伪娘的身份及其心理状态，涉及对伪娘、易性癖与同性恋的定义与区别。刘著生理上为男性，心理上认同女性，表现出一种易性癖的特征。文中指出，伪娘一词源于日本，用以描述拥有女性外观和行为特征的男性。专家介绍，易性癖与同性恋不同，后者的性关系与生殖器相关，而易性癖者更关注心理上的性别认同。文章还提到，易性癖者的发病率与农业中童年经历的可能关系，并讨论了易性癖在不同文化中的认定差异。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_剖析伪娘是易性癖还是同性恋_-_妇科-_平凡丽薇_www.020cn.cn_.md                             |
 | Size            | 6065 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.020cn.cn/fuke/pouxiweiniangshiyixingpihaishitongxinglian/](https://www.020cn.cn/fuke/pouxiweiniangshiyixingpihaishitongxinglian/)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-02-11                                 |
+| Tags            | 伪娘, 易性癖, 同性恋, 心理健康, 性别认同, 社会文化, 医疗资源, 法律政策, 舆论讨论, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

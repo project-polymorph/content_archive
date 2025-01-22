@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含多元性别与另类小说的推荐，涉及不同类型的文学作品，特别关注与性别认同、表现相关的小说及影视作品。例如，提到的电影《变身男女》探讨了男女主角的灵魂互换，反映了性别身份的流动性。这类作品通常通过另类叙事揭示性别差异和社会认知。此外，文中还推荐了多部涉及变性、重生和人妖主题的小说，如《冒牌女科学家》和《非人类医院》，展示了多元性别在现代文学中的表现形式。同时，资料也包括了西西小说的相关讨论，说明这类作品如何影响读者对性别的理解及其文化背景。总体来看，文档旨在为读者提供丰富的、与多元性别相关的小说资源，以鼓励更多的探讨与认识。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_电影一区图片专区小说_-_起点中文.md                             |
 | Size            | 3116 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.qidian.com/ask/tycxaclamycjd](https://www.qidian.com/ask/tycxaclamycjd)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 小说推荐, 电影分析, 灵魂互换, 变性, 人妖, 重生, 性别认同, 校园小说, 文学作品                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

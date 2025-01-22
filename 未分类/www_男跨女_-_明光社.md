@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件来自明光社，讨论了男性跨性别者（男跨女）在社会中的地位及其所面临的伦理和法律挑战。文章提到，加拿大癌症协会因对LGBT群体的尊重而更改专业术语，认为这反映了性别已成为一个重要的政治议题。作者张勇杰提出了一系列反问，质疑对性别认同的主观而言是否应凌驾于客观常识之上。此外，文件中还介绍了涉及跨性别者的法律变更，诸如加州SB132法案及香港终审法院的裁决，讨论法律上对于跨性别者性别认同的承认和权利保障，表明了不同社会、法律背景下对性的不同看法。最后，文件还提及全球性文化变革的影响，说明了性别身份及性向的多元特性如今已逐渐被社会接受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男跨女_-_明光社.md                             |
 | Size            | 4615 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.truth-light.org.hk/%E9%97%9C%E9%8D%B5%E5%AD%97/%E7%94%B7%E8%B7%A8%E5%A5%B3](https://www.truth-light.org.hk/%E9%97%9C%E9%8D%B5%E5%AD%97/%E7%94%B7%E8%B7%A8%E5%A5%B3)                       |
+| Author          | 明光社                               |
+| Region          | 香港                               |
+| Date            | 2024-04-18                                 |
+| Tags            | 男跨女, 跨性别, 性别认同, 明光社, 法律政策, 生命伦理, 社会讨论, 性别政治, 少数群体, 文化变革                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

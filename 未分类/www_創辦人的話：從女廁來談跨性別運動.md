@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论跨性别运动中女厕问题的多重维度，特别是女性对跨性别女性使用女厕的恐惧和不适的感受。文章由台湾性别不明关怀协会创办人吴芷仪撰写，内容涉及社会化过程中的性别认同。吴提到，在面对跨性别女人进入女厕的情况下，社会普遍的刻板印象和恐惧是影响这个议题讨论的关键。她分析了性别友善厕所如何被视为解决方案，但又揭示了这种设定可能进一步边缘化跨性别女性，造成不必要的隔离和标签。此外，文章还探讨了性暴力对性别控制的影响，以及跨性别女性在社会中的困境和期望与顺性别女性的共同斗争。经过这样的社会互动后，跨性别女性是如何逐步认同并融入女性身份的。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_創辦人的話：從女廁來談跨性別運動.md                             |
 | Size            | 6611 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.istscare.org/cp-toilet/](https://www.istscare.org/cp-toilet/)                       |
+| Author          | 吴芷仪                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 女性主义, 女厕争议, 性别友善厕所, 社会化, 性别认同, 性暴力, 女性权利, 台湾, 性别政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

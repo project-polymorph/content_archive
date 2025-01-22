@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了变性人群体的生存寿命问题，结合了2010年与2022年对于变性人寿命的研究和讨论。作者通过引用数据和案例，提出了不同年份关于变性人存活年龄的观点，如2010年认为变性人活不过40岁，而2022年则认为变性人活不过50岁。这一变化引发了对跨性别者健康状况、心理健康及社会支持的深度思考。同时，文章围绕变性手术后的各种问题展开展开讨论，包括身份证的变更、手术后的恢复过程以及赴泰国进行变性手术的现实体验。通过评论区的讨论，作者意在鼓励公众关注和理解跨性别者的实际情况及面临的困难。视频的评论区也提到，对变性是否减寿的不同看法，反映了社会对跨性别议题的多元认知。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性人活不过50岁？跨性别真的减寿吗？_-_Bilibili.md                             |
 | Size            | 1818 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV11i4y1r7Nr/](https://www.bilibili.com/video/BV11i4y1r7Nr/)                       |
+| Author          | 天才少年何洛伊                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-03-20                                 |
+| Tags            | 变性, 跨性别, 生存寿命, 健康问题, 医疗资源, 社会支持, 法律政策, 性别认同, 心理健康, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

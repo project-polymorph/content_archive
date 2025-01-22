@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了美国国防部于2019年颁布的新规，该规禁止需要荷尔蒙治疗或变性手术的人员在军队中服役。这项新规是在特朗普总统于2017年宣布的变性人服役禁令的基础上制定的，目的是为了降低军队的医疗成本。报道指出，自2016年起，美国军队允许变性军人公开服役，并享有医疗服务，但是在新规颁布后，依然有多个组织对此表达不满。文章中提到，约有1.5万名变性人现役和预备役军人中，并非所有人都寻求治疗。新规定将在2019年4月12日生效，同时为各军种提供个案豁免的可能。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_美国国防部颁布变性人服役新规.md                             |
 | Size            | 2295 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n1/2019/0313/c1002-30974352.html](http://world.people.com.cn/n1/2019/0313/c1002-30974352.html)                       |
+| Author          | 新华社                               |
+| Region          | 美国                               |
+| Date            | 2019-03-12                                 |
+| Tags            | 变性人, 军队政策, 美国国防部, 荷尔蒙治疗, 服务禁令, 医疗成本, 特朗普, 性别焦虑症, 军人权益, 法律政策, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

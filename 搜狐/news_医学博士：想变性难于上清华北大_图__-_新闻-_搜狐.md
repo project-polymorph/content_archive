@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_医学博士：想变性难于上清华北大_图__-_新闻-_搜狐.md                             |
 | Size            | 9806 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/49/93/news148429349.shtml](http://news.sohu.com/49/93/news148429349.shtml)                       |
 | Author          | 叶润霞                               |
 | Region          | 中国大陆                               |
 | Date            | 2002-04-07                                 |

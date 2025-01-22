@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讨论了一位泰国变性者Yoshin的故事，着重描绘了在泰国普遍存在的人妖文化，以及这些变性者如何追寻自我认同和社会接受。文章介绍了Yoshin的过渡经历，具体描述了她的外貌变化，以及她在社交媒体上受到的关注与认可。文中提到，Yoshin当时处于“半男半女”的状态，虽然尚未完全进行性别重置手术，但已展现出女性特征。文章通过图片和相关描述揭示了美容和性别认同的交织，反映了泰国社会对性别多元化的开放态度与个人追求的一种结合。同时通知读者关注变性者的生存状况与心理感受。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖彻底变性颜值爆表成真正“女人”（组图）_-_新华网_1.md                             |
 | Size            | 2117 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2016-01/22/c_128657522.htm](http://www.xinhuanet.com/world/2016-01/22/c_128657522.htm)                       |
+| Author          | 钟玉岚                               |
+| Region          | 未知                               |
+| Date            | 2016-01-22                                 |
+| Tags            | 变性, 多元性别, 人妖文化, 泰国, 性别认同, 性别过渡, 社会接受, 美丽标准, 心理健康, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

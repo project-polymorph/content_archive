@@ -307,8 +307,8 @@ TA的爱人一直知道这个情况，也一直在鼓励TA。当TA再次向爱�
 |-----------------|----------------------------------------|
 | Filename        | m_中国首个跨性别门诊诞生背后的故事.md                             |
 | Size            | 20273 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.doqo.com/N/QxQNb.html](https://m.doqo.com/N/QxQNb.html)                       |
 | Author          | 未知                               |
 | Region          | 中国                               |
 | Date            | 2024-06-28                                 |

@@ -27,7 +27,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了青春期的性别认同障碍，包括其定义、成因以及可能的治疗方法。文章指出，性别认同障碍可能源于家庭环境的教育，比如父母对孩子性别角色的偏好导致的混淆。文中举例说明了一些青春期少年在性别表现上的模糊性以及他们可能面临的内心冲突。同时，文章建议通过心理咨询和药物治疗等方式来帮助青少年找到性别认同的平衡点。整体内容旨在提高对青少年性别认同障碍的理解，呼吁社会对这一问题给予更多关注和支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -38,12 +38,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_青春里的性别认同障碍_-_心理咨询.md                             |
 | Size            | 3193 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinlinghuayuan.com/Learning/qzjy/201803/Learning_20657.html](http://www.xinlinghuayuan.com/Learning/qzjy/201803/Learning_20657.html)                       |
+| Author          | 心灵花园                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-03-22                                 |
+| Tags            | 性别认同, 青春期, 心理咨询, 性别障碍, 家庭教育, 心理治疗, 药物治疗, 情感支持, 社会环境, 青少年心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

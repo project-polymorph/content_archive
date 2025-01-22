@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bangumi_关于性转设定的一些思考__2.0__.md                             |
 | Size            | 7675 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bangumi.tv/blog/344654](https://bangumi.tv/blog/344654)                       |
 | Author          | 云青                               |
 | Region          | 未知                               |
 | Date            | 2024-09-28                                 |

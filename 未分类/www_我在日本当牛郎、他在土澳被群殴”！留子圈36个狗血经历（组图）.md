@@ -220,7 +220,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇汇集留学生圈内的36个真实经历和八卦故事的文章，展现了留学生在海外生活中的趣事与窘迫，内容不仅带有幽默感，还反映了多元文化下的性别与社会现象。故事中的角色在不同国家的留学经历中，面临各种挑战、恋爱关系、性别认同与自我意识的挣扎。例如，有人在泰国与人妖亲密接触，另有人隐藏自己的婚姻状况。故事展示了个体在国外生活时的真实困境与社会交往的复杂交织，突出多元性别的表现及其在不同文化背景下的接受程度。文章不仅限于个人故事，还涉及对社会现象的观察，让人深思留学生的生存状态和心理挣扎。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -231,12 +231,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我在日本当牛郎、他在土澳被群殴”！留子圈36个狗血经历（组图）.md                             |
 | Size            | 11557 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.sydneytoday.com/content-1024535652619010](https://www.sydneytoday.com/content-1024535652619010)                       |
+| Author          | 北美留学生                               |
+| Region          | 未知                               |
+| Date            | 2024-11-03                                 |
+| Tags            | 留学经历, 多元性别, 社会八卦, 性别认同, 文化差异, 生活挑战, 海外生活, 真实故事, 心理挣扎, 社交困境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

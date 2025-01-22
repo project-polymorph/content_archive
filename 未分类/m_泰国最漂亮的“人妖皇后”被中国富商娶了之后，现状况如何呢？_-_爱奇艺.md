@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国最漂亮的“人妖皇后”被中国富商娶了之后，现状况如何呢？_-_爱奇艺.md                             |
 | Size            | 860 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.iqiyi.com/v_19rw9hctu8.html](https://m.iqiyi.com/v_19rw9hctu8.html)                       |
 | Author          | 爱奇艺                               |
 | Region          | 未知                               |
 | Date            | 2020-01-30                                 |

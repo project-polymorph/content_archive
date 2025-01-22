@@ -111,7 +111,7 @@ These companies have demonstrated a high level of commitment to equality. Please
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于多元性别暨平等权利的行动与倡议，特别聚焦于人权运动（Human Rights Campaign, HRC）如何致力于推动LGBTQ+群体的平等与权益。文件中详细介绍了HRC自1980年以来在争取LGBTQ+平等和包容方面的努力，提供了不同的行动支柱，包括动员全国范围内的平等选民、公众教育和推动支持平权的政策与司法举措。文件中还提到了一些与当地活动相关的资源，呼吁公众积极参与。还有对一些最近的新闻报道的链接，涉及到美国最高法院对跨性别者医疗保健的诉讼等议题，进一步反映了当前对LGBTQ+权益的关注和法律环境的变化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -122,12 +122,12 @@ These companies have demonstrated a high level of commitment to equality. Please
 |-----------------|----------------------------------------|
 | Filename        | www_Human_Rights_Campaign_HRC.md                             |
 | Size            | 6123 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hrc.org/](https://www.hrc.org/)                       |
+| Author          | 人权运动（HRC）                               |
+| Region          | 美国                               |
+| Date            | 2024-12-04                                 |
+| Tags            | 多元性别, 平等权利, 人权, LGBTQ+, 跨性别, 医疗保健, 活动倡议, 法律政策, 社会运动, 教育资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

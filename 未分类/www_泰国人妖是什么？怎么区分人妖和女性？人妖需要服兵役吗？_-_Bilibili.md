@@ -15,7 +15,7 @@
 
 泰国人妖是什么？怎么区分人妖和女性？人妖需要服兵役吗？
 
-![](//i1.hdslb.com/bfs/face/18260ec7eb7a953fbdb51b901fea495af5f2b650.jpg@96w.webp)
+![](https://i1.hdslb.com/bfs/face/18260ec7eb7a953fbdb51b901fea495af5f2b650.jpg@96w.webp)
 
 *此处可添加相关的视频链接、音频、引用等设施（如适用）。*
 <!-- tcd_original_link https://www.bilibili.com/video/BV1cs4y1R7Nx?from=search -->
@@ -24,7 +24,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了泰国人妖的定义与特征，讨论了如何区分人妖与女性，以及人妖是否需要服兵役的问题。文章引用了图文并茂的方式，增强了理解与吸引力。内容围绕泰国文化及人妖现象展开，介绍了人妖的社会角色和文化背景，分析了人妖与女性的区别，以及社会对人妖的认知与接受度。文章旨在普及相关知识，澄清公众对人妖的误解，同时也考虑到这一群体在社会中的生存现状，体现了多元性别议题的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国人妖是什么？怎么区分人妖和女性？人妖需要服兵役吗？_-_Bilibili.md                             |
 | Size            | 948 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1cs4y1R7Nx?from=search](https://www.bilibili.com/video/BV1cs4y1R7Nx?from=search)                       |
+| Author          | 文史记                               |
+| Region          | 泰国                               |
+| Date            | 2023-04-26                                 |
+| Tags            | 泰国人妖, 多元性别, 女性, 文化差异, 社会认知, 兵役问题, 人妖与女性的区别, 性别角色, 人妖文化, 知识普及                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

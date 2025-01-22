@@ -135,8 +135,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_多余的人-_全部影评_-_豆瓣.md                             |
 | Size            | 8441 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/subject/3439315/reviews?from=subject](https://m.douban.com/movie/subject/3439315/reviews?from=subject)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2010-07-30                                 |

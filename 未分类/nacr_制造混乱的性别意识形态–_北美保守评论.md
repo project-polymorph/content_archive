@@ -181,8 +181,8 @@ _**最后建议参考我们过去已经发布的字幕视频系列《[何为女�
 |-----------------|----------------------------------------|
 | Filename        | nacr_制造混乱的性别意识形态–_北美保守评论.md                             |
 | Size            | 27051 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nacr.info/WordPress/index.php/2023/01/26/gender-ideology-run-amok/](https://nacr.info/WordPress/index.php/2023/01/26/gender-ideology-run-amok/)                       |
 | Author          | 阿比盖尔·施里尔（Abigail Shrier）                               |
 | Region          | 美国                               |
 | Date            | 2023-01-26                                 |

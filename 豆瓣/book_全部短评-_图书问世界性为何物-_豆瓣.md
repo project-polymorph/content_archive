@@ -45,8 +45,8 @@ ISBN: 7536951191
 |-----------------|----------------------------------------|
 | Filename        | book_全部短评-_图书问世界性为何物-_豆瓣.md                             |
 | Size            | 1437 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/10484870/comments?status=P](https://book.douban.com/subject/10484870/comments?status=P)                       |
 | Author          | 王宝安                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-01-01                                 |

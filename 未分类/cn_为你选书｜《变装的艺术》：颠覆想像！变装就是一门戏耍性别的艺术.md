@@ -107,8 +107,8 @@ YouTube 和 IG（Instagram）等社群媒体平台都是视觉导向的，这使
 |-----------------|----------------------------------------|
 | Filename        | cn_为你选书｜《变装的艺术》：颠覆想像！变装就是一门戏耍性别的艺术.md                             |
 | Size            | 8888 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.womany.net/read/article/27964](https://cn.womany.net/read/article/27964)                       |
 | Author          | 杰克·霍尔 / 大块文化                               |
 | Region          | 未知                               |
 | Date            | 2021-11-09                                 |

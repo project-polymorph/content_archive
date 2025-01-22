@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | psy_性别认同障碍究竟是什么？_-_橙星云.md                             |
 | Size            | 2208 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://psy.fenxapp.com/archives/26752](https://psy.fenxapp.com/archives/26752)                       |
 | Author          | 橙星云                               |
 | Region          | 未知                               |
 | Date            | 2024-10-29                                 |

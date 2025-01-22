@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乐魂 我们是女子乐队》是一款校园题材的游戏，故事围绕男主角坂下勇回到故乡的经历展开。他发现自己的童年好友已经转变为伪娘，并加入了一个由伪娘组成的乐队。该游戏设定在一个充满男男交往和伪娘装扮的奇怪校园环境中，尽管游戏内容短小且单调，但由于其独特的互攻设定和夸张的剧情，仍然吸引了一部分特定喜好的玩家。游戏通过描绘男主与伪娘小伙伴之间的感情线，尝试表现多元性别的友谊和理解，但整体定位模糊，因此可能不容易让所有玩家产生共鸣。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_樂魂我們是女子樂隊回鄉組建偽娘樂隊這樣的青梅表示扛_..._-_YouTube.md                             |
 | Size            | 1417 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=WSRU2YoiMbc](https://www.youtube.com/watch?v=WSRU2YoiMbc)                       |
+| Author          | Galgame 藏經閣                               |
+| Region          | 未知                               |
+| Date            | 2024-11-06                                 |
+| Tags            | 女子乐队, 伪娘, 校园游戏, 男男交往, 游戏评测, 多元性别, 青春成长, 情感故事, 社交互动, 人际关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

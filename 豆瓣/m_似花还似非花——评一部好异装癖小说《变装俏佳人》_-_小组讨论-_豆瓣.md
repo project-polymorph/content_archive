@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_似花还似非花——评一部好异装癖小说《变装俏佳人》_-_小组讨论-_豆瓣.md                             |
 | Size            | 9732 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/group/topic/1162650/](https://m.douban.com/group/topic/1162650/)                       |
 | Author          | 左神神                               |
 | Region          | 未知                               |
 | Date            | 2006-07-29                                 |

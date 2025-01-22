@@ -92,8 +92,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cn_国外变性手术-_医疗旅游指南.md                             |
 | Size            | 4942 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://cn.health-tourism.com/sex-reassignment-surgery/](https://cn.health-tourism.com/sex-reassignment-surgery/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

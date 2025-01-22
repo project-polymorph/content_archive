@@ -148,7 +148,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是一个有关2021年性转漫画推荐的汇总，由波波日本撰写。内容中详细列出了13部相关的漫画作品，从题材和内容上为读者提供了丰富的选择。每部漫画都附有简要介绍，包括其故事情节、主要角色以及独特的艺术风格，帮助读者更好地了解这些性转作品。文章中提到，性转漫画通常涉及男性角色变身为女性，或两性互换的情节，这些作品通常融合了恋爱、冒险和喜剧元素，勾勒出一个个引人入胜的故事。作者鼓励读者在这个冷门领域寻找并体验这些漫画所带来的不同视角和情感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -159,12 +159,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_不斷更新！2021年13部「性轉漫畫」推薦，不只《僕少女_-_PopDaily.md                             |
 | Size            | 17496 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.popdaily.com.tw/japan/963672](https://www.popdaily.com.tw/japan/963672)                       |
+| Author          | 波波日本                               |
+| Region          | 台湾                               |
+| Date            | 2021-05-01                                 |
+| Tags            | 性转漫画, 恋爱, 日本漫画, 展现多元性别, 推荐, 文化, 艺术, 网络媒体, 幽默, 青春冒险                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

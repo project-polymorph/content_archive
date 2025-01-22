@@ -141,8 +141,8 @@ Tser是一款专为跨性别社区设计的约会和聊天应用程序，包括�
 |-----------------|----------------------------------------|
 | Filename        | apps_Tser_CDTS,_变性人，TS_伪娘，女装大佬交友社区_-_App_Store.md                             |
 | Size            | 5106 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://apps.apple.com/hk/app/tser-cdts-%E5%8F%98%E6%80%A7%E4%BA%BA-ts-%E4%BC%AA%E5%A8%98-%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC%E4%BA%A4%E5%8F%8B%E7%A4%BE%E5%8C%BA/id1436679914](https://apps.apple.com/hk/app/tser-cdts-%E5%8F%98%E6%80%A7%E4%BA%BA-ts-%E4%BC%AA%E5%A8%98-%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC%E4%BA%A4%E5%8F%8B%E7%A4%BE%E5%8C%BA/id1436679914)                       |
 | Author          | Dating Apps Ltd                               |
 | Region          | 未知                               |
 | Date            | 2024-08-26                                 |

@@ -108,7 +108,7 @@ Geena Rocero曾登上Harper's Bazaar印度版的封面。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了9位在性别认同上经历了重大的过渡，并成功在时尚和美妆领域取得显著成就的知名人士。他们通过自身的经历展现出，无论身体如何，努力和坚持能够带来成功与自信。这些名人包括Nikkietutorials、Laith Ashley、Oslo Grace、Teddy Quinlivan、Hunter Schafer、Valentina Sampaio、Geena Rocero等。他们各自的故事展示了性别重置者面临的挑战与克服这些挑战的勇气。同时，文章提供了每位名人的背景和经历，展示他们在社交媒体上的影响力和对社会的启示。在这篇文章中，性别身份与个人成功相互交织，反映了现代社会对于多元性别的接纳与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -119,12 +119,12 @@ Geena Rocero曾登上Harper's Bazaar印度版的封面。
 |-----------------|----------------------------------------|
 | Filename        | www_帥到美到超越性別!_9位你必追的性別重置IG名人.md                             |
 | Size            | 7852 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.harpersbazaar.com/tw/fashion/fashionmodels/g26980625/8-transgender-models/](https://www.harpersbazaar.com/tw/fashion/fashionmodels/g26980625/8-transgender-models/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别重置, 多元性别, 时尚, 社交媒体, 名人故事, 勇气, 性别认同, 心理健康, 美妆, 社会接纳                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

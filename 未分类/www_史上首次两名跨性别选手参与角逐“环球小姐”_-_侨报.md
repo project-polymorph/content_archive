@@ -32,7 +32,7 @@ CNN报道，新当选的“葡萄牙小姐”名叫马切蒂（Marina Machete）
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了历史上首次有两名跨性别选手参与环球小姐选美大赛的消息，标志着选美比赛的包容性突破。文章提到，来自葡萄牙的跨性别女性马切蒂在当选为‘葡萄牙小姐’后，将成为代表葡萄牙参加在萨尔瓦多举办的第72届环球小姐赛事的选手。这一事件引发了社会对跨性别者权利的关注，以及有关生理性别与女性身份的争议。马切蒂在赛前的视频中表达了对跨性别权利的倡导，称看到环球小姐选美组织在2012年改变规则，允许跨性别选手参赛，感到非常欣慰。另一方面，赛事中另一名跨性别选手科勒也面临着网络暴力，但表示这些只会促使自己愈加奋发向上。此外，意大利小姐赛事则显现出对跨性别选手的不包容，要求所有参赛者必须出生时就是女性，这一言论引发了争议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@ CNN报道，新当选的“葡萄牙小姐”名叫马切蒂（Marina Machete）
 |-----------------|----------------------------------------|
 | Filename        | www_史上首次两名跨性别选手参与角逐“环球小姐”_-_侨报.md                             |
 | Size            | 2476 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.uschinapress.com/static/content/GJ/2023-10-16/1163510501428205447.html](https://www.uschinapress.com/static/content/GJ/2023-10-16/1163510501428205447.html)                       |
+| Author          | 侨报网                               |
+| Region          | 未知                               |
+| Date            | 2023-10-16                                 |
+| Tags            | 跨性别, 环球小姐, 选美, 马切蒂, 科勒, 女性权益, 社会包容性, 网络暴力, 性别认同, 法律政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

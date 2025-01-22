@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件介绍了一次名为“制作酷儿场景”的活动，该活动于2016年12月6日在纽约举行，旨在探讨和庆祝LGBTQ夜生活的历史。活动包含了一群作家、表演者和活动家的讨论，分享了在1980年代和90年代那些开创性的女同性恋酒吧及拖拉表演场地中，如何为有色人种的同性恋和跨性别者提供一个社交、庆祝和反抗偏见的空间。文中提到的活动地点包括Clit俱乐部和布鲁克林的舞蹈派对，展现了纽约的酷儿文化及其持久的重要性。此外，文件还提到了多个相关的组织和赞助者，并附上了活动的照片和历史文献链接。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh-cn_制作酷儿场景.md                             |
 | Size            | 3613 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh-cn.mcny.org/event/making-queer-scene](https://zh-cn.mcny.org/event/making-queer-scene)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2016-12-06                                 |
+| Tags            | 多元性别, LGBTQ, 酷儿文化, 夜生活, 社会运动, 历史, 社区, 表演艺术, 纽约, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

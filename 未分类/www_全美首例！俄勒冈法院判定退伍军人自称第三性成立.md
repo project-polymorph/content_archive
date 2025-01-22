@@ -46,7 +46,7 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了美国俄勒冈州法院对退伍军人杰米·舒平（Jamie Shupe）性别认定的首例判决，标志着在法律上对第三性别的认可。舒平指出她既不是男性，也不是女性，这一裁决允许她合法地自称为跨性人。法庭的判决基于性别是一个广泛的概念，某些人可能不适合传统的男女分类。舒平生于男性身体，然而其内心认同为女性，最终选择了一个中性名字"杰米"。在合法身份上，她获得了从女性改为“跨性人”的重要胜利，而这一判决在美国具有开创性，可能影响未来的性别认定和法律标准。尽管如此，俄勒冈州的居民仍无法在驾驶执照上选择性别为“跨性人”，反映出目前法律在这一领域的局限性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_全美首例！俄勒冈法院判定退伍军人自称第三性成立.md                             |
 | Size            | 2769 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2016-06/14/c_129059351.htm](http://www.xinhuanet.com/world/2016-06/14/c_129059351.htm)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2016-06-10                                 |
+| Tags            | 第三性, 跨性别, 法律判决, 性别认同, 杰米·舒平, 俄勒冈州, 退伍军人, 人权, 性别平等, 社会变迁                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

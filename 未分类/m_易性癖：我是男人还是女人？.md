@@ -117,8 +117,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_易性癖：我是男人还是女人？.md                             |
 | Size            | 9441 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.xinli001.com/info/100306557](https://m.xinli001.com/info/100306557)                       |
 | Author          | 吴晓芬                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

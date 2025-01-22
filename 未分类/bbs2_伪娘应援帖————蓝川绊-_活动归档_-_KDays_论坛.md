@@ -250,8 +250,8 @@ LV.0
 |-----------------|----------------------------------------|
 | Filename        | bbs2_伪娘应援帖————蓝川绊-_活动归档_-_KDays_论坛.md                             |
 | Size            | 6318 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs2.kdays.net/read/51117](https://bbs2.kdays.net/read/51117)                       |
 | Author          | 本田小板凳                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-11-12                                 |

@@ -65,8 +65,8 @@ PS2：相反让Gael Garcia Bernal演一个小受，太让人掀桌了！你见�
 |-----------------|----------------------------------------|
 | Filename        | m_母亲，孩子，变性人，和子宫-_不良教育_-_豆瓣.md                             |
 | Size            | 7033 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/1466153/](https://m.douban.com/movie/review/1466153/)                       |
 | Author          | 未知                               |
 | Region          | 西班牙                               |
 | Date            | 未知                                 |

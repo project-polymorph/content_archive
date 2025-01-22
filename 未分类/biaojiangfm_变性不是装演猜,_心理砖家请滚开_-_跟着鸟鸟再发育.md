@@ -71,8 +71,8 @@ _（特约专栏，未经允许，不得转载。本文不代表本网观点。�
 |-----------------|----------------------------------------|
 | Filename        | biaojiangfm_变性不是装演猜,_心理砖家请滚开_-_跟着鸟鸟再发育.md                             |
 | Size            | 5698 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://biaojiangfm.typlog.io/2016/20160101](https://biaojiangfm.typlog.io/2016/20160101)                       |
 | Author          | 跟着鸟鸟再发育                               |
 | Region          | 未知                               |
 | Date            | 2016-01-01                                 |

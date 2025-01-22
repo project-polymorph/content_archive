@@ -160,7 +160,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件介绍了泰国天使之家这一专业变性手术中心，提供了有关变性手术及相关服务的信息，包括变性手术的优势、流程、费用和专家等内容。泰国因其成熟的变性手术技术和丰富的医疗资源，成为全球知名的变性手术目的地。文件中提到，泰国在跨性别医疗领域有着35年的经验，手术成功率高达70%-85%，且费用比西方国家低50%以上，深受众多变性者欢迎。此外，文中提供了手术预约的详细流程以及多种咨询渠道，以便咨询者获得个性化方案和专业指导。各类问题的解决方案和手术成功案例也被列出，以帮助用户更好地理解变性手术背后的医学和社会支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -171,12 +171,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国天使之家_专业的泰国变性手术中心_变性人CDTS变装伪娘易装网站.md                             |
 | Size            | 8740 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.transgender-thailand.org/](http://www.transgender-thailand.org/)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 泰国天使之家, 跨性别医疗, 变性人资源, 医疗服务, 法律政策, 社会接受度, 案例分享, 费用对比, 预约流程                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

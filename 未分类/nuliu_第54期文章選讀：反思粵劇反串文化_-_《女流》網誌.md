@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | nuliu_第54期文章選讀：反思粵劇反串文化_-_《女流》網誌.md                             |
 | Size            | 10631 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nuliu.wordpress.com/2009/12/15/%E7%AC%AC54%E6%9C%9F%E6%96%87%E7%AB%A0%E9%81%B8%E8%AE%80%EF%BC%9A%E5%8F%8D%E6%80%9D%E7%B2%B5%E5%8A%87%E5%8F%8D%E4%B8%B2%E6%96%87%E5%8C%96/](https://nuliu.wordpress.com/2009/12/15/%E7%AC%AC54%E6%9C%9F%E6%96%87%E7%AB%A0%E9%81%B8%E8%AE%80%EF%BC%9A%E5%8F%8D%E6%80%9D%E7%B2%B5%E5%8A%87%E5%8F%8D%E4%B8%B2%E6%96%87%E5%8C%96/)                       |
 | Author          | 陈泽蕾                               |
 | Region          | 香港                               |
 | Date            | 2009-12-15                                 |

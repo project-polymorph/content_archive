@@ -131,7 +131,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了伪娘这一二次元文化中的独特角色，详细介绍了伪娘的定义、种类及其社会文化意义。伪娘是指那些外貌上女性化的男性角色，但在身份上仍认同为男性。文章通过对伪娘不同分类的解析，介绍了三种主要类型：普通伪娘、秀吉型伪娘和女性外表伪娘，强调了伪娘的价值与魅力。此外，文本还讨论了伪娘角色在社交中的优势，以及对待伪娘角色时需要的尊重与理解。最后，作者指出伪娘在二次元文化中的重要性以及对部分人群的吸引力，认为伪娘不仅仅是简单的角色扮演，更是对性别表达的探索与尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -142,12 +142,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_这么可爱一定是男孩子！刷了这么多年的梗，你真的了解伪娘吗？_-_网易.md                             |
 | Size            | 8000 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.163.com/dy/article/F5EG4L5805451QZ5.html](https://www.163.com/dy/article/F5EG4L5805451QZ5.html)                       |
+| Author          | 扶桑·某小铭                               |
+| Region          | 未知                               |
+| Date            | 2020-02-15                                 |
+| Tags            | 伪娘, 二次元, 性别表达, 跨性别, 文化, 动漫, 角色分析, 性别认同, 网络文化, 性别研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

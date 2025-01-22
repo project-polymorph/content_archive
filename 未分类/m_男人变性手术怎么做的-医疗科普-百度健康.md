@@ -63,8 +63,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_男人变性手术怎么做的-医疗科普-百度健康.md                             |
 | Size            | 3721 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.baidu.com/bh/m/detail/qr_5944995712993844662](https://m.baidu.com/bh/m/detail/qr_5944995712993844662)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

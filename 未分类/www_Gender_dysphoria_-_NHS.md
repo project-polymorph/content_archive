@@ -122,7 +122,7 @@ Next review due: 28 May 2023
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于性别焦虑的全面概述，详细解释了什么是性别焦虑、性别认同的概念及其对个体生活的影响。性别焦虑是指个体因生物性别与性别认同之间不匹配而产生的不适感。这种不适感可能会导致严重的抑郁和焦虑，影响日常生活。文件中提到，许多人会通过改变外观和行为的方式来表达与其性别认同相匹配的生活方式。某些人可能会选择激素治疗和手术，以表达他们的性别认同。此外，文件也讨论了儿童的性别认同问题，指出一些儿童可能会表现出对与其生物性别相符的行为的不满，但并不是所有这样的表现都意味着儿童经历性别焦虑。有关如何获取帮助的信息也包含在内，如咨询全科医生并接受性别焦虑临床诊所的评估。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -133,12 +133,12 @@ Next review due: 28 May 2023
 |-----------------|----------------------------------------|
 | Filename        | www_Gender_dysphoria_-_NHS.md                             |
 | Size            | 6495 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.nhs.uk/conditions/gender-dysphoria/](https://www.nhs.uk/conditions/gender-dysphoria/)                       |
+| Author          | NHS                               |
+| Region          | 英国                               |
+| Date            | 未知                                 |
+| Tags            | 性别焦虑, 性别认同, 心理健康, 生物性别, 非二元性别, 性别表达, 医疗资源, 法律政策, 治疗方案, 儿童性别问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

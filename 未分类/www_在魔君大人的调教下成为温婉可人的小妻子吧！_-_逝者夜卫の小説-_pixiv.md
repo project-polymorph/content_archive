@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说由作者逝者夜卫创作，标题为《在魔君大人的调教下成为温婉可人的小妻子吧！》。作品探讨了一种包含性别转换、调教和角色扮演的幻想情节。作者展现了一个关于女装、纯爱以及凌辱的复杂而富有想象力的故事，内容中充满各种刺激的元素如触手、婚纱以及伪娘角色，旨在激发读者的想象和情感共鸣。作品语言是简体中文，包含大量成人向的暗示和描绘，适合向成年读者寻求刺激和幻想的人群。在结尾部分，作者提出了一个小彩蛋，增添了趣味性。作者也希望通过这篇文章得到读者的反馈，并呼吁获取评论与支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_在魔君大人的调教下成为温婉可人的小妻子吧！_-_逝者夜卫の小説-_pixiv.md                             |
 | Size            | 1106 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.pixiv.net/novel/show.php?id=17762706](https://www.pixiv.net/novel/show.php?id=17762706)                       |
+| Author          | 逝者夜卫                               |
+| Region          | 未知                               |
+| Date            | 2022-06-11                                 |
+| Tags            | 性转, 调教, 女装, 婚纱, 触手, 纯爱, 凌辱, 伪娘, 寸止, R-18                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

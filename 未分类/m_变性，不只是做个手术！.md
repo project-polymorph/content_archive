@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性，不只是做个手术！.md                             |
 | Size            | 6386 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.cmt.com.cn/detail/1288587.html](https://m.cmt.com.cn/detail/1288587.html)                       |
 | Author          | 佚名                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-02-28                                 |

@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_频道列表-_新闻中心-_温州网.md                             |
 | Size            | 1090 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.66wz.com/system/more/2040000/0007/2040000_00000760.shtml](https://news.66wz.com/system/more/2040000/0007/2040000_00000760.shtml)                       |
 | Author          | 温州网                               |
 | Region          | 中国大陆                               |
 | Date            | 2008-06-06                                 |

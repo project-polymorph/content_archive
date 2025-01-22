@@ -385,7 +385,7 @@ Phalloplasty
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档详细介绍了阴茎成形手术（也称为下半身手术），特别是在泰国曼谷的Kamol医院进行的手术。这种手术旨在帮助女性转男性的患者，通过手术改变其生殖器的外观，以符合其性别认同。文中首先介绍了手术的目的和影响，指出这种手术可以让跨性别男性拥有更符合其性别认同的身体特征，如站立排尿的能力及可能的勃起功能。文中详细描述了阴茎成形的主要方法，包括以阴蒂为基础的重建和使用前臂或大腿的皮瓣制成阴茎。合适的手术候选人条件也被提及，包括年龄、心理评估及身体健康状况。文中还列出了手术的福利、不同类型技术的优缺点，以及如何准备手术和捐赠部位等实用信息。最后，文中配有手术过程和效果的图示，以及Kamol医生的背景和成就。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -396,12 +396,12 @@ Phalloplasty
 |-----------------|----------------------------------------|
 | Filename        | www_阴茎成形手术.md                             |
 | Size            | 20691 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/service/32/phalloplasty](https://www.kamolhospital.com/zh/service/32/phalloplasty)                       |
+| Author          | Kamol医院                               |
+| Region          | 泰国曼谷                               |
+| Date            | 未知                                 |
+| Tags            | 阴茎成形手术, 性别确认手术, 跨性别医疗, 性别重建手术, 女性转男性手术, 医疗资源, 性别身份, 心理健康评估, 手术技术, 整形外科                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

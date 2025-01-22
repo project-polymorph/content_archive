@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了南京地区伪娘文化的一个重要案例，通过作者南京炳炳酱在2020年8月发出的详细报道，展示了伪娘在日常生活中的穿搭与表现。作者分享了自己作为男娘的体验，包括穿丝袜的首次尝试，以及与他人互动的经历，例如在女装外出时遇到的热情老板娘，生动反映了伪娘的日常生活和社会穿搭常态。文中包含了多个场景的描述，暗示了伪娘文化在南京的融合与发展，也侧面展现了社会对多元性别的接受度。文件内容包含了对“伪街”文化的记录，并附有相关图片和标签，为想要了解当代伪娘文化的读者提供了丰富的资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_八年南京伪娘报道cd伪街日常更衣室自拍_-_bilibili.md                             |
 | Size            | 1524 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av711986169/](https://www.bilibili.com/video/av711986169/)                       |
+| Author          | 南京炳炳酱                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-08-30                                 |
+| Tags            | 伪娘, 男娘, 女装大佬, TS, 伪街, 时尚, 穿搭, 女装, 南京, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

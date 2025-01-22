@@ -66,7 +66,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细记录了在湖南省邵阳市新邵县申请变更或更正性别登记的相关信息。文件中包含了申请事项的实施编码、咨询方式、监督投诉方式以及基本信息，如事项类型、办件类型、行使层级和实施机关，并指出此项服务不收费。受理条件说明了公民因变性手术等原因造成性别变化时的申请条件。同时，文件提供了详细的申请所需材料清单，包括书面申请、居民户口簿及更正性别登记凭证等，明确要求申请人现场提交纸质材料。此外，文件列出了办理地点、办理时间及办理流程，并附有相关法律依据，以指引申请者顺利完成申请手续。这份资料对于理解和推广变更性别的法律程序及实际操作具有重要参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,12 +77,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zwfw-new_变更更正性别.md                             |
 | Size            | 3838 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://zwfw-new.hunan.gov.cn/onething/service/serviceguideckdownload.jsp?approve_id=8080655509b64976a4dc5342eb5b8026&type=xndtbm](http://zwfw-new.hunan.gov.cn/onething/service/serviceguideckdownload.jsp?approve_id=8080655509b64976a4dc5342eb5b8026&type=xndtbm)                       |
+| Author          | 未知                               |
+| Region          | 湖南省                               |
+| Date            | 未知                                 |
+| Tags            | 变更性别, 更正性别, 行政服务, 性别登记, 湖南省公安局, 变性手术, 法律政策, 户口登记, 申请材料, 社会服务                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

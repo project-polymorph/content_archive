@@ -110,7 +110,7 @@ Copyright © 2020 jdjiankang.com 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一名36岁男性患者咨询变性手术所需资料及手术条件的问答过程。内容包括变性手术的要求、医疗建议和相关流程。医生解释了变性手术在我国的严格规定，并建议患者咨询具备资质的医院以获得详细要求和步骤。同时，文章强调了健康生活方式的重要性，并提供了与手术相关的其他医药建议，比如术后恢复期间的注意事项。文章中提到了一些专业医生和医疗机构的信息，帮助患者了解手术选择及咨询途径。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -121,12 +121,12 @@ Copyright © 2020 jdjiankang.com 版权所有
 |-----------------|----------------------------------------|
 | Filename        | www_患者询问变性手术所需资料及手术条件。患者男性36岁咨询-图文问诊.md                             |
 | Size            | 4040 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/qa/226593598223688](https://www.jd.com/qa/226593598223688)                       |
+| Author          | 京东健康                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别重置手术, 医疗咨询, 患者故事, 整形外科, 健康生活方式, 术后恢复, 法律政策, 医生建议, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本演讲以英美文学中的跨性别经典小说《欧兰朵》为切入点，阐述了跨性别与激进女性主义之间的复杂关系。通过对小说主角的性别经历和相关跨性别电影的分析，演讲揭示了涉及身体情欲、亲属关系、阶级差异和种族认同等多元议题。特别地，演讲关注了台灣跨性别运动的现状，并探讨了激进女性主义者对跨性别议题的反应，以及美国理论家朱迪思·巴特勒对反跨激进女性主义的批评。整场演讲不仅回顾了相关文本的历史与文化背景，也鼓励观众深入思考这些性别交织议题在当代社会的重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_演講將從號稱當代trans的第一部英文小說《歐蘭朵》開始談起，凸顯_.md                             |
 | Size            | 2255 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.threads.net/@holok3holok/post/C--pbsnPnYS](https://www.threads.net/@holok3holok/post/C--pbsnPnYS)                       |
+| Author          | 张小虹                               |
+| Region          | 台湾                               |
+| Date            | 2024-08-22                                 |
+| Tags            | 跨性别, 激进女性主义, 台灣, 性别交织, 文学, 电影, 身体情欲, 亲属关系, 阶级差异, 种族认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

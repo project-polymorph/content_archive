@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_修練愛情的心酸！小A辣曝「以前嚮往結婚」現在卻因3點退縮掀論戰.md                             |
 | Size            | 3179 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.tvbs.com.tw/entertainment/2680363](https://news.tvbs.com.tw/entertainment/2680363)                       |
 | Author          | 何旻謙                               |
 | Region          | 台湾                               |
 | Date            | 2024-11-09                                 |

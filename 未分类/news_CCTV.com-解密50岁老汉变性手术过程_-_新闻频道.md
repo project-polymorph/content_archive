@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_CCTV.com-解密50岁老汉变性手术过程_-_新闻频道.md                             |
 | Size            | 1045 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.cctv.com/society/20070430/100338.shtml](http://news.cctv.com/society/20070430/100338.shtml)                       |
 | Author          | 人民网                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-04-30                                 |

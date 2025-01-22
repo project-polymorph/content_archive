@@ -58,8 +58,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_女装大佬小璐-斗鱼直播.md                             |
 | Size            | 1107 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douyu.com/5410456](https://m.douyu.com/5410456)                       |
 | Author          | 未知                               |
 | Region          | 扬州市                               |
 | Date            | 2018-07-28                                 |

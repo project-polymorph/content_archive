@@ -197,8 +197,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_人妖阿娜答-_图书-_豆瓣.md                             |
 | Size            | 9661 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/2023817/](https://m.douban.com/book/subject/2023817/)                       |
 | Author          | 吉野玛莉                               |
 | Region          | 台湾                               |
 | Date            | 2005-10-25                                 |

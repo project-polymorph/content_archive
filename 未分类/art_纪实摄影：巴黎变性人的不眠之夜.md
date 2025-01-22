@@ -38,8 +38,8 @@ _(责编：孙石磊、张卉)_
 |-----------------|----------------------------------------|
 | Filename        | art_纪实摄影：巴黎变性人的不眠之夜.md                             |
 | Size            | 1769 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://art.people.com.cn/n/2013/0628/c226026-22007042.html](http://art.people.com.cn/n/2013/0628/c226026-22007042.html)                       |
 | Author          | 新华网，克里斯特尔·斯特伦霍尔姆                               |
 | Region          | 法国，巴黎                               |
 | Date            | 2013-06-28                                 |

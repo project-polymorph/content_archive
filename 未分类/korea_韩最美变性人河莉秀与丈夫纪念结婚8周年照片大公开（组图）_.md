@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | korea_韩最美变性人河莉秀与丈夫纪念结婚8周年照片大公开（组图）_.md                             |
 | Size            | 1122 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://korea.people.com.cn/n/2014/1015/c205180-8794978-3.html](http://korea.people.com.cn/n/2014/1015/c205180-8794978-3.html)                       |
 | Author          | 人民网-韩国频道                               |
 | Region          | 韩国                               |
 | Date            | 2014-10-15                                 |

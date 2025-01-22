@@ -185,7 +185,7 @@ fluid｜性别研究社以尊重为前提从性别视角解读社会问题，入
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件来自性别流动研究社，综合了多期播客内容，讨论了许多与性别和文化相关的议题。首先，节目对BL文化进行了深刻的探讨，问到‘为什么要创造一个没有女人的世界’，同时探讨了BL文学对性别刻板印象的影响。其次，内容涵盖了选秀文化的兴衰，强调了选秀亚文化圈的内部制度和规则，以及粉丝们在当中所承担的角色和情感。接着，讨论了K-pop中的东方主义与审美霸权，表达了对行业标准的批判，涉及与西方美学的冲突。此外，文件也讨论了粉丝文化和爱豆的恋爱问题，包括对女爱豆的性别认同与期望。这些内容集合了对当代性别话题、文化现象和社会现状的多维度分析，适合希望深入了解多元性别与文化交融的读者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -196,12 +196,12 @@ fluid｜性别研究社以尊重为前提从性别视角解读社会问题，入
 |-----------------|----------------------------------------|
 | Filename        | www_Fluid｜性别流动研究社_-_小宇宙.md                             |
 | Size            | 10472 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xiaoyuzhoufm.com/podcast/660e429c075257f6ffeaabb6](https://www.xiaoyuzhoufm.com/podcast/660e429c075257f6ffeaabb6)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别流动, BL文化, 粉丝文化, 选秀文化, K-pop, 文化霸权, 性别刻板印象, 性别认同, 听众参与, 社会现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

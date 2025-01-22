@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《性转短篇合集》漫画的第三话，属于一个多人合作的漫画系列，目前正在连载中。该系列以搞笑为主题，通过短篇故事呈现性别转换的奇妙体验和幽默情节。文件中提到的漫画包括第一话、第二话及本话，并提供了相应的链接。漫画包含可能不适合未成年观众的暴力、血腥、色情或不当语言的内容，在此特别提醒观众年龄限制。漫画的作者和出版组织均为不明，通过提供的链接可以找到更多作品信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性转短篇合集漫画_3连载中.md                             |
 | Size            | 1265 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.manhuaren.com/manhua-xingzhuanduanpianheji/](https://www.manhuaren.com/manhua-xingzhuanduanpianheji/)                       |
+| Author          | 多人                               |
+| Region          | 未知                               |
+| Date            | 2021-05-09                                 |
+| Tags            | 性别转换, 短篇漫画, 搞笑, 漫画连载, 青年文化, 多元性别, 性转, 图像小说, 漫画分享, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

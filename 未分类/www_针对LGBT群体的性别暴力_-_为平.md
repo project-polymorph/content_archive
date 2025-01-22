@@ -66,7 +66,7 @@ Copyright © 2003-2016 北京为平文化有限公司 All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了针对LGBT群体的性别暴力现象，指出这种暴力不仅反映了性别与性态之间的关系，也揭示了社会对LGBT群体受到暴力时的忽视。文中提到，常见的暴力施行者会基于对男同性恋者的偏见来合理化其暴力行为。文章进一步分析了在LGBT伴侣关系中，家庭暴力被更难以识别，往往因为主流的家暴服务结构并不考虑同性关系的特殊性。此外，针对LGBT群体的家暴与异性恋关系有着相似之处，例如虐待的形式和施暴者对受害者的控制，但在孤立感、异性恋主义操控、对进一步压迫的恐惧等方面表现出差异。最后，文中给出了一些良好实践的例子，旨在为LGBT伴侣提供更多的支持和帮助。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -77,12 +77,12 @@ Copyright © 2003-2016 北京为平文化有限公司 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_针对LGBT群体的性别暴力_-_为平.md                             |
 | Size            | 6164 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.equality-beijing.org/violence.aspx?id=3](http://www.equality-beijing.org/violence.aspx?id=3)                       |
+| Author          | 得为、黄淑贞                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别暴力, LGBT, 家庭暴力, 性别与性态, 社会偏见, 法律政策, 性少数群体, 服务机构, 受害者支持, 反对歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

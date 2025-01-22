@@ -47,7 +47,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了美国当选总统特朗普的过渡团队拟定成立一个由退役军人组成的“战士委员会”的消息。该委员会旨在审查美军中的三星和四星将官，建议罢免那些被认为缺乏领导力的军方领导层。文章中提到，该委员会的成立受到乔治·马歇尔将军1940年设立的选拔委员会的启发，之前的选拔委员会主要是清退表现不佳的军官。本次计划的委员会将重点评估军官的领导能力和战略理解能力，显然是希望进一步清理军队中的多元化和“觉醒文化”。文章还提到，特朗普曾在竞选活动中承诺要清理军中的“失败将军”，并强调这一委员会可能会使军中的高官感受到压力，难以反对非法命令。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -58,12 +58,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_特朗普被曝拟成立委员会清退“无能”军官或涉将官_-_文学城.md                             |
 | Size            | 4987 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wenxuecity.com/news/2024/11/13/125869540.html](https://www.wenxuecity.com/news/2024/11/13/125869540.html)                       |
+| Author          | 红星新闻                               |
+| Region          | 美国                               |
+| Date            | 2024-11-13                                 |
+| Tags            | 特朗普, 战士委员会, 美军领导层, 军官审查, 多元化, 觉醒文化, 军事政策, 军事改革, 领导力, 退役军人                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

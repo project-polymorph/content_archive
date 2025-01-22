@@ -88,7 +88,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章通过三位变性人的故事，深入探讨了她们的爱情经历和心路历程。文章的主角之一是歆儿，她在2006年5月20日经历了吉林省首例公开的变性人婚礼。在婚礼上，歆儿表达了自己的幸福，尽管她的身份依然受到社会的关注和挑战。她回忆起小时候对性别身份的模糊感和初恋的甜蜜，以及如何最终通过手术实现变性，获得了与爱人共享生活的机会。文章还讲述了珊珊和菲儿的故事，反映了变性人在寻求爱情和生活的过程中所面临的各种困境和挑战。珊珊表达出对爱情的失望，而菲儿则怀念她的初恋，最终因家庭反对而让爱情破裂。这篇文章不仅展示了变性人的生活与爱情，更呼吁社会对这一群体给予更多的理解与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,12 +99,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_三位变性人讲述爱情故事：不愿成为猎奇对象_-_建设工程教育网.md                             |
 | Size            | 9698 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jianshe99.com/html/2006/6/fm040820531816600214650.html](http://www.jianshe99.com/html/2006/6/fm040820531816600214650.html)                       |
+| Author          | 建设工程教育网                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-06-01                                 |
+| Tags            | 变性人, 爱情故事, 生命故事, 婚礼, 社会接受度, 性别认同, 心路历程, 心理健康, 家庭支持, 法律权益                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

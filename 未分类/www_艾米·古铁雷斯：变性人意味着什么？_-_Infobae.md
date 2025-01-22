@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于秘鲁歌手艾米·古铁雷斯在一次采访中分享她的性取向及其对个人生活的影响的讨论。艾米在社交媒体上引起了公众对她生活中一些鲜为人知方面的好奇，特别是她在采访中提到的与朋友的亲密互动。艾米表示她认为自己是同性恋，但同时也对各种性别的吸引力表示开放。在采访中，艾米描述了亲吻朋友如何增强人际间的信任和友谊，这一话题与她曾参与的与双性恋相关的事件呼应。文章还深入探讨了“同性恋”及“多元性别”词汇的定义，引用了联合国难民署的资料，分析了性取向的复杂性。它强调了LGBTI社区的重要性以及当下对性别和性取向认同的多样化理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_艾米·古铁雷斯：变性人意味着什么？_-_Infobae.md                             |
 | Size            | 4382 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.infobae.com/cn/2022/03/19/amy-gutierrez-what-does-it-mean-to-be-pansexual/](https://www.infobae.com/cn/2022/03/19/amy-gutierrez-what-does-it-mean-to-be-pansexual/)                       |
+| Author          | 未知                               |
+| Region          | 秘鲁                               |
+| Date            | 2022-03-19                                 |
+| Tags            | 艾米·古铁雷斯, 变性人, 同性恋, LGBT社区, LGBT, 性取向, 秘鲁, 新闻报道, 社会评论, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

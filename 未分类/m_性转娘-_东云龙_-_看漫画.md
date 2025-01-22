@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//cf.mhgui.com/cpic/m/12478.jpg)_完结_
+![](https://cf.mhgui.com/cpic/m/12478.jpg)_完结_
 
 **更新至：** 短篇  
 **更新于：** 2014-03-14  
@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性转娘-_东云龙_-_看漫画.md                             |
 | Size            | 1028 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.manhuagui.com/comic/12478/](https://m.manhuagui.com/comic/12478/)                       |
 | Author          | 东云龙                               |
 | Region          | 未知                               |
 | Date            | 2014-03-14                                 |

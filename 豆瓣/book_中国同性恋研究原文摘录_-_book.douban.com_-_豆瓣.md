@@ -166,8 +166,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_中国同性恋研究原文摘录_-_book.douban.com_-_豆瓣.md                             |
 | Size            | 23545 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/1059963/blockquotes](https://book.douban.com/subject/1059963/blockquotes)                       |
 | Author          | 麝明 Musk Ming                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

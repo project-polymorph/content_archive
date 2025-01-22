@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件来自中国医药大学附设医院，主要讨论跨性别人士在嗓音治疗与训练方面的需求与咨询。文件中包含一系列常见问题，详细介绍了医院是否提供跨性别者所需的嗓音训练及治疗服务。内容强调在获取医学建议和治疗时，患者需寻求专业医疗人员的意见，医院表示提供的信息仅供参考而不能替代专业的医学诊断。文中亦提到医院对于非健康问题咨询保留删除留言的权利。该资料为跨性别医疗资源的一部分，旨在帮助跨性别人士了解嗓音治疗的可用选项，为其过渡过程提供支持与帮助。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別嗓音治療_問題詢問_-_中國醫藥大學附設醫院.md                             |
 | Size            | 801 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.cmuh.cmu.edu.tw/Question/Detail?no=13527](https://www.cmuh.cmu.edu.tw/Question/Detail?no=13527)                       |
+| Author          | 中国医药大学附设医院                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 嗓音治疗, 医疗咨询, 个人健康, 医学训练, 跨性别人士支持, 医疗资源, 医院服务, 健康问询, 声乐培训                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

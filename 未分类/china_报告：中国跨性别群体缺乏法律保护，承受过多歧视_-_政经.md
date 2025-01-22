@@ -82,8 +82,8 @@
 |-----------------|----------------------------------------|
 | Filename        | china_报告：中国跨性别群体缺乏法律保护，承受过多歧视_-_政经.md                             |
 | Size            | 3965 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://china.caixin.com/2018-08-07/101312508.html](https://china.caixin.com/2018-08-07/101312508.html)                       |
 | Author          | 王瑞琪（财新网实习记者）                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-08-07                                 |

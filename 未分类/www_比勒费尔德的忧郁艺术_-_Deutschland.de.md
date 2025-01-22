@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了跨性别音乐人Anohni（安诺尼）在比勒费尔德艺术馆展出的艺术作品。Anohni原名Antony Hegarty，是一位具有政治性和玩世不恭精神的艺术家，以其独特的忧郁艺术风格而闻名。本次展览展示了她的雕塑作品，其中至少有一件作品创作于2015年，灵感源于她在柏林的艺术家项目奖学金经历。Anohni还参与了该展览的策展工作，甄选了包括James Elaine、Peter Hujar和Kazuo Ohno在内的艺术作品。展览不仅是对Anohni个人艺术发展的展示，也反映了当前多元性别艺术界的发展和多样性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_比勒费尔德的忧郁艺术_-_Deutschland.de.md                             |
 | Size            | 1279 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.deutschland.de/zh-hans/topic/wenhua/yishuyujianzhu/bileifeierdedeyouyuyishu](https://www.deutschland.de/zh-hans/topic/wenhua/yishuyujianzhu/bileifeierdedeyouyuyishu)                       |
+| Author          | 未知                               |
+| Region          | 德国                               |
+| Date            | 2016-09-29                                 |
+| Tags            | 跨性别, 音乐人, Anohni, 艺术展览, 比勒费尔德, 雕塑, 多元性别, 政治艺术, 文化活动, 当代艺术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

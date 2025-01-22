@@ -67,7 +67,7 @@ Ollie (they/them) is a queer and nonbinary Southeast Asian American and psychiat
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《Trans Student Educational Resources》，是一个专注于变性及性别不合群学生的年轻人主导的组织，致力于通过倡导和赋权来转变教育环境。此组织成立于2011年，是唯一由变性青少年领导的全国性组织。文件中详细介绍了该组织的使命，包括创建更具友好性的教育体系、教育公众以及培养变性活动家成为有效的组织者。文中还提到，该组织会举办会议、训练教师、与其他倡导组织合作以及组织全国性的变性青年领导峰会等活动。此外，它支持变性相关的事件，提供变性青少年的领导培训和奖学金，并宣传变性在媒体中的表现。文件还包含了多幅与组织活动及公共资源相关的图片，展示了组织的多样性和包容性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -78,12 +78,12 @@ Ollie (they/them) is a queer and nonbinary Southeast Asian American and psychiat
 |-----------------|----------------------------------------|
 | Filename        | transstudent_Trans_Student_Educational_Resources_-.md                             |
 | Size            | 4945 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transstudent.org/](https://transstudent.org/)                       |
+| Author          | Trans Student Educational Resources                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别不合群, 教育资源, 青少年领导, 倡导活动, 社会变革, 变性政策, 领导培训, 奖学金, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

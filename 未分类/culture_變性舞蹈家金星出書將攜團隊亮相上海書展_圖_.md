@@ -34,8 +34,8 @@
 |-----------------|----------------------------------------|
 | Filename        | culture_變性舞蹈家金星出書將攜團隊亮相上海書展_圖_.md                             |
 | Size            | 2520 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://culture.people.com.cn/BIG5/n/2013/0812/c172318-22534150.html](http://culture.people.com.cn/BIG5/n/2013/0812/c172318-22534150.html)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2013-08-12                                 |

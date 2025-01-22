@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了变性与性别认同障碍之间的关系，特别是性别不安的相关性。文本引用了整形外科医生沈秉辉的见解，并简要介绍了美医誌这一网络平台，强调其在美容医学和健康信息传播中的作用。文中提到，美医誌旨在为用户提供可靠的医学资讯，并希望通过信息的流通与透明化，帮助用户在整形手术前做出明智决策。还提供了社交媒体链接和其他相关资源，以便用户获取更多信息和咨询支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變性｜什麼是性別認同障礙？跟性別不安有關嗎？ft.整形外科_.md                             |
 | Size            | 2241 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=qXhzAu0eR5E](https://www.youtube.com/watch?v=qXhzAu0eR5E)                       |
+| Author          | ME Media 美醫誌                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同障碍, 性别不安, 整形外科, 美容医学, 健康资讯, 手术流程, 医学信息传播, 社交媒体, 资源分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

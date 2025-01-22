@@ -86,8 +86,8 @@
 |-----------------|----------------------------------------|
 | Filename        | s_门票，门票预订，门票价格【飞猪门票】.md                             |
 | Size            | 3688 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://s.alitrip.com/scenic/detail.htm?sid=2854](http://s.alitrip.com/scenic/detail.htm?sid=2854)                       |
 | Author          | 未知                               |
 | Region          | 曼谷                               |
 | Date            | 未知                                 |

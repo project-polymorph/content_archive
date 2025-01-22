@@ -44,8 +44,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_如果不属于大多数，光是活着就很累了-_二毛-_豆瓣.md                             |
 | Size            | 4570 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/14826877/](https://m.douban.com/movie/review/14826877/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-11-23                                 |

@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细记录了沈阳的老陈进行变性后的最新手术经历。文章叙述了老陈在2006年12月12日，在妻子和女儿的陪伴下再次进入杏林美容医院，进行隆胸和喉结成型手术，以实现他成为女性的梦想。根据家人的介绍，老陈（现名陈菲菲）自幼厌恶自己的性别，经历了多次轻生尝试，变性手术成为了他心中长久以来的追求。手术后，陈菲菲的家人，特别是妻子和两个女儿，已经习惯称呼他为‘姑姑’，体现了家庭对其身份的理解和支持。文章还提到了手术引起的媒体关注，反映了公众对变性人群体日益增多的关心。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | vip_沈阳老陈进行变性后续手术-人民图片网.md                             |
 | Size            | 2854 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://vip.people.com.cn/albumsDetail?aid=604186&pid=4042888](http://vip.people.com.cn/albumsDetail?aid=604186&pid=4042888)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-12-12                                 |
+| Tags            | 变性手术, 性别认同, 个人故事, 家庭支持, 新闻报道, 媒体关注, 医疗经历, 沈阳, 变性人群体, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -89,7 +89,7 @@ https://www.cna.com.tw/news/aipl/202310120162.aspx （中央社记者林敬殷�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了台湾性别不明关怀协会的各项活动和重要通知，展示了协会在性别多元领域的努力和贡献。其中包括了多场重要活动的预告和报道，如跨性别女同志与顺性别女同志的对话活动、跨性别纪念日的集会、在台北医学大学的演讲及健保用药讨论会的记录。此外，还提及了协会对台湾基进反对免术换证的回应，展示出协会在推动社会意识与政策变化方面的积极参与。文中也包含了协会最新的咨询电话升级通知，方便社会大眾获取相关支持与服务。整体上，这份档案强调了不平等的生存状态和呼唤关注的社会责任。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,12 +100,12 @@ https://www.cna.com.tw/news/aipl/202310120162.aspx （中央社记者林敬殷�
 |-----------------|----------------------------------------|
 | Filename        | www_台灣性別不明關懷協會.md                             |
 | Size            | 5911 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.istscare.org/](https://www.istscare.org/)                       |
+| Author          | 台湾性别不明关怀协会                               |
+| Region          | 台湾                               |
+| Date            | 2024-12-17                                 |
+| Tags            | 性别不明, 跨性别, 女同志, 社会活动, 医疗讲座, 法律政策, 纪念日, 社会支持, 反歧视, 台湾                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

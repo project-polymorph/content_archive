@@ -84,8 +84,8 @@ ISBN: 9787543988408
 |-----------------|----------------------------------------|
 | Filename        | m_走出性别困境-_图书-_豆瓣.md                             |
 | Size            | 5006 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/36473977/](https://m.douban.com/book/subject/36473977/)                       |
 | Author          | 潘柏林、刘烨、韩萌、陈冰锐                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-06-01                                 |

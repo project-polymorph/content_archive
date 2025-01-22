@@ -180,7 +180,7 @@ Frankie的分娩经历和纪录片，媒体报道都是正面积极的，然而�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了新西兰跨性别男性Frankie的怀孕和分娩经历，引起了全球的关注和讨论。Frankie与他的同性伴侣Rāwā的孩子并非领养或代孕，而是由Frankie自然生育。文章详细介绍了Frankie的性别认同和变性手术过程，强调了其在变性后依然能够怀孕的生理事实。Frankie从小便与自己的生理性别感到不符，经过变性手术后，他的身体和心灵都得到了归属感。尽管怀孕的路程充满困难，包括流产的经历与性别焦虑，但Frankie最终成功分娩，并在新西兰民族电视台的纪录片中分享这一感人故事。该纪录片在社交媒体上遭到了一些批评，尤其是来自保守团体对其真实性的质疑。文件不仅探讨了个体的性别认同和家庭构建的挑战，同时也反映了在北半球对多元性别群体的接受与争议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -191,12 +191,12 @@ Frankie的分娩经历和纪录片，媒体报道都是正面积极的，然而�
 |-----------------|----------------------------------------|
 | Filename        | www_新西兰男子成功分娩，引全球关注！被批“国际笑话”（组图）.md                             |
 | Size            | 11021 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.sydneytoday.com/content-1024536460062001](https://www.sydneytoday.com/content-1024536460062001)                       |
+| Author          | 发现新西兰                               |
+| Region          | 新西兰                               |
+| Date            | 2024-11-11                                 |
+| Tags            | 跨性别, 性别认同, 怀孕经历, 生育, 同性伴侣, 个人故事, 纪录片, 新西兰, 社会争议, 性别焦虑                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -49,7 +49,7 @@ Copyright © 2025 **燃文小说网** All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《爆、C异装癖室友【肉】》是作者在吃鸡排创作的一部耽美小说，字数约5万字，目前处于连载状态，最后更新于2024年1月12日。小说讲述的是一个拥有百万粉丝的异装癖男孩与一位猛男漫画家的合租生活，彼此间的关系从尴尬到逐渐深入，呈现出一种梦幻与现实交织的情感体验。在这段关系中，受者表现出他对于异装癖的自我认同，同时在梦境中与攻者互相勾引，探索着性取向和情感的复杂性。该作品不仅展现了多元性别的生活状态，还通过幽默与细腻的描写，描绘了他们之间的情感波动和相互吸引。 此作品以丰富的情节和细腻的人物刻画，吸引了10.7万名读者，是当下网络文学中较受欢迎的一篇作品。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@ Copyright © 2025 **燃文小说网** All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_爆、C异装癖室友【肉】_-_燃文小说网.md                             |
 | Size            | 3078 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.aliciaunger.com/book/igiab/](https://www.aliciaunger.com/book/igiab/)                       |
+| Author          | 在吃鸡排                               |
+| Region          | 未知                               |
+| Date            | 2024-01-12                                 |
+| Tags            | 异装癖, 耽美, 网络小说, 漫画家, 合租, 性取向, 梦境, 青春爱情, 多元性别, 生活故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

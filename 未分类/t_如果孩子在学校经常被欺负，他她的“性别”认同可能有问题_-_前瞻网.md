@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | t_如果孩子在学校经常被欺负，他她的“性别”认同可能有问题_-_前瞻网.md                             |
 | Size            | 2881 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://t.qianzhan.com/caijing/detail/210513-d442daae.html](https://t.qianzhan.com/caijing/detail/210513-d442daae.html)                       |
 | Author          | 黄琨                               |
 | Region          | 美国                               |
 | Date            | 2021-05-13                                 |

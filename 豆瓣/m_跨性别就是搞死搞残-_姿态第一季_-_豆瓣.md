@@ -74,8 +74,8 @@ ftm其实更血腥，就和本片无关，以后有机会再谈吧。
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别就是搞死搞残-_姿态第一季_-_豆瓣.md                             |
 | Size            | 4541 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/9509255/](https://m.douban.com/movie/review/9509255/)                       |
 | Author          | 球宝宝                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-07-12                                 |

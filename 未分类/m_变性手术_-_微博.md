@@ -79,8 +79,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性手术_-_微博.md                             |
 | Size            | 2969 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&isnewpage=1&luicode=10000011&lfid=1005051610341495&featurecode=20000180.Sau+T](https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%23&isnewpage=1&luicode=10000011&lfid=1005051610341495&featurecode=20000180.Sau+T)                       |
 | Author          | 微博用户                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-05-13                                 |

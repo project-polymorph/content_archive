@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇新闻报道，标题为《客人怀疑异装癖者盗窃》，发布于2018年2月3日，来源于GFC新闻网。报道中提及了一名受害者在2018年1月28日向警方报案，怀疑一名异装癖者盗走了他在车中放置的2000苏元。报案人士表示，他和嫌疑人在车内相处期间，发现自己的钱不翼而飞，而嫌疑人则否认盗窃行为。经过警方与检察院的协调，异装癖者被释放。警方在报道中呼吁公众在与他人共乘车辆时，务必妥善保管个人贵重物品。此事件引发了关于异装癖者如何被社会标签和对待的讨论，并反映出在乌鲁木齐及更大范围内对多元性别群体的普遍误解与偏见。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_客人怀疑异装癖者盗窃_-_苏里南中华日报.md                             |
 | Size            | 1060 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.chungfadaily.com/info.asp?id=19653](http://www.chungfadaily.com/info.asp?id=19653)                       |
+| Author          | GFC新闻网                               |
+| Region          | 苏里南                               |
+| Date            | 2018-02-03                                 |
+| Tags            | 异装癖, 社会偏见, 盗窃事件, 性别多元, 法律与社会, 公共安全, 新闻报道, 警方处理, 受害者经历, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

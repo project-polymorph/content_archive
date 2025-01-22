@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于《One Piece》中角色大和性别争议的报道。文章讨论了随着Netflix真人版影集的推进，关于大和性别身份的讨论再次引发热议。大和在原著中被称为男性，但其外观特征却具有女性特征，使得许多国际粉丝在最新的漫画彩页发布后，开始认为大和可能是跨性别者。文章中指出，尽管原作中使用了男性代词“he/him”来称呼大和，但部分欧美读者对其身份表示不同看法，认为原作者有可能表达出对这一性别议题的误解或偏见。文章还提到了在社交媒体上引发的争议和讨论，反映出日本文化作品中性别表达的多样性和复杂性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《One_Piece》大和性別再起爭議外國粉絲：這角色是「跨性別」.md                             |
 | Size            | 3784 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/904188/one-piece-%E5%A4%A7%E5%92%8C%E6%80%A7%E5%88%A5%E5%86%8D%E8%B5%B7%E7%88%AD%E8%AD%B0-%E5%A4%96%E5%9C%8B%E7%B2%89%E7%B5%B2-%E9%80%99%E8%A7%92%E8%89%B2%E6%98%AF-%E8%B7%A8%E6%80%A7%E5%88%A5](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/904188/one-piece-%E5%A4%A7%E5%92%8C%E6%80%A7%E5%88%A5%E5%86%8D%E8%B5%B7%E7%88%AD%E8%AD%B0-%E5%A4%96%E5%9C%8B%E7%B2%89%E7%B5%B2-%E9%80%99%E8%A7%92%E8%89%B2%E6%98%AF-%E8%B7%A8%E6%80%A7%E5%88%A5)                       |
+| Author          | COOL潮流生活网                               |
+| Region          | 未知                               |
+| Date            | 2023-06-01                                 |
+| Tags            | One Piece, 海贼王, 大和, 性别争议, 跨性别, 日本漫画, 尾田荣一郎, ACG, 动漫多媒体, 社会议题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

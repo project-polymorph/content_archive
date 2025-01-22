@@ -50,8 +50,8 @@ Copyright © 元照出版 All rights reserved. 版權所有，禁止轉貼節錄
 |-----------------|----------------------------------------|
 | Filename        | lawdata_珍的故事》的變性敘事及其性／別意識之體現-_元照出版,_月旦知識庫.md                             |
 | Size            | 5182 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://lawdata.com.tw/tw/detail.aspx?no=523222](http://lawdata.com.tw/tw/detail.aspx?no=523222)                       |
 | Author          | 王孝勇                               |
 | Region          | 台湾                               |
 | Date            | 2023-08-01                                 |

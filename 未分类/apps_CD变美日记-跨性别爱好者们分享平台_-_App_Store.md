@@ -100,8 +100,8 @@ Privacy practices may vary, for example, based on the features you use or your a
 |-----------------|----------------------------------------|
 | Filename        | apps_CD变美日记-跨性别爱好者们分享平台_-_App_Store.md                             |
 | Size            | 3201 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://apps.apple.com/nz/app/cd%E5%8F%98%E7%BE%8E%E6%97%A5%E8%AE%B0-%E8%B7%A8%E6%80%A7%E5%88%AB%E7%88%B1%E5%A5%BD%E8%80%85%E4%BB%AC%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/id6621211619](https://apps.apple.com/nz/app/cd%E5%8F%98%E7%BE%8E%E6%97%A5%E8%AE%B0-%E8%B7%A8%E6%80%A7%E5%88%AB%E7%88%B1%E5%A5%BD%E8%80%85%E4%BB%AC%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/id6621211619)                       |
 | Author          | 钦州正瑞科技有限公司                               |
 | Region          | 未知                               |
 | Date            | 2024-11-05                                 |

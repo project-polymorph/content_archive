@@ -31,7 +31,7 @@ Yoshi Rinlada是2017年蒂凡尼人妖大赛的冠军。Yoshi以其甜美女性�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+Yoshi Rinlada是2017年泰国蒂凡尼人妖大赛的冠军，以其甜美的外貌和自信的形象赢得了大众的喜爱。Yoshi自18岁起开始追求完美的身材，为了实现自己的梦想，她进行了乳房增大手术。通过选择325cc的植入物，她的外观得到了极大的改善，乳房变得丰满而柔软。这次手术不仅改变了她的外貌，也极大地提升了她的自信心，使她从一个天真无邪的女孩蜕变为一位自信的女性，如今已成为该选美赛事中最成功的参赛者之一。本文还提供了各种医疗资源与美容手术的链接，涉及多种相关手术的信息与经验分享。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@ Yoshi Rinlada是2017年蒂凡尼人妖大赛的冠军。Yoshi以其甜美女性�
 |-----------------|----------------------------------------|
 | Filename        | www_Yoshi_Rinlada，2017年泰国蒂凡尼人妖大赛冠军.md                             |
 | Size            | 2218 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/blog/269/yoshi-rinlada-miss-tiffany-universe-2017](https://www.kamolhospital.com/zh/blog/269/yoshi-rinlada-miss-tiffany-universe-2017)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | Yoshi Rinlada, 泰国蒂凡尼人妖大赛, 跨性别, 乳房增大手术, 自信, 身体形象, 性别表演, 美容整形, 生命故事, 社会现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -35,7 +35,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件详细记录了我国首例女变男变性手术的历史，时间是1992年12月12日，由著名整形外科专家何清濂教授完成。手术过程分为三个步骤：首先切除女性生殖器，其次从病人的腹部取出皮瓣，制成能够与自身组织相结合的生殖器，最后进行面部及身体其他部位的外科改造，以达到患者期望的阳刚外表。文件通过具体的手术步骤描绘了这次手术的复杂性和医疗技术的要求，同时也引发对变性人社会地位的讨论，讨论了社会对变性人的多种看法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -46,12 +46,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_历史上的今天男变女见多了，那你见过我国首例女变男变性手术吗.md                             |
 | Size            | 1958 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.360kuai.com/pc/937ab2732a6aeade2?cota=3&kuai_so=1&sign=360_e39369d1&refer_scene=so_3](https://www.360kuai.com/pc/937ab2732a6aeade2?cota=3&kuai_so=1&sign=360_e39369d1&refer_scene=so_3)                       |
+| Author          | 绮诺伟侑历史                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-07-17                                 |
+| Tags            | 变性手术, 变性人, 医疗技术, 整形外科, 何清濂, 社会议题, 历史记录, 医学进步, 中国性别史, 手术案例                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

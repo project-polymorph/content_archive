@@ -49,8 +49,8 @@ Ben shu bao gua " ming ruo xuan si ", " mo gui shou cang jia " he " zi yue liang
 |-----------------|----------------------------------------|
 | Filename        | books_人妖-_蓝玛-_Google_Books.md                             |
 | Size            | 1231 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://books.google.com/books/about/%E4%BA%BA%E5%A6%96.html?id=BkBsAAAACAAJ](https://books.google.com/books/about/%E4%BA%BA%E5%A6%96.html?id=BkBsAAAACAAJ)                       |
 | Author          | 蓝玛                               |
 | Region          | 中国                               |
 | Date            | 1996-01-01                                 |

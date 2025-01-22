@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | transgender_教育機構：師生與同儕_-_跨性別Transgender.md                             |
 | Size            | 2161 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transgender.taipei/life/%E6%95%99%E8%82%B2-%E5%AD%B8%E6%A0%A1-%E6%80%A7%E5%B9%B3%E8%B3%87%E6%BA%90/](https://transgender.taipei/life/%E6%95%99%E8%82%B2-%E5%AD%B8%E6%A0%A1-%E6%80%A7%E5%B9%B3%E8%B3%87%E6%BA%90/)                       |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

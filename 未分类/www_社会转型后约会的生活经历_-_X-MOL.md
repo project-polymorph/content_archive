@@ -43,7 +43,7 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于社会转型后跨性别或非二元性别个体的约会与关系经历的探讨，来源于《LGBT咨询中的问题期刊》。研究通过解释学现象学的方法，深入调查了这些个体在经历社会转型后，如何在约会和人际关系中导航和适应。文章强调参与者的亲身经历，反映出在社会接受度变化和个体自我认同过程中，交往体验的复杂性。文中提到，研究参与者需要至少经历过一次社会转型，他们的故事为理解多元性别个体的生活现状提供了宝贵的第一手资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -54,12 +54,12 @@ Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | www_社会转型后约会的生活经历_-_X-MOL.md                             |
 | Size            | 1463 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1721715172324429824/t](https://www.x-mol.com/paper/1721715172324429824/t)                       |
+| Author          | J. D. Neubauer, John-Paul Blix, Amanda Papakee, Kait Hutson, Lashanta Boyce, Jason Cleveland, Heather Morgan-Sowada                               |
+| Region          | 美国                               |
+| Date            | 2023-10-31                                 |
+| Tags            | 跨性别, 非二元性别, 社会转型, 约会经历, 关系研究, 现象学研究, LGBT, 人际关系, 性别认同, 生存经历                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

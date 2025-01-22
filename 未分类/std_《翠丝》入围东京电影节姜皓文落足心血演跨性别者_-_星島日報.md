@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | std_《翠丝》入围东京电影节姜皓文落足心血演跨性别者_-_星島日報.md                             |
 | Size            | 2484 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://std.stheadline.com/sc/realtime/article/825910/%E5%8D%B3%E6%99%82-%E5%A8%9B%E6%A8%82-%E7%BF%A0%E7%B5%B2-%E5%85%A5%E5%9C%8D%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%A7%9C%E7%9A%93%E6%96%87%E8%90%BD%E8%B6%B3%E5%BF%83%E8%A1%80%E6%BC%94%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85](https://std.stheadline.com/sc/realtime/article/825910/%E5%8D%B3%E6%99%82-%E5%A8%9B%E6%A8%82-%E7%BF%A0%E7%B5%B2-%E5%85%A5%E5%9C%8D%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%A7%9C%E7%9A%93%E6%96%87%E8%90%BD%E8%B6%B3%E5%BF%83%E8%A1%80%E6%BC%94%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85)                       |
 | Author          | 星岛日报                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

@@ -36,7 +36,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一款专为跨性别者设计的社交应用程序，名为「跨友」。该应用提供了日常聊天、交友、约玩等功能，旨在为跨性别者创造一个轻松、愉快的社交平台。文章中包含应用的下载链接，用户可以通过链接方便地访问并下载这款应用。此外，文章中提到了该应用的使用人数和关注度，反映了目前跨性别者社群中对此类社交工具的需求和欢迎程度。文中没有提供详细的使用指南，而是强调了其社交互动的趣味性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -47,12 +47,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_超有趣的跨性别CDTS交友约玩APP【跨友】身边朋友都在玩，我也在_.md                             |
 | Size            | 1028 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1h14y1R7ys/](https://www.bilibili.com/video/BV1h14y1R7ys/)                       |
+| Author          | 是浩然呀00                               |
+| Region          | 未知                               |
+| Date            | 2023-07-08                                 |
+| Tags            | 跨性别, 社交应用, 交友, 生活, 下载, 数字社区, 娱乐, 网络互动, 健康, 心理支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

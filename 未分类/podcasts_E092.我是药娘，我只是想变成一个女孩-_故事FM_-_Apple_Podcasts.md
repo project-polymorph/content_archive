@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | podcasts_E092.我是药娘，我只是想变成一个女孩-_故事FM_-_Apple_Podcasts.md                             |
 | Size            | 1754 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/nz/podcast/e092-%E6%88%91%E6%98%AF%E8%8D%AF%E5%A8%98-%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%AD%A9/id1256399960?i=1000415467300](https://podcasts.apple.com/nz/podcast/e092-%E6%88%91%E6%98%AF%E8%8D%AF%E5%A8%98-%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%AD%A9/id1256399960?i=1000415467300)                       |
 | Author          | 故事FM                               |
 | Region          | 未知                               |
 | Date            | 2018-07-09                                 |

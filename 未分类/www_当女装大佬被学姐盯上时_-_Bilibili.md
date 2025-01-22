@@ -69,7 +69,7 @@ Posted by [樱华梦雨](https://space.bilibili.com/3493085822585490)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一个关于女装大佬及其在校园生活中与学姐互动的故事，体现了多元性别者在社会中的经历与挑战。文章中提及女装大佬的外貌、穿着以及与他人之间的关系，展现了他们的个性与生活态度。同时，伴随LOL（英雄联盟）相关的文化元素，使得故事情节更加生动有趣。作者通过幽默而轻松的笔调，反映了LGBTQ+群体在社会环境中的现状，增强了对多元性别者的理解与关怀。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -80,12 +80,12 @@ Posted by [樱华梦雨](https://space.bilibili.com/3493085822585490)
 |-----------------|----------------------------------------|
 | Filename        | www_当女装大佬被学姐盯上时_-_Bilibili.md                             |
 | Size            | 1335 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1dG411r7ki/?spm_id_from=333.788.recommend_more_video.14](https://www.bilibili.com/video/BV1dG411r7ki/?spm_id_from=333.788.recommend_more_video.14)                       |
+| Author          | 樱华梦雨                               |
+| Region          | 未知                               |
+| Date            | 2023-12-20                                 |
+| Tags            | 女装大佬, 校园生活, LGBTQ+, 社会经历, 性别认同, 文化交流, 幽默, 多元性别, 个性发展, 应对挑战                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

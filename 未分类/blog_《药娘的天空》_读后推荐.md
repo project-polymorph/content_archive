@@ -69,8 +69,8 @@ Last Modified: July 3, 2020
 |-----------------|----------------------------------------|
 | Filename        | blog_《药娘的天空》_读后推荐.md                             |
 | Size            | 11002 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.yazawaniko.com/index.php/archives/223/](https://blog.yazawaniko.com/index.php/archives/223/)                       |
 | Author          | Kiritake Kumi                               |
 | Region          | 中国                               |
 | Date            | 2020-04-12                                 |

@@ -28,7 +28,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件详细介绍了悬疑电影《吾栖之肤》的故事情节，讲述了一名男子为了给女儿复仇而选择将凶手变性，然而在这个过程中，他却因变性人过于美丽而对她产生了爱情，最终反被杀害。故事通过复杂的角色关系探讨性别认同与复仇的主题。这部电影不仅是一部悬疑影片，也反映了变性人在社会中可能面临的性别认同与人际关系的矛盾。本文还附带了电影的海报、观看链接以及作者信息，便于观众获取更多的信息。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -39,12 +39,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_悬疑电影《吾栖之肤》：男人将凶手变性，为女儿复仇_-_YouTube.md                             |
 | Size            | 930 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=CzaKSu3kSDU](https://www.youtube.com/watch?v=CzaKSu3kSDU)                       |
+| Author          | Xuan Yun                               |
+| Region          | 未知                               |
+| Date            | 2020-09-21                                 |
+| Tags            | 悬疑电影, 变性, 复仇, 性别认同, 影视艺术, 生命故事, 社会环境, 变性人, 情感纠葛, 文学艺术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

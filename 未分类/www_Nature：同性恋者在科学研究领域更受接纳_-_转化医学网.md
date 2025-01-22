@@ -45,7 +45,7 @@ Queer in STEM调查团队评估了在自然科学、科技和数学领域超过1
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章来自转化医学网，标题为《同性恋者在科学研究领域更受接纳》，探讨了在科学研究领域，包括男同性恋、女同性恋、双性恋者和跨性别者（统称为LGBT）的群体在职业生活中的接纳度。根据一项在美国进行的调查，LGBT群体在科学界获得了更高的尊重和接纳，尤其是在女性比例较高的社交科学领域相较于自然科学和工程领域。文章提及了一项由Queer in STEM调查团队进行的研究，该团队评估了超过1400名LGBT人士在自然科学、科技和数学领域的经历，结果显示，57%的参与者表示他们的性取向为同事所知，且公开自己性取向的人士在工作中感到的压力和消极情绪较低。此外，文章还引用了密歇根州立大学的Kristen Renn的观点，强调了这一研究对LGBT群体职业选择的重要性，并探讨了科学研究领域对LGBT的接纳原因。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -56,12 +56,12 @@ Queer in STEM调查团队评估了在自然科学、科技和数学领域超过1
 |-----------------|----------------------------------------|
 | Filename        | www_Nature：同性恋者在科学研究领域更受接纳_-_转化医学网.md                             |
 | Size            | 4220 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.360zhyx.com/home-research-index-rid-58269.shtml](https://www.360zhyx.com/home-research-index-rid-58269.shtml)                       |
+| Author          | 生物谷                               |
+| Region          | 未知                               |
+| Date            | 2015-08-21                                 |
+| Tags            | LGBT, 科学研究, 接纳度, 调查研究, 性取向, 职业尊重, 社会科学, 自然科学, 工程科学, 转化医学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

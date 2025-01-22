@@ -114,8 +114,8 @@ Elliot Page（艾略特·佩吉）曾用名Ellen Page（艾伦·佩姬），1987
 |-----------------|----------------------------------------|
 | Filename        | news_《朱诺》女主变性后再晒胸上巨型手术疤痕，个人自传即将上线.md                             |
 | Size            | 6431 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.qq.com/rain/a/20230513A03LUA00](https://news.qq.com/rain/a/20230513A03LUA00)                       |
 | Author          | 高能E蓓子                               |
 | Region          | 未知                               |
 | Date            | 2023-05-13                                 |

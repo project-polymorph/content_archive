@@ -29,7 +29,7 @@ Kate 開始看醫生是在 2011 年，那時她還是全時間男性生活，她
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《面向世界，展示真我》跨性别系列的第十七篇，讲述了跨性别女性Kate的成长和转变经历。Kate从小就感到自己与生理性别不符，经历了与家庭和社会的矛盾，特别是在对性别认同的探索和转变的过程中。她在2011年开始接触医生并酝酿性别转变的想法，直到2013年才下定决心，开始变性治疗。此外，文件还介绍了Kate和她男友Damien的关系演变，以及对未来的规划。值得注意的是，他们在法律上面临的挑战，以及对性别身份和社会性别角色的反思，特别是对传统性别界限的质疑。该文件不仅反映了个人的成长，也体现了社会对跨性别者的认知与接纳的重要性，呼吁大家在性别认同上应更加包容与理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@ Kate 開始看醫生是在 2011 年，那時她還是全時間男性生活，她
 |-----------------|----------------------------------------|
 | Filename        | www_【面向世界，展示真我】跨性别系列之十七：Kate（男跨女）的故事.md                             |
 | Size            | 5107 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.inmediahk.net/%E7%A4%BE%E9%81%8B/%E3%80%90%E9%9D%A2%E5%90%91%E4%B8%96%E7%95%8C%EF%BC%8C%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%88%91%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%AB%E7%B3%BB%E5%88%97%E4%B9%8B%E5%8D%81%E4%B8%83%EF%BC%9Akate%EF%BC%88%E7%94%B7%E8%B7%A8%E5%A5%B3%EF%BC%89%E7%9A%84%E6%95%85%E4%BA%8B](https://www.inmediahk.net/%E7%A4%BE%E9%81%8B/%E3%80%90%E9%9D%A2%E5%90%91%E4%B8%96%E7%95%8C%EF%BC%8C%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%88%91%E3%80%91%E8%B7%A8%E6%80%A7%E5%88%AB%E7%B3%BB%E5%88%97%E4%B9%8B%E5%8D%81%E4%B8%83%EF%BC%9Akate%EF%BC%88%E7%94%B7%E8%B7%A8%E5%A5%B3%EF%BC%89%E7%9A%84%E6%95%85%E4%BA%8B)                       |
+| Author          | 世界公民协会                               |
+| Region          | 香港                               |
+| Date            | 2016-06-04                                 |
+| Tags            | 跨性别, 性别认同, 变性经历, 成长故事, 医疗资源, 法律政策, 社会环境, 文化反思,  LGBTQ+, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

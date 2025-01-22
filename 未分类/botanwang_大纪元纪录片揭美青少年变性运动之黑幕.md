@@ -99,8 +99,8 @@
 |-----------------|----------------------------------------|
 | Filename        | botanwang_大纪元纪录片揭美青少年变性运动之黑幕.md                             |
 | Size            | 5813 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://botanwang.com/articles/202306/%E5%A4%A7%E7%BA%AA%E5%85%83%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%AD%E7%BE%8E%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%98%E6%80%A7%E8%BF%90%E5%8A%A8%E4%B9%8B%E9%BB%91%E5%B9%95.html](https://botanwang.com/articles/202306/%E5%A4%A7%E7%BA%AA%E5%85%83%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%AD%E7%BE%8E%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%98%E6%80%A7%E8%BF%90%E5%8A%A8%E4%B9%8B%E9%BB%91%E5%B9%95.html)                       |
 | Author          | Eva Fu, 编译: 原泉                               |
 | Region          | 美国                               |
 | Date            | 2023-06-16                                 |

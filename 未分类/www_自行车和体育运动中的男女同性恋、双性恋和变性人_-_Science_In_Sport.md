@@ -53,7 +53,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了在自行车和体育运动中参与的LGBTQ+群体（包括同性恋、双性恋和变性者）所面临的挑战和经验。作者理查德-赫尔尼分享了他自己的骑行经历，以及他在2019年成立名为‘PRiDE OUT’的全国性草根自行车网络的初衷，旨在为LGBTQ+群体提供一个无所畏惧的骑行环境。文章指出，尽管骑自行车是最受欢迎的休闲体育活动之一，但针对LGBTQ+人群的参与数据却非常匮乏。这反映出他们在体育运动中的代表性不足。作者强调了 visibility（可见性）和教育的重要性，认为这能够帮助多元化的社区获得认同，让更多人感受到被欢迎和接纳。此外，文章提到了一些统计数据，比如 LGBTQ+群体中的身体活动不足率，以及在过去几十年里他们所经历的社会偏见与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_自行车和体育运动中的男女同性恋、双性恋和变性人_-_Science_In_Sport.md                             |
 | Size            | 6961 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.scienceinsport.com/sports-nutrition/zh/lgbtq-people-in-cycling-and-sport/](https://www.scienceinsport.com/sports-nutrition/zh/lgbtq-people-in-cycling-and-sport/)                       |
+| Author          | 理查德-赫尔尼                               |
+| Region          | 未知                               |
+| Date            | 2021-05-28                                 |
+| Tags            | 自行车运动, LGBTQ+, 性别认同, 体育运动, 社会偏见, 心理健康, 变性人, 同性恋, 双性恋, 代表性问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

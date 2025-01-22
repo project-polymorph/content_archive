@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位名叫贾斯珀的跨性别青年的故事，他在德克萨斯州生活受到新法规的影响，导致他的家庭决定迁移到明尼苏达州。文中提到，贾斯珀出生时被视为女孩，但他目前认同为男性。随着德克萨斯州对性少数群体的法规越来越严格，他的母亲担心这些法案会影响到贾斯珀的生活、学习和医疗保障，于是做出了搬迁的决定。明尼苏达州则已立法为跨性别者提供医保支持，研究表明，生活在包容环境中的跨性别者在精神健康状况方面表现更佳。该文还附上了视频、图片和相关新闻链接，提供了更全面的信息和资源以支持跨性别者的权益。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_为逃离德克萨斯州针对跨性别的法案美国家庭到明尼苏达州生活.md                             |
 | Size            | 2332 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.voachinese.com/a/7083969.html](https://www.voachinese.com/a/7083969.html)                       |
+| Author          | VOA中文网                               |
+| Region          | 美国                               |
+| Date            | 2023-05-09                                 |
+| Tags            | 跨性别, 德克萨斯州, 明尼苏达州, 家庭, 法律政策, 经历, 医疗资源, 生存现状, 社会环境, 精神健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -75,8 +75,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_实习医生为未成年男孩做变性手术涉嫌故意伤害_-_央广网.md                             |
 | Size            | 5714 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.cnr.cn/news/20150924/t20150924_519953619.html](https://m.cnr.cn/news/20150924/t20150924_519953619.html)                       |
 | Author          | 成都商报                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-09-24                                 |

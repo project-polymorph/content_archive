@@ -97,7 +97,7 @@ _[下載信息圖 (PDF)](/sites/default/files/2022-06/LGBTQI%20Civil%20Rights%20
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细探讨了与性取向和性别认同（SOGI）相关的歧视问题，特别是在就业环境中的影响。文件引用了美国最高法院在《博斯托克案》中作出的重要裁定，明确指出因性取向或跨性别身份解雇员工违反第七章的性别歧视禁止规定。法院的裁决强调，性别歧视与性取向或性别认同的歧视是相互关联的。文件进一步分析了SOGI歧视在工作场所的具体表现，包括在雇用、解雇、薪资、工作分配等方面的歧视行为。此文还明确指出，骚扰和报复行为同样构成对员工的非法对待，并提供了被歧视员工可以采取的法律措施以及适用的法律条款。此外，文件涉及到其他相关法律和联邦雇员的资源，确保员工在遭受歧视时了解自己的权利和应对途径。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -108,12 +108,12 @@ _[下載信息圖 (PDF)](/sites/default/files/2022-06/LGBTQI%20Civil%20Rights%20
 |-----------------|----------------------------------------|
 | Filename        | www_性取向和性別認同_SOGI__歧視.md                             |
 | Size            | 8809 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.eeoc.gov/zh-hant/xingquxianghexingbierentong-sogi-qishi](https://www.eeoc.gov/zh-hant/xingquxianghexingbierentong-sogi-qishi)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2020-06-15                                 |
+| Tags            | 性取向, 性别认同, 就业歧视, 司法裁决, 法律政策, 骚扰, 报复, 跨性别, 工作场所, 权利保护                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

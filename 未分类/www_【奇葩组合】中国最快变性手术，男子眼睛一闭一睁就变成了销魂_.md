@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件记录了中国最快的变性手术过程，以一种幽默的网络剧《奇葩组合》为背景，展示了对变性手术的轻松幽默化叙述。视频讲述了一名男子在闭眼睁眼之间完成变性手术的奇妙经历，结合了许多喜剧元素及夸张的化妆造型，着重展示了变性手术的不同面貌。剧集以一胖一瘦的组合来演绎，通过反串的形式吸引观众，带来丰盛的喜剧体验。此外，文件中还提供了相关视频链接和引导，便于观众进一步了解该内容。视频内容丰富，涉及变性手术的社会话题，适合对多元性别和社交媒体文化感兴趣的观众。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【奇葩组合】中国最快变性手术，男子眼睛一闭一睁就变成了销魂_.md                             |
 | Size            | 1107 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=iFLWu5FwbmI](https://www.youtube.com/watch?v=iFLWu5FwbmI)                       |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 奇葩组合, 网络剧, 喜剧, 视频, 社会话题, 医疗资源, 幽默, 反串, 中国文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

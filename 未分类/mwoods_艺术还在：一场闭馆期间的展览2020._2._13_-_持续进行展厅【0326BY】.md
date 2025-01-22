@@ -155,8 +155,8 @@ aaajiao (徐文恺), 阿洛拉&卡尔萨迪利亚, 安妮卡·埃里克森, 巴�
 |-----------------|----------------------------------------|
 | Filename        | mwoods_艺术还在：一场闭馆期间的展览2020._2._13_-_持续进行展厅【0326BY】.md                             |
 | Size            | 5941 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mwoods.org/0402ZZ](https://mwoods.org/0402ZZ)                       |
 | Author          | 木木美术馆                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-02-13                                 |

@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讨论了变性人的生殖器，揭示了在对变性人进行讨论时，生殖器常被视为一个敏感话题，并且容易产生误解。文章提到，变性人可能通过医学手段进行生殖器的重建或变更，例如男性转女性手术中的阴道成形术，以及女性转男性的阴茎重建术。每种手术的过程和结果各不相同，并不是每位变性人都会选择这些手术。文件强调了对变性人及其生殖器的看法应以尊重和理解为基础，而非基于传统刻板印象，变性人的身份和体验是多元且复杂的。这篇文章旨在为读者提供有关变性人及其生殖器的知识，以促使对这个话题的更好理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | twpride_變性人的生殖器是什麼樣子的？_-_台灣同志遊行.md                             |
 | Size            | 3236 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://twpride.org/zh_cn/what-does-a-transsexual-genitalia-look-like/](https://twpride.org/zh_cn/what-does-a-transsexual-genitalia-look-like/)                       |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 生殖器, 跨性别, 医学手术, 性别认同, LGBTQ+, 尊重与理解, 生存现状, 台湾同志运动, 社会讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

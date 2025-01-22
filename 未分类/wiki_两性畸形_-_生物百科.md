@@ -92,7 +92,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细探讨了两性畸形的相关知识，包括其定义、分类、发病机制、临床表现等重要信息。两性畸形是指一个个体的性器官同时具有男女两性的表现，其根本原因在于性染色体的畸变或雄激素的分泌异常。文件中描述了真两性畸形与假两性畸形的区别，指出真两性畸形在机体内同时存在卵巢和睾丸组织，并说明了它的三种类型，以及其发生的原因。此外，文件还提到真两性畸形患者的临床表现、诊断方法及鉴别诊断，强调了治疗的重要性，指出患者应在早期确立性别，以促进心理健康。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -103,12 +103,12 @@
 |-----------------|----------------------------------------|
 | Filename        | wiki_两性畸形_-_生物百科.md                             |
 | Size            | 9388 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wiki.bioguider.com/doc-view-139.html](https://wiki.bioguider.com/doc-view-139.html)                       |
+| Author          | thinker                               |
+| Region          | 未知                               |
+| Date            | 2009-12-24                                 |
+| Tags            | 两性畸形, 医学, 生物学, 性别研究, 性别发育, 跨性别, 遗传学, 性染色体, 健康, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

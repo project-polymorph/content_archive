@@ -118,7 +118,7 @@ Copyright © 2025 [Orange's Review](https://www.orange-review.com/) | Powered by
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为台湾多元性别文献的一部分，介绍了在主流电影通路中出现的20部跨性别相关作品。这些电影展现了跨性别者的生命故事与历史，通过不同的角色与叙事，探讨了性别认同、爱情、暴力及社会接受度等主题。作者列举了从1975年到2005年间的一系列电影，包括《热天午後》、《剃刀邊緣》、《蜘蛛女之吻》、《沈默的羔羊》等，每部电影都附有简短的剧情介绍与海报，帮助读者理解这些作品对跨性别者生存现状的反响与影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -129,12 +129,12 @@ Copyright © 2025 [Orange's Review](https://www.orange-review.com/) | Powered by
 |-----------------|----------------------------------------|
 | Filename        | www_在主流電影通路看見跨性別的20部作品_-_Orange's_Review.md                             |
 | Size            | 10236 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.orange-review.com/2017/05/20.html](https://www.orange-review.com/2017/05/20.html)                       |
+| Author          | Orange's Review                               |
+| Region          | 台湾                               |
+| Date            | 2017-05-15                                 |
+| Tags            | 跨性别, 电影, 性别认同, 性别表达, 生命故事, 社会接受度, 文化作品, 多元性别, 艺术表达, 电影推荐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

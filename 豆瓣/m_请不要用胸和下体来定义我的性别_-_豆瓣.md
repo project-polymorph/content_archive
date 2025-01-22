@@ -211,8 +211,8 @@ Lara的回答让香蕉姐很感动：我不想成为一个榜样，只想成为�
 |-----------------|----------------------------------------|
 | Filename        | m_请不要用胸和下体来定义我的性别_-_豆瓣.md                             |
 | Size            | 13121 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/9972070/](https://m.douban.com/movie/review/9972070/)                       |
 | Author          | 香蕉姐                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

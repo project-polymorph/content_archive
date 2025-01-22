@@ -3,7 +3,7 @@
 ## 正文 { data-search-exclude }
 
 
-![](//freight.cargo.site/w/750/i/bef259dfe2c69ae66901071f0f949559718220570f5c9cfbd72d81d84a01fb04/RUI-HO---Legacy-of-a-Star-SOPHIE-Tribute-Mix.jpeg)
+![](https://freight.cargo.site/w/750/i/bef259dfe2c69ae66901071f0f949559718220570f5c9cfbd72d81d84a01fb04/RUI-HO---Legacy-of-a-Star-SOPHIE-Tribute-Mix.jpeg)
 
 2021 年 1 月 30 日，SOPHIE 于雅典观月时，不慎坠落失血过多而去世，几天后，网上发起了请愿将 NASA 于 2019 年发现的 TOI-1338b 行星命名为 SOPHIE 的活动。从 2013 年以 SOPHIE 化名发布第一支单曲“Nothing More To Say”一直保持身份神秘，到 2017 年发布“It's Ok to Cry”的音乐视频完全以跨性别女性的身份出现在大众视野，再到被 Louis Vuitton 相中以加长版“It's Ok to Cry”的音乐视频作为 SS2020 的主音乐与视觉元素，SOPHIE 一直保持神秘而又真挚的感觉。SOPHIE 作为音乐人抑或是公开身份的跨性别者，都对我有太多的启发和影响。 这个 Tribute mix 发布于 SOPHIE 离世后不久的今天。除了大部分由 SOPHIE 本人名义发表，SOPHIE 担任制作人和其他音乐人对她的作品的 Remix 以外，选曲中还有几首受 SOPHIE 的塑料、金属、未来主义风格影响颇深的作品。SOPHIE 对流行音乐以及电子音乐的影响是难以被量化的，对声音制作的探索也将在未来很长一段时间内不断被模仿以及重新创造。祝愿她无论是作为生前出色的音乐人，以活跃于公众视线中给予 LGBT 社群鼓励的跨性别者，还是被请愿命名为 TOI-1338b 行星，SOPHIE 这一颗归去的星星在未知的世界能够继续发光发亮。 
 
@@ -44,7 +44,7 @@
 17. Charli Xcx - Bounce (Prod. By SOPHIE) 
 18. SOPHIE - It’s Ok 2 Cry (DJ Animebby edit)
 
-![](//freight.cargo.site/w/350/i/e5c5777d60d86786f38ad6b3045775da6ae5d9a37de0f584d941bf81ab1e8087/a_brief_intro_to_trans.jpg)
+![](https://freight.cargo.site/w/350/i/e5c5777d60d86786f38ad6b3045775da6ae5d9a37de0f584d941bf81ab1e8087/a_brief_intro_to_trans.jpg)
 
 我们的性别是构成「我们是谁」很重要的一部分。也许，你已经知道生理性别、社会性别与性别认同是不一样的。更进一步地了解这些概念可以帮助你更好地理解自己与理解别人。 [阅读全文……](A-Brief-Introduction-to-Trans)
 <!-- tcd_original_link https://shypeople.cn/RUI-HO-Legacy-of-a-Star-SOPHIE-Tribute-Mix -->
@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | shypeople_RUI_HO_Legacy_of_a_Star_SOPHIE_Tribute_Mix_-_shypeople.md                             |
 | Size            | 5179 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shypeople.cn/RUI-HO-Legacy-of-a-Star-SOPHIE-Tribute-Mix](https://shypeople.cn/RUI-HO-Legacy-of-a-Star-SOPHIE-Tribute-Mix)                       |
 | Author          | RUI HO                               |
 | Region          | 未知                               |
 | Date            | 2021-01-30                                 |

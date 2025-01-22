@@ -181,8 +181,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_喜剧搞笑的冤家男扮女装女扮男装角色互换的那些电影_-_豆瓣.md                             |
 | Size            | 4737 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/601646/](https://m.douban.com/doulist/601646/)                       |
 | Author          | 土豆 (北京)                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-06-01                                 |

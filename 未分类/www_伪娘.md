@@ -65,7 +65,7 @@ Anonymous
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了近年来在中国大众文化中崛起的“伪娘”现象，特别是成都的选手刘著在《快乐男声》比赛中的表现。文章提供了对“伪娘”这一术语的多层次解读，指出其与‘cross-dressing’（异装）概念的关系及差异。刘著以其甜美的声音和女性化的外貌受到了观众的广泛关注，但他自身的性别认同与大多数“伪娘”有所不同。文中还引入了“newhalf”这一日语术语，说明其文化背景和相关含义，进一步解析了异装行为与变性身份之间的复杂关系。整体上，文章为理解多元性别文化提供了丰富的视角和深刻的探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@ Anonymous
 |-----------------|----------------------------------------|
 | Filename        | www_伪娘.md                             |
 | Size            | 3159 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.china.org.cn/learning_english/2010-06/07/content_20202540.htm](http://www.china.org.cn/learning_english/2010-06/07/content_20202540.htm)                       |
+| Author          | 中国日报                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 刘著, 异装, 多元性别, 快乐男声, 文化现象, 性别认同, newhalf, 跨性别, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

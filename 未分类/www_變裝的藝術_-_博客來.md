@@ -123,7 +123,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档详细探讨了变装艺术，论述其历史背景、文化重要性以及与性别、政治等多方面的交集。书中介绍了变装作为一种贵族与民众交织的表演形式，历经古代到现代的演变，描绘了变装在不同文化中的独特表现方式。特别地，它从古希腊的默剧到东亚的歌舞伎，再到西方现代文化中的变装秀，系统地回顾了变装者的抗争与社会接受度的变化。作者对变装文化进行了深入的剖析，揭示了变装如何成为自我表达、政治抗争的工具，同时也突出了其在娱乐业中的角色和影响。书中引述了多位变装艺术家的言论，强调了变装不仅是华丽的外表，更是一种反思传统性别角色的力量。这本书于2021年发布，是对LGBTQIA+群体和变装文化的一次全面归纳与深入分析。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -134,12 +134,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變裝的藝術_-_博客來.md                             |
 | Size            | 6782 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.books.com.tw/products/0010904047?srsltid=AfmBOopjGLrAKEbUkHL7Ui5bvN1ovreBO_OQeHCIX_4Z0jiO1TkMlQdA](https://www.books.com.tw/products/0010904047?srsltid=AfmBOopjGLrAKEbUkHL7Ui5bvN1ovreBO_OQeHCIX_4Z0jiO1TkMlQdA)                       |
+| Author          | 杰克・霍尔                               |
+| Region          | 台湾                               |
+| Date            | 2021-10-09                                 |
+| Tags            | 变装, LGBTQIA+, 性别研究, 文化历史, 艺术, 抗争, 社会运动, 娱乐, 政治, 自我表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

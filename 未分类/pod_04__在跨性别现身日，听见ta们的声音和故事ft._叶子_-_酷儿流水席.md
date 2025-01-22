@@ -88,8 +88,8 @@ Other music: [Blue Dot Sessions](https://www.sessions.blue/)
 |-----------------|----------------------------------------|
 | Filename        | pod_04__在跨性别现身日，听见ta们的声音和故事ft._叶子_-_酷儿流水席.md                             |
 | Size            | 5516 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://pod.50w.us/i/04-or-ta-ft-T6Ym7-Q9bJ0/](https://pod.50w.us/i/04-or-ta-ft-T6Ym7-Q9bJ0/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-03-31                                 |

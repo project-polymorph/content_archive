@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为2019年1月31日的女装大佬直播录屏，主演是结城丶玖兰槿，在哔哩哔哩平台上传。视频中，结城丶玖兰槿与观众分享其日常生活，进行自我介绍，并展示其女装风格，吸引了2833名关注者和1505条评论。该直播内容包含多个小节，时间长短不一，共计53分钟33秒，旨在娱乐与教育观众，分享个人兴趣与爱好。通过直播，结城丶玖兰槿希望与观众互动，建立社区，拉近与粉丝的距离。视频展示了当前青年文化中多元性别表现的趋势与号召，彰显了自我认同与性别表达的丰富性与多元化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬2019-01-31直播录屏，下次见就半个月后了哦！大家！_-_Bilibili.md                             |
 | Size            | 1370 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1Eb411k7nd/](https://www.bilibili.com/video/BV1Eb411k7nd/)                       |
+| Author          | 结城丶玖兰槿                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-01-31                                 |
+| Tags            | 生活, 日常, 自制, 直播, 学习, 萌妹子, 美女, 女神, cosplay, 记录, 女装大佬                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -46,7 +46,7 @@ Estrogen and progesterone have been extensively studied in the mammary gland, bu
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了雄性激素疗法对跨性别男性乳腺组织的影响，主要引用了一项在2023年3月8日发表的研究。研究发现，雄性激素通过单细胞分辨率的转录组学和空间轮廓分析，重编程了跨性别男性的乳腺组织和细胞基因表达。根据研究，雄性激素不仅影响乳腺细胞的基因表达，还激活与男性特征相关的基因程序，可能与乳腺癌治疗相关，提供了新的科研视角和潜在的临床应用。文章最后详细列出了该研究的作者和发表的期刊，以及在线访问的链接。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@ Estrogen and progesterone have been extensively studied in the mammary gland, bu
 |-----------------|----------------------------------------|
 | Filename        | www_雄性激素疗法能“重新编程”跨性别男性乳房_-_领研网.md                             |
 | Size            | 5380 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.linkresearcher.com/theses/c2cffb8f-f1a7-421c-8a81-253c43a5b5e3](https://www.linkresearcher.com/theses/c2cffb8f-f1a7-421c-8a81-253c43a5b5e3)                       |
+| Author          | Florian Raths等                               |
+| Region          | 未知                               |
+| Date            | 2023-03-08                                 |
+| Tags            | 雄性激素疗法, 跨性别男性, 乳腺组织, 基因表达, 乳腺癌, 性别确认治疗, 生物医学研究, 细胞生物学, 转录组学, 医学期刊                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

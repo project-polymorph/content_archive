@@ -90,7 +90,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了湖北荆门的杨柳（化名）的变性经历。他在10岁时进行了第一次变性手术，由女性变为男性，但手术结果并不理想，未能获得男性生理功能。22年后，杨柳希望再度进行变性手术，将自己变为女性，主要是出于对与自己同居六年的女友李岚的爱与责任。由于无法满足女友在亲密关系中的需求，杨柳选择让女友有机会追求更好的生活。医生表示，经诊断，杨柳符合变性为女性的手术条件，但手术费用高达30万元，且仍需多项手术。浑身的痛苦和对自我的认知，使得杨柳的心路历程充满感慨，对过去的经历不曾怨恨，而是希望未来能够更好。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,12 +101,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_阴阳人变性为男后无性能力再变性为女身_图_.md                             |
 | Size            | 10861 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://news.sina.com.cn/s/2004-10-22/08464667894.shtml?from=wap](http://news.sina.com.cn/s/2004-10-22/08464667894.shtml?from=wap)                       |
+| Author          | 南方都市报                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-10-22                                 |
+| Tags            | 变性手术, 阴阳人, 医疗经历, 性别认同, 人生故事, 女性, 男性, 亲密关系, 社会环境, 爱的责任                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

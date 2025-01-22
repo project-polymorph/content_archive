@@ -56,7 +56,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了泰国众多变性人及其在变性人选美比赛中的表现，尤其是“蒂法妮小姐”选美大赛。在这份文件中，回顾了一些知名变性人的生命故事与成就，包括获得Miss Tiffany头衔的17岁变性人，她在接受采访时分享了变性手术前后的经历。同时介绍了每年的选美大赛，参加者的美丽外形与个人故事，使得她们在社会上获得了关注和认可。选美比赛展示了变性人如何通过演艺、主持等活动逐渐走向社会的舞台，成为社会的一部分。也提到一些选美比赛的具体情况以及参赛者的精彩表现，比如2011年和2012年的比赛，赛场上的甄选过程和选手的特点等。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -67,12 +67,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美的让女人汗颜！泰国十大最美人妖榜出炉_话题_-_GQ男士网.md                             |
 | Size            | 5820 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.gq.com.cn/topic/album_1643cf6d4aab85b6.html](https://www.gq.com.cn/topic/album_1643cf6d4aab85b6.html)                       |
+| Author          | Eva                               |
+| Region          | 泰国                               |
+| Date            | 2014-12-16                                 |
+| Tags            | 泰国, 变性人, 人妖, 蒂法妮小姐选美, 美丽, 生命故事, 选美比赛, 社会接受, 文化现象, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

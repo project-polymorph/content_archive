@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了与男娘相关的多元性别内容，包含多个文章链接，涉及游戏、攻略和杂文。文中提到的文章均与男娘文化相关，提供了多样的视角与信息。其中包括游戏推荐，如《转生した世界で男の娘を孕ませられるのは、神である俺だけ》，涉及男娘角色设定和游戏玩法体验等。此外，还包括生活指南与教程，比如《乳首开发教程译本》，专为希望变女性的男性提供的指导，探讨其相关的身体与心理方面的问题。这些文献体现了男娘文化的多样性与复杂性，反映了相关群体的生存现状与文化表达。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_标签【男娘】_-_维咔VikACG_V站_.md                             |
 | Size            | 3778 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.vikacg.com/tag/%E7%94%B7%E5%A8%98](https://www.vikacg.com/tag/%E7%94%B7%E5%A8%98)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 多元性别, 游戏, 教程, 生活经验, 文化, 攻略, 文学, 社会现象, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

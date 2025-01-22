@@ -120,7 +120,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文针对青少年性别焦虑现象进行深度剖析，介绍了性别焦虑症的定义、表现、感受以及应对方式。文章首先定义了性别焦虑症，指出许多青少年在心理性别与身体性别不一致的情况下，可能会经历严重的心理痛苦。文中通过多个第一手的网友分享，揭示了性别焦虑者面临的孤独感、社会压力和自我认同的挑战，并强调了性别认同的复杂性，以及与生理特征之间的矛盾。针对性别焦虑的应对，文章提供了心理治疗、激素疗法与性别重置手术等方法，并明确表示治疗的目的并非强制认同生理性别，而是帮助减轻患者的焦虑感与压力。最后，文章呼吁社会对性别焦虑者的理解与包容，希望通过教育与科普，提升公众对性别认同多样性的认识。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,12 +131,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_青少年心理咨询：我到底是男生还是女生？关于性别焦虑性别烦躁.md                             |
 | Size            | 8635 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/read/cv27851652/](https://www.bilibili.com/read/cv27851652/)                       |
+| Author          | 广州听说吧心理咨询中心                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-22                                 |
+| Tags            | 性别焦虑, 跨性别, 心理健康, 青少年, 心理咨询, 性别认同, 社会压力, 医疗资源, 支持与理解, 性别认知                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

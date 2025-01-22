@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讨论了近年来出现在社交媒体上的「女装大佬」现象，这一词汇自2016年起广为流行，特指那些男扮女装在短视频平台上取得成功的人物。文中提到一些知名的明星和人物，他们曾尝试男扮女装，通过这种新颖的表演风格吸引观众目光。在没有现代滤镜的年代，这些表演者的形象给大众留下了深刻的印象。文章中列举了一些在影视作品中应用男扮女装手法的例子，并表现出对这些女装大佬的钦佩与认可。此外，作者还提到观看数据，显示这类内容的受欢迎程度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_女装大佬top榜：洪金宝最富态，星爷最多变，第一位才是yyds！.md                             |
 | Size            | 1133 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=RmRjh7xe8YA&pp=ygUOI-i-nuWls-elnnl5ZHM%3D](https://www.youtube.com/watch?v=RmRjh7xe8YA&pp=ygUOI-i-nuWls-elnnl5ZHM%3D)                       |
+| Author          | 娱圈儿彩虹屁                               |
+| Region          | 未知                               |
+| Date            | 2021-11-13                                 |
+| Tags            | 女装大佬, 男扮女装, 短视频, 娱乐新闻, 生活故事, 文化现象, 明星, 幽默, 社交媒体, 男性表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -107,7 +107,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了《龙腾世纪4》这款电子游戏中的性别认同与变性选项。作者游亿点好玩在抖音上发布了相关内容，从游戏中的角色塑造及其对多元性别的表现进行了深入分析。文章提到游戏中的NPC角色积极讨论性别认同，展现了当代社会对性别多样性越来越开放的态度。此外，文章还附有多个相关视频，其中包括对《龙腾世纪4》的评论、游戏内容的解读以及开发背后的故事，特别是关于性别与社会政治的交锋。这些视频和评论反映了玩家对游戏在性别表现上不同意见的碰撞，同时也指出了游戏可能产生的性别歧视现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -118,12 +118,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_龙腾世纪4后面怎么变性_-_抖音.md                             |
 | Size            | 11132 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/shipin/7436967104261212200](https://www.douyin.com/shipin/7436967104261212200)                       |
+| Author          | 游亿点好玩                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-11-05                                 |
+| Tags            | 龙腾世纪4, 变性, 性别认同, 多元性别, 游戏评论, 社会政治, 性别表达, 用户体验, 视频分析, 性别歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

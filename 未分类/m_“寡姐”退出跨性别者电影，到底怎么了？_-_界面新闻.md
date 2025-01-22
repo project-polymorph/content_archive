@@ -79,8 +79,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_“寡姐”退出跨性别者电影，到底怎么了？_-_界面新闻.md                             |
 | Size            | 4442 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.jiemian.com/article/2310362.html](https://m.jiemian.com/article/2310362.html)                       |
 | Author          | 时光君                               |
 | Region          | 未知                               |
 | Date            | 2018-07-15                                 |

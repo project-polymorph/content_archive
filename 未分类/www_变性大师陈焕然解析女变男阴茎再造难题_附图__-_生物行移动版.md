@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了变性大师陈焕然博士关于女性向男性阴茎再造手术的分析与见解。他是中国领域内知名的性别畸形研究专家，每年有大量的求助者希望通过他的手术完成性别转换。文章中探讨了阴茎移植与再造的复杂过程，包括手术的三个主要步骤：选材、分期制作和漂色、再造阴囊。陈焕然提到，尽管有医学的进步，但再造出的阴茎在功能上仍然无法满足正常的生殖功能和性感觉，这使得此手术充满挑战。此外，文中还涉及伦理、道德问题以及对生殖器官再生的医学界现状的讨论。文章插入了一些具体手术步骤和过程的细节，为读者提供了更深入的了解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性大师陈焕然解析女变男阴茎再造难题_附图__-_生物行移动版.md                             |
 | Size            | 5458 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bioguider.com/m/view.php?aid=18546](https://www.bioguider.com/m/view.php?aid=18546)                       |
+| Author          | 刘慧                               |
+| Region          | 中国                               |
+| Date            | 2006-07-08                                 |
+| Tags            | 变性手术, 阴茎再造, 性别畸形, 陈焕然, 医疗资源, 伦理道德, 生殖健康, 手术过程, 男性生殖器, 医学研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

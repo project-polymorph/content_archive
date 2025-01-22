@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hotline_看見跨性別——2019台灣跨性別遊行｜2019_Taiwan_Trans_March.md                             |
 | Size            | 5049 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hotline.org.tw/civicrm/event/info?reset=1&id=73](https://hotline.org.tw/civicrm/event/info?reset=1&id=73)                       |
 | Author          | 台湾同志咨询热线协会跨性别小组                               |
 | Region          | 台湾                               |
 | Date            | 2019-10-25                                 |

@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_女装子芭比酱-斗鱼直播.md                             |
 | Size            | 1562 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douyu.com/3912122](https://m.douyu.com/3912122)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-05-12                                 |

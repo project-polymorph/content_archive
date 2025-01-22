@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了一位伪娘在变性过程中所投入的巨大金钱与努力，标题为《伪娘豪砸55万只为当女生！兼2份工曝：上厕所不方便》。文件来源于宇宙大热门频道，重点分享了个人在个人过渡期间所面临的挑战，尤其是对日常生活的影响，如使用厕所的不便。这位伪娘为了实现自己的性别认同，接受了55万元的变性手术，同时还需兼职两份工作，以承担相关的医疗费用。这篇文章不仅引发对跨性别者在社会中体验的讨论，也反映了在经济与生理上的压力。文中提到，爱里（ALLIE）作为主要的递交者，其视频内容通过社交媒体平台传播，引起了较高的观看率。文章配有相关图片和链接，增加了多元性别话题在公众视野中的可见性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_偽娘豪砸55萬只為當女生！兼2份工曝：上廁所不方便@cosmosviral.md                             |
 | Size            | 1331 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=fNy1PPAyB5Q](https://www.youtube.com/watch?v=fNy1PPAyB5Q)                       |
+| Author          | 宇宙大热门                               |
+| Region          | 未知                               |
+| Date            | 2024-04-12                                 |
+| Tags            | 伪娘, 变性手术, 跨性别, 生活经历, 性别认同, 费用, 社会挑战, 厕所问题, 视频报告, 爱里                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

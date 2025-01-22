@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_日本华媒：是什么让日本“伪娘”泛滥成灾？_-_中国新闻网.md                             |
 | Size            | 3923 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.chinanews.com.cn/hb/2012/08-14/4105769.shtml](https://www.chinanews.com.cn/hb/2012/08-14/4105769.shtml)                       |
 | Author          | 蒋丰                               |
 | Region          | 日本                               |
 | Date            | 2012-08-14                                 |

@@ -96,8 +96,8 @@
 |-----------------|----------------------------------------|
 | Filename        | qikanchina_论文查询检索-中国期刊网.md                             |
 | Size            | 6125 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://qikanchina.com/search/n10?q=4T&pid=263&cid=359](https://qikanchina.com/search/n10?q=4T&pid=263&cid=359)                       |
 | Author          | 夏茵英, 秦明利, 王双洪, 其他未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

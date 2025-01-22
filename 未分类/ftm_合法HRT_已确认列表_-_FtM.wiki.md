@@ -115,8 +115,8 @@ _多数情况下，GnRH类似物自费，一月一针，医院常见的“贝依
 |-----------------|----------------------------------------|
 | Filename        | ftm_合法HRT_已确认列表_-_FtM.wiki.md                             |
 | Size            | 6221 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ftm.wiki/zh-cn/hrt/confirmed/](https://ftm.wiki/zh-cn/hrt/confirmed/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-09-28                                 |

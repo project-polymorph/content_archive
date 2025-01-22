@@ -88,8 +88,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_全世界每年有多少人去泰国做变性手术？_-_日记-_豆瓣.md                             |
 | Size            | 6144 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/note/823737910/](https://m.douban.com/note/823737910/)                       |
 | Author          | 豆友249908143                               |
 | Region          | 未知                               |
 | Date            | 2022-01-11                                 |

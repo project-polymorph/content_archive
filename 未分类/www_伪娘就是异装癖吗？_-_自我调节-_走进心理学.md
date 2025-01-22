@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了“伪娘”与“异装癖”这两个概念之间的区别，指出二者在心理和行为上的不同。伪娘是指行为和举止像女性的男性，且自我认同为女性，属于跨性别者的一类；而异装癖则是通过穿着异性服装获得性兴奋的行为，通常被认为是一种性变态形式。文章还探讨了性别的多样性，说明除了传统意义上的男性和女性外，还有性身相异的人。通过案例分析，如查兹·波诺（Chaz Bono）和文艺作品中的人物，作者强调理解和包容对于多元性别群体重要性。最后，作者呼吁读者减少猎奇心理，用更理解的态度去面对多元性别现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_伪娘就是异装癖吗？_-_自我调节-_走进心理学.md                             |
 | Size            | 3514 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.mypsy365.com/article/179](https://www.mypsy365.com/article/179)                       |
+| Author          | 天天心理网                               |
+| Region          | 未知                               |
+| Date            | 2015-10-03                                 |
+| Tags            | 伪娘, 异装癖, 跨性别, 性别认同, 性别多样性, 性别角色, 社会理解, 心理健康, 性别研究, 心理学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

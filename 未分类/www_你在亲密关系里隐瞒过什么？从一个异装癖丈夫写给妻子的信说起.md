@@ -140,7 +140,7 @@ _插图来自《卫报》、插画师Mario Sughi和Ilaria Ravinskij_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文以一封由一名异装癖丈夫写给妻子的信为切入点，探讨了在亲密关系中进行自我隐瞒所带来的内心冲突。信中，男主角坦白了他长期以来对异装癖的隐瞒，以及对伴侣的爱与愧疚。异装癖者对穿着异性服装的强烈欲望与其性别认同的关系被深入分析，指出异装癖并非性别认同问题，而是与个人心理状态和生活经历密切相关。作者提到，异装癖让男主角感到羞耻和内疚，反而令他在婚姻中倍感压抑，导致情绪低落甚至抑郁。信中还探讨了人们在亲密关系中常常出于取悦对方而隐藏真实自我的状况，建议在进入关系之前先学会自我接纳，以便建立长久而健康的伴侣关系。全篇则通过个人故事反映了多元性别群体在亲密关系中面临的挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -151,12 +151,12 @@ _插图来自《卫报》、插画师Mario Sughi和Ilaria Ravinskij_
 |-----------------|----------------------------------------|
 | Filename        | www_你在亲密关系里隐瞒过什么？从一个异装癖丈夫写给妻子的信说起.md                             |
 | Size            | 10508 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jiemian.com/article/864039.html](https://www.jiemian.com/article/864039.html)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-09-26                                 |
+| Tags            | 异装癖, 亲密关系, 性别认同, 心理健康, 自我接纳, 婚姻, 情感隐瞒, 抑郁, 个人故事, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

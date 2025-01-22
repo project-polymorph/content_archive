@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了阿均（化名）的一段感人故事，她是一位女性易性症患者，经历了长达29年的性别痛苦。阿均因渴望过上男性的生活，而在2004年进行了变性手术，并最终在合法身份下与深爱的小梅（化名）步入婚姻殿堂。文中详细描述了她的手术历程、与小梅的爱情故事，以及他们在社会与家庭压力下如何坚守彼此的感情。随着2004年民政部颁布的新规定，阿均和小梅得以合法结婚，享受属于自己的幸福生活。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | news_变性后他当上合法丈夫_图_.md                             |
 | Size            | 4395 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://news.sina.com.cn/c/2004-01-14/16161586917s.shtml](http://news.sina.com.cn/c/2004-01-14/16161586917s.shtml)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2004-01-14                                 |
+| Tags            | 变性, 易性症, 婚姻法, 性别认同, 身体变革, 爱情故事, 医疗经验, 法律政策, 社会环境, 性别多样性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

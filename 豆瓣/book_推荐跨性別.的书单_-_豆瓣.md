@@ -141,8 +141,8 @@ http://sex.ncu.edu.tw/publication/all.html
 |-----------------|----------------------------------------|
 | Filename        | book_推荐跨性別.的书单_-_豆瓣.md                             |
 | Size            | 5467 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/1352874/doulists](https://book.douban.com/subject/1352874/doulists)                       |
 | Author          | 豆瓣用户                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

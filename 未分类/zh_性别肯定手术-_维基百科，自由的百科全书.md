@@ -120,7 +120,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容来自维基百科，主要介绍性别肯定手术的概念、历史、手术类型及其对跨性别者的影响。性别肯定手术是一系列外科手术，旨在改变一个人的生理特征，使之与其认同的性别相符。文件详细描述了针对跨性别男性和女性的不同手术，包括阴道成形术、睾丸切除术、阴茎成形术等。此外，文件回顾了人类寻求性别肯定手术的历史，提到了一些历史上的重要人物以及他们的经历。例如，艾伦·L·哈特是第一位接受此类手术的跨性别男性之一，而多拉·里希特则是第一位接受完整生殖器手术的跨性别女性。现代性别肯定手术的起源可以追溯到20世纪，这些手术对很多跨性别者来说至关重要，是他们身体和心理认同的重要一步。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,12 +131,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_性别肯定手术-_维基百科，自由的百科全书.md                             |
 | Size            | 24803 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-hans/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E8%A1%93](https://zh.wikipedia.org/zh-hans/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E8%A1%93)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别肯定手术, 跨性别, 性别重置手术, 医学, 历史, 艾伦·L·哈特, 多拉·里希特, 阴道成形术, 阴茎成形术, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

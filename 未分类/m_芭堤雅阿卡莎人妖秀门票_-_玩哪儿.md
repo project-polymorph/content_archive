@@ -201,8 +201,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_芭堤雅阿卡莎人妖秀门票_-_玩哪儿.md                             |
 | Size            | 9525 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.wannar.com/pattaya-alcazar-cabaret-show-tour-12312.html](https://m.wannar.com/pattaya-alcazar-cabaret-show-tour-12312.html)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

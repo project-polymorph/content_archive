@@ -472,8 +472,8 @@ iOS版APP安卓版APP扫一扫下载
 |-----------------|----------------------------------------|
 | Filename        | book_女装大佬的变身日常_-_SF轻小说.md                             |
 | Size            | 37429 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://book.sfacg.com/Novel/147955/MainIndex/](https://book.sfacg.com/Novel/147955/MainIndex/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

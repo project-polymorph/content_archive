@@ -35,7 +35,7 @@
 
 #### **跨性別**
 
-![圖片來源：美劇 《Pose》劇照](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[圖片來源：美劇 《Pose》劇照]
 
 圖片來源：美劇 《Pose》劇照
 
@@ -43,7 +43,7 @@
 
 #### **非二元性別**
 
-![圖片來源：IG @kuma_power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[圖片來源：IG @kuma_power]
 
 圖片來源：IG @kuma_power
 
@@ -55,7 +55,7 @@
 
 ### **性傾向代表甚麼？**
 
-![圖片來源：Pexels](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[圖片來源：Pexels]
 
 圖片來源：Pexels
 
@@ -65,7 +65,7 @@
 
 ### **性別是流動的光譜？**
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[图片]
 
 編輯在搜尋資料時，看到一段非常貼切的描述如下。**「我們會常說性別是個光譜，但光譜就是畫好兩端點，在中間取其定義，這就是很二元的概念，性別應該是一個宇宙，有著各種不同的星球。」**( 取自[台大法律系學會學術部](https://medium.com/@ntulawazaleafestival?source=post_page-----ad12b185efa2--------------------------------))。性別認同是很主觀，而每個人都有屬於自己的星球，因此我們也沒必要去評價他人、幫別人下定論，只要尊重即可。
 
@@ -98,8 +98,8 @@
 |-----------------|----------------------------------------|
 | Filename        | today_跳脫二元框架認識性別認同，尊重他人的自我價值_女子學.md                             |
 | Size            | 7264 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://today.line.me/tw/v2/article/LXGrq9z](https://today.line.me/tw/v2/article/LXGrq9z)                       |
 | Author          | 女子学                               |
 | Region          | 未知                               |
 | Date            | 2022-05-10                                 |

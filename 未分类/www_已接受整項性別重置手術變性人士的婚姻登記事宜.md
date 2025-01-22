@@ -18,7 +18,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了已接受整项性别重置手术的变性人士的婚姻登记事宜。根据香港终审法院在W诉婚姻登记官（FACV 4/2012）案件中的命令，自2014年7月17日起，这些人士的重置性别将被婚姻登记官视为其法定性别，因此他们有权按照其重置性别进行婚姻登记。文件详细说明了这一法律变革的背景，包括香港立法会对《2014年婚姻（修订）条例草案》的提出以及相关的法律条文如何影响变性人士的婚姻权利。发言人强调，尽管该条例草案仍待进一步辩论，但法院的命令已有法律效力，为变性人士提供了法律保障，并且提到将继续关注未接受任何或整项性别重置手术人士可能面临的法律和社会问题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -29,12 +29,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_已接受整項性別重置手術變性人士的婚姻登記事宜.md                             |
 | Size            | 4016 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.info.gov.hk/gia/general/201407/16/P201407160335.htm](https://www.info.gov.hk/gia/general/201407/16/P201407160335.htm)                       |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 2014-07-16                                 |
+| Tags            | 性别认同, 变性人权利, 婚姻登记, 法律政策, 性别重置手术, 社会法律环境, 权利保障, 立法会, 香港, 变性人士                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

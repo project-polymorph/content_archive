@@ -42,8 +42,8 @@
 |-----------------|----------------------------------------|
 | Filename        | touch_三合一Sexy人妖秀_-_门票-_去哪儿网.md                             |
 | Size            | 920 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://touch.piao.qunar.com/touch/detail.htm?id=1751081693&cat=from_area%3Dmpl_guestsearch](https://touch.piao.qunar.com/touch/detail.htm?id=1751081693&cat=from_area%3Dmpl_guestsearch)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

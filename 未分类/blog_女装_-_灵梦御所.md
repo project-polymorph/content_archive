@@ -126,8 +126,8 @@ FD就都是后日谈和小剧场了，没啥好说的。感谢汉化。
 |-----------------|----------------------------------------|
 | Filename        | blog_女装_-_灵梦御所.md                             |
 | Size            | 13927 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://blog.reimu.net/archives/tag/%E5%A5%B3%E8%A3%85](https://blog.reimu.net/archives/tag/%E5%A5%B3%E8%A3%85)                       |
 | Author          | 灵梦御所                               |
 | Region          | 未知                               |
 | Date            | 2024-04-15                                 |

@@ -70,8 +70,8 @@ _本单集由夏洛特参与剪辑_
 |-----------------|----------------------------------------|
 | Filename        | podcasts_09__访谈：在纽约找到自己的声音&选择新的家庭的性别酷儿ft._Aqueer.md                             |
 | Size            | 4007 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/us/podcast/09-%E8%AE%BF%E8%B0%88-%E5%9C%A8%E7%BA%BD%E7%BA%A6%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A3%B0%E9%9F%B3-%E9%80%89%E6%8B%A9%E6%96%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%9A%84%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF-ft-aqueer/id1725512952?i=1000666542607&l=ar](https://podcasts.apple.com/us/podcast/09-%E8%AE%BF%E8%B0%88-%E5%9C%A8%E7%BA%BD%E7%BA%A6%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A3%B0%E9%9F%B3-%E9%80%89%E6%8B%A9%E6%96%B0%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%9A%84%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF-ft-aqueer/id1725512952?i=1000666542607&l=ar)                       |
 | Author          | 酷儿流水席                               |
 | Region          | 美国                               |
 | Date            | 2023-09-21                                 |

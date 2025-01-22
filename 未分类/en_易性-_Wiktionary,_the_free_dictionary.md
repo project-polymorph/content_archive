@@ -65,8 +65,8 @@ Retrieved from "[https://en.wiktionary.org/w/index.php?title=易性&oldid=741783
 |-----------------|----------------------------------------|
 | Filename        | en_易性-_Wiktionary,_the_free_dictionary.md                             |
 | Size            | 2853 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://en.wiktionary.org/wiki/%E6%98%93%E6%80%A7](https://en.wiktionary.org/wiki/%E6%98%93%E6%80%A7)                       |
 | Author          | Deng Weizhi                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -306,8 +306,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别%女装大佬_-_豆瓣.md                             |
 | Size            | 9538 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/127493023/](https://m.douban.com/doulist/127493023/)                       |
 | Author          | 葵·阿梅莉娅 (常熟)                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-05-18                                 |

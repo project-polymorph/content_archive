@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了变性人托马斯·比迪的故事，他是一位已成功怀孕并生下一名女儿的变性男性。比迪在接受采访时透露自己再次怀孕，并预计将在明年6月生下第二个孩子。在文件中，他分享了自己在怀孕期间的感受，以及抵抗重新注射睾丸激素的选择，以保持身体的适宜状态。他与妻子南希一直希望能有孩子，而南希因为不育症无法怀孕，因此比迪选择了自然怀孕的方式。此外，文章提到比迪在10年前接受“由女变男”的手术及其对医学、心理学、伦理道德的广泛关注和影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_图：变性男人比迪再次怀孕预产期明年6月_-_China_Daily.md                             |
 | Size            | 2228 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.chinadaily.com.cn/hqgj/2008-11/14/content_7205843.htm](http://www.chinadaily.com.cn/hqgj/2008-11/14/content_7205843.htm)                       |
+| Author          | 方颖                               |
+| Region          | 未知                               |
+| Date            | 2008-11-14                                 |
+| Tags            | 变性人, 怀孕, 托马斯·比迪, 性别认同, 生命故事, 新闻报道, 医学伦理, 社会议题, 多元性别, 家庭与亲子关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

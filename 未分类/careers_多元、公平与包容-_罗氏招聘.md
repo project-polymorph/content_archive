@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | careers_多元、公平与包容-_罗氏招聘.md                             |
 | Size            | 4974 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://careers.roche.com/cn/zh/diversity-equity-inclusion](https://careers.roche.com/cn/zh/diversity-equity-inclusion)                       |
 | Author          | 罗氏公司                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

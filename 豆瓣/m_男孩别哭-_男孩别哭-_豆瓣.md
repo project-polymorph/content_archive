@@ -43,8 +43,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_男孩别哭-_男孩别哭-_豆瓣.md                             |
 | Size            | 2886 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/1007129/](https://m.douban.com/movie/review/1007129/)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

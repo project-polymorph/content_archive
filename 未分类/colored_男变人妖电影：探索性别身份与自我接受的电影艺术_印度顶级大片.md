@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | colored_男变人妖电影：探索性别身份与自我接受的电影艺术_印度顶级大片.md                             |
 | Size            | 2804 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://colored.conglinhuwai.com/](https://colored.conglinhuwai.com/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-10-29                                 |

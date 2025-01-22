@@ -385,7 +385,7 @@ Copyright © 2017-2020 浪迹情感版权所有.[蜀ICP备20001153号-2](https:/
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了一位名为希米萨的男性，年仅26岁，是一名高收入的计算机工程师，他决定尝试女装生活。一开始，他是许多女生心目中的白马王子，追求者不计其数。但随着他转变为“女装大佬”，他的生活和人际关系发生了巨大的变化。作者以希米萨的视角，回顾了他的转变过程，从对女性外表的羡慕到实际的女装体验，以及最终踏上整容之路的决策。文中详细描写了希米萨整容的过程和面临的挑战，如投资130万元进行整容手术，想要达到与安吉丽娜朱莉相似的美貌，然而结果却并不理想。文章还提及其他成功的女装大佬，如来自日本的GENKING，他们为了美丽而努力，不惜为此进行变性手术与大量整容，反映社会对多元性别及身份认同问题的复杂态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -396,12 +396,12 @@ Copyright © 2017-2020 浪迹情感版权所有.[蜀ICP备20001153号-2](https:/
 |-----------------|----------------------------------------|
 | Filename        | www_听说你们都喜欢女装大佬？_-_浪迹情感.md                             |
 | Size            | 11262 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.langji520.com/lianai/qita/20964.html](http://www.langji520.com/lianai/qita/20964.html)                       |
+| Author          | 浪迹情感                               |
+| Region          | 未知                               |
+| Date            | 2020-11-14                                 |
+| Tags            | 女装大佬, 变性手术, 整容经历, 社会认同, 生命故事, 男性视角, 性别认同, 性感文化, 媒体报道,  LGBTQ+议题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了香港变性手术的第一人袁维昌医生的经历与贡献。他在1988年首次为病人实施变性手术，从事这一领域已有三十多年，面对着香港社会对这一话题的关注逐渐增加。文中详细阐述了袁医生在变性手术中的重要角色与技术创新，包括他为手术开发的自创模具，以及他对患者的关怀，特别是在手术费用上，许多患者由于经济原因无法负担私营医院的高昂费用。袁维昌在文章中提到，虽然他在公立医院进行了许多手术，但也期待社会能给予更多支持，帮助那些需要手术的年轻人，尤其是没有家庭支持的跨性别者。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | ubeat_香港變性手術第一人____袁維昌醫生_-_大學線.md                             |
 | Size            | 3582 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://ubeat.com.cuhk.edu.hk/133_yuan/](https://ubeat.com.cuhk.edu.hk/133_yuan/)                       |
+| Author          | 高仲礼，钱颖嘉                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 性别, 变性手术, 性别重置手术, 跨性别, 整形外科, 医疗资源, 生命故事, 社会环境, 法律政策, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

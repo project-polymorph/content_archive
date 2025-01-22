@@ -120,7 +120,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是有关多元性别交流活动的记录，主要来源于作者铁牛萱在北京的活动分享。文中详细记录了多个变装交流会的时间、内容以及相关的社交媒体标签，展示了多元性别社群的互动与凝聚力。例如，周五变装交流会活动于2024年7月17日举行，旨在提供一个让大家表达自我的平台。参与者可以互相交流与分享经验，活动吸引了众多关注者，并加入了丰富的话题标签，如#变装、#女装大佬和#shemale，表明活动的多样性与包容性。此外，文件中还包含了活动中发布的图片，这些视觉素材进一步展现了参与者的创意与表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -131,12 +131,12 @@
 |-----------------|----------------------------------------|
 | Filename        | twitter_静萱哇_北京.cd.变装.__@aijingxuan1314___X.md                             |
 | Size            | 5542 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://twitter.com/aijingxuan1314](https://twitter.com/aijingxuan1314)                       |
+| Author          | 铁牛萱 (@aijingxuan1314)                               |
+| Region          | 北京, 中国大陆                               |
+| Date            | 2024-03-01                                 |
+| Tags            | 变装, 多元性别, 交流会, mtf, sissy, 女装大佬, shemale, CD, 活动记录, 社会活动, 北京, 社区交流                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

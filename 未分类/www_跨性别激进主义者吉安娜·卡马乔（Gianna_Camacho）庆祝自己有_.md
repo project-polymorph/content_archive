@@ -55,7 +55,7 @@ _“再次感谢 Fhran Medina 博士的同情心和陪伴我踏上这段旅程�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了跨性别活动家吉安娜·卡马乔（Gianna Camacho）在获得包含她新名字的国民身份证件（DNI）后的庆祝与心路历程。吉安娜在2022年3月20日发表的文章中提到，得到新身份证件对她身份认同的重要性，并讲述了她在获得此证件过程中的法律战和面临的歧视经历。她回忆在司法部门进行的询问中，围绕跨性别者身份的法律问题，以及遇到的一些困扰和疑问。文章中她还提到自己在疫情中的反思，以及与律师及其他跨性别者的交流如何推动她迈出重要的一步。该文不仅展现了个人的奋斗经历，也反映了当前秘鲁社会中跨性别者所面临的法律及社会障碍。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@ _“再次感谢 Fhran Medina 博士的同情心和陪伴我踏上这段旅程�
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别激进主义者吉安娜·卡马乔（Gianna_Camacho）庆祝自己有_.md                             |
 | Size            | 5420 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.infobae.com/cn/2022/03/20/trans-activist-gianna-camacho-celebrates-that-she-has-a-dni-with-her-name-nothing-can-tarnish-this-so-beautiful-that-i-feel/](https://www.infobae.com/cn/2022/03/20/trans-activist-gianna-camacho-celebrates-that-she-has-a-dni-with-her-name-nothing-can-tarnish-this-so-beautiful-that-i-feel/)                       |
+| Author          | 吉安娜·卡马乔（Gianna Camacho）                               |
+| Region          | 秘鲁                               |
+| Date            | 2022-03-20                                 |
+| Tags            | 跨性别, 身份认同, 吉安娜·卡马乔, 秘鲁新闻, LGBT, 法律斗争, 歧视经历, 国民身份证, 性别认同, 人权                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

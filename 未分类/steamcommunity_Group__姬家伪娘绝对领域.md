@@ -101,8 +101,8 @@ Hi
 |-----------------|----------------------------------------|
 | Filename        | steamcommunity_Group__姬家伪娘绝对领域.md                             |
 | Size            | 7026 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://steamcommunity.com/groups/otokonokos](https://steamcommunity.com/groups/otokonokos)                       |
 | Author          | 神楽坂雅詩                               |
 | Region          | 中国                               |
 | Date            | 2016-02-26                                 |

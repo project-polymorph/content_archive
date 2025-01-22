@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一次在高雄举办的跨性别聚会活动。活动旨在为跨性别者及其朋友提供一个交流和连接的空间，强调了高雄在地跨性别社区的自主性。文中提到了该聚会的时间为2013年10月9日，并且指出南部地区的跨性别运动与北部（如台北）之间的差距。文中还提到，虽然大家来自不同的背景，但在高雄的聚会中，每个人都是这个空间的主人。这种聚会推动了地方跨性别文化的建立，也为参与者提供了支持和理解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別倡議站-__活動__簡單的高雄跨性別聚會from_trans_南部早已有從_.md                             |
 | Size            | 1300 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.facebook.com/photo.php?fbid=522232374524586&id=363085473772611&set=a.396632413751250&locale=bg_BG](https://www.facebook.com/photo.php?fbid=522232374524586&id=363085473772611&set=a.396632413751250&locale=bg_BG)                       |
+| Author          | 跨性别倡议站                               |
+| Region          | 台湾                               |
+| Date            | 2013-10-09                                 |
+| Tags            | 跨性别, 聚会, 高雄, 社会支持, 南部地区, 文化交流, LGBT, 生活经历, 社区建设, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

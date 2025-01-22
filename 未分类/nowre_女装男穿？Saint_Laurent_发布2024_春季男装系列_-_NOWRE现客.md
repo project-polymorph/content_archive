@@ -38,8 +38,8 @@
 |-----------------|----------------------------------------|
 | Filename        | nowre_女装男穿？Saint_Laurent_发布2024_春季男装系列_-_NOWRE现客.md                             |
 | Size            | 5260 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nowre.com/fashion/781871/nvzhuangnanchuansaint-laurent-fabu-2024-chunjinanzhuangxilie/](https://nowre.com/fashion/781871/nvzhuangnanchuansaint-laurent-fabu-2024-chunjinanzhuangxilie/)                       |
 | Author          | LG                               |
 | Region          | 未知                               |
 | Date            | 2023-06-13                                 |

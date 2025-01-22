@@ -44,7 +44,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件是针对最近发布的DC漫画《小丑：笑容不再》中小丑怀孕并生子的设定进行报道和讨论的文章。文章详细描述了这一设定的背景故事，小丑为了实现与扎坦娜组建家庭的愿望，最终被施法怀孕，并经历了不寻常的‘生育’过程，该过程涉及吐出不明液体反而形成了孩子。这一情节在社交媒体上引发了强烈的争议和舆论，文章引用了众多网民的批评意见，指出作品中的性别与生育设定可能被视为一种跨性别的表现，并且对于DC漫画传统角色的扭曲和奇怪化深感失望。整体上，这篇文章反映了公众对性别表现、漫画创作自由与经典角色诠释之间的复杂关系和争论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_DC新漫画里小丑怀孕并生子网民强烈呼吁抵制_-_旅法师营地.md                             |
 | Size            | 3315 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.iyingdi.com/tz/post/5243432](https://www.iyingdi.com/tz/post/5243432)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-01-08                                 |
+| Tags            | DC漫画, 小丑, 跨性别, 怀孕, 生子, 漫画争议, 社交媒体, 性别表现, 性别认同, 文化讨论                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

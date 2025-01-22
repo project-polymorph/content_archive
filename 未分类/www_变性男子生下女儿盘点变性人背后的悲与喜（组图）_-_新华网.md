@@ -24,7 +24,7 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了英国变性男子摩根（原名内森·奥布莱恩）的生命故事。摩根在22岁时实施了变性手术，改变了自己的性别，从一个被家庭和兄弟嘲笑的男性转变为如今在互联网上颇具人气的女性模特。摩根出生在曼彻斯特市，从小就感受到性别不认同，尽管家人一直认为她是一名同性恋者而未能真正理解她的感受。文章不仅详细介绍了摩根的成长经历和心理斗争，还展现了她在变性之后的生活，包括参加第一届变性小姐比赛的愿望。这篇文章反映了变性人的生活现状与挑战，同时也带出变性人背后的悲与喜。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@ Copyright © 2000 - 2025 XINHUANET.com　All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_变性男子生下女儿盘点变性人背后的悲与喜（组图）_-_新华网.md                             |
 | Size            | 1571 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.xinhuanet.com/world/2015-11/16/c_128431914_13.htm](http://www.xinhuanet.com/world/2015-11/16/c_128431914_13.htm)                       |
+| Author          | 光明网                               |
+| Region          | 英国                               |
+| Date            | 2015-11-16                                 |
+| Tags            | 多元性别, 变性人, 摩根, 性别认同, 生命故事, 模特经历, 变性手术, 性别转型, 社交媒体, 变性小姐比赛                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

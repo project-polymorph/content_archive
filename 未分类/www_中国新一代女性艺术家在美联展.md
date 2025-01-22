@@ -138,7 +138,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了2016年8月27日在美国密歇根州立大学布罗德美术馆举办的中国新一代女性艺术家展览——“内燃”。此次展览由策展人王春辰主办，旨在探讨中国青年女性艺术家在当代社会背景下的身份认同与个体意识。文中引述了波伏娃与朱迪斯·巴特勒等女性主义学者的话，反映了女性艺术家面临的社会预期与身份定义的复杂性。展览聚焦于艺术家的创作及她们如何在男性主导的艺术环境中寻求自我认同和表达。展览展出了多位艺术家的作品，包括刘韧、张亚宁、林苒等，涉及到的作品不仅触及生存状态与性别标签，还反映了社会问题和女性在艺术创作领域中面临的挑战。整体来看，该展览不仅是对女性艺术家创造力的肯定，也是对中国女性在当代社会中角色的一次深刻反思。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -149,12 +149,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_中国新一代女性艺术家在美联展.md                             |
 | Size            | 11250 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.chinashj.com/sh-ddsh/10358.html](http://www.chinashj.com/sh-ddsh/10358.html)                       |
+| Author          | 中国书画网                               |
+| Region          | 美国                               |
+| Date            | 2016-08-27                                 |
+| Tags            | 女性艺术, 性别认同, 身份意识, 女性主义, 艺术展览, 中国青年艺术家, 社会问题, 女性艺术创作, 跨性别表现, 当代艺术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

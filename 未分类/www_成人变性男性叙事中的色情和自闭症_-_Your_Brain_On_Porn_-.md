@@ -88,7 +88,7 @@ Sam Riedel撰写的关于The Establishment（Riedel 2017）的文章提供了对
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文探讨了成人变性男性的叙事中与色情和自闭症有关的主题。作者分析了青少年跨性别儿童的叙事，结合了一些男性变性者的经历与性别重新分配手术的描述。文章讨论了对性别身份认同与色情内容消费之间复杂的关系，指出色情幻想在许多变性人生活中的重要性。多个变性者的叙述被引用，展示他们的成长经历、对女性身体的幻想以及对自己性别身份的困惑。文中提到，色情消费特别是涉及变性人的内容，很大程度上影响了个人的性别认同和过渡决策。文章还涉及了自体生殖病的概念及其对变性身份的影响，强调需要在理解性别过渡时，严肃对待色情消费的作用。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -99,12 +99,12 @@ Sam Riedel撰写的关于The Establishment（Riedel 2017）的文章提供了对
 |-----------------|----------------------------------------|
 | Filename        | www_成人变性男性叙事中的色情和自闭症_-_Your_Brain_On_Porn_-.md                             |
 | Size            | 13635 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.yourbrainonporn.com/zh-CN/miscellaneous-resources/interesting-articles/pornography-and-autogynephilia-in-the-narratives-of-adult-transgender-males/](https://www.yourbrainonporn.com/zh-CN/miscellaneous-resources/interesting-articles/pornography-and-autogynephilia-in-the-narratives-of-adult-transgender-males/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 成人变性男性, 色情叙事, 性别认同, 自体生殖病, 跨性别, 转型经历, 青少年叙事, 情色文学, 心理分析                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

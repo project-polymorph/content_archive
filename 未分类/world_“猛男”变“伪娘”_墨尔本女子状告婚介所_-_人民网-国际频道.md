@@ -38,7 +38,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件报道了一起发生在澳大利亚墨尔本的法律案件，涉及一名要求婚介所介绍传统男性伴侣的女子，最终获得退款。根据报道，这名女子支付了4995澳元，希望能找到符合她的标准——‘可以换轮胎的、很有男人味的男人’，却收到了一名穿着粉色毛衣的‘伪娘’。她对约会对象的外表和性别表现感到非常失望，认为中介未能履行合同义务，最终在仲裁庭上获胜并获得退款。该案件引发了关于性别认同、社会期待以及婚介所服务内容的讨论，尤其是涉及多元性别的议题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -49,12 +49,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_“猛男”变“伪娘”_墨尔本女子状告婚介所_-_人民网-国际频道.md                             |
 | Size            | 2489 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://world.people.com.cn/n/2013/1021/c1002-23277691.html](http://world.people.com.cn/n/2013/1021/c1002-23277691.html)                       |
+| Author          | 人民网                               |
+| Region          | 澳大利亚                               |
+| Date            | 2013-10-21                                 |
+| Tags            | 多元性别, 婚介所, 法律案件, 退款, 社会期待, 性别认同, 墨尔本, 伪娘, 新闻报道, 性别表现                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

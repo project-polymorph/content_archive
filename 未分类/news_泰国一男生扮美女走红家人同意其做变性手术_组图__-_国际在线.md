@@ -57,8 +57,8 @@ poommee目前就读的高中是该府公立的男子高中，所以朋友们常�
 |-----------------|----------------------------------------|
 | Filename        | news_泰国一男生扮美女走红家人同意其做变性手术_组图__-_国际在线.md                             |
 | Size            | 2108 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.cri.cn/20161211/f2507410-9fae-61b0-7b1c-b5c262a945ae.html](https://news.cri.cn/20161211/f2507410-9fae-61b0-7b1c-b5c262a945ae.html)                       |
 | Author          | 国际在线，编辑：邓晨曦                               |
 | Region          | 泰国                               |
 | Date            | 2016-12-11                                 |

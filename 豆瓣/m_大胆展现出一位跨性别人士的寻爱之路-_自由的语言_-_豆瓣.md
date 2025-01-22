@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_大胆展现出一位跨性别人士的寻爱之路-_自由的语言_-_豆瓣.md                             |
 | Size            | 4897 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/13336673/](https://m.douban.com/movie/review/13336673/)                       |
 | Author          | 罗宾汉                               |
 | Region          | 美国                               |
 | Date            | 2020-08-26                                 |

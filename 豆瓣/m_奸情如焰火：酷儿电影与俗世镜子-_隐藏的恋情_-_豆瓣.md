@@ -73,8 +73,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_奸情如焰火：酷儿电影与俗世镜子-_隐藏的恋情_-_豆瓣.md                             |
 | Size            | 9544 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/4878721/](https://m.douban.com/movie/review/4878721/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2016-09-20                                 |

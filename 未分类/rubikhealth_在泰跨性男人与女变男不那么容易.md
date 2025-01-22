@@ -118,8 +118,8 @@
 |-----------------|----------------------------------------|
 | Filename        | rubikhealth_在泰跨性男人与女变男不那么容易.md                             |
 | Size            | 5514 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://rubikhealth.com/zh/articles/a-transman-the-transition-from-female-to-male-never-easy-in-thailand](https://rubikhealth.com/zh/articles/a-transman-the-transition-from-female-to-male-never-easy-in-thailand)                       |
 | Author          | Rubikhealth                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

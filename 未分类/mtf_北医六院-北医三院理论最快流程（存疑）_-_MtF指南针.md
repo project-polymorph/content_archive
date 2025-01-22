@@ -77,8 +77,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mtf_北医六院-北医三院理论最快流程（存疑）_-_MtF指南针.md                             |
 | Size            | 7065 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mtf.party/2020/09/%E5%8C%97%E5%8C%BB%E5%85%AD%E9%99%A2-%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E7%90%86%E8%AE%BA%E6%9C%80%E5%BF%AB%E6%B5%81%E7%A8%8B%EF%BC%88%E5%AD%98%E7%96%91%EF%BC%89/](https://mtf.party/2020/09/%E5%8C%97%E5%8C%BB%E5%85%AD%E9%99%A2-%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E7%90%86%E8%AE%BA%E6%9C%80%E5%BF%AB%E6%B5%81%E7%A8%8B%EF%BC%88%E5%AD%98%E7%96%91%EF%BC%89/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

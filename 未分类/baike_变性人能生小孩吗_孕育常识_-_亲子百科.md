@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | baike_变性人能生小孩吗_孕育常识_-_亲子百科.md                             |
 | Size            | 4824 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://baike.pcbaby.com.cn/yycs/1603/2817019.html](https://baike.pcbaby.com.cn/yycs/1603/2817019.html)                       |
 | Author          | 佚名                               |
 | Region          | 未知                               |
 | Date            | 2016-03-18                                 |

@@ -323,8 +323,8 @@
 |-----------------|----------------------------------------|
 | Filename        | 2dfan_游戏条目标签：性转_-_2DFan.md                             |
 | Size            | 29207 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://2dfan.com/tags/%E6%80%A7%E8%BD%AC](https://2dfan.com/tags/%E6%80%A7%E8%BD%AC)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

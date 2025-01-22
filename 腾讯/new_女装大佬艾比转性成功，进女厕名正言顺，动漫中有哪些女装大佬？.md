@@ -55,8 +55,8 @@
 |-----------------|----------------------------------------|
 | Filename        | new_女装大佬艾比转性成功，进女厕名正言顺，动漫中有哪些女装大佬？.md                             |
 | Size            | 3978 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://new.qq.com/rain/a/20210329A06KJN00](https://new.qq.com/rain/a/20210329A06KJN00)                       |
 | Author          | 山治看动漫                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-03-29                                 |

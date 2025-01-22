@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | politics_宝鸡首次给变性人进行户口性别变更小伙变姑娘_-_时政-_人民网.md                             |
 | Size            | 2838 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://politics.people.com.cn/n/2013/0709/c70731-22129494.html](http://politics.people.com.cn/n/2013/0709/c70731-22129494.html)                       |
 | Author          | 西安晚报                               |
 | Region          | 中国大陆                               |
 | Date            | 2013-07-09                                 |

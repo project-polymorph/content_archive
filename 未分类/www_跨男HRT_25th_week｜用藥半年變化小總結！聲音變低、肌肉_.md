@@ -50,7 +50,7 @@ Instagram聯絡我： attaboy_deven
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一位跨男（FTM）在接受激素替代疗法（HRT）25周后的经历与变化。文件的作者是一名名为Deven的跨性别者，他分享了自己经过半年的HRT治疗，身体上经历的多项变化，包括声音变低、肌肉增加以及其他一些生理变化。他提到虽然在声音和脸部痘痘的问题上有了明显变化，但其他变化不甚明显。然而，身边的朋友和家人注意到他看起来更加「壮」。此外，他还提到结合睾固酮治疗、重训及饮食控制，期待能够持续进步，达到减脂的目标。在视频中，Deven还邀请观众留言与他互动，无论是希望了解更多关于跨性别的知识，还是在HRT方面有问题的咨询。该影片记录了跨性别者在医疗转变过程中的真实体验，是了解多元性别群体的一个重要资料。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@ Instagram聯絡我： attaboy_deven
 |-----------------|----------------------------------------|
 | Filename        | www_跨男HRT_25th_week｜用藥半年變化小總結！聲音變低、肌肉_.md                             |
 | Size            | 1974 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=Pjr9NAqBM7o](https://www.youtube.com/watch?v=Pjr9NAqBM7o)                       |
+| Author          | Deven                               |
+| Region          | 台湾                               |
+| Date            | 2021-06-24                                 |
+| Tags            | 跨性别, 跨男, HRT, 替代疗法, 声音变化, 身体转变, 健康, 乳腺发育, 心理支持, 社交互动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -61,8 +61,8 @@
 |-----------------|----------------------------------------|
 | Filename        | shpride_骄傲节支持.md                             |
 | Size            | 4977 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shpride.com/beneficiaries2018/?lang=zh](https://shpride.com/beneficiaries2018/?lang=zh)                       |
 | Author          | 上海骄傲节组织                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-06-08                                 |

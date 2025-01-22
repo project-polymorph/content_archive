@@ -108,8 +108,8 @@
 |-----------------|----------------------------------------|
 | Filename        | book_养育男孩_豆瓣_.md                             |
 | Size            | 6884 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/subject/4796701//](https://book.douban.com/subject/4796701//)                       |
 | Author          | 史蒂夫·比达尔夫                               |
 | Region          | 未知                               |
 | Date            | 2010-04-01                                 |

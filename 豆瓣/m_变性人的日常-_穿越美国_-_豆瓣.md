@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性人的日常-_穿越美国_-_豆瓣.md                             |
 | Size            | 2225 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15627712/](https://m.douban.com/movie/review/15627712/)                       |
 | Author          | 哈哈怪                               |
 | Region          | 美国                               |
 | Date            | 2005-12-23                                 |

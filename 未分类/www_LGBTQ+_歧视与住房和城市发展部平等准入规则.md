@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件探讨了与LGBTQ+群体相关的住房歧视问题，重点介绍了美国住房和城市发展部（HUD）针对性别歧视和性取向歧视的法律保护。根据第13988号行政令，LGBTQ+的个人在住房交易中遭受歧视时，可以通过法律途径寻求帮助。文件中提到，2021年2月11日，HUD表示将执行《公平住房法》，以禁止基于性取向和性别认同的歧视。此外，文件还简要概述了宾夕法尼亚州的相关法律保护，并提供了针对疑似住房歧视的相关资源和联系方式，强调所有获得HUD援助的项目都必须确保个人根据其性别身份享有平等待遇。文中具体描述了保障政策、实施日期和相关规定，突显出HUD在推动公平住房方面的努力与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_LGBTQ+_歧视与住房和城市发展部平等准入规则.md                             |
 | Size            | 6810 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.equalhousing.org/zh/fair-housing-topics/lgbtq-discrimination-and-hud-equal-access-rules/](https://www.equalhousing.org/zh/fair-housing-topics/lgbtq-discrimination-and-hud-equal-access-rules/)                       |
+| Author          | 住房平等中心                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | LGBTQ+, 住房歧视, 性别认同, 平等住房法, 法律保护, 社会正义, 美国政策, 反歧视法, 宾夕法尼亚州, HUD法规                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

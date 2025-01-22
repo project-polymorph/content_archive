@@ -72,8 +72,8 @@
 |-----------------|----------------------------------------|
 | Filename        | bbs_关于bass_伪娘的性别问题-_手机版-_Powered_by_Discuz!_-_吉他中国论坛.md                             |
 | Size            | 2304 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://bbs.guitarschina.com/thread-612339-1-1.html](https://bbs.guitarschina.com/thread-612339-1-1.html)                       |
 | Author          | 博先生                               |
 | Region          | 中国大陆                               |
 | Date            | 2008-04-04                                 |

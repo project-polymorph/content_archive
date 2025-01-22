@@ -61,7 +61,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档来自哔哩哔哩，由作者泰国阿玲创作，标题为《90后伪娘人妖小哥哥 天津塘沽御姐风伪娘》。文章展示了一位90后伪娘的生活故事，特别是其在天津塘沽地区的过渡经历和生活状态。文件中包含一张与内容相关的图片，文字中提到了一些作者与生活相关的日常活动和情感。该文件探讨了伪娘文化及其在当代社会中的体现，尤其在社交网络平台上的影响和表现。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_90后伪娘人妖小哥哥天津塘沽御姐风伪娘_-_Bilibili.md                             |
 | Size            | 2022 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/av866200661](https://www.bilibili.com/video/av866200661)                       |
+| Author          | 泰国阿玲                               |
+| Region          | 天津                               |
+| Date            | 2023-03-18                                 |
+| Tags            | 伪娘, 多元性别, 生活故事, 天津, 社交媒体, 文化记录, 性别表达, 青年, 网络文化, 情感分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

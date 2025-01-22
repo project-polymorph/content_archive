@@ -125,7 +125,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《中华乳腺病杂志》电子版中的经典病例汇集，包含了多篇关于乳腺疾病的病例报告。文中涉及的病例类型多样，诸如利培酮致非哺乳期乳腺炎、男性乳腺导管内乳头状癌，以及乳腺木村病等，涵盖了乳腺肿瘤、内分泌疾病和感染等多个医学领域。每篇病例资料中均提供了详细的病例分析，作者姓名及其出处，以及DOI信息，便于读者获取原文查阅。这些病例不仅为医学研究提供了实证数据，也为 practitioners 在临床上提供了重要参考，有助于提升对于多元性别群体在乳腺疾病方面研究的认知。这篇文献的资料适合医生和研究人员浏览，尤其是涉及内分泌和外科医学的专业人士。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -136,12 +136,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zhrxbzz_经典病例_-_中华乳腺病杂志_电子版_.md                             |
 | Size            | 7533 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhrxbzz.cma-cmc.com.cn/CN/collection/1606877400016/articles](https://zhrxbzz.cma-cmc.com.cn/CN/collection/1606877400016/articles)                       |
+| Author          | 中华乳腺病杂志                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 乳腺病, 病例报告, 男性乳腺癌, 乳腺炎, 肿瘤, 内分泌知识, 疾病治疗, 医学研究, 医疗资源, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -60,8 +60,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_飞翔-_丹麦女孩-_豆瓣.md                             |
 | Size            | 1910 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/movie/review/12193317/](https://m.douban.com/movie/review/12193317/)                       |
 | Author          | 日光倾城醉清风                               |
 | Region          | 未知                               |
 | Date            | 2016-01-01                                 |

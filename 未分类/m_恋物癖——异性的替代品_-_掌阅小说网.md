@@ -260,8 +260,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_恋物癖——异性的替代品_-_掌阅小说网.md                             |
 | Size            | 28214 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.zhangyue.com/readbook/11726694/4.html?p2=116696](https://m.zhangyue.com/readbook/11726694/4.html?p2=116696)                       |
 | Author          | 张印                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

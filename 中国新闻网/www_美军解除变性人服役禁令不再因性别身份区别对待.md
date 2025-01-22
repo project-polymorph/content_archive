@@ -39,8 +39,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美军解除变性人服役禁令不再因性别身份区别对待.md                             |
 | Size            | 2211 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.chinanews.com.cn/gj/2016/07-01/7923733.shtml](https://www.chinanews.com.cn/gj/2016/07-01/7923733.shtml)                       |
 | Author          | 中国新闻网                               |
 | Region          | 美国                               |
 | Date            | 2016-07-01                                 |

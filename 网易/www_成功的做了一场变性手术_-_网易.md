@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位经历了变性手术的人士的故事，探讨了变性手术的过程、心路历程以及对生活的影响。文章中提及了手术前的准备、施行手术的医院和医生的专业性，以及术后的恢复和适应情况。这段故事不仅反映了个体在性别认同上的挣扎与坚持，也揭示了社会对变性人士的态度及相关支持资源。此外，文章中包含了与变性手术相关的医疗经验、心理准备和家庭支持的重要性，为正在考虑或经历类似过程的人们提供了宝贵的参考和鼓励。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_成功的做了一场变性手术_-_网易.md                             |
 | Size            | 5607 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.163.com/v/video/VIFRN48P9.html](https://www.163.com/v/video/VIFRN48P9.html)                       |
+| Author          | 饭饭剪影                               |
+| Region          | 河南                               |
+| Date            | 2024-11-12                                 |
+| Tags            | 变性手术, 性别认同, 生命故事, 医疗资源, 心理支持, 社会环境, 个人经历, 法律政策, 跨性别, 社会接受度                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

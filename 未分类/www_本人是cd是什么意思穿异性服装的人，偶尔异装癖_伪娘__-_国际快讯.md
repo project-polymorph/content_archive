@@ -40,7 +40,7 @@ Cd往往是异性恋的人，变装只是单纯的喜欢，能够表达出他们
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了‘CD’（Cross-Dress，异装癖）这一群体的人群特点和心理状态。CD主要是指穿着异性服装的人，通常是男性偶尔会穿着女性服装，目的是为了放松和释放压力，而并不意味着性别认同的改变。文章详细解释了CD与其他性别身份如‘TS’（TransSexual，跨性别者）及‘GAY’（同性恋）的区别，指出CD人士大多是异性恋，穿异性服装仅是个人兴趣，与性取向无关。此外，作者还提到CD并不是一种疾病，而是一种特殊的爱好，与常规的性别表现不同。最后，文章提供了关于CD的精辟见解及相关标签，可以帮助读者更好地理解这一文化现象。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -51,12 +51,12 @@ Cd往往是异性恋的人，变装只是单纯的喜欢，能够表达出他们
 |-----------------|----------------------------------------|
 | Filename        | www_本人是cd是什么意思穿异性服装的人，偶尔异装癖_伪娘__-_国际快讯.md                             |
 | Size            | 2916 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.meixingnan.com/zh-sg/lieq/guojikuaixun/66859.html](https://www.meixingnan.com/zh-sg/lieq/guojikuaixun/66859.html)                       |
+| Author          | 美型男                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异装癖, 跨性别, 性别认同, 服装, 伪娘, CD, 社会文化, 多元性别, 心理健康, 性取向                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

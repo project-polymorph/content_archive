@@ -56,8 +56,8 @@ _摄影 记者 崔锦宁_
 |-----------------|----------------------------------------|
 | Filename        | m_“YES,_QUEER!”_2024年第25届首尔酷儿文化节即将拉开帷幕.md                             |
 | Size            | 3882 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.yazhouribao.com/view/20240520142910570](https://m.yazhouribao.com/view/20240520142910570)                       |
 | Author          | 崔锦宁                               |
 | Region          | 韩国                               |
 | Date            | 2024-05-20                                 |

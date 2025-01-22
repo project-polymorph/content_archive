@@ -71,8 +71,8 @@ TS和CD的主要区别在于它们对性别认同和表达的方式不同。TS�
 |-----------------|----------------------------------------|
 | Filename        | ent_ts什么网络含义什么意思ts和cd的区别是啥？_-_中华网娱乐.md                             |
 | Size            | 3449 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ent.china.com/movie/newszh/11005281/20241017/47393236.html](https://ent.china.com/movie/newszh/11005281/20241017/47393236.html)                       |
 | Author          | 于浩淙                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-10-17                                 |

@@ -62,7 +62,7 @@ The author has indicated this post may contain content that may not be suitable 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档来自Tumblr，主要通过一个名为storm777abc的用户发布的信息，内容涉及与男性化形象的男娘角色相关的个体生活经历与社交互动发泄。在该博文中，作者表达了对社交的渴望和对身体形象的个人反思，如提到“身材是不是还是比较男性化”以及“终于能穿下这双marcha的芭蕾鞋”。文中包含一段寻求当地社交联系的内容，反映出作者在生活中对伴侣及社交的需求。此外，作者还以幽默的方式提到了一些个人喜好，如在七夕节的祝福，这展现了其对节日的关注并试图转换为一种约会的文化情境。该内容可能包括成人向的讨论，因此有“Content Label: Mature”的标注。整个文档透出一种寻求认同和亲密关系的情感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@ The author has indicated this post may contain content that may not be suitable 
 |-----------------|----------------------------------------|
 | Filename        | www_男娘on_Tumblr.md                             |
 | Size            | 1700 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tumblr.com/tagged/%E7%94%B7%E5%A8%98](https://www.tumblr.com/tagged/%E7%94%B7%E5%A8%98)                       |
+| Author          | storm777abc                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男娘, 伪娘, 男孩, 社交互动, 心理健康, 生活故事, 性别表达, 变装, 成人内容, 网络文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

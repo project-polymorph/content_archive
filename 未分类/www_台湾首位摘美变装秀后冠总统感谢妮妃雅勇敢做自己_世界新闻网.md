@@ -26,7 +26,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章报道了来自台湾的变装皇后妮妃雅（Nymphia Wind）在美国实境电视节目《鲁保罗变装皇后秀》第16季中获得冠军的消息。文章中提到，妮妃雅是节目首位夺冠的台湾变装皇后，这一成就打破了该节目中存在的“亚洲魔咒”。台湾总统蔡英文对此表示祝贺，并感谢妮妃雅勇敢做自己，进一步讴歌了变装艺术的表演价值。报道还提到妮妃雅在争夺冠军的过程中与其他参赛者展现了个人特色与魅力，创造了台湾人在这一节目中夺冠的历史纪录。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -37,12 +37,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_台湾首位摘美变装秀后冠总统感谢妮妃雅勇敢做自己_世界新闻网.md                             |
 | Size            | 2049 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.worldjournal.com/wj/story/121478/7914275?from=wj_maintab_cate&zh-cn](https://www.worldjournal.com/wj/story/121478/7914275?from=wj_maintab_cate&zh-cn)                       |
+| Author          | 中央社                               |
+| Region          | 台湾                               |
+| Date            | 2024-04-21                                 |
+| Tags            | 变装皇后, 妮妃雅, 鲁保罗变装皇后秀, 蔡英文, 变装艺术, 性别多元, 台湾文化, 自我表达, 娱乐新闻, 获奖                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

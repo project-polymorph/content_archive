@@ -71,7 +71,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了作家陆颖鱼对诗与爱的深入思考，尤其是在面对生命、死亡和关系复杂性的情境。文件中详细介绍了叶青这位女诗人的生活及作品，阐述了她的诗在同性恋情感世界中的独特地位，并且探讨了对爱的理解和表达。作者通过引用叶青的诗作，表达了对生活复杂性的认识以及对爱的渴望与挣扎，指出无论性别如何，爱的本质是相通的。她通过个人体验，呼吁人们对性别多元和同志平权的支持，展示了通过艺术和文学表达的力量。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -82,12 +82,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_陸穎魚／詩把我們日子強壯起來-_報導者The_Reporter.md                             |
 | Size            | 5517 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.twreporter.org/a/bookreview-poem-make-us-strong](https://www.twreporter.org/a/bookreview-poem-make-us-strong)                       |
+| Author          | 陆颖鱼                               |
+| Region          | 台湾                               |
+| Date            | 2018-11-23                                 |
+| Tags            | 诗歌, 同志, 女性文学, 性别平权, 叶青, 爱情, 个人经历, 多元性别, 生活故事, 社会观察                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -54,7 +54,7 @@ Copyright © 2014-2023 观察者 All rights reserved. 互联网新闻信息服�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了中国著名跨性别者金星的婚姻与变性经历，通过她的故事反映出跨性别者面临的挑战与社会的认知不足。金星与德国人汉斯于2005年结婚，但由于法律及社会原因在2006年离婚，后期两人在一同抚养三个孩子。在2018年，他们兑现了当初的约定，举办盛大的婚礼。金星在1995年经过变性手术，实现了自己做女性的梦想。文中提到，她的经历并不代表大多数跨性别者的现实，许多人在家庭和社会的压力下，并未能如愿以偿。金星被视为幸运者，而其他跨性别者则面临医疗条件不足、家庭不理解及社会歧视等诸多挑战。值得一提的是，金星的故事鼓励了对性少数群体更深的理解与尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@ Copyright © 2014-2023 观察者 All rights reserved. 互联网新闻信息服�
 |-----------------|----------------------------------------|
 | Filename        | user_金星复婚，她大概是最幸运的跨性别者_-_风闻.md                             |
 | Size            | 4267 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://user.guancha.cn/main/content?id=33626](https://user.guancha.cn/main/content?id=33626)                       |
+| Author          | 风闻社区周十七                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-20                                 |
+| Tags            | 跨性别, 金星, 婚姻, 变性手术, 性别认同, 家庭支持, 社会歧视, 性少数群体, 生存现状, 性别焦虑                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

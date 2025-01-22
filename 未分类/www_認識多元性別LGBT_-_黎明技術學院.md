@@ -230,7 +230,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为黎明技术学院关于认识多元性别LGBT的网页内容，旨在提供多元性别相关的知识和资源。文件包含多个部分，主要是各类与多元性别相关的辅导资源与服务项目，包括学生辅导中心、生活辅导组、卫生保健组、住宿服务组等，特别强调性别平等与生命教育的重要性。内容中提及了多个链接，指向相关的支持性资源，例如法律政策、防治药物滥用和学生贷款信息。这些信息为学生提供了一个了解和支持多元文化和性别取向的环境，并帮助有需要的学生获得所需的支持与辅导。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -241,12 +241,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_認識多元性別LGBT_-_黎明技術學院.md                             |
 | Size            | 11545 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.lit.edu.tw/student/4839/](https://www.lit.edu.tw/student/4839/)                       |
+| Author          | 黎明技术学院                               |
+| Region          | 台湾                               |
+| Date            | 2021-10-22                                 |
+| Tags            | 多元性别, LGBT, 黎明技术学院, 性别平等, 生命教育, 学生辅导, 法律政策, 卫生保健, 住宿服务, 教育资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

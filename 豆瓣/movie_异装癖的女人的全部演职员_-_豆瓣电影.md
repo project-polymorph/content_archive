@@ -37,8 +37,8 @@
 |-----------------|----------------------------------------|
 | Filename        | movie_异装癖的女人的全部演职员_-_豆瓣电影.md                             |
 | Size            | 1668 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://movie.douban.com/subject/4898350/celebrities](https://movie.douban.com/subject/4898350/celebrities)                       |
 | Author          | 未知                               |
 | Region          | 日本                               |
 | Date            | 2010-07-10                                 |

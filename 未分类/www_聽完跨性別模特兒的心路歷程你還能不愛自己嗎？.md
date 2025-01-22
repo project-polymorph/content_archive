@@ -59,7 +59,7 @@ by [Titi Chen](https://www.marieclaire.com.tw/author/55/Titi Chen) - 2019/08/10�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了跨性别模特Nathan Westling和Valentina Sampaio的心路历程，强调勇敢做自己的重要性。通过两位模特的真实故事，读者能够了解到跨性别者在社会中所面临的挑战与成就。Nathan Westling从2018年开始转变为男性，顺利走出阴影，成为了模特行业的闪光点；而Valentina Sampaio则是第一位变性维秘模特，展示了自己的变迁与奋斗。在他们的故事中，展现了突破陈规的勇气、坚韧的生命力和对自我认同的深刻理解，激励读者们去爱自己，拥抱真实的自我。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@ by [Titi Chen](https://www.marieclaire.com.tw/author/55/Titi Chen) - 2019/08/10�
 |-----------------|----------------------------------------|
 | Filename        | www_聽完跨性別模特兒的心路歷程你還能不愛自己嗎？.md                             |
 | Size            | 3985 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.marieclaire.com.tw/fashion/feature/44236](https://www.marieclaire.com.tw/fashion/feature/44236)                       |
+| Author          | Titi Chen                               |
+| Region          | 台湾                               |
+| Date            | 2019-08-10                                 |
+| Tags            | 模特儿, 跨性别, 维秘, Nathan Westling, Valentina Sampaio, LGBTQ, 生命故事, 社会认同, 性别表达, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

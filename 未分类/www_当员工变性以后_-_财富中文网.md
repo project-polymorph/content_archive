@@ -62,7 +62,7 @@ _面对重大改变，工作场所可能出现混乱，但只要有足够的宽�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了员工托尼•佛莱欧罗的变性经历以及在工作场所如何应对变性员工的问题。文章首先引用了雇主希克勒对佛莱欧罗变性的支持态度，强调了创建一个尊重和宽容的工作环境的重要性。在转变过程中，佛莱欧罗回归工作后不仅面临同事的关注与好奇，也要应对使用洗手间的选择。文章通过佛莱欧罗的亲身经历，展示了变性人在职场中可能遇到的挑战，以及企业在法律和伦理上的责任。此外，文章还提到在美国，随着对性别身份的法律保护日益增强，越来越多的企业开始重视并尊重变性员工的权益。总体而言，本文通过实际案例传达了职场对变性人态度的变化以及重要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@ _面对重大改变，工作场所可能出现混乱，但只要有足够的宽�
 |-----------------|----------------------------------------|
 | Filename        | www_当员工变性以后_-_财富中文网.md                             |
 | Size            | 6991 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.fortunechina.com/first/c/2009-05/04/content_18477.htm](https://www.fortunechina.com/first/c/2009-05/04/content_18477.htm)                       |
+| Author          | Malika Zouhali-Worrall                               |
+| Region          | 美国                               |
+| Date            | 2009-05-04                                 |
+| Tags            | 变性, 职场支持, 法律保护, 性别身份, 工作环境, 员工权益, 平等就业机会, 人权运动, 性别歧视, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

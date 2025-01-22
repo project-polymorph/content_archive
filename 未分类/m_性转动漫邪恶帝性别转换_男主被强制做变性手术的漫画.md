@@ -80,8 +80,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性转动漫邪恶帝性别转换_男主被强制做变性手术的漫画.md                             |
 | Size            | 6601 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.txax.net/shijue/dianshiju/239585.html](http://m.txax.net/shijue/dianshiju/239585.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2019-07-28                                 |

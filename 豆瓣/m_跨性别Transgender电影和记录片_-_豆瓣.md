@@ -426,8 +426,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性别Transgender电影和记录片_-_豆瓣.md                             |
 | Size            | 15101 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/110223504/](https://m.douban.com/doulist/110223504/)                       |
 | Author          | Z&Z                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-09-30                                 |

@@ -122,8 +122,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_“跨性别”给奥林匹克出了道难题_-_中青在线.md                             |
 | Size            | 10693 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.cyol.com/gb/articles/2024-08/03/content_Lgay3gtG7P.html](http://m.cyol.com/gb/articles/2024-08/03/content_Lgay3gtG7P.html)                       |
 | Author          | 澎湃新闻                               |
 | Region          | 未知                               |
 | Date            | 2024-08-03                                 |

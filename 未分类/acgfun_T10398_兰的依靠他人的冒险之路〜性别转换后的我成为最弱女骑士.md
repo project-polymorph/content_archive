@@ -38,8 +38,8 @@ Designed by **[AcgFun!](https://acgfun.net)**
 |-----------------|----------------------------------------|
 | Filename        | acgfun_T10398_兰的依靠他人的冒险之路〜性别转换后的我成为最弱女骑士.md                             |
 | Size            | 785 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://acgfun.moe/thread-69563-1-1.html](https://acgfun.moe/thread-69563-1-1.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

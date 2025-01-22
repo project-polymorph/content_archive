@@ -89,8 +89,8 @@ Copyright © 2015 - 2025 杭州袋虎信息技术有限公司 浙ICP备18004841�
 |-----------------|----------------------------------------|
 | Filename        | m_性别认同障碍是什么,性别认同障碍怎么产生的？.md                             |
 | Size            | 3603 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.ydl.com/toutiao/2097](https://m.ydl.com/toutiao/2097)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2020-07-27                                 |

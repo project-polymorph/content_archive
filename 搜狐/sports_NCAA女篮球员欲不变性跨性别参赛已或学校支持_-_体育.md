@@ -73,8 +73,8 @@ Copyright © 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 [版权所有]
 |-----------------|----------------------------------------|
 | Filename        | sports_NCAA女篮球员欲不变性跨性别参赛已或学校支持_-_体育.md                             |
 | Size            | 3775 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://sports.sohu.com/20101105/n277162906.shtml](https://sports.sohu.com/20101105/n277162906.shtml)                       |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2010-11-05                                 |

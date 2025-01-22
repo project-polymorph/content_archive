@@ -93,8 +93,8 @@ The above picture comes from "网易博客"
 |-----------------|----------------------------------------|
 | Filename        | info_泰国人妖表演那些事人妖秀99%是中国游客_-_新闻资讯-_Vanpeople.md                             |
 | Size            | 11121 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://info.vanpeople.com/240829.html](https://info.vanpeople.com/240829.html)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 2013-02-19                                 |

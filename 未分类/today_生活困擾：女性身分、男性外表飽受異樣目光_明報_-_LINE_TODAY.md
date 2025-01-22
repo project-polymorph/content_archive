@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | today_生活困擾：女性身分、男性外表飽受異樣目光_明報_-_LINE_TODAY.md                             |
 | Size            | 3294 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://today.line.me/hk/v2/article/EX0gGjv](https://today.line.me/hk/v2/article/EX0gGjv)                       |
 | Author          | 未知                               |
 | Region          | 香港                               |
 | Date            | 2024-11-03                                 |

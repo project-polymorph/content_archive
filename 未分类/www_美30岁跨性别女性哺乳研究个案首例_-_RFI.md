@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一项关于美国一名30岁跨性别女性哺乳的科学研究，该女性通过激素疗法成功实现了母乳喂养，成为首个公开发表的相关个案。报告由纽约西奈山艾康医学院的研究团队完成，详细描述了实验过程及结果，指出这名跨性别女性在未接受任何生殖器或乳房手术的情况下，通过增加雌性激素和使用吸乳器的方法，成功促进了乳汁分泌，为其伴侣所生婴儿提供乳汁。文中引用了科学研究的结果，强调了婴儿生长正常但对泌乳的安全性和营养价值仍需进行更多研究。这项研究为跨性别者在乳汁喂养方面提供了重要的案例和参考，也引发了对于跨性别女性哺乳能力的积极讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_美30岁跨性别女性哺乳研究个案首例_-_RFI.md                             |
 | Size            | 1647 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rfi.fr/cn/contenu/20180216-%E7%BE%8E30%E5%B2%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E5%93%BA%E4%B9%B3-%E7%A0%94%E7%A9%B6%E4%B8%AA%E6%A1%88%E9%A6%96%E4%BE%8B](https://www.rfi.fr/cn/contenu/20180216-%E7%BE%8E30%E5%B2%81%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E5%93%BA%E4%B9%B3-%E7%A0%94%E7%A9%B6%E4%B8%AA%E6%A1%88%E9%A6%96%E4%BE%8B)                       |
+| Author          | 法新社                               |
+| Region          | 美国                               |
+| Date            | 2018-02-16                                 |
+| Tags            | 跨性别, 哺乳, 激素疗法, 乳汁分泌, 研究案例, 生理性别, 母乳喂养, 医疗建议, 社会讨论, 跨性别健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

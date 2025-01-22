@@ -101,7 +101,7 @@ Twitter（X）で女装子さんを探す方法をご紹介。基本となる検
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于“女装子数据档案馆”的网页，主要介绍了一个专注于女装子（通常指男性通过化妆和服装打扮呈现女性形象）这一群体的数据库网站。页面包含了各类女装子人士的资料，包括他们的个人简介、照片以及注册信息。文中提到的‘女装子数据库’意在集结这些人的资料，方便彼此之间的交流与联系。网站还提供了多个链接，包含最新的问卷调查结果，如‘2025年抱负与目标’的问卷，反映出女装子群体的意见和希望。此外，网站内还刊登了多个相关的提醒和公告，包括新年问候、注册人数突破50名的消息以及关于女装子的各种实用建议与技巧，帮助新成员适应与融入这一文化。此档案除了信息的收录，还表现出对女装子社区的支持与鼓励。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -112,12 +112,12 @@ Twitter（X）で女装子さんを探す方法をご紹介。基本となる検
 |-----------------|----------------------------------------|
 | Filename        | www_女装子データベース__素的な女装子さんが見つかるデータベースサイト.md                             |
 | Size            | 7900 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.josoweb.com/](https://www.josoweb.com/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-08-20                                 |
+| Tags            | 女装子, 数据库, 资料收录, 社区支持, 问卷调查, 网络交流, 个人资料, 生活经历, 性别表达, 女性形象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

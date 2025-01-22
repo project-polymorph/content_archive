@@ -61,8 +61,8 @@ ACLU的诉讼还称，cordellion从6岁起就被认定为女性，而这名囚�
 |-----------------|----------------------------------------|
 | Filename        | m_印第安纳州法官裁定监狱必须为杀害婴儿的囚犯提供变性手术.md                             |
 | Size            | 3114 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.fdsil.com/news/81238/](http://m.fdsil.com/news/81238/)                       |
 | Author          | 本站编辑                               |
 | Region          | 美国                               |
 | Date            | 2024-10-10                                 |

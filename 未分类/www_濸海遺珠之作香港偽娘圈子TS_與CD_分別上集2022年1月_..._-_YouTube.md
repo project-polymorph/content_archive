@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本视频节目《濸海遺珠之作 香港偽娘圈子TS 與 CD 分別 上集》，通过轻松幽默的方式，探讨了香港跨性别者和变装者（Crossdresser）的生活与经历。节目主持人MCYIP，作为一名纯天然偽娘，以及嘉宾EM（原生性别女性）和其他嘉宾，通过对话介绍了跨性别者和变装者在身体形象上的变化、所需的装备（如假发、剃体毛、修容等），以及变性者如何通过药物激素改变身体特征。同时，节目分享了这些嘉宾的喜怒哀乐，包括他们开始就医之前所面临的挑战和内心的困惑。该节目旨在为观众提供一个无框架的、开放的讨论平台，帮助大家更深入地理解LGBT群体的生活与文化。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_濸海遺珠之作香港偽娘圈子TS_與CD_分別上集2022年1月_..._-_YouTube.md                             |
 | Size            | 1817 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=QctIayYqKLM](https://www.youtube.com/watch?v=QctIayYqKLM)                       |
+| Author          | 偽M你C夠未                               |
+| Region          | 香港                               |
+| Date            | 2022-01-01                                 |
+| Tags            | 偽娘, 跨性别, 变性, Transgender, Crossdresser, LGBT, 生活经历, 社会讨论, 医药资源, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

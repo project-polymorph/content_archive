@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_我们该如何认识并保护跨性别权利-_话题-_豆瓣.md                             |
 | Size            | 1038 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/gallery/topic/152217](https://m.douban.com/gallery/topic/152217)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

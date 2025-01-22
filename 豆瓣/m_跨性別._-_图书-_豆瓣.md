@@ -118,8 +118,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_跨性別._-_图书-_豆瓣.md                             |
 | Size            | 4602 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/1352874/](https://m.douban.com/book/subject/1352874/)                       |
 | Author          | 何春蕤                               |
 | Region          | 台湾                               |
 | Date            | 2003-12-08                                 |

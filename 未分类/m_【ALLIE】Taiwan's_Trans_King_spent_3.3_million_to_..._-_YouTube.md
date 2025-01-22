@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_【ALLIE】Taiwan's_Trans_King_spent_3.3_million_to_..._-_YouTube.md                             |
 | Size            | 2199 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.youtube.com/watch?v=HiaupK8_BUk](https://m.youtube.com/watch?v=HiaupK8_BUk)                       |
 | Author          | ALLIE                               |
 | Region          | 台湾                               |
 | Date            | 2023-12-27                                 |

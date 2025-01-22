@@ -57,8 +57,8 @@ D669
 |-----------------|----------------------------------------|
 | Filename        | ccj_访中国医学科学院整形外科医院性别重塑中心首席专家陈焕然博士.md                             |
 | Size            | 1971 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://ccj.pku.edu.cn/article/info?aid=310340937](http://ccj.pku.edu.cn/article/info?aid=310340937)                       |
 | Author          | 魏晶晶，中国人口报社                               |
 | Region          | 中国大陆                               |
 | Date            | 2002-02-01                                 |

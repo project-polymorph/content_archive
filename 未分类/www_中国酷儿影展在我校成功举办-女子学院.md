@@ -50,7 +50,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了2018年5月30日在培华学院举办的中国酷儿影展（西安站）。影展邀请了多位艺术工作者参与，包括引人注目的短片展映，如《男孩心事》、《见怪不怪》和《错位》，这些作品探索了性别相关的社会问题，展现了跨性别者的生活现实和情感体验。在影展的互动环节，嘉宾与前来观影的学生们进行深入讨论，加深了对性别多样性和跨性别群体的理解。影展不仅为学生提供了接触先锋文化的机会，也帮助他们反思性别议题与传统观念之间的关系。影展得到了女子学院常务副院长刘利侠教授的赞扬，她指出这一活动在陕西高校中具有重要的先锋性和实验性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -61,12 +61,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_中国酷儿影展在我校成功举办-女子学院.md                             |
 | Size            | 7330 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.peihua.edu.cn/nzxyx/info/1098/1489.htm](https://www.peihua.edu.cn/nzxyx/info/1098/1489.htm)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-06-13                                 |
+| Tags            | 酷儿影展, 性别多元, 跨性别, 社会问题, 性别认同, 性别表达, 艺术展览, 青春影片, 性别议题, 文化探讨                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

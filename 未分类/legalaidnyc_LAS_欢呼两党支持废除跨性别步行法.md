@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | legalaidnyc_LAS_欢呼两党支持废除跨性别步行法.md                             |
 | Size            | 1536 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://legalaidnyc.org/zh-CN/-/%E4%B8%A4%E5%85%9A%E6%94%AF%E6%8C%81%E5%BA%9F%E9%99%A4%E8%B7%A8%E5%B7%9E%E6%AD%A5%E8%A1%8C%E6%B3%95/](https://legalaidnyc.org/zh-CN/-/%E4%B8%A4%E5%85%9A%E6%94%AF%E6%8C%81%E5%BA%9F%E9%99%A4%E8%B7%A8%E5%B7%9E%E6%AD%A5%E8%A1%8C%E6%B3%95/)                       |
 | Author          | 法律援助协会                               |
 | Region          | 美国                               |
 | Date            | 2020-03-31                                 |

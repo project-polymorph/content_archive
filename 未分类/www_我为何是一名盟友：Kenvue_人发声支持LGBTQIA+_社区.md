@@ -60,7 +60,7 @@ _Melissa Williams 和丈夫在冰岛享受午夜阳光。_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《我为何是一名盟友：Kenvue人发声支持LGBTQIA+社区》，主要内容是关于Kenvue公司员工对LGBTQIA+社区的支持和他们成为盟友的重要性。文章中多位Kenvue员工分享了他们的个人经历和对LGBTQIA+社区的支持，包括在日常生活中如何展现盟友身份、对LGBTQIA+成员的理解与关心等。文中提到由于现今社会对LGBTQIA+群体的攻击日益严重，盟友的角色显得尤为重要，许多反LGBTQIA+的政策正在被提出。通过参与骄傲节等活动，Kenvue的员工们在呼吁社会对LGBTQIA+人群的支持及理解。文中还强调了性别多样性和性取向多样性带来的挑战，以及创建包容性环境的必要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -71,12 +71,12 @@ _Melissa Williams 和丈夫在冰岛享受午夜阳光。_
 |-----------------|----------------------------------------|
 | Filename        | www_我为何是一名盟友：Kenvue_人发声支持LGBTQIA+_社区.md                             |
 | Size            | 6250 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kenvue.com/zh-cn/kenvue-lgbtqia-allies-on-allyship](https://www.kenvue.com/zh-cn/kenvue-lgbtqia-allies-on-allyship)                       |
+| Author          | Kenvue团队                               |
+| Region          | 未知                               |
+| Date            | 2023-06-26                                 |
+| Tags            | LGBTQIA+, 盟友, 支持, 社会包容, 骄傲节, Kenvue, 多元性别, 个人经历, 社会环境, 反对歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

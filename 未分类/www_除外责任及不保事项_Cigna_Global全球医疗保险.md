@@ -121,7 +121,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档详细列出了Cigna Global全球医疗保险的除外责任及不保事项，涉及到保险公司的常见免责条款。在文件中，列举了保险公司不会支付的情况，包括但不限于非法索赔、医疗事故责任、治疗不当、已存在的疾病、非医疗原因的住院、个性化治疗等内容。此外，还包括了与精神疾病、肥胖、整容手术及医疗设备相关的一系列不保事宜。特别注意的是，涉及变性手术、对性别身份相关需求的医疗服务等事项的规定，突显了在多元性别背景下对医疗保险的重要性。该文件为那些希望了解全球医疗保险责任的读者提供了更为详细的指导，尤其对多元性别者在寻求医疗服务时的保险选择有着重要的参考价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -132,12 +132,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_除外责任及不保事项_Cigna_Global全球医疗保险.md                             |
 | Size            | 10385 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.internationalstudentinsurance.com/cn/cigna-global/chuwai-zeren.php](https://www.internationalstudentinsurance.com/cn/cigna-global/chuwai-zeren.php)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 医疗保险, 除外责任, 性别身份, 医疗资源, 保险条款, 健康保障, 多元性别, 法律政策, 医疗服务, 心理健康                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

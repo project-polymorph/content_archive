@@ -169,7 +169,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档收录了仙女楼变装家园的系列跨性别相关文章，聚焦多元性别群体的困扰与生活经历，涵盖了对跨性别青少年的关注、性别认同、心理学分析以及变装文化等多个方面。每篇文章都是对特定主题的探讨，展现了不同的观点和经历。例如，文中提到的“跨性别综合门诊”是国内首个此类医疗服务，提供了帮助跨性别人士的医疗支持。文中不同作者分享了他们的故事，涉及性别认同障碍、变装动机等。整体内容反映了跨性别者在社会中的地位和心理状态，并试图为跨性别群体发声，促进理解与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -180,12 +180,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性别者文章列表_-_仙女楼变装.md                             |
 | Size            | 9923 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.xiannvlou.cn/cdts/kuaxingbiezhe](https://www.xiannvlou.cn/cdts/kuaxingbiezhe)                       |
+| Author          | 仙女楼                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 性别认同, 心理健康, 生命故事, 医疗资源, 青少年困扰, 社会认知, 法律政策, 性别文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

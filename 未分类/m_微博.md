@@ -35,8 +35,8 @@ _赞__78_
 |-----------------|----------------------------------------|
 | Filename        | m_微博.md                             |
 | Size            | 3723 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.weibo.cn/status/5056106990668433](https://m.weibo.cn/status/5056106990668433)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

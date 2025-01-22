@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了2003年泰国电影《人妖打排球2》（The Iron Ladies 2）的商品信息。影片通过轻松幽默的手法，展示了一群变性人和女性排球运动员的故事，打破了对性别的固有认识。文件中包含影片的详细描述及其商品信息，这部电影在粤语中发行，具有中文和英文字幕，适合中文及英语观众。该电影的主题涉及多元性别的表现和社会对变性人群体的认知与接受度。这是一部值得观看的电影，通过体育和娱乐的元素传达了诸多关于性别认同的深层次话题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_2003_人妖打排球_2_The_Iron_Ladies_2_Thai_Movie_VCD_Cantonese_.md                             |
 | Size            | 2323 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ebay.ca/itm/185131888196](https://www.ebay.ca/itm/185131888196)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 2003-01-01                                 |
+| Tags            | 电影, 人妖, 排球, 变性人, 社会接受度, 性别认同, 多元性别, 泰国电影, 2003年, 娱乐与体育                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

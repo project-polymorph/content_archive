@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个已被删除的YouTube视频的记录，标题为《三分钟女装子计划！直男直接坐不住！！》。内容通过视频不可用通知指出，这个视频因为与之相关的YouTube账户已被终止而无法访问。虽然文件本身没有提供关于视频的具体内容或讨论，但有可能涉及到多元性别、女装文化和相关生活体验的探讨。由于视频无法播放，文件中也没有提供作者、时间和地区的准确讯息。这样的记录提醒人们一些相关内容可能因为专业原因而不再可见，反映出数字时代信息的脆弱性和易逝性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_三分钟女装子计划！直男直接坐不住！！_-_YouTube.md                             |
 | Size            | 510 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=y-PYgUjXyEQ](https://www.youtube.com/watch?v=y-PYgUjXyEQ)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 女装, YouTube, 视频, 无法访问, 数字档案馆, 女装文化, 生活体验, 社交媒体, 数字遗产                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

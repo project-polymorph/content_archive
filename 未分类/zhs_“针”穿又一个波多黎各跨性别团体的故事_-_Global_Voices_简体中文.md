@@ -59,7 +59,7 @@ Quiñones不只是个手拿针管的男人。他的诊所是客户们上街前�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了波多黎各一个跨性别群体的故事，聚焦于一个名为José Quiñones的化妆师。他主要为那些在波多黎各圣胡安市Santurce区站街工作的人们提供化妆和美容服务。文中提到，Quiñones不仅是化妆师，还是这些人的精神导师，时常为她们提供情感支持与鼓励。文章还介绍了一部关于这一群体的纪录片《针》，由Carmen Oquendo-Villar执导，影片旨在展现跨性别社群在美容行业背后的故事，以及她们的生活经历和挑战。同时，影片还揭示了当地的LGBTT社群如何通过这类艺术表达出自己的存在与奋斗。文章提及了该纪录片的首映以及在波多黎各同性恋电影节上的播放，引发了关于性别和社会认同的重要讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -70,12 +70,12 @@ Quiñones不只是个手拿针管的男人。他的诊所是客户们上街前�
 |-----------------|----------------------------------------|
 | Filename        | zhs_“针”穿又一个波多黎各跨性别团体的故事_-_Global_Voices_简体中文.md                             |
 | Size            | 5252 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zhs.globalvoices.org/2012/12/13/11912/](https://zhs.globalvoices.org/2012/12/13/11912/)                       |
+| Author          | Luis Trelles                               |
+| Region          | 波多黎各                               |
+| Date            | 2012-12-13                                 |
+| Tags            | 跨性别, 波多黎各, 美容行业, 生命故事, 纪录片, LGBTT社群, 性别认同, 文化与艺术, 社会环境, 社区支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

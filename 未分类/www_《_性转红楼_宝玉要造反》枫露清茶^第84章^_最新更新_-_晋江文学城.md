@@ -85,7 +85,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《性转红楼 宝玉要造反》是一本以《红楼梦》为背景的性转小说，在这一章节中，主角宝玉经历了多重事件，展现出复杂的人际关系与情感冲突。故事开篇，殷景诚在南巡途中被袭受伤，宝玉出于对友人的担忧，悄然调查事件的真相。她与太后的交流展现了王权与宫廷的微妙关系，而对待其他小宫女的态度更是在于顺应权势与个人情感的矛盾。小说通过细腻的描写，反映宝玉在权力中心的无奈与挣扎，也折射出性别身份在宫廷生活中的复杂性。最终，宝玉在被禁足的柔常在之间表现出同情与支持，展现出她对他人命运的关心与人性光辉。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -96,12 +96,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《_性转红楼_宝玉要造反》枫露清茶^第84章^_最新更新_-_晋江文学城.md                             |
 | Size            | 10348 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jjwxc.net/onebook.php?novelid=9016306&chapterid=84](http://www.jjwxc.net/onebook.php?novelid=9016306&chapterid=84)                       |
+| Author          | 枫露清茶                               |
+| Region          | 未知                               |
+| Date            | 2024-11-04                                 |
+| Tags            | 性转, 多元性别相关, 小说, 红楼梦, 权力斗争, 人物关系, 情感冲突, 宫廷生活, 身份认同, 女性主义                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

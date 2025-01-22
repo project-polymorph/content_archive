@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了家长如何帮助孩子理解变性和性别问题，特别是在现代社会中，跨性别意识形态逐渐被广泛接受的背景下。文章强调了青春期对孩子们的挑战及其与性别认同理论的接触，认为父母应在这一过程中为孩子提供指导与支持。文章指出，教育孩子理解他们的身体是上帝创造的一部分，并强调性别的美好与重要性，是家庭教育的重要组成部分。同时，作者提到变性意识形态可能带来的伤害，呼吁基督徒父母要在教会的支持下积极应对这一文化现象，通过教育和对话帮助孩子理清性别与个人身份的关系。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,12 +88,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_家长如何帮助孩子思考变性和性别问题_-_福音联盟.md                             |
 | Size            | 9834 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tgcchinese.org/article/kids-navigate-transgender-ideology](https://www.tgcchinese.org/article/kids-navigate-transgender-ideology)                       |
+| Author          | Maria Baer                               |
+| Region          | 美国                               |
+| Date            | 2022-06-20                                 |
+| Tags            | 变性, 性别问题, 青少年教育, 家庭指导, 基督教视角, 文化讨论, 青春期, 社会责任, 健康教育, 心理支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

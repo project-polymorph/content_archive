@@ -216,7 +216,9 @@ EK因此必须回到老家，再尝试重新申请。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了EK（化名）的个人故事，他是一个出生时具有双性特征的人。自出生以来，社会给了他女性身份，但EK在成长过程中经历了身份上的困惑和挑战。EK在读高中时，由于身体发育和运动才能而感受到影响，遭遇了因性别身份而被取消比赛资格的困境。面对来自周围人的嘲笑和误解，EK感到极度迷茫和孤立。最终，EK为了寻找新生活来到曼谷，并尝试以女性身份工作，然而因为性别身份的隐秘和社会偏见，这段经历也让他十分苦恼。
+
+在经历了一系列个人危机、丧失和抑郁后，EK被捕入狱。在监狱中，他意识到了自己的性别认同并参与了关于性别问题的讲座，从中了解到“双性人”的概念。经过与非政府组织（NGO）的合作与建议，EK终于得到了更改性别称谓的机会，经过一番波折后，他成功将身份重新定义为男性，并找到了新的工作和生活意义。最后，EK在文章中强调了珍惜生命的重要性，并提供了心理咨询热线以帮助需要的人。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -227,12 +229,12 @@ EK因此必须回到老家，再尝试重新申请。
 |-----------------|----------------------------------------|
 | Filename        | www_泰国“双性人”的故事：歧视与重生_-_BBC.md                             |
 | Size            | 12458 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bbc.com/zhongwen/simp/world-53426775](https://www.bbc.com/zhongwen/simp/world-53426775)                       |
+| Author          | BBC                               |
+| Region          | 泰国                               |
+| Date            | 2020-07-17                                 |
+| Tags            | 双性人, 性别认同, 个人故事, 泰国, 社会偏见, 心理健康, 性别平权, 法律问题, 运动员经历, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

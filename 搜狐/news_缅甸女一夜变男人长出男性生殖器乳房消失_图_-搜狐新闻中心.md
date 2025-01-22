@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | news_缅甸女一夜变男人长出男性生殖器乳房消失_图_-搜狐新闻中心.md                             |
 | Size            | 3096 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.sohu.com/20050715/n226317619.shtml](http://news.sohu.com/20050715/n226317619.shtml)                       |
 | Author          | 海南新闻网                               |
 | Region          | 缅甸                               |
 | Date            | 2005-07-15                                 |

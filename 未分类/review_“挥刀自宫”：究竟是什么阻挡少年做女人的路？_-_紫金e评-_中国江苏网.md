@@ -56,8 +56,8 @@
 |-----------------|----------------------------------------|
 | Filename        | review_“挥刀自宫”：究竟是什么阻挡少年做女人的路？_-_紫金e评-_中国江苏网.md                             |
 | Size            | 3558 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://review.jschina.com.cn/suwangyuanchuang/201704/t20170407_322832.shtml](http://review.jschina.com.cn/suwangyuanchuang/201704/t20170407_322832.shtml)                       |
 | Author          | 中国江苏网                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-04-07                                 |

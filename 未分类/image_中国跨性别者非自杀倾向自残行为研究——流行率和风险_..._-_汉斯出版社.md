@@ -11,7 +11,7 @@
 
 收稿日期：2021年12月20日；录用日期：2022年1月21日；发布日期：2022年1月28日
 
-![](//html.hanspub.org/file/38-1132645x1_hanspub.png?20220209164348605)
+![](https://html.hanspub.org/file/38-1132645x1_hanspub.png?20220209164348605)
 
 ## 摘要 { data-search-exclude }
 
@@ -19,7 +19,7 @@
 
 **关键词**: 跨性别者，非自杀倾向自残行为，风险因素
 
-![](//html.hanspub.org/file/38-1132645x2_hanspub.png?20220209164348605)
+![](https://html.hanspub.org/file/38-1132645x2_hanspub.png?20220209164348605)
 
 ## Abstract { data-search-exclude }
 
@@ -87,7 +87,7 @@ Copyright © 2022 by author(s) and Hans Publishers Inc. This work is licensed un
 
 [表1](#t1)显示了被试的人口学变量和NSSI的关系。在703名被试中，有63%的被试报告他们曾经有过NSSI行为。在跨性别女性中，72.87%报告了至少一次的NSSI行为，54.93%跨性别男性报告有过NSSI行为，比起跨性别男性，跨性别女性报告NSSI行为的比率更高(n = 445, c2 = 24.219, p < 0.001)。近一半的被试报告他们的性取向为异性恋(44.52%)，其次是双性恋(18.91%)和同性恋(18.06%)。大多数被试年龄在18~25岁之间(72.26%)，年轻被试报告NSSI的比率更高(c2 = 16.131, p < 0.01)。大部分被试拥有学士学位(67.71%)；拥有硕士学位或更高学历的人较少报告NSSI经历(c2 = 19.456, p < 0.01)在所有被试中，65.29%的人在青春期前(早发)认定自己是跨性别者，34.71%的人在青春期后(晚发)认定自己是跨性别者。NSSI在早发被试中比晚发被试中更为普遍(c2 = 9.2, p < 0.01)。与正在接受或完成医疗过度的被试相比，未接受医疗过渡的被试(54.62%)报告NSSI的比率更高(c2 = 25.18, p < 0.001)。
 
-![](//html.hanspub.org/file/_38-1132645_1_hanspub.htm)
+![](https://html.hanspub.org/file/_38-1132645_1_hanspub.htm)
 
 Table 1. Socio-demographic characteristics and lifetime NSSI prevalence in trans women and trans men (n = 703)
 
@@ -117,11 +117,11 @@ Table 1. Socio-demographic characteristics and lifetime NSSI prevalence in trans
 
 关于跨性别社区归属感，性别认同(F[[1699](#ref1699)] = 5.12, p = 0.024)和NSSI (F[[1699](#ref1699)] = 5.18, p = 0.023)存在显著的主效应，但未观察到显著的交互作用。跨性别女性比跨性别男性感受到的跨性别社区归属感水平更低。此外，那些报告NSSI的被试在TCB中得分较低，意味着在跨性别社区中表现出较低的归属感水平的被试更有可能报告NSSI。
 
-![](//html.hanspub.org/file/_38-1132645_2_hanspub.htm)
+![](https://html.hanspub.org/file/_38-1132645_2_hanspub.htm)
 
 Table 2. Mean (SD) on DASS, BIS, TDS, TCB, ITS and RSE of trans men and women with and without lifetime NSSI (n = 703)
 
-![](//html.hanspub.org/file/_38-1132645_3_hanspub.htm)
+![](https://html.hanspub.org/file/_38-1132645_3_hanspub.htm)
 
 Table 3. Logistic regression with NSSI history as dependent variable, whereas BIS, DASS, TDS, IT, RSE, TCB as independent variables
 
@@ -224,8 +224,8 @@ Table 3. Logistic regression with NSSI history as dependent variable, whereas BI
 |-----------------|----------------------------------------|
 | Filename        | image_中国跨性别者非自杀倾向自残行为研究——流行率和风险_..._-_汉斯出版社.md                             |
 | Size            | 42645 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://image.hanspub.org/Html/38-1132645_48438.htm](https://image.hanspub.org/Html/38-1132645_48438.htm)                       |
 | Author          | 黄心蕊                               |
 | Region          | 中国                               |
 | Date            | 2022-01-28                                 |

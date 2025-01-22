@@ -30,7 +30,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了2017年泰国蒂芬妮变性选美大赛（Miss Tiffany's Universe）的结果，选美大赛于每年在泰国举办，专门为变性人设立，旨在提升变性人群体的社会接受度和地位。2017年的冠军Yoshi Rinrada被誉为“泰版Angelababy”，她在决赛中脱颖而出，标志着她的变性与演艺生涯的成功。文章介绍了Yoshi Rinrada的背景以及她在变性手术后的成就，探讨了泰国变性选美文化在社会中的重要性和影响。还提到了另一个知名的变性选美皇后Poy，展示了变性人在演艺界的蜕变与机遇。同时，文章的配图生动展示了比赛现场的氛围。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_泰国2017变性皇后出炉！_泰版Angelababy夺后冠_-_国际新闻.md                             |
 | Size            | 2208 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://world.huanqiu.com/article/9CaKrnK4UIg](https://world.huanqiu.com/article/9CaKrnK4UIg)                       |
+| Author          | 千帆                               |
+| Region          | 泰国                               |
+| Date            | 2017-08-25                                 |
+| Tags            | 多元性别, 变性, 选美, 泰国, 变性人文化, Yoshi Rinrada, 蒂芬妮小姐大赛, 社会接受度, 演艺生涯, 正面报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

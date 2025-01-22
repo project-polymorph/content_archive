@@ -53,8 +53,8 @@
 |-----------------|----------------------------------------|
 | Filename        | qingdaonews_变性人活跃世界体坛奥运冠军曾被迫脱光_图__-_青岛新闻网.md                             |
 | Size            | 2402 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://qingdaonews.com/content/2009-07/09/content_8086126_4.htm](https://qingdaonews.com/content/2009-07/09/content_8086126_4.htm)                       |
 | Author          | 东方早报                               |
 | Region          | 中国                               |
 | Date            | 2009-07-09                                 |

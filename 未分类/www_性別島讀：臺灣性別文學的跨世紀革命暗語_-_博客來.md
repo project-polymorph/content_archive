@@ -90,7 +90,7 @@ Copyright © since 1995 books.com.tw All Rights Reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《性別島讀：臺灣性別文學的跨世紀革命暗語》是一部探索臺灣性別文學发展历程的集体著作，展现了性别意识在文学生态中扮演的重要角色。本书由21位作家和学者共同撰写，融合了历史、文化与性别运动的脉络，揭示了从传统到现代的百年变迁。书中的论述涵盖了从女鬼的故事到令人振奋的性别平权，讨论了在传统礼教和性别歧视的背景下，文艺如何成为一场社会变革的助推器。书中提到，文學的反抗者精神和对社会结构的质疑构成了这段台灣性别文學的故事，强调了性别流动性及其带来的多元光景。本书旨在推动对性别认知的开放和探索，是对每一个在性别自我认同过程中不懈努力的人的鼓励和启示。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -101,12 +101,12 @@ Copyright © since 1995 books.com.tw All Rights Reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_性別島讀：臺灣性別文學的跨世紀革命暗語_-_博客來.md                             |
 | Size            | 4038 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.books.com.tw/products/0010904587?srsltid=AfmBOoqIqj-p9V5Rybs98lM73p5zTDb9Tx8Ls8ZP4penHIgWQ4ArWMMg](https://www.books.com.tw/products/0010904587?srsltid=AfmBOoqIqj-p9V5Rybs98lM73p5zTDb9Tx8Ls8ZP4penHIgWQ4ArWMMg)                       |
+| Author          | 王鈺婷                               |
+| Region          | 台湾                               |
+| Date            | 2021-10-14                                 |
+| Tags            | 性别文学, 性别平权, 社会变革, 历史, 台湾文化, 性别意识, 文艺复兴, 作家, 性别运动, 文学表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

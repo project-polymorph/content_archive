@@ -63,7 +63,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了上海地区一些知名的变性手术整形医院及其专家团队，旨在为希望进行变性手术的患者提供信息和选择建议。文章指出，随着时代的进步，社会对于性别的包容性不断增强，而选择正规专业的整形机构是保证手术效果的重要因素。文中详细列举了上海申江医院、长海医院、同德整形美容医院等多个医院的专业背景、特色科室以及手术项目，为患者提供了全面的医疗资源。同时，文章强调了手术前的充分准备与医院选择的重要性，以期帮助患者实现理想的身体形态。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -74,12 +74,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_上海变性手术哪个医院好上海变性手术整形医院排名有名气_-_貌容网.md                             |
 | Size            | 5279 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.allmei.com/paiming/107916.html](https://www.allmei.com/paiming/107916.html)                       |
+| Author          | 貌容网                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-03-25                                 |
+| Tags            | 上海变性手术, 整形医院排名, 变性手术, 医疗资源, 性别认同, 生殖整形, 社会环境, 患者经历, 专业医院, 美容整形                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

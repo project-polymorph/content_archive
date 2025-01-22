@@ -25,7 +25,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了新加坡「粉红点」活动的盛况，该活动旨在声援同性恋、双性恋和跨性别者的恋爱自由。活动于2023年6月25日在芳林公园举行，吸引了数千人的参与。许多参与者穿着粉色上衣，并披上彩虹旗，共同在草地上野餐，欣赏台上的表演。这是新加坡自去年底废除将男男性行为视为犯罪的刑法377A条文后举办的首次「粉红点」活动，象征着对LGBT+群体的支持和权利的呼吁。根据市场研究公司益普索的调查，越来越多的新加坡民众支持同性婚姻的合法化，比例由去年的27%上升至32%。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -36,12 +36,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_盼同婚合法化新加坡「粉红点」活动吸引数千人共襄盛举_-_RFI.md                             |
 | Size            | 1774 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20230625-%E7%9B%BC%E5%90%8C%E5%A9%9A%E5%90%88%E6%B3%95%E5%8C%96-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%B2%89%E7%BA%A2%E7%82%B9-%E6%B4%BB%E5%8A%A8%E5%90%B8%E5%BC%95%E6%95%B0%E5%8D%83%E4%BA%BA%E5%85%B1%E8%A5%84%E7%9B%9B%E4%B8%BE](https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20230625-%E7%9B%BC%E5%90%8C%E5%A9%9A%E5%90%88%E6%B3%95%E5%8C%96-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%B2%89%E7%BA%A2%E7%82%B9-%E6%B4%BB%E5%8A%A8%E5%90%B8%E5%BC%95%E6%95%B0%E5%8D%83%E4%BA%BA%E5%85%B1%E8%A5%84%E7%9B%9B%E4%B8%BE)                       |
+| Author          | 法新社                               |
+| Region          | 新加坡                               |
+| Date            | 2023-06-25                                 |
+| Tags            | 粉红点活动, 新加坡, 同性恋, 双性恋, 跨性别者, 婚姻平权, 社会运动, LGBT, 法令377A, 活动报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

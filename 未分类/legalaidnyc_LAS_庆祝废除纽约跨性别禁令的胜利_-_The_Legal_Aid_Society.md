@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | legalaidnyc_LAS_庆祝废除纽约跨性别禁令的胜利_-_The_Legal_Aid_Society.md                             |
 | Size            | 2949 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://legalaidnyc.org/zh-CN/-/%E5%BA%9F%E9%99%A4%E8%B7%A8%E6%80%A7%E5%88%AB%E7%A6%81%E4%BB%A4%E6%9C%9F%E9%97%B4%E7%9A%84%E7%BA%BD%E7%BA%A6%E6%AD%A5%E8%A1%8C/](https://legalaidnyc.org/zh-CN/-/%E5%BA%9F%E9%99%A4%E8%B7%A8%E6%80%A7%E5%88%AB%E7%A6%81%E4%BB%A4%E6%9C%9F%E9%97%B4%E7%9A%84%E7%BA%BD%E7%BA%A6%E6%AD%A5%E8%A1%8C/)                       |
 | Author          | 法律援助协会                               |
 | Region          | 美国                               |
 | Date            | 2021-03-01                                 |

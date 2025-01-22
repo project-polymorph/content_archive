@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一对同性恋者的变性经历及其情感生活。这对名为红颜和雪儿的恋人，最初都是男儿身，并在2001年和2003年分别完成了变性手术。在经历了五年的夜总会表演生涯后，红颜希望通过再次变性手术恢复为男性，以便与雪儿结婚。文章详细描述了他们的生活背景、情感状态以及社会对他们变性的看法，引用了医疗专家和伦理学家的评论，探讨了变性和婚姻合法性的问题。作者将这一对情侣的故事置于更大的社会和法律背景下，反映了多元性别群体在社会中所面临的挑战与争议。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_两同性恋男子变性为结婚一人欲恢复男身_-_一尘网.md                             |
 | Size            | 5531 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.lc0011.com/show.aspx?id=1086&cid=11](http://www.lc0011.com/show.aspx?id=1086&cid=11)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2006-09-07                                 |
+| Tags            | 变性, 同性恋, 情感故事, 法律问题, 社会观察, 性别认同, 医疗资源, 过渡经历, 文化探讨, 伦理学                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

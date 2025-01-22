@@ -55,7 +55,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个室友在生理期时不注意卫生的问题。故事的主人公描述了自己室友在大姨妈期间的极端卫生举止，具体有半个月不洗澡、不换内裤以及姨妈巾，造成了她的身体散发出浓烈的血腥味。这种情况不仅让主人公感到震惊，也给他们的生活带来了不便。此篇文章以反映真实经历的方式，探讨了在某些特殊情况下个人卫生对周围人的影响，折射出对生理问题的讨论和社会敏感性。文本同时配有视频信息，增强了其传播的效果和交流的可能性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_不仅内裤不洗，姨妈巾也不换，整个人都散发阵阵的血腥味......_故事_.md                             |
 | Size            | 1226 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=cqZgTI9z5yM](https://www.youtube.com/watch?v=cqZgTI9z5yM)                       |
+| Author          | 胖胖小说                               |
+| Region          | 未知                               |
+| Date            | 2024-11-05                                 |
+| Tags            | 故事, 生理期, 卫生问题, 室友, 生活, 真实经历, 社会现象, 大姨妈, 性别话题, 人际关系                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

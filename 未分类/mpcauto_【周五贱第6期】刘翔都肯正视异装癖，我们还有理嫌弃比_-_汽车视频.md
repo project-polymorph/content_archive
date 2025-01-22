@@ -35,8 +35,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mpcauto_【周五贱第6期】刘翔都肯正视异装癖，我们还有理嫌弃比_-_汽车视频.md                             |
 | Size            | 462 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mpcauto.pcvideo.com.cn/v_49964.html](https://mpcauto.pcvideo.com.cn/v_49964.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

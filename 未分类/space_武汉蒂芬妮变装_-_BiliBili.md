@@ -15,17 +15,17 @@
 1. [哥俩变装女装外出逛人超多的商场。会被发现吗？【小唯女装日记vlog】Tiffany&CD](https://www.bilibili.com/video/BV1Ft4y1R7ip/)
    - 时间：2020-07-03
    - 播放量：66,000 【视频已失效】
-   ![](//i0.hdslb.com/bfs/archive/453be95bb0359620b8ceb15f98b066b6f1c448ea.jpg@440w_276h_1c_!web-space-index-topvideo.webp)
+   ![](https://i0.hdslb.com/bfs/archive/453be95bb0359620b8ceb15f98b066b6f1c448ea.jpg@440w_276h_1c_!web-space-index-topvideo.webp)
 
 2. [把男朋友化妆闺蜜并且地铁日常出行是什么体验vlog 武汉蒂芬妮CD变装](https://www.bilibili.com/video/BV1BG411H7an/)
    - 时间：未知
    - 播放量：73,000 【视频已失效】
-   ![](//i0.hdslb.com/bfs/archive/238c6552c3e215540334255b4ad91edd67691c1c.jpg@440w_276h_1c_!web-space-index-topvideo.webp)
+   ![](https://i0.hdslb.com/bfs/archive/238c6552c3e215540334255b4ad91edd67691c1c.jpg@440w_276h_1c_!web-space-index-topvideo.webp)
 
 3. [男生穿比基尼泳池去露天泳池是什么体验 【TIFFANY&CD VLOG 小唯女装日记】武汉蒂芬妮变装](https://www.bilibili.com/video/BV19741187Vo/)
    - 时间：未知
    - 播放量：75,000 【视频已失效】
-   ![](//i1.hdslb.com/bfs/archive/0919492d9b95844f09542f07a19c5c9c6ffa7c04.jpg@440w_276h_1c_!web-space-index-topvideo.webp)
+   ![](https://i1.hdslb.com/bfs/archive/0919492d9b95844f09542f07a19c5c9c6ffa7c04.jpg@440w_276h_1c_!web-space-index-topvideo.webp)
 
 ### 专栏
 
@@ -63,8 +63,8 @@
 |-----------------|----------------------------------------|
 | Filename        | space_武汉蒂芬妮变装_-_BiliBili.md                             |
 | Size            | 2255 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://space.bilibili.com/503128464/](https://space.bilibili.com/503128464/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -78,8 +78,8 @@ Copyright © 2001-2011 xxcb.cn All Rights Reserved
 |-----------------|----------------------------------------|
 | Filename        | epaper_变性的“她”盗窃被抓，看守所单独关押_-_潇湘晨报_1.md                             |
 | Size            | 4469 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://epaper.xxcb.cn/XXCBB/html/2014-05/21/content_2782508.htm](http://epaper.xxcb.cn/XXCBB/html/2014-05/21/content_2782508.htm)                       |
 | Author          | 潇湘晨报                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-05-21                                 |

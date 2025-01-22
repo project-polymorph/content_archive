@@ -68,8 +68,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_非二元性别小组_-_豆瓣.md                             |
 | Size            | 3672 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.douban.com/group/729666/](https://m.douban.com/group/729666/)                       |
 | Author          | 白树（小组组长）                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-08-20                                 |

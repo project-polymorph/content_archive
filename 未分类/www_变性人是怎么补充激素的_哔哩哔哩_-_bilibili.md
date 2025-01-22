@@ -48,7 +48,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该视频介绍了变性人如何补充激素的过程，包括激素补充的必要性、方法以及相关的生活经验分享。视频由知名的UP主鲍玺妮莎的暹罗之恋制作，并在哔哩哔哩平台发布。视频时长约为4分48秒，观看次数达到了29,000次，且获得了4条评论。内容通过生动的图文展示，结合作者的个人经历，为观众提供了实际可参考的信息。此外，视频的多个标签帮助观众更好地理解视频的主题，如“变性人”、“激素”、“泰国”等，涉及到多元性别议题的多个方面。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -59,12 +59,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性人是怎么补充激素的_哔哩哔哩_-_bilibili.md                             |
 | Size            | 1896 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV15W4y1Z71Y/](https://www.bilibili.com/video/BV15W4y1Z71Y/)                       |
+| Author          | 鲍玺妮莎的暹罗之恋                               |
+| Region          | 未知                               |
+| Date            | 2023-07-16                                 |
+| Tags            | 变性人, 激素, 生活, 日常, 泰国, 女神, 美女, 补充激素, 性别多样性, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《裸体人妖艺术》纪录片的相关信息公告，主要内容包含了军转网对用户的通知，指出网站PC端需通过注册会员登录才能访问，给用户提供了便捷的移动互联网服务选择。尽管文件内容的重点并不直接涉及多元性别主题，但其标题暗示了可能的文化艺术探讨，尤其是在身体、性别及性表达方面的内容。公告提醒用户重要的登录变更、数据互通政策以及如何通过微信小程序进行访问，以增加用户体验。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《裸体人妖艺术》超高清手机在线播放-纪录片片-军转网.md                             |
 | Size            | 1053 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.junzhuan.com/?/20241101211424/UzFSdlV2_468550421.html](https://www.junzhuan.com/?/20241101211424/UzFSdlV2_468550421.html)                       |
+| Author          | 军转网                               |
+| Region          | 未知                               |
+| Date            | 2023-09-19                                 |
+| Tags            | 裸体人妖艺术, 纪录片, 网站公告, 用户通知, 多元性别, 文化艺术, 注册会员, 微信小程序, 移动互联网, 服务变动                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

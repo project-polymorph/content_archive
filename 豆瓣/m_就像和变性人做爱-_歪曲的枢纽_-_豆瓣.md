@@ -51,8 +51,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_就像和变性人做爱-_歪曲的枢纽_-_豆瓣.md                             |
 | Size            | 1604 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/review/4571524/](https://m.douban.com/book/review/4571524/)                       |
 | Author          | 约翰·狄克森·卡尔                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-12                                 |

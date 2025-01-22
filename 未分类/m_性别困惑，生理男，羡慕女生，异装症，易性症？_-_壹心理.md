@@ -90,8 +90,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_性别困惑，生理男，羡慕女生，异装症，易性症？_-_壹心理.md                             |
 | Size            | 8109 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.xinli001.com/qa/100720940](https://m.xinli001.com/qa/100720940)                       |
 | Author          | 壹心理                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

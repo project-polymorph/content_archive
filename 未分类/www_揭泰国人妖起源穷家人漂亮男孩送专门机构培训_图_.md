@@ -31,7 +31,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了泰国人妖的起源与发展，特别关注那些出身贫困家庭的男孩们如何被送往专门机构接受培训，成为泰国人妖。文章指出，这一现象的根源涉及到经济因素以及社会对人妖的特殊定位与接纳。通过分析泰国人妖的选美活动、文化表现及其在社会中的角色，揭示了人妖生活的多样性和复杂性。同时，配有相关的图片和报道，引导读者进一步思考此现象对个人及其家庭的意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -42,12 +42,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_揭泰国人妖起源穷家人漂亮男孩送专门机构培训_图_.md                             |
 | Size            | 1789 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.cnhubei.com/xw/gj/201305/t2556911_6.shtml](http://www.cnhubei.com/xw/gj/201305/t2556911_6.shtml)                       |
+| Author          | 伍佳佳                               |
+| Region          | 泰国                               |
+| Date            | 2013-05-02                                 |
+| Tags            | 泰国人妖, 人妖培训, 生活故事, 文化现象, 性别多元, 社会环境, 经济因素, 人妖选美, 阴阳人, 芭堤雅                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

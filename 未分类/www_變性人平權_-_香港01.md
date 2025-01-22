@@ -89,7 +89,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了多篇关于跨性别和性别平权的新闻，其中包括香港、美国等地的多个相关事件和人物故事。这些内容涉及到了跨性别人士在社会中的生存境况、面临的挑战以及人权保障的问题。例如，有关于变性人在职场遭遇歧视的事件，讨论了法律与人权保障的不足。此外，还传达了一些社会对跨性别角色的看法及对性别认同的探讨。文中提到的内容反映出跨性别人士在影视作品中的表现及公众反响，以及如何通过这些角色来增加对多元性别的理解和支持。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -100,12 +100,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_變性人平權_-_香港01.md                             |
 | Size            | 8014 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.hk01.com/tag/5282](https://www.hk01.com/tag/5282)                       |
+| Author          | 香港01                               |
+| Region          | 香港                               |
+| Date            | 2024-12-10                                 |
+| Tags            | 跨性别, 性别平权, 法律, 人权, 社会, 性别认同, 医疗资源, 生命故事, 新闻报道, 反映生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇采访记录，内容聚焦于一位多元性别者的生活经历。这位受访者是一名围棋三段棋手，还是江南地区的粉丝，兼任女装大佬的身份。文章通过对受访者的访谈，展示了她在多元性别领域的独特人生故事以及她所经历的社会环境和个人转变。这位受访者分享了她在追寻自我认同过程中的挑战与快乐，以及她如何在公众视野中大胆呈现自己的性别认同。稿费过万的表达也反映出其在创作及内容输出方面的活跃，彰显了多元性别者在社会中的声音与价值。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www__起点作者采访_围棋三段，江南粉丝，女装大佬_-_YouTube.md                             |
 | Size            | 997 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=a-d2lz6Q1qE](https://www.youtube.com/watch?v=a-d2lz6Q1qE)                       |
+| Author          | 爱斯基布拉斯基-竹子                               |
+| Region          | 未知                               |
+| Date            | 2024-10-03                                 |
+| Tags            | 多元性别, 围棋, 江南, 女装大佬, 生命故事, 采访, 个人经历, 性别认同, 社会挑战, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

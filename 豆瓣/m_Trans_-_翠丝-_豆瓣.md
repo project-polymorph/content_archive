@@ -41,8 +41,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_Trans_-_翠丝-_豆瓣.md                             |
 | Size            | 2967 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15812012/](https://m.douban.com/movie/review/15812012/)                       |
 | Author          | 未知                               |
 | Region          | 中国香港                               |
 | Date            | 2018-10-28                                 |

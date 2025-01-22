@@ -34,8 +34,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mtf_跨性别友好医生（心理咨询）_-_MtF.wiki.md                             |
 | Size            | 970 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mtf.wiki/zh-cn/docs/psyco/friendly/](https://mtf.wiki/zh-cn/docs/psyco/friendly/)                       |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -51,7 +51,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了刘霆的变性故事和与母亲之间的感人关系。刘霆曾是全国道德模范，以其对身患尿毒症的母亲的照顾而受到广泛赞誉，但他本人在性别认同上一直感到困扰。从13岁开始，刘霆就意识到自己内心真正认同的性别是女性，而这种性别认同的痛苦让他经历了无数挣扎，甚至一度萌生了自杀的念头。在家庭的支持下，刘霆在2013年底获得医生确诊为易性癖，并决定进行变性手术。这个选择在社会上引发了热烈讨论，刘霆在母亲的鼓励下，开始了追寻自我的新旅程，并将自己的经历以小说的形式传递给更多的人。文中还提到了变性手术的复杂性以及社会对易性癖者的认知不足，呼吁公众对性别多样性的理解与包容。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_“全国道德模范”将变性河莉秀现身为其打气_-_人民政协网.md                             |
 | Size            | 4212 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.rmzxb.com.cn/c/2014-08-15/363966.shtml](http://www.rmzxb.com.cn/c/2014-08-15/363966.shtml)                       |
+| Author          | 刘怀宇 刘晓宇                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-08-15                                 |
+| Tags            | 变性, 易性癖, 全国道德模范, 刘霆, 性别认同, 母亲支持, 社会包容性, 医疗资源, 个人故事, 文学创作                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

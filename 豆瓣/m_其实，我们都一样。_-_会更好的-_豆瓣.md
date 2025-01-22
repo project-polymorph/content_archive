@@ -36,8 +36,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_其实，我们都一样。_-_会更好的-_豆瓣.md                             |
 | Size            | 2139 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/5601033/](https://m.douban.com/movie/review/5601033/)                       |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

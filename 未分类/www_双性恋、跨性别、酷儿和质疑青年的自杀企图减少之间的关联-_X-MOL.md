@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一项关于性取向接受与自杀企图之间关系的研究，专注于女同性恋、男同性恋、双性恋、跨性别、酷儿与质疑（LGBTQ）青年的健康问题。研究由美国的The Trevor Project组织进行，发表在《LGBT Health》上。主要内容探讨了他人对这些青年的性取向接受程度与他们自杀未遂的发生率之间的相互关系。研究结果展示了提高对性取向的接受程度可能在减少这些青年的自杀企图方面发挥关键作用。文件提供了详细的研究目的以及与自杀倡导相关的数据，这对于构建更支持性的社会环境十分重要。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_双性恋、跨性别、酷儿和质疑青年的自杀企图减少之间的关联-_X-MOL.md                             |
 | Size            | 1423 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1349518311006433280/t](https://www.x-mol.com/paper/1349518311006433280/t)                       |
+| Author          | Amy E Green, Myeshia Price-Feeney, Samuel H Dorison                               |
+| Region          | 美国                               |
+| Date            | 2021-01-12                                 |
+| Tags            | 自杀企图, 性取向, 性别多样性, LGBTQ, 健康研究, 社会支持, 性别认同, 心理健康, 青少年问题, 多元性别                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

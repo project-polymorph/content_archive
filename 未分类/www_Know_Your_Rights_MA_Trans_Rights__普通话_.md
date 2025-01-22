@@ -110,7 +110,7 @@ Title IX由美国教育部强制执行。如果您因为您的跨性别身份而
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于马萨诸塞州跨性别者权利的指导资料，主要阐述了跨性别者在就业、住房、医疗等多个领域的法律权利和保护措施。文中指出，马萨诸塞州法律禁止基于性别身份、性别表达或性取向的歧视，并详细列出了各种情境下的法律保护，包括教育和医疗服务。特别强调了跨性别者在学校不受歧视的权利，以及针对欺凌行为的法律保护。文件还附有各类图示来增强理解，并提供了进一步获得法律帮助的联系方式。整个文件旨在帮助跨性别者了解自身权利，鼓励他们在面对歧视时采取相应的法律措施。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -121,12 +121,12 @@ Title IX由美国教育部强制执行。如果您因为您的跨性别身份而
 |-----------------|----------------------------------------|
 | Filename        | www_Know_Your_Rights_MA_Trans_Rights__普通话_.md                             |
 | Size            | 5943 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.glad.org/kyr-trans-ma-sc/](https://www.glad.org/kyr-trans-ma-sc/)                       |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2020-06-12                                 |
+| Tags            | 跨性别者权利, 法律保护, 反歧视, 医疗服务, 教育权益, 性别身份, 性别表达, 马萨诸塞州, 法律政策, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -110,7 +110,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件整理了多个与伪娘相关的动漫视频，涵盖了不同的主题与情节。视频内容有些是展示伪娘角色的生活故事，有些则反映了伪娘在动漫中的受欢迎程度和相关文化现象。此次整理包含多个视频链接及介绍，时长从几十秒到超过五分钟不等，内容丰富且多样，适合对伪娘文化感兴趣的观众。文件中提到的动漫作品包括《怪物》《世界奇趣物语》《屠宰场的讽刺人生》等，这些作品不仅呈现了伪娘的角色形象，也探讨了相关的社会话题。由于伪娘文化已逐渐成为动漫的一部分，这份资料对理解这一亚文化现象具有一定的价值和意义。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -121,12 +121,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_伪娘动漫–_搜库_-_优酷.md                             |
 | Size            | 5486 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.soku.com/search_ikuvideo/q_%E4%BC%AA%E5%A8%98%E5%8A%A8%E6%BC%AB_orderby_1_limitdate_0?site=14&_lg=10&hd=6](https://www.soku.com/search_ikuvideo/q_%E4%BC%AA%E5%A8%98%E5%8A%A8%E6%BC%AB_orderby_1_limitdate_0?site=14&_lg=10&hd=6)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 动漫, 文化现象, 生活故事, 角色发展, 视频整理, 媒体资源, 社区文化, 娱乐, 性别表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

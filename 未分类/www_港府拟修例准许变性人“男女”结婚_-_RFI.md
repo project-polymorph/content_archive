@@ -32,7 +32,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了香港政府拟修订《婚姻条例》，以允许完成变性手术的人士依据其身份证上的性别进行婚姻登记。香港终审法院于2014年5月裁定变性人享有结婚权利，并指现行婚姻登记相关条文违宪，要求政府在2014年7月16日前修改法律。根据新规定，完成性别重整手术者在婚姻登记时将被视为其重置的性别，而不再仅依赖“生理因素”。文章还提到修订不会影响现有的“一男一女”婚姻基础，同时提到处理变性治疗不同阶段人士的法律地位问题。对于该法律修订，立法会议员有不同意见，认为应该进一步完善，以涵盖更广泛的跨性别人士。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -43,12 +43,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_港府拟修例准许变性人“男女”结婚_-_RFI.md                             |
 | Size            | 3138 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20140101-%E6%B8%AF%E5%BA%9C%E6%8B%9F%E4%BF%AE%E4%BE%8B%E5%87%86%E8%AE%B8%E5%8F%98%E6%80%A7%E4%BA%BA%E2%80%9C%E7%94%B7%E5%A5%B3%E2%80%9D%E7%BB%93%E5%A9%9A](https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20140101-%E6%B8%AF%E5%BA%9C%E6%8B%9F%E4%BF%AE%E4%BE%8B%E5%87%86%E8%AE%B8%E5%8F%98%E6%80%A7%E4%BA%BA%E2%80%9C%E7%94%B7%E5%A5%B3%E2%80%9D%E7%BB%93%E5%A9%9A)                       |
+| Author          | 香港特约记者 郑汉良                               |
+| Region          | 香港                               |
+| Date            | 2014-01-01                                 |
+| Tags            | 婚姻权利, 变性人, 法律修订, 跨性别, 性别认同, 社会环境, 香港法律, 婚姻条例, 社会问题, 医疗资源                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

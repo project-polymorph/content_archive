@@ -39,7 +39,7 @@
 - **版权转化：** 尚未出版（[联系出版](https://www.jjwxc.net/aboutus/#fragment-29)）
 - **签约状态：** 已签约
 - **作品荣誉：** 尚无任何作品简评
-- **勤奋指数：** ![](//static.jjwxc.net/images/flowerofauthor.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)![](//static.jjwxc.net/images/flowergrey.png)
+- **勤奋指数：** ![](https://static.jjwxc.net/images/flowerofauthor.png)![](https://static.jjwxc.net/images/flowergrey.png)![](https://static.jjwxc.net/images/flowergrey.png)![](https://static.jjwxc.net/images/flowergrey.png)![](https://static.jjwxc.net/images/flowergrey.png)
 
 ## 章节信息 { data-search-exclude }
 
@@ -62,7 +62,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《全寝室都是女装大佬，除了我》是一部轻小说，讲述了主角朝有酒在一所大学男寝室中的奇特日常。故事设定在一个架空的现代社会，主角在寝室里与多位性别认同和表现多样的宿舍伙伴们的相处。这些伙伴不仅有着各自鲜明的个性，且皆是"女装大佬"，他们之间的友谊与互动构成了愉快而幽默的情节，例如杜若的可爱性格、齐骥的高冷形象、张灵均的歌唱才华以及赵青云的外貌出众。小说以轻松幽默的基调，带领读者感受现代大学生活中的友谊与成长，同时反映了多元性别的真实存在以及社会对性别表达的包容和珍视。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -73,12 +73,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_《全寝室都是女装大佬，除了我》虽矣_-_晋江文学城.md                             |
 | Size            | 3907 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.jjwxc.net/onebook.php?novelid=3943490](http://www.jjwxc.net/onebook.php?novelid=3943490)                       |
+| Author          | 虽矣                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 女装大佬, 轻小说, 校园生活, 现代架空, 友谊, 多元性别, 成长, 幽默, 同性恋, 社会包容                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

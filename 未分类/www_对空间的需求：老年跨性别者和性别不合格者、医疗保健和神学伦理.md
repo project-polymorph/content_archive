@@ -30,7 +30,7 @@ Visibility for transgender and gender nonconforming people and the elderly is gr
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了老年跨性别者和性别不合格者在医疗保健和神学伦理领域面临的特殊需求与挑战。随着对跨性别及性别不合格者的讨论日益增多，老年人的身份及其所经历的歧视问题却被忽视。作者指出，这一群体在医疗服务中常常遭遇变性恐惧症及年龄歧视，导致许多人放弃接受必要的医疗服务。文章深入分析了老年跨性别者所需的可见性空间与个人空间的伦理需求，并探讨了基于基督教信仰对他们提供的医疗服务的拒绝所引发的伦理困境。通过理论上对空间创造的反思，作者指出伦理学必须给予跨性别群体更多的关注，以推动跨性别友好的空间的建立。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@ Visibility for transgender and gender nonconforming people and the elderly is gr
 |-----------------|----------------------------------------|
 | Filename        | www_对空间的需求：老年跨性别者和性别不合格者、医疗保健和神学伦理.md                             |
 | Size            | 5377 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1390651453506998272/t?recommendPaper=1294121726226604032](https://www.x-mol.com/paper/1390651453506998272/t?recommendPaper=1294121726226604032)                       |
+| Author          | Mathias Wirth                               |
+| Region          | 未知                               |
+| Date            | 2020-10-26                                 |
+| Tags            | 跨性别者, 性别不合格者, 老年人, 医疗保健, 神学伦理, 变性恐惧症, 年龄歧视, 伦理关注, 可见性空间, 个人空间                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

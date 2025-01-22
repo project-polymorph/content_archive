@@ -10,7 +10,7 @@
 **景点地址**  
 464 Moo 9, Pattaya 2nd Road, Nongprue, Banglamung, Chonburi 20260, Thailand
 
-![](//m4.tuniucdn.com/fb2/t1/G5/M00/C5/6A/Cii-s1tue2WIMv2PAAADO8rhfF4AALwKwP__K0AAANT480.png)  
+![](https://m4.tuniucdn.com/fb2/t1/G5/M00/C5/6A/Cii-s1tue2WIMv2PAAADO8rhfF4AALwKwP__K0AAANT480.png)  
 *地图*
 
 **开放时间**  
@@ -140,7 +140,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档介绍了泰国芭提雅蒂芬妮人妖秀的详情，通过游客的评论和演出内容，使读者了解该景点的特色与魅力。演出内容幽默风趣，表演者歌舞俱佳，是适合全家观赏的好去处。文件中详细列出了景点的地址、开放时间、门票价格以及评价，游客满意度高达98%。同时，提供了演出的演员们的美丽表现和游客的真实反馈，许多游客给予了积极评价，认为这是一次极具文化体验的表演。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -151,12 +151,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_泰国芭提雅蒂芬妮人妖秀门票预订.md                             |
 | Size            | 4076 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.tuniu.com/menpiao/1742612](https://www.tuniu.com/menpiao/1742612)                       |
+| Author          | 未知                               |
+| Region          | 泰国                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 人妖秀, 文化表演, 游客评论, 泰国旅游, 表演艺术, 娱乐活动, 演出评价, 健康风趣, 文化体验                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

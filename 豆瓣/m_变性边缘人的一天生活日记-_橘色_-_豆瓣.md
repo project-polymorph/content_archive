@@ -45,8 +45,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_变性边缘人的一天生活日记-_橘色_-_豆瓣.md                             |
 | Size            | 3974 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/7964852/](https://m.douban.com/movie/review/7964852/)                       |
 | Author          | 鲜有废客                               |
 | Region          | 美国                               |
 | Date            | 2015-01-23                                 |

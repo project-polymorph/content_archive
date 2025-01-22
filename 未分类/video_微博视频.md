@@ -24,7 +24,7 @@ YouTube全球精选
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含一段关于跨性别者的视频内容，内容揭示了跨性别群体在某些情况下可能展现出的虚伪态度。虽然具体的视频信息及其详细内容在文本中未给出，但视频从某种程度上反映了社会中对于跨性别群体的刻板印象和挑战，尤其在公众舆论面前。文中提到观看更多视频的链接，利用微博平台的发展来吸引观众，营造出一种当场揭穿的效果，可能引发对跨性别者身份和社会接受度的讨论。此外，该视频带有一定的戏谑和讽刺意味，可能旨在刺激观众的思考与讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -35,12 +35,12 @@ YouTube全球精选
 |-----------------|----------------------------------------|
 | Filename        | video_微博视频.md                             |
 | Size            | 731 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://video.h5.weibo.cn/1034:4886813022814242/4886821513987711](https://video.h5.weibo.cn/1034:4886813022814242/4886821513987711)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 虚伪, 社会舆论, 视频, 微博, 身份认同, 公众讨论, 刻板印象, 性别多元, 网络文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -60,8 +60,8 @@ C先生说，自己仍处于失业状态，他的父母和女友一直在给予�
 |-----------------|----------------------------------------|
 | Filename        | news_美媒称中国跨性别者遭遇就业歧视因穿男装被开除.md                             |
 | Size            | 4291 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://news.youth.cn/gn/201604/t20160416_7868350.htm](http://news.youth.cn/gn/201604/t20160416_7868350.htm)                       |
 | Author          | 参考消息网                               |
 | Region          | 中国大陆                               |
 | Date            | 2016-04-16                                 |

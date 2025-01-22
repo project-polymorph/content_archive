@@ -75,7 +75,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文由中央社记者黄自强撰写，记录了新加坡LGBT群体在面对刑法第377A节的压制与不平等待遇时的无奈与希望。该法律源自英国殖民时期，至今将男性同性行为视为犯罪，影响着新加坡LGBT社群的发展和生活。在2019年5月26日（108年5月26日）举办的“粉红点”活动中，参与者齐聚，表达对同性恋、双性恋及跨性别者的支持，展现出越来越多的新加坡人开始倡导包容与多元的态度。尽管LGBT社群的支持者逐年增加，一些研究显示超过半数新加坡民众仍然对同性恋持保留态度，显示出法律及社会观念的变革仍面临着重重挑战。文中提到的关键人物包括新加坡外交部无任所大使许通美，以及李光耀的孙子李桓武等，均在不同场合上积极为LGBT社群发声。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -86,12 +86,12 @@
 |-----------------|----------------------------------------|
 | Filename        | xinguozhi_刑法紧箍咒新加坡LGBT的惆怅与无奈_-_新国志.md                             |
 | Size            | 5697 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://xinguozhi.wordpress.com/2019/05/27/%E5%88%91%E6%B3%95%E7%B4%A7%E7%AE%8D%E5%92%92-%E6%96%B0%E5%8A%A0%E5%9D%A1lgbt%E7%9A%84%E6%83%86%E6%80%85%E4%B8%8E%E6%97%A0%E5%A5%88/](https://xinguozhi.wordpress.com/2019/05/27/%E5%88%91%E6%B3%95%E7%B4%A7%E7%AE%8D%E5%92%92-%E6%96%B0%E5%8A%A0%E5%9D%A1lgbt%E7%9A%84%E6%83%86%E6%80%85%E4%B8%8E%E6%97%A0%E5%A5%88/)                       |
+| Author          | 中央社/黄自强                               |
+| Region          | 新加坡                               |
+| Date            | 2019-05-27                                 |
+| Tags            | 刑法第377A, LGBT社群, 粉红点活动, 同性恋权益, 新加坡社会, 法律与人权, 跨性别者, 印度最高法院, 社会态度, 李光耀的孙子                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

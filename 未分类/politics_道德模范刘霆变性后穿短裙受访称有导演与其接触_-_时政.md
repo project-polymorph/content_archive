@@ -119,8 +119,8 @@
 |-----------------|----------------------------------------|
 | Filename        | politics_道德模范刘霆变性后穿短裙受访称有导演与其接触_-_时政.md                             |
 | Size            | 9492 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://politics.people.com.cn/n/2015/0408/c1001-26812431.html](http://politics.people.com.cn/n/2015/0408/c1001-26812431.html)                       |
 | Author          | 张淑玲                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-04-08                                 |

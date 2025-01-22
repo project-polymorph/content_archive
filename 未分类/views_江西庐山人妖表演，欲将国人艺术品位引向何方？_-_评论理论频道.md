@@ -41,7 +41,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了2012年江西庐山西海景区内的泰国人妖表演现象，揭示其背后的社会文化意义和伦理问题。作者李职贤指出，人妖表演不仅是对个体生命的剥削，也是部分中国游客艺术品位低下的反映。文章通过多个视角分析了人妖表演的合法性、艺术价值以及社会反应，提醒大众对表演者及其所处环境保持同情与批判，并质疑这种现象的持续存在是否有益于社会的艺术发展。作者提到，人妖表演在国内外存在争议，尤其是中国对这类表演的法律限制以及文化观念的冲突，并警惕观众将好奇心建立在他人的痛苦之上。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -52,12 +52,12 @@
 |-----------------|----------------------------------------|
 | Filename        | views_江西庐山人妖表演，欲将国人艺术品位引向何方？_-_评论理论频道.md                             |
 | Size            | 4520 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://views.ce.cn/view/ent/201210/15/t20121015_23753726.shtml](http://views.ce.cn/view/ent/201210/15/t20121015_23753726.shtml)                       |
+| Author          | 李职贤                               |
+| Region          | 江西，中国                               |
+| Date            | 2012-10-15                                 |
+| Tags            | 人妖表演, 文化批评, 艺术价值, 生命故事, 社会伦理, 心理健康, 法律政策, 中国文化, 性别表现, 旅游文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

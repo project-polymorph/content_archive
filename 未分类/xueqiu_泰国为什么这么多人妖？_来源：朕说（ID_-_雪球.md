@@ -637,7 +637,7 @@ Reangfah Bukalahkorn的说法
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了泰国人妖这一现象的成因与社会接受度，内容涵盖了人妖文化的历史、文化背景和社会环境。文章指出，泰国人妖文化并不是源自于古老传统，而是现代才出现的现象。根据研究，泰国人妖的起源可以追溯到1932年，而人妖表演的兴盛则与二战后的社会形势密切相关。此外，文章还分析了公众对人妖的态度和不同社会层对人妖职业的接受度，指出尽管泰国社会对人妖的态度逐渐包容，但仍有相当一部分人对此持负面看法，同时人妖的社会经济背景与出租人妖这一角色也直接相关。文章通过引用具体的调查数据，展现了泰国人妖在社会文化中复杂而矛盾的地位。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -648,12 +648,12 @@ Reangfah Bukalahkorn的说法
 |-----------------|----------------------------------------|
 | Filename        | xueqiu_泰国为什么这么多人妖？_来源：朕说（ID_-_雪球.md                             |
 | Size            | 11744 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://xueqiu.com/8008190945/136695786](https://xueqiu.com/8008190945/136695786)                       |
+| Author          | 行研学社                               |
+| Region          | 未知                               |
+| Date            | 2019-12-02                                 |
+| Tags            | 人妖, 泰国, 性别多样性, 社会文化, 历史, 公众态度, 接受度, 表演艺术, 经济因素, 社会研究                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -67,8 +67,8 @@
 |-----------------|----------------------------------------|
 | Filename        | info_儿童变性手术争议延烧天主教团体广告猛攻贺锦丽_-_无忧资讯.md                             |
 | Size            | 3980 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://info.51.ca/articles/1346619](https://info.51.ca/articles/1346619)                       |
 | Author          | 自由时报                               |
 | Region          | 美国                               |
 | Date            | 2024-09-16                                 |

@@ -251,8 +251,8 @@ Retrieved from "[https://nonbinary.wiki/index.php?title=Genderfluid/zh-cn&oldid=
 |-----------------|----------------------------------------|
 | Filename        | nonbinary_流动性别_-_Nonbinary_Wiki.md                             |
 | Size            | 36857 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://nonbinary.wiki/wiki/Genderfluid/zh-cn](https://nonbinary.wiki/wiki/Genderfluid/zh-cn)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

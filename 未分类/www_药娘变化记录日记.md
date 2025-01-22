@@ -82,7 +82,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇药娘变化记录日记详细记录了一位药娘的生活经历与心路历程，展现了她在药物治疗下身体与心理的变化及其带来的种种挑战。故事背景设定在不同时期（特别是2020年及之后），涉及的主题包括性别认同、身体转变、社会偏见等。日记中的主人公通过生动的叙述，描述了自我认同时的挣扎，尤其是在性别转变过程中所遭遇的困惑与成长。同时，文中也反映出社交关系的调整，以及如何应对外界的压力和误解。日记部分内容还提到个人如何在转变中寻求自我认同与接纳，可以看出药物及其效果对个体生活的深远影响。此外，文中也对药娘群体的生活现状进行了真实的记录，这些真实的经历为读者提供了更深入的理解和思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -93,12 +93,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_药娘变化记录日记.md                             |
 | Size            | 6067 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.baidu.com/from=844b/ssid=0/s?word=%E8%8D%AF%E5%A8%98%E5%8F%98%E5%8C%96%E8%AE%B0%E5%BD%95%E6%97%A5%E8%AE%B0&sa=re_dl_prs_34689_3&ms=1&rqid=6497991692702078594&rq=%E8%8D%AF%E5%A8%984%E4%B8%AA%E6%9C%88%E5%8F%98%E5%8C%96&rsf=1630013&asctag=1479](http://www.baidu.com/from=844b/ssid=0/s?word=%E8%8D%AF%E5%A8%98%E5%8F%98%E5%8C%96%E8%AE%B0%E5%BD%95%E6%97%A5%E8%AE%B0&sa=re_dl_prs_34689_3&ms=1&rqid=6497991692702078594&rq=%E8%8D%AF%E5%A8%984%E4%B8%AA%E6%9C%88%E5%8F%98%E5%8C%96&rsf=1630013&asctag=1479)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-09-23                                 |
+| Tags            | 药娘, 性别认同, 身体变化, 心理转变, 社交关系, 社会偏见, 个人经历, 性别变迁, 医疗经历, 真实记录                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

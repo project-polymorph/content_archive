@@ -20,13 +20,13 @@
     ![](https://manhua.acimg.cn/manhua_detail/0/24_21_58_a18f6a93a7d08de1e9bf11f16cbbc0b8e_123696252.png)
 -   _04_
     
-    ![](//ac.gtimg.com/media/images/pixel.gif)
+    ![](https://ac.gtimg.com/media/images/pixel.gif)
 -   _05_
     
-    ![](//ac.gtimg.com/media/images/pixel.gif)
+    ![](https://ac.gtimg.com/media/images/pixel.gif)
 -   _06_
     
-    ![](//ac.gtimg.com/media/images/pixel.gif)
+    ![](https://ac.gtimg.com/media/images/pixel.gif)
 
 ---
 
@@ -150,8 +150,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ac_我的伪娘室友_-_腾讯动漫.md                             |
 | Size            | 5023 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ac.qq.com/ComicView/index/id/517860/cid/11](https://ac.qq.com/ComicView/index/id/517860/cid/11)                       |
 | Author          | 腾讯动漫                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

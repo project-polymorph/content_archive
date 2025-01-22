@@ -44,7 +44,7 @@ Measuring biological sex differences and socio-cultural gender diversity provide
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了工人及性别少数群体在应激反应和同种异体负荷方面的性别差异与性别多样性。文章来源于《Current Psychiatry Reports》，作者包括来自蒙特利尔大学心理学及医学相关研究中心的多位学者。研究的目的在于通过测量性别差异和社会文化性别差异，深入了解个体在压力生理方面的差异及“性别特异性”疾病的发展。论文总结了关于压力激素皮质醇及多系统性生理失调的最新研究成果，特别是在性别认同、性别角色以及性取向与压力生理的关系方面的探讨。作者强调，在进行生物行为研究时，压力科学家必须考虑性别差异，并且未来的研究应关注宏观结构因素，如制度化的性别和职业性别组成，以理解健康的社会决定因素。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -55,12 +55,12 @@ Measuring biological sex differences and socio-cultural gender diversity provide
 |-----------------|----------------------------------------|
 | Filename        | www_双性恋和变性者之间在应激反应和同种异体负荷方面的性别差异和_.md                             |
 | Size            | 3702 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1213056657663397897/t?recommendPaper=1213053744769601540](https://www.x-mol.com/paper/1213056657663397897/t?recommendPaper=1213053744769601540)                       |
+| Author          | Robert-Paul Juster et al.                               |
+| Region          | 加拿大                               |
+| Date            | 2019-10-19                                 |
+| Tags            | 应激反应, 双性恋, 变性者, 性别差异, 性别多样性, 压力, 皮质醇, 生理负荷, 社会文化性别, 健康社会决定因素                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

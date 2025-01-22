@@ -53,8 +53,8 @@ Alizabeth娘娘是來自泰國的跨性別者，她用笑聲感染全場氣氛�
 |-----------------|----------------------------------------|
 | Filename        | tkutimes_Alizabeth娘娘談與眾不同建構自我認同_-_淡江時報.md                             |
 | Size            | 3509 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://tkutimes.tku.edu.tw/dtl.aspx?no=53377](https://tkutimes.tku.edu.tw/dtl.aspx?no=53377)                       |
 | Author          | 淡江时报                               |
 | Region          | 台湾                               |
 | Date            | 2021-04-05                                 |

@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性艺人河莉秀：为了私生活我要改户口！（图）.md                             |
 | Size            | 2355 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://www.chinanews.com.cn/2002-12-05/26/250407.html](https://www.chinanews.com.cn/2002-12-05/26/250407.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2002-12-05                                 |

@@ -107,8 +107,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_异装癖的生理性别和心理性别_-_心灵花园.md                             |
 | Size            | 9564 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.xinlinghuayuan.com/archives/1943](https://m.xinlinghuayuan.com/archives/1943)                       |
 | Author          | 心灵花园网                               |
 | Region          | 北爱尔兰                               |
 | Date            | 2014-05-14                                 |

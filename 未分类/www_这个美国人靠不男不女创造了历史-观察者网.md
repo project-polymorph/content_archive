@@ -112,7 +112,7 @@ Copyright © 2014-2024 观察者 All rights reserved。
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章由隆洋撰写于观察者网，聚焦于美国首位被法律正式认定为"非男非女"性别的个体舒朋（Jamie Shupe）。文章详细讲述了舒朋的性别认同过渡经历，并报道俄勒冈州法庭对其性别认定的历史性裁定。这一裁定不仅为舒朋提供了合法的自我定义，也为其他不适应传统两性分类的人群提供了新的可能性。舒朋在文中表达了对这一判决的感激，认为这让他有了"生存的一席之地"。同时，文章分析了美国同性恋及跨性别者权益运动的发展历程，讨论其在社会与政策中承认的重要性，以及与其他国家在性别与性向认同方面的差异。文中引用了多个专家与相关人士的观点，强调了该裁定对美国跨性别者的深远影响。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,12 +123,12 @@ Copyright © 2014-2024 观察者 All rights reserved。
 |-----------------|----------------------------------------|
 | Filename        | www_这个美国人靠不男不女创造了历史-观察者网.md                             |
 | Size            | 7323 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/america/2016_06_20_364712.shtml](https://www.guancha.cn/america/2016_06_20_364712.shtml)                       |
+| Author          | 隆洋                               |
+| Region          | 美国                               |
+| Date            | 2016-06-20                                 |
+| Tags            | 非二元性别, 跨性别, 性别认同, 法律判决, 同性恋权益, 社会运动, 生命故事, 重大进展, 自我定义, 舒朋                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

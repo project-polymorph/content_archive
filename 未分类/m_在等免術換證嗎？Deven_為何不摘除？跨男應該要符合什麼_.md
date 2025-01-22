@@ -69,8 +69,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_在等免術換證嗎？Deven_為何不摘除？跨男應該要符合什麼_.md                             |
 | Size            | 2520 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.youtube.com/watch?v=6NpoB70VAk4](https://m.youtube.com/watch?v=6NpoB70VAk4)                       |
 | Author          | 阿塔男孩的跨旅程                               |
 | Region          | 未知                               |
 | Date            | 2023-03-12                                 |

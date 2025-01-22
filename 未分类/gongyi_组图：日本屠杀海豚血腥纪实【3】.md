@@ -55,8 +55,8 @@ _(责编：史雅乔、毕磊)_
 |-----------------|----------------------------------------|
 | Filename        | gongyi_组图：日本屠杀海豚血腥纪实【3】.md                             |
 | Size            | 2134 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://gongyi.people.com.cn/n/2014/0208/c152548-24298699-3.html](http://gongyi.people.com.cn/n/2014/0208/c152548-24298699-3.html)                       |
 | Author          | 环球网                               |
 | Region          | 日本                               |
 | Date            | 2014-02-08                                 |

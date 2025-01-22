@@ -298,7 +298,7 @@ Swati is a committed research analyst with a passion for optimizing systems and 
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一份关于激素替代疗法（HRT）市场规模的详细报告，涵盖了激素替代疗法的市场规模、份额、增长趋势以及行业分析。根据2023年的数据，全球激素替代疗法市场规模已达到226.4亿美元，并预计在2024年至2031年间将持续增长，直至2031年达到366.9亿美元。这一增长主要受到全球老龄人口增加的推动，尤其是在更年期和男性更年期等疾病的患者之间，对激素替代疗法的需求日益上升。报告详细分析了激素替代疗法的类型，包括雌激素、黄体酮、睾酮等激素的替代，提供了多种给药途径和疾病类型的细分分析。同时，文件中讨论了生物同质激素相较于合成替代品在安全性和有效性上的优势，以及医疗提供者和患者对激素替代疗法认识提高所带来的市场扩展机会。报告还包括北美和欧洲市场的区域分析，强调了这些地区由于老龄化人口和医疗意识的提升，正在积极寻求有效的激素替代疗法。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -309,12 +309,12 @@ Swati is a committed research analyst with a passion for optimizing systems and 
 |-----------------|----------------------------------------|
 | Filename        | www_激素替代疗法市场规模报告_2031__-_Kings_Research.md                             |
 | Size            | 17166 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kingsresearch.com/zh/hormone-replacement-therapy-market-911](https://www.kingsresearch.com/zh/hormone-replacement-therapy-market-911)                       |
+| Author          | Swati J.                               |
+| Region          | 未知                               |
+| Date            | 2024-07-01                                 |
+| Tags            | 激素替代疗法, HRT, 市场规模, 生物同质激素, 更年期, 男性更年期, 医疗资源, 行业分析, 性别多元, 医疗保健市场                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

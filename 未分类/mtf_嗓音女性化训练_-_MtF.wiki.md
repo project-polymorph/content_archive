@@ -34,8 +34,8 @@
 |-----------------|----------------------------------------|
 | Filename        | mtf_嗓音女性化训练_-_MtF.wiki.md                             |
 | Size            | 807 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://mtf.wiki/zh-cn/docs/vocal-therapy/](https://mtf.wiki/zh-cn/docs/vocal-therapy/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

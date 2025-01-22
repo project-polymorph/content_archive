@@ -125,7 +125,7 @@ Copyright © 2020 jdjiankang.com 版权所有
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件深入探讨了双侧睾丸切除后患者在性别认同和激素补充方面的问题。随着医学科技的发展，我们可以看到更多关于性别及生理健康的讨论。本案例来自一名22岁的男性患者，由于睾丸扭转导致双侧睾丸坏死并被切除，他开始服用雌激素以应对身体的变化。患者在咨询过程中，向医生询问他是否可以被称为“人妖”。医生首先解释了睾丸扭转的紧急性，并指出切除后激素补充的必要性。同时，医生强调性别认同是个人的内心选择，应该获得尊重。在对话中，患者分享了自己开始追求女性形象的过程，包括留长发、穿女装和亲密关系的变化。医生给出专业建议，并鼓励患者寻求专业心理及内分泌帮助，重视自己的内心体验和情感需求。文件通过患者与医生的问答形式，展示了医疗建议与情感支持的结合，以及对性别流动性和认同的开放态度。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -136,12 +136,12 @@ Copyright © 2020 jdjiankang.com 版权所有
 |-----------------|----------------------------------------|
 | Filename        | www_双侧睾丸切除后性别认同与激素补充问题_-_JD.com.md                             |
 | Size            | 11725 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.jd.com/qa/21526274567684?seoRedirectFlag=true&isFromSeo=true](https://www.jd.com/qa/21526274567684?seoRedirectFlag=true&isFromSeo=true)                       |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 激素补充, 睾丸切除, 医学咨询, 性别流动性, 性别心理, 健康教育, 患者故事, 社会认同, 心理支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

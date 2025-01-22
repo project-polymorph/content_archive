@@ -112,7 +112,7 @@ A legal resource to update your name and gender marker on ID documents
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为多元性别权利与资源概览，主要由GLAD Law组织提供。文件详细介绍了多元性别人士的权利及可获取的资源，包括医疗、法律、经济机会及家庭支持等方面。内容涵盖了知晓自己权利与保护的信息，例如支持跨性别青少年的医疗护理和法律保护。在文件中，作者强调了GLAD Law在法律案件中的重要作用，持续努力推动消除对LGBTQ+群体的歧视与偏见，确保他们在日常生活中的基本权益与机会。通过提供FAQ形式的信息支持，文件补充了对跨性别医疗护理的相关问题解答，增强公众与法律的联系。同时，还包含了更多保护行动的信息，比如捐赠支持，促进组织未来的工作。整体内容旨在提升社会对多元性别人士的理解与尊重。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,12 +123,12 @@ A legal resource to update your name and gender marker on ID documents
 |-----------------|----------------------------------------|
 | Filename        | www_GLAD_Home.md                             |
 | Size            | 5805 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.glad.org/](https://www.glad.org/)                       |
+| Author          | GLAD Law                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 权利, 资源, 医疗护理, 法律保护, 跨性别, 社会支持, GLAD Law, LGBTQ+, 政策                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

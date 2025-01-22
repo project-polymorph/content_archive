@@ -160,7 +160,7 @@ Copyright © 2014-2024 观察者 All rights reserved.
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件介绍了一项名为“牢不可破的计划”的摄影活动，由美国纽约市的视觉艺术学院摄影系学生布朗（Grace Brown）发起。该计划旨在鼓励性侵受害者分享施暴者所说的话语，目的是打破社会对性侵犯话题的禁忌，让更多人关注受害者的声音及其心声。在这项活动中，受害者们记录下施暴者在侵犯时的恐吓与欺骗言辞，形成了一系列震撼人心的摄影作品。自2011年启动以来，已有超过1500名受害者参与，并通过照片分享自己的故事。内容探讨了受害者心理创伤、社会支持及法律支持的必要性。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -171,12 +171,12 @@ Copyright © 2014-2024 观察者 All rights reserved.
 |-----------------|----------------------------------------|
 | Filename        | www_性侵者对受害者说的话（图集）-观察者网.md                             |
 | Size            | 9019 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.guancha.cn/society/2013_09_24_174347.shtml](https://www.guancha.cn/society/2013_09_24_174347.shtml)                       |
+| Author          | 观察者网                               |
+| Region          | 美国                               |
+| Date            | 2013-09-24                                 |
+| Tags            | 性侵, 性侵犯, 受害者, 心理辅导, 社会禁忌, 摄影活动, 牢不可破的计划, 布朗, 人权, 法律支持                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -46,8 +46,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_金牌！奥运史上首位变性人获奖者诞生_-_荆楚网.md                             |
 | Size            | 3605 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://m.cnhubei.com/content/2021-08/07/content_13998871.html](http://m.cnhubei.com/content/2021-08/07/content_13998871.html)                       |
 | Author          | 极目新闻                               |
 | Region          | 未知                               |
 | Date            | 2021-08-07                                 |

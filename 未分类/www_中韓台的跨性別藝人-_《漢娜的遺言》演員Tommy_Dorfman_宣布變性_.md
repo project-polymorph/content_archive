@@ -68,7 +68,7 @@ by Crystal Leung, [Ellie Stark](https://contributor/(name)/Ellie Stark)
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了Netflix校园影集《汉娜的遗言》中演员Tommy Dorfman的跨性别转变。Dorfman正式声明自己是跨性别女性，并分享了她因性别认同而经历的痛苦和最终决定接受变性手术的过程。文章中还介绍了其他几位知名的跨性别艺人，包括Elliot Page、河莉秀、Caitlyn Jenner、金星和Aura，详细描述了他们的生活经历、转型过程以及在公众关注下与性别认同相关的挑战与成就。这些故事不仅反映了跨性别艺术家的奋斗与坚持，也揭示了社会对跨性别者的态度变化和跨性别者的现实困境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@ by Crystal Leung, [Ellie Stark](https://contributor/(name)/Ellie Stark)
 |-----------------|----------------------------------------|
 | Filename        | www_中韓台的跨性別藝人-_《漢娜的遺言》演員Tommy_Dorfman_宣布變性_.md                             |
 | Size            | 6292 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.elle.com.hk/celebrity/transgender-celebrity](https://www.elle.com.hk/celebrity/transgender-celebrity)                       |
+| Author          | Crystal Leung, Ellie Stark                               |
+| Region          | 未知                               |
+| Date            | 2022-11-05                                 |
+| Tags            | 跨性别, 变性, Tommy Dorfman, 汉娜的遗言, 性别认同, Elliot Page, 河莉秀, 法律政策, 社会环境, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

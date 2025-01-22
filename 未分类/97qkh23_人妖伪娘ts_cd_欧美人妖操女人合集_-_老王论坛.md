@@ -52,8 +52,8 @@
 |-----------------|----------------------------------------|
 | Filename        | 97qkh23_人妖伪娘ts_cd_欧美人妖操女人合集_-_老王论坛.md                             |
 | Size            | 1138 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://97qkh23.com/forum.php?mod=viewthread&tid=1303399](https://97qkh23.com/forum.php?mod=viewthread&tid=1303399)                       |
 | Author          | Huanglaili                               |
 | Region          | 未知                               |
 | Date            | 2024-03-09                                 |

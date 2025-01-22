@@ -86,8 +86,8 @@ ISBN: 751331330X
 |-----------------|----------------------------------------|
 | Filename        | book_《性别是条毛毛虫》试读：哪个逃犯？或者，谁是那个蒙面人？.md                             |
 | Size            | 25519 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://book.douban.com/reading/29272888/](https://book.douban.com/reading/29272888/)                       |
 | Author          | 卡罗琳·科西                               |
 | Region          | 未知                               |
 | Date            | 1992-01-01                                 |

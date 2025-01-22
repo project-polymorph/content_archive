@@ -122,8 +122,8 @@ Photo Credit：《暴力蜜桃調教中》，來源：女性影展
 |-----------------|----------------------------------------|
 | Filename        | everylittled_暴力蜜桃調教中》如何把一場電音派對辦得像性別解放運動？.md                             |
 | Size            | 9138 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://everylittled.com/article/192111](https://everylittled.com/article/192111)                       |
 | Author          | eld editor                               |
 | Region          | 未知                               |
 | Date            | 2024-10-30                                 |

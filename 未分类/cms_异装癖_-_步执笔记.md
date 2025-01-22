@@ -81,8 +81,8 @@
 |-----------------|----------------------------------------|
 | Filename        | cms_异装癖_-_步执笔记.md                             |
 | Size            | 3814 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://cms.buzhibiji.com/t/%E5%BC%82%E8%A3%85%E7%99%96.html](http://cms.buzhibiji.com/t/%E5%BC%82%E8%A3%85%E7%99%96.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2023-07-25                                 |

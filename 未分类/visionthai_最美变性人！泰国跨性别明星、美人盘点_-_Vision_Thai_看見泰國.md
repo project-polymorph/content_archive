@@ -95,7 +95,7 @@ COPYRIGHT © 看见泰国 VISION THAI 2025
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了泰国的一些跨性别明星及其成就，她们在娱乐圈的影响力和个人故事。文章中提到的明星包括获得过Miss Tiffany's Universe的Yoshi，她从小就开始参加选美，并在众多泰剧中表现出色；被称为泰国“电梯美女”的Chalisa Rose Yuenchai，是因在电影《人再囧途之泰囧》中亮相而广为人知；还有泰国著名的跨性别艺人Nong Poy，她因与张家辉出演电影《扫毒》中而特别受到关注，揚名国际。文章强调这些跨性别女性不仅在外貌上出众，更努力在事业上获得认可。她们的经历展示了做自己、追求梦想的勇气。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -106,12 +106,12 @@ COPYRIGHT © 看见泰国 VISION THAI 2025
 |-----------------|----------------------------------------|
 | Filename        | visionthai_最美变性人！泰国跨性别明星、美人盘点_-_Vision_Thai_看見泰國.md                             |
 | Size            | 7197 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://visionthai.net/zh-hans/article/transgender-thai-star/](https://visionthai.net/zh-hans/article/transgender-thai-star/)                       |
+| Author          | 看见泰国编辑团队                               |
+| Region          | 泰国                               |
+| Date            | 2022-05-25                                 |
+| Tags            | 泰国, 跨性别, 明星, 美人, 演艺圈, Yoshi, Chalisa Rose Yuenchai, Nong Poy, Miss Tiffany's Universe, 社会环境                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

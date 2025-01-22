@@ -48,8 +48,8 @@
 |-----------------|----------------------------------------|
 | Filename        | hk_德國性別自決法案生效一年可“變性”一次_-_中國評論新聞.md                             |
 | Size            | 2441 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://hk.crntt.com/doc/0_0_106998927_1_1103164944.html](https://hk.crntt.com/doc/0_0_106998927_1_1103164944.html)                       |
 | Author          | 中國評論通訊社                               |
 | Region          | 香港                               |
 | Date            | 2024-11-01                                 |

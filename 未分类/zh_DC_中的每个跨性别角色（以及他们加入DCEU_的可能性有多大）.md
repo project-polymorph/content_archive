@@ -7,7 +7,7 @@
 
 多年来，DC 推出了大量跨性别角色，其中一些角色请求在 DC 扩展宇宙中首次亮相。
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc.webp)
 
 多年来，漫画行业张开双臂拥抱 LGBTQ+ 群体。最近，跨性别群体的代表性激增。 DC 引入了一些跨性别角色，而其他角色则被重新塑造为跨性别角色。
 
@@ -17,7 +17,7 @@
 
 ## 苏西·苏 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-2.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-2.webp)
 
 虽然很高兴看到 DC 代表跨性别女性，但这并不是一个很好的例子。苏西·苏被描绘成一个庸俗的黑帮，她不健康的肥胖让艺术家们常常让她看起来不顺眼。可悲的是，这很可能会让任何跨性别读者感到不安，因此这个角色没有受到好评。
 
@@ -25,7 +25,7 @@
 
 ## 丹尼街 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-3.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-3.webp)
 
 丹尼是一条活生生的、有感知的街道，它可以传送并出现在从沙漠中部到任何城镇的任何地方。丹尼还可以通过新建筑、标志等在他身上形成任何东西。是的，根据蒂姆·德雷克（又名红罗宾）的说法，他是跨性别者。
 
@@ -33,7 +33,7 @@
 
 ## 万达人 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-4.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-4.webp)
 
 旺达·曼出生时是一名男性，但在十几岁的时候，她重新发现自己是旺达，这不幸地导致她与父母闹翻。旺达是一个现实而可爱的跨性别女性写照，尤其是她和父母之间发生的事情。尽管作家们可能很想宣扬这样一种观念：所有父母都会接受真实的自己，但事实并非如此。
 
@@ -41,7 +41,7 @@
 
 ## 凝块 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-5.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-5.webp)
 
 漫画史上最早的跨性别角色之一。凯特·戈德温的历史并没有大量展开，但可以证实的是，她在被重新发现之前出生为克拉克·戈德温。她成为一名妓女，直到她与一个赋予她力量的外星人/人类混血儿上床。
 
@@ -51,7 +51,7 @@
 
 ## 伯克·戴 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-6.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-6.webp)
 
 伯克和他的两个兄弟曾经是罪犯，直到伯克被杀。感谢他的兄弟亚当，伯克复活了，但他的尸体是约翰·康斯坦丁的朋友玛格丽特·艾姆斯。花在这件事上的时间让伯克更开心，甚至透露他原本总觉得自己是一个被困在男人身体里的女人。
 
@@ -59,7 +59,7 @@
 
 ## 帕多·斯瓦卡卡通 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-7.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-7.webp)
 
 曾经有过一阵风声 _塑料人_ 电影看了好久。在漫画中，塑料人最终收养了一个名叫帕多·斯瓦卡卡通（Pado Swakatoon）的无家可归的孩子。他出生时是一个女孩，但自认是一个男孩，最终成为埃尔·奥布莱恩的忠实伙伴。
 
@@ -67,7 +67,7 @@
 
 ## 梦想家 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-8.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-8.webp)
 
 最初，《Dream Girl》是作为一名顺性别女性创建的，但多亏了 CW _超女_ ，她被重塑为一个被称为“梦想家”的跨性别女性。在《DC Pride》（2021 年）中，梦想家被带入漫画，并确认将在 2022 年的漫画集中回归。
 
@@ -77,7 +77,7 @@
 
 ## 食物 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-9.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-9.webp)
 
 最近推出的角色之一是比亚（Bia），她是一位有色人种的跨性别女性，很高兴被天堂岛接纳为亚马逊人。她出生为男人，转世为女人，尽管对前世没有记忆，但她知道自己渴望成为女人已久。
 
@@ -85,7 +85,7 @@
 
 ## 维多利亚十月 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-10.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-10.webp)
 
 维多利亚·十月是蝙蝠侠鲜为人知的盟友之一，是一位为阿格斯工作的科学家。阿曼达·沃勒（Amanda Waller）冷酷无情，维多利亚则对超人类表现出同情心；尤其是像巴兹尔·卡洛（Basil Karlo）这样的怪物，也被称为“泥脸”。在她转变为女性之前，她和蝙蝠侠就已经认识了。
 
@@ -93,7 +93,7 @@
 
 ## 杨艾莉西亚 { data-search-exclude }
 
-![](//maplehorst.com/img/lists/47/every-trans-character-dc-11.webp)
+![](https://maplehorst.com/img/lists/47/every-trans-character-dc-11.webp)
 
 芭芭拉·戈登 (Barbara Gordon) 和阿莉西亚·杨 (Alysia Yeoh) 在哥谭 (Gotham) 成为室友，起初两人都保守秘密。芭芭拉·戈登（Barbara Gordon）是蝙蝠女，而阿莉西亚（Alysia）最初是男性，但最终，两人成为了好朋友，她向芭芭拉说了实话。
 
@@ -106,7 +106,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文详细介绍了DC Comics中的多个跨性别角色以及他们加入DC扩展宇宙（DCEU）的可能性。文章首先回顾了多年来DC如何逐步引入及塑造跨性别角色，强调了这些角色的代表性提升，并讨论了他们在未来影视表现中的机会和挑战。文中列举了多位重要角色，例如苏西·苏、丹尼街、万达人等，分析了他们的背景、发展及在电影中的可能改编。文章指出，虽然部分角色有可能进入DCEU，但有些角色的描绘方式不够尊重，可能在转化为影视形象时遭遇困难。特别提到要重塑一些角色以提供更正面的形象，同时也希望未来的作品能更加关注多样性和真实感。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -117,12 +117,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_DC_中的每个跨性别角色（以及他们加入DCEU_的可能性有多大）.md                             |
 | Size            | 7910 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.maplehorst.com/every-trans-character-dc-23091419950](https://zh.maplehorst.com/every-trans-character-dc-23091419950)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2022-04-30                                 |
+| Tags            | DC Comics, 跨性别角色, DCEU, LGBTQ+, 性别认同, 社会环境, 艺术创作, 角色描绘, 电影改编, 多样性与包容性                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

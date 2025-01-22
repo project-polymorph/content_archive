@@ -107,8 +107,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_异装癖小说推荐_-_起点中文.md                             |
 | Size            | 3648 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.qidian.com/ask/tqbtutunjlwsk](https://m.qidian.com/ask/tqbtutunjlwsk)                       |
 | Author          | 起点中文网                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-10-30                                 |

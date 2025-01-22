@@ -37,7 +37,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《男女性别变性者的变性人语音调查问卷德文版的验证》的研究报告，旨在研究针对男性向女性变性者的变性语音问卷（TVQMtF）的德语翻译的心理计量学特性。本研究的主要内容包括对变性女性语音相关生活质量（VrQoL）的评估，根据127名跨性别女性的在线调查收集数据，分析了问卷的信度和效度。研究显示该问卷具有极好的内部一致性和良好的收敛效度，推荐用于语音治疗和外科手术的临床及研究目的。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -48,12 +48,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_男女性别变性者的变性人语音调查问卷德文版的验证。_-_X-MOL.md                             |
 | Size            | 3705 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.x-mol.com/paper/1212921808267583495/t?recommendPaper=1350497694282182656](https://www.x-mol.com/paper/1212921808267583495/t?recommendPaper=1350497694282182656)                       |
+| Author          | Sandra Salm, Kira Hower, Sandra Neumann, Lena Ansmann                               |
+| Region          | 德国                               |
+| Date            | 2018-08-29                                 |
+| Tags            | 变性人, 语音调查, 心理计量学, 生活质量, 跨性别女性, 语音治疗, 临床研究, 翻译验证, 数据库, 德语问卷                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

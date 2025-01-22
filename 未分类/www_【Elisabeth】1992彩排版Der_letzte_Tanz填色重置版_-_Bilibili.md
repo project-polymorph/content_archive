@@ -77,7 +77,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于1992年音乐剧《伊丽莎白》的彩排版《Der letzte Tanz》填色重置版的分享。文中提到作者使用AI工具Deoldify进行了彩色填充，尽管在远景色调方面存在失真，但近景特写的效果显著。文件内容包括彩色填图的过程与感受，评论区也指出该作品在德语音乐剧中的重要性。这不仅是一次艺术的再现，也是对多元文化表现形式的探索，反映了在中文语境下对西方音乐剧的接受和改编。此外，作者强调了未经授权的转载限制，显示出对原创内容的尊重和保护。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -88,12 +88,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【Elisabeth】1992彩排版Der_letzte_Tanz填色重置版_-_Bilibili.md                             |
 | Size            | 1956 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.bilibili.com/video/BV1B5s2ejEZv/](https://www.bilibili.com/video/BV1B5s2ejEZv/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-09-22                                 |
+| Tags            | 音乐剧, 伊丽莎白, 填色重置版, Deoldify, 德语音乐剧, 多元文化, 艺术再现, 音乐现场, 剧评, 创作分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

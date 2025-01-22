@@ -154,8 +154,8 @@ _Wolfradt, U., & Neumann, K. (2001). Depersonalization, self-esteem, and body im
 |-----------------|----------------------------------------|
 | Filename        | futarino_性别焦虑中的人格解体_广泛且未被承认by_Zinna_Jones_-_Futarino.md                             |
 | Size            | 25633 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://futarino.online/t/%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E4%B8%AD%E7%9A%84%E4%BA%BA%E6%A0%BC%E8%A7%A3%E4%BD%93-%E5%B9%BF%E6%B3%9B%E4%B8%94%E6%9C%AA%E8%A2%AB%E6%89%BF%E8%AE%A4-by-zinna-jones/1266](https://futarino.online/t/%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E4%B8%AD%E7%9A%84%E4%BA%BA%E6%A0%BC%E8%A7%A3%E4%BD%93-%E5%B9%BF%E6%B3%9B%E4%B8%94%E6%9C%AA%E8%A2%AB%E6%89%BF%E8%AE%A4-by-zinna-jones/1266)                       |
 | Author          | Zinnia Jones                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

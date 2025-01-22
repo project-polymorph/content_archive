@@ -115,7 +115,7 @@ _图片1展示了减小的喉部直径。_
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件的主题是声音男性化手术（Voice Masculinization Surgery, VMS），该手术特别适合于已经接受男性荷尔蒙治疗但对自己的声音仍不满意的跨性别男性患者。手术在泰国曼谷进行，在手术前会进行详细的喉镜检查和声学研究，以确保手术能达到预期效果。手术技术涉及在颈部进行小切口，以缩小外喉结构和缩短声带，使得声音转变为男性化的低沉音调。手术后，医生建议患者保持安静并进行相关的声音治疗，以提高使用新声音的能力。同时，文件详细列出了手术后可能面临的风险与并发症，以及术后护理和恢复期的注意事项。通过专业的声音治疗师的指导，患者能够有效地练习并控制他们的新声音，使其更符合其性别认同。该文件为涉及跨性别者的声音变化提供了宝贵的医疗资源和经验分享。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -126,12 +126,12 @@ _图片1展示了减小的喉部直径。_
 |-----------------|----------------------------------------|
 | Filename        | www_声音男性化手术（VMS）.md                             |
 | Size            | 7053 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.kamolhospital.com/zh/service/33/voice-masculinization-surgery-vms](https://www.kamolhospital.com/zh/service/33/voice-masculinization-surgery-vms)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 声音男性化手术, VMS, 跨性别医疗, 声带手术, 声音变化, 医疗资源, 手术护理, 声音治疗, 生理过渡, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

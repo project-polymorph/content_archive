@@ -112,7 +112,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位用户名为TS小说的作者（@wangzuopeng1984）在Twitter上与多元性别相关的各种帖子，主要围绕跨性别（Transgender）和变性（Transsexual）的主题。这些帖子包括作者与性别转换相关的体验、生活故事，以及相关的社会文化表达。文件中提到多个时间节点的内容和标签，例如有关美奈的日记、变性手术、女装文化等，展现了多元性别群体的生存现状和社会认同。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -123,12 +123,12 @@
 |-----------------|----------------------------------------|
 | Filename        | twitter_TS小说_@wangzuopeng1984___X.md                             |
 | Size            | 2360 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://twitter.com/wangzuopeng1984](https://twitter.com/wangzuopeng1984)                       |
+| Author          | @wangzuopeng1984                               |
+| Region          | 未知                               |
+| Date            | 2024-12-16                                 |
+| Tags            | 多元性别, 跨性别, 变性人, 女装, 性别认同, 生活故事, 社会文化, 性别转换, 文学创作, 社区分享                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

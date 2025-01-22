@@ -89,8 +89,8 @@ Judith Butler：如果辯論是可能的話，我想首先必須要重新省思�
 |-----------------|----------------------------------------|
 | Filename        | transgender_Judith_Butler_談文化戰爭、JK羅琳和「生活在反智時代」.md                             |
 | Size            | 10122 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transgender.tapcpr.org/archives/5016](https://transgender.tapcpr.org/archives/5016)                       |
 | Author          | Alona Ferber（采访朱迪斯·巴特勒的编辑）                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

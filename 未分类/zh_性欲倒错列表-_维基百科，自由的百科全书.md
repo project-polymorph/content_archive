@@ -510,7 +510,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是维基百科关于“性欲倒错”的条目，详细描述了性欲倒错的定义与相关术语。性欲倒错指对物体、情境或其它非典型对象的性吸引力。文中指出此术语为不当翻译，适宜译为恋爱症或性偏好症。同时，文件中提到美国精神医学学会在《精神疾病诊断与统计手册》第五版中对性欲倒错作出的说明，阐述了其临床含义与社会认知，援引了安尼尔·阿加瓦尔在2009年著作中列举546个性欲倒错术语的案例。文件中还列举了多种性欲倒错的具体类型，例如慕残、恋姊情结等，这些概念探索了人类性偏好的多样性，提供了关于人类性欲认知的不同视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -521,12 +521,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zh_性欲倒错列表-_维基百科，自由的百科全书.md                             |
 | Size            | 40354 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://zh.wikipedia.org/zh-cn/%E6%80%A7%E6%85%BE%E5%80%92%E9%8C%AF%E5%88%97%E8%A1%A8](https://zh.wikipedia.org/zh-cn/%E6%80%A7%E6%85%BE%E5%80%92%E9%8C%AF%E5%88%97%E8%A1%A8)                       |
+| Author          | 维基百科                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性欲倒错, 性别认同, 性偏好, 性心理, 人类性行为, 性少数群体, 心理学, 社会学, 精神医学, 维基百科                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -55,7 +55,7 @@ Ross 目前在探索如何将 TransTech 的触角拓展到她的社区，并能�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了跨性别者在科技行业中的困境与机遇。作者韩雨指出，尽管跨性别者在流行文化中的可见度有所提升，例如获得金球奖的跨性别演员Jeffrey Tambor，但在商界，他们依然面临着严重的隐性歧视。许多财富五百强公司虽明文禁止性别歧视，实际并未创造包容的工作环境。根据调查，90%的受访跨性别者曾经历过骚扰或不公平待遇。为帮助跨性别者赋能，位于芝加哥的TransTech社会企业提供平面设计和网络开发等培训课程，同时创造无性别歧视的工作环境。Ross强调掌握技能的重要性，以打破对跨性别者的偏见。虽然科技行业是不平等的，但对于有能力的跨性别者来说，仍有希望和机会。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -66,12 +66,12 @@ Ross 目前在探索如何将 TransTech 的触角拓展到她的社区，并能�
 |-----------------|----------------------------------------|
 | Filename        | www_科技行业是跨性别者的好选择？_-_爱范儿.md                             |
 | Size            | 4721 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.ifanr.com/494954](https://www.ifanr.com/494954)                       |
+| Author          | 韩雨                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-02-12                                 |
+| Tags            | 跨性别者, 科技行业, 职业机会, 性别歧视, 就业困境, LGBT, 社会包容, 技能培训, 变性人, 社会企业                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

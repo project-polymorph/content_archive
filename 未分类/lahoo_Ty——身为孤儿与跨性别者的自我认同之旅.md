@@ -106,8 +106,8 @@ _*文中照片均由作者提供*_
 |-----------------|----------------------------------------|
 | Filename        | lahoo_Ty——身为孤儿与跨性别者的自我认同之旅.md                             |
 | Size            | 10899 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://lahoo.ca/2024/10/30/729399](https://lahoo.ca/2024/10/30/729399)                       |
 | Author          | 未知                               |
 | Region          | 加拿大                               |
 | Date            | 2024-10-30                                 |

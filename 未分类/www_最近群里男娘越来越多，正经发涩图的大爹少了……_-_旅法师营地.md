@@ -190,7 +190,7 @@ IP属地：广西
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件探讨了近年来在网络社交环境中盛行的‘男娘’现象，通过分析这一文化现象在群聊中的传播与公共讨论，指出其在当代社交中的影响力。在正文中，许多生动的比喻和例子被用来说明这种现象的受欢迎程度和大众对其的认知变化。作者提到，‘男娘’一词已经逐渐被大众化和娱乐化，出现了一批以‘男娘’为身份标签的博主，俘获了流量和网友的关注。此外，文件中引用了波伏娃的著作《第二性》，并推测如果今天有个性转版的波伏娃，可能会出一本观察‘男娘’现象的书。整体来看，该文章既有对流行文化现象的分析，也提出了关于性别认同和社交动态的深刻思考。文章最后讨论了‘男娘’现象所反映的社会性别与生理性别之间的冲突，以及在特定文化环境下的个人认同问题，提供了一种审视性别问题的新视角。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -201,12 +201,12 @@ IP属地：广西
 |-----------------|----------------------------------------|
 | Filename        | www_最近群里男娘越来越多，正经发涩图的大爹少了……_-_旅法师营地.md                             |
 | Size            | 11338 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.iyingdi.com/tz/post/5350168](https://www.iyingdi.com/tz/post/5350168)                       |
+| Author          | 点火9                               |
+| Region          | 中国大陆                               |
+| Date            | 2024-02-01                                 |
+| Tags            | 男娘, 社交文化, 性别认同, 波伏娃, 男性化, 女性化, 网络流行语, 二次元文化, 身份标签, 文化现象                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

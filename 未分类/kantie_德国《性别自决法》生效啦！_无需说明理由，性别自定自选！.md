@@ -65,8 +65,8 @@
 |-----------------|----------------------------------------|
 | Filename        | kantie_德国《性别自决法》生效啦！_无需说明理由，性别自定自选！.md                             |
 | Size            | 2410 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://kantie.org/topics/huaren/3059622](https://kantie.org/topics/huaren/3059622)                       |
 | Author          | 北美华人网                               |
 | Region          | 未知                               |
 | Date            | 2024-11-02                                 |

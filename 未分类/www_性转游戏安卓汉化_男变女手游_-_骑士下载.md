@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于性转游戏的安卓汉化版本介绍，重点介绍了可以让男性角色变为女性角色的游戏形式。文件中提到性转游戏以其独特的玩法和惊喜，要素吸引了玩家，玩家在游戏中可以体验到完全不同的乐趣。游戏中设计了众多有趣的角色供玩家选择，并提供了丰富的剧情体验，增强了互动性和趣味性。此外，作者还列出了一些相关的游戏推荐，包括《少女都市追风汉化修改器MOD》、《天界女神内购破解版》、《贫乏少女缘结神无限钻石版》等，这些游戏各自具有不同的玩法和吸引力，适合不同类型的玩家。文件内容包含了相关游戏的更新信息、推荐理由和特点等，提供了丰富的游戏资源和选择。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_性转游戏安卓汉化_男变女手游_-_骑士下载.md                             |
 | Size            | 3521 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://www.fxsw.net/k/xzyx/](http://www.fxsw.net/k/xzyx/)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 游戏, 性转, 安卓, 汉化, 角色扮演, 女性角色, 男性角色, 剧情体验, 玩法, 推荐                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

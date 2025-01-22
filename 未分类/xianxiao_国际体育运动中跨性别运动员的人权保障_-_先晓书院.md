@@ -65,7 +65,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了国际体育运动中跨性别运动员的人权保障问题，分析了近年来国际体育界在尊重与保护人权方面的进展。跨性别运动员面临的挑战不仅包括与其他性别群体共通的问题，如平等和公平的参赛权利，还涉及到特定的生理与社会认同问题。作者刘雪芹结合体育政策变化、法律框架及国际运动组织的动态，详细阐述了如何在体育赛事中实现对跨性别运动员的保护与权利平衡。内容中提到，国际体育组织已开始要求主办国承诺遵循国际人权标准，并为跨性别运动员提供法律支持与保护，以保障其能够平等参与赛事。文件的结尾强调，跨性别运动员的人权保障不仅是法律层面的事务，更是社会包容性进程的重要组成部分。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -76,12 +76,12 @@
 |-----------------|----------------------------------------|
 | Filename        | xianxiao_国际体育运动中跨性别运动员的人权保障_-_先晓书院.md                             |
 | Size            | 19507 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://xianxiao.ssap.com.cn/catalog/2341547.html](https://xianxiao.ssap.com.cn/catalog/2341547.html)                       |
+| Author          | 刘雪芹                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-12-01                                 |
+| Tags            | 国际体育运动, 跨性别运动员, 人权保障, 性别平等, 体育政策, 法律保护, 社会包容, 运动员权益, 国际运动组织, 反歧视                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

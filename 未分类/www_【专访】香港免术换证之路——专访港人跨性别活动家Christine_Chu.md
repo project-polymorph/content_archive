@@ -34,7 +34,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是对香港跨性别活动家Christine Chu的专访，探讨了跨性别者在香港更换法律文件过程中的挑战与现状。Christine Chu分享了在免去手术换证方面的个人经历和法律途径，讲述了她参与推动相关法律变更的努力，以及这一过程对香港跨性别者群体带来的影响。文章还链接了香港跨性别法律资料库，提供更多资源与信息，鼓励公众对跨性别权利进行关注与讨论。此举办于2023年3月5日，迄今已有超过1000次观看，受到了相应的关注与评论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -45,12 +45,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【专访】香港免术换证之路——专访港人跨性别活动家Christine_Chu.md                             |
 | Size            | 1217 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=VYLtEYw-Ifs](https://www.youtube.com/watch?v=VYLtEYw-Ifs)                       |
+| Author          | 柑橘与百合                               |
+| Region          | 香港                               |
+| Date            | 2023-03-05                                 |
+| Tags            | 跨性别, 法律权利, 性别认同, 身份变更, 社会运动, Christine Chu, 香港, 跨性别活动家, 法律政策, 性别平等                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

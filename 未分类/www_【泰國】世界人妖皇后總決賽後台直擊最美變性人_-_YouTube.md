@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了泰国世界人妖皇后总决赛的精彩瞬间，探讨了变性人在社会中的表现和接受度。文章引用了奇异伯视YouTube频道发布的相关视频，呈现了选手们在比赛中的华丽服装和表演，展现出变性人群体的多样性与魅力。比赛吸引了大量观众，有助于提升公众对多元性别的认知和尊重。奇异伯还引导观众通过各种视频链接深入了解该活动的其他方面。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_【泰國】世界人妖皇后總決賽後台直擊最美變性人_-_YouTube.md                             |
 | Size            | 1100 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=VNjVnEI842c](https://www.youtube.com/watch?v=VNjVnEI842c)                       |
+| Author          | 奇异伯视                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性人, 人妖皇后, 泰国文化, 多元性别, 社会接受度, 华丽服装, 表演艺术, YouTube频道, 公众认知, 变性人群体                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -53,7 +53,7 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文报道了埃隆·马斯克的女儿薇薇安·詹娜·威尔逊在特朗普赢得大选后宣称要离开美国的新闻。薇薇安是马斯克与前妻贾斯汀·威尔逊所生的长子，在16岁时进行了变性手术，并在18岁时法律上正式更改了自己的姓名和性别。薇薇安在社交媒体上表达了对自己在美国未来的担忧，并提及特朗普的反跨性别政策可能导致的社会环境恶化。马斯克在采访中对这一过程表达了复杂的感受，表示混乱的情况让他在疫情期间曾误以为自己支持了儿子的变性决定。此外，文章还描述了父女之间的“不和”及各自对社会和财富的看法，反映了深层的家庭和社会问题。同时，文中涉及的法律和社会变迁也突显了当前在美国对跨性别者权利的争议和讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -64,12 +64,12 @@ Notice: The content above (including the pictures and videos if any) is uploaded
 |-----------------|----------------------------------------|
 | Filename        | www_特朗普胜选后，马斯克跨性别女儿宣称要离开美国_-_网易.md                             |
 | Size            | 6731 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.163.com/dy/article/JGT3NDFM05198DBD.html](https://www.163.com/dy/article/JGT3NDFM05198DBD.html)                       |
+| Author          | 商业周刊中文版                               |
+| Region          | 美国                               |
+| Date            | 2024-11-13                                 |
+| Tags            | 跨性别, 特斯拉, 埃隆·马斯克, 特朗普, 法律政策, 性别认同, 家庭关系, 社会议题, 变性手术, 媒体报道                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

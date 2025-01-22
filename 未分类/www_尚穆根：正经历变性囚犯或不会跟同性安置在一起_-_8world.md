@@ -29,7 +29,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讨论了新加坡内政部长尚穆根关于变性囚犯安置的问题。在国会的答复中，他提到正在经历变性过程的囚犯，可能不会与其他同性的囚犯安置在一起，主要是基于囚犯的安全考虑。尚穆根以苏格兰跨性别强奸犯布莱森的案例为例，指出如果囚犯的生殖器官和登记的性别不符，他们可能被安置在单人牢房。此外，当局会请医疗专家进行性别评估，并协助囚犯更新性别资料，确保其被分配到合适的监狱。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -40,12 +40,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_尚穆根：正经历变性囚犯或不会跟同性安置在一起_-_8world.md                             |
 | Size            | 1645 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.8world.com/singapore/transgender-prisoners-2288176](https://www.8world.com/singapore/transgender-prisoners-2288176)                       |
+| Author          | 8world                               |
+| Region          | 新加坡                               |
+| Date            | 2023-11-07                                 |
+| Tags            | 变性囚犯, 跨性别, 监狱政策, 新加坡, 性别认同, 人权, 法律政策, 社会环境, 医疗评估, 安全考量                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

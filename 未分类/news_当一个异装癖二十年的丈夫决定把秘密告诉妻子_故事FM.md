@@ -420,8 +420,8 @@ www\_当一个异装癖二十年的丈夫决定把秘密告诉妻子\_故事FM\_
 |-----------------|----------------------------------------|
 | Filename        | news_当一个异装癖二十年的丈夫决定把秘密告诉妻子_故事FM.md                             |
 | Size            | 36494 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://news.transchinese.org/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB/www_%E5%BD%93%E4%B8%80%E4%B8%AA%E5%BC%82%E8%A3%85%E7%99%96%E4%BA%8C%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%88%E5%A4%AB%E5%86%B3%E5%AE%9A%E6%8A%8A%E7%A7%98%E5%AF%86%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90_%E6%95%85%E4%BA%8BFM_-_%E7%BD%91%E6%98%93/](https://news.transchinese.org/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB/www_%E5%BD%93%E4%B8%80%E4%B8%AA%E5%BC%82%E8%A3%85%E7%99%96%E4%BA%8C%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%88%E5%A4%AB%E5%86%B3%E5%AE%9A%E6%8A%8A%E7%A7%98%E5%AF%86%E5%91%8A%E8%AF%89%E5%A6%BB%E5%AD%90_%E6%95%85%E4%BA%8BFM_-_%E7%BD%91%E6%98%93/)                       |
 | Author          | 故事FM                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-12-30                                 |

@@ -105,8 +105,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国变性人服兵役看全球最美变性人.md                             |
 | Size            | 6147 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.haiwainet.cn/ydc/3541083/2016/0701/content_30056929_1.html?s=yidianzixun](https://m.haiwainet.cn/ydc/3541083/2016/0701/content_30056929_1.html?s=yidianzixun)                       |
 | Author          | 朱惠悦                               |
 | Region          | 泰国                               |
 | Date            | 2016-07-01                                 |

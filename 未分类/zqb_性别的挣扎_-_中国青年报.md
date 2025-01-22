@@ -286,7 +286,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇来自《中国青年报》的文章，作者蔡平于2002年7月24日撰写，内容深入探讨了中国的变性手术与易性癖群体的现实生活。文章中揭示了在变性手术背后的各种问题，包括病人面临的心理压力、社会 stigma 以及对变性手术的信息不对称。作者首先描述了媒体对变性手术的报道如何将焦点放于医生的专业技能和手术的成功率，而忽视了病人个人的困境与感受。他以第一人称视角在“性别重塑外科中心”采访病人，获得了许多病人在手术前后的心理挣扎与社会生活现状。这些年轻的病人经历了各种心理测试和激素治疗，但仍有不少人对手术的必要性和后果缺乏清晰的理解。文章指出了社会对易性癖的偏见以及媒体的误导对个人选择造成的困扰，同时也反映了人性对确认身份的渴望与现实的无奈。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -297,12 +297,12 @@
 |-----------------|----------------------------------------|
 | Filename        | zqb_性别的挣扎_-_中国青年报.md                             |
 | Size            | 26351 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://zqb.cyol.com/content/2002-07/24/content_497432.htm](http://zqb.cyol.com/content/2002-07/24/content_497432.htm)                       |
+| Author          | 蔡平                               |
+| Region          | 中国大陆                               |
+| Date            | 2002-07-24                                 |
+| Tags            | 变性手术, 易性癖, 新闻报道, 医疗资源, 社会困境, 个人故事, 心理压力, 法律政策, 性别认同, 媒体误导                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

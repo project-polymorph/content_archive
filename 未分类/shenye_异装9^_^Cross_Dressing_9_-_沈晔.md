@@ -100,8 +100,8 @@ Copyright Reserved 2000-2025  雅昌艺术网 版权所有
 |-----------------|----------------------------------------|
 | Filename        | shenye_异装9^_^Cross_Dressing_9_-_沈晔.md                             |
 | Size            | 2971 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://shenye.artron.net/works_detail_brt026124100131_all](https://shenye.artron.net/works_detail_brt026124100131_all)                       |
 | Author          | 沈晔                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-01-01                                 |

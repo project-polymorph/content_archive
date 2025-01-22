@@ -41,8 +41,8 @@ Podcast Episode
 |-----------------|----------------------------------------|
 | Filename        | open_vol.1213_跨性别对谈我想变成女生且践行了_-_Spotify.md                             |
 | Size            | 1640 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://open.spotify.com/episode/09CzHK8SSVYUf3rf0GceTR](https://open.spotify.com/episode/09CzHK8SSVYUf3rf0GceTR)                       |
 | Author          | 大内密谈                               |
 | Region          | 未知                               |
 | Date            | 2024-08-08                                 |

@@ -59,8 +59,8 @@
 |-----------------|----------------------------------------|
 | Filename        | music_‎SOPHIE_代表作-_歌单-_Apple_Music.md                             |
 | Size            | 7974 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://music.apple.com/cn/playlist/sophie-%E4%BB%A3%E8%A1%A8%E4%BD%9C/pl.9b7634fb46674fab987ca3f00836b30a](https://music.apple.com/cn/playlist/sophie-%E4%BB%A3%E8%A1%A8%E4%BD%9C/pl.9b7634fb46674fab987ca3f00836b30a)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -64,8 +64,8 @@
 |-----------------|----------------------------------------|
 | Filename        | health_17岁少年自宫，孩子要变身，家长该怎么办？.md                             |
 | Size            | 5168 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://health.people.com.cn/n1/2017/0412/c14739-29205571.html](http://health.people.com.cn/n1/2017/0412/c14739-29205571.html)                       |
 | Author          | 羊城晚报                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-04-12                                 |

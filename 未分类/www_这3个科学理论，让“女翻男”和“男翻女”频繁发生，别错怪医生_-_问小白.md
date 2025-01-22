@@ -42,7 +42,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了三个关键的科学理论，旨在解释当今社会中性别反转现象的频繁出现。这些理论包括性别认同理论、性别社会化理论和性别连续谱理论。性别认同理论强调个体内心深处的性别认同，指出41%的跨性别人士曾试图自杀，反映了性别不安带来的心理压力。性别社会化理论分析了社会环境对性别角色的影响，强调在改变社会偏见和刻板印象方面的重要性。而性别连续谱理论则挑战了传统的性别二元论，认为性别是一个连续的谱系，强调个体差异。该文最后总结，理解性别反转现象需要综合这些理论，并尊重个体差异，以创造一个更为包容的社会环境。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -53,12 +53,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_这3个科学理论，让“女翻男”和“男翻女”频繁发生，别错怪医生_-_问小白.md                             |
 | Size            | 3936 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.wenxiaobai.com/api/expends/detail?article=d7e6c91c-0c0a-43fd-b12a-ae4033e94f71](https://www.wenxiaobai.com/api/expends/detail?article=d7e6c91c-0c0a-43fd-b12a-ae4033e94f71)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-09-03                                 |
+| Tags            | 性别反转, 跨性别, 性别认同, 性别社会化理论, 性别连续谱理论, 社会环境, 心理健康, 性别二元论, 包容性, 个体差异                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

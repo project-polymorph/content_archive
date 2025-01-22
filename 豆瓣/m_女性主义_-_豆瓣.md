@@ -127,8 +127,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_女性主义_-_豆瓣.md                             |
 | Size            | 5950 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/doulist/153500722/](https://m.douban.com/doulist/153500722/)                       |
 | Author          | dy.octa                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-01-06                                 |

@@ -52,7 +52,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是对跨性别家族的分类整理，详细介绍了不同跨性别相关概念的定义与特点，包括CD（异装）、AG（幻想变性性兴奋理论）、TG（跨性别）、TS（变性别）、BG（双性别）、IS（双性人）等。作者解析了每一类别的生理与心理特征，以及它们在社会与医学研究中的相关性。在描述跨性别家族的多元性时，强调了个人对性别认同的探索及其可能的心理动机。最后，作者分享了个人的身份认同经历，指出自身的性别认同主要为双性别（Bigender），并列出了一些相关资源链接以供进一步学习与探讨。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -63,12 +63,12 @@
 |-----------------|----------------------------------------|
 | Filename        | transgenderknowledgebar_跨性別家族分類整理.md                             |
 | Size            | 4517 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://transgenderknowledgebar.wordpress.com/2018/03/19/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%AE%B6%E6%97%8F%E5%88%86%E9%A1%9E%E6%95%B4%E7%90%86/](https://transgenderknowledgebar.wordpress.com/2018/03/19/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%AE%B6%E6%97%8F%E5%88%86%E9%A1%9E%E6%95%B4%E7%90%86/)                       |
+| Author          | 跨性别知识吧                               |
+| Region          | 未知                               |
+| Date            | 2018-03-19                                 |
+| Tags            | 跨性别, 性别认同, Bigender, AG, TG, TS, IS, 性别分类, 心理健康, 变性手术                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

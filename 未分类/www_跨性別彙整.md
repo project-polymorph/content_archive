@@ -68,7 +68,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为勵馨基金会制作的跨性别相关内容汇整，涵盖多项关于跨性别群体的主题与案例，展现多重歧视和性别暴力防治的紧迫性。内容包括国际反性别暴力的呼吁，提醒公众性别平等依旧需要共同努力；还有关于跨性别人士的个人故事、面临的挑战以及社会对其的认识与态度的讨论。例如，《拾蒂》讲述了一则关于性别的故事，强调每个人都有与性别相关的独特经历；而《男人想想》则分享了一位女跨男的自述，探讨了他在成长过程中的性别认同和社会适应。文件中的多篇文章均反映出跨性别人士在教育、医疗与社会环境中所面临的现实困境和歧视，强调跨性别权利的重要性以及社会对性别认知的需求。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -79,12 +79,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_跨性別彙整.md                             |
 | Size            | 2759 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.goh.org.tw/perspectives_tag/%E8%B7%A8%E6%80%A7%E5%88%A5/](https://www.goh.org.tw/perspectives_tag/%E8%B7%A8%E6%80%A7%E5%88%A5/)                       |
+| Author          | 勵馨基金會                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别暴力, 多重歧视, 性别平等, 个人故事, 法律政策, 社会环境, 医疗资源, 真实记录, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

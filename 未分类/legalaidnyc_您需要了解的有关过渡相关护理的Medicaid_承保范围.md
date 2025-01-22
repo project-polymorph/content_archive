@@ -85,8 +85,8 @@ Medicaid 承保其他手术，例如隆胸手术、面部女性化手术等，�
 |-----------------|----------------------------------------|
 | Filename        | legalaidnyc_您需要了解的有关过渡相关护理的Medicaid_承保范围.md                             |
 | Size            | 7589 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://legalaidnyc.org/zh-CN/%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9/%E6%94%BF%E5%BA%9C%E7%A6%8F%E5%88%A9/%E6%82%A8%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%9C%89%E5%85%B3-Medicaid-%E6%89%BF%E4%BF%9D%E8%8C%83%E5%9B%B4%E8%BF%87%E6%B8%A1%E7%9B%B8%E5%85%B3%E6%8A%A4%E7%90%86%E7%9A%84%E4%BF%A1%E6%81%AF/](https://legalaidnyc.org/zh-CN/%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9/%E6%94%BF%E5%BA%9C%E7%A6%8F%E5%88%A9/%E6%82%A8%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%9C%89%E5%85%B3-Medicaid-%E6%89%BF%E4%BF%9D%E8%8C%83%E5%9B%B4%E8%BF%87%E6%B8%A1%E7%9B%B8%E5%85%B3%E6%8A%A4%E7%90%86%E7%9A%84%E4%BF%A1%E6%81%AF/)                       |
 | Author          | 法律援助协会                               |
 | Region          | 美国                               |
 | Date            | 2019-XX-18                                 |

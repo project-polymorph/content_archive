@@ -133,8 +133,8 @@
 |-----------------|----------------------------------------|
 | Filename        | helanonline_跨性别人士在荷兰过得怎么样？__荷兰在线中文网HelanOnline.md                             |
 | Size            | 10979 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://helanonline.cn/article/16811](https://helanonline.cn/article/16811)                       |
 | Author          | 荷兰在线                               |
 | Region          | 荷兰                               |
 | Date            | 2021-11-24                                 |

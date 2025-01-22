@@ -61,8 +61,8 @@ GB/T 7714
 |-----------------|----------------------------------------|
 | Filename        | ccj_阴道成形术的研究进展及展望_-_北京大学期刊网.md                             |
 | Size            | 2233 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://ccj.pku.edu.cn/article/info?id=309776318](http://ccj.pku.edu.cn/article/info?id=309776318)                       |
 | Author          | 郝焰、吴霞                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-09-01                                 |

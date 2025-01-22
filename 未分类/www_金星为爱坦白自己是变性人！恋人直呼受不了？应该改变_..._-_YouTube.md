@@ -39,7 +39,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这段视频内容为金星在节目中坦白自己是变性人，并与恋人的关系展开讨论。视频中提出了一个引人深思的话题：在爱情中，是否应该改变自己以迎合恋人的期待。金星以幽默风趣的方式分享了自己的经历，并引导观众思考自我认同与他人期望之间的平衡。整个视频围绕着生活中的真实故事与情感经历，展示了多元性别群体在爱情与生活中的挑战与选择，契合广大观众对多元性别话题的关注与思考。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -50,12 +50,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_金星为爱坦白自己是变性人！恋人直呼受不了？应该改变_..._-_YouTube.md                             |
 | Size            | 1466 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=OHI-8yuAOS0](https://www.youtube.com/watch?v=OHI-8yuAOS0)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 金星, 变性人, 恋爱关系, 自我认同, 社会讨论, 多元性别, 喜剧节目, 情感经历, 娱乐节目, 人生故事                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

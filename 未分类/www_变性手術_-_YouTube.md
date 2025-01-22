@@ -46,7 +46,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一段关于变性手术的视频档案，记录了多位出版者对变性手术的相关视频内容，包括手术方法、医生建议及术后护理等信息。其中包括林雯綺制作的播放列表，其中包含8段视频，观看总次数达到了108,301次。视频记录了关于变性手术的各种角度，包括手术的步骤、医生推荐的性别确认以及如何找到G点等相关话题。此外，还有视频展示了不同的变性手术案例及术后效果，帮助观众更好地理解这一过程。此篇档案是对网络视频内容的汇编，反映了多元性别群体在变性手术方面的经验和讲解。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -57,12 +57,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_变性手術_-_YouTube.md                             |
 | Size            | 2001 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/playlist?list=PLoPr3uYKf21ov7nGSLG7FbMvm0wk78JjP](https://www.youtube.com/playlist?list=PLoPr3uYKf21ov7nGSLG7FbMvm0wk78JjP)                       |
+| Author          | 林雯綺                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 多元性别, 手术经验, 医疗资源, 视频, 性别确认, 康复指导, 心理辅导, G点, 社会性别问题                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

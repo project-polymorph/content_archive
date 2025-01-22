@@ -30,7 +30,7 @@ J【双男主】为躲避仇家男扮女装被红衣少年一见钟情，谎称�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此条文件记录了一部视频的内容，讲述了一位男主为逃避仇家而男扮女装，他在这个过程中遇见了红衣少年的浪漫故事。男主谎称自己是红衣少年的道侣，二人之间发生了一系列情感纠葛，展现了多元性别与浪漫爱情的结合。这段经历不仅表现了性别角色的流动性，还融入了修真元素，为观众呈现出一场修真版的燃冬故事。视频包含了男扮女装、双男主的情节，突显了情感和个人身份的探索与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -41,12 +41,12 @@ J【双男主】为躲避仇家男扮女装被红衣少年一见钟情，谎称�
 |-----------------|----------------------------------------|
 | Filename        | www_J【双男主】为躲避仇家男扮女装被红衣少年一见钟情，谎称自己是道侣.md                             |
 | Size            | 884 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.youtube.com/watch?v=tM0sMxeqPDY](https://www.youtube.com/watch?v=tM0sMxeqPDY)                       |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-11-06                                 |
+| Tags            | 男扮女装, 双男主, 浪漫爱情, 修真故事, 燃冬, 多元性别, 情感纠葛, 虚构作品, 视频分析, 文化表达                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

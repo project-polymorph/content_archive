@@ -49,8 +49,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_移魂是科幻，跨性别是现实_-_豆瓣.md                             |
 | Size            | 3482 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/15397061/](https://m.douban.com/movie/review/15397061/)                       |
 | Author          | 勾陈                               |
 | Region          | 中国大陆 / 中国台湾                               |
 | Date            | 未知                                 |

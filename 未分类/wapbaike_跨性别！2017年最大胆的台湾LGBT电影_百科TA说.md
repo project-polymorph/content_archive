@@ -138,7 +138,7 @@ _“_影片《阿莉芙》亮点很突出，Sherry葬礼上老吴的控诉，阿
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件内容为一篇详细探讨2017年台湾LGBT电影《阿莉芙》的文章，分析了影片的主题、角色及其在LGBT文化中的意义。《阿莉芙》作为一部具有深刻社会意义的电影，围绕着四个代表性的角色展开，他们在性别认同和性取向上经历了复杂的挣扎与探索。文章详细介绍了影片中每个角色的背景与心路历程，尤其突出主人公阿莉芙的变性经历，以及如何在台湾同性婚姻合法化的历史背景下，展示了对多元性别群体的深刻理解。还有对影片本身的评析，包括对角色塑造的成功与不足之处的讨论，以及和其它LGBT电影的比较。整体上，作者通过对影片及其背景的深度解析，强调了对LGBT群体内部更为边缘化的人群的关注与描绘。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -149,12 +149,12 @@ _“_影片《阿莉芙》亮点很突出，Sherry葬礼上老吴的控诉，阿
 |-----------------|----------------------------------------|
 | Filename        | wapbaike_跨性别！2017年最大胆的台湾LGBT电影_百科TA说.md                             |
 | Size            | 10544 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://wapbaike.baidu.com/tashuo/browse/content?id=e3ce1325376470e731416f1e](https://wapbaike.baidu.com/tashuo/browse/content?id=e3ce1325376470e731416f1e)                       |
+| Author          | River                               |
+| Region          | 台湾                               |
+| Date            | 2020-02-27                                 |
+| Tags            | LGBT, 跨性别, 台湾电影, 阿莉芙, 性别认同, 性向, 易装者, 电影分析, 同性婚姻, 社会文化                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -261,8 +261,8 @@ ISBN: 9787540495664
 |-----------------|----------------------------------------|
 | Filename        | m_男性的衰落-_图书-_豆瓣.md                             |
 | Size            | 13268 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/book/subject/35016930/](https://m.douban.com/book/subject/35016930/)                       |
 | Author          | 格雷森·佩里（Grayson Perry）                               |
 | Region          | 英国                               |
 | Date            | 2020-06-01                                 |

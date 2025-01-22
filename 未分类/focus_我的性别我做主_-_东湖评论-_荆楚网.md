@@ -54,8 +54,8 @@
 |-----------------|----------------------------------------|
 | Filename        | focus_我的性别我做主_-_东湖评论-_荆楚网.md                             |
 | Size            | 6575 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://focus.cnhubei.com/community/200811/t499109.shtml](http://focus.cnhubei.com/community/200811/t499109.shtml)                       |
 | Author          | 邓子庆                               |
 | Region          | 中国大陆                               |
 | Date            | 2008-11-18                                 |

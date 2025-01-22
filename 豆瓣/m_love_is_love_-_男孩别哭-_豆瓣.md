@@ -164,8 +164,8 @@ Brandon一出场就是一个男孩形象，剪了短碎的头发，束胸后穿�
 |-----------------|----------------------------------------|
 | Filename        | m_love_is_love_-_男孩别哭-_豆瓣.md                             |
 | Size            | 13501 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:05                             |
+| Original Link   | [https://m.douban.com/movie/review/1064187/](https://m.douban.com/movie/review/1064187/)                       |
 | Author          | 豆瓣用户                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

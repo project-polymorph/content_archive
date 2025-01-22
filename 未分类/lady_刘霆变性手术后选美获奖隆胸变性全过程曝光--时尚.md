@@ -47,8 +47,8 @@ _(责编：刘博雪、李昉)_
 |-----------------|----------------------------------------|
 | Filename        | lady_刘霆变性手术后选美获奖隆胸变性全过程曝光--时尚.md                             |
 | Size            | 1434 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://lady.people.com.cn/n/2015/0926/c1014-27637653-8.html](http://lady.people.com.cn/n/2015/0926/c1014-27637653-8.html)                       |
 | Author          | 刘博雪                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-09-26                                 |

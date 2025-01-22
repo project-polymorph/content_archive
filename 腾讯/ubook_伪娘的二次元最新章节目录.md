@@ -93,8 +93,8 @@
 |-----------------|----------------------------------------|
 | Filename        | ubook_伪娘的二次元最新章节目录.md                             |
 | Size            | 8305 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://ubook.reader.qq.com/book-chapter/23796085](https://ubook.reader.qq.com/book-chapter/23796085)                       |
 | Author          | 星音的小梦                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-06-19                                 |

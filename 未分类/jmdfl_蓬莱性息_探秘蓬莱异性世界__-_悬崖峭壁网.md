@@ -33,8 +33,8 @@
 |-----------------|----------------------------------------|
 | Filename        | jmdfl_蓬莱性息_探秘蓬莱异性世界__-_悬崖峭壁网.md                             |
 | Size            | 397 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://jmdfl.imaponline.com.cn/html/9775d93798085.html](http://jmdfl.imaponline.com.cn/html/9775d93798085.html)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

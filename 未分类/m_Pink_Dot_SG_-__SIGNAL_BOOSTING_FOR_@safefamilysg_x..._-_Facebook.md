@@ -76,8 +76,8 @@ SAFE 新加坡 与 新加坡跨性协会 TransgenderSG 举办：Proudly Parents 
 |-----------------|----------------------------------------|
 | Filename        | m_Pink_Dot_SG_-__SIGNAL_BOOSTING_FOR_@safefamilysg_x..._-_Facebook.md                             |
 | Size            | 2530 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.facebook.com/story.php/?story_fbid=790366259789691&id=100064489732283](https://m.facebook.com/story.php/?story_fbid=790366259789691&id=100064489732283)                       |
 | Author          | Pink Dot SG                               |
 | Region          | 新加坡                               |
 | Date            | 2024-02-24                                 |

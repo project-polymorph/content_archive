@@ -70,8 +70,8 @@
 |-----------------|----------------------------------------|
 | Filename        | genderempowerment_Gender_Empowerment_性別空間–_Transgender_Eye_for_the_Gender_.md                             |
 | Size            | 5758 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://genderempowerment.org/](https://genderempowerment.org/)                       |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

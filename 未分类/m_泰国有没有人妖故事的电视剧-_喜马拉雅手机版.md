@@ -78,8 +78,8 @@
 |-----------------|----------------------------------------|
 | Filename        | m_泰国有没有人妖故事的电视剧-_喜马拉雅手机版.md                             |
 | Size            | 3114 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://m.ximalaya.com/ask/a22461459](https://m.ximalaya.com/ask/a22461459)                       |
 | Author          | 匿名用户                               |
 | Region          | 泰国                               |
 | Date            | 2023-12-26                                 |

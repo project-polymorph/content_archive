@@ -61,7 +61,7 @@ Mj Rodriguez在《Pose》中扮演布兰卡。罗德里格斯获得艾美奖最�
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文探讨了MJ Rodriguez在2021年艾美奖提名历史上的重要性，她成为第一位获得剧情类最佳女主角提名的跨性别演员，扮演角色Blanca Evangelista。此提名被视为跨性别代表性的里程碑，但也引发了对跨性别演员在荧幕上被认可的不足的讨论。文章分析了FX系列《姿势》如何改变了公共对跨性别者生活的认识，尤其是通过展现1980年代和1990年代纽约舞厅的舞台环境。本篇还引用了文化事务总监杜松云雀的观点，强调了这一提名对跨性别社区的影响，并指出在许多情况下，跨性别演员的表现如何被边缘化。文章附带多篇相关链接，提供更多关于艾美奖提名和跨性别代表性的深度讨论。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -72,12 +72,12 @@ Mj Rodriguez在《Pose》中扮演布兰卡。罗德里格斯获得艾美奖最�
 |-----------------|----------------------------------------|
 | Filename        | www_Mj_Rodriguez的艾美奖提名创造了跨性别代表的历史，但仍然不够.md                             |
 | Size            | 6862 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.t1mobile.com/movies-tv/mj-rodriguezs-emmy-nomination-makes-history-for-trans-representation-but-is-still-not-enough](https://www.t1mobile.com/movies-tv/mj-rodriguezs-emmy-nomination-makes-history-for-trans-representation-but-is-still-not-enough)                       |
+| Author          | 托尼•布拉沃                               |
+| Region          | 美国                               |
+| Date            | 2021-07-13                                 |
+| Tags            | MJ Rodriguez, 艾美奖, 跨性别代表性, 姿势, LGBTQ, 文化事务, 媒体动态, 法律与政策, 社会影响, 演艺圈                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

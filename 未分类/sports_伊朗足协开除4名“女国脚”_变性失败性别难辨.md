@@ -44,8 +44,8 @@
 |-----------------|----------------------------------------|
 | Filename        | sports_伊朗足协开除4名“女国脚”_变性失败性别难辨.md                             |
 | Size            | 2383 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [http://sports.people.com.cn/n/2014/0211/c22176-24328107.html](http://sports.people.com.cn/n/2014/0211/c22176-24328107.html)                       |
 | Author          | 新民晚报                               |
 | Region          | 伊朗                               |
 | Date            | 2014-02-11                                 |

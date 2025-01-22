@@ -84,8 +84,8 @@ Powered by [飞雪论坛](https://fxacg.cc/forum.html)
 |-----------------|----------------------------------------|
 | Filename        | fxacg_【SLG官中】我的男娘室友My_Femboy_Roommate_Steam官方中文_.md                             |
 | Size            | 1740 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://fxacg.cc/thread-55450-1-1.html](https://fxacg.cc/thread-55450-1-1.html)                       |
 | Author          | 勤奋哒火星人                               |
 | Region          | 未知                               |
 | Date            | 2024-10-31                                 |

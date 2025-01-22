@@ -49,7 +49,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一名男性在泰国Yanhee医院接受变性手术的全过程，展示了变性手术的医学流程和患者的心理准备。报道通过一组图片展示了患者在手术前后的各个阶段，包括阅读手术手册、医生检查及手术后的恢复情况。文中提到，泰国在变性手术方面的技术相对成熟，但相关规定也较为严格，例如20岁以下患者必须得到父母同意。这种手术通常需要患者在术前经过心理咨询，并一年的异性荷尔蒙注射和异性生活方式的适应，以确保手术的顺利进行。整体内容反映了泰国作为医疗旅游目的地的独特性以及其在多元性别领域的进展与挑战。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -60,12 +60,12 @@
 |-----------------|----------------------------------------|
 | Filename        | world_组图：揭秘泰国变性人手术全过程_-_国际新闻.md                             |
 | Size            | 2596 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://world.huanqiu.com/gallery/9CaKrnQePio](https://world.huanqiu.com/gallery/9CaKrnQePio)                       |
+| Author          | 中国日报网                               |
+| Region          | 泰国                               |
+| Date            | 2011-11-25                                 |
+| Tags            | 变性手术, 泰国医疗旅游, 多元性别, 医疗程序, 心理咨询, 法律规定, 患者经历, 医学教育, 国际新闻, 性别认同                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

@@ -66,8 +66,8 @@
 |-----------------|----------------------------------------|
 | Filename        | podcasts_E410.「人妖」李二毛的一生‑_故事FM_-_Apple_Podcasts.md                             |
 | Size            | 2078 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://podcasts.apple.com/fr/podcast/e410-%E4%BA%BA%E5%A6%96-%E6%9D%8E%E4%BA%8C%E6%AF%9B%E7%9A%84%E4%B8%80%E7%94%9F/id1256399960?i=1000490903720](https://podcasts.apple.com/fr/podcast/e410-%E4%BA%BA%E5%A6%96-%E6%9D%8E%E4%BA%8C%E6%AF%9B%E7%9A%84%E4%B8%80%E7%94%9F/id1256399960?i=1000490903720)                       |
 | Author          | 贾玉川                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-09-11                                 |

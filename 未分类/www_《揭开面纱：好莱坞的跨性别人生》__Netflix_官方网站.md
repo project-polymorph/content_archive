@@ -51,7 +51,7 @@ Subtitles
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《揭开面纱：好莱坞的跨性别人生》是一部由拉弗恩·考克斯监制的纪录片，深入探讨跨性别人在好莱坞的生活和奋斗。影片集合了多位顶尖跨性别创意人和思想家的真诚访谈，她们分享了自己的经历和对跨性别社区在电影行业中影响的看法。在这部纪录片中，观众不仅能够看到关于跨性别者的生存现状的真实反映，还能够了解好莱坞对性别认同的态度转变及其社会影响。这是一部充满启发与思考的影片，挑战了传统性别观念，并展现了跨性别者在艺术与文化领域的重要声音。影片的时长为1小时47分钟，于2020年发布，并以R21的成熟度评级呈现，适合成年观众观看。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -62,12 +62,12 @@ Subtitles
 |-----------------|----------------------------------------|
 | Filename        | www_《揭开面纱：好莱坞的跨性别人生》__Netflix_官方网站.md                             |
 | Size            | 1862 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.netflix.com/sg-zh/title/81284247](https://www.netflix.com/sg-zh/title/81284247)                       |
+| Author          | 拉弗恩·考克斯                               |
+| Region          | 美国                               |
+| Date            | 2020-01-01                                 |
+| Tags            | 跨性别, 纪录片, 拉弗恩·考克斯, 好莱坞, 性别认同, LGBTQ+, 社会文化, 创意人, 思想家, 生存现状                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

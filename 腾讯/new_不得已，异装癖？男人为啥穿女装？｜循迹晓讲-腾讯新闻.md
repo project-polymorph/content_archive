@@ -124,8 +124,8 @@
 |-----------------|----------------------------------------|
 | Filename        | new_不得已，异装癖？男人为啥穿女装？｜循迹晓讲-腾讯新闻.md                             |
 | Size            | 9867 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [https://new.qq.com/rain/a/20221119A02JC100](https://new.qq.com/rain/a/20221119A02JC100)                       |
 | Author          | 循迹晓讲                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-11-19                                 |

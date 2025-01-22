@@ -54,7 +54,7 @@
 ## 摘要与附加信息
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一个名为"我也是#男娘了"的抖音短视频内容，该视频主要展示了一名作者在角色扮演（cosplay）中表现出对二次元文化的兴趣，特别是对游戏《碧蓝航线》的热爱。这段视频的作者是软糖Runta，他在抖音上拥有5.4万粉丝，并且其视频获得了112.5万的点赞。视频通过嬉戏的氛围展示了男娘文化，展现了COS和二次元文化中男性角色的多元性和表现形式。文中包含多个与《碧蓝航线》相关的动画片段和人物扮演，强调了这款游戏在二次元文化中的影响力和受欢迎程度。视频上传于2024年5月7日，反映了当前的互联网流行文化和青年对多元性别表达的接受度。文件中的标签如#男娘、#cos、#二次元、#碧蓝航线等都显示了内容的具体领域和主题。
 <!-- tcd_abstract_end -->
 
 > 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
@@ -65,12 +65,12 @@
 |-----------------|----------------------------------------|
 | Filename        | www_我也是_男娘了_cos__二次元_碧蓝航线_对镜拍-_抖音.md                             |
 | Size            | 3728 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2025-01-22 22:47:07                             |
+| Original Link   | [https://www.douyin.com/video/7366092482196655370](https://www.douyin.com/video/7366092482196655370)                       |
+| Author          | 软糖Runta                               |
+| Region          | 未知                               |
+| Date            | 2024-05-07                                 |
+| Tags            | 男娘, COS, 二次元, 碧蓝航线, 对镜拍, 抖音, 角色扮演, 青年文化, 多元性别, 网络视频                                 |
 | Evaluation            | [Unknown type(update needed)]                                 |
 <!-- tcd_table_end -->
 

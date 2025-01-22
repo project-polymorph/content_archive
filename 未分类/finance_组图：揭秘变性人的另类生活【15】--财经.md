@@ -30,8 +30,8 @@ _(责编：李栋、曹华)_
 |-----------------|----------------------------------------|
 | Filename        | finance_组图：揭秘变性人的另类生活【15】--财经.md                             |
 | Size            | 1435 bytes                           |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                       |
+| Archived Date   | 2025-01-22 22:47:06                             |
+| Original Link   | [http://finance.people.com.cn/money/n/2013/0705/c217431-22087512-15.html](http://finance.people.com.cn/money/n/2013/0705/c217431-22087512-15.html)                       |
 | Author          | 光明网                               |
 | Region          | 泰国                               |
 | Date            | 2013-07-05                                 |
