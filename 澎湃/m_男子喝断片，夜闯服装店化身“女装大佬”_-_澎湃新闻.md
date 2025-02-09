@@ -1,0 +1,10 @@
+# 男子喝断片，夜闯服装店化身“女装大佬”
+
+![男子喝断片，夜闯服装店化身“女装大佬”](https://image.thepaper.cn/image/34/261/526.jpg)
+
+近日，上海。一男子醉酒后闯入女装店，化身“女装大佬”后将手机等个人物品遗留在前台，次日利用定位寻找时发现手机正在民警手里。该男子因寻衅滋事被处行政拘留10日。
+
+责任编辑：周宽玮
+
+来源：[七环视频](https://www.thepaper.cn/list_26913)
+<!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_4688948 -->
