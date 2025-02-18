@@ -12,7 +12,7 @@ search:
 标签: `多元性别`, `同性恋`, `跨性别`, `文化研究`, `社会压迫`, `性别认同`, `文艺作品`, `法律问题`, `心理健康`, `性别流动性`
 
 
-总计 217 篇内容
+总计 228 篇内容
 
 
 
@@ -1858,6 +1858,94 @@ search:
 [m_迷失安狄——失落的双性人_-_豆瓣](m_迷失安狄——失落的双性人_-_豆瓣.md)<details><summary>查看摘要</summary>
 
 《迷失安狄——失落的双性人》是一部探讨双性人群体及其面对的社会边缘化和伦理困境的电影。影片讲述了主角安狄，一个55岁的双性人在妻子去世后追求自我表达的故事。随着安狄穿上女装，化上妆容，他的生活与周围人的关系发生了巨大的变化，尤其是与儿女们的关系。在这个过程中，安狄不仅体验了自我认同的快乐，也不得不面对来自社会的偏见和家庭的排挤。影片中通过安狄与他的朋友阿德和苏荷的互动，揭示了跨性别者在现实生活中的挣扎与无奈，探讨了爱与背叛、善与恶之间的复杂关系。影评中提到，观众在欣赏这部作品时，不同角色的视角引发了激烈的讨论与道德思考，安狄的遭遇既是对社会伦理的质疑，也是一种对个人选择与家庭责任之间冲突的深刻反思。影片通过生动的情节和深入的人物刻画，引发了对性别认知、家庭关系与社会接受度的深刻探讨。
+</details>
+
+
+
+
+[m_「被迫变成女孩的男孩」一场30年的实验，双胞胎沦白老鼠强制变性_](m_「被迫变成女孩的男孩」一场30年的实验，双胞胎沦白老鼠强制变性_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_【异装癖小受和警察最后接吻了】_-_东宫西宫-_豆瓣](m_【异装癖小受和警察最后接吻了】_-_东宫西宫-_豆瓣.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_【资料】_艾晓明：从性别视角出发-_小组讨论_-_豆瓣_1](m_【资料】_艾晓明：从性别视角出发-_小组讨论_-_豆瓣_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_关于变性的日记和相册_-_豆瓣](m_关于变性的日记和相册_-_豆瓣.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_写给变装姐妹的内心独白-_日记-_豆瓣](m_写给变装姐妹的内心独白-_日记-_豆瓣.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_很乱的关系、男男女女！_-_新女友-_豆瓣_1](m_很乱的关系、男男女女！_-_新女友-_豆瓣_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_性少数群体都是异装癖和三人行吗？怎么刻板印象更深了呢_-_豆瓣](m_性少数群体都是异装癖和三人行吗？怎么刻板印象更深了呢_-_豆瓣.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_科普丨这些性少数旗帜，你都认识吗？_-_日记-_豆瓣](m_科普丨这些性少数旗帜，你都认识吗？_-_日记-_豆瓣.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_讨论研究｜我是跨性别，有些人虽然“友跨”，但是我觉得很不舒服_-_豆瓣_1](m_讨论研究｜我是跨性别，有些人虽然“友跨”，但是我觉得很不舒服_-_豆瓣_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[movie_变性双面杀手的全部演职员_-_豆瓣电影](movie_变性双面杀手的全部演职员_-_豆瓣电影.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[movie_男孩别哭Boys_Don't_Cry_-_男孩别哭-_豆瓣_-_豆瓣电影](movie_男孩别哭Boys_Don't_Cry_-_男孩别哭-_豆瓣_-_豆瓣电影.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
 </details>
 
 

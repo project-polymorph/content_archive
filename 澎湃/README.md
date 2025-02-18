@@ -12,7 +12,7 @@ search:
 标签: `跨性别`, `多元性别`, `就业权利`, `法律纠纷`, `社会环境`, `医疗资源`, `性别认同`
 
 
-总计 21 篇内容
+总计 107 篇内容
 
 
 
@@ -207,6 +207,694 @@ search:
 [www_阉割、变性……被困在男人躯壳中的“药娘”_-_澎湃新闻](www_阉割、变性……被困在男人躯壳中的“药娘”_-_澎湃新闻.md)<details><summary>查看摘要</summary>
 
 本文探讨了跨性别女性（通常被称为“药娘”）在生理性别与性别认同之间存在的巨大鸿沟和所承受的心理与生理痛苦。文章通过实际案例，描绘了药娘们为了逼近她们期望的女性外形所采取的药物治疗，指出了药物使用的风险和可能带来的健康问题。同时，文中提及了她们所面临的社会歧视、家庭暴力、校园欺凌等困境，以及她们为追求自我身份而面临的艰辛选择。最后，强调社会和家庭的理解和支持对于跨性别者的重要性，期望未来能有更多的包容与接纳。
+</details>
+
+
+
+
+[m_5万月薪男总监手术变性后就遭解雇？法院判决书火了_-_澎湃新闻](m_5万月薪男总监手术变性后就遭解雇？法院判决书火了_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_13岁儿子竟然偷偷穿自己的丝袜，妈妈慌了……_-_澎湃新闻](m_13岁儿子竟然偷偷穿自己的丝袜，妈妈慌了……_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_13岁男孩乳房发育，竟是吃了这些药_-_澎湃新闻](m_13岁男孩乳房发育，竟是吃了这些药_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_54，美国最高法院裁定通过特朗普政府的变性人参军禁令](m_54，美国最高法院裁定通过特朗普政府的变性人参军禁令.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_J·K·罗琳被网暴、封杀、死亡威胁，堪称当代互联网奇观大赏](m_J·K·罗琳被网暴、封杀、死亡威胁，堪称当代互联网奇观大赏.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_“他们”，为什么穿裙子？](m_“他们”，为什么穿裙子？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_“公鼠怀孕”论文停止撤稿，相关研究人士解析实验意义_-_澎湃新闻](m_“公鼠怀孕”论文停止撤稿，相关研究人士解析实验意义_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_“被安放在男性躯壳里的女人”，于是我做了一场特别的手术](m_“被安放在男性躯壳里的女人”，于是我做了一场特别的手术.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_《卡斯评估》：对性别焦虑治疗的挑战和对科学行动主义的反击](m_《卡斯评估》：对性别焦虑治疗的挑战和对科学行动主义的反击.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_《后街女孩》：流氓大叔变女团，养成系偶像模式的另类解读_-_澎湃新闻](m_《后街女孩》：流氓大叔变女团，养成系偶像模式的另类解读_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_《翠丝》：一个中年跨性别者的选择](m_《翠丝》：一个中年跨性别者的选择.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_【好军医•创新发展】百年长征，这些领先的医疗技术熠熠生辉](m_【好军医•创新发展】百年长征，这些领先的医疗技术熠熠生辉.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_【睡前阅读·疗心手记】穿高跟鞋的男人_-_澎湃新闻](m_【睡前阅读·疗心手记】穿高跟鞋的男人_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_一桩“人妖公案”背后的明代社会想象_-_澎湃新闻](m_一桩“人妖公案”背后的明代社会想象_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元](m_两千名跨性别者被迫绝育，荷兰政府道歉并赔偿每人五千欧元.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_个人主页_-_澎湃新闻](m_个人主页_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻](m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_从宇航员到变性人，从纪录片看新闻之外的历史](m_从宇航员到变性人，从纪录片看新闻之外的历史.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻](m_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_做完变性手术，回岗不到一个月就失业？法院二审结果来了_-_澎湃新闻](m_做完变性手术，回岗不到一个月就失业？法院二审结果来了_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_六小龄童谈恶搞名著称痛心：一些影视剧中人妖不分，是非颠倒](m_六小龄童谈恶搞名著称痛心：一些影视剧中人妖不分，是非颠倒.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_关于她的人生，《丹麦女孩》只是肤浅的画皮_-_澎湃新闻](m_关于她的人生，《丹麦女孩》只是肤浅的画皮_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_变性选手夺举重世锦赛银牌：男可以变女，但体格肌肉都在啊_-_澎湃新闻](m_变性选手夺举重世锦赛银牌：男可以变女，但体格肌肉都在啊_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_变性选手能否参加体育比赛？男变女后，TA的身体优势还在吗](m_变性选手能否参加体育比赛？男变女后，TA的身体优势还在吗.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_古巴三名同性恋权利活动人士在哈瓦那“自豪游行”活动中被拘](m_古巴三名同性恋权利活动人士在哈瓦那“自豪游行”活动中被拘.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_哈利夫夺金后回应性别争议：外界的攻击让成功有了特别的味道](m_哈利夫夺金后回应性别争议：外界的攻击让成功有了特别的味道.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_婚后发现丈夫是“变性人”，北京一女子起诉要求确认婚姻无效_-_澎湃新闻](m_婚后发现丈夫是“变性人”，北京一女子起诉要求确认婚姻无效_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_对话药娘：原谅我成为不了讨喜的人](m_对话药娘：原谅我成为不了讨喜的人.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_平权运动与企业支持背后：以利益驱动的脆弱承诺](m_平权运动与企业支持背后：以利益驱动的脆弱承诺.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_德政府拟提出“自决法”，简化民众改变性别和姓名的程序](m_德政府拟提出“自决法”，简化民众改变性别和姓名的程序.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_想当年｜《莲花争霸》：乱炖亦能出经典](m_想当年｜《莲花争霸》：乱炖亦能出经典.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻](m_我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_拜登撤销特朗普禁令，允许变性者在美军服役_1](m_拜登撤销特朗普禁令，允许变性者在美军服役_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视](m_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_接受变性手术后，17岁女孩后悔了…](m_接受变性手术后，17岁女孩后悔了….md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_新加坡“男同”代孕养子获准，将开启同性恋平权讨论_-_澎湃新闻](m_新加坡“男同”代孕养子获准，将开启同性恋平权讨论_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_新西兰43岁变性人将征战东京奥运，女运动员抗议：不公平_-_澎湃新闻](m_新西兰43岁变性人将征战东京奥运，女运动员抗议：不公平_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_旅行作家简·莫里斯逝世，享年94岁_-_澎湃新闻](m_旅行作家简·莫里斯逝世，享年94岁_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_日本一女子大学招跨性别学生，“少数”能否融入“多数”？_-_澎湃新闻](m_日本一女子大学招跨性别学生，“少数”能否融入“多数”？_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_时隔近30年，变性作家自述再出版，性别认同观念已大大不同](m_时隔近30年，变性作家自述再出版，性别认同观念已大大不同.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_是不是不刷社交媒体，就不会死于心碎？_-_澎湃新闻](m_是不是不刷社交媒体，就不会死于心碎？_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_特朗普社交媒体发文“不允许变性人从军”，美军中现有数千人_-_澎湃新闻](m_特朗普社交媒体发文“不允许变性人从军”，美军中现有数千人_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_男人产奶，可能吗？我们和医生认真聊了聊男人的乳腺_-_澎湃新闻](m_男人产奶，可能吗？我们和医生认真聊了聊男人的乳腺_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_男子喝断片，夜闯服装店化身“女装大佬”_-_澎湃新闻](m_男子喝断片，夜闯服装店化身“女装大佬”_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_白宫任命首位跨性别者官员，还是有移民背景的有色人种](m_白宫任命首位跨性别者官员，还是有移民背景的有色人种.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_睡不着｜“治愈”心灵的电影，是这样的](m_睡不着｜“治愈”心灵的电影，是这样的.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_网红变性被骂，冤不冤](m_网红变性被骂，冤不冤.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？](m_罗琳新作再次引发跨性别权利争议，作家写变装杀手错在哪儿？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_美国高中生比赛引争议：变性人能参加吗](m_美国高中生比赛引争议：变性人能参加吗.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_荒唐！“抠脚大汉”变身“女装大佬”_触犯刑法终入囹圄（总第265期）](m_荒唐！“抠脚大汉”变身“女装大佬”_触犯刑法终入囹圄（总第265期）.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_荒唐！跨性别囚犯致女囚怀孕](m_荒唐！跨性别囚犯致女囚怀孕.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_药娘：他们吃药，想唤醒身体里的“她”_-_澎湃新闻](m_药娘：他们吃药，想唤醒身体里的“她”_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_警醒（woke）文化的根源_-_澎湃新闻](m_警醒（woke）文化的根源_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们](m_跨性别群体调查：孙静雅和她背后隐秘的变性“外围女”们.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别者_1](m_跨性别者_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别者故事：从药娘到变性人，步步维艰](m_跨性别者故事：从药娘到变性人，步步维艰.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别者的生存自白：身体器官不能决定我的性别](m_跨性别者的生存自白：身体器官不能决定我的性别.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别者网络主播之路，我感受到的屈辱与温暖](m_跨性别者网络主播之路，我感受到的屈辱与温暖.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别者被任命为美国海军四星上将，军队希望化解性别焦虑](m_跨性别者被任命为美国海军四星上将，军队希望化解性别焦虑.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_问吧一周精选｜看光头强还是看京剧？诺一妈聊儿童艺术教育_1](m_问吧一周精选｜看光头强还是看京剧？诺一妈聊儿童艺术教育_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_顺德男辅警变身“女装大佬”拍反诈视频：警惕“网恋”少被骗_-_澎湃新闻](m_顺德男辅警变身“女装大佬”拍反诈视频：警惕“网恋”少被骗_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_马斯克重蹈JK罗琳覆辙](m_马斯克重蹈JK罗琳覆辙.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_19岁跨性别者的三次“逃亡”_-_澎湃新闻](www_19岁跨性别者的三次“逃亡”_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_22岁“医生”学网络视频给小伙做变性手术，一审被判3年半_-_澎湃新闻](www_22岁“医生”学网络视频给小伙做变性手术，一审被判3年半_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《女子的生活》：神户女装大佬图鉴_-_澎湃新闻](www_《女子的生活》：神户女装大佬图鉴_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_一年做3次变性手术：妻离子散，但我终于活得像个人了_-_澎湃新闻](www_一年做3次变性手术：妻离子散，但我终于活得像个人了_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_一篇药娘日记，记录了数万药娘的悲惨命运_-_澎湃新闻](www_一篇药娘日记，记录了数万药娘的悲惨命运_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_世界小姐还有存在的必要吗？_-_澎湃新闻](www_世界小姐还有存在的必要吗？_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_为变性者摘除睾丸致其重伤，成都一实习医生无证行医被批捕_-_澎湃新闻](www_为变性者摘除睾丸致其重伤，成都一实习医生无证行医被批捕_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻](www_做了24年上千例变性手术医生的心与术：术前先好好聊一次_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_全球最知名跨性别导演的新片，玩砸了？_-_澎湃新闻](www_全球最知名跨性别导演的新片，玩砸了？_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性人的官方英文称呼已确定：不再是Mr或Mrs，而是Mx_-_澎湃新闻](www_变性人的官方英文称呼已确定：不再是Mr或Mrs，而是Mx_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变装皇后：挤进大码高跟鞋，他们让心里的女孩站上舞台_-_澎湃新闻](www_变装皇后：挤进大码高跟鞋，他们让心里的女孩站上舞台_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_古代“女装大佬”简史_-_澎湃新闻](www_古代“女装大佬”简史_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_国际奥委会新规变性人无需手术即可参赛？画面太美不敢想……](www_国际奥委会新规变性人无需手术即可参赛？画面太美不敢想…….md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_安徽亳州一欲变性男子扮女装随女友进女浴室偷拍，双双被行拘](www_安徽亳州一欲变性男子扮女装随女友进女浴室偷拍，双双被行拘.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_提前过六一，男童扮女生上台亲妈没认出_-_澎湃新闻](www_提前过六一，男童扮女生上台亲妈没认出_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国变性手术不被中国承认，变性人身份是难题_-_澎湃新闻](www_泰国变性手术不被中国承认，变性人身份是难题_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_神仙，妖怪？泰剧凭啥招人爱_-_澎湃新闻](www_神仙，妖怪？泰剧凭啥招人爱_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_维密首位变性模特：巴西渔村出生的90后](www_维密首位变性模特：巴西渔村出生的90后.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_美国或允许跨性别者参军，废除同性恋不得任男童子军领袖禁令](www_美国或允许跨性别者参军，废除同性恋不得任男童子军领袖禁令.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别者小小霏：在错误的身体中，人们努力成为自己_-_澎湃新闻](www_跨性别者小小霏：在错误的身体中，人们努力成为自己_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别者故事：从药娘到变性人，步步维艰_-_澎湃新闻](www_跨性别者故事：从药娘到变性人，步步维艰_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_通过变性手术成为女性的运动员，可以参加女子组比赛吗？_-_澎湃新闻](www_通过变性手术成为女性的运动员，可以参加女子组比赛吗？_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_金星晒出结婚证宣布与丈夫汉斯复婚，曾为孩子户口离婚_-_澎湃新闻](www_金星晒出结婚证宣布与丈夫汉斯复婚，曾为孩子户口离婚_-_澎湃新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_阉割、变性……被困在男人躯壳中的“药娘”_-_澎湃新闻_1](www_阉割、变性……被困在男人躯壳中的“药娘”_-_澎湃新闻_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
 </details>
 
 

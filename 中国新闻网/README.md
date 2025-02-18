@@ -12,7 +12,7 @@ search:
 标签: `变性人`, `性别表现`, `儿童性心理`, `河莉秀`, `泸州官员事件`, `伦敦小学生`, `性别多元化`, `家庭因素`, `中山美穗`, `伪娘文化`, `变性人参选`, `美军性别身份政策`
 
 
-总计 8 篇内容
+总计 102 篇内容
 
 
 
@@ -100,6 +100,761 @@ search:
 [www_图文；伦敦小学生流行交换妓女名片](www_图文；伦敦小学生流行交换妓女名片.md)<details><summary>查看摘要</summary>
 
 本文报道了伦敦小学生交换妓女名片的现象，该行为引发了市政当局的强烈关注和困扰。文章指出，伦敦的公共电话亭非法张贴了包含性服务信息及变性人图片的名片，而这些名片现在成为了小学生们的新兴收藏品。报道中提到，年仅6、7岁的小学生积极搜集印有性感女性照片的名片，并积极拨打这些名片上提供的电话号码。市政官员对此表示担忧，并要求政府采取更严厉的措施来解决这一问题，尤其是这些名片的张贴位置显然影响了公众的形象和儿童的成长环境。该文章也引述了当地政府和法律方面的回应，说明在英国，卖淫并不违法，但在公众场所拉客属于犯罪行为。
+</details>
+
+
+
+#### 时间未知，按收录顺序排列
+
+
+
+[m_美国预计今年7月4日正式“解禁”变性人参军](m_美国预计今年7月4日正式“解禁”变性人参军.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_11月15日《中新网事》_-_中国新闻网](www_11月15日《中新网事》_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_17岁少男反串伪娘版电臀舞迷倒观众_-_中国新闻网](www_17岁少男反串伪娘版电臀舞迷倒观众_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_28岁做变性手术无性人不男不女护照性别写不定_-_中国新闻网](www_28岁做变性手术无性人不男不女护照性别写不定_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_75岁男子成英最老变性人异装癖致多次离婚_图_](www_75岁男子成英最老变性人异装癖致多次离婚_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_90后小伙变性后色诱抢劫网友不愿被称人妖_图__-_中国新闻网](www_90后小伙变性后色诱抢劫网友不愿被称人妖_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2014蒂芬尼小姐“异装癖”选美大赛迎来决赛-中新网_-_中国新闻网](www_2014蒂芬尼小姐“异装癖”选美大赛迎来决赛-中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“伪娘”小灿亮相“2012牛人盛典”_红衣热舞“妩媚动人”-中新网_-_中国新闻网](www_“伪娘”小灿亮相“2012牛人盛典”_红衣热舞“妩媚动人”-中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“国际小姐”大赛欢迎变性人陈莉莉有可能圆梦_-_中国新闻网](www_“国际小姐”大赛欢迎变性人陈莉莉有可能圆梦_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“红顶艺人”并非人妖女妆表演男装真身谢幕_图__-_中国新闻网](www_“红顶艺人”并非人妖女妆表演男装真身谢幕_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《泰囧》人妖皇后签约内地经纪公司获高价代言合同-中新网](www_《泰囧》人妖皇后签约内地经纪公司获高价代言合同-中新网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《红高粱》演员灵儿被曝是变性人曾做变性手术](www_《红高粱》演员灵儿被曝是变性人曾做变性手术.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《谁说我们不会爱》于宇昂演“伪娘”_恋上女汉子_-_中国新闻网](www_《谁说我们不会爱》于宇昂演“伪娘”_恋上女汉子_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_专为青少年变性人拍写真悉尼摄影师举办摄影展](www_专为青少年变性人拍写真悉尼摄影师举办摄影展.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_专家否定“换性”可能“非常男女”非常难为_-_中国新闻网](www_专家否定“换性”可能“非常男女”非常难为_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_专家解析青少年异性癖：应从小给孩子“明性片”_2_](www_专家解析青少年异性癖：应从小给孩子“明性片”_2_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_专家解析青少年异性癖：应从小给孩子“明性片”_-_中国新闻网](www_专家解析青少年异性癖：应从小给孩子“明性片”_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_世博泰国馆美女被误认为“人妖”_-_中国新闻网](www_世博泰国馆美女被误认为“人妖”_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_世界杯预选赛现变性人第一烂队国脚变美女_图__-_中国新闻网](www_世界杯预选赛现变性人第一烂队国脚变美女_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_中国首届“人造美女”大赛落幕变性美女获奖_图_](www_中国首届“人造美女”大赛落幕变性美女获奖_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_中新视频-双性人38年女人梦变性追踪（一）_-_中国新闻网](www_中新视频-双性人38年女人梦变性追踪（一）_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_为圆“男人梦”_漂亮富婆离婚弃子欲做变性手术_-_中国新闻网](www_为圆“男人梦”_漂亮富婆离婚弃子欲做变性手术_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘男穿黑色丝袜美腿诱惑惹争议——中新网_-_中国新闻网](www_伪娘男穿黑色丝袜美腿诱惑惹争议——中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_儿子变女儿：英国最年轻跨性别者年仅3岁_图__-_中国新闻网](www_儿子变女儿：英国最年轻跨性别者年仅3岁_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_全国道德模范被确诊为易性癖拟接受变性手术_图__-_中国新闻网](www_全国道德模范被确诊为易性癖拟接受变性手术_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_全球最年轻变性人是女歌手男粉丝博客求婚_图_](www_全球最年轻变性人是女歌手男粉丝博客求婚_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_出演青春剧韩变性艺人河莉秀扮中国女子（图）](www_出演青春剧韩变性艺人河莉秀扮中国女子（图）.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_卫生部：变性手术前患者须提交无在案犯罪证明_-_中国新闻网](www_卫生部：变性手术前患者须提交无在案犯罪证明_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性人结婚合法有效民政部就此作出明确答复](www_变性人结婚合法有效民政部就此作出明确答复.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性日本人选美夺冠封后性感出写真难掩兴奋_图_](www_变性日本人选美夺冠封后性感出写真难掩兴奋_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性棋坛高手天生像女孩能结婚却无法生育_图_](www_变性棋坛高手天生像女孩能结婚却无法生育_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性舞蹈家金星做妈妈了_-_中国新闻网](www_变性舞蹈家金星做妈妈了_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性艺人河利秀新剧男扮女装_回忆异装癖岁月_-_中国新闻网](www_变性艺人河利秀新剧男扮女装_回忆异装癖岁月_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性艺人河莉秀：为了私生活我要改户口！（图）_1](www_变性艺人河莉秀：为了私生活我要改户口！（图）_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_只为做个变性人转眼成为阶下囚_-_中国新闻网](www_只为做个变性人转眼成为阶下囚_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_台伪娘成模特称想当女人不在乎异样眼光_-_中国新闻网](www_台伪娘成模特称想当女人不在乎异样眼光_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_台男子因变性手术致肢体残障医院被判赔173万_-_中国新闻网](www_台男子因变性手术致肢体残障医院被判赔173万_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_周杰伦选角出“变性人”男选手长发造型被热传](www_周杰伦选角出“变性人”男选手长发造型被热传.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_四川泸州监察局介入调查官员公款看人妖事件_2__-_中国新闻网](www_四川泸州监察局介入调查官员公款看人妖事件_2__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_国际变性人选美冠军趁热打铁出书演出忙捞金_图_](www_国际变性人选美冠军趁热打铁出书演出忙捞金_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_国际变性人选美大赛31日将在泰国芭达雅举行](www_国际变性人选美大赛31日将在泰国芭达雅举行.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_国际奥委会不点头变性人还不能参加奥运会_-_中国新闻网](www_国际奥委会不点头变性人还不能参加奥运会_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_图文西安严打色情淫秽演出禁演人体彩绘和人妖_-_中国新闻网](www_图文西安严打色情淫秽演出禁演人体彩绘和人妖_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_图文；伦敦小学生流行交换妓女名片_1](www_图文；伦敦小学生流行交换妓女名片_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_图：变性人刘晓晶在“人造美女”大赛上亮相](www_图：变性人刘晓晶在“人造美女”大赛上亮相.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_坎坷异装癖男子与家决裂30年出院次日遇火灾_图_-中新网_-_中国新闻网](www_坎坷异装癖男子与家决裂30年出院次日遇火灾_图_-中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_巴西举行变性人选美牙套姐获冠军-中新网](www_巴西举行变性人选美牙套姐获冠军-中新网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_巴西圣保罗200万人参加同性恋游行反歧视要求宽容](www_巴西圣保罗200万人参加同性恋游行反歧视要求宽容.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_巴西批准由男变女的变性手术万名男士将如愿_-_中国新闻网](www_巴西批准由男变女的变性手术万名男士将如愿_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_异装癖男子凌晨戴胸罩穿吊带出行市民误会齐“捉贼”_-_中国新闻网](www_异装癖男子凌晨戴胸罩穿吊带出行市民误会齐“捉贼”_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_徐州14岁的假小子接受变性手术如愿成了美少女](www_徐州14岁的假小子接受变性手术如愿成了美少女.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_成功人士更容易患抑郁症与人格性格有关_-_中国新闻网](www_成功人士更容易患抑郁症与人格性格有关_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_捷克一家三口都是变性人性学专家称全球罕见](www_捷克一家三口都是变性人性学专家称全球罕见.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_揭秘易性癖的另类生活：变性不是他（她）的错——中新网_-_中国新闻网](www_揭秘易性癖的另类生活：变性不是他（她）的错——中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_文化部公安部严禁脱衣舞人妖表演等色情演出_-_中国新闻网](www_文化部公安部严禁脱衣舞人妖表演等色情演出_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_新戏太敏感被紧急叫停变性人陈莉莉星梦搁浅](www_新戏太敏感被紧急叫停变性人陈莉莉星梦搁浅.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_日本著名男校举办“伪娘”选美靓过女生_图__-_中国新闻网](www_日本著名男校举办“伪娘”选美靓过女生_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_李银河谈伴侣不完全的男性身体但我把他当异性爱_-_中国新闻网](www_李银河谈伴侣不完全的男性身体但我把他当异性爱_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_校方禁止跨性别学生入女厕美法院判定该校歧视_-_中国新闻网](www_校方禁止跨性别学生入女厕美法院判定该校歧视_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_比利时男子婚后19年发现妻子是变性人大呼震惊_-_中国新闻网](www_比利时男子婚后19年发现妻子是变性人大呼震惊_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_法国不再将“易性癖”认定为精神疾病_-_中国新闻网](www_法国不再将“易性癖”认定为精神疾病_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国08年最美人妖揭晓19岁青年艳压群芳_图__-_中国新闻网](www_泰国08年最美人妖揭晓19岁青年艳压群芳_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国人妖“选美”_-_中国新闻网](www_泰国人妖“选美”_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国变性人当选省议员创该国首例_-_中国新闻网](www_泰国变性人当选省议员创该国首例_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国变性美女成功当选省议员创该国首例](www_泰国变性美女成功当选省议员创该国首例.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国征兵和尚人妖齐亮相完全变性者可免征_图_](www_泰国征兵和尚人妖齐亮相完全变性者可免征_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_浙江一25岁男子铁心做美女五天后做变性手术_图__-_中国新闻网](www_浙江一25岁男子铁心做美女五天后做变性手术_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_牛津大学社团吁尊重跨性别人士用“ze”代表中性_-_中国新闻网](www_牛津大学社团吁尊重跨性别人士用“ze”代表中性_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_特朗普签署备忘录禁止变性人参军称其扰乱队伍](www_特朗普签署备忘录禁止变性人参军称其扰乱队伍.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_环境污染导致基因突变福州双胞胎男童变性成功](www_环境污染导致基因突变福州双胞胎男童变性成功.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男子找站街女嫖娼发现对方系“人妖”怒抢手机泄愤_-_中国新闻网](www_男子找站街女嫖娼发现对方系“人妖”怒抢手机泄愤_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男子欲卖肾做变性手术15年前曾遭同性侵犯_图_——中新网_-_中国新闻网](www_男子欲卖肾做变性手术15年前曾遭同性侵犯_图_——中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_福建泉州扫黄抓到变性人9名卖淫女中有3男性_图__-_中国新闻网](www_福建泉州扫黄抓到变性人9名卖淫女中有3男性_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_科学家发现“变性基因”_可让美女变成猛男](www_科学家发现“变性基因”_可让美女变成猛男.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_章小蕙新造型---透明薄纱旗袍激凸好诱人（图）](www_章小蕙新造型---透明薄纱旗袍激凸好诱人（图）.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_网络惊现男版周迅席卷全球的伪娘潮_图__5__-_中国新闻网](www_网络惊现男版周迅席卷全球的伪娘潮_图__5__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_美11州就变性人如厕起诉联邦政府白宫尚未回应](www_美11州就变性人如厕起诉联邦政府白宫尚未回应.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_美丽变性泰拳王现身约战中国武林高手_图_——中新网](www_美丽变性泰拳王现身约战中国武林高手_图_——中新网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_美国8岁女童成世界最小变性人（图）_-_中国新闻网](www_美国8岁女童成世界最小变性人（图）_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_英男子23年两度变性_欲拍纪录片告诫世人_图__-_中国新闻网](www_英男子23年两度变性_欲拍纪录片告诫世人_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_菲律宾检察官对涉变性人命案美军士兵提谋杀指控](www_菲律宾检察官对涉变性人命案美军士兵提谋杀指控.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_菲律宾检察官调查变性人命案涉案美军士兵缺席](www_菲律宾检察官调查变性人命案涉案美军士兵缺席.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_被护士叫“先生”_港变性人感觉被羞辱法院投诉](www_被护士叫“先生”_港变性人感觉被羞辱法院投诉.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_被指男不男女不女，男旦怎么说？关注艺术而非性别_-_中国新闻网](www_被指男不男女不女，男旦怎么说？关注艺术而非性别_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别运动员参加东京奥运！她或成为中国女力士劲敌](www_跨性别运动员参加东京奥运！她或成为中国女力士劲敌.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_选秀演变成“易性竞争”？——中新网_-_中国新闻网](www_选秀演变成“易性竞争”？——中新网_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_里约奥运对变性人“开绿灯”_无需手术即可参加奥运](www_里约奥运对变性人“开绿灯”_无需手术即可参加奥运.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_金星变性过程视频曝光木子美质疑夫妻生活_图__-_中国新闻网](www_金星变性过程视频曝光木子美质疑夫妻生活_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_金星暂别《舞林大会》_变性手术纪录片曝光_图__-_中国新闻网](www_金星暂别《舞林大会》_变性手术纪录片曝光_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_隋唐时期“伪娘”很吃香_-_中国新闻网](www_隋唐时期“伪娘”很吃香_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_韩变性艺人河莉秀未整形时的男儿身照曝光_图__-_中国新闻网](www_韩变性艺人河莉秀未整形时的男儿身照曝光_图__-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_香港一异装癖男子偷耳环辩称忆亡父疏忽被判罚_-_中国新闻网](www_香港一异装癖男子偷耳环辩称忆亡父疏忽被判罚_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_香港允许变性人婚姻登记_-_中国新闻网](www_香港允许变性人婚姻登记_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_香港有逾百人完成变性手术其中“女变男”占多_-_中国新闻网](www_香港有逾百人完成变性手术其中“女变男”占多_-_中国新闻网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
 </details>
 
 

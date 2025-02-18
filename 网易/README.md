@@ -12,7 +12,7 @@ search:
 标签: `变性人`, `跨性别故事`, `女装大佬`, `网络文化`, `性别认同`, `个人经历`, `游戏文化`, `社会新闻`, `二次元文化`, `性别表现`
 
 
-总计 40 篇内容
+总计 166 篇内容
 
 
 
@@ -376,6 +376,1014 @@ search:
 [open_昔日发小整容变性，摇身一变成了女朋友，这部韩国悬疑片绝了](open_昔日发小整容变性，摇身一变成了女朋友，这部韩国悬疑片绝了.md)<details><summary>查看摘要</summary>
 
 本文探讨了一部韩国悬疑片的情节，涉及一个人物通过整容和变性重塑自我的故事。文章通过讲述一名男性朋友在手术后变为女性的过程，描绘了其身边朋友对这场变化的羡慕与难以接受。影视作品通过悬疑元素探讨了身份认同、社会接受度以及性别流动性等多元性别议题，使得观众在观看的同时产生深思。此外，文章提及了相关的社会反响，吸引了观众对性别与身份相关性的关注。
+</details>
+
+
+
+
+[3g_变性后能过性生活吗？揭变性手术那些事｜名医专访_-_网易](3g_变性后能过性生活吗？揭变性手术那些事｜名医专访_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_2004年，安徽男子决定变性，术后高调征婚，扬言不活出个样不回家](c_2004年，安徽男子决定变性，术后高调征婚，扬言不活出个样不回家.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_2014年，中国富豪娶人妖皇后，被父母扫地出门，巨额遗产无人继承](c_2014年，中国富豪娶人妖皇后，被父母扫地出门，巨额遗产无人继承.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_【新刊】专题策划_跨越性别后的虹色人生_-_网易新闻](c_【新刊】专题策划_跨越性别后的虹色人生_-_网易新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_中国首位变性人张克莎：嫁富商18年，丈夫至死也没揭穿她的秘密](c_中国首位变性人张克莎：嫁富商18年，丈夫至死也没揭穿她的秘密.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_双性人自述：我晚上做妓女，白天当父亲..._我不是变态、人妖_-_网易新闻](c_双性人自述：我晚上做妓女，白天当父亲..._我不是变态、人妖_-_网易新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_极其不公平！完全是在殴打女人！台湾变性拳手50完虐对手惹众怒](c_极其不公平！完全是在殴打女人！台湾变性拳手50完虐对手惹众怒.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_浙江首位变性人“男变女”成功，05年结婚，06年当妈，后来怎样了](c_浙江首位变性人“男变女”成功，05年结婚，06年当妈，后来怎样了.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c_连载多年无人问津的日本漫画，靠着“男娘”全网热度一飞冲天了](c_连载多年无人问津的日本漫画，靠着“男娘”全网热度一飞冲天了.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[dh2_龙叔竟变身“女装大佬”？画面太美我不敢看！_-_大话西游2免费版_-_网易_1](dh2_龙叔竟变身“女装大佬”？画面太美我不敢看！_-_大话西游2免费版_-_网易_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[ent_台湾变性女星披婚纱欲嫁初恋男友_手机网易网](ent_台湾变性女星披婚纱欲嫁初恋男友_手机网易网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_15年北京富商娶泰国“人妖皇后”，豪掷500万送别墅，如今怎样？_-_网易](m_15年北京富商娶泰国“人妖皇后”，豪掷500万送别墅，如今怎样？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_“人妖”“变态”“有病”...我只是想做我自己_跨性别者_纪录片_1_（上）](m_“人妖”“变态”“有病”...我只是想做我自己_跨性别者_纪录片_1_（上）.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_十年前女生站在学校讲台上，好心人捐赠了女生10万奖学金_-_网易](m_十年前女生站在学校讲台上，好心人捐赠了女生10万奖学金_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_印度一男子被好友诱骗，在医院做变性手术，事后还强制结婚_-_网易](m_印度一男子被好友诱骗，在医院做变性手术，事后还强制结婚_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_图片故事：双性人21年的模糊人生_-_网易](m_图片故事：双性人21年的模糊人生_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_女孩梦想变成男人，长大后要做变性手术，却被父母赶出家门_-_网易](m_女孩梦想变成男人，长大后要做变性手术，却被父母赶出家门_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_奶奶私自拿走外婆给宝宝的金吊坠，拿去熔了换了条大的自己戴_-_网易](m_奶奶私自拿走外婆给宝宝的金吊坠，拿去熔了换了条大的自己戴_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_娱乐圈中的7位变性人,_金星的美只能排第6名！163_手机网易网](m_娱乐圈中的7位变性人,_金星的美只能排第6名！163_手机网易网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_宁夏女子首例“女变男”变性人，苦苦追爱多年，为何无人敢嫁？_-_网易](m_宁夏女子首例“女变男”变性人，苦苦追爱多年，为何无人敢嫁？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_富豪男被朋友骗去做变性手术，醒来后丁丁没了，还被对方强迫结婚](m_富豪男被朋友骗去做变性手术，醒来后丁丁没了，还被对方强迫结婚.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_影史十大经典反串，安能辨TA是雄雌？_-_网易](m_影史十大经典反串，安能辨TA是雄雌？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_新加坡遇到难题了，面对变性囚犯如何安置？变性囚犯强奸犯_..._-_网易](m_新加坡遇到难题了，面对变性囚犯如何安置？变性囚犯强奸犯_..._-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_泰国人妖韩国娘炮日本废宅，为啥有美国驻军的国家，都快速娘化？_1](m_泰国人妖韩国娘炮日本废宅，为啥有美国驻军的国家，都快速娘化？_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_泰国人妖骗73名日本人超500万，泰国VS日本，到底谁更富？_-_网易](m_泰国人妖骗73名日本人超500万，泰国VS日本，到底谁更富？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_泰国最美的人妖皇后！被中国富商鲍哥迎娶！现在婚姻怎么样了？_-_网易](m_泰国最美的人妖皇后！被中国富商鲍哥迎娶！现在婚姻怎么样了？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_浙江首位变性人“男变女”成功，05年结婚，06年当妈，现在怎样了_-_网易](m_浙江首位变性人“男变女”成功，05年结婚，06年当妈，现在怎样了_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_浙江首位变性人雷晓晨：05年结婚，06年当“妈妈”，如今过得怎样_-_网易](m_浙江首位变性人雷晓晨：05年结婚，06年当“妈妈”，如今过得怎样_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_混血女孩美国长大，国内英语考试垫底，爸爸日常三国语言交流_-_网易](m_混血女孩美国长大，国内英语考试垫底，爸爸日常三国语言交流_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_男娘争霸赛_来自大神逆水寒手游圈子_奚慕文文](m_男娘争霸赛_来自大神逆水寒手游圈子_奚慕文文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_跨性别女篮球员控被暴力对待，对手球队称一面之词，视频被剪辑了](m_跨性别女篮球员控被暴力对待，对手球队称一面之词，视频被剪辑了.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_远赴海外进行变性手术的金星，如今男星特征显现，忍受后遗症之苦](m_远赴海外进行变性手术的金星，如今男星特征显现，忍受后遗症之苦.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_马斯克“女儿”宣布将离开美丽国！_-_网易](m_马斯克“女儿”宣布将离开美丽国！_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_马斯克的跨性别女儿Vivian宣布，她将离开美国_网易视频](m_马斯克的跨性别女儿Vivian宣布，她将离开美国_网易视频.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[music_【女装第一课】女装怎样藏下面？女装大佬性取向？看完你_-_网易云音乐](music_【女装第一课】女装怎样藏下面？女装大佬性取向？看完你_-_网易云音乐.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[music_女装大佬只用一支眉笔也可以化妆？居然画出混血的感觉！_-_网易云音乐](music_女装大佬只用一支眉笔也可以化妆？居然画出混血的感觉！_-_网易云音乐.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_人妖皇后_标签_网易出品](news_人妖皇后_标签_网易出品.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_泰国第20届变性皇后大赛开赛_手机网易网](news_泰国第20届变性皇后大赛开赛_手机网易网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[open_异装癖、残疾人：吕克·贝松的最新力作《狗神》泰裤辣！_-_网易公开课](open_异装癖、残疾人：吕克·贝松的最新力作《狗神》泰裤辣！_-_网易公开课.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[open_泰国人妖明明不会怀孕，为什么接待游客之前，还要偷偷吃避孕药？](open_泰国人妖明明不会怀孕，为什么接待游客之前，还要偷偷吃避孕药？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[tech_双性人_标签_网易出品_1](tech_双性人_标签_网易出品_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[tech_库克和小扎联手解决跨性别者上厕所问题_-_网易科技](tech_库克和小扎联手解决跨性别者上厕所问题_-_网易科技.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[tx3_誓以此针戳尽天下负心人-_《天下3》官方网站—国风幻想史诗世界](tx3_誓以此针戳尽天下负心人-_《天下3》官方网站—国风幻想史诗世界.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_11月3日（发布）河南郑州。65岁大爷退休后在郑州拍短剧。当过兵](www_11月3日（发布）河南郑州。65岁大爷退休后在郑州拍短剧。当过兵.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_11月3日（报道时间）江西吉安，男孩和女孩在幼儿园发生矛盾_-_网易](www_11月3日（报道时间）江西吉安，男孩和女孩在幼儿园发生矛盾_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_14岁女装大佬abbily因整容被黑，网友很是心痛：好好的脸就这么毁了](www_14岁女装大佬abbily因整容被黑，网友很是心痛：好好的脸就这么毁了.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_16岁跨性别女孩遭遇“性别扭转治疗”，性取向可以被“治愈”吗？_-_网易](www_16岁跨性别女孩遭遇“性别扭转治疗”，性取向可以被“治愈”吗？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_25岁男生披肩发穿裙子：我不是异装癖，只是想做自己_-_网易](www_25岁男生披肩发穿裙子：我不是异装癖，只是想做自己_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_45岁“变性人”河莉秀的十年婚姻：为“爱”付出的代价太大_-_网易](www_45岁“变性人”河莉秀的十年婚姻：为“爱”付出的代价太大_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_55岁男子变性整容为成“龙女”不惜割耳整鼻纹满鳞片_-_网易](www_55岁男子变性整容为成“龙女”不惜割耳整鼻纹满鳞片_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_1996年珍贵影像，金星刚做完变性手术，面对记者侃侃而谈！_网易视频](www_1996年珍贵影像，金星刚做完变性手术，面对记者侃侃而谈！_网易视频.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2004年，安徽男子果断变性，术后高调征婚，扬言不活出个样不回家](www_2004年，安徽男子果断变性，术后高调征婚，扬言不活出个样不回家.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2004年，安徽男子离婚后变性，术后高调征婚，扬言不活出样不回家](www_2004年，安徽男子离婚后变性，术后高调征婚，扬言不活出样不回家.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2005年背母上学的男孩，10年后为何变性为女，参加选美比赛？_-_网易](www_2005年背母上学的男孩，10年后为何变性为女，参加选美比赛？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2005年，耿兰俊不顾父母反对，做了国内首例“女变男”的手术_-_网易](www_2005年，耿兰俊不顾父母反对，做了国内首例“女变男”的手术_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2006年，辽宁50岁大爷变性成功，与妻子以姐妹相称，女儿叫她姑姑](www_2006年，辽宁50岁大爷变性成功，与妻子以姐妹相称，女儿叫她姑姑.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_2006年，辽宁50岁老汉做变性手术，妻子女儿都支持_-_网易](www_2006年，辽宁50岁老汉做变性手术，妻子女儿都支持_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_JK罗琳说跨性别女性是男人，被舆论围攻，甚至被哈利波特_](www_JK罗琳说跨性别女性是男人，被舆论围攻，甚至被哈利波特_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_LGBT击败了哈里斯_-_网易](www_LGBT击败了哈里斯_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“人妖”不能怀孕，为何还要长期服用避孕药物？真相令人心酸！_-_网易](www_“人妖”不能怀孕，为何还要长期服用避孕药物？真相令人心酸！_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“反串专业户”盖鸣晖，53岁仍未谈过恋爱，甚至是荧屏初吻都还在_-_网易](www_“反串专业户”盖鸣晖，53岁仍未谈过恋爱，甚至是荧屏初吻都还在_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“变性人”河莉秀：结婚10年后，老公跑了，身体垮了，后来怎样？_-_网易](www_“变性人”河莉秀：结婚10年后，老公跑了，身体垮了，后来怎样？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“易性癖”人士生存现状：渴望得到身份认定](www_“易性癖”人士生存现状：渴望得到身份认定.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_一个跨性别者的36年：完成了性别重置，拿到了男性身份证_-_网易](www_一个跨性别者的36年：完成了性别重置，拿到了男性身份证_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_一千美元安一对乃子，泰国的廉价变性手术吸引了多少老外？](www_一千美元安一对乃子，泰国的廉价变性手术吸引了多少老外？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_一文读懂性激素6项，附临床实战分析卵泡孕激素_-_网易](www_一文读懂性激素6项，附临床实战分析卵泡孕激素_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_一鼓掌就变性，岛国才敢拍的性转神剧_-_网易](www_一鼓掌就变性，岛国才敢拍的性转神剧_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_中国首位变性人张克莎：嫁富商18年，丈夫至死也没揭穿她的秘密](www_中国首位变性人张克莎：嫁富商18年，丈夫至死也没揭穿她的秘密.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_为何泰国人妖接待游客时，总会提前服用“避孕药”？看完心情复杂_-_网易](www_为何泰国人妖接待游客时，总会提前服用“避孕药”？看完心情复杂_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_为啥泰国人妖颜值都比变性人高？原因原来这么残忍_-_网易](www_为啥泰国人妖颜值都比变性人高？原因原来这么残忍_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘+异世界转生+政治家！泰国某轻小说引发日本网友关注_-_网易](www_伪娘+异世界转生+政治家！泰国某轻小说引发日本网友关注_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_俄罗斯禁止变性是怎么回事？_-_网易](www_俄罗斯禁止变性是怎么回事？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_做了变性手术后，女孩成为了一名男性特工，只为抓到负心男友_-_网易](www_做了变性手术后，女孩成为了一名男性特工，只为抓到负心男友_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_做完变性手术可以把身份证改成女吗？_-_网易](www_做完变性手术可以把身份证改成女吗？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_出生时是一对姐妹花，18年后蜕变成了帅气型男，网友：家人同意吗](www_出生时是一对姐妹花，18年后蜕变成了帅气型男，网友：家人同意吗.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_反串表演、伪娘、雌雄一体的区别伪娘反串娘炮小灿李玉刚_手机_](www_反串表演、伪娘、雌雄一体的区别伪娘反串娘炮小灿李玉刚_手机_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性人我们知道金老师这些名人里你又知道几个是变性的？_-_网易](www_变性人我们知道金老师这些名人里你又知道几个是变性的？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性人聚餐！网友：一群魑魅魍魉，解救中国2000万光棍！_网易视频](www_变性人聚餐！网友：一群魑魅魍魉，解救中国2000万光棍！_网易视频.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性从娃娃抓起？欧美的“性别教育”，让人细思极恐](www_变性从娃娃抓起？欧美的“性别教育”，让人细思极恐.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性美女写真系列——中国刘诗涵163_手机网易网](www_变性美女写真系列——中国刘诗涵163_手机网易网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_古代的人妖_-_网易](www_古代的人妖_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_四川变性人李二毛：17岁不顾劝阻变成女人，34岁为何说“后悔了”_-_网易](www_四川变性人李二毛：17岁不顾劝阻变成女人，34岁为何说“后悔了”_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_回顾变性人李二毛：17岁不顾劝阻变成女人，34岁为何说“后悔了”_-_网易](www_回顾变性人李二毛：17岁不顾劝阻变成女人，34岁为何说“后悔了”_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_回顾我国变性人雷晓晨：05年结婚，06年当“妈”，今丈夫疼女儿爱_-_网易](www_回顾我国变性人雷晓晨：05年结婚，06年当“妈”，今丈夫疼女儿爱_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_回顾：变性人“男变女”成功，05年结婚06年当妈，现在怎样了_-_网易](www_回顾：变性人“男变女”成功，05年结婚06年当妈，现在怎样了_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_回顾：浙江变性人雷晓晨05年结婚，06年当“妈妈”，如今过得怎样_-_网易](www_回顾：浙江变性人雷晓晨05年结婚，06年当“妈妈”，如今过得怎样_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_回顾：浙江首位“男变女”变性人结婚，后当“妈妈”，女儿今16岁_-_网易](www_回顾：浙江首位“男变女”变性人结婚，后当“妈妈”，女儿今16岁_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_学习了记者：TS是做了手术的跨性别者可能同时有和_-_网易](www_学习了记者：TS是做了手术的跨性别者可能同时有和_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_安徽变性人黄宁倩：曾以男儿娶妻，29岁手术后征婚，不打算回老家](www_安徽变性人黄宁倩：曾以男儿娶妻，29岁手术后征婚，不打算回老家.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_实拍泰国人妖变性手术全过程！真的很痛！163](www_实拍泰国人妖变性手术全过程！真的很痛！163.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_实践出真知，日本变性漫画家根据自身体验出版介绍男女生理不同的_](www_实践出真知，日本变性漫画家根据自身体验出版介绍男女生理不同的_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_徐冬冬新戏化身泰国人妖穿低胸装秀事业线吸睛_-_网易](www_徐冬冬新戏化身泰国人妖穿低胸装秀事业线吸睛_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_我也只想讨论音乐，无关身份制作人旋律电子音乐音乐_手机网易网](www_我也只想讨论音乐，无关身份制作人旋律电子音乐音乐_手机网易网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_抖爱撕，妹控，伪娘，这部深夜动画内容很小清新_-_网易](www_抖爱撕，妹控，伪娘，这部深夜动画内容很小清新_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视_-_网易](www_拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_揭秘变性手术全过程：一个男人想做女人，到底有多难？_-_网易](www_揭秘变性手术全过程：一个男人想做女人，到底有多难？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_最美变性人河莉秀：为爱甘愿做变性手术，婚后却被因揍老公被带走](www_最美变性人河莉秀：为爱甘愿做变性手术，婚后却被因揍老公被带走.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_每个异装癖患者，基本上都有一个恶趣味的妈妈同性恋_-_网易](www_每个异装癖患者，基本上都有一个恶趣味的妈妈同性恋_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_比女人还娇艳的泰国人妖，怎么解决需求看完明白了_-_网易](www_比女人还娇艳的泰国人妖，怎么解决需求看完明白了_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国“人妖”分三种，为赚钱故意“变性”？揭秘人妖背后真相_-_网易](www_泰国“人妖”分三种，为赚钱故意“变性”？揭秘人妖背后真相_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国人妖竟是这样上厕所的！看完你别笑，的确有点超乎想象_-_网易](www_泰国人妖竟是这样上厕所的！看完你别笑，的确有点超乎想象_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国最漂亮的人妖，不要说男人了，我一个女人看了都心动_-_网易](www_泰国最漂亮的人妖，不要说男人了，我一个女人看了都心动_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国最美人妖皇后，被中国富商娶回后，如今活成了女人样_-_网易](www_泰国最美人妖皇后，被中国富商娶回后，如今活成了女人样_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国最美变性人举办奢华婚礼，丈夫为富二代，两人从师兄弟变夫妻](www_泰国最美变性人举办奢华婚礼，丈夫为富二代，两人从师兄弟变夫妻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_浙江首位“男变女”变性人结婚，1年后当“妈妈”，女儿如今16岁_-_网易](www_浙江首位“男变女”变性人结婚，1年后当“妈妈”，女儿如今16岁_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_海吉拉斯：印度版人妖，在印度受尊敬2000年，为何如今人人喊打？](www_海吉拉斯：印度版人妖，在印度受尊敬2000年，为何如今人人喊打？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_涨健识：疯狂！人妖变性手术现场_-_网易](www_涨健识：疯狂！人妖变性手术现场_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_湖南一女子大学毕业后不久，被同县男子拘禁近5年遭多次强奸产女](www_湖南一女子大学毕业后不久，被同县男子拘禁近5年遭多次强奸产女.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_父亲为了给女儿报仇，要给男友做变性手术_-_网易](www_父亲为了给女儿报仇，要给男友做变性手术_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_特朗普承诺在美国禁止对未成年人进行变性手术_-_网易](www_特朗普承诺在美国禁止对未成年人进行变性手术_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_生恩不如养恩！金星20年前领养的三个孤儿，如今变成了这样_-_网易](www_生恩不如养恩！金星20年前领养的三个孤儿，如今变成了这样_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男子进行变性手术，而做完面部整容手术后，他又变成了什么样子？](www_男子进行变性手术，而做完面部整容手术后，他又变成了什么样子？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_盘点丨动漫中的男扮女装，沈剑心王七在榜，亮相惊艳_-_网易](www_盘点丨动漫中的男扮女装，沈剑心王七在榜，亮相惊艳_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_科技史上12月14日首例女变男变性手术_-_网易](www_科技史上12月14日首例女变男变性手术_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_被称为“十二神器”的名作《女装山脉》，12年后推出steam官中！_-_网易](www_被称为“十二神器”的名作《女装山脉》，12年后推出steam官中！_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_讨论男女平权、探索LGBTQ，性别研究专业出路在哪里？_-_网易](www_讨论男女平权、探索LGBTQ，性别研究专业出路在哪里？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别者与当当网劳动争议案_-_网易](www_跨性别者与当当网劳动争议案_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别者为争取平等权利的长期斗争简史_-_网易](www_跨性别者为争取平等权利的长期斗争简史_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别者的现实生活，这类题材电影注定走不进院线_-_网易](www_跨性别者的现实生活，这类题材电影注定走不进院线_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别者被辞退！3D动画演示男性变性手术全过程，看完还想做吗？](www_跨性别者被辞退！3D动画演示男性变性手术全过程，看完还想做吗？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_身为一名老爷们，喜欢穿女装，是不是有病的表现？_-_网易](www_身为一名老爷们，喜欢穿女装，是不是有病的表现？_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_这个19岁男孩，偷吃雌激素已经545天｜小南特稿_-_网易](www_这个19岁男孩，偷吃雌激素已经545天｜小南特稿_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_金星为健康放下执念，再次回归男性身份_-_网易](www_金星为健康放下执念，再次回归男性身份_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_金星前妻肯波琳怀孕时与金星离婚，后来怎样了_-_网易](www_金星前妻肯波琳怀孕时与金星离婚，后来怎样了_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_青岛一拾荒大爷，曾坚持16年男扮女装、扎辫子，背后故事令人心酸](www_青岛一拾荒大爷，曾坚持16年男扮女装、扎辫子，背后故事令人心酸.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_麻绳专挑细处断啊_纪录片_急诊室故事_苦难_生病_-_网易](www_麻绳专挑细处断啊_纪录片_急诊室故事_苦难_生病_-_网易.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
 </details>
 
 
