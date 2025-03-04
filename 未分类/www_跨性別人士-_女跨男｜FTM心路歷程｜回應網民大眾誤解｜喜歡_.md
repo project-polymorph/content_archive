@@ -22,3 +22,29 @@
 **观看次数**: 215K  
 **评论数**: 232
 <!-- tcd_original_link https://www.facebook.com/whizoolab/videos/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E5%A5%B3%E8%B7%A8%E7%94%B7ftm%E5%BF%83%E8%B7%AF%E6%AD%B7%E7%A8%8B%E5%9B%9E%E6%87%89%E7%B6%B2%E6%B0%91%E5%A4%A7%E7%9C%BE%E8%AA%A4%E8%A7%A3%E5%96%9C%E6%AD%A1%E7%94%B7%E6%88%96%E5%A5%B3%E8%B7%A8%E7%94%B7%E5%8F%AF%E4%BB%A5%E7%94%9F%E5%B0%8F%E5%AD%A9-%E7%99%BD%E6%88%BF%E7%B4%99%E4%B8%8A%E8%AB%87/5465679070145183/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_跨性別人士-_女跨男｜FTM心路歷程｜回應網民大眾誤解｜喜歡_.md                             |
+| Size            | 1971 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

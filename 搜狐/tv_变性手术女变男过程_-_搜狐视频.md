@@ -34,3 +34,29 @@ _扫码用手机继续看_
 
 ![扫码用手机观看](//photocdn.tv.sohu.com/img/20240619/pic_org_a68142ed-9824-4286-80fc-a561861decf7.avif)
 <!-- tcd_original_link https://tv.sohu.com/v/dXMvNjMyODY2MDAvNTQ0NzA5OTUuc2h0bWw=.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | tv_变性手术女变男过程_-_搜狐视频.md                             |
+| Size            | 1401 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

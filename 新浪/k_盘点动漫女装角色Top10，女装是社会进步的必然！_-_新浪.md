@@ -128,3 +128,29 @@
 
 那么，以上就是今天带来的女装大佬盘点了，不知道你最喜欢的是哪位角色呢？虽然写的多了一点但是尽可能的都把每位的特点都介绍清楚啦，其实很多动漫中男主都或多或少的穿过女装，不过只是较短的时间所以没有放在盘点内了，于是有上面没有提到的角色也欢迎补充，下次见！
 <!-- tcd_original_link https://k.sina.cn/article_6208338510_1720bba4e001001aw1.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | k_盘点动漫女装角色Top10，女装是社会进步的必然！_-_新浪.md                             |
+| Size            | 13515 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

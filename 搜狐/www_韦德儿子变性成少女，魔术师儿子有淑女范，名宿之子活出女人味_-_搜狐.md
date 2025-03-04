@@ -24,3 +24,29 @@ EJ酱小时候很胖，因为很多次和约翰逊在公众场合露面很多球
 
 NBA也就100来个名宿，有2个名宿之子选择做变性手术的比例很高了，或许扎雅韦德和EJ酱从小就生活在富裕家庭少年不知道愁滋味，所以才会大胆的改变性别让自己的人生更精彩。
 <!-- tcd_original_link https://www.sohu.com/a/531575148_120739668 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_韦德儿子变性成少女，魔术师儿子有淑女范，名宿之子活出女人味_-_搜狐.md                             |
+| Size            | 3880 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

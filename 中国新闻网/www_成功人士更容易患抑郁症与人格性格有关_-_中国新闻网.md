@@ -73,3 +73,29 @@
 - [“我很郁闷”成为口头禅 四成办公族有抑郁症状](http://www.chinanews.com.cn/jk/kong/news/2009/01-22/1538441.shtml)
 - [李孝利自曝曾患抑郁症：受抄袭和偷拍事件折磨](http://www.chinanews.com.cn/yl/ytcf/news/2009/01-20/1535614.shtml)
 <!-- tcd_original_link https://www.chinanews.com.cn/jk/xljk/news/2009/03-12/1599128.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_成功人士更容易患抑郁症与人格性格有关_-_中国新闻网.md                             |
+| Size            | 7424 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

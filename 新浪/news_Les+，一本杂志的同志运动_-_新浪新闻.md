@@ -89,3 +89,29 @@ Les+是从个人感情开始的杂志，到后来慢慢做成了同志运动的�
 
 Sam自己在做Les+的时候接触了更多的人、更多的事，视野更开阔，但是她也希望有更大的突破，想去国外学一些女性主义的理论知识，看看国外的经验是什么。这其实是很多同志组织里出现的特点。“同语”、Les+很多团体的志愿者，在接触过美国、欧洲一些同性恋组织后，自己出去留学。这对于杂志似乎是损失，但对于群体来讲，是另外一种希望。
 <!-- tcd_original_link http://news.sina.com.cn/s/sd/2011-05-20/151022500587_4.shtml?from=wap -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_Les+，一本杂志的同志运动_-_新浪新闻.md                             |
+| Size            | 13562 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

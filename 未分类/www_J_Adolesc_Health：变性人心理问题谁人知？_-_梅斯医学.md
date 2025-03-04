@@ -33,3 +33,29 @@ Olson博士说道：“我们的目标是让那些跨性别的孩子生下来并
 
 **版权声明**：本网站所有内容来源注明为“梅斯医学”或“MedSci原创”的文字、图片和音视频资料，版权均属于梅斯医学所有。非经授权，任何媒体、网站或个人不得转载，授权转载时须注明来源为“梅斯医学”。其它来源的文章系转载文章，或“梅斯号”自媒体发布的文章，仅系出于传递更多信息之目的，本站仅负责审核内容合规，其内容不代表本站立场，本站不负责内容的准确性和版权。如果存在侵权、或不希望被转载的媒体或个人可与我们联系，我们将立即进行删除处理。
 <!-- tcd_original_link https://www.medsci.cn/article/show_article.do?id=db455381944 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_J_Adolesc_Health：变性人心理问题谁人知？_-_梅斯医学.md                             |
+| Size            | 5184 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

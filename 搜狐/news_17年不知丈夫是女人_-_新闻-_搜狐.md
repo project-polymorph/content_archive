@@ -32,3 +32,29 @@
 
 为了保护那名14岁小女儿和那名18岁大孩子的身份，法庭要求“J先生”和C太太双方都必须保持匿名。法官称，C太太何时并且如何向她的两个孩子解释他们的出生背景是个高度敏感的问题。C太太如今已经再婚，她答应在向两名孩子解释他们的出生背景前，先接受精神病专家的咨询和建议。
 <!-- tcd_original_link http://news.sohu.com/20060517/n243278476.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_17年不知丈夫是女人_-_新闻-_搜狐.md                             |
+| Size            | 4561 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

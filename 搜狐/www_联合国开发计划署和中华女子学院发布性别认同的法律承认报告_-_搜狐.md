@@ -16,3 +16,29 @@ C先生（化名）是一位跨性别男性，也是最近贵州就业歧视案�
 
 ![](http://5b0988e595225.cdn.sohucs.com/images/20180808/b574afcfb9814f889fc1a2cbd84f9384.jpeg)《跨性别者性别认同的法律承认——中国相关法律和政策的评估报告》是联合国开发计划署和亚太跨性别网络联合发起的区域性项目的一个部分。这份区域性报告评估了孟加拉国、中国、印度、尼泊尔、巴基斯坦、菲律宾和泰国等国关于性别法律承认的法律、法规和政策。亚太跨性别网络在印度尼西亚和马来西亚进行了同样的研究。该报告还强调通过跨性别者社群的努力和倡导，提供新的平台以促进跨性别者的包容，及加强各部门之间的合作。该报告致力于全面改善跨性别者的生活和环境，并建立一个平等、包容、相互尊重、相互理解和多元化的社会。
 <!-- tcd_original_link https://www.sohu.com/a/245805181_431330 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_联合国开发计划署和中华女子学院发布性别认同的法律承认报告_-_搜狐.md                             |
+| Size            | 3875 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

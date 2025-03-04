@@ -12,7 +12,7 @@ search:
 标签: `生命故事`, `跨性别者`, `心理健康`, `性别转换`, `文化表现`, `医疗资源`, `多元性别`, `人妖文化`, `伪娘小说`
 
 
-总计 1713 篇内容
+总计 1971 篇内容
 
 
 
@@ -261,6 +261,14 @@ search:
 [news_人妖皇后_标签_网易出品](news_人妖皇后_标签_网易出品.md)<details><summary>查看摘要</summary>
 
 该文件名为《人妖皇后》，旨在探讨与泰国著名的“人妖皇后”妮莎相关的故事及其生活现状，内容包含她在泰国的成名经历、与北京富豪的婚姻以及生活中的转变。文章分析了妮莎的故事背后的社会文化现象，涉及她的个人经历、公众对跨性别者的接受度及法律和社会环境的影响。文件中引用了多篇相关报道及视频链接，讨论了关于婚姻、性别认同和社会偏见等多个主题，反映了跨性别者在婚恋关系中面临的挑战与复杂性。
+</details>
+
+
+
+
+[news_跨性别者_标签-_网易出品](news_跨性别者_标签-_网易出品.md)<details><summary>查看摘要</summary>
+
+本文档包含关于跨性别者的多篇新闻报道链接，反映了跨性别者在社交、法律和医疗等多个领域的现状。其中提到特朗普承诺禁止未成年人接受变性手术的消息，描绘了跨性别者在美国以及国际社会中所面临的挑战和争议。文件中列出的多个新闻标题触及了跨性别者在体育、法律、以及社会认同方面的各种讨论，例如女子游泳队呼吁禁止跨性别运动员参与女性体育活动，以及对跨性别者影响的深刻社会调查。此外，还有有关中国的跨性别者所面临的社会环境、文化认同等问题的反思与分析。文中展示的内容不仅涵盖了各类新闻，还涉及了关于跨性别者生存现状的真实记录和数据分析，是一个提供重要信息与观点的平台。
 </details>
 
 
@@ -13886,6 +13894,2062 @@ Yoshi Rinlada是2017年泰国蒂凡尼人妖大赛的冠军，以其甜美的外
 [zwfw-new_变更更正性别](zwfw-new_变更更正性别.md)<details><summary>查看摘要</summary>
 
 该文件详细记录了在湖南省邵阳市新邵县申请变更或更正性别登记的相关信息。文件中包含了申请事项的实施编码、咨询方式、监督投诉方式以及基本信息，如事项类型、办件类型、行使层级和实施机关，并指出此项服务不收费。受理条件说明了公民因变性手术等原因造成性别变化时的申请条件。同时，文件提供了详细的申请所需材料清单，包括书面申请、居民户口簿及更正性别登记凭证等，明确要求申请人现场提交纸质材料。此外，文件列出了办理地点、办理时间及办理流程，并附有相关法律依据，以指引申请者顺利完成申请手续。这份资料对于理解和推广变更性别的法律程序及实际操作具有重要参考价值。
+</details>
+
+
+
+
+[apps_彩蝶-CDTS变装交友17+_-_App_Store](apps_彩蝶-CDTS变装交友17+_-_App_Store.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[art_伦敦：格雷森·佩里陈列展_-_每日环球展览-_iCity](art_伦敦：格雷森·佩里陈列展_-_每日环球展览-_iCity.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[b_娱乐：野性鲜肉，吊打娱乐圈伪娘txt下载_全集下载_-_飞卢小说网](b_娱乐：野性鲜肉，吊打娱乐圈伪娘txt下载_全集下载_-_飞卢小说网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[baicaimanhua_白菜漫画-我们成了伪娘偶像-第09回-3D漫画_同人漫画_在线观看](baicaimanhua_白菜漫画-我们成了伪娘偶像-第09回-3D漫画_同人漫画_在线观看.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[baijiahao_我的杀手不可能是女装大佬！2018年新番动漫简评！_-_百度](baijiahao_我的杀手不可能是女装大佬！2018年新番动漫简评！_-_百度.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[baike_变性人和人妖有区别吗_-_亲子百科](baike_变性人和人妖有区别吗_-_亲子百科.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[baike_变性基因_百度百科](baike_变性基因_百度百科.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[baike_性别酷儿_百度百科](baike_性别酷儿_百度百科.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[baike_跨性别_百度百科](baike_跨性别_百度百科.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[bbs_请问各位认为自己会喜欢上雌雄皆可的人妖吗？_-_G&L_-_第2页-_新欧洲](bbs_请问各位认为自己会喜欢上雌雄皆可的人妖吗？_-_G&L_-_第2页-_新欧洲.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[bbs_青岛异装癖大喜哥爆红网络引争议_-_战法-_新欧洲](bbs_青岛异装癖大喜哥爆红网络引争议_-_战法-_新欧洲.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[big5_臺新竹縣男孩愛反串女性能歌善舞盼專業演出_圖__-_台灣網](big5_臺新竹縣男孩愛反串女性能歌善舞盼專業演出_圖__-_台灣網.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[bjgy_英国的反就业歧视法律制度-北京法院网](bjgy_英国的反就业歧视法律制度-北京法院网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[blog__转__小药娘常用糖的副作用，和可爱吧见到的几个可爱的xyn](blog__转__小药娘常用糖的副作用，和可爱吧见到的几个可爱的xyn.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[blog_泰国风情_4_看人妖秀-在水一方-万维博客](blog_泰国风情_4_看人妖秀-在水一方-万维博客.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[c36000_男的草女的_探索现代性别角色的模糊界限_-_草榴下载之家](c36000_男的草女的_探索现代性别角色的模糊界限_-_草榴下载之家.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[ccj_The_Chinese_Journal_of_Human_Sexuality_-_北京大学期刊网](ccj_The_Chinese_Journal_of_Human_Sexuality_-_北京大学期刊网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[ccj_变性人的发展历史及其现状_-_北京大学期刊网](ccj_变性人的发展历史及其现状_-_北京大学期刊网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[china_东莞街头现衣着暴露人妖表演_-_国内新闻](china_东莞街头现衣着暴露人妖表演_-_国内新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[china_男子变性后成网红现在想变回去_-_中国之声](china_男子变性后成网红现在想变回去_-_中国之声.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[chinaepi_跨性别女性HIV感染情况及其危险因素研究进展](chinaepi_跨性别女性HIV感染情况及其危险因素研究进展.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[chongqing_市新闻_用语易性癖_-_重庆-_BaoGaoSu.Com](chongqing_市新闻_用语易性癖_-_重庆-_BaoGaoSu.Com.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[club_药娘，鸡鸡也割。不是伪娘！_-_留园网](club_药娘，鸡鸡也割。不是伪娘！_-_留园网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[cn_我是谁，我爱谁？《丹麦女孩》：爱你让我成为自己_-_女人迷Womany](cn_我是谁，我爱谁？《丹麦女孩》：爱你让我成为自己_-_女人迷Womany.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[cn_调查：中国年轻人对性取向多样化态度更开放](cn_调查：中国年轻人对性取向多样化态度更开放.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[cn_跨性别者C先生（下）：海归女友的自白_-_纽约时报](cn_跨性别者C先生（下）：海归女友的自白_-_纽约时报.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[compling_易性癖»__cmn__-_Open_Multilingual_Wordnet_1.3_-_UPOL](compling_易性癖»__cmn__-_Open_Multilingual_Wordnet_1.3_-_UPOL.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[culture_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_文化-_人民网](culture_《云图》导演曾被曝有异装癖：西装下穿女式内衣_-_文化-_人民网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[cusp_「非性別二元嘅我哋係冇得揀」——_香港跨性別學生於大學校園的處境](cusp_「非性別二元嘅我哋係冇得揀」——_香港跨性別學生於大學校園的處境.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[depositphotos_异装癖——图库图片©_darknula__1695991](depositphotos_异装癖——图库图片©_darknula__1695991.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[depositphotos_跨性别Lgbtqi彩虹色贴纸矢量跨性别平等条纹标志女同性恋男同性恋双_](depositphotos_跨性别Lgbtqi彩虹色贴纸矢量跨性别平等条纹标志女同性恋男同性恋双_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[dingjinkun_变性人婚姻案：法律有漏洞_-_丁金坤的法律博客](dingjinkun_变性人婚姻案：法律有漏洞_-_丁金坤的法律博客.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[edi_补佳乐戊酸雌二醇片1mg21片_-_亮健康商城](edi_补佳乐戊酸雌二醇片1mg21片_-_亮健康商城.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[ent_好莱坞深陷“包容性危机”_-_中国日报网_-_文化频道](ent_好莱坞深陷“包容性危机”_-_中国日报网_-_文化频道.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[fanqienovel_穿越原神，被系统性转成少女_-_番茄小说](fanqienovel_穿越原神，被系统性转成少女_-_番茄小说.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[finance_“姐俩”出生多年方知自己男儿身不敢亮身份证](finance_“姐俩”出生多年方知自己男儿身不敢亮身份证.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[fizjoterapiapolska_与跨性别个体的物理治疗工作_-_Fizjoterapia_Polska](fizjoterapiapolska_与跨性别个体的物理治疗工作_-_Fizjoterapia_Polska.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[freewechat_【我写性别】电影中的“跨性别”元素_-_自由微信](freewechat_【我写性别】电影中的“跨性别”元素_-_自由微信.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[freewechat_女生居然也能体验“勃起”的感觉？变性手术全过程揭秘_-_自由微信](freewechat_女生居然也能体验“勃起”的感觉？变性手术全过程揭秘_-_自由微信.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[fxacg_【RPG汉化】性转幻想少女战记：TFFN！精修完整_..._-_飞雪ACG论坛](fxacg_【RPG汉化】性转幻想少女战记：TFFN！精修完整_..._-_飞雪ACG论坛.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[game_《原神》白术COS：性转还原_-_小米游戏中心](game_《原神》白术COS：性转还原_-_小米游戏中心.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[hotline_影響LGBTIQ+朋友的心理健康因素&可因應的行動策略](hotline_影響LGBTIQ+朋友的心理健康因素&可因應的行動策略.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[hznews_假冒高速交警“伪娘”网上设圈套_-_杭州网](hznews_假冒高速交警“伪娘”网上设圈套_-_杭州网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[ici_【报道】蒙特利尔唐人街酷儿文化节本月27日登场，梁浩翔](ici_【报道】蒙特利尔唐人街酷儿文化节本月27日登场，梁浩翔.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[item_变性女主播称隆胸失真爱直播痛哭欲变回男身_-_北京时间](item_变性女主播称隆胸失真爱直播痛哭欲变回男身_-_北京时间.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[item_变性成为世界潮流内地第一变性人竟不是金星_-_北京时间](item_变性成为世界潮流内地第一变性人竟不是金星_-_北京时间.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[jingji_武汉高校伪娘团要求严格：团员腿细脸俊_经济台_中国网络电视台](jingji_武汉高校伪娘团要求严格：团员腿细脸俊_经济台_中国网络电视台.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[jingyan_CD_TS_ZN是什么意思_-_百度经验](jingyan_CD_TS_ZN是什么意思_-_百度经验.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[join_暫緩實施「不需摘除生殖器官即可變更法定性別」之所有措施_](join_暫緩實施「不需摘除生殖器官即可變更法定性別」之所有措施_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[korea_变性女星河莉秀协议离婚前夫Micky郑目前双方都有新恋情_](korea_变性女星河莉秀协议离婚前夫Micky郑目前双方都有新恋情_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[lady_揭娱乐圈变性艺人金星娶过“娇妻”嫁过郎【18】](lady_揭娱乐圈变性艺人金星娶过“娇妻”嫁过郎【18】.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[lalatai_10部你不可錯過的跨性別電影看見跨性別者的美麗與哀愁_-_LALATAI](lalatai_10部你不可錯過的跨性別電影看見跨性別者的美麗與哀愁_-_LALATAI.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[language_波兰首位变性人当选议员_-_英语点津](language_波兰首位变性人当选议员_-_英语点津.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[lgbtfamiliesinfo_新加坡教育部試圖阻撓跨性別學生接受荷爾蒙治療_-_多元成家大補帖](lgbtfamiliesinfo_新加坡教育部試圖阻撓跨性別學生接受荷爾蒙治療_-_多元成家大補帖.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_Ts蒲诗诗_-_微博](m_Ts蒲诗诗_-_微博.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_“YES,_QUEER!”_2024年第25届首尔酷儿文化节即将拉开帷幕_1](m_“YES,_QUEER!”_2024年第25届首尔酷儿文化节即将拉开帷幕_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_《抖音》“药娘”是什么梗？_-_圈圈下载](m_《抖音》“药娘”是什么梗？_-_圈圈下载.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_上海开设国内首个跨性别儿童多学科门诊](m_上海开设国内首个跨性别儿童多学科门诊.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_为15岁少年做“变性手术”_实习医生涉故意伤害罪被批捕](m_为15岁少年做“变性手术”_实习医生涉故意伤害罪被批捕.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_人妖表演_-_微博](m_人妖表演_-_微博.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_今年18岁，大一学生，从小一直有性别焦虑_-_壹心理](m_今年18岁，大一学生，从小一直有性别焦虑_-_壹心理.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_全文_-_微博](m_全文_-_微博.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_发生在江南水乡的悬案牵扯出关于家人之间复杂的情感八角亭谜雾59_](m_发生在江南水乡的悬案牵扯出关于家人之间复杂的情感八角亭谜雾59_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_变性手术后要吃激素吗_-_有来医生](m_变性手术后要吃激素吗_-_有来医生.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_变性手术需要做什么准备_-_有来医生](m_变性手术需要做什么准备_-_有来医生.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_变装伪娘安卓下载v1.0.1-圈圈下载](m_变装伪娘安卓下载v1.0.1-圈圈下载.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_奇案解密︱重庆男孩穿女泳衣红裙吊死屋梁，死于茅山邪术？](m_奇案解密︱重庆男孩穿女泳衣红裙吊死屋梁，死于茅山邪术？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_女体化性转小说_-_喜马拉雅](m_女体化性转小说_-_喜马拉雅.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_娘娘腔](m_娘娘腔.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_异装症是什么病](m_异装症是什么病.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_异装癖：男子喜欢穿女装是什么心理_-_525心理网](m_异装癖：男子喜欢穿女装是什么心理_-_525心理网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_性别认同障碍的人？](m_性别认同障碍的人？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_性转动漫邪恶帝性别转换_男主被强制做变性手术的漫画_1](m_性转动漫邪恶帝性别转换_男主被强制做变性手术的漫画_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_揭秘变性人的另类生活_组图__-_海口网](m_揭秘变性人的另类生活_组图__-_海口网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_旅游-150318-实拍泰国“人妖”变性手术全过程](m_旅游-150318-实拍泰国“人妖”变性手术全过程.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_最新更新漫画-_优酷漫画](m_最新更新漫画-_优酷漫画.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_此人是中国第一个变性人，父亲是位将军，婚后丈夫竟不知他男儿身](m_此人是中国第一个变性人，父亲是位将军，婚后丈夫竟不知他男儿身.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_没有在大陆上映的电影_每日推荐电影_跨性别者_电影解说_电影_7块](m_没有在大陆上映的电影_每日推荐电影_跨性别者_电影解说_电影_7块.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_泰国曼谷哪里看人妖泰国哪里看人妖_-_深圳本地宝](m_泰国曼谷哪里看人妖泰国哪里看人妖_-_深圳本地宝.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_泰国最美“人妖皇后”，八年前嫁给中国富商，如今过得怎么样？](m_泰国最美“人妖皇后”，八年前嫁给中国富商，如今过得怎么样？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_泰国最美人妖：娇艳欲滴令人难以把持_-_国家旅游地理](m_泰国最美人妖：娇艳欲滴令人难以把持_-_国家旅游地理.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_炮轰「娘化」时，大家到底在炮轰什么？_-_36氪](m_炮轰「娘化」时，大家到底在炮轰什么？_-_36氪.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_盘点那些画女硬说男的动漫番剧_-_AcFun手机版](m_盘点那些画女硬说男的动漫番剧_-_AcFun手机版.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_第08话-不良少年成了伪娘的奴隶-_🌈️包子漫畫](m_第08话-不良少年成了伪娘的奴隶-_🌈️包子漫畫.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_系统傍身原始森林开超市客人疯抢_-_起点中文](m_系统傍身原始森林开超市客人疯抢_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_续发人妖照！！！【29楼开始有更新】,捕光捉影,爱表族论坛-_移动爱_](m_续发人妖照！！！【29楼开始有更新】,捕光捉影,爱表族论坛-_移动爱_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_美丽的泰国“人妖”，到晚年后怎样生活？看完真心疼_-_爱奇艺](m_美丽的泰国“人妖”，到晚年后怎样生活？看完真心疼_-_爱奇艺.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_药娘_-_微博](m_药娘_-_微博.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_请推荐一些好看的中短篇变装（CDTS）小说，你知道吗？帮个忙吧！](m_请推荐一些好看的中短篇变装（CDTS）小说，你知道吗？帮个忙吧！.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_鞍山cdts_-_微博](m_鞍山cdts_-_微博.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_韩国首位变性军人死于家中：因变性被强制退伍韩军方哀悼](m_韩国首位变性军人死于家中：因变性被强制退伍韩军方哀悼.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[m_高校回应男生扮女装进女澡堂偷拍_-_微博](m_高校回应男生扮女装进女澡堂偷拍_-_微博.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[magazine_三个LGBT的故事_-_Caixin](magazine_三个LGBT的故事_-_Caixin.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[mobile_微博精选on_X_2024年巴黎奥运会上，公开承认自己是LGBTIQA+的_](mobile_微博精选on_X_2024年巴黎奥运会上，公开承认自己是LGBTIQA+的_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[mohubackup_如何评价知乎「MtF」「药娘」等词成为敏感词？_-_膜乎](mohubackup_如何评价知乎「MtF」「药娘」等词成为敏感词？_-_膜乎.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[money_跨性別遊行首度移師228公園2500人上街發聲_熱門話題_-_經濟日報](money_跨性別遊行首度移師228公園2500人上街發聲_熱門話題_-_經濟日報.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news__组图_走进泰国人妖的畸形世界](news__组图_走进泰国人妖的畸形世界.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_做了40多年男人的他竟是双性人余生他想做个女人_-_中国青年网](news_做了40多年男人的他竟是双性人余生他想做个女人_-_中国青年网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_北京72岁老汉做变性手术与妻子姐妹相称_图_](news_北京72岁老汉做变性手术与妻子姐妹相称_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_图揭泰国最美人妖私照长腿V脸蛇腰_组图__-_央广网](news_图揭泰国最美人妖私照长腿V脸蛇腰_组图__-_央广网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_揭秘：变性手术过程什么样_-_新闻](news_揭秘：变性手术过程什么样_-_新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_沈阳一酒吧严重违规演出艳舞人妖表演色情节目_-_新闻频道——北方网](news_沈阳一酒吧严重违规演出艳舞人妖表演色情节目_-_新闻频道——北方网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_泰国2017变性皇后出炉17岁通过手术变美女_-_金羊网](news_泰国2017变性皇后出炉17岁通过手术变美女_-_金羊网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_淮北师大称警方已介入男生扮女装进女浴室引发争议_-_中华网](news_淮北师大称警方已介入男生扮女装进女浴室引发争议_-_中华网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_特朗普签署备忘录禁止变性人参军_-_新闻-_中国网](news_特朗普签署备忘录禁止变性人参军_-_新闻-_中国网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_科学家关注性别转变给运动表现带来的改变_-_科学网](news_科学家关注性别转变给运动表现带来的改变_-_科学网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_變性怪聞八旬老翁變老太太│TVBS新聞網](news_變性怪聞八旬老翁變老太太│TVBS新聞網.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_黑客帝国两导演先后变性十多年从兄弟变姐妹](news_黑客帝国两导演先后变性十多年从兄弟变姐妹.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[opinion_鲁国平：道德模范变性，私生活和道德无关](opinion_鲁国平：道德模范变性，私生活和道德无关.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[picwish_【最新】おすすめの女性化・男性化できる性転換アプリ_-_PicWish](picwish_【最新】おすすめの女性化・男性化できる性転換アプリ_-_PicWish.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[podcasts_E410.「人妖」李二毛的一生–故事FM_-_Apple_Podcasts](podcasts_E410.「人妖」李二毛的一生–故事FM_-_Apple_Podcasts.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[podcasts_在28岁成为女人——一位中国跨性别名人的故事（Be_-_Apple_Podcasts](podcasts_在28岁成为女人——一位中国跨性别名人的故事（Be_-_Apple_Podcasts.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[politics_男子变性后为财利用色相行骗社交网络上“钓鱼”_-_时政-_人民网](politics_男子变性后为财利用色相行骗社交网络上“钓鱼”_-_时政-_人民网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[prologue_Autogynephilia_自我女性恋：跨性别的幽灵](prologue_Autogynephilia_自我女性恋：跨性别的幽灵.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[q_变装小说金玉良缘](q_变装小说金玉良缘.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[qmfc_今天也是女装大佬](qmfc_今天也是女装大佬.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[rdbk1_孩子的性发育和性教育_-_中国人民大学复印报刊资料](rdbk1_孩子的性发育和性教育_-_中国人民大学复印报刊资料.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[review_泰男子娶变性美女，不止是谈爱_-_紫金e评-_中国江苏网](review_泰男子娶变性美女，不止是谈爱_-_紫金e评-_中国江苏网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[rs_Klinefelter综合征伴发易性癖一例报告](rs_Klinefelter综合征伴发易性癖一例报告.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[salamander_男主是雌雄同体还怀孕的小说_男主是雌雄同体且能怀孕的小说：探索_](salamander_男主是雌雄同体还怀孕的小说_男主是雌雄同体且能怀孕的小说：探索_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[sichuan_给15岁少年做变性手术成都实习医生获刑赔偿65万_-_四川新闻](sichuan_给15岁少年做变性手术成都实习医生获刑赔偿65万_-_四川新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[today_還記得最美變性人河莉秀嗎？_近照「面目全非」認不出_中時新聞網](today_還記得最美變性人河莉秀嗎？_近照「面目全非」認不出_中時新聞網.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[transgender_跨性別生命故事特輯](transgender_跨性別生命故事特輯.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[tv_《现场》_20200919_跨性别者与当当网劳动争议案_-_CCTV节目官网](tv_《现场》_20200919_跨性别者与当当网劳动争议案_-_CCTV节目官网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[tw_跨性別是什麼？_跨性別者的難處有哪些？我的孩子是跨性別者](tw_跨性別是什麼？_跨性別者的難處有哪些？我的孩子是跨性別者.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[twitter_Saida_El_Alloumi_on_X__伊朗的同性恋和变性人Maryam_，他1950_](twitter_Saida_El_Alloumi_on_X__伊朗的同性恋和变性人Maryam_，他1950_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[twitter_艾森Essen_on_X_中国在雌激素、孕激素、孕酮和睾酮等产品的出口_](twitter_艾森Essen_on_X_中国在雌激素、孕激素、孕酮和睾酮等产品的出口_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[vip_“亚洲首位变性美女记者”陈瑜现身苏州_-_人民图片](vip_“亚洲首位变性美女记者”陈瑜现身苏州_-_人民图片.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[vocus_我想跟你說說話】_難以「跨」過的那道坎—跨性別與女性權益間的兩難](vocus_我想跟你說說話】_難以「跨」過的那道坎—跨性別與女性權益間的兩難.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[w_为什么要起和自己性别不附的ID_-_休闲灌水](w_为什么要起和自己性别不附的ID_-_休闲灌水.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[wap_他还是她？两性畸形患者追寻真我的34年_-_羊城晚报](wap_他还是她？两性畸形患者追寻真我的34年_-_羊城晚报.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[wapbaike_豆瓣8.2，话题禁忌，真人真事，一部让人生理不适的好片子_百科TA说](wapbaike_豆瓣8.2，话题禁忌，真人真事，一部让人生理不适的好片子_百科TA说.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[wishclinic_女性減胸手術-_跨性別手術](wishclinic_女性減胸手術-_跨性別手術.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[world_比利时变性人不堪忍受手术失败选择安乐死-_中文国际](world_比利时变性人不堪忍受手术失败选择安乐死-_中文国际.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_02醉·电影：【cult】妖里妖气异装癖-洛基恐怖秀_-_Bilibili](www_02醉·电影：【cult】妖里妖气异装癖-洛基恐怖秀_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_4_Tips：How_to_turn_a_MALE_to_FEMALE_-_YouTube](www_4_Tips：How_to_turn_a_MALE_to_FEMALE_-_YouTube.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_1996年刚完成变性手术的金星老师珍贵影像_-_Bilibili](www_1996年刚完成变性手术的金星老师珍贵影像_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www__93_【翻頁遊戲】魔武少女序章_保護級短篇（？）_-_厨月dola@接受_](www__93_【翻頁遊戲】魔武少女序章_保護級短篇（？）_-_厨月dola@接受_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www__CD__伪娘_狗奴_字母圈_女装子–_@tochibaddog-blog_on_Tumblr](www__CD__伪娘_狗奴_字母圈_女装子–_@tochibaddog-blog_on_Tumblr.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www__伪娘の小説・SS一覧_-_pixiv](www__伪娘の小説・SS一覧_-_pixiv.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www__性别心理学-壹心理](www__性别心理学-壹心理.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www__概述_一、历史_-_天山医学院](www__概述_一、历史_-_天山医学院.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www__转载_你未必都见过的“男扮女装”_-_Jingc163_-_博客园](www__转载_你未必都见过的“男扮女装”_-_Jingc163_-_博客园.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_ai_人妖1994年，我退伍到广州打工，崎岖时，遇到昔日战友收容了我](www_ai_人妖1994年，我退伍到广州打工，崎岖时，遇到昔日战友收容了我.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_CDM__CDTS__cd伪娘_cd偽娘_TSCD__人妖_伪娘_伪街_伪娘の日常_](www_CDM__CDTS__cd伪娘_cd偽娘_TSCD__人妖_伪娘_伪街_伪娘の日常_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_Diversity異樣-_首先让我们来看一下，为什么那么少跨性别者能够完成_](www_Diversity異樣-_首先让我们来看一下，为什么那么少跨性别者能够完成_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_J_Adolesc_Health：变性人心理问题谁人知？_-_梅斯医学](www_J_Adolesc_Health：变性人心理问题谁人知？_-_梅斯医学.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_shelly_;__4_CDTSTVTRANS_only!_-_Flickr](www_shelly_;__4_CDTSTVTRANS_only!_-_Flickr.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_TSCD伪娘前列腺美妙境界释放合集，永久链接，双层解压，无中字](www_TSCD伪娘前列腺美妙境界释放合集，永久链接，双层解压，无中字.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_​什么是伪娘，cd,TS分别是什么意思伪娘？_-_世界志](www_​什么是伪娘，cd,TS分别是什么意思伪娘？_-_世界志.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_“多想让二次元的风，吹进我灰暗的人生”_网络游戏热门视频_-_Bilibili](www_“多想让二次元的风，吹进我灰暗的人生”_网络游戏热门视频_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《丹麦女孩》之妻笔下的异装癖老公（组图）_-_人民美术网](www_《丹麦女孩》之妻笔下的异装癖老公（组图）_-_人民美术网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《听不到的心声：香港年长同志》_-_连系各方](www_《听不到的心声：香港年长同志》_-_连系各方.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《女装大佬今天不出租》牧七柚_晋江文学城_【原创小说](www_《女装大佬今天不出租》牧七柚_晋江文学城_【原创小说.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《姿态》：一部拍给白人看的黑人跨性别主题美剧_-_界面新闻](www_《姿态》：一部拍给白人看的黑人跨性别主题美剧_-_界面新闻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_《鲁保罗变装皇后秀》__Netflix_官方网站](www_《鲁保罗变装皇后秀》__Netflix_官方网站.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_『動漫情報』_TV動畫《前輩是偽娘_先輩はおとこのこ_》第1彈預告片_](www_『動漫情報』_TV動畫《前輩是偽娘_先輩はおとこのこ_》第1彈預告片_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【人物】访谈_跨性别者在中国稿源：南方人物周刊..._-_Beijing_LGBT_](www_【人物】访谈_跨性别者在中国稿源：南方人物周刊..._-_Beijing_LGBT_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【假】美国变性手术增加13倍，长大后后悔已无法逆转？](www_【假】美国变性手术增加13倍，长大后后悔已无法逆转？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【格局打开】TSF_性转换_作品背后的底层逻辑_-_Stage1st](www_【格局打开】TSF_性转换_作品背后的底层逻辑_-_Stage1st.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【無料】女性化アプリおすすめ5選！性転換加工する方法も紹介_](www_【無料】女性化アプリおすすめ5選！性転換加工する方法も紹介_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【补番推荐】男主变身成美少女后就会获得特别强大的力量_-_Bilibili](www_【补番推荐】男主变身成美少女后就会获得特别强大的力量_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【跨性别故事】05后：一位低龄跨性别者的想法与自述_-_Bilibili](www_【跨性别故事】05后：一位低龄跨性别者的想法与自述_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【酷兒出版】《明心見性：香港跨性別青年文集》—_打破媒體呈現套路](www_【酷兒出版】《明心見性：香港跨性別青年文集》—_打破媒體呈現套路.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_【韩国整形】隆胸整形专家分析：变性人隆胸与一般隆胸整形的区别](www_【韩国整形】隆胸整形专家分析：变性人隆胸与一般隆胸整形的区别.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_下坠小说免费下载_-_起点中文](www_下坠小说免费下载_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_中国男娘的第一个视频（The_first_video_of_a_Chinese_boy）_-_YouTube](www_中国男娘的第一个视频（The_first_video_of_a_Chinese_boy）_-_YouTube.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_中纪委公开受理信访举报现场用意何在？-时政频道](www_中纪委公开受理信访举报现场用意何在？-时政频道.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_人妖是吃什么药物丰胸-_美体丰胸精选_-_秀美咖](www_人妖是吃什么药物丰胸-_美体丰胸精选_-_秀美咖.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_今日头条新闻教师扮女装进女寝偷窥患有异装癖网上购买女性服装](www_今日头条新闻教师扮女装进女寝偷窥患有异装癖网上购买女性服装.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘_1](www_伪娘_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘动漫大全_-_蜂鸟网](www_伪娘动漫大全_-_蜂鸟网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘在英语中的几种译法](www_伪娘在英语中的几种译法.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘小说合集.rar_-_Tumbex](www_伪娘小说合集.rar_-_Tumbex.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_伪娘系轻小说479人在线阅读_-_起点中文](www_伪娘系轻小说479人在线阅读_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_你這個娘炮：校園與同儕如何建構青少年的男子氣概？拆解陽剛氣質_](www_你這個娘炮：校園與同儕如何建構青少年的男子氣概？拆解陽剛氣質_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_侏儒与变性人的爱情_生活时报_-_光明网](www_侏儒与变性人的爱情_生活时报_-_光明网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_假两性畸形_常见疾病_-_中国公众健康网--](www_假两性畸形_常见疾病_-_中国公众健康网--.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_內地「娘炮」小鮮肉、男網紅受追捧？_官媒：畸形審美須遏制_-_香港01](www_內地「娘炮」小鮮肉、男網紅受追捧？_官媒：畸形審美須遏制_-_香港01.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_动漫50名女装大佬_-_起点中文](www_动漫50名女装大佬_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_劳拉·简·格雷斯（Laura_Jane_Grace）早期作品中的变性人身份表达](www_劳拉·简·格雷斯（Laura_Jane_Grace）早期作品中的变性人身份表达.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_北医三院整形科：2024年隆鼻整形案例与医院信息分享_-_悦整型](www_北医三院整形科：2024年隆鼻整形案例与医院信息分享_-_悦整型.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_北医三院程序和罗浩谁最牛_-_起点中文](www_北医三院程序和罗浩谁最牛_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_华盛顿新开一家同性、双性及变性无家可归者收容所_-_YouTube](www_华盛顿新开一家同性、双性及变性无家可归者收容所_-_YouTube.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_博客來-同志與跨性別研究](www_博客來-同志與跨性別研究.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性人如何隆胸](www_变性人如何隆胸.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性人小说-起点中文网手机端](www_变性人小说-起点中文网手机端.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性手术介绍](www_变性手术介绍.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性男子生下女儿盘点变性人背后的悲与喜（组图）-新华网](www_变性男子生下女儿盘点变性人背后的悲与喜（组图）-新华网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变性青少年的恋爱关系：定性研究_-_X-MOL](www_变性青少年的恋爱关系：定性研究_-_X-MOL.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变装变性小说最新章节目录_-_起点中文](www_变装变性小说最新章节目录_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_变装小说人妖化妆_-_起点中文](www_变装小说人妖化妆_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_古巴男同性恋者迎娶变性妇女-_BBC_News_中文](www_古巴男同性恋者迎娶变性妇女-_BBC_News_中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_史记开讲-_《娘炮中的娘炮》_我从来没想到，一篇文章会引起这么大的_](www_史记开讲-_《娘炮中的娘炮》_我从来没想到，一篇文章会引起这么大的_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_喜欢男娘的是基佬吗茶馆南+_South_Plus_-_powered_by_Pu!mdHd](www_喜欢男娘的是基佬吗茶馆南+_South_Plus_-_powered_by_Pu!mdHd.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_奥运性别风波解构：为何台湾林郁婷等女拳手接连被质疑是男性？_-_BBC](www_奥运性别风波解构：为何台湾林郁婷等女拳手接连被质疑是男性？_-_BBC.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_女人来自金星2恋爱篇txt_-_起点中文网手机端](www_女人来自金星2恋爱篇txt_-_起点中文网手机端.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_女装大佬是什么梗-_哔哩哔哩_-_Bilibili](www_女装大佬是什么梗-_哔哩哔哩_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_小说《人妖神缘》20_哔哩哔哩_-_BiliBili](www_小说《人妖神缘》20_哔哩哔哩_-_BiliBili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_广西网红变性整容案例最新_-_起点中文](www_广西网红变性整容案例最新_-_起点中文.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_建議大專校院學籍系統加註學生自我認同性別欄位_-_性別平等教育](www_建議大專校院學籍系統加註學生自我認同性別欄位_-_性別平等教育.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_张国荣作品中的性别探索，保守下的自由越界_重播RePop_vol.14](www_张国荣作品中的性别探索，保守下的自由越界_重播RePop_vol.14.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_当年娶了“泰国人妖”当妻子的中国富豪，现在过得怎么样？_-_YouTube](www_当年娶了“泰国人妖”当妻子的中国富豪，现在过得怎么样？_-_YouTube.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_性別公佈欄_-_國家海洋研究院](www_性別公佈欄_-_國家海洋研究院.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_性别二元论靠谱吗？_哔哩哔哩_-_Bilibili](www_性别二元论靠谱吗？_哔哩哔哩_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_性别变更、更正_-_郎溪县人民政府](www_性别变更、更正_-_郎溪县人民政府.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_性别认同障碍？那些跨不过性别的人_哔哩哔哩_-_Bilibili](www_性别认同障碍？那些跨不过性别的人_哔哩哔哩_-_Bilibili.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_性别认知障碍要治疗吗性别认知障碍的疗法介绍-京东健康_-_JD.com](www_性别认知障碍要治疗吗性别认知障碍的疗法介绍-京东健康_-_JD.com.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_性少数人群友善心理咨询师培训_北京站_-_中国发展简报](www_性少数人群友善心理咨询师培训_北京站_-_中国发展简报.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_恩利，你第一个想法也是：“他很爱穿女装”吗？_大部分的我们因为受到_](www_恩利，你第一个想法也是：“他很爱穿女装”吗？_大部分的我们因为受到_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_感受一下什么叫变性手术，看完就两个字：好疼_-_观察者](www_感受一下什么叫变性手术，看完就两个字：好疼_-_观察者.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_我在日本当牛郎、他在澳洲被袋鼠打肿…”留子圈36个狗血经历（组图）](www_我在日本当牛郎、他在澳洲被袋鼠打肿…”留子圈36个狗血经历（组图）.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_我院儿科发现一例罕见两性畸形患儿_-_上海市中西医结合医院](www_我院儿科发现一例罕见两性畸形患儿_-_上海市中西医结合医院.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_挽回名声！霍华德再谈变性人事件：我不是同性恋](www_挽回名声！霍华德再谈变性人事件：我不是同性恋.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_揭秘易装癖男士的疯狂夜生活盘点令人震惊的怪癖_-_China_Daily](www_揭秘易装癖男士的疯狂夜生活盘点令人震惊的怪癖_-_China_Daily.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_改变性别_自闭症_Jenn_Smith_-_对未成年人施用变性激素是犯罪](www_改变性别_自闭症_Jenn_Smith_-_对未成年人施用变性激素是犯罪.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_新加坡一名丈夫变性政府宣布这段婚姻无效_-_新足迹](www_新加坡一名丈夫变性政府宣布这段婚姻无效_-_新足迹.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_新西兰的“性别酷儿”：这个世界难道是非黑即白的吗？_-_中文先驱报](www_新西兰的“性别酷儿”：这个世界难道是非黑即白的吗？_-_中文先驱报.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_日本一个女装大佬被朋友发现了。_-_涨姿势](www_日本一个女装大佬被朋友发现了。_-_涨姿势.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_曼泰·提欧的虚拟女友如何帮助解释跨性别主义_-_福音联盟](www_曼泰·提欧的虚拟女友如何帮助解释跨性别主义_-_福音联盟.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_民权组织请求得州上诉法院下令禁止调查跨性别者家庭](www_民权组织请求得州上诉法院下令禁止调查跨性别者家庭.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_求伪娘小薰xiaoxun视频合集询问&求物南+_South_Plus](www_求伪娘小薰xiaoxun视频合集询问&求物南+_South_Plus.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_沐楹商贸-仙女楼变装家园](www_沐楹商贸-仙女楼变装家园.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国“变性女性”生存延续的地域性基础](www_泰国“变性女性”生存延续的地域性基础.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_泰国立法规定变性手术最低年龄_-_China_Daily](www_泰国立法规定变性手术最低年龄_-_China_Daily.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_流变性相关资讯-临床研究进展，文献-MedSci.cn_-_梅斯医学](www_流变性相关资讯-临床研究进展，文献-MedSci.cn_-_梅斯医学.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_涉办集会挺跨性别群体隆警扣8人协助调查【2023.07.31_八度空间_](www_涉办集会挺跨性别群体隆警扣8人协助调查【2023.07.31_八度空间_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_漓漓婚纱照_-_uu看书](www_漓漓婚纱照_-_uu看书.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_潘釗彤Chiutung_-_《破繭》__雌雄同歌：跨性別X_流行音樂2.0](www_潘釗彤Chiutung_-_《破繭》__雌雄同歌：跨性別X_流行音樂2.0.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男同志的一道好菜，JRPG手机游戏《幻想男友》发起英文版众筹_-_触乐](www_男同志的一道好菜，JRPG手机游戏《幻想男友》发起英文版众筹_-_触乐.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男娘翻车新笔趣阁-哪本小说的主角有傅知？_其桉__-_新文网](www_男娘翻车新笔趣阁-哪本小说的主角有傅知？_其桉__-_新文网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男孩子穿粉色裙子去面试工作，伪娘也可以很自信_-_YouTube](www_男孩子穿粉色裙子去面试工作，伪娘也可以很自信_-_YouTube.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_男變女性別重置手術_-_華藝線上圖書館](www_男變女性別重置手術_-_華藝線上圖書館.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_當靈魂與身體終於契合...然後呢？︱台灣跨性別短片《吾家有男初長成_](www_當靈魂與身體終於契合...然後呢？︱台灣跨性別短片《吾家有男初長成_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_第一部“变性人”题材的华语片，拿奖到手软-_豆瓣电影_-_崇真艺客](www_第一部“变性人”题材的华语片，拿奖到手软-_豆瓣电影_-_崇真艺客.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_第三百九十七章认清现实后关系反而变好_声优之途_-_笔趣阁](www_第三百九十七章认清现实后关系反而变好_声优之途_-_笔趣阁.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_美国11州诉奥巴马政府滥用权力发布跨性别学生如厕令](www_美国11州诉奥巴马政府滥用权力发布跨性别学生如厕令.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音](www_舆论压力下新浪不再清除微博同性恋内容_-_美国之音.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_英国六旬老头做变性手术交上70岁新男友_图_](www_英国六旬老头做变性手术交上70岁新男友_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_荒野行动：盘点女装大佬最爱穿的时装，真正的女玩家才不这样穿！](www_荒野行动：盘点女装大佬最爱穿的时装，真正的女玩家才不这样穿！.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_药娘变化记录日记_1](www_药娘变化记录日记_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_西蒙人妖秀-_普吉最佳歌舞表演_-_Simon_Cabaret_Phuket](www_西蒙人妖秀-_普吉最佳歌舞表演_-_Simon_Cabaret_Phuket.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_誰沒被霸凌過？跨性別造型師「超強心態」拒標籤曝出櫃現場「1句話_](www_誰沒被霸凌過？跨性別造型師「超強心態」拒標籤曝出櫃現場「1句話_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_變性舞蹈家拿彩虹旗遭檢舉中國4城市演出全泡湯－民視新聞_-_YouTube](www_變性舞蹈家拿彩虹旗遭檢舉中國4城市演出全泡湯－民視新聞_-_YouTube.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_讲辞-_平等机会委员会](www_讲辞-_平等机会委员会.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性別人士-_女跨男｜FTM心路歷程｜回應網民大眾誤解｜喜歡_](www_跨性別人士-_女跨男｜FTM心路歷程｜回應網民大眾誤解｜喜歡_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别和性别多样化的青年在学校抵制顺从性_-_X-MOL](www_跨性别和性别多样化的青年在学校抵制顺从性_-_X-MOL.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_跨性别运动员乔安娜·哈珀：“我是跨性别选手，也想保障女子体育运动”](www_跨性别运动员乔安娜·哈珀：“我是跨性别选手，也想保障女子体育运动”.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_鉴证实录3男子去日本做了变性手术，变身性感美女回来报仇_-_Facebook](www_鉴证实录3男子去日本做了变性手术，变身性感美女回来报仇_-_Facebook.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_韩国大法院首次正式允许变性人变更户籍性别_-_生物行](www_韩国大法院首次正式允许变性人变更户籍性别_-_生物行.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_飞雷刀第14话女装大佬COLAMANGA_1](www_飞雷刀第14话女装大佬COLAMANGA_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[www_高考状元扮伪娘诈骗一审宣判获刑六年_-_中国法院网](www_高考状元扮伪娘诈骗一审宣判获刑六年_-_中国法院网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[x_兔毛鱼on_X_小药娘情侣如何做srs手术](x_兔毛鱼on_X_小药娘情侣如何做srs手术.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[xdfnjd_“背母求学”道德模范变性之路：活成最美好的样子](xdfnjd_“背母求学”道德模范变性之路：活成最美好的样子.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[zhidao_有男人外表，却有女人子宫，我想做变性手术，大概_-_百度知道](zhidao_有男人外表，却有女人子宫，我想做变性手术，大概_-_百度知道.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[zhs_美墨两国对跨性别者同样的无知：墨西哥跨性别者向美国寻求庇护的_](zhs_美墨两国对跨性别者同样的无知：墨西哥跨性别者向美国寻求庇护的_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[zhu_地平线系列：跨性别者-_纪录片_电影_-_幸福影院-华人影视网站](zhu_地平线系列：跨性别者-_纪录片_电影_-_幸福影院-华人影视网站.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
 </details>
 
 

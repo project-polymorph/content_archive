@@ -38,3 +38,29 @@
 
 标签：[变性](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%8F%98%E6%80%A7) [非法行医罪](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%9D%9E%E6%B3%95%E8%A1%8C%E5%8C%BB%E7%BD%AA) [睾丸割除](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%9D%BE%E4%B8%B8%E5%89%B2%E9%99%A4) [上海浦东](http://search.ifeng.com/sofeng/search.action?c=1&q=%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C)
 <!-- tcd_original_link https://news.ifeng.com/a/20160725/49639782_0.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md                             |
+| Size            | 4819 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

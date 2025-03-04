@@ -1,0 +1,54 @@
+# 山东准变性人来宁求手术
+
+![图片](https://photo.sohu.com/2004/06/03/48/Img220374855.jpg)
+
+**来源：扬子晚报**  
+**时间：2004年06月03日13:14**  
+**作者：双江**
+
+本报讯　因不堪社会的误解和歧视，山东人高婷婷于近日来到南京东方医院，请医院帮他完成转变性别的梦想。记者昨从南京东方医院了解到，该院已接纳高婷婷住进病房，并将减免大部分手术费用，以帮他实现做一个“真女人”的愿望。
+
+记者昨在南京东方医院整形美容中心病房见到了高婷婷。身高1.73米的高婷婷长发齐肩，穿着时髦。他告诉记者，自己今年30岁，山东沂蒙山区人。原来的名字是男性用名，“高婷婷”这个名字是后改的。长期以来他在心理上一直觉得自己是个女性，1998年，他开始着女装生活，然而，外貌和衣着的不协调却给他带来了无穷的烦恼。
+
+南京东方医院整形美容中心吴坚主任医师告诉记者，实现高婷婷的愿望要实行“三级跳”，首先对高婷婷的脸部进行修整，把宽大的下颌角削窄，把脸部的凹陷填平，再把额头的皱纹去除，使其更有女人味儿；第二步是对高婷婷的胸部和腰腹部进行整形，使其“长”出女性的乳房，腰身更纤细；第三步就是对高婷婷的生殖系统进行再造。这三步完成后，高婷婷就基本完成了男性向女性的转变。
+
+---
+
+**评论区:**
+
+用　　户：匿名发出：
+
+请各位遵纪守法并注意语言文明。
+
+---
+
+**版权申明:**  
+Copyright © 2005 Sohu.com Inc. All rights reserved.  
+[版权所有](https://www.sohu.com/about/copyright.html)
+<!-- tcd_original_link https://news.sohu.com/2004/06/03/48/news220374854.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_山东准变性人来宁求手术_图__-_新闻-_搜狐.md                             |
+| Size            | 1790 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -111,3 +111,29 @@ _微信截图_
 - [HuffPost](https://www.huffpost.com/entry/transgender-children-fighting-for-their-lives-state-legislation_n_607881e3e4b0293a7ee00ff8)
 - [纽约时报](https://www.nytimes.com/2022/06/15/magazine/gender-therapy.html)
 <!-- tcd_original_link https://www.piyaoba.org/surgeries-trans-children/ -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【假】美国变性手术增加13倍，长大后后悔已无法逆转？.md                             |
+| Size            | 14917 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

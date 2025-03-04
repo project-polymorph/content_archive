@@ -52,3 +52,29 @@
 
 因为服用药物，赛鲁阿·佳娅没有一般的男性特征，反而拥有了傲人的胸围。但是为了踢球，她现在还不能接受手术，因为手术之后她的男性特征将会完全消失，会影响到激素的分泌，从而减弱她的力量降低她的奔跑速度。作为美属萨摩亚的后防核心，她还有另外一个梦想——代表美属萨摩亚参加2018年俄罗斯世界杯预选赛，所以，只能再等待四年再去完成自己的女孩梦。
 <!-- tcd_original_link https://sports.sohu.com/20140521/n399823076.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sports_岛国变性球员效力男足“她”为世界杯推迟开刀_-_体育-_搜狐.md                             |
+| Size            | 6587 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

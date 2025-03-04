@@ -52,3 +52,29 @@
 
 [《购买须知》](https://www.163.com/special/0077450P/purchase_notes.html)  支付遇到问题 [提交反馈](https://www.163.com/special/0077jt/userfeedback.html)
 <!-- tcd_original_link https://www.163.com/dy/article/J6S0111G055662SZ.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_回顾：浙江首位“男变女”变性人结婚，后当“妈妈”，女儿今16岁_-_网易.md                             |
+| Size            | 6317 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

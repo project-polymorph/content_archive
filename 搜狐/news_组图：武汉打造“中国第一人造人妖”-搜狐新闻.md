@@ -24,3 +24,29 @@
 最大的希望是有男人真正地爱自己  
 莎莎对记者说，现在最大的希望是有男人真正地爱自己。莎莎告诉记者，他在泰国曾经经历过爱情，这使他无法忘怀。他希望在中国能找到自己的爱情，那个人不是看中自己的美艳和钱财。他还说，他愿意为自己所爱的人付出一切，必要时，他有可能选择性器官整形手术，在北京这个手术需要7万元人民币，做好了是可以过真正的夫妻生活的。
 <!-- tcd_original_link http://news.sohu.com/2004/04/05/14/news219741466.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_组图：武汉打造“中国第一人造人妖”-搜狐新闻.md                             |
+| Size            | 4160 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

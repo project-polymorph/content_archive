@@ -54,3 +54,29 @@
 - [全国首例女变男的变性人在四川领取结婚证(图)](http://news.sina.com.cn/s/2003-12-31/04261468777s.shtml)  2003/12/31 04:26:00  
 - [结婚后丈夫变性做女人 变性人遭遇离婚难题](http://news.sina.com.cn/s/2003-12-30/05232498907.shtml)  2003/12/30 05:23:51  
 <!-- tcd_original_link http://news.sina.com.cn/s/2004-01-06/13342560328.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_重庆男模变性后继续整容笑称自己仍是“处女”.md                             |
+| Size            | 8366 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

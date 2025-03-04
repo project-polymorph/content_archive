@@ -10,3 +10,29 @@
 
 标签：[离婚](http://search.ifeng.com/sofeng/search.action?c=1&q=%E7%A6%BB%E5%A9%9A) [金星](http://search.ifeng.com/sofeng/search.action?c=1&q=%E9%87%91%E6%98%9F) [前夫](http://search.ifeng.com/sofeng/search.action?c=1&q=%E5%89%8D%E5%A4%AB)
 <!-- tcd_original_link https://news.ifeng.com/a/20140814/41577630_3.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_变性舞蹈家金星与外籍前夫同现身恩爱依旧.md                             |
+| Size            | 1175 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

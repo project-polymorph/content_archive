@@ -25,3 +25,29 @@
 - · [泰国男子变性手术做一半 与台湾女子假结婚(图)](https://news.sohu.com/20130410/n372207083.shtml)
 - · [加拿大下院通过法案 初步规定歧视变性人属非法](https://news.sohu.com/20130321/n369681783.shtml)
 <!-- tcd_original_link http://news.sohu.com/20130419/n373258738.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_香港变性人被护士叫“先生”_觉被羞辱法院投诉_-_新闻-_搜狐.md                             |
+| Size            | 2210 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

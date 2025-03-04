@@ -14,3 +14,29 @@
 
 路透社称，自20世纪60年代美国民权运动以来，联邦政府利用自身权威强迫各个州将平等保护法案延伸至所有人群。11个州的诉讼书将民权法案的解释复杂化。美国《1972年教育法修正案》禁止在联邦资助的教育系统内有以性为基础的歧视行为。奥巴马政府的解释认为，“性”包括性别，更包括性别自我认同，所以保护可以延伸至变性人群体。地方法院一般青睐奥巴马政府的解释，而最高法院则倾向于狭义地理解。(冯国川)
 <!-- tcd_original_link https://www.chinanews.com.cn/m/gj/2016/05-27/7884857.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_美11州就变性人如厕起诉联邦政府白宫尚未回应.md                             |
+| Size            | 2892 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

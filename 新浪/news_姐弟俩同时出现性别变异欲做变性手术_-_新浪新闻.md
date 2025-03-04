@@ -26,3 +26,29 @@
 - [双性人成功接受变性手术以女人名义结婚](http://news.sina.com.cn/s/2006-08-09/06319696935s.shtml) 2006-08-09 06:31:51
 - [变性女子婚姻生活幸福讲述相夫经(图)](http://news.sina.com.cn/s/2006-08-07/223510654940.shtml) 2006-08-07 22:35:24
 <!-- tcd_original_link http://news.sina.com.cn/s/2006-09-19/063710053613s.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_姐弟俩同时出现性别变异欲做变性手术_-_新浪新闻.md                             |
+| Size            | 3328 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

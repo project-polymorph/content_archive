@@ -195,3 +195,29 @@ TA开始在大众面前表达自己，不再介怀别人眼光。“最早，别
 
 参考资料：方刚、朱雪琴主编，《男人的声音：16位“性别平等男”的演讲》。
 <!-- tcd_original_link https://www.facebook.com/bjlgbtcenter/posts/%E4%BA%BA%E7%89%A9%E8%AE%BF%E8%B0%88-%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A8%BF%E6%BA%90%E5%8D%97%E6%96%B9%E4%BA%BA%E7%89%A9%E5%91%A8%E5%88%8A-%E4%BD%9C%E8%80%85%E6%9C%AC%E5%88%8A%E8%AE%B0%E8%80%85-%E5%BD%AD%E8%8B%8F-%E9%82%93%E9%83%81-%E5%AE%9E%E4%B9%A0%E8%AE%B0%E8%80%85-%E6%9B%B9%E5%BF%86%E8%95%BE-%E9%BB%84%E6%98%95%E5%AE%87-%E6%9D%A8%E9%9D%99%E8%8C%B9-%E5%8F%91%E8%87%AA%E5%8C%97%E4%BA%AC-%E7%BC%96%E8%BE%91-%E9%83%91%E5%BB%B7%E9%91%AB-rwzkwenhua163com-/818418244884636/?locale=zh_CN -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【人物】访谈_跨性别者在中国稿源：南方人物周刊..._-_Beijing_LGBT_.md                             |
+| Size            | 33627 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -49,3 +49,29 @@
 
 中国科学院整形外科医院主任陈焕然博士告诉记者，患“易性癖”是一件非常不幸的事，而对他们最好的治疗就是进行变性手术，完成一个完整的变性手术大概需要两到三年的时间，光脸部就要做多达十多项的手术。与此同时带来的，是昂贵的手术费用，及手术之后维持性激素水平所需要长期服用的药物费用，光手术费用加起来就需要20万左右，这对于接受手术的人来说，无疑也是个不小的经济负担。因此想要成为一个真正的变性人绝非易事。变性手术是一门很复杂、很精细、外科整形手术要求很高的医学科学。同时，又不单纯是医学技术本身的问题。牵涉到医学、法律、道德、伦理、宗教及社会学等领域。国外称之为“性别工程”，从医学外科手术来说要解决四个方面的问题，每一个方面都是对医生的挑战，单纯从整形外科技术方面来说，性别重塑外科手术主要要解决以下四个方面的问题：面部轮廓的重塑，胸部的重塑，颈部的整形，以及会阴部的整形。由此可见这是一项十分复杂的系统工程，需要至少半年甚至几年的时间才能真正完成。
 <!-- tcd_original_link https://news.sina.com.cn/s/2006-02-15/09379106013.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_记者探访北京变性人：变性手术费用需20万左右.md                             |
+| Size            | 7531 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

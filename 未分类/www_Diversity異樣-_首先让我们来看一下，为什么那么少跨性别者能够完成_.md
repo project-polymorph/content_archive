@@ -19,3 +19,29 @@
 ![Image](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/464237832_3043636629110780_5614151356153812858_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=fMoj4vVFMxcQ7kNvgHOatr7&_nc_oc=Adirull8ph96eHZye5z_-AKVD0iMTbK49tHRHbiw1ejYEx0s1p-0LBmaN3cIvl-oSzU&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Ak1-rWs2GigpoQJMfSGEW8y&oh=00_AYAqb9FFDPEZoxzcL1kkgO6je-4pbhiaNmqZIaEuBn7Miw&oe=67AD625E)  
 
 <!-- tcd_original_link https://www.facebook.com/photo.php?fbid=1037103359764127&id=378514712289665&set=a.1037103303097466 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_Diversity異樣-_首先让我们来看一下，为什么那么少跨性别者能够完成_.md                             |
+| Size            | 2422 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

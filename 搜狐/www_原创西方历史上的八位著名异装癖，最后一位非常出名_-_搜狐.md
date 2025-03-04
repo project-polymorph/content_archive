@@ -48,3 +48,29 @@
 
 这个才是无人不知的故事。英法百年战争中，一个女孩听到来自“远方”的召唤，于是剪了头发，穿上男装，就这么成了法军的统帅。而且，还就是这个来自农村的女孩，让法军开始翻身，让百年战争改变了走势。
 <!-- tcd_original_link https://www.sohu.com/a/322513823_100182082 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_原创西方历史上的八位著名异装癖，最后一位非常出名_-_搜狐.md                             |
+| Size            | 3541 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

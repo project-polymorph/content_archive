@@ -26,3 +26,29 @@
 
 从1956年离家出走并申请离婚，直到1959年春天，卡罗琳才终于等到法院判决。4月23日伦敦的《每日邮报》刊登了两人离婚的消息：“二十七岁的吉尼斯女继承人卡罗琳·弗洛伊德与三十五岁的卢西安·弗洛伊德于今日在美国洛杉矶离婚。她在法庭上公开证实她丈夫说过对二人婚姻无论发生什么都无所谓之后，法庭以精神虐待为由准许了她的离婚诉求。”
 <!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_1379282 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_二十世纪最伟大的艺术家，分手只因一顿饭_-_澎湃新闻.md                             |
+| Size            | 5529 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -75,3 +75,29 @@
 [同志](https://www.inmediahk.net/taxonomy/term/501356)  
 [同性戀](https://www.inmediahk.net/taxonomy/term/501259)  
 <!-- tcd_original_link https://www.inmediahk.net/node/%E6%80%A7%E5%88%A5/%E3%80%90%E9%85%B7%E5%85%92%E5%87%BA%E7%89%88%E3%80%91%E3%80%8A%E6%98%8E%E5%BF%83%E8%A6%8B%E6%80%A7%EF%BC%9A%E9%A6%99%E6%B8%AF%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B9%B4%E6%96%87%E9%9B%86%E3%80%8B%E2%80%94-%E6%89%93%E7%A0%B4%E5%AA%92%E9%AB%94%E5%91%88%E7%8F%BE%E5%A5%97%E8%B7%AF%EF%BC%8C%E8%AE%93%E6%88%91%E5%80%91%E8%BF%B0%E8%AA%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%95%85%E4%BA%8B -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_【酷兒出版】《明心見性：香港跨性別青年文集》—_打破媒體呈現套路.md                             |
+| Size            | 12549 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

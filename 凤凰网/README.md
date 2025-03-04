@@ -16,7 +16,7 @@ search:
 标签: `多元性别`, `跨性别文化`, `伪娘`, `安迪·沃霍尔`, `性别认同`, `易性癖`, `心理治疗`, `未成年人变性手术`, `怀孕男性`, `电影`, `性别流动性`, `社会认同`
 
 
-总计 10 篇内容
+总计 58 篇内容
 
 
 
@@ -120,6 +120,393 @@ search:
 [news_美国怀孕男子更多生活照片曝光_组图_](news_美国怀孕男子更多生活照片曝光_组图_.md)<details><summary>查看摘要</summary>
 
 这篇文章来自凤凰网，报道了美国一位怀孕男子比提的生活照片与故事。比提在变性手术后与恋人南茜结婚，并为帮助南茜解决不孕问题而怀上了孩子。文章中提到，比提原为女性，经过变性手术后怀孕，成为第一位在美怀孕的变性男性。文章包括了比提和南茜的生活照片，以及对于他们未来孩子的期待。这则新闻不仅关注了比提的个人经历，也反映了多元性别人士的生存现状及家庭生活。
+</details>
+
+
+
+#### 时间未知，按收录顺序排列
+
+
+
+[culture_美国一对男女在同时接受变性手术后成情侣_图__-_读书](culture_美国一对男女在同时接受变性手术后成情侣_图__-_读书.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[h5_异装癖：男子喜欢穿女装是什么心理](h5_异装癖：男子喜欢穿女装是什么心理.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[inews_21岁小伙花43万元整容变性最后惊觉自己喜欢女人_-_凤凰网](inews_21岁小伙花43万元整容变性最后惊觉自己喜欢女人_-_凤凰网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[inews_您了解LES群体里性别角色的划分吗？](inews_您了解LES群体里性别角色的划分吗？.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网](inews_穿裙子的男孩：异装的快乐是成为自己而非穿女装_-_凤凰网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[mil_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥](mil_台湾省变性艺人利菁的爱情故事，老公是比自己小14岁的帅哥.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_17岁少女欲做变性手术家长疑其有女友_图_](news_17岁少女欲做变性手术家长疑其有女友_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道](news_42岁“最美变性人”河莉秀与丈夫离婚_资讯频道.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_2000名跨性别者被迫绝育荷兰政府道歉并赔偿每人3.9万元_-_凤凰网](news_2000名跨性别者被迫绝育荷兰政府道歉并赔偿每人3.9万元_-_凤凰网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_“我们想要一张真正的结婚证”_评论_-_凤凰网](news_“我们想要一张真正的结婚证”_评论_-_凤凰网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者](news_万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_中国刑法学“被变性”引争议司法部展开调查](news_中国刑法学“被变性”引争议司法部展开调查.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_俄罗斯规定变性人和跨性人不得领驾照称为了减少车祸](news_俄罗斯规定变性人和跨性人不得领驾照称为了减少车祸.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_全国首例男大学生完成丰胸手术公开变性_组图_](news_全国首例男大学生完成丰胸手术公开变性_组图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_变性手术多年后，一位终身共和党人决定投票给哈里斯](news_变性手术多年后，一位终身共和党人决定投票给哈里斯.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_变性男子获环球小姐最上镜奖父母怒砸美容院图](news_变性男子获环球小姐最上镜奖父母怒砸美容院图.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_变性舞蹈家金星与外籍前夫同现身恩爱依旧](news_变性舞蹈家金星与外籍前夫同现身恩爱依旧.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_台湾短跑名将曾是双性人变性成为女人退出体坛](news_台湾短跑名将曾是双性人变性成为女人退出体坛.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_台男子因变性手术致肢体残障医院被判赔173万](news_台男子因变性手术致肢体残障医院被判赔173万.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_回击第一夫人变性谣言，马克龙出面护妻](news_回击第一夫人变性谣言，马克龙出面护妻.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_大胡子“美女歌神”变身照曝光变性前是奶油小生_高清组图_](news_大胡子“美女歌神”变身照曝光变性前是奶油小生_高清组图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_女子支持父亲与丈夫一起变性三人成闺密_图_](news_女子支持父亲与丈夫一起变性三人成闺密_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_德国男议员任职期间变性成女子](news_德国男议员任职期间变性成女子.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌](news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_新西兰一举重选手成为首位参加奥运会的变性运动员](news_新西兰一举重选手成为首位参加奥运会的变性运动员.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_日本变性人选美皇后凯旋后推出首部写真集](news_日本变性人选美皇后凯旋后推出首部写真集.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_泰国人妖选美20岁佳丽娜蒂“艳冠群芳”_组图__-_凤凰网](news_泰国人妖选美20岁佳丽娜蒂“艳冠群芳”_组图__-_凤凰网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_泰国变性人选美大赛现场](news_泰国变性人选美大赛现场.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医](news_男子想变性花钱让人割睾丸“主刀网友”涉非法行医.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_男子相亲遇变性人恼羞成怒与女子当场掐架_组图_](news_男子相亲遇变性人恼羞成怒与女子当场掐架_组图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_维密迎首位变性模特高管曾因反对变性人代言被喷](news_维密迎首位变性模特高管曾因反对变性人代言被喷.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_美一高中200学生抗议变性人用女厕所：她还没做手术](news_美一高中200学生抗议变性人用女厕所：她还没做手术.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉](news_美国监狱拒绝为杀妻囚犯提供变性治疗被诉.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_英一杀手狱中变性成老太与女杀手相恋结婚_图_](news_英一杀手狱中变性成老太与女杀手相恋结婚_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_英国27岁帅哥军官变性成美女](news_英国27岁帅哥军官变性成美女.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_英国两男子相恋双双变性后步入婚姻殿堂（组图）](news_英国两男子相恋双双变性后步入婚姻殿堂（组图）.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_英国为性别认同障碍儿童提供药物辅助变性手术](news_英国为性别认同障碍儿童提供药物辅助变性手术.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_英国男子在泰国与变性人发生冲突被打倒_资讯频道](news_英国男子在泰国与变性人发生冲突被打倒_资讯频道.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_越南变性人裸体站警车旁引围观警方称其只是在秀身材](news_越南变性人裸体站警车旁引围观警方称其只是在秀身材.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_金星首次和母亲提变性时，母亲十分坦然的就接受了](news_金星首次和母亲提变性时，母亲十分坦然的就接受了.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_阿根廷变性人因在臀部注射工业硅胶死亡_图_](news_阿根廷变性人因在臀部注射工业硅胶死亡_图_.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[news_韩国28岁男子强奸变性人被判刑3年](news_韩国28岁男子强奸变性人被判刑3年.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[phtv_1978-2006_中国性解冻纪实（组图）_-_凤凰卫视](phtv_1978-2006_中国性解冻纪实（组图）_-_凤凰卫视.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[phtv_透过美艳的人妖品位泰国（组图）_-_凤凰卫视](phtv_透过美艳的人妖品位泰国（组图）_-_凤凰卫视.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[phtv_金星：变性手术使我面临终身残废被至亲陷害遭拘留_-_凤凰卫视](phtv_金星：变性手术使我面临终身残废被至亲陷害遭拘留_-_凤凰卫视.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[pit_经典奇幻喜剧冒险电影人妖宿缘未了的爱情故事结局美好吗_1](pit_经典奇幻喜剧冒险电影人妖宿缘未了的爱情故事结局美好吗_1.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[sports_盘点体坛变性人奥运史上少女脱光力证清白_图__-_体育](sports_盘点体坛变性人奥运史上少女脱光力证清白_图__-_体育.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
+</details>
+
+
+
+
+[yue_英国爆出首例“男妈妈”：30岁变性者产下一子_图__-_音乐-_凤凰网](yue_英国爆出首例“男妈妈”：30岁变性者产下一子_图__-_音乐-_凤凰网.md)<details><summary>查看摘要</summary>
+
+[Unknown description(update needed)]
 </details>
 
 

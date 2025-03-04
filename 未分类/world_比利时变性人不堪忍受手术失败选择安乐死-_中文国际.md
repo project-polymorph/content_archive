@@ -21,3 +21,29 @@
 - [韩国最美变性人河莉秀 变性前男儿身照片曝光](http://www.chinadaily.com.cn/dfpd/2013-04/11/content_16393674.htm)
 - [泰国“最美变性人”靓过大明星](http://www.chinadaily.com.cn/dfpd/2013-02/07/content_16212919.htm)
 <!-- tcd_original_link https://world.chinadaily.com.cn/2013-10/04/content_17009225.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | world_比利时变性人不堪忍受手术失败选择安乐死-_中文国际.md                             |
+| Size            | 2512 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

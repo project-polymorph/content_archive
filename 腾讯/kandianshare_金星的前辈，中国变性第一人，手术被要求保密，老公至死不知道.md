@@ -24,3 +24,29 @@
 
 后来的金星是幸运的，时代的发展社会接受了变性人，金星如今已经是事业有成吃喝不愁，并且有了疼爱自己的合法丈夫，这是这个社会对变性人肯定的一种体现，你认为通过手术变性的女人，算得上真正的女人吗，欢迎评论区留言。
 <!-- tcd_original_link https://kandianshare.html5.qq.com/v2/news/5804037049396916546?src_app=1&sGuid=00000000000000000000000000000000 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | kandianshare_金星的前辈，中国变性第一人，手术被要求保密，老公至死不知道.md                             |
+| Size            | 5982 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

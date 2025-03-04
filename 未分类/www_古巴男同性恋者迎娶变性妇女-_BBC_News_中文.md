@@ -37,3 +37,29 @@
 - [俄国警察逮捕同性恋大游行参与者](//zhongwen/simp/rolling_news/2011/06/110625_rolling_russia_gaypride)
 - [纽约州参议院通过同性婚姻法案](//zhongwen/simp/rolling_news/2011/06/110625_rolling_new_york_gay_marriage)
 <!-- tcd_original_link https://www.bbc.com/zhongwen/simp/world/2011/08/110814_cuba_gay_transgender_wedding -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_古巴男同性恋者迎娶变性妇女-_BBC_News_中文.md                             |
+| Size            | 2429 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

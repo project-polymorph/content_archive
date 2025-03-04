@@ -17,3 +17,29 @@
 
 本网所有内容，凡注明“来源：四川日报或四川在线（频道）”的所有文字、图片和音视频资料，版权均属四川日报网络传媒发展有限公司所有或独家授权发表，任何媒体、网站或个人未经本网协议授权不得转载、链接、转贴或以其他方式复制发布/发表。已经本网协议授权的媒体、网站，在下载使用时必须注明“稿件来源：四川日报或四川在线”，违者本网将依法追究责任。
 <!-- tcd_original_link https://sichuan.scol.com.cn/cddt/201602/54297691.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sichuan_给15岁少年做变性手术成都实习医生获刑赔偿65万_-_四川新闻.md                             |
+| Size            | 1834 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

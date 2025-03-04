@@ -80,3 +80,29 @@
 
 标签：[好莱坞深陷“包容性危机”](http://search.chinadaily.com.cn/searchcn.jsp?searchText=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E6%B7%B1%E9%99%B7%E2%80%9C%E5%8C%85%E5%AE%B9%E6%80%A7%E5%8D%B1%E6%9C%BA%E2%80%9D)
 <!-- tcd_original_link https://ent.chinadaily.com.cn/2016-03/23/content_24051865.htm -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ent_好莱坞深陷“包容性危机”_-_中国日报网_-_文化频道.md                             |
+| Size            | 5691 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

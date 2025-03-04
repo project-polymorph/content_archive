@@ -22,3 +22,29 @@ CBC表示，Mackenzie发布的比赛片段「是经过编辑的，并没有确�
 
 CBC则表示，「我们相信跨性别选手参加女子大学的议题，是复杂与重要的讨乱。这是全世界运动主管单位都难以应对的议题。」
 <!-- tcd_original_link https://m.163.com/news/article/JG02B5NE0549VVJM.html?clickfrom=subscribe -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_跨性别女篮球员控被暴力对待，对手球队称一面之词，视频被剪辑了.md                             |
+| Size            | 3056 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

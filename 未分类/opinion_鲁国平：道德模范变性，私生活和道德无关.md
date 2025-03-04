@@ -26,3 +26,29 @@
 - [全国道德模范变性做女人 揭娱乐圈变性女星](http://js.people.com.cn/n/2014/0815/c360313-21999682.html)
 - [鸣轩：道德模范缘何与道德“后会无期”](http://opinion.people.com.cn/n/2014/0807/c159301-25422067.html)
 <!-- tcd_original_link http://opinion.people.com.cn/n/2014/0819/c159301-25492681.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | opinion_鲁国平：道德模范变性，私生活和道德无关.md                             |
+| Size            | 4332 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

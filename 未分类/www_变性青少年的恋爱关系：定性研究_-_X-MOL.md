@@ -52,3 +52,29 @@ TGNC adolescents are engaged in romantic experiences before and during social an
 **版权:** Copyright © 2014-2025 北京衮雪科技有限公司 All Rights Reserved  
 [京ICP备11026495号-2](https://beian.miit.gov.cn/)    [京公网安备 11010802027423号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027423)
 <!-- tcd_original_link https://www.x-mol.com/paper/1351633314203332608/t -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_变性青少年的恋爱关系：定性研究_-_X-MOL.md                             |
+| Size            | 4235 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

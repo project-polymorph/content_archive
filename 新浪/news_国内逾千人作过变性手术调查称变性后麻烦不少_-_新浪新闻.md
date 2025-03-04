@@ -35,3 +35,29 @@
 
 尽管现在医学能够实现变性手术，但变性不是儿戏。从临床来看，其成因多是心理的，因此变性手术，既不是首选也不是唯一的治疗方法。心理疏导才是治疗“易性癖”的首选，对变性手术必须慎之又慎，不可轻易而行。本报记者曹玉斌
 <!-- tcd_original_link http://news.sina.com.cn/s/2005-01-13/23565537990.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_国内逾千人作过变性手术调查称变性后麻烦不少_-_新浪新闻.md                             |
+| Size            | 4750 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

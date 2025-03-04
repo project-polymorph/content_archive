@@ -68,3 +68,29 @@
 - [武术搏击赛将开战 泰国变性拳王有望来重庆助阵](https://sports.sohu.com/20100310/n270709384.shtml)
 - [泰国变性拳王将现山城重庆 为"六大天王"助阵](https://sports.sohu.com/20100310/n270701025.shtml)
 <!-- tcd_original_link https://sports.sohu.com/20101211/n278234357.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | sports_变性拳王女性特征超中国女将经历曾被拍成电影_-_体育.md                             |
+| Size            | 5934 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -91,3 +91,29 @@ Patrick在婴儿时便在爱尔兰家乡的小城中被父母抛弃，后被神�
 
 推荐阅读：今日头条：《这些电影中，总有一种性别，需要被认可》（跨性别元素佳片列表）Geena Rocero：TED’s Talk——Why I must come out生不逢时：评同志电影《基佬四十》熊一丹：《网络社区与跨性别者的身份认同——以Facebook某跨性别者小组为例》于洪冈：《论西方现代女性作家的反异化诉求———以“性别跨越者”卡森·麦卡勒斯及其作品人物为例》
 <!-- tcd_original_link https://freewechat.com/a/MzA5ODY2NDIyNQ==/401992472/1 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | freewechat_【我写性别】电影中的“跨性别”元素_-_自由微信.md                             |
+| Size            | 9598 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

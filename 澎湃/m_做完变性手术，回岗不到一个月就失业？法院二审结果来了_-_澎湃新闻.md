@@ -63,3 +63,29 @@
 
 今日方知我是我，这是马敏的个性签名，这是《水浒传》中鲁智深圆寂时说的话，“钱塘江上潮信来，今日方知我是我”。我住在钱塘江边，之前掩饰性别身份的时候，打扮得也非常像鲁智深，但现在做了手术，做回了真正的自己。我认为，只要心里坦荡，就不会被外界的目光困扰，“希望像我一样的人们都能阳光的在社会上立足。”
 <!-- tcd_original_link https://m.thepaper.cn/newsDetail_forward_7616016 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | m_做完变性手术，回岗不到一个月就失业？法院二审结果来了_-_澎湃新闻.md                             |
+| Size            | 8157 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

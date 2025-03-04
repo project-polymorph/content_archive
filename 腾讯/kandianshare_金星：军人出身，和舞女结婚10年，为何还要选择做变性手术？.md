@@ -230,3 +230,29 @@
 
 “我不惧怕娱乐圈里任何手段，不是因为我背后有人，而是因为我不靠娱乐圈吃饭，我是全中国最大的行为艺术，我这一生都在做一个行为艺术，一直到我死为止，我会用我的生命，我的作品来做人！”
 <!-- tcd_original_link https://kandianshare.html5.qq.com/v2/news/3660342404825508162?src_app=1&sGuid=00000000000000000000000000000000 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | kandianshare_金星：军人出身，和舞女结婚10年，为何还要选择做变性手术？.md                             |
+| Size            | 16873 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -34,3 +34,29 @@
 
 于淼说，从幼稚园便开始执行”多元性别教育”， 教导4丶5岁的小孩否定自己的生理性别，必须去追寻和尝试”多元性别”，且每年需更加深加强教材内容，这无异是”洗脑”。
 <!-- tcd_original_link https://www.sohu.com/a/307388694_120044931 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_家长批“多元性别教育”是洗脑_手机搜狐网.md                             |
+| Size            | 3735 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

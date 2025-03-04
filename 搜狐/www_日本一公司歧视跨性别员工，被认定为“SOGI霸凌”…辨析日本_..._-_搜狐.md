@@ -84,3 +84,29 @@ SOGI，是**Sexual Orientation（性取向） and Gender Identity（性认同）
 
 而作为旁观者的漠不关心高高挂起，比如觉得“sogiハラ”与自己无关，很多时候可能会变相助长其他类型的霸凌和歧视。
 <!-- tcd_original_link https://www.sohu.com/a/606724547_121124309 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_日本一公司歧视跨性别员工，被认定为“SOGI霸凌”…辨析日本_..._-_搜狐.md                             |
+| Size            | 5847 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

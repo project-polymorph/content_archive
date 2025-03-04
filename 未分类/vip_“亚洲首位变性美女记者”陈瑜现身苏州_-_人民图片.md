@@ -25,3 +25,29 @@
 **来源：** 人民图片网  
 **版权：** 人民网股份有限公司版权所有，未经书面授权禁止使用  Copyright © 1997-2024 by www.people.com.cn. all rights reserved
 <!-- tcd_original_link http://vip.people.com.cn/albumsDetail?aid=601163&pid=4026579 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | vip_“亚洲首位变性美女记者”陈瑜现身苏州_-_人民图片.md                             |
+| Size            | 2253 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

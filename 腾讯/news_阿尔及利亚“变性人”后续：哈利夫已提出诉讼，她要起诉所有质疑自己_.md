@@ -71,3 +71,29 @@
 
 - 福建网友: 我觉得把生理特征是男是女无所谓，关键是基因的问题，性染色体是xy本来就会具备男性的力量，速度特征。这是无法争辩的事实，这会对全世界的女性不公平，而体育最要讲究的就是公平原则。
 <!-- tcd_original_link https://news.qq.com/rain/a/20240813A09MP800 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_阿尔及利亚“变性人”后续：哈利夫已提出诉讼，她要起诉所有质疑自己_.md                             |
+| Size            | 5299 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

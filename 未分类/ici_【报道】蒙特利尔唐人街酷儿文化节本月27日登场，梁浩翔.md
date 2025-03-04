@@ -60,3 +60,29 @@
 2023年9月，梁浩翔和异装皇后团体在唐人街家基金会活动上表演。  
 照片：Radio-Canada / Rachel Cheng  
 <!-- tcd_original_link https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/2089212/%E5%94%90%E4%BA%BA%E8%A1%97-%E9%85%B7%E5%84%BF%E6%96%87%E5%8C%96%E8%8A%82-%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | ici_【报道】蒙特利尔唐人街酷儿文化节本月27日登场，梁浩翔.md                             |
+| Size            | 4443 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

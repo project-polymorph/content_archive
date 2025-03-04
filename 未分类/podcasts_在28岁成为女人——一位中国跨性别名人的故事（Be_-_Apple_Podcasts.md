@@ -38,3 +38,29 @@
 
 - 本集内容可能在某些国家或地区无法通过网页浏览器播放。
 <!-- tcd_original_link https://podcasts.apple.com/ru/podcast/%E7%AC%AC38%E9%9B%86-%E5%9C%A828%E5%B2%81%E6%88%90%E4%B8%BA%E5%A5%B3%E4%BA%BA-%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%90%8D%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B-being-transgender-and/id1630748801?i=1000636862559 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | podcasts_在28岁成为女人——一位中国跨性别名人的故事（Be_-_Apple_Podcasts.md                             |
+| Size            | 2089 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

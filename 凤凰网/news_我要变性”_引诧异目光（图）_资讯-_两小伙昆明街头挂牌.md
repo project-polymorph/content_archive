@@ -40,3 +40,29 @@
 
 梁志中认为，如果能排除这两个小伙是在搞笑，或者是在玩行为艺术，而确实是患有易性癖，决心要做手术变性，又没有给社会造成其他麻烦，对于他们变性的要求，是可以认同的。因为通过变性，可以解决他们深层次心理涉及到的社会性别认同问题。
 <!-- tcd_original_link https://news.ifeng.com/society/4/200905/0518_346_1162089.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | news_我要变性”_引诧异目光（图）_资讯-_两小伙昆明街头挂牌.md                             |
+| Size            | 4680 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

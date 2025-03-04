@@ -26,3 +26,29 @@
 
 © 1997-2025 网易公司版权所有 | [About NetEase](https://corp.163.com/) | [公司简介](https://corp.163.com/gb/about/overview.html) | [联系方法](https://corp.163.com/gb/contactus.html) | [招聘信息](https://corp.163.com/gb/job/job.html) | [客户服务](https://help.163.com/) | [隐私政策](https://corp.163.com/gb/legal.html) | [不良信息举报 Complaint Center](https://www.163.com/special/0077jt/tipoff.html) | [廉正举报](https://jubao.163.com/) | [侵权投诉](https://corp.163.com/special/008397U0/reporting_infringements.html)
 <!-- tcd_original_link https://www.163.com/v/video/VKH8816ND.html -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_父亲为了给女儿报仇，要给男友做变性手术_-_网易.md                             |
+| Size            | 4397 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

@@ -41,3 +41,29 @@
 
 成为女性之后，刘婷没有停下自己的脚步，这么多年，她得到了社会各界的许多帮助，她也是从事着公益活动，同时她将自己的新书的版权收入的一半用来捐赠贫困山区的儿童助学。她的美也得到了社会的认可。
 <!-- tcd_original_link https://www.sohu.com/a/849808262_121626697 -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | www_那位“背母上学”感动中国，却在28岁做变性手术的刘霆，现怎样了_-_搜狐.md                             |
+| Size            | 4477 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。

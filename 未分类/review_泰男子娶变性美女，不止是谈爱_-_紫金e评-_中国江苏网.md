@@ -30,3 +30,29 @@ Ladyboy是泰国比较多人，18岁到25岁是人妖最美丽的时候，也是
 - [捡了别人的钱，丢了自己的脸](./t20170508_469548.shtml)
 - [醉驾司机疯狂冲卡，不会每次都好运](./t20170508_469538.shtml)
 <!-- tcd_original_link http://review.jschina.com.cn/redianhuati/201705/t20170508_469554.shtml -->
+
+
+## 摘要与附加信息
+
+<!-- tcd_abstract -->
+[Unknown description(update needed)]
+<!-- tcd_abstract_end -->
+
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请协助编辑指正，不胜感激。
+
+### 附加信息 [Processed Page Metadata]
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | review_泰男子娶变性美女，不止是谈爱_-_紫金e评-_中国江苏网.md                             |
+| Size            | 3657 bytes                           |
+| Archived Date   | 2025-03-04                             |
+| Original Link   | [Unknown link(update needed)]                       |
+| Author          | [Unknown author(update needed)]                               |
+| Region          | [Unknown region(update needed)]                               |
+| Date            | [Unknown date(update needed)]                                 |
+| Tags            | [Unknown tags(update needed)]                                 |
+| Evaluation            | [Unknown type(update needed)]                                 |
+<!-- tcd_table_end -->
+
+本文由多元性别中文数字档案馆归档整理，仅供浏览。版权归原作者所有。
